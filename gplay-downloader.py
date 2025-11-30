@@ -6,10 +6,11 @@ A CLI tool to download APKs from Google Play Store using anonymous authenticatio
 Based on the same API that AuroraStore uses.
 
 Usage:
-    ./gplay-downloader.py auth              # Authenticate (anonymous mode)
-    ./gplay-downloader.py search "whatsapp" # Search for apps
-    ./gplay-downloader.py info com.whatsapp # Get app info
-    ./gplay-downloader.py download com.whatsapp # Download APK
+    ./gplay-downloader.py auth                    # Authenticate (anonymous mode)
+    ./gplay-downloader.py search "whatsapp"       # Search for apps
+    ./gplay-downloader.py info com.whatsapp       # Get app info
+    ./gplay-downloader.py download com.whatsapp   # Download APK
+    ./gplay-downloader.py download com.app --merge --arch arm64  # Download merged APK
 
 Requirements:
     pip install cloudscraper requests protobuf
@@ -21,6 +22,9 @@ import argparse
 import json
 import os
 import sys
+import subprocess
+import tempfile
+import shutil
 from pathlib import Path
 from urllib.parse import urlencode
 
@@ -89,6 +93,76 @@ DEFAULT_DEVICE = {
 }
 
 AUTH_FILE = Path.home() / ".gplay-auth.json"
+SCRIPT_DIR = Path(__file__).parent
+
+# Architecture mapping
+ARCH_MAP = {
+    'arm64': 'arm64-v8a',
+    'arm64-v8a': 'arm64-v8a',
+    'armv7': 'armeabi-v7a',
+    'armeabi-v7a': 'armeabi-v7a',
+    'arm': 'armeabi-v7a',
+}
+
+
+def merge_apks_with_apkeditor(base_path, split_paths, output_path):
+    """Use APKEditor to merge split APKs."""
+    apkeditor_jar = SCRIPT_DIR / 'APKEditor.jar'
+    if not apkeditor_jar.exists():
+        raise FileNotFoundError(f"APKEditor.jar not found at {apkeditor_jar}")
+
+    work_dir = tempfile.mkdtemp(prefix='apk_merge_')
+    try:
+        # Copy base APK
+        shutil.copy(base_path, os.path.join(work_dir, 'base.apk'))
+
+        # Copy split APKs
+        for i, split_path in enumerate(split_paths):
+            shutil.copy(split_path, os.path.join(work_dir, f'split{i}.apk'))
+
+        # Run APKEditor merge
+        result = subprocess.run(
+            ['java', '-jar', str(apkeditor_jar), 'm', '-i', work_dir, '-o', output_path],
+            capture_output=True, text=True, timeout=300
+        )
+
+        if result.returncode != 0:
+            raise Exception(f"APKEditor failed: {result.stderr}")
+
+        return True
+    finally:
+        shutil.rmtree(work_dir, ignore_errors=True)
+
+
+def sign_apk(apk_path):
+    """Sign an APK using apksigner with debug keystore."""
+    keystore = Path.home() / '.android' / 'debug.keystore'
+    if not keystore.exists():
+        print("Warning: Debug keystore not found, APK will be unsigned")
+        return False
+
+    if not shutil.which('apksigner'):
+        print("Warning: apksigner not found, APK will be unsigned")
+        return False
+
+    signed_path = str(apk_path) + '.signed'
+    cmd = [
+        'apksigner', 'sign',
+        '--ks', str(keystore),
+        '--ks-pass', 'pass:android',
+        '--key-pass', 'pass:android',
+        '--out', signed_path,
+        str(apk_path)
+    ]
+
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+
+    if result.returncode == 0 and os.path.exists(signed_path):
+        os.replace(signed_path, apk_path)
+        return True
+    else:
+        print(f"Warning: Signing failed: {result.stderr}")
+        return False
 
 
 def format_size(size_bytes):
@@ -317,7 +391,13 @@ def cmd_download(args):
         return 1
 
     package = args.package
+    arch = ARCH_MAP.get(args.arch, 'arm64-v8a') if args.arch else 'arm64-v8a'
+    should_merge = args.merge
+
     print(f"Preparing to download: {package}")
+    print(f"Architecture: {arch}")
+    if should_merge:
+        print("Will merge split APKs into single APK")
 
     try:
         from gpapi import googleplay_pb2
@@ -430,18 +510,51 @@ def cmd_download(args):
         print(f"Saved: {filepath}")
 
         # Download split APKs if any
+        split_files = []
         for i, split in enumerate(delivery_data.split):
             if split.downloadUrl:
-                split_filename = f"{package}-{version_code}-split{i}.apk"
+                split_name = split.name if split.name else f"split{i}"
+                split_filename = f"{package}-{version_code}-{split_name}.apk"
                 split_filepath = output_dir / split_filename
                 print(f"Downloading split: {split_filename}")
 
-                split_response = requests.get(split.downloadUrl, stream=True, timeout=60)
+                split_response = requests.get(split.downloadUrl, stream=True, timeout=120)
                 with open(split_filepath, 'wb') as f:
                     for chunk in split_response.iter_content(chunk_size=8192):
                         if chunk:
                             f.write(chunk)
                 print(f"Saved: {split_filepath}")
+                split_files.append(split_filepath)
+
+        # Merge if requested and there are splits
+        if should_merge and split_files:
+            print()
+            print("Merging APKs...")
+            merged_filename = f"{package}-{version_code}-merged.apk"
+            merged_filepath = output_dir / merged_filename
+
+            try:
+                merge_apks_with_apkeditor(filepath, split_files, str(merged_filepath))
+                print(f"Merged: {merged_filepath}")
+
+                print("Signing merged APK...")
+                if sign_apk(merged_filepath):
+                    print("APK signed successfully")
+
+                # Clean up individual files
+                print("Cleaning up split files...")
+                os.remove(filepath)
+                for sf in split_files:
+                    os.remove(sf)
+
+                print()
+                print(f"Final APK: {merged_filepath}")
+            except Exception as e:
+                print(f"Merge failed: {e}")
+                print("Individual APK files have been kept.")
+        elif not split_files:
+            print()
+            print("No splits - APK has original signature")
 
         print()
         print("Download complete!")
@@ -464,10 +577,13 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  %(prog)s auth                    # Authenticate (anonymous)
-  %(prog)s search "whatsapp"       # Search for apps
-  %(prog)s info com.whatsapp       # Get app details
-  %(prog)s download com.whatsapp   # Download APK
+  %(prog)s auth                              # Authenticate (anonymous)
+  %(prog)s search "whatsapp"                 # Search for apps
+  %(prog)s info com.whatsapp                 # Get app details
+  %(prog)s download com.whatsapp             # Download APK (arm64)
+  %(prog)s download com.app -a armv7         # Download for older phones
+  %(prog)s download com.app -m               # Download and merge splits
+  %(prog)s download com.app -m -a armv7      # Merge for armv7
         """
     )
 
@@ -491,6 +607,10 @@ Examples:
     download_parser.add_argument('package', help='Package name (e.g., com.whatsapp)')
     download_parser.add_argument('-o', '--output', default='.', help='Output directory')
     download_parser.add_argument('-v', '--version', type=int, help='Specific version code')
+    download_parser.add_argument('-a', '--arch', choices=['arm64', 'armv7'], default='arm64',
+                                help='Architecture: arm64 (default) or armv7')
+    download_parser.add_argument('-m', '--merge', action='store_true',
+                                help='Merge split APKs into single installable APK')
 
     args = parser.parse_args()
 
