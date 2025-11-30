@@ -171,14 +171,19 @@
       $('#info-result').innerHTML = '';
 
       const el = $('#info-result');
+      // Read arch fresh from dropdown EVERY time
       const arch = $('#arch-select').value;
       const shouldMerge = $('#merge-apks').checked;
 
-      el.innerHTML = '<div class="loading"><span class="spin"></span>Preparing...<br><button class="sec" onclick="stopDownload()" style="margin-top:10px">Stop</button></div>';
+      console.log('dl() called with pkg=' + pkg + ', arch=' + arch);
+
+      el.innerHTML = '<div class="loading"><span class="spin"></span>Preparing (' + arch + ')...<br><button class="sec" onclick="stopDownload()" style="margin-top:10px">Stop</button></div>';
 
       // Use streaming endpoint that tries unlimited tokens, with arch parameter and cache buster
       const cacheBuster = Date.now();
-      downloadEventSource = new EventSource('/api/download-info-stream/' + encodeURIComponent(pkg) + '?arch=' + arch + '&_=' + cacheBuster);
+      const url = '/api/download-info-stream/' + encodeURIComponent(pkg) + '?arch=' + arch + '&_=' + cacheBuster;
+      console.log('EventSource URL: ' + url);
+      downloadEventSource = new EventSource(url);
 
       downloadEventSource.onmessage = function(event) {
         const d = JSON.parse(event.data);
@@ -196,10 +201,14 @@
           const totalFiles = 1 + (d.splits?.length || 0);
 
           const archLabel = arch === 'arm64-v8a' ? 'ARM64' : 'ARMv7';
+          // Show which splits were returned to verify correct arch
+          const splitNames = d.splits ? d.splits.map(s => s.name).join(', ') : 'none';
+          console.log('Received splits: ' + splitNames);
+
           let html = '<div class="msg ok"><strong>' + d.title + '</strong><br>Version: ' + d.version + ' | ' + archLabel + '<br>Size: ' + d.size;
           html += '<br><small>Found working token after ' + d.attempt + ' attempts</small>';
           if (hasSplits) {
-            html += '<br><strong>' + totalFiles + ' APK files</strong> (1 base + ' + d.splits.length + ' splits)';
+            html += '<br><strong>' + totalFiles + ' APK files</strong>: ' + splitNames;
           }
           html += '</div>';
 
@@ -245,12 +254,17 @@
         mergeEventSource = null;
       }
 
+      // Read arch fresh from dropdown EVERY time
       const arch = $('#arch-select').value;
+      console.log('downloadMerged() called with pkg=' + pkg + ', arch=' + arch);
+
       const progressEl = $('#download-progress');
-      progressEl.innerHTML = '<div class="msg info"><span class="spin"></span>Starting merge process...</div>';
+      progressEl.innerHTML = '<div class="msg info"><span class="spin"></span>Starting merge (' + arch + ')...</div>';
 
       const cacheBuster = Date.now();
-      mergeEventSource = new EventSource('/api/download-merged-stream/' + encodeURIComponent(pkg) + '?arch=' + arch + '&_=' + cacheBuster);
+      const url = '/api/download-merged-stream/' + encodeURIComponent(pkg) + '?arch=' + arch + '&_=' + cacheBuster;
+      console.log('Merge EventSource URL: ' + url);
+      mergeEventSource = new EventSource(url);
 
       mergeEventSource.onmessage = function(event) {
         const d = JSON.parse(event.data);
