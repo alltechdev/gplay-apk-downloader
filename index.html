@@ -39,6 +39,7 @@
       display: flex; align-items: center; padding: 16px; background: #0f3460;
       border-radius: 12px; margin-bottom: 12px; gap: 12px; flex-wrap: wrap;
     }
+    .app-icon { width: 48px; height: 48px; border-radius: 10px; object-fit: cover; background: #1a1a2e; flex-shrink: 0; }
     .app-info { flex: 1; min-width: 150px; }
     .app-info h3 { font-size: 1em; margin-bottom: 4px; }
     .app-info .pkg { font-size: 0.8em; color: #888; word-break: break-all; }
@@ -104,9 +105,10 @@
         if (d.error) { el.innerHTML = '<div class="msg err">' + d.error + '</div>'; return; }
         if (!d.results?.length) { el.innerHTML = '<div class="msg info">No results</div>'; return; }
         el.innerHTML = d.results.map(a =>
-          '<div class="app-item"><div class="app-info"><h3>' + a.package + '</h3><div class="pkg">' + a.package + '</div></div>' +
-          '<div class="app-actions"><button class="sec" onclick="sel(\'' + a.package + '\')">Select</button>' +
-          '<button onclick="dl(\'' + a.package + '\')">Download</button></div></div>'
+          '<div class="app-item">' +
+          (a.icon ? '<img class="app-icon" src="' + a.icon + '" alt="">' : '') +
+          '<div class="app-info"><h3>' + (a.title || a.package) + '</h3><div class="pkg">' + a.package + '</div></div>' +
+          '<div class="app-actions"><button onclick="dl(\'' + a.package + '\')">Download</button></div></div>'
         ).join('');
       } catch(e) { el.innerHTML = '<div class="msg err">' + e + '</div>'; }
     }
@@ -195,8 +197,7 @@
           } else if (hasSplits) {
             html += '<button onclick="downloadAll()">Download ZIP</button>';
           } else {
-            html += '<a href="' + d.downloadUrl + '" download="' + d.filename + '"><button>Download Direct</button></a>';
-            html += '<a href="/download/' + encodeURIComponent(pkg) + '"><button class="sec">Via Server</button></a>';
+            html += '<a href="' + d.downloadUrl + '" download="' + d.filename + '"><button>Download</button></a>';
           }
           html += '</div></div>';
 

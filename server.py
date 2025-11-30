@@ -609,14 +609,82 @@ def search():
         )
         html = response.text
 
-        matches = re.findall(r'href="/store/apps/details\?id=([^"&]+)"', html)
-        seen = set()
         results = []
+        seen = set()
 
-        for pkg in matches:
+        def decode_html(text):
+            return text.replace('&amp;', '&').replace('&#39;', "'").replace('&quot;', '"')
+
+        def decode_json(text):
+            return text.replace('\\u0026', '&').replace("\\u0027", "'").replace('\\u003d', '=')
+
+        def upgrade_icon(url):
+            url = re.sub(r'=s\d+', '=s128', url)
+            url = re.sub(r'=w\d+', '=s128', url)
+            return url
+
+        # Method 1: Try HTML patterns first (some pages use these)
+        # Featured app (class="vWM94c" for title)
+        featured = re.search(
+            r'href="/store/apps/details\?id=([^"&]+)"[^>]*>.*?'
+            r'<img[^>]*src="(https://play-lh\.googleusercontent\.com/[^"]+)"[^>]*>.*?'
+            r'<div class="vWM94c">([^<]+)</div>',
+            html, re.DOTALL
+        )
+        if featured:
+            pkg, icon, title = featured.groups()
+            if pkg not in seen:
+                seen.add(pkg)
+                results.append({
+                    'package': pkg,
+                    'title': decode_html(title),
+                    'icon': upgrade_icon(icon)
+                })
+
+        # Related apps (class="Epkrse" for title)
+        for match in re.finditer(
+            r'href="/store/apps/details\?id=([^"&]+)"[^>]*>.*?'
+            r'<img[^>]*src="(https://play-lh\.googleusercontent\.com/[^"=]+=[sw]\d+[^"]*)"[^>]*>.*?'
+            r'class="Epkrse\s*">([^<]+)</div>',
+            html, re.DOTALL
+        ):
+            pkg, icon, title = match.groups()
             if pkg not in seen and len(results) < 10:
                 seen.add(pkg)
-                results.append({'package': pkg})
+                results.append({
+                    'package': pkg,
+                    'title': decode_html(title),
+                    'icon': upgrade_icon(icon)
+                })
+
+        # Method 2: If HTML patterns didn't work, try embedded JSON data
+        if len(results) < 3:
+            # Find packages in JSON format: [["com.package.name",7],[null,2,...
+            packages = re.findall(r'\[\["(com\.[a-zA-Z0-9_.]+)",7\],\[null,2', html)
+            for pkg in packages:
+                if pkg in seen or len(results) >= 10:
+                    continue
+
+                # Find title: package...],..."Title",[rating
+                title_pattern = rf'\[\["{re.escape(pkg)}",7\].*?\],"([^"]+)",\["[0-9.]+",\s*[0-9.]+'
+                title_match = re.search(title_pattern, html)
+
+                # Find icon right after package: [["pkg",7],[null,2,null/[size],[null,null,"URL"]
+                icon_pattern = rf'\[\["{re.escape(pkg)}",7\],\[null,2,(?:null|\[[0-9]+,[0-9]+\]),\[null,null,"(https://play-lh\.googleusercontent\.com/[^"]+)"\]'
+                icon_match = re.search(icon_pattern, html)
+
+                if title_match:
+                    seen.add(pkg)
+                    title = decode_json(title_match.group(1))
+                    icon = None
+                    if icon_match:
+                        icon = decode_json(icon_match.group(1))
+                        icon = upgrade_icon(icon)
+                    results.append({
+                        'package': pkg,
+                        'title': title,
+                        'icon': icon
+                    })
 
         return jsonify({'results': results})
     except Exception as e:
