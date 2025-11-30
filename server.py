@@ -498,6 +498,37 @@ def download_info_stream(pkg):
     def generate():
         attempt = 0
 
+        # First try cached token
+        cached = get_cached_auth()
+        if cached:
+            yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Trying cached token...'})}\n\n"
+            try:
+                info = get_download_info(pkg, cached)
+                if 'error' not in info:
+                    logger.info(f"Cached token worked for {pkg}")
+                    result = {
+                        'type': 'success',
+                        'attempt': 0,
+                        'filename': info['filename'],
+                        'title': info['title'],
+                        'version': info['versionString'],
+                        'versionCode': info['versionCode'],
+                        'size': format_size(info['downloadSize']),
+                        'downloadUrl': info['downloadUrl'],
+                        'cookies': info['cookies'],
+                        'splits': [{
+                            'filename': f"{pkg}-{info['versionCode']}-{s['name']}.apk",
+                            'name': s['name'],
+                            'downloadUrl': s['downloadUrl']
+                        } for s in info['splits']]
+                    }
+                    yield f"data: {json.dumps(result)}\n\n"
+                    return
+                else:
+                    yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token failed, trying new tokens...'})}\n\n"
+            except Exception as e:
+                yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': f'Cached token error: {str(e)[:30]}'})}\n\n"
+
         while True:
             attempt += 1
 
