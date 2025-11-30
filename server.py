@@ -82,7 +82,7 @@ DEFAULT_DEVICE = {
     'SimOperator': '38',
 }
 
-SUPPORTED_ARCHS = ['arm64-v8a', 'armeabi-v7a', 'x86_64', 'x86']
+SUPPORTED_ARCHS = ['arm64-v8a', 'armeabi-v7a']
 
 
 def get_device_config(arch='arm64-v8a'):
@@ -912,8 +912,10 @@ def download_merged_stream(pkg):
             yield f"data: {json.dumps({'type': 'error', 'message': 'Failed to get download info'})}\n\n"
             return
 
-        total_files = 1 + len(info.get('splits', []))
-        yield f"data: {json.dumps({'type': 'progress', 'step': 'download', 'message': f'Downloading base APK (1/{total_files})...', 'current': 1, 'total': total_files})}\n\n"
+        splits = info.get('splits', [])
+        total_files = 1 + len(splits)
+
+        yield f"data: {json.dumps({'type': 'progress', 'step': 'download', 'message': f'Downloading APK...', 'current': 1, 'total': total_files})}\n\n"
 
         cookie_header = '; '.join([f"{c['name']}={c['value']}" for c in info.get('cookies', [])])
         headers = {'Cookie': cookie_header} if cookie_header else {}
@@ -925,8 +927,20 @@ def download_merged_stream(pkg):
                 return
             base_apk = base_resp.content
 
+            # If no splits, return original APK without merging/signing
+            if not splits:
+                file_id = str(uuid.uuid4())
+                TEMP_APKS[file_id] = {
+                    'data': base_apk,
+                    'filename': info['filename'],
+                    'created': time.time()
+                }
+                yield f"data: {json.dumps({'type': 'success', 'download_id': file_id, 'filename': info['filename'], 'original': True})}\n\n"
+                return
+
+            # Download splits
             splits_data = []
-            for i, split in enumerate(info.get('splits', [])):
+            for i, split in enumerate(splits):
                 split_name = split['name']
                 yield f"data: {json.dumps({'type': 'progress', 'step': 'download', 'message': f'Downloading {split_name} ({i+2}/{total_files})...', 'current': i+2, 'total': total_files})}\n\n"
                 split_resp = requests.get(split['downloadUrl'], headers=headers, timeout=120)

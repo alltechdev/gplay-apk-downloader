@@ -68,14 +68,15 @@
       <div style="display:flex;gap:10px;margin-bottom:12px;flex-wrap:wrap;align-items:center">
         <select id="arch-select" style="padding:10px;border-radius:8px;background:#0f3460;color:#fff;border:2px solid #0f3460;flex:1;min-width:150px">
           <option value="arm64-v8a">ARM64 (modern phones)</option>
-          <option value="armeabi-v7a">ARM32 (older phones)</option>
-          <option value="x86_64">x86_64 (emulators)</option>
-          <option value="x86">x86 (old emulators)</option>
+          <option value="armeabi-v7a">ARMv7 (older phones)</option>
         </select>
         <label style="display:flex;align-items:center;gap:6px;cursor:pointer">
           <input type="checkbox" id="merge-apks" checked style="width:18px;height:18px">
           <span>Merge to single APK</span>
         </label>
+      </div>
+      <div style="font-size:0.75em;color:#888;margin-bottom:12px;line-height:1.4">
+        Note: Merged APKs are re-signed with a debug key and will not receive automatic updates from Google Play. Apps without splits are downloaded with their original signature.
       </div>
       <div class="btn-row">
         <button class="sec" onclick="getInfo()">Get Info</button>
@@ -228,7 +229,11 @@
           progressEl.innerHTML = '<div class="msg info"><span class="spin"></span>' + d.message + pct + '</div>';
         } else if (d.type === 'success') {
           es.close();
-          progressEl.innerHTML = '<div class="msg ok">Merge complete! Starting download...</div>';
+          if (d.original) {
+            progressEl.innerHTML = '<div class="msg ok">Download complete! (original signature preserved)</div>';
+          } else {
+            progressEl.innerHTML = '<div class="msg ok">Merge complete! Starting download...</div>';
+          }
           // Trigger download
           window.location.href = '/api/download-temp/' + d.download_id;
         } else if (d.type === 'error') {
