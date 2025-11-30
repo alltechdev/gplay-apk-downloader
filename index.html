@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#1a1a2e">
+  <title>GPlay Downloader</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #1a1a2e; color: #eee;
+      min-height: 100vh; padding: 16px;
+    }
+    .container { max-width: 600px; margin: 0 auto; }
+    h1 { text-align: center; margin-bottom: 24px; color: #00d9ff; font-size: clamp(1.5rem, 5vw, 2rem); }
+    .card { background: #16213e; border-radius: 16px; padding: 20px; margin-bottom: 16px; }
+    .card h2 { margin-bottom: 12px; color: #00d9ff; font-size: 1.1em; }
+    .status { display: inline-block; padding: 6px 14px; border-radius: 20px; font-size: 0.85em; }
+    .status.ok { background: #0a3d2a; color: #4ade80; }
+    .status.err { background: #3d0a0a; color: #f87171; }
+    input[type="text"] {
+      width: 100%; padding: 14px 16px; border: 2px solid #0f3460; border-radius: 12px;
+      background: #0f3460; color: #fff; font-size: 16px; margin-bottom: 12px;
+    }
+    input:focus { outline: none; border-color: #00d9ff; }
+    button {
+      padding: 14px 24px; border: none; border-radius: 12px; background: #00d9ff;
+      color: #000; font-weight: 600; font-size: 15px; cursor: pointer;
+    }
+    button:hover { background: #00b8d9; }
+    button:disabled { background: #444; color: #888; cursor: not-allowed; }
+    button.sec { background: #0f3460; color: #fff; }
+    .btn-row { display: flex; gap: 10px; flex-wrap: wrap; }
+    .btn-row button { flex: 1; min-width: 100px; }
+    .results { margin-top: 16px; }
+    .app-item {
+      display: flex; align-items: center; padding: 16px; background: #0f3460;
+      border-radius: 12px; margin-bottom: 12px; gap: 12px; flex-wrap: wrap;
+    }
+    .app-info { flex: 1; min-width: 150px; }
+    .app-info h3 { font-size: 1em; margin-bottom: 4px; }
+    .app-info .pkg { font-size: 0.8em; color: #888; word-break: break-all; }
+    .msg { padding: 14px 16px; border-radius: 12px; margin-bottom: 12px; }
+    .msg.err { background: #3d0a0a; color: #f87171; }
+    .msg.ok { background: #0a3d2a; color: #4ade80; }
+    .msg.info { background: #0a2a3d; color: #60a5fa; }
+    .loading { text-align: center; padding: 24px; color: #888; }
+    .spin { display: inline-block; width: 20px; height: 20px; border: 2px solid #333;
+      border-top-color: #00d9ff; border-radius: 50%; animation: spin 1s linear infinite;
+      margin-right: 10px; vertical-align: middle; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .app-actions { display: flex; gap: 8px; }
+    .progress { width: 100%; height: 8px; background: #0f3460; border-radius: 4px; margin-top: 10px; }
+    .progress-bar { height: 100%; background: #00d9ff; border-radius: 4px; transition: width 0.3s; }
+    a { text-decoration: none; }
+    a button { width: 100%; }
+    @media (max-width: 480px) { .app-actions { width: 100%; } .app-actions button { flex: 1; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GPlay Downloader</h1>
+    <div class="card">
+      <h2>Authentication</h2>
+      <div id="auth-status"><span class="status err">Checking...</span></div>
+      <div class="btn-row" style="margin-top:16px">
+        <button id="auth-btn" onclick="auth()">Authenticate</button>
+        <button class="sec" onclick="clearAuth()">Clear</button>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Direct Download</h2>
+      <input type="text" id="pkg-input" placeholder="com.example.app">
+      <div class="btn-row">
+        <button class="sec" onclick="getInfo()">Get Info</button>
+        <button onclick="download()">Download</button>
+      </div>
+      <div id="info-result" class="results"></div>
+    </div>
+    <div class="card">
+      <h2>Search Apps</h2>
+      <input type="text" id="search-q" placeholder="Search apps" onkeypress="if(event.key==='Enter')search()">
+      <div class="btn-row"><button onclick="search()">Search</button></div>
+      <div id="search-results" class="results"></div>
+    </div>
+  </div>
+  <script>
+    const $ = s => document.querySelector(s);
+    const AUTH_KEY = 'gplay-auth';
+
+    // Get auth from localStorage
+    function getAuth() {
+      try {
+        const data = localStorage.getItem(AUTH_KEY);
+        return data ? JSON.parse(data) : null;
+      } catch { return null; }
+    }
+
+    // Save auth to localStorage
+    function saveAuth(data) {
+      localStorage.setItem(AUTH_KEY, JSON.stringify(data));
+    }
+
+    // Clear auth
+    function clearAuth() {
+      localStorage.removeItem(AUTH_KEY);
+      checkAuth();
+    }
+
+    // Get auth header for API calls
+    function getAuthHeader() {
+      const auth = getAuth();
+      if (auth) {
+        return { 'Authorization': 'Bearer ' + btoa(JSON.stringify(auth)) };
+      }
+      return {};
+    }
+
+    // API call with auth
+    async function api(path, opts = {}) {
+      const headers = { ...getAuthHeader(), ...(opts.headers || {}) };
+      const response = await fetch(path, { ...opts, headers });
+      return response.json();
+    }
+
+    async function checkAuth() {
+      const auth = getAuth();
+      if (auth?.authToken) {
+        $('#auth-status').innerHTML = '<span class="status ok">Authenticated</span>';
+      } else {
+        $('#auth-status').innerHTML = '<span class="status err">Not authenticated</span>';
+      }
+    }
+
+    async function auth() {
+      const btn = $('#auth-btn');
+      btn.disabled = true; btn.innerHTML = '<span class="spin"></span>...';
+      try {
+        const d = await fetch('/api/auth', {method:'POST'}).then(r=>r.json());
+        if (d.error) {
+          alert(d.error);
+        } else if (d.authData) {
+          saveAuth(d.authData);
+          checkAuth();
+        }
+      } catch(e) { alert(e); }
+      btn.disabled = false; btn.textContent = 'Authenticate';
+    }
+
+    async function search() {
+      const q = $('#search-q').value.trim();
+      if (!q) return;
+      const el = $('#search-results');
+      el.innerHTML = '<div class="loading"><span class="spin"></span>Searching...</div>';
+      try {
+        const d = await api('/api/search?q=' + encodeURIComponent(q));
+        if (d.error) { el.innerHTML = '<div class="msg err">' + d.error + '</div>'; return; }
+        if (!d.results?.length) { el.innerHTML = '<div class="msg info">No results</div>'; return; }
+        el.innerHTML = d.results.map(a =>
+          '<div class="app-item"><div class="app-info"><h3>' + a.package + '</h3><div class="pkg">' + a.package + '</div></div>' +
+          '<div class="app-actions"><button class="sec" onclick="sel(\'' + a.package + '\')">Select</button>' +
+          '<button onclick="dl(\'' + a.package + '\')">Download</button></div></div>'
+        ).join('');
+      } catch(e) { el.innerHTML = '<div class="msg err">' + e + '</div>'; }
+    }
+
+    function sel(pkg) { $('#pkg-input').value = pkg; getInfo(); }
+
+    async function getInfo() {
+      const pkg = $('#pkg-input').value.trim();
+      if (!pkg) return;
+      const el = $('#info-result');
+      el.innerHTML = '<div class="loading"><span class="spin"></span>Getting info...</div>';
+      try {
+        const d = await api('/api/info/' + encodeURIComponent(pkg));
+        if (d.error) { el.innerHTML = '<div class="msg err">' + d.error + '</div>'; return; }
+        el.innerHTML = '<div class="app-item"><div class="app-info"><h3>' + d.title + '</h3><div class="pkg">' + d.package + '</div><div class="pkg">by ' + d.developer + '</div></div><div class="app-actions"><button onclick="dl(\'' + d.package + '\')">Download</button></div></div>';
+      } catch(e) { el.innerHTML = '<div class="msg err">' + e + '</div>'; }
+    }
+
+    function download() {
+      const pkg = $('#pkg-input').value.trim();
+      if (!pkg) { alert('Enter package name'); return; }
+      dl(pkg);
+    }
+
+    // Store current download info for Download All
+    let currentDownloadInfo = null;
+
+    async function dl(pkg) {
+      const el = $('#info-result');
+      el.innerHTML = '<div class="loading"><span class="spin"></span>Preparing...</div>';
+      try {
+        const d = await api('/api/download-info/' + encodeURIComponent(pkg));
+        if (d.error) { el.innerHTML = '<div class="msg err">' + d.error + (d.debug ? '<br><small>' + JSON.stringify(d.debug) + '</small>' : '') + '</div>'; return; }
+
+        currentDownloadInfo = { pkg, ...d };
+        const hasSplits = d.splits?.length > 0;
+        const totalFiles = 1 + (d.splits?.length || 0);
+
+        let html = '<div class="msg ok"><strong>' + d.title + '</strong><br>Version: ' + d.version + '<br>Size: ' + d.size;
+        if (hasSplits) {
+          html += '<br><strong>' + totalFiles + ' APK files</strong> (1 base + ' + d.splits.length + ' splits)';
+        }
+        html += '</div>';
+
+        html += '<div class="app-item"><div class="app-info">';
+        if (hasSplits) {
+          html += '<h3>Download All (' + totalFiles + ' APKs as ZIP)</h3>';
+          html += '<div class="pkg">Includes base APK and all splits</div>';
+        } else {
+          html += '<h3>Download APK</h3>';
+          html += '<div class="pkg">' + d.filename + '</div>';
+        }
+        html += '</div><div class="app-actions">';
+
+        if (hasSplits) {
+          html += '<button onclick="downloadAll()">Download All</button>';
+        } else {
+          // Try direct download first (browser redirect)
+          html += '<a href="' + d.downloadUrl + '" download="' + d.filename + '"><button>Download Direct</button></a>';
+          // Fallback to proxy download
+          html += '<a href="/download/' + encodeURIComponent(pkg) + '"><button class="sec">Via Server</button></a>';
+        }
+        html += '</div></div>';
+
+        html += '<div id="download-progress"></div>';
+        el.innerHTML = html;
+      } catch(e) { el.innerHTML = '<div class="msg err">' + e + '</div>'; }
+    }
+
+    async function downloadAll() {
+      if (!currentDownloadInfo) return;
+      const { pkg, filename, versionCode, splits, downloadUrl } = currentDownloadInfo;
+      const progressEl = $('#download-progress');
+      const totalFiles = 1 + splits.length;
+      let downloaded = 0;
+
+      progressEl.innerHTML = '<div class="msg info">Downloading... <span id="dl-status">0/' + totalFiles + '</span></div><div class="progress"><div class="progress-bar" id="dl-bar" style="width:0%"></div></div>';
+
+      try {
+        const zip = new JSZip();
+
+        // Try direct download first, fall back to proxy
+        async function fetchFile(directUrl, proxyUrl) {
+          try {
+            // Try direct first
+            const resp = await fetch(directUrl);
+            if (resp.ok) return resp.blob();
+          } catch(e) {
+            console.log('Direct download failed, using proxy:', e);
+          }
+          // Fall back to proxy
+          const authHeaders = getAuthHeader();
+          const resp = await fetch(proxyUrl, { headers: authHeaders });
+          if (!resp.ok) throw new Error('Download failed');
+          return resp.blob();
+        }
+
+        // Download base APK
+        const baseBlob = await fetchFile(downloadUrl, '/download/' + encodeURIComponent(pkg));
+        zip.file(filename, baseBlob);
+        downloaded++;
+        updateProgress(downloaded, totalFiles);
+
+        // Download splits
+        for (let i = 0; i < splits.length; i++) {
+          const splitBlob = await fetchFile(
+            splits[i].downloadUrl,
+            '/download/' + encodeURIComponent(pkg) + '/' + i
+          );
+          zip.file(splits[i].filename, splitBlob);
+          downloaded++;
+          updateProgress(downloaded, totalFiles);
+        }
+
+        // Generate ZIP
+        progressEl.innerHTML = '<div class="msg info">Creating ZIP...</div>';
+        const zipBlob = await zip.generateAsync({ type: 'blob' });
+
+        // Download ZIP
+        const url = URL.createObjectURL(zipBlob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = pkg + '-' + versionCode + '.zip';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+
+        progressEl.innerHTML = '<div class="msg ok">Download complete!</div>';
+      } catch(e) {
+        progressEl.innerHTML = '<div class="msg err">Error: ' + e.message + '</div>';
+      }
+    }
+
+    function updateProgress(current, total) {
+      const pct = Math.round((current / total) * 100);
+      const statusEl = $('#dl-status');
+      const barEl = $('#dl-bar');
+      if (statusEl) statusEl.textContent = current + '/' + total;
+      if (barEl) barEl.style.width = pct + '%';
+    }
+
+    checkAuth();
+  </script>
+</body>
+</html>
