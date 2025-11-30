@@ -113,9 +113,22 @@ chmod +x "$SCRIPT_DIR/gplay"
 cat > "$SCRIPT_DIR/start-server.sh" << 'EOF'
 #!/bin/bash
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Kill existing server on port 5000
+PID=$(lsof -ti:5000 2>/dev/null)
+if [ -n "$PID" ]; then
+    echo "Killing existing server (PID: $PID)"
+    kill $PID 2>/dev/null
+    sleep 1
+fi
+
 source "$SCRIPT_DIR/.venv/bin/activate"
 cd "$SCRIPT_DIR"
-python3 server.py
+
+echo "Starting server in background..."
+nohup python3 server.py > server.log 2>&1 &
+echo "Server started (PID: $!)"
+echo "Logs: tail -f $SCRIPT_DIR/server.log"
 EOF
 chmod +x "$SCRIPT_DIR/start-server.sh"
 
