@@ -735,7 +735,7 @@ def search():
                         'icon': icon
                     })
 
-        return jsonify({'results': results})
+        return jsonify({'results': results[:5]})
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
