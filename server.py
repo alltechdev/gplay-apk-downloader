@@ -767,8 +767,11 @@ def search():
     if not query:
         return jsonify({'error': 'Query required'}), 400
 
-    # Check cache first (1 hour TTL)
-    cached_results = get_cached_search(query.lower())
+    # Normalize query for better cache hits
+    normalized_query = normalize_search_query(query)
+
+    # Check cache first (6 hour TTL)
+    cached_results = get_cached_search(normalized_query)
     if cached_results is not None:
         return jsonify({'results': cached_results, 'cached': True})
 
@@ -858,7 +861,7 @@ def search():
 
         final_results = results[:5]
         # Cache the results for future requests
-        cache_search(query.lower(), final_results)
+        cache_search(normalized_query, final_results)
         return jsonify({'results': final_results})
     except Exception as e:
         return jsonify({'error': str(e)}), 500
@@ -1126,8 +1129,15 @@ SSE_MAX_DURATION = 300  # 5 minutes max for any SSE stream
 
 # Search cache (reduces latency for repeated queries)
 SEARCH_CACHE = {}  # {query: (results, timestamp)}
-SEARCH_CACHE_TTL = 3600  # 1 hour
+SEARCH_CACHE_TTL = 21600  # 6 hours - search results rarely change
 SEARCH_CACHE_LOCK = threading.Lock()
+
+
+def normalize_search_query(query):
+    """Normalize query for better cache hit rate."""
+    # Lowercase, strip whitespace, collapse multiple spaces
+    normalized = ' '.join(query.lower().split())
+    return normalized
 
 
 def get_cached_search(query):
@@ -1344,6 +1354,19 @@ def consume_temp_apk(file_id):
 _cleanup_thread = threading.Thread(target=cleanup_temp_apks, daemon=True)
 _cleanup_thread.start()
 logger.info(f"Temp APK storage initialized: {TEMP_APK_DIR}")
+
+# Warm connection pool on worker startup (pre-establish TLS to Google Play)
+def _warm_connection_pool():
+    """Pre-establish connections to reduce first-request latency."""
+    try:
+        scraper = get_scraper()
+        # HEAD request is faster than GET, just establishes connection
+        scraper.head('https://play.google.com', timeout=(5, 5))
+        logger.info("Connection pool warmed for play.google.com")
+    except Exception as e:
+        logger.debug(f"Connection warming failed (non-critical): {e}")
+
+_warm_connection_pool()
 
 
 # Legacy compatibility (in case anything still references this)
