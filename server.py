@@ -711,7 +711,7 @@ def auth_stream():
                 if not response.ok:
                     logger.warning(f"Dispenser returned {response.status_code}, attempt {attempt}")
                     yield f"data: {json.dumps({'type': 'progress', 'attempt': attempt, 'message': f'Token #{attempt} - dispenser error ({response.status_code})'})}\n\n"
-                    time.sleep(2.5)  # Wait for rate limit to clear
+                    time.sleep(1)
                     continue
 
                 auth_data = response.json()
@@ -729,8 +729,6 @@ def auth_stream():
                 else:
                     logger.warning(f"Token #{attempt} failed Chase validation")
                     yield f"data: {json.dumps({'type': 'progress', 'attempt': attempt, 'message': f'Token #{attempt} - failed validation, retrying...'})}\n\n"
-                    # Bad token = try next one quickly
-                    time.sleep(0.1)
 
             except requests.exceptions.ConnectionError as e:
                 logger.warning(f"Connection error on auth attempt {attempt}: {e}")
@@ -996,7 +994,7 @@ def download_info_stream(pkg):
                 if not response.ok:
                     logger.warning(f"Dispenser returned {response.status_code}, attempt {attempt}")
                     yield f"data: {json.dumps({'type': 'progress', 'attempt': attempt, 'message': f'Token #{attempt} - dispenser error ({response.status_code})'})}\n\n"
-                    time.sleep(2.5)  # Wait for rate limit to clear
+                    time.sleep(1)
                     continue
 
                 auth_data = response.json()
@@ -1010,8 +1008,7 @@ def download_info_stream(pkg):
                     error_msg = info['error'][:50]
                     logger.warning(f"Token #{attempt} failed for {pkg}: {info['error']}")
                     yield f"data: {json.dumps({'type': 'progress', 'attempt': attempt, 'message': f'Token #{attempt} - {error_msg}'})}\n\n"
-                    # Bad token = try next one quickly (not rate limited, just need different token)
-                    time.sleep(0.1)
+                    time.sleep(0.5)
                     continue
 
                 # Success! Save the working token for this arch and return info
@@ -1435,8 +1432,7 @@ def download_merged_stream(pkg):
                             break
                         else:
                             auth_data = None
-                            # Bad token = try next one quickly
-                            time.sleep(0.1)
+                            time.sleep(0.5)
 
                     except requests.exceptions.ConnectionError as e:
                         time.sleep(get_backoff_delay(attempt, base=2.0))
