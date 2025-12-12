@@ -1670,12 +1670,17 @@ def download_merged(pkg):
 
 if __name__ == '__main__':
     import os
+
     debug = os.environ.get('FLASK_DEBUG', 'false').lower() == 'true'
-    print('Starting GPlay Downloader on http://localhost:5000')
+    host = os.environ.get('HOST', '0.0.0.0')
+    port = int(os.environ.get('PORT', '5000'))
+
+    print(f'Starting GPlay Downloader on http://{host}:{port}')
     print(f'gpapi available: {HAS_GPAPI}')
     print(f'Debug mode: {debug}')
+
     if debug:
-        app.run(host='0.0.0.0', port=5000, debug=True)
+        app.run(host=host, port=port, debug=True)
     else:
         print('For production, use: gunicorn -c gunicorn.conf.py server:app')
-        app.run(host='0.0.0.0', port=5000, debug=False, threaded=True)
+        app.run(host=host, port=port, debug=False, threaded=True)
