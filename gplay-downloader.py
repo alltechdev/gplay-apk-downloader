@@ -611,6 +611,48 @@ def cmd_download(args):
             print()
             print("No splits - APK has original signature")
 
+        # Install to device via ADB if requested
+        if getattr(args, 'install', False):
+            import subprocess as sp
+            try:
+                sp.run(['adb', 'version'], capture_output=True, check=True)
+            except (FileNotFoundError, sp.CalledProcessError):
+                print("Error: adb not found. Install Android SDK platform-tools.")
+                return 1
+
+            if should_merge and split_files:
+                # Merged APK was created, install that
+                install_path = merged_filepath if merged_filepath.exists() else filepath
+                print(f"Installing {install_path.name} to device...")
+                result = sp.run(['adb', 'install', '-r', str(install_path)],
+                                capture_output=True, text=True, timeout=120)
+                if result.returncode == 0:
+                    print("Installed successfully!")
+                else:
+                    print(f"Install failed: {result.stderr.strip() or result.stdout.strip()}")
+                    return 1
+            elif split_files:
+                # Use install-multiple for split APKs (preserves original signatures)
+                all_apks = [str(filepath)] + [str(sf) for sf in split_files]
+                print(f"Installing {len(all_apks)} APKs to device (session install)...")
+                result = sp.run(['adb', 'install-multiple', '-r'] + all_apks,
+                                capture_output=True, text=True, timeout=120)
+                if result.returncode == 0:
+                    print("Installed successfully!")
+                else:
+                    print(f"Install failed: {result.stderr.strip() or result.stdout.strip()}")
+                    return 1
+            else:
+                # Single APK, no splits
+                print(f"Installing {filepath.name} to device...")
+                result = sp.run(['adb', 'install', '-r', str(filepath)],
+                                capture_output=True, text=True, timeout=120)
+                if result.returncode == 0:
+                    print("Installed successfully!")
+                else:
+                    print(f"Install failed: {result.stderr.strip() or result.stdout.strip()}")
+                    return 1
+
         print()
         print("Download complete!")
         return 0
@@ -1118,6 +1160,7 @@ def cmd_restore(args):
         dl_args.version = None
         dl_args.both_arch = False
         dl_args.all_locales = False
+        dl_args.install = getattr(args, 'install', False)
         dl_args.json = False
 
         try:
@@ -1153,6 +1196,8 @@ Examples:
   %(prog)s download com.app -m               # Download and merge splits
   %(prog)s download com.app --both-arch      # Download ARM64 + ARMv7
   %(prog)s download com.app --all-locales    # Download all language splits
+  %(prog)s download com.app -i              # Download and install to device via ADB
+  %(prog)s restore backup.json -i           # Restore apps directly to device
   %(prog)s info com.whatsapp --json          # JSON output for scripting
         """
     )
@@ -1201,6 +1246,8 @@ Examples:
                                 help='Download for both ARM64 and ARMv7')
     download_parser.add_argument('--all-locales', action='store_true',
                                 help='Download all language splits (en, he, fr)')
+    download_parser.add_argument('-i', '--install', action='store_true',
+                                help='Install to connected ADB device after download')
 
     # Backup command
     backup_parser = subparsers.add_parser('backup', help='Backup list of installed apps from ADB device')
@@ -1214,6 +1261,8 @@ Examples:
                                 help='Architecture: arm64 (default) or armv7')
     restore_parser.add_argument('-m', '--merge', action='store_true',
                                 help='Merge split APKs into single installable APK')
+    restore_parser.add_argument('-i', '--install', action='store_true',
+                                help='Install each app to connected ADB device')
 
     args = parser.parse_args()
 

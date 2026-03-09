@@ -12,6 +12,8 @@ Download APKs from Google Play Store. Automatically merges split APKs (App Bundl
 - WebUSB ADB support — install APKs directly to a connected Android device from the browser (Chrome/Edge)
 - Split APK direct install via ADB sessions — no merging needed, original signatures preserved
 - Persistent download counter displayed in the UI
+- ADB install from CLI — download and install directly to device via `adb`
+- Backup & restore — export installed app list from device, batch restore later
 - CLI tool with JSON output for scripting and automation
 - Apps without splits preserve original signature
 - Merged APKs are signed with debug keystore
@@ -195,12 +197,20 @@ Shows all available split APKs including language splits.
 # Download all language splits (en, he, fr)
 ./gplay download com.google.android.youtube --all-locales
 
+# Download and install to connected device via ADB
+./gplay download com.google.android.youtube -i
+
+# Download, merge, and install
+./gplay download com.google.android.youtube -m -i
+
 # Custom output directory
 ./gplay download com.google.android.youtube -m -o ~/apks/
 
 # Download specific version code
 ./gplay download com.google.android.youtube -v 1234567
 ```
+
+> **ADB Install**: The `-i` flag installs directly to a connected device. For split APKs without `-m`, it uses `adb install-multiple` (session install, preserves original signatures). With `-m`, it installs the merged APK.
 
 ### CLI Options Reference
 
@@ -240,6 +250,7 @@ Shows all available split APKs including language splits.
 | `-m`, `--merge` | off | Merge split APKs into single installable APK |
 | `-o`, `--output` | `.` | Output directory |
 | `-v`, `--version` | latest | Download specific version code |
+| `-i`, `--install` | off | Install to connected ADB device after download |
 | `--both-arch` | | Download for both ARM64 and ARMv7 |
 | `--all-locales` | | Download all language splits (en, he, fr) |
 
@@ -257,6 +268,59 @@ for pkg in com.whatsapp com.spotify.music; do
   ./gplay download "$pkg" -m
 done
 ```
+
+#### Backup App List
+
+Back up the list of user-installed apps from a connected ADB device. Checks each package against Google Play for availability.
+
+```bash
+./gplay backup                            # Save to app-backup-DATE.json
+./gplay backup -o my-apps.json            # Custom output file
+./gplay backup -o -                       # Print to stdout
+```
+
+#### Restore Apps
+
+Restore apps from a backup JSON file. Downloads each available package.
+
+```bash
+# Download all apps from backup
+./gplay restore my-apps.json
+
+# Download and install directly to device
+./gplay restore my-apps.json -i
+
+# Restore merged APKs for ARMv7
+./gplay restore my-apps.json -m -a armv7
+
+# Restore to specific directory
+./gplay restore my-apps.json -o ~/apks/
+```
+
+#### `backup`
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `-o`, `--output` | `app-backup-DATE.json` | Output file (`-` for stdout) |
+
+#### `restore`
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `file` | (required) | Backup JSON file |
+| `-o`, `--output` | `.` | Output directory for downloaded APKs |
+| `-a`, `--arch` | `arm64` | Architecture: `arm64` or `armv7` |
+| `-m`, `--merge` | off | Merge split APKs into single APK |
+| `-i`, `--install` | off | Install each app to connected ADB device |
+
+### Web UI Backup & Restore
+
+The web UI also supports backup and restore when an ADB device is connected:
+
+1. **Backup**: Click **Backup App List** to read installed packages from the device and check Play Store availability
+2. **Export**: Save the list as a JSON file for later use
+3. **Import**: Load a previously exported backup JSON
+4. **Restore**: Install selected apps back to the device, or download them if no device is connected
 
 ---
 
