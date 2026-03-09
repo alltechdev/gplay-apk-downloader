@@ -1247,14 +1247,18 @@
     function updateAdbUI(state) {
       const card = $('#adb-card');
       const statusEl = $('#adb-status');
+      const mergeCheckbox = $('#merge-apks');
       if (state === 'connected' && adbDeviceInfo) {
         card.classList.add('connected');
+        mergeCheckbox.checked = false;
+        mergeCheckbox.disabled = true;
         statusEl.innerHTML =
           '<div class="adb-dot"></div>' +
           '<div class="adb-device-name">' + esc(adbDeviceInfo.model) + '<small>Android ' + esc(adbDeviceInfo.android) + '</small></div>' +
           '<button class="btn-ghost" onclick="adbDisconnect()">Disconnect</button>';
       } else {
         card.classList.remove('connected');
+        mergeCheckbox.disabled = false;
         statusEl.innerHTML =
           '<button class="btn-secondary" onclick="adbConnect()">' +
           '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v4M17 2v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 4.93l-2.83 2.83M12 8v4M12 16v.01"/><circle cx="12" cy="12" r="6"/></svg>' +
