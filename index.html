@@ -1258,6 +1258,7 @@
       try {
         adbDeviceInfo = await window.adbManager.connect();
         updateAdbUI('connected');
+        refreshInstallButton();
         log('ADB connected: ' + adbDeviceInfo.model + ' (Android ' + adbDeviceInfo.android + ')', 'ok');
       } catch (e) {
         adbDeviceInfo = null;
@@ -1279,6 +1280,7 @@
       await window.adbManager?.disconnect();
       adbDeviceInfo = null;
       updateAdbUI('disconnected');
+      refreshInstallButton();
       localStorage.removeItem('adbDevice');
       log('ADB disconnected', 'info');
     }
@@ -1306,6 +1308,22 @@
           '<button class="btn-secondary" onclick="adbConnect()">' +
           '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v4M17 2v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 4.93l-2.83 2.83M12 8v4M12 16v.01"/><circle cx="12" cy="12" r="6"/></svg>' +
           'Connect Device</button>';
+      }
+    }
+
+    function refreshInstallButton() {
+      if (!currentDownloadInfo) return;
+      const actions = document.querySelector('#info-result .app-actions');
+      if (!actions) return;
+      const existing = actions.querySelector('.btn-install');
+      if (window.adbManager?.connected && !existing) {
+        const btn = document.createElement('button');
+        btn.className = 'btn-install';
+        btn.onclick = installToDevice;
+        btn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>Install to Device';
+        actions.appendChild(btn);
+      } else if (!window.adbManager?.connected && existing) {
+        existing.remove();
       }
     }
 
@@ -1398,7 +1416,7 @@
       log('Searching for "' + q + '"...', 'info');
       try {
         const d = await fetch('/api/search?q=' + encodeURIComponent(q)).then(r => r.json());
-        if (d.error) { el.innerHTML = '<div class="msg err fade-in">' + d.error + '</div>'; log('Search error: ' + d.error, 'err'); return; }
+        if (d.error) { el.innerHTML = '<div class="msg err fade-in">' + esc(d.error) + '</div>'; log('Search error: ' + d.error, 'err'); return; }
         if (!d.results?.length) { el.innerHTML = '<div class="msg info fade-in">No results found</div>'; log('No results for "' + q + '"', 'warn'); return; }
         log('Found ' + d.results.length + ' results for "' + q + '"', 'ok');
         el.innerHTML = d.results.map(a =>
