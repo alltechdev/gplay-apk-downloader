@@ -646,6 +646,13 @@ def stats():
     return jsonify({'downloads': get_download_count()})
 
 
+@app.route('/api/stats/increment', methods=['POST'])
+def stats_increment():
+    """Increment download counter (for client-side installs like ADB)."""
+    count = increment_download_count()
+    return jsonify({'downloads': count})
+
+
 @app.route('/api/auth', methods=['POST'])
 def auth():
     # First check if we have a valid cached token - use strict validation (Chase test)

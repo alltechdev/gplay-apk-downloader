@@ -646,6 +646,28 @@
     .btn-install:hover { background: #15803d; }
     .btn-install:disabled { opacity: 0.5; cursor: not-allowed; }
 
+    .merge-tooltip {
+      position: absolute;
+      bottom: calc(100% + 8px);
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      font-size: 11px;
+      padding: 8px 12px;
+      border-radius: var(--radius);
+      white-space: nowrap;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity var(--transition);
+      z-index: 10;
+    }
+
+    .merge-tooltip.show { opacity: 1; }
+
+    .checkbox-wrap { position: relative; }
+
     /* Stat Counter */
     .stat-counter {
       margin-top: 12px;
@@ -884,7 +906,7 @@
           <option value="arm64-v8a">ARM64 (modern)</option>
           <option value="armeabi-v7a">ARMv7 (legacy)</option>
         </select>
-        <label class="checkbox-wrap">
+        <label class="checkbox-wrap" id="merge-label">
           <input type="checkbox" id="merge-apks" checked>
           <span>Merge splits</span>
         </label>
@@ -974,6 +996,7 @@
         // Clean up any previous connection
         await this.disconnect();
 
+        // Try cached/authorized devices first
         const devices = await this.manager.getDevices();
         let target = null;
         const cached = localStorage.getItem('adbDevice');
@@ -982,25 +1005,27 @@
           target = devices.find(d => d.serial === info.serial);
         }
         if (!target && devices.length > 0) target = devices[0];
-        if (!target) target = await this.manager.requestDevice();
-        if (!target) throw new Error('No device selected');
 
-        localStorage.setItem('adbDevice', JSON.stringify({ serial: target.serial }));
-
-        let connection;
-        try {
-          connection = await target.connect();
-        } catch (e) {
-          // Stale USB claim — reset device and retry
+        // Try connecting to cached device
+        if (target) {
           try {
-            if (target.raw.opened) await target.raw.close();
-            await target.raw.open();
-            await target.raw.reset();
-            await target.raw.close();
-          } catch {}
-          connection = await target.connect();
+            return await this._connectDevice(target);
+          } catch (e) {
+            // Cached device failed, clear and show picker
+            localStorage.removeItem('adbDevice');
+            target = null;
+          }
         }
 
+        // Show device picker
+        target = await this.manager.requestDevice();
+        if (!target) throw new Error('No device selected');
+        return await this._connectDevice(target);
+      }
+
+      async _connectDevice(target) {
+        localStorage.setItem('adbDevice', JSON.stringify({ serial: target.serial }));
+        const connection = await target.connect();
         this.transport = await AdbDaemonTransport.authenticate({
           serial: target.serial,
           connection,
@@ -1066,8 +1091,8 @@
             await this.pushFile(apk.blob, tmpPath);
 
             if (onProgress) onProgress('write', 'Writing ' + apk.name + ' to session...');
-            const label = apk.name || ('split_' + i + '.apk');
-            const writeOut = await this.shell('pm install-write -S ' + apk.size + ' ' + sessionId + ' "' + label + '" "' + tmpPath + '"');
+            const label = i === 0 ? 'base.apk' : 'split_' + i + '.apk';
+            const writeOut = await this.shell('pm install-write -S ' + apk.size + ' ' + sessionId + ' ' + label + ' "' + tmpPath + '"');
             if (!writeOut.includes('Success')) throw new Error('install-write failed for ' + label + ': ' + writeOut.trim());
             await this.shell('rm -f "' + tmpPath + '"');
           }
@@ -1190,6 +1215,20 @@
         return;
       }
 
+      // Merge tooltip when disabled
+      const mergeLabel = $('#merge-label');
+      const tooltip = document.createElement('div');
+      tooltip.className = 'merge-tooltip';
+      tooltip.textContent = 'ADB installs splits directly — no merge needed, original signatures preserved';
+      mergeLabel.appendChild(tooltip);
+      mergeLabel.addEventListener('click', (e) => {
+        if ($('#merge-apks').disabled) {
+          e.preventDefault();
+          tooltip.classList.add('show');
+          setTimeout(() => tooltip.classList.remove('show'), 3000);
+        }
+      });
+
       // Auto-reconnect cached device
       const cached = localStorage.getItem('adbDevice');
       if (cached) {
@@ -1199,8 +1238,8 @@
       }
 
       // Listen for USB disconnect
-      navigator.usb.addEventListener('disconnect', () => {
-        if (window.adbManager?.connected) {
+      navigator.usb.addEventListener('disconnect', (e) => {
+        if (window.adbManager?.connected && window.adbManager.device?.raw === e.device) {
           window.adbManager.disconnect();
           adbDeviceInfo = null;
           updateAdbUI('disconnected');
@@ -1244,12 +1283,15 @@
       log('ADB disconnected', 'info');
     }
 
+    let mergeWasChecked = true;
+
     function updateAdbUI(state) {
       const card = $('#adb-card');
       const statusEl = $('#adb-status');
       const mergeCheckbox = $('#merge-apks');
       if (state === 'connected' && adbDeviceInfo) {
         card.classList.add('connected');
+        mergeWasChecked = mergeCheckbox.checked;
         mergeCheckbox.checked = false;
         mergeCheckbox.disabled = true;
         statusEl.innerHTML =
@@ -1259,6 +1301,7 @@
       } else {
         card.classList.remove('connected');
         mergeCheckbox.disabled = false;
+        mergeCheckbox.checked = mergeWasChecked;
         statusEl.innerHTML =
           '<button class="btn-secondary" onclick="adbConnect()">' +
           '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v4M17 2v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 4.93l-2.83 2.83M12 8v4M12 16v.01"/><circle cx="12" cy="12" r="6"/></svg>' +
@@ -1327,7 +1370,7 @@
         setLogActive(false);
         log('Installed ' + pkg + ' successfully!', 'ok');
         progressEl.innerHTML = '<div class="msg ok fade-in">Installed to device</div>';
-        refreshCounter();
+        fetch('/api/stats/increment', { method: 'POST' }).then(r => r.json()).then(d => updateCounter(d.downloads)).catch(() => {});
       } catch (e) {
         setLogActive(false);
         log('Install failed: ' + e.message, 'err');
@@ -1360,7 +1403,7 @@
         log('Found ' + d.results.length + ' results for "' + q + '"', 'ok');
         el.innerHTML = d.results.map(a =>
           '<div class="app-item fade-in">' +
-          (a.icon ? '<img class="app-icon" src="' + a.icon + '" alt="" loading="lazy">' : '') +
+          (a.icon ? '<img class="app-icon" src="' + esc(a.icon) + '" alt="" loading="lazy">' : '') +
           '<div class="app-info"><h3>' + esc(a.title || a.package) + '</h3><div class="pkg">' + esc(a.package) + '</div></div>' +
           '<div class="app-actions"><button class="btn-primary" onclick="dl(\'' + esc(a.package) + '\')">Download</button></div></div>'
         ).join('');
@@ -1443,6 +1486,12 @@
             '<div style="margin-top:4px;font-size:11px;opacity:0.6;font-family:var(--font-mono)">Attempt #' + d.attempt + '</div>' +
             '<div style="margin-top:8px"><button class="btn-ghost" onclick="stopDownload()">Cancel</button></div>' +
             '<div class="progress progress-indeterminate" style="margin-top:8px"><div class="progress-bar"></div></div></div>';
+        } else if (d.type === 'error') {
+          downloadEventSource.close();
+          downloadEventSource = null;
+          setLogActive(false);
+          log('Error: ' + d.message, 'err');
+          el.innerHTML = '<div class="msg err fade-in">' + esc(d.message) + '</div>';
         } else if (d.type === 'success') {
           downloadEventSource.close();
           downloadEventSource = null;
@@ -1477,7 +1526,7 @@
           } else if (hasSplits) {
             html += '<button class="btn-primary" onclick="downloadAll()"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download ZIP</button>';
           } else {
-            html += '<a href="' + d.downloadUrl + '" download="' + esc(d.filename) + '"><button class="btn-primary"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download</button></a>';
+            html += '<a href="' + esc(d.downloadUrl) + '" download="' + esc(d.filename) + '"><button class="btn-primary"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>Download</button></a>';
           }
           if (window.adbManager?.connected) {
             html += '<button class="btn-install" onclick="installToDevice()">' +
