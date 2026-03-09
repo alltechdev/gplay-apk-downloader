@@ -640,6 +640,12 @@ def health_check():
         }), 500
 
 
+@app.route('/api/stats')
+def stats():
+    """Return download count for the UI."""
+    return jsonify({'downloads': get_download_count()})
+
+
 @app.route('/api/auth', methods=['POST'])
 def auth():
     # First check if we have a valid cached token - use strict validation (Chase test)
@@ -1122,6 +1128,33 @@ import tempfile
 import uuid
 
 # =============================================================================
+# Download Counter (persistent, file-based)
+# =============================================================================
+
+DOWNLOAD_COUNTER_FILE = Path.home() / '.gplay-download-count'
+_counter_lock = threading.Lock()
+
+
+def get_download_count():
+    """Read the current download count."""
+    try:
+        return int(DOWNLOAD_COUNTER_FILE.read_text().strip())
+    except Exception:
+        return 0
+
+
+def increment_download_count():
+    """Atomically increment the download counter."""
+    with _counter_lock:
+        count = get_download_count() + 1
+        try:
+            DOWNLOAD_COUNTER_FILE.write_text(str(count))
+        except Exception as e:
+            logger.warning(f"Failed to update download counter: {e}")
+        return count
+
+
+# =============================================================================
 # Disk-Based Temporary APK Storage (Production-Ready)
 # =============================================================================
 
@@ -1493,7 +1526,8 @@ def download_merged_stream(pkg):
                 if not splits:
                     try:
                         file_id = save_temp_apk(base_apk, info['filename'])
-                        yield f"data: {json.dumps({'type': 'success', 'download_id': file_id, 'filename': info['filename'], 'original': True})}\n\n"
+                        count = increment_download_count()
+                        yield f"data: {json.dumps({'type': 'success', 'download_id': file_id, 'filename': info['filename'], 'original': True, 'downloads': count})}\n\n"
                     except MemoryError as e:
                         yield f"data: {json.dumps({'type': 'error', 'message': str(e)})}\n\n"
                     return
@@ -1522,7 +1556,8 @@ def download_merged_stream(pkg):
                     merged_filename = f"{pkg}-{info['versionCode']}-merged.apk"
                     try:
                         file_id = save_temp_apk(signed_apk, merged_filename)
-                        yield f"data: {json.dumps({'type': 'success', 'download_id': file_id, 'filename': merged_filename})}\n\n"
+                        count = increment_download_count()
+                        yield f"data: {json.dumps({'type': 'success', 'download_id': file_id, 'filename': merged_filename, 'downloads': count})}\n\n"
                     except MemoryError as e:
                         yield f"data: {json.dumps({'type': 'error', 'message': str(e)})}\n\n"
                 finally:

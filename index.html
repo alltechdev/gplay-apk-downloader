@@ -579,6 +579,20 @@
       opacity: 1;
     }
 
+    /* Stat Counter */
+    .stat-counter {
+      margin-top: 12px;
+      font-family: var(--font-mono);
+      font-size: 12px;
+      color: var(--text-tertiary);
+      letter-spacing: 0.02em;
+    }
+
+    .stat-counter span {
+      color: var(--accent);
+      font-weight: 600;
+    }
+
     /* Log Panel */
     .log-panel {
       background: var(--bg-card);
@@ -774,6 +788,7 @@
       </div>
       <h1>G<span>Play</span></h1>
       <p>Download APKs directly from Google Play Store</p>
+      <div class="stat-counter" id="stat-counter"></div>
     </header>
 
     <!-- Download Card -->
@@ -929,7 +944,20 @@
         $('#info-result').innerHTML = '';
         log('Architecture changed to ' + $('#arch-select').value, 'info');
       });
+      refreshCounter();
     });
+
+    function updateCounter(count) {
+      if (count > 0) {
+        $('#stat-counter').innerHTML = '<span>' + count.toLocaleString() + '</span> APKs downloaded';
+      }
+    }
+
+    function refreshCounter() {
+      fetch('/api/stats').then(r => r.json()).then(d => {
+        updateCounter(d.downloads);
+      }).catch(() => {});
+    }
 
     async function search() {
       const q = $('#search-q').value.trim();
@@ -1128,6 +1156,7 @@
             progressEl.innerHTML = '<div class="msg ok fade-in">Merge complete &mdash; starting download...</div>';
           }
           window.location.href = '/api/download-temp/' + d.download_id;
+          if (d.downloads) updateCounter(d.downloads);
         } else if (d.type === 'error') {
           mergeEventSource.close();
           mergeEventSource = null;
@@ -1203,6 +1232,7 @@
         setLogActive(false);
         log('ZIP download complete: ' + pkg + '-' + versionCode + '.zip', 'ok');
         progressEl.innerHTML = '<div class="msg ok fade-in">Download complete</div>';
+        refreshCounter();
       } catch(e) {
         setLogActive(false);
         log('Download failed: ' + e.message, 'err');
