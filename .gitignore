@@ -8,3 +8,9 @@ nohup.out
 analysis/
 server.log
 profile_test_results.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
