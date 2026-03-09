@@ -985,6 +985,158 @@ def cmd_download_all_locales(args):
     return 0
 
 
+def cmd_backup(args):
+    """Backup list of user-installed packages from connected ADB device."""
+    import subprocess as sp
+
+    # Check adb is available
+    try:
+        sp.run(['adb', 'version'], capture_output=True, check=True)
+    except (FileNotFoundError, sp.CalledProcessError):
+        print("Error: adb not found. Install Android SDK platform-tools.")
+        return 1
+
+    print("Reading user-installed packages from device...")
+    try:
+        result = sp.run(['adb', 'shell', 'pm', 'list', 'packages', '-3'],
+                        capture_output=True, text=True, check=True, timeout=30)
+    except sp.CalledProcessError as e:
+        print(f"Error: {e.stderr.strip() or 'Failed to list packages'}")
+        return 1
+    except sp.TimeoutExpired:
+        print("Error: ADB command timed out. Is device connected?")
+        return 1
+
+    packages = sorted(set(
+        line.replace('package:', '').strip()
+        for line in result.stdout.strip().split('\n')
+        if line.strip()
+    ))
+    print(f"Found {len(packages)} user-installed packages")
+
+    # Check Play Store availability
+    auth = load_auth()
+    results = []
+    available_count = 0
+
+    if auth:
+        print("Checking availability on Google Play...")
+        scraper = cloudscraper.create_scraper()
+        for i, pkg in enumerate(packages):
+            sys.stdout.write(f"\r  Checking {i + 1}/{len(packages)}: {pkg[:50]}{'...' if len(pkg) > 50 else ''}" + ' ' * 20)
+            sys.stdout.flush()
+            try:
+                url = f"https://play.google.com/store/apps/details?id={pkg}&hl=en"
+                resp = scraper.get(url, timeout=10)
+                if resp.status_code == 200:
+                    results.append({'package': pkg, 'available': True})
+                    available_count += 1
+                else:
+                    results.append({'package': pkg, 'available': False})
+            except Exception:
+                results.append({'package': pkg, 'available': False})
+        print(f"\r  Done: {available_count} available on Play Store, {len(packages) - available_count} not found" + ' ' * 30)
+    else:
+        print("Warning: No auth token — skipping Play Store availability check")
+        results = [{'package': pkg, 'available': True} for pkg in packages]
+
+    # Get device info
+    try:
+        model = sp.run(['adb', 'shell', 'getprop', 'ro.product.model'],
+                        capture_output=True, text=True, timeout=10).stdout.strip()
+    except Exception:
+        model = 'Unknown'
+
+    backup = {
+        'device': model,
+        'date': __import__('datetime').datetime.now().isoformat(),
+        'packages': results
+    }
+
+    # Output
+    output_file = args.output
+    if output_file == '-':
+        print(json.dumps(backup, indent=2))
+    else:
+        if output_file is None:
+            output_file = f"app-backup-{__import__('datetime').date.today().isoformat()}.json"
+        with open(output_file, 'w') as f:
+            json.dump(backup, f, indent=2)
+        print(f"\nBackup saved to: {output_file}")
+        print(f"  {len(results)} packages total, {available_count} available on Play Store")
+
+    return 0
+
+
+def cmd_restore(args):
+    """Restore apps from a backup JSON file."""
+    auth = load_auth()
+    if not auth:
+        return 1
+
+    # Load backup
+    try:
+        with open(args.file) as f:
+            backup = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Error: {e}")
+        return 1
+
+    if not backup.get('packages'):
+        print("Error: Invalid backup file (no packages)")
+        return 1
+
+    packages = [p for p in backup['packages'] if p.get('available', True)]
+    if not packages:
+        print("No available packages to restore")
+        return 0
+
+    print(f"Backup from: {backup.get('device', 'Unknown')} ({backup.get('date', 'Unknown date')})")
+    print(f"Packages to restore: {len(packages)}")
+    print()
+
+    arch = ARCH_MAP.get(args.arch, 'arm64-v8a') if args.arch else 'arm64-v8a'
+    output_dir = Path(args.output)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    should_merge = args.merge
+
+    succeeded = 0
+    failed = 0
+
+    for i, pkg_info in enumerate(packages):
+        pkg = pkg_info['package']
+        print(f"[{i + 1}/{len(packages)}] {pkg}")
+
+        # Create a mock args object for cmd_download
+        class DownloadArgs:
+            pass
+        dl_args = DownloadArgs()
+        dl_args.package = pkg
+        dl_args.arch = args.arch
+        dl_args.output = str(output_dir)
+        dl_args.merge = should_merge
+        dl_args.version = None
+        dl_args.both_arch = False
+        dl_args.all_locales = False
+        dl_args.json = False
+
+        try:
+            result = cmd_download(dl_args)
+            if result == 0:
+                succeeded += 1
+            else:
+                failed += 1
+                print(f"  Failed to download {pkg}")
+        except Exception as e:
+            failed += 1
+            print(f"  Error: {e}")
+
+        print()
+
+    print(f"\nRestore complete: {succeeded} succeeded, {failed} failed")
+    return 0 if failed == 0 else 1
+
+
 def main():
     parser = argparse.ArgumentParser(
         description='Download APKs from Google Play Store',
@@ -1050,6 +1202,19 @@ Examples:
     download_parser.add_argument('--all-locales', action='store_true',
                                 help='Download all language splits (en, he, fr)')
 
+    # Backup command
+    backup_parser = subparsers.add_parser('backup', help='Backup list of installed apps from ADB device')
+    backup_parser.add_argument('-o', '--output', default=None, help='Output file (default: app-backup-DATE.json, use - for stdout)')
+
+    # Restore command
+    restore_parser = subparsers.add_parser('restore', help='Restore apps from a backup file')
+    restore_parser.add_argument('file', help='Backup JSON file')
+    restore_parser.add_argument('-o', '--output', default='.', help='Output directory for downloaded APKs')
+    restore_parser.add_argument('-a', '--arch', choices=['arm64', 'armv7'], default='arm64',
+                                help='Architecture: arm64 (default) or armv7')
+    restore_parser.add_argument('-m', '--merge', action='store_true',
+                                help='Merge split APKs into single installable APK')
+
     args = parser.parse_args()
 
     # Handle download subcommand variants
@@ -1066,6 +1231,8 @@ Examples:
         'download': cmd_download,
         'check-version': cmd_check_version,
         'list-splits': cmd_list_splits,
+        'backup': cmd_backup,
+        'restore': cmd_restore,
     }
 
     return commands[args.command](args)

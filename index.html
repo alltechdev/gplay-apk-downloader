@@ -858,6 +858,87 @@
       50% { opacity: 1; }
     }
 
+    /* Backup/Restore */
+    .backup-card { display: none; }
+    .backup-card.visible { display: block; }
+
+    .backup-list {
+      max-height: 300px;
+      overflow-y: auto;
+      margin-top: 12px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+
+    .backup-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 12px;
+      border-bottom: 1px solid var(--border);
+      font-size: 12px;
+      font-family: var(--font-mono);
+    }
+
+    .backup-item:last-child { border-bottom: none; }
+
+    .backup-item input[type="checkbox"] {
+      accent-color: var(--accent);
+      flex-shrink: 0;
+    }
+
+    .backup-item .pkg-name {
+      flex: 1;
+      color: var(--text-primary);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .backup-item .pkg-status {
+      font-size: 11px;
+      flex-shrink: 0;
+    }
+
+    .backup-item .pkg-status.available { color: var(--success); }
+    .backup-item .pkg-status.unavailable { color: var(--text-tertiary); }
+    .backup-item .pkg-status.checking { color: var(--info); }
+
+    .backup-summary {
+      font-size: 12px;
+      color: var(--text-secondary);
+      margin-top: 8px;
+      font-family: var(--font-mono);
+    }
+
+    .backup-actions {
+      display: flex;
+      gap: 8px;
+      margin-top: 16px;
+      padding-top: 4px;
+      flex-wrap: wrap;
+    }
+
+    #backup-result {
+      margin-top: 12px;
+    }
+
+    #backup-result .msg {
+      margin-bottom: 12px;
+    }
+
+    .file-input-wrap {
+      position: relative;
+      display: inline-flex;
+    }
+
+    .file-input-wrap input[type="file"] {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      cursor: pointer;
+    }
+
     /* Mobile adjustments */
     @media (max-width: 480px) {
       .wrapper { padding: 24px 16px 40px; }
@@ -962,6 +1043,28 @@
         </button>
       </div>
       <div id="search-results" class="results"></div>
+    </div>
+
+    <!-- Backup/Restore Card -->
+    <div class="card backup-card" id="backup-card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+        Backup &amp; Restore
+      </div>
+      <div class="backup-actions" id="backup-actions">
+        <button class="btn-primary" id="backup-btn" onclick="backupApps()" style="display:none">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+          Backup App List
+        </button>
+        <div class="file-input-wrap">
+          <button class="btn-secondary">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Import List
+          </button>
+          <input type="file" accept=".json" onchange="importBackup(event)">
+        </div>
+      </div>
+      <div id="backup-result"></div>
     </div>
 
     <footer class="footer">
@@ -1186,6 +1289,8 @@
       });
       refreshCounter();
       initAdb();
+      // Always show import option (backup button shows when ADB connected)
+      $('#backup-card').classList.add('visible');
     });
 
     function updateCounter(count) {
@@ -1296,6 +1401,8 @@
         mergeWasChecked = mergeCheckbox.checked;
         mergeCheckbox.checked = false;
         mergeCheckbox.disabled = true;
+        const backupBtn = $('#backup-btn');
+        if (backupBtn) backupBtn.style.display = '';
         statusEl.innerHTML =
           '<div class="adb-dot"></div>' +
           '<div class="adb-device-name">' + esc(adbDeviceInfo.model) + '<small>Android ' + esc(adbDeviceInfo.android) + '</small></div>' +
@@ -1304,6 +1411,8 @@
         card.classList.remove('connected');
         mergeCheckbox.disabled = false;
         mergeCheckbox.checked = mergeWasChecked;
+        const backupBtn2 = $('#backup-btn');
+        if (backupBtn2) backupBtn2.style.display = 'none';
         statusEl.innerHTML =
           '<button class="btn-secondary" onclick="adbConnect()">' +
           '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v4M17 2v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 4.93l-2.83 2.83M12 8v4M12 16v.01"/><circle cx="12" cy="12" r="6"/></svg>' +
@@ -1400,6 +1509,236 @@
       const pct = Math.round((current / total) * 100);
       const barEl = $('#install-bar');
       if (barEl) barEl.style.width = pct + '%';
+    }
+
+    // --- Backup & Restore ---
+    let backupData = null;
+
+    async function backupApps() {
+      if (!window.adbManager?.connected) {
+        log('Connect a device first to backup app list', 'warn');
+        return;
+      }
+      const resultEl = $('#backup-result');
+      if (!$('#log-panel').classList.contains('open')) toggleLog();
+      setLogActive(true);
+      log('Reading installed packages from device...', 'dl');
+      resultEl.innerHTML = '<div class="msg info fade-in"><span class="spinner"></span>Reading installed packages...</div>';
+
+      try {
+        const output = await window.adbManager.shell('pm list packages -3');
+        const packages = output.split('\n')
+          .map(l => l.replace('package:', '').trim())
+          .filter(p => p.length > 0)
+          .sort();
+
+        log('Found ' + packages.length + ' user-installed packages', 'ok');
+        log('Checking availability on Google Play...', 'info');
+        resultEl.innerHTML = '<div class="msg info fade-in"><span class="spinner"></span>Checking ' + packages.length + ' packages on Google Play...<div class="progress" style="margin-top:8px"><div class="progress-bar" id="backup-bar" style="width:0%"></div></div></div>';
+
+        const results = [];
+        for (let i = 0; i < packages.length; i++) {
+          const pkg = packages[i];
+          const pct = Math.round(((i + 1) / packages.length) * 100);
+          const bar = $('#backup-bar');
+          if (bar) bar.style.width = pct + '%';
+
+          try {
+            const info = await fetch('/api/info/' + encodeURIComponent(pkg)).then(r => r.json());
+            if (info.error) {
+              results.push({ package: pkg, available: false });
+              log(pkg + ' — not on Play Store', 'warn');
+            } else {
+              results.push({ package: pkg, available: true, title: info.title, developer: info.developer });
+              log(pkg + ' — ' + info.title, 'ok');
+            }
+          } catch {
+            results.push({ package: pkg, available: false });
+            log(pkg + ' — check failed', 'warn');
+          }
+        }
+
+        const available = results.filter(r => r.available);
+        const unavailable = results.filter(r => !r.available);
+        backupData = { device: adbDeviceInfo?.model || 'Unknown', date: new Date().toISOString(), packages: results };
+
+        setLogActive(false);
+        log('Backup complete: ' + available.length + ' available on Play Store, ' + unavailable.length + ' not found', 'ok');
+
+        let html = '<div class="backup-summary">' + available.length + ' available on Play Store, ' + unavailable.length + ' not found</div>';
+        html += '<div class="backup-list">';
+        for (const r of results) {
+          html += '<div class="backup-item">' +
+            '<input type="checkbox" class="backup-check" data-pkg="' + esc(r.package) + '"' + (r.available ? ' checked' : ' disabled') + '>' +
+            '<span class="pkg-name" title="' + esc(r.package) + '">' + (r.title ? esc(r.title) + ' <span style="opacity:0.5">(' + esc(r.package) + ')</span>' : esc(r.package)) + '</span>' +
+            '<span class="pkg-status ' + (r.available ? 'available' : 'unavailable') + '">' + (r.available ? 'available' : 'not found') + '</span>' +
+            '</div>';
+        }
+        html += '</div>';
+        html += '<div class="backup-actions">';
+        html += '<button class="btn-primary" onclick="exportBackup()"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>Export JSON</button>';
+        if (available.length > 0) {
+          html += '<button class="' + (window.adbManager?.connected ? 'btn-install' : 'btn-primary') + '" onclick="restoreSelected()"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>' + (window.adbManager?.connected ? 'Restore to Device' : 'Download All') + '</button>';
+        }
+        html += '</div>';
+        resultEl.innerHTML = html;
+      } catch (e) {
+        setLogActive(false);
+        log('Backup failed: ' + e.message, 'err');
+        resultEl.innerHTML = '<div class="msg err fade-in">' + esc(e.message) + '</div>';
+      }
+    }
+
+    function exportBackup() {
+      if (!backupData) return;
+      const blob = new Blob([JSON.stringify(backupData, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'app-backup-' + new Date().toISOString().slice(0, 10) + '.json';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      log('Backup exported as ' + a.download, 'ok');
+    }
+
+    async function importBackup(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      event.target.value = '';
+      try {
+        const text = await file.text();
+        const data = JSON.parse(text);
+        if (!data.packages || !Array.isArray(data.packages)) throw new Error('Invalid backup file');
+        backupData = data;
+        const available = data.packages.filter(r => r.available);
+        log('Imported backup: ' + data.packages.length + ' packages (' + available.length + ' available)', 'ok');
+
+        const resultEl = $('#backup-result');
+        let html = '<div class="backup-summary">From: ' + esc(data.device || 'Unknown') + ' &middot; ' + (data.date ? new Date(data.date).toLocaleDateString() : 'Unknown date') + ' &middot; ' + available.length + ' available</div>';
+        html += '<div class="backup-list">';
+        for (const r of data.packages.filter(r => r.available)) {
+          html += '<div class="backup-item">' +
+            '<input type="checkbox" class="backup-check" data-pkg="' + esc(r.package) + '" checked>' +
+            '<span class="pkg-name">' + (r.title ? esc(r.title) + ' <span style="opacity:0.5">(' + esc(r.package) + ')</span>' : esc(r.package)) + '</span>' +
+            '<span class="pkg-status available">available</span>' +
+            '</div>';
+        }
+        html += '</div>';
+        html += '<div class="backup-actions">';
+        html += '<button class="' + (window.adbManager?.connected ? 'btn-install' : 'btn-primary') + '" onclick="restoreSelected()"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>' + (window.adbManager?.connected ? 'Restore to Device' : 'Download All') + '</button>';
+        html += '</div>';
+        resultEl.innerHTML = html;
+      } catch (e) {
+        log('Import failed: ' + e.message, 'err');
+        $('#backup-result').innerHTML = '<div class="msg err fade-in">Invalid backup file: ' + esc(e.message) + '</div>';
+      }
+    }
+
+    async function restoreSelected() {
+      const checks = document.querySelectorAll('.backup-check:checked');
+      const packages = Array.from(checks).map(c => c.dataset.pkg);
+      if (packages.length === 0) { log('No packages selected', 'warn'); return; }
+
+      const useAdb = window.adbManager?.connected;
+      const arch = $('#arch-select').value;
+      const resultEl = $('#backup-result');
+
+      if (!$('#log-panel').classList.contains('open')) toggleLog();
+      setLogActive(true);
+      log('Restoring ' + packages.length + ' apps' + (useAdb ? ' to ' + (adbDeviceInfo?.model || 'device') : ' (download only)') + '...', 'dl');
+
+      let succeeded = 0, failed = 0;
+
+      for (let i = 0; i < packages.length; i++) {
+        // Abort if ADB was disconnected mid-restore
+        if (useAdb && !window.adbManager?.connected) {
+          log('Device disconnected — aborting restore (' + succeeded + ' completed)', 'err');
+          resultEl.innerHTML = '<div class="msg err fade-in">Device disconnected. ' + succeeded + ' apps installed before disconnect.</div>';
+          setLogActive(false);
+          refreshCounter();
+          return;
+        }
+
+        const pkg = packages[i];
+        const pct = Math.round(((i + 1) / packages.length) * 100);
+        resultEl.innerHTML = '<div class="msg info fade-in"><span class="spinner"></span>' + (useAdb ? 'Restoring' : 'Downloading') + ' ' + (i + 1) + '/' + packages.length + ': ' + esc(pkg) +
+          '<div class="progress" style="margin-top:8px"><div class="progress-bar" style="width:' + pct + '%"></div></div></div>';
+
+        try {
+          log('(' + (i + 1) + '/' + packages.length + ') Getting download info for ' + pkg + '...', 'dl');
+
+          // Get download info via SSE
+          const dlInfo = await new Promise((resolve, reject) => {
+            const cacheBuster = Date.now();
+            const url = '/api/download-info-stream/' + encodeURIComponent(pkg) + '?arch=' + arch + '&_=' + cacheBuster;
+            const es = new EventSource(url);
+            const timeout = setTimeout(() => { es.close(); reject(new Error('Timeout')); }, 120000);
+            es.onmessage = function(event) {
+              const d = JSON.parse(event.data);
+              if (d.type === 'success') { clearTimeout(timeout); es.close(); resolve(d); }
+              else if (d.type === 'error') { clearTimeout(timeout); es.close(); reject(new Error(d.message)); }
+              else if (d.type === 'progress') { log('  Token attempt #' + d.attempt + ': ' + d.message, 'info'); }
+            };
+            es.onerror = function() { clearTimeout(timeout); es.close(); reject(new Error('Connection lost')); };
+          });
+
+          if (useAdb) {
+            // Download and install via ADB
+            const hasSplits = dlInfo.splits?.length > 0;
+            const apks = [];
+
+            log('  Downloading base APK...', 'dl');
+            const baseBlob = await fetchApkFile(dlInfo.downloadUrl, '/download/' + encodeURIComponent(pkg));
+            apks.push({ blob: baseBlob, name: dlInfo.filename, size: baseBlob.size });
+
+            for (let j = 0; j < (dlInfo.splits || []).length; j++) {
+              log('  Downloading split: ' + dlInfo.splits[j].filename + '...', 'dl');
+              const splitBlob = await fetchApkFile(dlInfo.splits[j].downloadUrl, '/download/' + encodeURIComponent(pkg) + '/' + j);
+              apks.push({ blob: splitBlob, name: dlInfo.splits[j].filename, size: splitBlob.size });
+            }
+
+            if (hasSplits) {
+              await window.adbManager.installSplit(apks, (step, msg) => log('  ' + msg, 'dl'));
+            } else {
+              log('  Installing to device...', 'dl');
+              await window.adbManager.installSingle(apks[0].blob, apks[0].name);
+            }
+            log(pkg + ' installed successfully', 'ok');
+            fetch('/api/stats/increment', { method: 'POST' }).catch(() => {});
+          } else {
+            // Download merged via server
+            log('  Downloading ' + pkg + '...', 'dl');
+            await new Promise((resolve, reject) => {
+              const url = '/api/download-merged-stream/' + encodeURIComponent(pkg) + '?arch=' + arch + '&_=' + Date.now();
+              const es = new EventSource(url);
+              const timeout = setTimeout(() => { es.close(); reject(new Error('Timeout')); }, 300000);
+              es.onmessage = function(event) {
+                const d = JSON.parse(event.data);
+                if (d.type === 'success') {
+                  clearTimeout(timeout); es.close();
+                  window.location.href = '/api/download-temp/' + d.download_id;
+                  if (d.downloads) updateCounter(d.downloads);
+                  resolve();
+                } else if (d.type === 'error') { clearTimeout(timeout); es.close(); reject(new Error(d.message)); }
+                else if (d.type === 'progress') { log('  ' + d.message, 'dl'); }
+              };
+              es.onerror = function() { clearTimeout(timeout); es.close(); reject(new Error('Connection lost')); };
+            });
+            log(pkg + ' download complete', 'ok');
+          }
+          succeeded++;
+        } catch (e) {
+          failed++;
+          log(pkg + ' failed: ' + e.message, 'err');
+        }
+      }
+
+      setLogActive(false);
+      log('Restore complete: ' + succeeded + ' succeeded, ' + failed + ' failed', succeeded > 0 ? 'ok' : 'err');
+      resultEl.innerHTML = '<div class="msg ' + (failed === 0 ? 'ok' : 'err') + ' fade-in">Restore complete: ' + succeeded + ' succeeded, ' + failed + ' failed</div>';
+      refreshCounter();
     }
 
     function formatSize(bytes) {
