@@ -663,6 +663,8 @@ def stats():
     return jsonify({'downloads': get_download_count()})
 
 
+# Per-worker rate limit cache; each gunicorn worker tracks independently.
+# Worst case: a client hits different workers and bypasses the 10s cooldown.
 _last_increment = {}
 
 @app.route('/api/stats/increment', methods=['POST'])
@@ -1175,26 +1177,30 @@ import uuid
 # =============================================================================
 
 DOWNLOAD_COUNTER_FILE = Path.home() / '.gplay-download-count'
-_counter_lock = threading.Lock()
 
 
 def get_download_count():
     """Read the current download count."""
     try:
-        return int(DOWNLOAD_COUNTER_FILE.read_text().strip())
+        with file_lock(DOWNLOAD_COUNTER_FILE, exclusive=False):
+            return int(DOWNLOAD_COUNTER_FILE.read_text().strip())
     except Exception:
         return 0
 
 
 def increment_download_count():
-    """Atomically increment the download counter."""
-    with _counter_lock:
-        count = get_download_count() + 1
-        try:
+    """Atomically increment the download counter (safe across gunicorn workers)."""
+    try:
+        with file_lock(DOWNLOAD_COUNTER_FILE, exclusive=True):
+            try:
+                count = int(DOWNLOAD_COUNTER_FILE.read_text().strip()) + 1
+            except Exception:
+                count = 1
             DOWNLOAD_COUNTER_FILE.write_text(str(count))
-        except Exception as e:
-            logger.warning(f"Failed to update download counter: {e}")
-        return count
+            return count
+    except Exception as e:
+        logger.warning(f"Failed to update download counter: {e}")
+        return get_download_count()
 
 
 # =============================================================================
@@ -1207,7 +1213,8 @@ TEMP_APK_TTL = 600  # 10 minutes
 MAX_TEMP_STORAGE_MB = 2048  # 2GB max temp storage
 TEMP_APK_DIR.mkdir(exist_ok=True)
 
-# Registry for temp files (lightweight - just metadata, not file content)
+# Per-worker registry for temp files (lightweight metadata only).
+# Cross-worker access is handled by disk fallback in consume_temp_apk().
 TEMP_APK_REGISTRY = {}  # {file_id: {'path': Path, 'filename': str, 'created': float, 'size': int}}
 TEMP_APK_LOCK = threading.Lock()
 
@@ -1223,7 +1230,8 @@ merge_semaphore = threading.Semaphore(MAX_CONCURRENT_MERGES)
 SSE_MAX_DURATION = 300  # 5 minutes max for any SSE stream
 MAX_PROFILE_CYCLES = 3  # Max times to cycle through all profiles before giving up
 
-# Search cache (reduces latency for repeated queries)
+# Per-worker search cache (reduces latency for repeated queries).
+# Each gunicorn worker maintains its own cache; duplicate fetches across workers are acceptable.
 SEARCH_CACHE = {}  # {query: (results, timestamp)}
 SEARCH_CACHE_TTL = 21600  # 6 hours - search results rarely change
 SEARCH_CACHE_LOCK = threading.Lock()
