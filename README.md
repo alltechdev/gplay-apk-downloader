@@ -511,7 +511,6 @@ gplay-apk-downloader/
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `CORS_ORIGINS` | (same-origin only) | Comma-separated allowed origins (e.g., `https://yourdomain.com`). Unset = no cross-origin requests allowed |
-| `KEYSTORE_PASS` | `android` | Password for the debug keystore used to sign merged APKs |
 | `LOG_LEVEL` | `INFO` | Logging level (`DEBUG`, `INFO`, `WARNING`, `ERROR`) |
 | `PORT` | `5000` | Server port (used by `start-server.sh`) |
 

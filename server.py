@@ -299,12 +299,11 @@ def sign_apk(apk_bytes):
         tmp_out_path = tmp_in_path + '.signed'
 
         # Sign with apksigner using debug keystore
-        ks_pass = os.environ.get('KEYSTORE_PASS', 'android')
         cmd = [
             'apksigner', 'sign',
             '--ks', str(keystore),
-            '--ks-pass', f'pass:{ks_pass}',
-            '--key-pass', f'pass:{ks_pass}',
+            '--ks-pass', 'pass:android',
+            '--key-pass', 'pass:android',
             '--out', tmp_out_path,
             tmp_in_path
         ]
