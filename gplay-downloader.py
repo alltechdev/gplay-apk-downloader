@@ -116,11 +116,12 @@ def sign_apk(apk_path):
         return False
 
     signed_path = str(apk_path) + '.signed'
+    ks_pass = os.environ.get('KEYSTORE_PASS', 'android')
     cmd = [
         'apksigner', 'sign',
         '--ks', str(keystore),
-        '--ks-pass', 'pass:android',
-        '--key-pass', 'pass:android',
+        '--ks-pass', f'pass:{ks_pass}',
+        '--key-pass', f'pass:{ks_pass}',
         '--out', signed_path,
         str(apk_path)
     ]
