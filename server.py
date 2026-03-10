@@ -1388,12 +1388,24 @@ def get_temp_apk(file_id):
         return meta.copy()
 
 
+def _is_valid_file_id(file_id):
+    """Validate file_id is a strict UUID to prevent path traversal."""
+    try:
+        uuid.UUID(file_id)
+        return True
+    except (ValueError, AttributeError):
+        return False
+
+
 def consume_temp_apk(file_id):
     """Get and remove temp APK from registry (one-time download).
 
     With multiple gunicorn workers, the registry may not have the entry
     if a different worker saved the file. Fall back to disk check.
     """
+    if not _is_valid_file_id(file_id):
+        return None
+
     with TEMP_APK_LOCK:
         meta = TEMP_APK_REGISTRY.pop(file_id, None)
 
@@ -1401,6 +1413,10 @@ def consume_temp_apk(file_id):
     if not meta:
         file_path = TEMP_APK_DIR / f"{file_id}.apk"
         meta_path = TEMP_APK_DIR / f"{file_id}.meta"
+        # Defense-in-depth: verify path didn't escape temp dir
+        if file_path.resolve().parent != TEMP_APK_DIR.resolve():
+            logger.warning(f"Path traversal attempt blocked: {file_id}")
+            return None
         if file_path.exists():
             # Try to read original filename from metadata file
             filename = f"{file_id}.apk"
@@ -1597,8 +1613,11 @@ def download_merged_stream(pkg):
 @app.route('/api/download-temp/<file_id>')
 def download_temp(file_id):
     """Download a temporary merged APK (streams from disk)."""
+    if not _is_valid_file_id(file_id):
+        return jsonify({'error': 'Invalid file ID'}), 400
+
     meta = consume_temp_apk(file_id)
-    if not meta or not meta['path'].exists():
+    if not meta:
         return jsonify({'error': 'File not found or expired'}), 404
 
     def generate_and_cleanup():

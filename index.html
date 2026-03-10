@@ -1806,7 +1806,7 @@
     function esc(s) {
       const d = document.createElement('div');
       d.textContent = s;
-      return d.innerHTML;
+      return d.innerHTML.replace(/'/g, '&#39;');
     }
 
     function sel(pkg) { $('#pkg-input').value = pkg; getInfo(); }
