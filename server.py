@@ -45,8 +45,9 @@ logging.basicConfig(level=getattr(logging, _log_level, logging.INFO), format='%(
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
-_cors_origins = os.environ.get('CORS_ORIGINS', '*')
-CORS(app, origins=_cors_origins.split(',') if _cors_origins != '*' else '*')
+_cors_origins = os.environ.get('CORS_ORIGINS', '')
+if _cors_origins:
+    CORS(app, origins=_cors_origins.split(','))
 
 # Import gpapi protobuf
 try:
@@ -339,6 +340,22 @@ def sanitize_filename(name):
     name = re.sub(r'[\r\n"]', '', name)
     name = os.path.basename(name)
     return name or 'download.apk'
+
+
+# Valid Android package name: segments of [a-zA-Z][a-zA-Z0-9_]* separated by dots, max 255 chars
+_PKG_RE = re.compile(r'^[a-zA-Z][a-zA-Z0-9_]*(\.[a-zA-Z][a-zA-Z0-9_]*)+$')
+
+
+def validate_package_name(pkg):
+    """Return True if pkg is a valid Android package name."""
+    return bool(pkg and len(pkg) <= 255 and _PKG_RE.match(pkg))
+
+
+def _require_valid_pkg(pkg):
+    """Return a 400 JSON response if pkg is invalid, else None."""
+    if not validate_package_name(pkg):
+        return jsonify({'error': 'Invalid package name'}), 400
+    return None
 
 
 def get_cached_auth(arch='arm64-v8a'):
@@ -666,13 +683,13 @@ def auth():
     cached = get_cached_auth()
     if cached and test_auth_token(cached, strict=True):
         logger.info("Using existing valid cached token (passed Chase test)")
-        return jsonify({'success': True, 'authData': cached, 'cached': True})
+        return jsonify({'success': True, 'authenticated': True, 'cached': True})
 
     # If we have a cached token that at least works for simple apps, use it
     # but warn that some apps may not work
     if cached and test_auth_token(cached, strict=False):
         logger.warning("Cached token works for simple apps (may have limited functionality)")
-        return jsonify({'success': True, 'authData': cached, 'cached': True, 'warning': 'Token may not work for all apps'})
+        return jsonify({'success': True, 'authenticated': True, 'cached': True, 'warning': 'Token may not work for all apps'})
 
     return jsonify({'error': 'No valid cached token. Use the streaming auth endpoint.'}), 400
 
@@ -688,7 +705,7 @@ def auth_stream():
         cached = get_cached_auth()
         if cached and test_auth_token(cached, strict=True):
             logger.info("Using existing valid cached token (passed Chase test)")
-            yield f"data: {json.dumps({'type': 'success', 'authData': cached, 'cached': True, 'attempt': 0})}\n\n"
+            yield f"data: {json.dumps({'type': 'success', 'authenticated': True, 'cached': True, 'attempt': 0})}\n\n"
             return
 
         attempt = 0
@@ -745,7 +762,7 @@ def auth_stream():
                     # Save the working token
                     save_cached_auth(auth_data)
                     logger.info(f"Token #{attempt} ({profile_name}) validated with Chase and saved")
-                    yield f"data: {json.dumps({'type': 'success', 'authData': auth_data, 'cached': False, 'attempt': attempt})}\n\n"
+                    yield f"data: {json.dumps({'type': 'success', 'authenticated': True, 'cached': False, 'attempt': attempt})}\n\n"
                     return
                 else:
                     logger.warning(f"Token #{attempt} ({profile_name}) failed Chase validation")
@@ -892,6 +909,9 @@ def search():
 
 @app.route('/api/info/<path:pkg>')
 def info(pkg):
+    err = _require_valid_pkg(pkg)
+    if err:
+        return err
     try:
         response = get_scraper().get(
             f'https://play.google.com/store/apps/details?id={pkg}&hl=en',
@@ -918,6 +938,9 @@ def info(pkg):
 
 @app.route('/api/download-info/<path:pkg>')
 def download_info(pkg):
+    err = _require_valid_pkg(pkg)
+    if err:
+        return err
     auth = get_auth_from_request()
     if not auth:
         return jsonify({'error': 'Not authenticated'}), 401
@@ -949,6 +972,9 @@ def download_info(pkg):
 @app.route('/api/download-info-stream/<path:pkg>')
 def download_info_stream(pkg):
     """SSE endpoint that tries tokens until download URL is obtained (with timeout protection)."""
+    err = _require_valid_pkg(pkg)
+    if err:
+        return err
     import time
 
     # Get architecture from query parameter
@@ -1102,6 +1128,9 @@ def download_info_stream(pkg):
 @app.route('/download/<path:pkg>/<int:split_index>')
 def download(pkg, split_index=None):
     """Proxy download for when direct download fails."""
+    err = _require_valid_pkg(pkg)
+    if err:
+        return err
     auth = get_auth_from_request()
     if not auth:
         return jsonify({'error': 'Not authenticated'}), 401
@@ -1458,6 +1487,9 @@ _warm_connection_pool()
 @app.route('/api/download-merged-stream/<path:pkg>')
 def download_merged_stream(pkg):
     """SSE endpoint that downloads, merges, signs APKs with progress updates."""
+    err = _require_valid_pkg(pkg)
+    if err:
+        return err
     import time
 
     arch = request.args.get('arch', 'arm64-v8a')
@@ -1651,6 +1683,9 @@ def download_temp(file_id):
 @app.route('/api/download-merged/<path:pkg>')
 def download_merged(pkg):
     """Download and merge all APKs into a single installable APK (non-streaming fallback)."""
+    err = _require_valid_pkg(pkg)
+    if err:
+        return err
     import time
 
     # Get architecture from query parameter
