@@ -441,6 +441,11 @@ def cmd_info(args):
 
 def cmd_download(args):
     """Download APK."""
+    # Pre-check ADB device if --install requested
+    if getattr(args, 'install', False):
+        if not _check_adb_device():
+            return 1
+
     auth = load_auth()
     if not auth:
         return 1
@@ -625,7 +630,7 @@ def cmd_download(args):
                 install_path = merged_filepath if merged_filepath.exists() else filepath
                 print(f"Installing {install_path.name} to device...")
                 result = sp.run(['adb', 'install', '-r', str(install_path)],
-                                capture_output=True, text=True, timeout=120)
+                                capture_output=True, text=True, timeout=300)
                 if result.returncode == 0:
                     print("Installed successfully!")
                 else:
@@ -636,7 +641,7 @@ def cmd_download(args):
                 all_apks = [str(filepath)] + [str(sf) for sf in split_files]
                 print(f"Installing {len(all_apks)} APKs to device (session install)...")
                 result = sp.run(['adb', 'install-multiple', '-r'] + all_apks,
-                                capture_output=True, text=True, timeout=120)
+                                capture_output=True, text=True, timeout=300)
                 if result.returncode == 0:
                     print("Installed successfully!")
                 else:
@@ -646,7 +651,7 @@ def cmd_download(args):
                 # Single APK, no splits
                 print(f"Installing {filepath.name} to device...")
                 result = sp.run(['adb', 'install', '-r', str(filepath)],
-                                capture_output=True, text=True, timeout=120)
+                                capture_output=True, text=True, timeout=300)
                 if result.returncode == 0:
                     print("Installed successfully!")
                 else:
@@ -1027,15 +1032,28 @@ def cmd_download_all_locales(args):
     return 0
 
 
-def cmd_backup(args):
-    """Backup list of user-installed packages from connected ADB device."""
+def _check_adb_device():
+    """Check adb is available and a device is connected. Returns True if ready."""
     import subprocess as sp
-
-    # Check adb is available
     try:
         sp.run(['adb', 'version'], capture_output=True, check=True)
     except (FileNotFoundError, sp.CalledProcessError):
         print("Error: adb not found. Install Android SDK platform-tools.")
+        return False
+    result = sp.run(['adb', 'devices'], capture_output=True, text=True, timeout=10)
+    devices = [l for l in result.stdout.strip().split('\n')[1:] if l.strip() and 'device' in l]
+    if not devices:
+        print("Error: No ADB device connected.")
+        return False
+    return True
+
+
+def cmd_backup(args):
+    """Backup list of user-installed packages from connected ADB device."""
+    import subprocess as sp
+    import datetime
+
+    if not _check_adb_device():
         return 1
 
     print("Reading user-installed packages from device...")
@@ -1091,7 +1109,7 @@ def cmd_backup(args):
 
     backup = {
         'device': model,
-        'date': __import__('datetime').datetime.now().isoformat(),
+        'date': datetime.datetime.now().isoformat(),
         'packages': results
     }
 
@@ -1101,7 +1119,7 @@ def cmd_backup(args):
         print(json.dumps(backup, indent=2))
     else:
         if output_file is None:
-            output_file = f"app-backup-{__import__('datetime').date.today().isoformat()}.json"
+            output_file = f"app-backup-{datetime.date.today().isoformat()}.json"
         with open(output_file, 'w') as f:
             json.dump(backup, f, indent=2)
         print(f"\nBackup saved to: {output_file}")
@@ -1112,6 +1130,11 @@ def cmd_backup(args):
 
 def cmd_restore(args):
     """Restore apps from a backup JSON file."""
+    # Pre-check ADB device if --install requested
+    if getattr(args, 'install', False):
+        if not _check_adb_device():
+            return 1
+
     auth = load_auth()
     if not auth:
         return 1
@@ -1145,13 +1168,13 @@ def cmd_restore(args):
     succeeded = 0
     failed = 0
 
+    class DownloadArgs:
+        pass
+
     for i, pkg_info in enumerate(packages):
         pkg = pkg_info['package']
         print(f"[{i + 1}/{len(packages)}] {pkg}")
 
-        # Create a mock args object for cmd_download
-        class DownloadArgs:
-            pass
         dl_args = DownloadArgs()
         dl_args.package = pkg
         dl_args.arch = args.arch

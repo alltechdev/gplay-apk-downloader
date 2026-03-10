@@ -1048,7 +1048,7 @@
     <!-- Backup/Restore Card -->
     <div class="card backup-card" id="backup-card">
       <div class="card-label">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
         Backup &amp; Restore
       </div>
       <div class="backup-actions" id="backup-actions">
@@ -1565,7 +1565,9 @@
         setLogActive(false);
         log('Backup complete: ' + available.length + ' available on Play Store, ' + unavailable.length + ' not found', 'ok');
 
-        let html = '<div class="backup-summary">' + available.length + ' available on Play Store, ' + unavailable.length + ' not found</div>';
+        let html = '<div class="backup-summary">' + available.length + ' available on Play Store, ' + unavailable.length + ' not found' +
+          ' &middot; <a href="#" onclick="toggleAllBackupChecks(true);return false" style="color:var(--accent)">Select all</a>' +
+          ' / <a href="#" onclick="toggleAllBackupChecks(false);return false" style="color:var(--accent)">None</a></div>';
         html += '<div class="backup-list">';
         for (const r of results) {
           html += '<div class="backup-item">' +
@@ -1616,7 +1618,9 @@
         log('Imported backup: ' + data.packages.length + ' packages (' + available.length + ' available)', 'ok');
 
         const resultEl = $('#backup-result');
-        let html = '<div class="backup-summary">From: ' + esc(data.device || 'Unknown') + ' &middot; ' + (data.date ? new Date(data.date).toLocaleDateString() : 'Unknown date') + ' &middot; ' + available.length + ' available</div>';
+        let html = '<div class="backup-summary">From: ' + esc(data.device || 'Unknown') + ' &middot; ' + (data.date ? new Date(data.date).toLocaleDateString() : 'Unknown date') + ' &middot; ' + available.length + ' available' +
+          ' &middot; <a href="#" onclick="toggleAllBackupChecks(true);return false" style="color:var(--accent)">Select all</a>' +
+          ' / <a href="#" onclick="toggleAllBackupChecks(false);return false" style="color:var(--accent)">None</a></div>';
         html += '<div class="backup-list">';
         for (const r of data.packages.filter(r => r.available)) {
           html += '<div class="backup-item">' +
@@ -1636,6 +1640,17 @@
       }
     }
 
+    function toggleAllBackupChecks(checked) {
+      document.querySelectorAll('.backup-check:not(:disabled)').forEach(function(c) { c.checked = checked; });
+    }
+
+    let restoreAborted = false;
+
+    function abortRestore() {
+      restoreAborted = true;
+      log('Abort requested — stopping after current app...', 'warn');
+    }
+
     async function restoreSelected() {
       const checks = document.querySelectorAll('.backup-check:checked');
       const packages = Array.from(checks).map(c => c.dataset.pkg);
@@ -1644,14 +1659,25 @@
       const useAdb = window.adbManager?.connected;
       const arch = $('#arch-select').value;
       const resultEl = $('#backup-result');
+      restoreAborted = false;
+
+      // Disable all backup action buttons during restore
+      document.querySelectorAll('#backup-result button, #backup-actions button').forEach(function(b) { b.disabled = true; });
 
       if (!$('#log-panel').classList.contains('open')) toggleLog();
       setLogActive(true);
-      log('Restoring ' + packages.length + ' apps' + (useAdb ? ' to ' + (adbDeviceInfo?.model || 'device') : ' (download only)') + '...', 'dl');
+      const action = useAdb ? 'Restoring' : 'Downloading';
+      log(action + ' ' + packages.length + ' apps' + (useAdb ? ' to ' + (adbDeviceInfo?.model || 'device') : '') + '...', 'dl');
 
       let succeeded = 0, failed = 0;
 
       for (let i = 0; i < packages.length; i++) {
+        // Check abort flag
+        if (restoreAborted) {
+          log('Restore aborted by user (' + succeeded + ' completed, ' + (packages.length - i) + ' skipped)', 'warn');
+          break;
+        }
+
         // Abort if ADB was disconnected mid-restore
         if (useAdb && !window.adbManager?.connected) {
           log('Device disconnected — aborting restore (' + succeeded + ' completed)', 'err');
@@ -1664,7 +1690,8 @@
         const pkg = packages[i];
         const pct = Math.round(((i + 1) / packages.length) * 100);
         resultEl.innerHTML = '<div class="msg info fade-in"><span class="spinner"></span>' + (useAdb ? 'Restoring' : 'Downloading') + ' ' + (i + 1) + '/' + packages.length + ': ' + esc(pkg) +
-          '<div class="progress" style="margin-top:8px"><div class="progress-bar" style="width:' + pct + '%"></div></div></div>';
+          '<div class="progress" style="margin-top:8px"><div class="progress-bar" style="width:' + pct + '%"></div></div>' +
+          '<button class="btn-secondary" onclick="abortRestore()" style="margin-top:8px;font-size:11px">Abort</button></div>';
 
         try {
           log('(' + (i + 1) + '/' + packages.length + ') Getting download info for ' + pkg + '...', 'dl');
@@ -1708,9 +1735,9 @@
             log(pkg + ' installed successfully', 'ok');
             fetch('/api/stats/increment', { method: 'POST' }).catch(() => {});
           } else {
-            // Download merged via server
+            // Download merged via server — use hidden iframe to avoid navigating away
             log('  Downloading ' + pkg + '...', 'dl');
-            await new Promise((resolve, reject) => {
+            const downloadId = await new Promise((resolve, reject) => {
               const url = '/api/download-merged-stream/' + encodeURIComponent(pkg) + '?arch=' + arch + '&_=' + Date.now();
               const es = new EventSource(url);
               const timeout = setTimeout(() => { es.close(); reject(new Error('Timeout')); }, 300000);
@@ -1718,14 +1745,19 @@
                 const d = JSON.parse(event.data);
                 if (d.type === 'success') {
                   clearTimeout(timeout); es.close();
-                  window.location.href = '/api/download-temp/' + d.download_id;
                   if (d.downloads) updateCounter(d.downloads);
-                  resolve();
+                  resolve(d.download_id);
                 } else if (d.type === 'error') { clearTimeout(timeout); es.close(); reject(new Error(d.message)); }
                 else if (d.type === 'progress') { log('  ' + d.message, 'dl'); }
               };
               es.onerror = function() { clearTimeout(timeout); es.close(); reject(new Error('Connection lost')); };
             });
+            // Trigger download via hidden iframe instead of window.location.href
+            const iframe = document.createElement('iframe');
+            iframe.style.display = 'none';
+            iframe.src = '/api/download-temp/' + downloadId;
+            document.body.appendChild(iframe);
+            setTimeout(function() { iframe.remove(); }, 30000);
             log(pkg + ' download complete', 'ok');
           }
           succeeded++;
@@ -1736,8 +1768,12 @@
       }
 
       setLogActive(false);
-      log('Restore complete: ' + succeeded + ' succeeded, ' + failed + ' failed', succeeded > 0 ? 'ok' : 'err');
-      resultEl.innerHTML = '<div class="msg ' + (failed === 0 ? 'ok' : 'err') + ' fade-in">Restore complete: ' + succeeded + ' succeeded, ' + failed + ' failed</div>';
+      const abortedCount = restoreAborted ? packages.length - succeeded - failed : 0;
+      let summary = succeeded + ' succeeded, ' + failed + ' failed';
+      if (abortedCount > 0) summary += ', ' + abortedCount + ' skipped';
+      const doneLabel = useAdb ? 'Restore' : 'Download';
+      log(doneLabel + ' complete: ' + summary, succeeded > 0 ? 'ok' : 'err');
+      resultEl.innerHTML = '<div class="msg ' + (failed === 0 ? 'ok' : 'err') + ' fade-in">' + doneLabel + ' complete: ' + summary + '</div>';
       refreshCounter();
     }
 
