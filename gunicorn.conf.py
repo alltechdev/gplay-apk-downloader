@@ -4,7 +4,10 @@
 import multiprocessing
 
 # Worker configuration
-# gevent provides async workers that handle SSE streaming well
+# gevent provides async workers that handle SSE streaming well.
+# Each worker holds its own in-memory caches (search results, temp APK registry,
+# rate-limit tracker). With default settings, expect ~50-100MB per worker baseline
+# plus up to ~2GB shared temp APK storage on disk.
 worker_class = 'gevent'
 workers = min(multiprocessing.cpu_count() * 2 + 1, 8)
 worker_connections = 1000

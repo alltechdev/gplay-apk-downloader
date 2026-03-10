@@ -1270,14 +1270,18 @@ def get_cached_search(query):
 
 def cache_search(query, results):
     """Cache search results with TTL."""
+    now = time_module.time()
     with SEARCH_CACHE_LOCK:
-        # Limit cache size to prevent memory bloat
+        # Purge expired entries first
+        expired = [k for k, (_, ts) in SEARCH_CACHE.items() if now - ts >= SEARCH_CACHE_TTL]
+        for k in expired:
+            del SEARCH_CACHE[k]
+        # If still over limit, remove oldest entries
         if len(SEARCH_CACHE) > 1000:
-            # Remove oldest 100 entries
             oldest = sorted(SEARCH_CACHE.items(), key=lambda x: x[1][1])[:100]
             for k, _ in oldest:
                 del SEARCH_CACHE[k]
-        SEARCH_CACHE[query] = (results, time_module.time())
+        SEARCH_CACHE[query] = (results, now)
 
 
 def get_backoff_delay(attempt, base=1.0, max_delay=30.0):

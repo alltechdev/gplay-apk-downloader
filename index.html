@@ -1537,25 +1537,28 @@
         resultEl.innerHTML = '<div class="msg info fade-in"><span class="spinner"></span>Checking ' + packages.length + ' packages on Google Play...<div class="progress" style="margin-top:8px"><div class="progress-bar" id="backup-bar" style="width:0%"></div></div></div>';
 
         const results = [];
-        for (let i = 0; i < packages.length; i++) {
-          const pkg = packages[i];
-          const pct = Math.round(((i + 1) / packages.length) * 100);
+        const BATCH_SIZE = 5;
+        for (let i = 0; i < packages.length; i += BATCH_SIZE) {
+          const batch = packages.slice(i, i + BATCH_SIZE);
+          const batchResults = await Promise.all(batch.map(async function(pkg) {
+            try {
+              const info = await fetch('/api/info/' + encodeURIComponent(pkg)).then(r => r.json());
+              if (info.error) {
+                log(pkg + ' — not on Play Store', 'warn');
+                return { package: pkg, available: false };
+              } else {
+                log(pkg + ' — ' + info.title, 'ok');
+                return { package: pkg, available: true, title: info.title, developer: info.developer };
+              }
+            } catch {
+              log(pkg + ' — check failed', 'warn');
+              return { package: pkg, available: false };
+            }
+          }));
+          results.push(...batchResults);
+          const pct = Math.round(Math.min(i + BATCH_SIZE, packages.length) / packages.length * 100);
           const bar = $('#backup-bar');
           if (bar) bar.style.width = pct + '%';
-
-          try {
-            const info = await fetch('/api/info/' + encodeURIComponent(pkg)).then(r => r.json());
-            if (info.error) {
-              results.push({ package: pkg, available: false });
-              log(pkg + ' — not on Play Store', 'warn');
-            } else {
-              results.push({ package: pkg, available: true, title: info.title, developer: info.developer });
-              log(pkg + ' — ' + info.title, 'ok');
-            }
-          } catch {
-            results.push({ package: pkg, available: false });
-            log(pkg + ' — check failed', 'warn');
-          }
         }
 
         const available = results.filter(r => r.available);
