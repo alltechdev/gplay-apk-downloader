@@ -2057,7 +2057,7 @@
         setLogActive(false);
         log('ZIP download complete: ' + pkg + '-' + versionCode + '.zip', 'ok');
         progressEl.innerHTML = '<div class="msg ok fade-in">Download complete</div>';
-        refreshCounter();
+        fetch('/api/stats/increment', { method: 'POST' }).then(r => r.json()).then(d => updateCounter(d.downloads)).catch(() => {});
       } catch(e) {
         setLogActive(false);
         log('Download failed: ' + e.message, 'err');

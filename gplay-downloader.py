@@ -547,8 +547,9 @@ def cmd_download(args):
 
         # Download with cookies if provided
         download_headers = {}
-        for cookie in delivery_data.downloadAuthCookie:
-            download_headers['Cookie'] = f"{cookie.name}={cookie.value}"
+        cookie_parts = [f"{cookie.name}={cookie.value}" for cookie in delivery_data.downloadAuthCookie]
+        if cookie_parts:
+            download_headers['Cookie'] = '; '.join(cookie_parts)
 
         dl_response = requests.get(download_url, headers=download_headers, stream=True, timeout=60)
 
@@ -833,7 +834,7 @@ def cmd_list_splits(args):
                     try:
                         if file_meta.splitId:
                             all_splits.add(file_meta.splitId)
-                    except:
+                    except Exception:
                         pass  # Field may not exist
 
                 # Also check dependencies.splitApks
@@ -842,7 +843,7 @@ def cmd_list_splits(args):
                         for split_name in app_details.dependencies.splitApks:
                             if split_name:
                                 all_splits.add(split_name)
-                except:
+                except Exception:
                     pass  # Field may not exist
 
                 result['splits'] = sorted(list(all_splits))

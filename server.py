@@ -1655,7 +1655,11 @@ def download_temp(file_id):
     def generate_and_cleanup():
         """Stream file from disk and clean up after."""
         try:
-            with open(meta['path'], 'rb') as f:
+            try:
+                f = open(meta['path'], 'rb')
+            except FileNotFoundError:
+                return
+            with f:
                 while True:
                     chunk = f.read(65536)  # 64KB chunks
                     if not chunk:
@@ -1692,8 +1696,6 @@ def download_merged(pkg):
     arch = request.args.get('arch', 'arm64-v8a')
     if arch not in SUPPORTED_ARCHS:
         arch = 'arm64-v8a'
-    device_config = get_device_config(arch)
-
     # Try to get a working token and download info
     auth_data = None
     info = None
@@ -1708,10 +1710,14 @@ def download_merged(pkg):
         except Exception:
             pass
 
-    # If cached didn't work, try new tokens with exponential backoff
+    # If cached didn't work, try new tokens with profile rotation
     if not auth_data:
+        profiles = get_priority_device_configs(arch)
+        profile_count = len(profiles)
+        max_attempts = profile_count * MAX_PROFILE_CYCLES
         scraper = get_scraper()  # Reuse scraper across attempts
-        for attempt in range(100):
+        for attempt in range(max_attempts):
+            profile_key, profile = profiles[attempt % profile_count]
             try:
                 response = scraper.post(
                     DISPENSER_URL,
@@ -1719,7 +1725,7 @@ def download_merged(pkg):
                         'User-Agent': 'com.aurora.store-4.6.1-70',
                         'Content-Type': 'application/json',
                     },
-                    json=device_config,
+                    json=profile,
                     timeout=(5, 30)
                 )
 
