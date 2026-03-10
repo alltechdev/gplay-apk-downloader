@@ -510,7 +510,7 @@ gplay-apk-downloader/
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `CORS_ORIGINS` | `*` (all origins) | Comma-separated allowed origins (e.g., `https://yourdomain.com`) |
+| `CORS_ORIGINS` | (same-origin only) | Comma-separated allowed origins (e.g., `https://yourdomain.com`). Unset = no cross-origin requests allowed |
 | `LOG_LEVEL` | `INFO` | Logging level (`DEBUG`, `INFO`, `WARNING`, `ERROR`) |
 | `PORT` | `5000` | Server port (used by `start-server.sh`) |
 
@@ -552,8 +552,12 @@ Set these in your systemd service file or shell environment.
 
 ## Security
 
-- **CORS**: Defaults to allowing all origins (`*`). For production, set `CORS_ORIGINS` to your domain
+- **CORS**: Defaults to same-origin only (no cross-origin requests). Set `CORS_ORIGINS` to allow specific external domains
+- **Input validation**: Package names are validated against Android naming rules; temp file IDs are validated as strict UUIDs
+- **XSS protection**: All user-controlled data is escaped before DOM insertion, including single quotes in JS contexts
+- **Auth tokens**: Server-side only — auth tokens are never sent to the frontend
 - **Filename sanitization**: All Content-Disposition headers are sanitized against path traversal and header injection
+- **Download counter**: Uses file-level locking for safe concurrent access across gunicorn workers
 - **Logging**: Production defaults to `INFO` level — no auth tokens logged. Set `LOG_LEVEL=DEBUG` only for development
 - **No authentication**: API endpoints are open by default. Use a reverse proxy (nginx) to add auth if needed
 - **HTTPS**: Not built-in — deploy behind a reverse proxy with TLS termination
