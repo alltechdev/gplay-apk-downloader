@@ -44,7 +44,7 @@ _log_level = os.environ.get('LOG_LEVEL', 'INFO').upper()
 logging.basicConfig(level=getattr(logging, _log_level, logging.INFO), format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='public', static_url_path='')
 _cors_origins = os.environ.get('CORS_ORIGINS', '')
 if _cors_origins:
     CORS(app, origins=_cors_origins.split(','))
@@ -617,7 +617,7 @@ def get_download_info(pkg, auth):
 # Routes
 @app.route('/')
 def index():
-    return send_file('index.html')
+    return send_file('public/index.html')
 
 
 @app.route('/health')

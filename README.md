@@ -492,7 +492,11 @@ gplay-apk-downloader/
 ├── device_profiles.py   # Device profile loader and priority ordering
 ├── profiles/            # 23 Aurora Store device profiles (.properties)
 ├── test_profiles.py     # Profile testing utility
-├── index.html           # Web UI
+├── public/              # Web UI static files
+│   ├── index.html       # HTML skeleton
+│   ├── style.css        # Styles
+│   ├── app.js           # Main application JS
+│   └── adb.js           # WebUSB ADB module
 ├── gunicorn.conf.py     # Gunicorn production config
 ├── start-server.sh      # Server startup script (dev/production)
 ├── setup.sh             # Installation script
