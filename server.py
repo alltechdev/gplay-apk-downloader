@@ -49,6 +49,15 @@ _cors_origins = os.environ.get('CORS_ORIGINS', '')
 if _cors_origins:
     CORS(app, origins=_cors_origins.split(','))
 
+
+@app.after_request
+def set_security_headers(response):
+    response.headers['X-Content-Type-Options'] = 'nosniff'
+    response.headers['X-Frame-Options'] = 'DENY'
+    response.headers['Referrer-Policy'] = 'strict-origin-when-cross-origin'
+    return response
+
+
 # Import gpapi protobuf
 try:
     from gpapi import googleplay_pb2
