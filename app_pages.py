@@ -3,6 +3,7 @@ Auto-generated SEO app pages.
 Caches app metadata + icons on first download, serves templated pages.
 """
 
+import html as htmlmod
 import json
 import os
 import re
@@ -55,13 +56,22 @@ def cache_app(pkg, title, icon_url=None, description=''):
         # Download and cache icon
         if icon_url:
             try:
-                icon_resp = requests.get(icon_url, timeout=10)
+                icon_resp = requests.get(icon_url, timeout=10, stream=True)
                 if icon_resp.status_code == 200:
-                    ct = icon_resp.headers.get('content-type', '')
-                    ext = 'webp' if 'webp' in ct else 'png' if 'png' in ct else 'jpg'
-                    icon_path = ICONS_DIR / f'{pkg}.{ext}'
-                    icon_path.write_bytes(icon_resp.content)
-                    entry['icon'] = f'/icons/{pkg}.{ext}'
+                    # Limit icon size to 1MB
+                    chunks = []
+                    size = 0
+                    for chunk in icon_resp.iter_content(8192):
+                        size += len(chunk)
+                        if size > 1_000_000:
+                            break
+                        chunks.append(chunk)
+                    if size <= 1_000_000:
+                        ct = icon_resp.headers.get('content-type', '')
+                        ext = 'webp' if 'webp' in ct else 'png' if 'png' in ct else 'jpg'
+                        icon_path = ICONS_DIR / f'{pkg}.{ext}'
+                        icon_path.write_bytes(b''.join(chunks))
+                        entry['icon'] = f'/icons/{pkg}.{ext}'
             except Exception as e:
                 logger.warning(f"Failed to cache icon for {pkg}: {e}")
 
@@ -80,7 +90,6 @@ def enrich_from_play(pkg):
 
     # Get details page for title + description
     try:
-        import html as htmlmod
         resp = scraper.get(f'https://play.google.com/store/apps/details?id={pkg}&hl=en', timeout=15)
         if resp.status_code == 200:
             text = resp.text
@@ -130,14 +139,17 @@ def render_app_page(pkg):
     except FileNotFoundError:
         return None
 
-    title = meta.get('title', pkg)
-    icon = meta.get('icon', '')
+    title = htmlmod.escape(meta.get('title', pkg))
+    icon = htmlmod.escape(meta.get('icon', ''))
+    pkg_escaped = htmlmod.escape(pkg)
     description = meta.get('description', '')
+    # Escape then restore line breaks as <br>
+    desc_safe = htmlmod.escape(description).replace('\n', '<br>')
 
-    html = template.replace('__PKG__', pkg)
+    html = template.replace('__PKG__', pkg_escaped)
     html = html.replace('__TITLE__', title)
     html = html.replace('__ICON__', icon)
-    html = html.replace('__DESCRIPTION__', description.replace('\n', '<br>'))
+    html = html.replace('__DESCRIPTION__', desc_safe)
     html = html.replace('__DESCRIPTION_DISPLAY__', '' if description else 'display:none')
     return html
 
@@ -188,9 +200,9 @@ def render_browse_page():
         apps = categories[cat]
         cards_html += f'<div class="browse-category"><h2 class="browse-category-title">{cat}</h2><div class="browse-grid">'
         for app in apps:
-            pkg = app.get('package', '')
-            title = app.get('title', pkg)
-            icon = app.get('icon', '')
+            pkg = htmlmod.escape(app.get('package', ''))
+            title = htmlmod.escape(app.get('title', pkg))
+            icon = htmlmod.escape(app.get('icon', ''))
             icon_html = f'<img class="browse-icon" src="{icon}" alt="" loading="lazy" onerror="this.style.display=\'none\'">' if icon else '<div class="browse-icon-placeholder"></div>'
             cards_html += (
                 f'<a class="browse-card" href="/app/{pkg}">'

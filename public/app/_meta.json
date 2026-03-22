@@ -3046,5 +3046,11 @@
     "package": "com.kick.mobile",
     "description": "KICK\u2019s a live streaming platform where creators kick it with their communities. (Yeah, we said the thing\u2026)\n\nOur creators march to the beat of their own drum, as do we, disrupting our opps with a 95-5 subscription split, our creator incentive program, and the freedom to multistream.\n\nThat's why the likes of xQc, Asmongold, and Westcol all pick KICK.\n\nFor viewers, it\u2019s the fear of missing out that compels them to tune in, the chance to be part of internet culture, all in real-time and ad-free.\n\nbut lets be real, no one reads these, so if youve made it this far, at least give the app 5 stars. it will good for my performance review. thanks <3\n\nP.S. Peep the boring stuff at kick.com/terms-of-service",
     "icon": "/icons/com.kick.mobile.png"
+  },
+  "com.fourprojetccarone": {
+    "title": "Fermata Auto Android",
+    "package": "com.fourprojetccarone",
+    "description": "Fermata Auto is a companion application designed to help Android users access media and useful phone features on compatible car displays.\n\nThe app provides a simple interface suitable for larger screens, allowing users to browse media content, view navigation tools, and interact with supported phone functions in a clear layout. Car Connect is designed to make it easier to interact with your device while using a vehicle display.\n\nWhether you are commuting to work or taking a long trip, Car Connect offers a structured interface that helps you access important features from your phone in one place.\n\nKey Features\nSimple and Clear Interface\n\nCar Connect includes a clean layout designed for easy navigation on larger vehicle displays.\n\nMedia Access on Car Screens\n\nBrowse and play supported video ",
+    "icon": "/icons/com.fourprojetccarone.png"
   }
 }

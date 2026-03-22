@@ -675,6 +675,8 @@ def apps_browse():
 
 @app.route('/app/<path:pkg>')
 def app_page(pkg):
+    if not re.match(r'^[a-zA-Z][a-zA-Z0-9_.]*$', pkg):
+        return Response('Invalid package name', status=400, content_type='text/plain')
     from app_pages import render_app_page
     html = render_app_page(pkg)
     if not html:
