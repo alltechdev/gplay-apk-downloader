@@ -3052,5 +3052,23 @@
     "package": "com.fourprojetccarone",
     "description": "Fermata Auto is a companion application designed to help Android users access media and useful phone features on compatible car displays.\n\nThe app provides a simple interface suitable for larger screens, allowing users to browse media content, view navigation tools, and interact with supported phone functions in a clear layout. Car Connect is designed to make it easier to interact with your device while using a vehicle display.\n\nWhether you are commuting to work or taking a long trip, Car Connect offers a structured interface that helps you access important features from your phone in one place.\n\nKey Features\nSimple and Clear Interface\n\nCar Connect includes a clean layout designed for easy navigation on larger vehicle displays.\n\nMedia Access on Car Screens\n\nBrowse and play supported video ",
     "icon": "/icons/com.fourprojetccarone.png"
+  },
+  "com.fermata_android_auto.fermata_auto_androidapp": {
+    "title": "Fermata Auto Android",
+    "package": "com.fermata_android_auto.fermata_auto_androidapp",
+    "description": "The Fermata Auto Android app is designed to provide Android users with a smooth and convenient in-car experience. Built for compatibility and ease of use, this app helps you access supported features while connected to your car system in a simple and reliable way.\nWith Fermata Auto Android, users can enjoy an optimized interface tailored for in-vehicle use. The app focuses on stable performance, clear navigation, and compatibility across multiple Android versions.\nThis Fermata Auto App Android is suitable for users looking for a flexible solution that works well with modern car systems. It supports usage scenarios commonly associated with Fermata Auto Android Auto, making it a convenient choice for drivers who want a seamless setup.\n\ud83d\udd39 Key Features\nSmooth in-car experience with Fermata Auto",
+    "icon": "/icons/com.fermata_android_auto.fermata_auto_androidapp.png"
+  },
+  "com.fermatautoandroidapp.fermataandroidapp": {
+    "title": "Fermata Auto App Android",
+    "package": "com.fermatautoandroidapp.fermataandroidapp",
+    "description": "Fermata Auto App Android is a smart and reliable companion app designed to help Android users connect and manage their car systems effortlessly. With this app, you can access your car\u2019s features, control media, navigation, and enjoy a smooth Android Auto experience.\nWhether you want to optimize your driving experience or connect your phone to your car system, Fermata Auto App Android makes it easy with intuitive controls and reliable performance.\n\ud83d\udd39 Key Features\nEasy car system connection using Fermata Auto App Android\n\n\nSimple controls for users searching Fermata Auto\n\n\nOptimized for Android devices with Fermata Android\n\n\nSmooth integration with Fermata Android Auto\n\n\nReliable connection for Fermata Auto Android setups\n\n\nFast, secure, and easy-to-use interface\n\n\nManage media, navigation, a",
+    "icon": "/icons/com.fermatautoandroidapp.fermataandroidapp.png"
+  },
+  "com.frmataatoapp.connef": {
+    "title": "Fermata Auto",
+    "package": "com.frmataatoapp.connef",
+    "description": "Fermata Auto is a car screen application designed to provide a driving-friendly interface for accessing selected phone features while on the road. The app offers a structured layout with larger controls and organized sections, making it easier to interact with supported apps in a vehicle environment.\n\nThis app functions as a car display companion that presents media and navigation access in a simplified format based on features available on your device.\n\nWhether you are commuting daily or traveling longer distances, Fermata Auto provides a clean driving mode interface built for convenience and accessibility.\n\nKey Features\n\nDriving Mode Interface\nA car-friendly layout with larger buttons and simplified navigation.\n\nCar Screen Launcher\nOrganized home screen designed for quick access to suppo",
+    "icon": "/icons/com.frmataatoapp.connef.png"
   }
 }

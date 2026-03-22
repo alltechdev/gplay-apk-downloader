@@ -663,27 +663,29 @@ def index():
     return Response(html, content_type='text/html')
 
 
-@app.route('/apps')
-@app.route('/apps/')
-def apps_browse():
-    from app_pages import render_browse_page
-    html = render_browse_page()
-    if UMAMI_SCRIPT:
-        html = html.replace('</head>', f'  {UMAMI_SCRIPT}\n</head>')
-    return Response(html, content_type='text/html')
+_DISABLE_APP_PAGES = os.environ.get('DISABLE_APP_PAGES', '') == '1'
 
+if not _DISABLE_APP_PAGES:
+    @app.route('/apps')
+    @app.route('/apps/')
+    def apps_browse():
+        from app_pages import render_browse_page
+        html = render_browse_page()
+        if UMAMI_SCRIPT:
+            html = html.replace('</head>', f'  {UMAMI_SCRIPT}\n</head>')
+        return Response(html, content_type='text/html')
 
-@app.route('/app/<path:pkg>')
-def app_page(pkg):
-    if not re.match(r'^[a-zA-Z][a-zA-Z0-9_.]*$', pkg):
-        return Response('Invalid package name', status=400, content_type='text/plain')
-    from app_pages import render_app_page
-    html = render_app_page(pkg)
-    if not html:
-        return Response('App not found. <a href="/">Try searching for it</a>.', status=404, content_type='text/html')
-    if UMAMI_SCRIPT:
-        html = html.replace('</head>', f'  {UMAMI_SCRIPT}\n</head>')
-    return Response(html, content_type='text/html')
+    @app.route('/app/<path:pkg>')
+    def app_page(pkg):
+        if not re.match(r'^[a-zA-Z][a-zA-Z0-9_.]*$', pkg):
+            return Response('Invalid package name', status=400, content_type='text/plain')
+        from app_pages import render_app_page
+        html = render_app_page(pkg)
+        if not html:
+            return Response('App not found. <a href="/">Try searching for it</a>.', status=404, content_type='text/html')
+        if UMAMI_SCRIPT:
+            html = html.replace('</head>', f'  {UMAMI_SCRIPT}\n</head>')
+        return Response(html, content_type='text/html')
 
 
 @app.route('/robots.txt')
@@ -704,17 +706,18 @@ def sitemap():
     with open(os.path.join(app.static_folder, 'sitemap.xml'), 'r') as f:
         xml = f.read().replace('__SITE_URL__', SITE_URL)
     # Inject cached app pages into sitemap
-    try:
-        from app_pages import _load_meta
-        meta = _load_meta()
-        app_urls = ''.join(
-            f'  <url><loc>{SITE_URL}/app/{pkg}</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>\n'
-            for pkg in meta
-        )
-        if app_urls:
-            xml = xml.replace('</urlset>', app_urls + '</urlset>')
-    except Exception:
-        pass
+    if not _DISABLE_APP_PAGES:
+        try:
+            from app_pages import _load_meta
+            meta = _load_meta()
+            app_urls = ''.join(
+                f'  <url><loc>{SITE_URL}/app/{pkg}</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>\n'
+                for pkg in meta
+            )
+            if app_urls:
+                xml = xml.replace('</urlset>', app_urls + '</urlset>')
+        except Exception:
+            pass
     return Response(xml, content_type='application/xml')
 
 
@@ -1154,11 +1157,12 @@ def download_info_stream(pkg):
                         } for s in info['splits']]
                     }
                     yield f"data: {json.dumps(result)}\n\n"
-                    try:
-                        from app_pages import on_download_success
-                        on_download_success(pkg, info['title'])
-                    except Exception:
-                        pass
+                    if not _DISABLE_APP_PAGES:
+                        try:
+                            from app_pages import on_download_success
+                            on_download_success(pkg, info['title'])
+                        except Exception:
+                            pass
                     return
                 else:
                     yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token failed, trying new tokens...'})}\n\n"

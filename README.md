@@ -17,6 +17,7 @@ Download APKs from Google Play Store. Automatically merges split APKs (App Bundl
 - CLI tool with JSON output for scripting and automation
 - Apps without splits preserve original signature
 - Merged APKs are signed with debug keystore
+- Auto-generated SEO app pages — each downloaded app gets its own detail page with description and icon, plus a browsable catalog at `/apps`. Disable with `DISABLE_APP_PAGES=1`
 
 ---
 
@@ -333,6 +334,8 @@ The web server exposes these REST and SSE endpoints:
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/` | GET | Web UI |
+| `/apps` | GET | Browse catalog of downloaded apps (auto-generated) |
+| `/app/<package>` | GET | App detail page with download button (auto-generated) |
 | `/health` | GET | Health check (system status, disk usage, worker info) |
 | `/api/stats` | GET | Download counter (total APKs downloaded) |
 | `/api/stats/increment` | POST | Increment download counter (rate-limited, for client-side installs) |
@@ -519,6 +522,7 @@ gplay-apk-downloader/
 | `PORT` | `5000` | Server port (used by `start-server.sh`) |
 | `SITE_URL` | (none) | Site URL for SEO meta tags (e.g., `https://apkdl.example.com`). Unset = SEO tags stripped |
 | `UMAMI_SCRIPT` | (none) | Full `<script>` tag for Umami analytics. Unset = no analytics |
+| `DISABLE_APP_PAGES` | (none) | Set to `1` to disable auto-generated app pages (`/app/*`, `/apps`). Useful for self-hosters who don't need SEO pages |
 
 Set these in your systemd service file or shell environment.
 
