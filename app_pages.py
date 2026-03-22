@@ -40,7 +40,8 @@ def _save_meta(meta):
 
 
 def get_app_meta(pkg):
-    meta = _load_meta()
+    with _meta_lock:
+        meta = _load_meta()
     return meta.get(pkg)
 
 
@@ -181,7 +182,8 @@ def _guess_category(pkg, title):
 
 def render_browse_page():
     """Render the app catalog/browse page."""
-    meta = _load_meta()
+    with _meta_lock:
+        meta = _load_meta()
     try:
         template = BROWSE_TEMPLATE_FILE.read_text()
     except FileNotFoundError:
