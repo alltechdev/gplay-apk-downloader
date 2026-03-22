@@ -52,36 +52,38 @@ def cache_app(pkg, title, icon_url=None, description=''):
         if pkg in meta and meta[pkg].get('title') and meta[pkg].get('description'):
             return  # already cached
 
-        entry = {'title': title, 'package': pkg, 'description': description}
+    entry = {'title': title, 'package': pkg, 'description': description}
 
-        # Download and cache icon
-        if icon_url:
-            try:
-                icon_resp = requests.get(icon_url, timeout=10, stream=True)
-                if icon_resp.status_code == 200:
-                    # Limit icon size to 1MB
-                    chunks = []
-                    size = 0
-                    for chunk in icon_resp.iter_content(8192):
-                        size += len(chunk)
-                        if size > 1_000_000:
-                            break
-                        chunks.append(chunk)
-                    if size <= 1_000_000:
-                        ct = icon_resp.headers.get('content-type', '')
-                        ext = 'webp' if 'webp' in ct else 'png' if 'png' in ct else 'jpg'
-                        icon_path = ICONS_DIR / f'{pkg}.{ext}'
-                        icon_path.write_bytes(b''.join(chunks))
-                        entry['icon'] = f'/icons/{pkg}.{ext}'
-            except Exception as e:
-                logger.warning(f"Failed to cache icon for {pkg}: {e}")
+    # Download and cache icon outside the lock to avoid blocking reads
+    if icon_url:
+        try:
+            icon_resp = requests.get(icon_url, timeout=10, stream=True)
+            if icon_resp.status_code == 200:
+                # Limit icon size to 1MB
+                chunks = []
+                size = 0
+                for chunk in icon_resp.iter_content(8192):
+                    size += len(chunk)
+                    if size > 1_000_000:
+                        break
+                    chunks.append(chunk)
+                if size <= 1_000_000:
+                    ct = icon_resp.headers.get('content-type', '')
+                    ext = 'webp' if 'webp' in ct else 'png' if 'png' in ct else 'jpg'
+                    icon_path = ICONS_DIR / f'{pkg}.{ext}'
+                    icon_path.write_bytes(b''.join(chunks))
+                    entry['icon'] = f'/icons/{pkg}.{ext}'
+        except Exception as e:
+            logger.warning(f"Failed to cache icon for {pkg}: {e}")
 
-        if 'icon' not in entry:
-            entry['icon'] = ''
+    if 'icon' not in entry:
+        entry['icon'] = ''
 
+    with _meta_lock:
+        meta = _load_meta()
         meta[pkg] = entry
         _save_meta(meta)
-        logger.info(f"Cached app page data for {pkg}: {title}")
+    logger.info(f"Cached app page data for {pkg}: {title}")
 
 
 def enrich_from_play(pkg):
@@ -224,9 +226,12 @@ def render_browse_page():
 def on_download_success(pkg, title, icon_url=None):
     """Hook called after a successful download. Caches metadata in background."""
     def _bg():
-        info = enrich_from_play(pkg)
-        real_title = info.get('title') or title
-        cache_app(pkg, real_title, info.get('icon_url') or icon_url, info.get('description', ''))
+        try:
+            info = enrich_from_play(pkg)
+            real_title = info.get('title') or title
+            cache_app(pkg, real_title, info.get('icon_url') or icon_url, info.get('description', ''))
+        except Exception as e:
+            logger.error(f"Background enrichment failed for {pkg}: {e}")
 
     t = threading.Thread(target=_bg, daemon=True)
     t.start()
