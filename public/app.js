@@ -74,7 +74,8 @@
       refreshCounter();
       initAdb();
       // Always show import option (backup button shows when ADB connected)
-      $('#backup-card').classList.add('visible');
+      const backupCard = $('#backup-card');
+      if (backupCard) backupCard.classList.add('visible');
     });
 
     function updateCounter(count) {

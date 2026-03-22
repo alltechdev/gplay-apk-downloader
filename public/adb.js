@@ -61,7 +61,7 @@
       }
 
       async disconnect() {
-        if (this.adb) { try { await this.adb.close(); } catch {} }
+        if (this.adb) { try { await this.adb.close(); } catch (error) { console.error('ADB disconnect error:', error); } }
         this.adb = null;
         this.transport = null;
         this.device = null;

@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#0a0a0a">
+  <meta name="description" content="Browse and download APKs directly from Google Play. Free, anonymous, with split APK merging.">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Browse Apps - GPlay Downloader">
+  <meta property="og:description" content="Browse and download APKs directly from Google Play Store.">
+  <title>Browse Apps - GPlay APK Downloader</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+  <link rel="icon" type="image/png" href="/favicon-192.png" sizes="192x192">
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    .wrapper { max-width: 860px; overflow: hidden; }
+
+    /* --- Breadcrumb --- */
+    .breadcrumb {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-tertiary);
+      margin-bottom: 28px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .breadcrumb a { color: var(--accent); text-decoration: none; transition: color var(--transition); }
+    .breadcrumb a:hover { color: var(--text-primary); }
+    .breadcrumb svg { width: 12px; height: 12px; opacity: 0.4; }
+
+    /* --- Header --- */
+    .browse-hero {
+      margin-bottom: 28px;
+      animation: heroReveal 0.5s ease both;
+    }
+    @keyframes heroReveal {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .browse-hero-top {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+    .browse-hero h1 {
+      font-family: var(--font-sans);
+      font-size: clamp(1.5rem, 5vw, 2rem);
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: -0.04em;
+      line-height: 1;
+    }
+    .browse-hero h1 span { color: var(--accent); }
+    .browse-count {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-tertiary);
+      background: var(--accent-glow);
+      border: 1px solid rgba(37, 99, 235, 0.12);
+      padding: 4px 10px;
+      border-radius: 20px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .browse-count b { color: var(--accent); font-weight: 600; }
+    .browse-notice {
+      font-size: 11px;
+      font-family: var(--font-mono);
+      color: var(--text-tertiary);
+      line-height: 1.6;
+      padding: 10px 14px;
+      background: rgba(255,255,255,0.015);
+      border-left: 2px solid var(--border);
+      border-radius: 0 var(--radius) var(--radius) 0;
+    }
+
+    /* --- Toolbar: search + view toggle --- */
+    .browse-toolbar {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 24px;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      padding: 12px 0;
+      background: var(--bg-primary);
+      animation: toolbarReveal 0.5s 0.15s ease both;
+    }
+    @keyframes toolbarReveal {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    /* Fade edge when sticky */
+    .browse-toolbar::after {
+      content: '';
+      position: absolute;
+      bottom: -12px;
+      left: 0;
+      right: 0;
+      height: 12px;
+      background: linear-gradient(var(--bg-primary), transparent);
+      pointer-events: none;
+    }
+    .browse-search {
+      flex: 1;
+      position: relative;
+    }
+    .browse-search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 16px;
+      height: 16px;
+      color: var(--text-tertiary);
+      pointer-events: none;
+      transition: color var(--transition);
+    }
+    .browse-search input {
+      width: 100%;
+      padding: 10px 14px 10px 38px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--bg-input);
+      color: var(--text-primary);
+      font-family: var(--font-mono);
+      font-size: 13px;
+      outline: none;
+      transition: border-color var(--transition), box-shadow var(--transition);
+    }
+    .browse-search input::placeholder { color: var(--text-tertiary); }
+    .browse-search input:focus {
+      border-color: var(--accent-dim);
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+    .browse-search input:focus ~ .browse-search-icon { color: var(--accent); }
+    .view-toggle {
+      display: flex;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+    .view-toggle button {
+      padding: 8px 14px;
+      background: transparent;
+      color: var(--text-tertiary);
+      border: none;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all var(--transition);
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      white-space: nowrap;
+    }
+    .view-toggle button:not(:last-child) { border-right: 1px solid var(--border); }
+    .view-toggle button.active {
+      background: var(--accent-glow);
+      color: var(--accent);
+    }
+    .view-toggle button:hover:not(.active) {
+      background: rgba(255,255,255,0.03);
+      color: var(--text-secondary);
+    }
+    .view-toggle button svg { width: 14px; height: 14px; }
+
+    /* --- Category sections --- */
+    .browse-category {
+      margin-bottom: 32px;
+      animation: catReveal 0.4s ease both;
+    }
+    .browse-category:nth-child(1) { animation-delay: 0.2s; }
+    .browse-category:nth-child(2) { animation-delay: 0.28s; }
+    .browse-category:nth-child(3) { animation-delay: 0.36s; }
+    .browse-category:nth-child(4) { animation-delay: 0.44s; }
+    .browse-category:nth-child(5) { animation-delay: 0.52s; }
+    .browse-category:nth-child(n+6) { animation-delay: 0.6s; }
+
+    @keyframes catReveal {
+      from { opacity: 0; transform: translateY(16px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .browse-category.hidden { display: none; }
+
+    .browse-category-title {
+      font-family: var(--font-sans);
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .browse-category-title::before {
+      content: '';
+      width: 3px;
+      height: 16px;
+      border-radius: 2px;
+      background: var(--accent);
+    }
+
+    /* --- Grid view (default) --- */
+    .browse-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(min(240px, 100%), 1fr));
+      gap: 8px;
+      overflow: hidden;
+    }
+
+    /* --- List view --- */
+    .browse-content.list-view .browse-grid {
+      grid-template-columns: 1fr;
+      gap: 4px;
+    }
+    .browse-content.list-view .browse-card {
+      border-radius: 8px;
+      padding: 10px 14px;
+    }
+    .browse-content.list-view .browse-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+    }
+
+    /* --- App cards --- */
+    .browse-card {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 14px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      text-decoration: none;
+      transition: border-color var(--transition), background var(--transition), box-shadow 0.25s ease, transform 0.25s ease;
+      position: relative;
+      overflow: hidden;
+      min-width: 0;
+    }
+    .browse-card::after {
+      content: '';
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%) translateX(4px);
+      width: 16px;
+      height: 16px;
+      opacity: 0;
+      transition: opacity var(--transition), transform var(--transition);
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%232563eb' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='9 18 15 12 9 6'/%3E%3C/svg%3E");
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .browse-card:hover {
+      border-color: var(--border-focus);
+      background: var(--bg-card-hover);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+      transform: translateY(-1px);
+    }
+    .browse-card:hover::after {
+      opacity: 0.6;
+      transform: translateY(-50%) translateX(0);
+    }
+    .browse-card:active {
+      transform: translateY(0);
+      box-shadow: none;
+    }
+    .browse-card.hidden { display: none; }
+
+    .browse-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      object-fit: cover;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .browse-icon-placeholder {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, var(--bg-elevated), var(--bg-card));
+      border: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .browse-card-info {
+      flex: 1;
+      min-width: 0;
+      padding-right: 20px;
+      overflow: hidden;
+    }
+    .browse-card-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-primary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.3;
+    }
+    .browse-card-pkg {
+      font-size: 10px;
+      font-family: var(--font-mono);
+      color: var(--text-tertiary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin-top: 2px;
+      letter-spacing: 0.01em;
+    }
+
+    /* --- Empty state --- */
+    .browse-empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-tertiary);
+      font-family: var(--font-mono);
+      font-size: 13px;
+      display: none;
+    }
+    .browse-empty.visible { display: block; }
+    .browse-empty-icon {
+      width: 48px;
+      height: 48px;
+      margin: 0 auto 16px;
+      opacity: 0.3;
+      color: var(--text-tertiary);
+    }
+
+    /* --- Footer --- */
+    .browse-footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+    }
+
+    /* --- Responsive --- */
+    /* --- Category filter chips --- */
+    .browse-chips {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+      animation: toolbarReveal 0.5s 0.2s ease both;
+    }
+    .browse-chip {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 500;
+      padding: 5px 12px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all var(--transition);
+      white-space: nowrap;
+    }
+    .browse-chip:hover {
+      border-color: var(--border-focus);
+      color: var(--text-primary);
+      background: rgba(255,255,255,0.03);
+    }
+    .browse-chip.active {
+      background: var(--accent-glow);
+      border-color: rgba(37, 99, 235, 0.25);
+      color: var(--accent);
+    }
+
+    @media (max-width: 600px) {
+      .browse-grid { grid-template-columns: 1fr; gap: 6px; }
+      .browse-card { padding: 10px 12px; }
+      .browse-card::after { display: none; }
+      .browse-card-info { padding-right: 0; }
+      .browse-hero-top { flex-direction: column; align-items: flex-start; }
+      .view-toggle { display: none; }
+      .browse-chips { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px; }
+      .browse-chips::-webkit-scrollbar { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <nav class="breadcrumb">
+      <a href="/">GPlay Downloader</a>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+      <span>Browse Apps</span>
+    </nav>
+
+    <div class="browse-hero">
+      <div class="browse-hero-top">
+        <h1>App <span>Catalog</span></h1>
+        <div class="browse-count"><b>__APP_COUNT__</b> apps</div>
+      </div>
+      <div class="browse-notice">Auto-generated from user downloads. New apps appear as they're downloaded.</div>
+    </div>
+
+    <div class="browse-toolbar">
+      <div class="browse-search">
+        <svg class="browse-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="browse-filter" placeholder="Search apps..." oninput="filterApps(this.value)" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="view-toggle">
+        <button class="active" onclick="setView('grid', this)" aria-label="Grid view">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+        </button>
+        <button onclick="setView('list', this)" aria-label="List view">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <div class="browse-chips" id="browse-chips"></div>
+
+    <div id="browse-content" class="browse-content">
+      __CARDS__
+    </div>
+
+    <div class="browse-empty" id="browse-empty">
+      <svg class="browse-empty-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="8" y1="11" x2="14" y2="11"/></svg>
+      No apps match your search
+    </div>
+
+    <footer class="browse-footer footer">
+      <a href="/" class="footer-link">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to GPlay Downloader
+      </a>
+    </footer>
+  </div>
+
+  <script>
+    var activeCategory = null;
+
+    // Build category chips on load
+    document.addEventListener('DOMContentLoaded', function() {
+      var chips = document.getElementById('browse-chips');
+      var cats = document.querySelectorAll('.browse-category-title');
+      if (cats.length > 1) {
+        var all = document.createElement('button');
+        all.className = 'browse-chip active';
+        all.textContent = 'All';
+        all.onclick = function() { filterByCategory(null); };
+        chips.appendChild(all);
+        cats.forEach(function(cat) {
+          var btn = document.createElement('button');
+          btn.className = 'browse-chip';
+          btn.textContent = cat.textContent;
+          btn.onclick = function() { filterByCategory(cat.textContent); };
+          chips.appendChild(btn);
+        });
+      }
+    });
+
+    function filterByCategory(cat) {
+      activeCategory = cat;
+      document.querySelectorAll('.browse-chip').forEach(function(c) {
+        c.classList.toggle('active', cat === null ? c.textContent === 'All' : c.textContent === cat);
+      });
+      applyFilters();
+    }
+
+    function filterApps(query) {
+      applyFilters();
+    }
+
+    function applyFilters() {
+      var q = (document.getElementById('browse-filter').value || '').toLowerCase().trim();
+      var categories = document.querySelectorAll('.browse-category');
+      var totalVisible = 0;
+
+      categories.forEach(function(cat) {
+        var catName = (cat.querySelector('.browse-category-title') || {}).textContent || '';
+        var catMatch = !activeCategory || catName === activeCategory;
+        var catVisible = 0;
+
+        cat.querySelectorAll('.browse-card').forEach(function(card) {
+          var title = (card.querySelector('.browse-card-title') || {}).textContent || '';
+          var pkg = (card.querySelector('.browse-card-pkg') || {}).textContent || '';
+          var textMatch = !q || title.toLowerCase().includes(q) || pkg.toLowerCase().includes(q);
+          var show = catMatch && textMatch;
+          card.classList.toggle('hidden', !show);
+          if (show) catVisible++;
+        });
+        cat.classList.toggle('hidden', !catMatch || catVisible === 0);
+        totalVisible += catVisible;
+      });
+
+      document.getElementById('browse-empty').classList.toggle('visible', totalVisible === 0);
+    }
+
+    function setView(mode, btn) {
+      var content = document.getElementById('browse-content');
+      content.classList.toggle('list-view', mode === 'list');
+      document.querySelectorAll('.view-toggle button').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+    }
+  </script>
+</body>
+</html>

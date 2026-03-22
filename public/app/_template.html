@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#0a0a0a">
+  <meta name="description" content="Download __TITLE__ APK directly from Google Play. ARM64 and ARMv7, split APK merging, free and anonymous.">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Download __TITLE__ APK - GPlay Downloader">
+  <meta property="og:description" content="Download __TITLE__ APK directly from Google Play Store. Merged single APK, ARM64 and ARMv7.">
+  <meta property="og:image" content="__ICON__">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Download __TITLE__ APK - GPlay Downloader">
+  <meta name="twitter:description" content="Download __TITLE__ APK directly from Google Play Store.">
+  <title>Download __TITLE__ APK - GPlay Downloader</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" integrity="sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG" crossorigin="anonymous"></script>
+  <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+  <link rel="icon" type="image/png" href="/favicon-192.png" sizes="192x192">
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    .app-hero {
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+      margin-bottom: 8px;
+    }
+    .app-hero-icon {
+      width: 88px;
+      height: 88px;
+      border-radius: 20px;
+      object-fit: cover;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      flex-shrink: 0;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.3);
+    }
+    .app-hero-meta { flex: 1; min-width: 0; overflow: hidden; }
+    .app-hero-title {
+      font-family: var(--font-sans);
+      font-size: clamp(1.25rem, 4vw, 1.5rem);
+      font-weight: 700;
+      color: var(--text-primary);
+      line-height: 1.2;
+      margin-bottom: 4px;
+    }
+    .app-hero-developer {
+      font-size: 13px;
+      color: var(--accent);
+      font-weight: 500;
+      margin-bottom: 8px;
+    }
+    .app-hero-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+    .app-tag {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      padding: 3px 8px;
+      border-radius: 6px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      color: var(--text-tertiary);
+      word-break: break-all;
+      max-width: 100%;
+    }
+    .breadcrumb {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-tertiary);
+      margin-bottom: 24px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .breadcrumb a {
+      color: var(--accent);
+      text-decoration: none;
+      transition: color var(--transition);
+    }
+    .breadcrumb a:hover { color: var(--text-primary); }
+    .breadcrumb svg { width: 12px; height: 12px; opacity: 0.4; flex-shrink: 0; }
+    .breadcrumb span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .play-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-tertiary);
+      text-decoration: none;
+      padding: 6px 10px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      transition: all var(--transition);
+      margin-top: 12px;
+    }
+    .play-link:hover {
+      border-color: var(--border-focus);
+      color: var(--text-secondary);
+      background: rgba(255,255,255,0.02);
+    }
+    .play-link svg { width: 12px; height: 12px; }
+    @media (max-width: 480px) {
+      .app-hero { gap: 14px; }
+      .app-hero-icon { width: 64px; height: 64px; border-radius: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <nav class="breadcrumb">
+      <a href="/">GPlay Downloader</a>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+      <span>__TITLE__</span>
+    </nav>
+
+    <div class="card">
+      <div class="app-hero">
+        <img class="app-hero-icon" src="__ICON__" alt="__TITLE__ icon" width="88" height="88" onerror="this.style.display='none'">
+        <div class="app-hero-meta">
+          <h1 class="app-hero-title">__TITLE__</h1>
+          <div class="app-hero-tags">
+            <span class="app-tag">__PKG__</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ADB Device -->
+    <div class="card adb-card" id="adb-card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+        Install to Device
+      </div>
+      <div class="adb-status" id="adb-status">
+        <button class="btn-secondary" id="adb-connect-btn" onclick="adbConnect()">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v4M17 2v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 4.93l-2.83 2.83M12 8v4M12 16v.01"/><circle cx="12" cy="12" r="6"/></svg>
+          Connect Device
+        </button>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Download APK
+      </div>
+      <div class="options-row">
+        <select id="arch-select">
+          <option value="arm64-v8a">ARM64 (modern)</option>
+          <option value="armeabi-v7a">ARMv7 (legacy)</option>
+        </select>
+        <label class="checkbox-wrap" id="merge-label">
+          <input type="checkbox" id="merge-apks" checked>
+          <span>Merge splits</span>
+        </label>
+      </div>
+      <div class="note">Merged APKs are re-signed with a debug key. Apps without splits keep their original signature.</div>
+      <div class="btn-row">
+        <button class="btn-primary" onclick="dl('__PKG__')">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          Download __TITLE__
+        </button>
+      </div>
+      <div id="info-result" class="results"></div>
+    </div>
+
+    <div class="log-panel" id="log-panel">
+      <div class="log-header" onclick="toggleLog()">
+        <div class="log-header-left">
+          <div class="card-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>
+            Activity Log
+          </div>
+          <span class="log-badge empty" id="log-badge">0</span>
+          <div class="log-active-dot" id="log-dot" style="display:none"></div>
+        </div>
+        <svg class="log-toggle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+      </div>
+      <div class="log-body">
+        <div class="log-actions">
+          <button class="log-clear-btn btn-ghost" onclick="event.stopPropagation();clearLog()">clear</button>
+        </div>
+        <div class="log-scroll" id="log-scroll">
+          <div class="log-empty" id="log-empty">No activity yet</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" id="about-card" style="__DESCRIPTION_DISPLAY__">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        About this app
+      </div>
+      <p style="font-size:13px;line-height:1.7;color:var(--text-secondary)">__DESCRIPTION__</p>
+    </div>
+
+    <div class="card">
+      <a class="play-link" href="https://play.google.com/store/apps/details?id=__PKG__" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        View on Google Play
+      </a>
+    </div>
+
+    <footer class="footer">
+      <a href="/" class="footer-link">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+        Back to GPlay Downloader
+      </a>
+    </footer>
+  </div>
+
+  <script type="module" src="/adb.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>
