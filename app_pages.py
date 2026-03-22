@@ -31,12 +31,17 @@ _meta_lock = threading.Lock()
 def _load_meta():
     try:
         return json.loads(META_FILE.read_text())
-    except Exception:
+    except FileNotFoundError:
         return {}
+    except json.JSONDecodeError:
+        logger.exception("Failed to parse metadata cache %s", META_FILE)
+        raise
 
 
 def _save_meta(meta):
-    META_FILE.write_text(json.dumps(meta, indent=2))
+    tmp = META_FILE.with_suffix('.tmp')
+    tmp.write_text(json.dumps(meta, indent=2))
+    tmp.replace(META_FILE)
 
 
 def get_app_meta(pkg):
@@ -81,7 +86,10 @@ def cache_app(pkg, title, icon_url=None, description=''):
 
     with _meta_lock:
         meta = _load_meta()
-        meta[pkg] = entry
+        existing = meta.get(pkg, {})
+        if existing.get('title') and existing.get('description'):
+            return
+        meta[pkg] = {**existing, **{k: v for k, v in entry.items() if v}}
         _save_meta(meta)
     logger.info(f"Cached app page data for {pkg}: {title}")
 
@@ -225,6 +233,10 @@ def render_browse_page():
 
 def on_download_success(pkg, title, icon_url=None):
     """Hook called after a successful download. Caches metadata in background."""
+    cached = get_app_meta(pkg)
+    if cached and cached.get('title') and cached.get('description'):
+        return
+
     def _bg():
         try:
             info = enrich_from_play(pkg)
