@@ -15806,5 +15806,226 @@
     "package": "com.wikisleepmobile.app",
     "description": "Fall asleep easier with WikiSleep\u2014the unique bedtime sleep story app that smoothly diverts your busy brain, guiding you into a deep, restful sleep. \n\nSleep stories don't need to be boring and WikiSleep has specifically developed each sleep journey to be interesting enough to capture you attention, but calm and soothing enough that you can drift off while listening. \n\nBedtime Stories | Meditations | Breathing Exercises | Soundscapes | Biographies | Literature and Classic Tales  \n\nListen to a fascinating mix of audio sleep stories that stand out from typical sleep apps, featuring biographies of captivating figures like The Notorious B.I.G., Marie Antoinette, and Bob Ross, as well as unique histories of everyday items like wine and cameras\u2014all narrated in a calm and soothing manner to help yo",
     "icon": "/icons/com.wikisleepmobile.app.png"
+  },
+  "com.gezana.app": {
+    "title": "Gezana AI: Chat in Tigrinya",
+    "package": "com.gezana.app",
+    "description": "Gezana AI: The AI that Speaks Your Language (English & \u1275\u130d\u122d\u129b)\n\nGezana AI is the first intelligent companion designed specifically for the Eritrean and Ethiopian community. It bridges the gap between cutting-edge technology and the Tigrinya language, providing a natural, culturally-aware chat experience.\n\nTHE GEZANA ADVANTAGE: NATIVE TIGRINYA BY DEFAULT\nUnlike generic AI tools, Gezana is built with a Tigrinya-first mindset.\n\nInput Any Language: Type in English, Arabic, Amharic, or any other language\u2014Gezana understands your intent perfectly.\n\nNative Output: By default, Gezana responds in fluent, natural Eritrean Tigrinya. It\u2019s like having a brilliant local expert in your pocket.\n\nBilingual Flexibility: Need the answer in English instead? Just ask! Gezana seamlessly switches to English wheneve"
+  },
+  "com.wishhex.honey": {
+    "title": "Hex Plugin - AOSP R Dark",
+    "package": "com.wishhex.honey"
+  },
+  "com.nepturn.braingames.hexablok": {
+    "title": "HexaBlok: Hexagon Block Puzzle",
+    "package": "com.nepturn.braingames.hexablok"
+  },
+  "com.kraken.trade": {
+    "title": "com.kraken.trade",
+    "package": "com.kraken.trade"
+  },
+  "com.tmobile.tuesdays": {
+    "title": "com.tmobile.tuesdays",
+    "package": "com.tmobile.tuesdays"
+  },
+  "com.gatishil.bdtrainguide": {
+    "title": "com.gatishil.bdtrainguide",
+    "package": "com.gatishil.bdtrainguide"
+  },
+  "uk.co.ourbike.ourbike": {
+    "title": "uk.co.ourbike.ourbike",
+    "package": "uk.co.ourbike.ourbike"
+  },
+  "org.chabad.mobile": {
+    "title": "Chabad.org",
+    "package": "org.chabad.mobile",
+    "description": "Access Chabad.org, the largest jewish website.\n\n- Articles\n- Zmanim\n- Daily Study\n- Candlelighting\n\nand much, much more.",
+    "icon": "/icons/org.chabad.mobile.png"
+  },
+  "com.flowkey.app": {
+    "title": "flowkey: Learn piano",
+    "package": "com.flowkey.app",
+    "description": "flowkey makes it fun and easy to play your favorite songs on piano \u2013 whether you\u2019re a complete beginner or an experienced player. All songs and courses are created by professional pianists, with interactive lessons, practice tools, and instant feedback to help you learn piano the way that works for you.\n\nChoose from thousands of beautifully-arranged piano pieces covering all genres, including: Classical, Pop, Film & TV and more. With songs available in four difficulty levels, you\u2019ll always find new pieces to play.\n\nIf you\u2019re a beginner, learn piano step by step \u2013 with courses on how to read sheet music, navigate the keyboard, and play songs with both hands. flowkey\u2019s beginner piano lessons are easy to follow and are a great way to learn piano fundamentals.\n\nExperienced piano players can sh",
+    "icon": "/icons/com.flowkey.app.png"
+  },
+  "com.unicostudio.braintest": {
+    "title": "Brain Test: Tricky Puzzles",
+    "package": "com.unicostudio.braintest",
+    "description": "\u27a4Brain Test is an addictive free tricky puzzle game with a series of tricky brain teasers. Different riddles and tricky tests will challenge your mind. This new puzzle game may break common sense and bring your new brain-pushing experience!\n\n\u27a4You can enjoy yourself with your friends with this addictive and funny free IQ game. Brain games, IQ games and mind games can be a great way to enhance your brain. Think out of the box, crack the puzzles and get ready to take the quiz! You will enjoy this funny tricky test. This game is a new game and an offline game. Also one of the best games in the world. When you're tired and need to brain out for a while, play this tricky brain teaser game or other puzzle games from the Brain Test Series: Brain Test 2: Tricky Stories, Brain Test 3: Tricky Quests,",
+    "icon": "/icons/com.unicostudio.braintest.png"
+  },
+  "com.rak": {
+    "title": "RAKBANK App",
+    "package": "com.rak",
+    "description": "Welcome to a whole new Digital Banking Experience! \n\nRAKBANK App offers convenience and security with a host of features & intuitive user experience.\n\nKey features\n\n\u00b7         Seamless Digital Account opening \u2013 Open your account on the app and get your virtual debit card in a few clicks. \n\u00b7         Biometric Login - Login using your Fingerprint or Face ID\n\u00b7         Card Activation \u2013 Activate your Debit or Credit card without even logging into the app\n\u00b7         Reset Card PIN \u2013 Reset your Debit or Credit Card PIN easily (applicable for eligible cards)\n\u00b7         Multiple Bill Payments \u2013 Pay your bills in one go\n\u00b7         Quick View \u2013 Easy access to commonly used banking services \n\u00b7         Quicker Funds Transfers - Send money instantly within UAE or use our RAKMoneyTransfer service to send mo",
+    "icon": "/icons/com.rak.png"
+  },
+  "com.gworks.oneapp.works": {
+    "title": "LINE WORKS: Team Communication",
+    "package": "com.gworks.oneapp.works",
+    "description": "LINE WORKS is the only business chat platform that maintains the familiar usability of LINE while providing the high-level security and management features required in a professional environment. It enables real-time information sharing not only for desk workers but also for frontline staff. In addition to core functions like chat, bulletin boards, calendars, and task management, it offers flexible integration with external services such as attendance management and payment systems. Furthermore, by connecting with advanced AI products from the LINE WORKS family, users can automate business processes and generate meeting minutes effortlessly.\n\n\n\u25a0 Key Features\n[Talk] Retains the same intuitive interface as LINE. Share stickers, photos, and videos. Connect securely with individual LINE users.",
+    "icon": "/icons/com.gworks.oneapp.works.png"
+  },
+  "com.unicostudio.braintest2new": {
+    "title": "Brain Test 2: Tricky Stories",
+    "package": "com.unicostudio.braintest2new",
+    "description": "\u27a4With over a zillion downloads, Brain Test: Tricky Puzzles redefined brain games. Now get more of the same exciting riddles and funny tests with Brain Test 2! If you like tricky games, riddles or brain games, then Brain Test 2 with tricky tests is a great exercise for your brain. If you enjoy tricky test challenges and solving brain puzzles, this game is the perfect exercise for your mind as it challenges players with a variety of intriguing riddles, puzzle games, and brain teasers. Brain Test 2 is one of the fun offline brain games from the makers of Brain Test: Tricky Puzzles, Brain Test 3: Tricky Quests, Brain Test 4: Tricky Stories and Who Is? Brain Teaser & Riddles. \n\n\u27a4Brain Test is an addictive free tricky brain puzzle game with a series of tricky brain teasers for a relaxing brain o",
+    "icon": "/icons/com.unicostudio.braintest2new.png"
+  },
+  "com.sima.awscertifieddeveloper": {
+    "title": "DVA-C02 Practice Test 2026",
+    "package": "com.sima.awscertifieddeveloper",
+    "description": "The DVA-C02 Practice Test app provides you with a deep understanding of essential AWS services, practical application of AWS architecture best practices, and expertise in developing, deploying, and troubleshooting cloud-based applications on the AWS platform. It boosts exam candidates' confidence in achieving AWS Certified Developer certification.\n\nFeatures:\n\n\ud83e\udde0 AI Mentora \u2013 Your Personal Learning Companion: Your intelligent guide that breaks down complex concepts into clear explanations. It expands your knowledge, and offers unlimited insights \u2014 like having a dedicated tutor by your side, 24/7.\n\n\ud83d\udccb Extensive Question Bank: Access more than 300 questions of DVA-C02 dumps. Thoroughly review and strengthen your understanding of key concepts through various DVA-C02 domains, including:\n\u2022  Develo",
+    "icon": "/icons/com.sima.awscertifieddeveloper.png"
+  },
+  "com.mathriddles.twoplustwoequalsfive": {
+    "title": "2+2=5",
+    "package": "com.mathriddles.twoplustwoequalsfive",
+    "description": "Welcome to 2+2=5, where math meets creativity! Dive into a world of tricky puzzles that challenge your logic and push the boundaries of traditional math. Each level presents a unique problem designed to make you think outside the box and discover unexpected solutions. Are you ready to become a math riddle master?\n\nKey Features:\n\nEngaging Puzzles: Solve a variety of math-related challenges that require clever thinking. Each puzzle is crafted to stimulate your mind and enhance your problem-solving abilities.\n\nBecome a Math Riddle Master: Test your skills against increasingly difficult puzzles. The more you play, the more you\u2019ll hone your skills and become a true math riddle master.\n\nBrain Training: Enhance your problem-solving skills and sharpen your mind with every puzzle. Regularly solving",
+    "icon": "/icons/com.mathriddles.twoplustwoequalsfive.png"
+  },
+  "com.closedtest.pro.closedtest_pro": {
+    "title": "12 Testers - Closed Test Pro",
+    "package": "com.closedtest.pro.closedtest_pro",
+    "description": "\ud83d\ude80 Get 12 Testers for 14 Days\nGoogle Play requires new developers to complete closed testing 12 testers for 14 days.\nBut finding reliable testers and keeping them active every day for 14 days is extremely difficult.\nThis gives you the consistent real-user feedback needed to spot issues early and polish your app before release.\nClosed Test Pro solves this with:\n\nVerified daily checks\n\nSmart reminders\n\nReal-time statistics\n\nInstall & uninstall tracking\n\n14-day progress monitoring\n\nAutomatic tester management\n\nTest 12 apps \u2192 submit your app \u2192 testers join \u2192 testers test your app daily\n\n\ud83d\udc65 Testers Community: \nIn Closed Test Pro, every user plays both roles\u2014test apps from other developers, earn credits, and spend them to get 12 testers for your own app.\nTrack your 14-day progress effortlessly.\nTh",
+    "icon": "/icons/com.closedtest.pro.closedtest_pro.png"
+  },
+  "com.ni6hant.test2": {
+    "title": "Test2",
+    "package": "com.ni6hant.test2",
+    "description": "This is the second application that I am personally using as a test to see what sort of thing can be achieved with my current knowledge of programming.",
+    "icon": "/icons/com.ni6hant.test2.png"
+  },
+  "com.tristel.app": {
+    "title": "3T",
+    "package": "com.tristel.app",
+    "description": "3T provides healthcare professionals with process guidance, digital traceability and audit tools for decontamination events.\n\nRecord, manage and review disinfection logs, users and devices in one simple to use, cloud-based platform.",
+    "icon": "/icons/com.tristel.app.png"
+  },
+  "com.futuremark.dmandroid.application": {
+    "title": "3DMark \u2014 The Gamer's Benchmark",
+    "package": "com.futuremark.dmandroid.application",
+    "description": "3DMark is a popular benchmarking app that helps you test and compare the performance of your smartphone and tablet.\n\nPlease note our latest benchmark 3DMark Solar Bay, will only run on very new  Android devices with Vulkan Ray Tracing support.\n\n3DMark benchmarks the GPU and CPU performance of your device. At the end of the test, you get a score, which you can use to compare models. But 3DMark also gives you so much more.\n\nMore than a score \n3DMark is designed around data-driven stories that help you learn more about your smartphone and tablet. With its unique charts, lists and rankings, 3DMark gives you unrivaled insights into the performance of your device. \n\n\u2022 Compare your score with others from the same model. \n\u2022 Compare your device\u2019s performance with other popular models. \n\u2022 See how yo",
+    "icon": "/icons/com.futuremark.dmandroid.application.png"
+  },
+  "com.wonder": {
+    "title": "Elevate - Brain Training Games",
+    "package": "com.wonder",
+    "description": "Elevate is an award-winning brain trainer that uses fun games and brain teasers to improve vocabulary, speaking abilities, processing speed, memory skills, mental math, and more for adults and students. Each person gets a personalized learning program that adjusts over time to maximize results.\n\nThe more you play Elevate, the more you'll improve practical cognitive skills with engaging brain teasers that boost productivity, earning power, and self-confidence. Over 90% of users notice improvements in vocabulary, memory, math skills, and overall mental sharpness by regularly engaging with our games and exercises. Elevate is designed to test and enhance cognitive abilities, making it a great educational tool. No matter your age, background, or profession, you can benefit from our app through ",
+    "icon": "/icons/com.wonder.png"
+  },
+  "com.unicostudio.braintest3": {
+    "title": "Brain Test 3: Tricky Quests",
+    "package": "com.unicostudio.braintest3",
+    "description": "\u27a4Join Alyx on her quest to find the six power gems in order to save her dying father. While helping Alyx to overcome tricky and brain teasing puzzles, meet with Brain Test franchise characters along the way.\n\n\u27a4Brain Test is an addictive free tricky brain puzzle game with a series of tricky brain teasers for a relaxing brain out. These offline mind games, brain games, IQ tests, thinking games and puzzle games are perfect for those who love a good brain workout.\n\n\u27a4Do you have the puzzle skills to solve the trickiest riddles ever? Are you capable of finding clues and using your mind for logical puzzles? Only the highly intelligent players can complete Brain Test 3\u2019s difficult story and become a brain teaser master. Exercise your brain out with different tricky puzzles. This game is a new game",
+    "icon": "/icons/com.unicostudio.braintest3.png"
+  },
+  "com.unicostudio.braintest4": {
+    "title": "Brain Test 4: Tricky Friends",
+    "package": "com.unicostudio.braintest4",
+    "description": "\u27a4Brain Test 4 brings a cast of new characters, new customization mechanics, and the most importantly all-new brain teasers. We are going 'back-to-basics' to refresh the original Brain Test: Tricky Puzzles formula with a huge dose of trickiness. Brain Test is an addictive free tricky brain puzzle game with a series of tricky brain teasers for a relaxing brain out. These offline mind games, brain games, IQ tests, thinking games and puzzle games are perfect for those who love a good brain workout.\n\n\u27a4Different riddles and tricky tests will challenge your mind, making it a great choice for brain teaser game enthusiasts by playing brain training games for a relaxing brain out. Brain Test 4 is one of the fun offline puzzle brain games from the makers of Brain Test: Tricky Puzzles, Brain Test 2: T",
+    "icon": "/icons/com.unicostudio.braintest4.webp"
+  },
+  "com.trivia.star.android": {
+    "title": "TRIVIA STAR Quiz Games Offline",
+    "package": "com.trivia.star.android",
+    "description": "DOWNLOAD the best trivia games FREE!\n\nTrivia Star has exciting trivia games Free for trivia addicts and quiz heads! Trivia Star starts as an easy free trivia game and gets harder as you level up! \n\nENJOY CHALLENGING TRIVIA GAMEPLAY!\n- Train your brain with addicting trivia questions in free trivia games!\n- Beat the clock and answer the multiple choice question!\n- Choose from over 60+ categories including: general knowledge, food, celebrities, animals, sports, music, movies, TV shows, brands, science, and more!\n- Can't figure out the answer? Use coins to get a hint and win the level!\n\nFEATURES:\n- Daily bonus coins for free hints!\n- Dozens of Trivia Categories for multiple choice quiz questions!\n- Over 1000+ Levels of quiz games free!\n- Answer over 10,000 trivia questions!\n- Easy to play and",
+    "icon": "/icons/com.trivia.star.android.png"
+  },
+  "com.specure.nettest": {
+    "title": "Speed Test WiFi Analyzer 4G/5G",
+    "package": "com.specure.nettest",
+    "description": "Use Open NetTest to run a truly reliable Internet speed test on your fixed, cellular, or WiFi network (4G/5G speed test).\n\nOpen NetTest is completely free, with no ads or in-app purchases, and its main focus is providing reliable Internet connection speed test results. It measures several parameters, including download and upload speed, ping (latency), jitter, and packet loss.\n\nWhat sets it apart from the plethora of speed test apps already available is its use of an open, transparent methodology. Its speed testing servers are located in Internet peering exchange points.\n\nMain Features:\n- Ad-free. Open NetTest doesn't include any in-app purchases or ads, thus you can test your Internet connection speed or analyze your WiFi without interruptions.\n- Reliable. It uses measurement servers in I",
+    "icon": "/icons/com.specure.nettest.png"
+  },
+  "com.unicostudio.braintest5": {
+    "title": "Brain Test 5: Tricky Challenge",
+    "package": "com.unicostudio.braintest5",
+    "description": "Get ready for the biggest Brain Test adventure yet! \n\nFrom the creators of Brain Test: Tricky Puzzles, Brain Test 2: Tricky Stories, Brain Test 3: Tricky Riddles, Brain Test 4: Tricky Adventures and Brain Test All-Star: IQ Boost comes Brain Test 5, a new tricky test that will challenge your mind like never before. \n\nThis isn't just a quiz games; it's a full-on brain quest filled with impossible puzzles, clever brain games, and a flashback to the iconic Brain Test style you love. Get ready for this addictive, creative, and fun free IQ test that you can enjoy with your friends. \n\nPrepare yourself for this new offline brain game! We've created one of the best free games that is also an ad-free game. If you're looking for no internet games or offline games you can play without no wifi, you're ",
+    "icon": "/icons/com.unicostudio.braintest5.jpg"
+  },
+  "com.igs.sd5naviapp": {
+    "title": "SD5 App",
+    "package": "com.igs.sd5naviapp",
+    "description": "This is an app designed exclusively for the Speed Driver 5 arcade. Use this app to assist you in your exciting races!\n\nFour main features of SD5 app\n\nArcade QR code login\nBy using cloud storage and Facebook account binding, you would never have to worry about losing your data. Scan the QR code with your phone to login and start racing!\n\nPersonalize your car \nOver 100 car mods you can use to customize your cars with. Create your own personal dream car any where and anytime using your app!\n\nSD Assistant quick setting\nQuickly prepare for your races by configuring your car list, transmission mode and N2O type!\n\nRecieve the latest information\nAlways get updated on the latest news about SD5. Track your records and the leaderboard in real time!",
+    "icon": "/icons/com.igs.sd5naviapp.png"
+  },
+  "com.sevencs.app": {
+    "title": "the7cs",
+    "package": "com.sevencs.app",
+    "description": "The 7Cs App empowers parents and educators with structured, research-backed, and spiritually rooted content for children aged 0\u20136 years. Designed to bridge modern parenting needs with ancient wisdom and neuroscience, it offers a complete ecosystem for holistic child development.\n\nKey Features:\n\nStructured, age-appropriate learning content\n\nConscious parenting guidance and tools\n\nTrack your child's holistic progress\n\nBlend of digital content with optional print material\n\nResources for educators to run full-year early childhood programs\n\nThe 7Cs App is your trusted companion for nurturing a child's mind, body, and spirit\u2014equipping both parents and teachers to provide meaningful, lasting foundations for life.",
+    "icon": "/icons/com.sevencs.app.png"
+  },
+  "com.middleschool.grade7": {
+    "title": "Grade 7 School Test, Practice",
+    "package": "com.middleschool.grade7",
+    "description": "There are more than 10,000 questions in our application specially prepared for 7th graders. We have brought together all the test categories that 7th grade students want in this application. Our Grade 7 test categories are:\n- English Language\n- Math\n- Science\n- Spelling\n- Geography\n- History\n- Music\n- Computer Science\n- Reading\n- Biology\n- U.S. History\n- Arts and Crafts\n- World History\nWhile solving the questions, you can pass the questions you get stuck on by using the wildcard right, by getting help, and you can solve the questions you get stuck on again and again. If you want, you can compete with each other by solving tests with your friends in mutual duel mode, and you can motivate yourself to solve more questions. In addition, you can rank high in the Leaderboard with the points you ",
+    "icon": "/icons/com.middleschool.grade7.png"
+  },
+  "com.goodbarber.wiac740am": {
+    "title": "WIAC 740 AM",
+    "package": "com.goodbarber.wiac740am",
+    "description": "By downloading our application you will have daily information about Puerto Rico and you will be able to listen to us every day, directly from your cell phone. Also, you can send us information about any situation that occurs.",
+    "icon": "/icons/com.goodbarber.wiac740am.jpg"
+  },
+  "com.shelterTech.la7": {
+    "title": "La7",
+    "package": "com.shelterTech.la7",
+    "description": "LA7 isn\u2019t just a gym \u2014 it\u2019s a complete transformation platform built to elevate your mind, body, and lifestyle. LA7 set out to revolutionize the fitness industry by combining world-class training with mental discipline and lifestyle coaching.\n\nNow, with the LA7 app, you get exclusive access to everything you need to perform at your best \u2014 anywhere, anytime.",
+    "icon": "/icons/com.shelterTech.la7.png"
+  },
+  "com.dexo.play7": {
+    "title": "Play7",
+    "package": "com.dexo.play7",
+    "description": "Play7 is a collection of 7 fun and easy-to-play casual games designed for quick entertainment.\n\nThis app includes the following games:\n\u2022 Classic Snake \u2013 a simple retro-style arcade game\n\u2022 Flying Bird \u2013 a tap-based bird flying challenge\n\u2022 Block Crush \u2013 a colorful block puzzle game\n\u2022 Number Puzzle \u2013 a brain-training number game\n\u2022 2048 Plus \u2013 swipe to merge numbers and reach 2048!\n\u2022 Memory Match \u2013 improve memory by matching cards\n\u2022 Light Switch \u2013 a logic-based puzzle game\n\nAll games are designed to be lightweight, offline playable, and suitable for all age groups. Play7 does not require login or internet connection to play.\n\nIf you enjoy casual arcade and puzzle games, Play7 is a perfect choice for relaxing and passing time.",
+    "icon": "/icons/com.dexo.play7.png"
+  },
+  "com.evalu82": {
+    "title": "Evalu-8 App",
+    "package": "com.evalu82",
+    "description": "The Evalu-8 app lets you do the day to day functions you need to perform without having to go onto the main Evalu-8 Portal.\nMore of the main portals functionality are being added to the app, but, for now you can do the following:\n\nView your employee details and documents.\nAdd leave and request leave cancellation.\nView your timesheet / rota.\nView the company directory.\nOn your dashboard you can quickly see what leave you have remaining and also quickly clock in / out within seconds.",
+    "icon": "/icons/com.evalu82.png"
+  },
+  "com.sima.epa": {
+    "title": "Section 608 Practice Test 2026",
+    "package": "com.sima.epa",
+    "description": "Section 608 Practice Test is designed specifically for those who are preparing to get EPA 608 license. Our app provides a comprehensive platform to review, practice, and enhance your understanding; then improve your EPA 608 exam results.\n\nFeatures:\n\n\ud83e\udde0 AI Mentora \u2013 Your Personal Learning Companion: Your intelligent guide that breaks down complex concepts into clear explanations. It expands your knowledge, and offers unlimited insights \u2014 like having a dedicated tutor by your side, 24/7.\n\n\ud83d\udccb Extensive Question Bank: Access more than 500 EPA 608 prep questions covering all key topics and concepts, including:\n\u2022 Core exam: Servicing All Types of Equipment\n\u2022 Type 1: Servicing Small Appliances\n\u2022 Type 2: Servicing or Disposing of High- or Very High-pressure Appliances, Except Small Appliances and MV",
+    "icon": "/icons/com.sima.epa.png"
+  },
+  "com.zinnov8.machine.maintenance": {
+    "title": "Maintaini8",
+    "package": "com.zinnov8.machine.maintenance",
+    "description": "Maintaini8 is a full-fledged machine maintenance tool to do the following:\n1. Do inventory management of machine, needle, spare part along with creating an approval process for needle and spareparts\n2. Accurate downtime tracking machine-wise and location-wise for every machine issue\n3. Machine Breakdowns are assigned automatically by location and skill assignment\n4. Manage preventive maintenance by automatically reminding and creating tickets for mechanics\n5. Achieve actionable intelligence by maintaining an escalation matrix and empowering maintenance staff and senior managers to get notifications and alerts in real-time\n6. Transfer and transact machines between sibling factories with the ease of a button\n7. Receive detailed analytics, insights and reports on your fingertips",
+    "icon": "/icons/com.zinnov8.machine.maintenance.png"
+  },
+  "com.SimpleGamesLab.ReflexTab": {
+    "title": "Reflex Tab: Reaction Test",
+    "package": "com.SimpleGamesLab.ReflexTab",
+    "description": "\ud835\udde8\ud835\udddf\ud835\udde7\ud835\udddc\ud835\udde0\ud835\uddd4\ud835\udde7\ud835\uddd8 \ud835\udde5\ud835\uddd8\ud835\uddd4\ud835\uddd6\ud835\udde7\ud835\udddc\ud835\udde2\ud835\udde1 \ud835\uddd6\ud835\udddb\ud835\uddd4\ud835\udddf\ud835\udddf\ud835\uddd8\ud835\udde1\ud835\uddda\ud835\uddd8! \u26a1  \n\nTest your reflexes right now! \nReflex Tab is the essential Brain Training challenge. Test your speed and concentration with this minimalist game, perfectly designed to improve your precision and timing with every daily tap. Sharpen your reflexes and become the Speed Master!\n\n\ud83d\udd79\ufe0f \ud835\uddda\ud835\uddd4\ud835\udde0\ud835\uddd8 \ud835\uddd9\ud835\uddd8\ud835\uddd4\ud835\udde7\ud835\udde8\ud835\udde5\ud835\uddd8\ud835\udde6:\n\n\ud83c\udfaf Precision Training: Perfect your tapping accuracy and timing.\n\n\u23f1\ufe0f Speed Challenge: Beat the clock and improve your personal best time.\n\n\ud83d\udcf1 Minimalist Design: Clean, distraction-free interface for maximum focus.\n\n\ud83d\ude80 Instant Fun: Simple one-touch gameplay perfect for short gaming sessions.\n\n\ud83c\udf10 Offline Play: No internet required \u2014 play anytime, anywhere!\n\n\ud83c\udfc6 High Score Tracking: Compete against your previous best for continuous improvement.\n\n\ud83e\udde0 \ud835\ude52\ud835\ude43\ud835\ude54 \ud835\ude3f\ud835\ude4a\ud835\ude52\ud835\ude49\ud835\ude47\ud835\ude4a\ud835\ude3c\ud835\ude3f \ud835\ude4d\ud835\ude40\ud835\ude41\ud835\ude47\ud835\ude40\ud835\ude53 \ud835\ude4f\ud835\ude3c\ud835\ude3d?\n\nRe",
+    "icon": "/icons/com.SimpleGamesLab.ReflexTab.png"
+  },
+  "com.inc1020.app1020": {
+    "title": "10-20.IO",
+    "package": "com.inc1020.app1020",
+    "description": "The 10-20 app is designed to run seamlessly in the background on the user\u2019s phone, serving as a vital component of the 10-20.io platform. It delivers real-time location tracking for first responders, empowering supervisors and commanders with a unified view of team locations. By enhancing coordination, improving response times, and enabling seamless interagency collaboration, 10-20 is tailored to the unique needs of police, fire, and emergency services. Prioritizing security, ease of use, and reliability, 10-20 is the ultimate tool for modern public safety professionals.",
+    "icon": "/icons/com.inc1020.app1020.png"
+  },
+  "com.mindyourlogic.offline.puzzle.brain.games": {
+    "title": "10+ Brain Games: Test Your IQ",
+    "package": "com.mindyourlogic.offline.puzzle.brain.games",
+    "description": "\ud83e\udde0 10+ Brain Games | \ud83c\udfae 20,000+ Levels | \ud83d\udcf6 Mind Games\n\nChallenge your brain and IQ with these 10+ brain games. This collection of brain games is like a treasure chest of challenges, featuring over 10+ brain games and more than 20,000 levels. Whether you're a puzzle enthusiast, a logic master, or just love a good mental workout, this game has something for everyone.\n\n\ud83c\udfc6 Challenge Yourself: Climb to Rank 1!\nThe game isn\u2019t just about playing\u2014it\u2019s about conquering! You\u2019ll start your journey at Rank 100. Play games, score Brain Points, and climb the ladder. Can you beat the competition and claim the top spot as Rank 1?\n\nWhy You'll Love Brain Games:\n\u2022\t8+ Games, 20,000+ Levels: Endless fun with puzzles, logic challenges, and strategy games.\n\u2022\tFun for All Ages: Perfect for kids, adults, and anyone wh",
+    "icon": "/icons/com.mindyourlogic.offline.puzzle.brain.games.jpg"
+  },
+  "com.hyperdart.app.tenq": {
+    "title": "10Q Reports: Finance, Stock, 1",
+    "package": "com.hyperdart.app.tenq",
+    "description": "Your go-to source for the most accurate \u2018as-reported\u2019 financials\n\nFinancial results of US public companies as-reported in their 10-Q and 10-K filings\n- Access up to 40 quarters of accurate and curated financial data to help you spot the trends\n- Fast, Accurate and Up-to-date financial statements\n- Add companies to watchlists to get real-time stock quotes\n- Latest financial news across the globe from top sources\n- All the financial information you need with the most intuitive navigation\n- Interactive stock charts along with historical data\n- Compare the trend of a company with customizable charts of financial metrics\n- Export financial reports as CSV, Excel\n\nSeamless Navigation :\n- Easily browse through the Stock Data, 10Q and 10K Filings, Latest News, Watchlist, Earnings Calendar and much ",
+    "icon": "/icons/com.hyperdart.app.tenq.png"
+  },
+  "com.iMe.android": {
+    "title": "iMe: Telegram AI Messenger",
+    "package": "com.iMe.android",
+    "description": "iMe: Your Ultimate Enhanced Telegram Messenger Client \ud83d\ude80\n\nUpgrade your Telegram experience with iMe - a powerful, privacy-focused Telegram client built on the Telegram API and enhanced with AI, crypto tools, and advanced security.\n\niMe is not a standalone messenger - it\u2019s an advanced Telegram client that takes your chats, messages, and communication to the next level. Manage multiple accounts, unlock restricted content, protect your privacy, and let AI handle the heavy lifting - all in one seamless messenger.\n\n\ud83d\udc49 Download iMe and discover messaging without limits.\n\nWhy Choose iMe App? \ud83e\udd14\n\n\u2705 Advanced messenger client with extended functionality\n\u2705 Multiple accounts on one device\n\u2705 Private messenger and secret chats\n\u2705 Built-in AI-assistant powered by Chat GPT-5, Claude, Gemini & DeepSeek\n\u2705 Nano ",
+    "icon": "/icons/com.iMe.android.png"
   }
 }
