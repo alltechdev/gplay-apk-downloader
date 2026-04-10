@@ -1364,8 +1364,11 @@ def download(pkg, split_index=None):
         resp = requests.get(url, headers=headers, stream=True, timeout=60)
 
         def generate():
-            for chunk in resp.iter_content(chunk_size=8192):
-                yield chunk
+            try:
+                for chunk in resp.iter_content(chunk_size=8192):
+                    yield chunk
+            finally:
+                resp.close()
 
         return Response(
             generate(),

@@ -61,6 +61,7 @@ def cache_app(pkg, title, icon_url=None, description=''):
 
     # Download and cache icon outside the lock to avoid blocking reads
     if icon_url:
+        icon_resp = None
         try:
             icon_resp = requests.get(icon_url, timeout=10, stream=True)
             if icon_resp.status_code == 200:
@@ -80,6 +81,9 @@ def cache_app(pkg, title, icon_url=None, description=''):
                     entry['icon'] = f'/icons/{pkg}.{ext}'
         except Exception as e:
             logger.warning(f"Failed to cache icon for {pkg}: {e}")
+        finally:
+            if icon_resp is not None:
+                icon_resp.close()
 
     if 'icon' not in entry:
         entry['icon'] = ''
@@ -99,42 +103,45 @@ def enrich_from_play(pkg):
     result = {'icon_url': None, 'title': None, 'description': ''}
     scraper = cloudscraper.create_scraper()
 
-    # Get details page for title + description
     try:
-        resp = scraper.get(f'https://play.google.com/store/apps/details?id={pkg}&hl=en', timeout=15)
-        if resp.status_code == 200:
-            text = resp.text
-            title_match = re.search(r'itemprop="name"[^>]*>([^<]+)<', text)
-            if title_match:
-                result['title'] = htmlmod.unescape(title_match.group(1).strip())
-            # Real description from the description div
-            desc_div = re.search(r'data-g-id="description"[^>]*>(.*?)</div>', text, re.DOTALL)
-            if desc_div:
-                desc_html = desc_div.group(1)
-                # Convert <br> to newlines, then strip remaining tags
-                desc_html = re.sub(r'<br\s*/?>', '\n', desc_html)
-                clean = re.sub(r'<[^>]+>', '', desc_html).strip()
-                result['description'] = htmlmod.unescape(clean)[:800]
-    except Exception as e:
-        logger.warning(f"Failed to get details for {pkg}: {e}")
+        # Get details page for title + description
+        try:
+            resp = scraper.get(f'https://play.google.com/store/apps/details?id={pkg}&hl=en', timeout=15)
+            if resp.status_code == 200:
+                text = resp.text
+                title_match = re.search(r'itemprop="name"[^>]*>([^<]+)<', text)
+                if title_match:
+                    result['title'] = htmlmod.unescape(title_match.group(1).strip())
+                # Real description from the description div
+                desc_div = re.search(r'data-g-id="description"[^>]*>(.*?)</div>', text, re.DOTALL)
+                if desc_div:
+                    desc_html = desc_div.group(1)
+                    # Convert <br> to newlines, then strip remaining tags
+                    desc_html = re.sub(r'<br\s*/?>', '\n', desc_html)
+                    clean = re.sub(r'<[^>]+>', '', desc_html).strip()
+                    result['description'] = htmlmod.unescape(clean)[:800]
+        except Exception as e:
+            logger.warning(f"Failed to get details for {pkg}: {e}")
 
-    # Get icon from search
-    try:
-        resp = scraper.get(f'https://play.google.com/store/search?q={pkg}&c=apps', timeout=15)
-        html = resp.text
+        # Get icon from search
+        try:
+            resp = scraper.get(f'https://play.google.com/store/search?q={pkg}&c=apps', timeout=15)
+            html = resp.text
 
-        icon_pattern = rf'\[\["{re.escape(pkg)}",7\],\[null,2,(?:null|\[[0-9]+,[0-9]+\]),\[null,null,"(https://play-lh\.googleusercontent\.com/[^"]+)"\]'
-        icon_match = re.search(icon_pattern, html)
-        if icon_match:
-            icon_url = icon_match.group(1).replace('\\u003d', '=').replace('\\u0026', '&')
-            result['icon_url'] = re.sub(r'=s\d+', '=s256', icon_url)
-        else:
-            img_pattern = rf'id={re.escape(pkg)}.*?<img[^>]*src="(https://play-lh\.googleusercontent\.com/[^"]+)"'
-            img_match = re.search(img_pattern, html, re.DOTALL)
-            if img_match:
-                result['icon_url'] = re.sub(r'=s\d+', '=s256', img_match.group(1))
-    except Exception as e:
-        logger.warning(f"Failed to get icon for {pkg}: {e}")
+            icon_pattern = rf'\[\["{re.escape(pkg)}",7\],\[null,2,(?:null|\[[0-9]+,[0-9]+\]),\[null,null,"(https://play-lh\.googleusercontent\.com/[^"]+)"\]'
+            icon_match = re.search(icon_pattern, html)
+            if icon_match:
+                icon_url = icon_match.group(1).replace('\\u003d', '=').replace('\\u0026', '&')
+                result['icon_url'] = re.sub(r'=s\d+', '=s256', icon_url)
+            else:
+                img_pattern = rf'id={re.escape(pkg)}.*?<img[^>]*src="(https://play-lh\.googleusercontent\.com/[^"]+)"'
+                img_match = re.search(img_pattern, html, re.DOTALL)
+                if img_match:
+                    result['icon_url'] = re.sub(r'=s\d+', '=s256', img_match.group(1))
+        except Exception as e:
+            logger.warning(f"Failed to get icon for {pkg}: {e}")
+    finally:
+        scraper.close()
 
     return result
 
