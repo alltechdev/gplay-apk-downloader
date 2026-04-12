@@ -179,12 +179,6 @@
     "description": "Product Features\nAmazon Shopping offers app-only benefits to help make shopping on Amazon faster and easier than shopping on your desktop.\n\nNever miss a delivery\nGet real-time tracking and delivery notifications so you know where your package is and when it arrives. \n\nKnow exactly what you\u2019re purchasing\nFull 360\u00b0 product view lets you see items from every angle. \u201cView in you room\u201d makes sure it fits by using your phone\u2019s camera and VR so you can see it in your space. \n\nWe\u2019ll notify you when items go on sale\nJust tap the heart icon to save items to Your Lists and we\u2019ll alert you of price drops so you don\u2019t miss a deal. \n\nNever forget your password\nSave time by staying securely signed in. If you prefer to sign out, use facial or fingerprint identification to sign back in. \n\nConnect with us w",
     "icon": "/icons/com.amazon.mShop.android.shopping.png"
   },
-  "com.americanexpress.android.acctsvcs.us": {
-    "title": "Amex",
-    "package": "com.americanexpress.android.acctsvcs.us",
-    "description": "The official American Express App for Android allows you to access your Account from anywhere. Track spending & rewards, find offers, review your balance, pay your bill and enjoy features only available in the Amex App. Biometric login (on supported devices), gives you quick, safe and secure access. Make the most of your Membership with the speed, security and convenience of the mobile Amex\u00ae App.\n\n\nSECURE ACCOUNT MANAGEMENT\n\n\u2022 Enhanced activation experience for you to confirm new Cards and setup your Account.\n\n\u2022 Activate your Credit Card for Google Pay in the Amex App, then simply unlock, tap and pay.\n\n\u2022 Freeze and unfreeze your Credit Card instantly at any time.\n\n\nSTAY ON TOP OF YOUR SPENDING\n\n\u2022 Check your American Express Account balance, pending transactions and sort charges by amount a",
-    "icon": "/icons/com.americanexpress.android.acctsvcs.us.png"
-  },
   "com.android.chrome": {
     "title": "Google Chrome",
     "package": "com.android.chrome",
@@ -17303,5 +17297,31 @@
     "package": "rahmouni.neil.counters",
     "description": "Counters is an app that lets you create simple counters to track pretty much anything !\n\nFeatures:\n - Multiple counters\n - Counters can automatically reset every day / week / month\n - Works with Material You (changes color based on your wallpaper or theme)\n - Works with Health Connect\n - No ads & no paid content\n - Works offline\n\nTrack habits, workout progress, medication and improve your productivity !",
     "icon": "/icons/rahmouni.neil.counters.png"
+  },
+  "it.ing.banking": {
+    "title": "ING Italia \u2013 Banca Online",
+    "package": "it.ing.banking",
+    "description": "Whether you're traveling or at home, with the ING app, your bank is always with you! Make transactions, manage your products, and trade online securely and conveniently, anytime, anywhere.\n\n\nNEW \u200b\nA compelling remake: the ING app is back on your screens, faster, more stable, and bug-free. Update now!\n\nBIOMETRIC RECOGNITION\n\nLog in to the app and authorize your transactions quickly and securely using facial recognition or your fingerprint directly from your smartphone.\n\n\nPUSH NOTIFICATIONS\n\nWith the ING app's push notifications, you're always up to date with everything happening in your account: see incoming and outgoing transactions in real time and receive all the latest news from the world of ING. Plus, they're free, and you can choose which transactions you want to receive them for, bas",
+    "icon": "/icons/it.ing.banking.png"
+  },
+  "com.ingcb.mobile.cbportal": {
+    "title": "ING InsideBusiness",
+    "package": "com.ingcb.mobile.cbportal",
+    "description": "With the ING InsideBusiness App you'll enjoy easy and secure access to your products and services anytime, anywhere:\n- Complete insight and control of your payment files\n- Remotely approve your InsideBusiness Connect or SwiftNet payment files\n- View FX transaction confirmations with a 2 or 4 eyes set-up\n- View and download reports, including cash balancing and mark-to-market reports\n- Manage your service requests\n\nmToken\nThe ING InsideBusiness App offers you the use of mToken. This QR code authentication means lets you log in and sign requests. All you need is the camera on your phone and the ING InsideBusiness App. \n\nHow do I get the ING InsideBusiness App?\nAs an ING Wholesale Banking client with access to InsideBusiness, you can use the ING InsideBusiness App. Please make sure you let yo",
+    "icon": "/icons/com.ingcb.mobile.cbportal.png"
+  },
+  "Com.welthfront": {
+    "title": "Com.welthfront",
+    "package": "Com.welthfront"
+  },
+  "com.fusionmedia.investing": {
+    "title": "Investing.com: Stock Market",
+    "package": "com.fusionmedia.investing",
+    "description": "Track real-time stock market data, news, shares, and alerts with the Investing.com app \u2014 trusted by millions worldwide. Build your portfolio, follow global financial markets, and stay ahead with powerful finance tools to analyze the stock market.\n\nStay ahead in the stock market and global finance with the Investing.com app. Get real-time market data, news, and live updates on major indices like the Dow Jones, NASDAQ and S&P500. Use our stock and portfolio tracker to monitor stocks, indices, ETFs and commodities. Receive personalized alerts for breaking stock market news, price changes, and market analysis\u2014your trusted finance app for smarter portfolio tracking and stock market insights.\n\n REAL-TIME DATA\nAccess live quotes, charts, and market data for over 300,000 financial instruments, inc",
+    "icon": "/icons/com.fusionmedia.investing.png"
+  },
+  "Com.wealthfront": {
+    "title": "Com.wealthfront",
+    "package": "Com.wealthfront"
   }
 }

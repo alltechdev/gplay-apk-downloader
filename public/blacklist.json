@@ -1,6 +1,7 @@
 {
   "packages": [
-    "com.wealthfront"
+    "com.wealthfront",
+    "com.americanexpress.android.acctsvcs.us"
   ],
   "message": "This app has been removed due to a takedown request from the rights holder."
 }
