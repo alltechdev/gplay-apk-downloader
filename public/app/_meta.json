@@ -17323,5 +17323,168 @@
   "Com.wealthfront": {
     "title": "Com.wealthfront",
     "package": "Com.wealthfront"
+  },
+  "com.wealthfront1": {
+    "title": "com.wealthfront1",
+    "package": "com.wealthfront1"
+  },
+  "com.chase": {
+    "title": "com.chase",
+    "package": "com.chase",
+    "icon": "/icons/com.chase.webp"
+  },
+  "co.bird.android": {
+    "title": "Bird \u2014 Ride Electric",
+    "package": "co.bird.android",
+    "description": "HOW IT WORKS:\n\ud83d\udcf2 Download the app\n\u2705 Sign up\n\ud83d\udcb3 Choose your payment method (PayPal, credit card, etc.)\n\ud83d\udd13 Select and unlock your vehicle\n\ud83d\udef4 Ride electric!\n\nThe fun way to get to your destination\nHead to work, run a few errands, or just go for a weekend ride. With the Bird app, get from point A to B safely and with style.\n\nECO-FRIENDLY MOBILITY\nOur mission is to make cities more livable by reducing car usage and lowering carbon emissions.\nEvery ride with Bird makes you a part of that mission.\n \nDISCOVER SPECIAL FEATURES AND OFFERS\n\n\u2013Get free rides\nShare your code with a friend and you both get a free ride.\n\n\u2014Travel together\nRiding with friends? The \"\"group rides\"\" feature lets you sign up for multiple e-vehicles through just one phone.\n\n\u2014More rides for less money\nFrom daily to monthly rates, Bir",
+    "icon": "/icons/co.bird.android.png"
+  },
+  "com.ridedott.rider": {
+    "title": "Dott (previously TIER)",
+    "package": "com.ridedott.rider",
+    "description": "Got somewhere to be? Take a Dott!\n\nLooking for an electric scooter or electric bike for your daily commute? Dott is your go-to e-scooter and e-bike rental app for fast, affordable ride sharing.\n\nWith the Dott app (also known as ridedott), you can unlock an electric scooter or e-bike in seconds and get going \u2014 whether you're commuting to work, connecting the last mile, or exploring a new city.\n\nFormer TIER user? Welcome! Your trusted electric scooter and electric bike service is now part of Dott. Same streets, fresh name.\n\nRide sharing made simple\n\nDott offers reliable e-scooter rental and bike rental in 400+ cities across Europe and the Middle East. Our shared vehicles are available 24/7 for everyday travel, and are built for real city life \u2014 quick trips, longer rides, and everything in be",
+    "icon": "/icons/com.ridedott.rider.png"
+  },
+  "taxi.android.client": {
+    "title": "Freenow by Lyft - taxi & more",
+    "package": "taxi.android.client",
+    "description": "At Freenow, we believe every journey should be seamless and trustworthy. That's why we're focusing more than ever on getting you reliable taxis, whenever and wherever you need them. Connect to opportunities, loved ones and new experiences with peace of mind. \n\nWherever life takes you, Freenow is your steadfast partner across 9 European countries. \n\nWHAT YOU CAN DO WITH FREENOW:\nGet a taxi you can trust: your journey starts with a tap, connecting you to professional, dependable drivers in well-maintained vehicles. \nFlexible travel options: explore city life with our eScooters, eBikes, eMopeds, Carsharing, or private hire vehicles (Ride). \nPublic transport tickets: buy tickets for transit directly in the app (where available).\nCar Rental: need a car for longer? Rent one through the app.\n\nEFF",
+    "icon": "/icons/taxi.android.client.png"
+  },
+  "io.voiapp.voi": {
+    "title": "Voi \u2013 e-scooter & e-bike hire",
+    "package": "io.voiapp.voi",
+    "description": "Rent an e-scooter or e-bike with just a tap on your phone and get anywhere in the city within minutes. Simply download the free Voi app, create an account and get rolling!\n\nA NEW WAY TO MOVE AROUND\nVoi provides a new level of mobility to urban dwellers who want to move smart and spend less without compromising the environment. So swap the tube, bus or car (and skip the hassle of parking!) for a shared electric scooter or e-bike and zip around the city in style, while leaving no carbon footprint. Rolling along the streets on an e-scooter or e-bike is the perfect way to explore a new city on a budget, or simply experience your own hometown from a different perspective.\n\nGET ROLLING IN NO TIME:\n1. Get the free Voi app and create an account.\n2. Find an e-scooter or e-bike nearby using the in-a",
+    "icon": "/icons/io.voiapp.voi.png"
+  },
+  "com.motivateco.hubway": {
+    "title": "Bluebikes",
+    "package": "com.motivateco.hubway",
+    "description": "Bluebikes is metro-Boston\u2019s public bike share system. With thousands of bikes available 24/7 at hundreds of stations throughout Metro-Boston, Bluebikes is one of the most popular bike shares in the country.\n\nUse the app to find your closest station and purchase a pass. Then unlock one of Bluebikes' safe, sturdy, easy to ride bikes, and get riding right away. When you\u2019re done riding, simply return the bike to an available dock at any station in the network. The app will show you all station locations, with real-time bike and dock availability, and you can save your favorites for later reference. Tap a station pin or location and the app will show you the best route to get there.\n\nIdeal for one-way trips, commutes to work or school, running errands, meeting friends for dinner, going to a gam",
+    "icon": "/icons/com.motivateco.hubway.png"
+  },
+  "me.rutrackersearch.app": {
+    "title": "me.rutrackersearch.app",
+    "package": "me.rutrackersearch.app"
+  },
+  "com.extreamsd.usbaudiorecorderpro": {
+    "title": "USB Audio Recorder PRO",
+    "package": "com.extreamsd.usbaudiorecorderpro",
+    "description": "Record and playback audio in high quality from a USB audio interface! Warning: this is not a generic driver, you can only playback and record from within this app. It is not possible to use your USB audio device with other apps!\n\nPlease have a look here for a list of tested devices and more information:\nhttp://www.extreamsd.com/USBAudioRecorderPRO\n\nIf you are more interested in a media player, please see our USB Audio Player PRO app:\nhttp://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro\n\neXtream Software Development has written a custom USB audio driver from scratch because many Android devices do not support USB audio or not in the full quality that our driver offers. No rooting is required.\n\nYour USB audio device must be class-compliant in order to work: USB 1.1 an",
+    "icon": "/icons/com.extreamsd.usbaudiorecorderpro.png"
+  },
+  "com.frontrow.flow": {
+    "title": "Flow Studio: AI Photo & Design",
+    "package": "com.frontrow.flow",
+    "description": "Creativity Flows. Flow is an easy-to-use Photo & Graphic design app. Boost your social media influence by creating engaging visual content effortlessly!\n\nEasy to Use\n\u2022 Available on your Phone so you can create a design anytime, anywhere.\n\u2022  Effortlessly crop, flip, and edit any photos as you want.\n\u2022 Use Flow Template to create a professional-level design with just a few taps. More accessible than ever to post your wonderful moments.\n\u2022 Quickly share your daily life with others on social media: Instagram, TikTok, WhatsApp, etc.\n\nCreativity Editors Tools\n\u2022 Various tools to tune your content and get the exact result you need.\n\u2022 Text Templates will stand out and help you make unique and creative content designs and deliver your ideas.\n\u2022 Color your photos with all kinds of cinematic filters.\n\u2022 B",
+    "icon": "/icons/com.frontrow.flow.png"
+  },
+  "com.samsung.android.galaxycontinuity": {
+    "title": "Samsung Flow",
+    "package": "com.samsung.android.galaxycontinuity",
+    "description": "Samsung Flow is a software product that enables a seamless, secure, connected experience across your devices. You can authenticate your Tablet/PC with your smartphone, share content between devices, and sync notifications or view contents from your smartphone on your Tablet/PC. You can turn on the smartphone's Mobile Hotspot to keep your Tablet/PC connected.\nYou can also log in to your Tablet/PC with your biometric data (Iris, Fingerprints) if you register with Samsung Pass.\n\nThe following devices support Samsung Flow:\n1. Windows Tablet/PC : Windows 10 OS Creators update (V1703) and June patch build (15063.413)\n(Galaxy TabPro S, Galaxy Book,  Galaxy Book2.  Galaxy Book S, PC)\n2. Android Tablet: Android N OS or newer \n3. Android Phone : Android N OS or Newer\nIt may not be supported by some ",
+    "icon": "/icons/com.samsung.android.galaxycontinuity.png"
+  },
+  "com.ecostp.flow": {
+    "title": "Flow",
+    "package": "com.ecostp.flow",
+    "description": "1. Our app is a comprehensive solution for sewage treatment plant projects, catering to both project managers and site engineers.\n2. It simplifies STP construction, facilitates task management, and ensures exceptional quality.\n3. It also includes features like the six sigma tracker to monitor work quality and provides the capability to track overall project construction status.\n4. Additionally, the app automates the generation of project reports, which can be easily shared with clients for transparency and accountability.",
+    "icon": "/icons/com.ecostp.flow.jpg"
+  },
+  "com.bigduckgames.flow": {
+    "title": "Flow Free",
+    "package": "com.bigduckgames.flow",
+    "description": "Flow Free\u00ae is a simple yet addictive puzzle game.\n\nConnect matching colors with pipe to create a Flow\u00ae. Pair all colors, and cover the entire board to solve each puzzle in Flow Free. But watch out, pipes will break if they cross or overlap!\n\nFree play through hundreds of levels, or race against the clock in Time Trial mode. Flow Free gameplay ranges from simple and relaxed, to challenging and frenetic, and everywhere in between. How you play is up to you. So, give Flow Free a try, and experience \"mind like water\"!\n\nFlow Free features:\n\n\u2605 Over 2,500 free puzzles\n\u2605 Free Play and Time Trial modes\n\u2605 Clean, colorful graphics\n\u2605 Fun sound effects\n\nSpecial thanks to Noodlecake Studios, creators of Super Stickman Golf, for their work on Flow Free!\n\nEnjoy.",
+    "icon": "/icons/com.bigduckgames.flow.png"
+  },
+  "com.found.me.prod": {
+    "title": "FOUND ME",
+    "package": "com.found.me.prod",
+    "description": "We are all at risk of losing the people, pets and valuables that mean the most to us. \n\nFOUND ME was designed as a global solution to mitigate this risk and provide peace of mind. \n\nWe exist to protect everyone and everything important in our customers\u2019 lives.\n\nWith FOUND ME, you are connected to everyone and everything you love in case of a loss or emergency via an interactive system of tags, labels, bracelets, and necklaces linked to our APP.\n\nFOUND ME makes it possible for a good samaritan to get in touch with you, a family member or a friend by simply scanning the QR codes on the Interactive tags. The communication is done privately and without requiring to share any personal information such as your name, phone number or address. \n\nWHY WE DO IT\nFOUND ME was created to fill an unmet ne",
+    "icon": "/icons/com.found.me.prod.png"
+  },
+  "com.findr.findrapp": {
+    "title": "FINDR - Find people and events",
+    "package": "com.findr.findrapp",
+    "description": "Findr - Find People and Events is the ideal app for creating authentic connections around your interests, without pressure or romantic ambiguity.\n\nFind people near you who share your passions: sports, travel, photography, yoga, cooking, hiking, etc. Or discover events organized near you and join active communities.\n\n\ud83d\udca1 Examples:\n\nDo you love running but are tired of running alone? Find a running partner near you.\n\nWant to share a trip or a cultural outing? Connect with other enthusiasts.\n\nOrganizing a workshop or activity? Create your event and find participants in just two clicks.\n\n\ud83e\udde9 Key Features:\nSmart Matching Based on Your Passions\n\nSearch by Interests and Location\n\nSecure Post-Match Messaging\n\nShared Calendar & Event Participation\n\nPost-Activity Ratings and Feedback\n\nWhether you're ath",
+    "icon": "/icons/com.findr.findrapp.png"
+  },
+  "com.fusion.tracking": {
+    "title": "ISEARCH TRACKER",
+    "package": "com.fusion.tracking",
+    "description": "Real-time Vehicle Tracking: Track your vehicles in real-time on the map to monitor their location and movements.\nHistorical Routes: View the historical routes taken by each vehicle to analyze past movements and patterns.\nVehicle Status: Get detailed information about each vehicle's status, including speed, mod, known location etc.\nMap Interaction: Interact with the map to zoom, pan, and explore the tracked vehicles' locations.\nUser-Friendly Interface: Intuitive and easy-to-use interface for a seamless tracking experience.",
+    "icon": "/icons/com.fusion.tracking.png"
+  },
+  "com.repstracker.repstracker": {
+    "title": "REPStracker",
+    "package": "com.repstracker.repstracker",
+    "description": "Are you a real estate investor or vacation rental owner bogged down with a huge tax burden?\n\nThere are two powerful tax benefits you could claim to help build your real estate empire: \n- Real Estate Professional Status (REPS)\n- Short term rental (STR) tax benefit\n\nREPStracker helps you to streamline the process of claiming REPS and STR tax benefits.\n\nThe REPStracker app is a quick and easy-to-use time tracking app, simplifying the process of logging your material participation hours. \n\nFeatures include:\n\n- Two apps in one:\nWhether you are a real estate investor for long term rentals or short term rentals, our app helps you qualify for either (or both) tax benefits\n\n- Track your REPS/STR progress in real time:\nNo more guesswork or clumsy math.  Know where you stand with your material partic",
+    "icon": "/icons/com.repstracker.repstracker.png"
+  },
+  "com.renee.findmymeds": {
+    "title": "Find My Meds by Renee",
+    "package": "com.renee.findmymeds",
+    "description": "Find My Meds is an AI-powered app designed specifically for those starting or already taking Wegovy\u00ae. Share your prescription details with us in the Find My Meds app, and we'll locate nearby retail chain pharmacies with Wegovy\u00ae in stock.\n\nFind My Meds:\n* Locates a nearby retail chain pharmacy with Wegovy\u00ae in stock, and transfers your prescription there \n* Notifies you when it's ready and provides location information. The pharmacy will typically hold it for at least 7 days\n* Sends refill reminders before your current prescription runs out\n\nFind My Meds was developed by Novo Nordisk in collaboration with Together by Renee. To use Find My Meds, you must reside in the United States or Puerto Rico, have an active Wegovy\u00ae prescription, and have insurance coverage or pay out of pocket.\n\nSee Pres",
+    "icon": "/icons/com.renee.findmymeds.jpg"
+  },
+  "com.geomitry.trigonomitry": {
+    "title": "Lateral Pipe",
+    "package": "com.geomitry.trigonomitry",
+    "description": "Get all our apps in one here:\nhttps://play.google.com/store/apps/details?id=com.odesk.calculator&hl=en\n\nThe Lateral Pipe calculator is designed for Pipefitter/ welders/fabricators to eliminate the time it takes to calculate Advanced piping calculations for \"Fishmouth and Lateral\" Connections. \n\nLike us on Facebook\nhttp://www.facebook.com/PipeFitterCalculatorApp\n\n\"Available for the Android and Iphone\"\n\nPocket Pipe Organizer will run all of your pipe apps from one interface. CLICK LINK to Download\nhttps://play.google.com/store/apps/details?id=pocket.pipe.organizer\n\n- Input Values as Fractions\n- Input Values as Metric\n- Outputs values as fractions\n- Outputs values as Decimal\n- Choose to calculate 8, 16, 32, or 64 Ordinate lines for making templates\n- Calculate Concentric and Eccentric fit up\n",
+    "icon": "/icons/com.geomitry.trigonomitry.png"
+  },
+  "com.vladk.pipemasters": {
+    "title": "Flow Legends: Pipe Games",
+    "package": "com.vladk.pipemasters",
+    "description": "Nobody likes getting wet - most of your customers certainly don't! Fix the pipes and show your engineering and puzzle-solving skills in a unique way!\n\nHow to play Flow Legends: pipe arcade games:\n - Look at all pipes on the level\n - Think how to connect them. But be careful - some levels are quite tricky!\n - Finally, connect all the pipes and start the fluid flow!\n\nWhat are you waiting for? Download Flow Legends: Pipe casual games and start connect pipes!\n\n=====================\nCOMPANY COMMUNITY: \n=====================\nFacebook: https://www.facebook.com/AzurGamesOfficial\nInstagram: https://www.instagram.com/azur_games\nYouTube: https://www.youtube.com/AzurInteractiveGames",
+    "icon": "/icons/com.vladk.pipemasters.png"
+  },
+  "com.bitmango.go.linepuzzlepipeart": {
+    "title": "Line Puzzle: Pipe Art",
+    "package": "com.bitmango.go.linepuzzlepipeart",
+    "description": "Relax Your Mind, One Pipe at a Time \ud83e\udde9\ud83d\udee0\ufe0f\nStep into the calming world of Pipe Art, where colorful pipes, clever puzzles, and satisfying animations come together in perfect flow. Simply connect pipes of the same color to let the water run and reveal beautiful pipe art designs.\n\nSounds easy? It is\u2014at first. But as the puzzles grow more complex, you\u2019ll need logic, strategy, and a steady hand to master every level.\n\n\ud83e\udde0 How to Play\n\u2022 Connect pipes of the same color\n\u2022 Fill the board without overlapping\n\u2022 Earn stars and unlock new puzzles\n\n\ud83c\udfaf Features\n\u2022 Hundreds of handcrafted levels, from relaxing to mind-bending\n\u2022 Daily puzzles and bonus rewards\n\u2022 Time Attack Mode to challenge your reflexes\n\u2022 Smooth, satisfying animations and vibrant designs\n\u2022 Offline play\u2014perfect for on-the-go fun\n\n\ud83c\udf08 Why You'll Lo",
+    "icon": "/icons/com.bitmango.go.linepuzzlepipeart.png"
+  },
+  "com.Kunio.PipeClassic": {
+    "title": "Pipe Classic",
+    "package": "com.Kunio.PipeClassic",
+    "description": "Relax your mind and challenge your brain in Pipe Classic!\n\nPipe Classic is a fun and addictive free puzzle game where your goal is simple: rotate pipes and connect them into a complete pipeline from the source to the output. Easy to learn, satisfying to play, and challenging to master.\n\nTest your logic and puzzle-solving skills through 250 brain-training levels across five difficulty modes. As new puzzle mechanics appear, the game will guide you, so you can keep learning and improving while enjoying each challenge.\n\nStuck on a tough puzzle? Use hints to keep progressing, and collect daily random rewards to make your journey even more fun.\n\nFeatures\n\t\u2022\t250 challenging puzzle levels\n\t\u2022\t5 difficulty modes: Easy, Medium, Advanced, Hard, and Expert\n\t\u2022\tRotate pipes to complete the pipeline\n\t\u2022\tHe",
+    "icon": "/icons/com.Kunio.PipeClassic.png"
+  },
+  "com.uhaul.android.myuhaul": {
+    "title": "U-Haul",
+    "package": "com.uhaul.android.myuhaul",
+    "description": "Wherever you\u2019re headed, our app is designed for Moving Made Easier\u00ae. Get an instant quote, start or modify your reservation, track your orders, and so much more, all from your mobile device. It\u2019s the fastest and most secure way to manage your move! \n\n- Pick up and return your rental with just a few taps on your device, any time. \n- Sign in with your custom profile to skip the counter and reserve in minutes. \n- Get an instant quote, manage your order, and review your rental history. \n- Use the live chat feature or email us for 24/7 support.  \n- View FAQs and resources to answer your questions. \n- Quickly find a U-Haul location near you with the products and services you need.",
+    "icon": "/icons/com.uhaul.android.myuhaul.png"
+  },
+  "com.xdg.and.wll": {
+    "title": "Ulala: Idle Adventure",
+    "package": "com.xdg.and.wll",
+    "description": "Whether you\u2019re sleeping, eating, or taking the subway - come play Ulala: Idle Adventure!  Ulala is an idle MMORPG, which brings to life the excitement and adventures of the Stone Age in a fun and social way!\n\nCould you ever imagine the Stone Age to be so carefree?\nAt the edge of the desert, and at the foot of a volcano, there lives a group of happy Ulala and a bunch of little monsters. Ice and fire, thunder and electricity, all intertwine on the wild and vast continent where there's constantly a struggle between peace and action.\n\nThis season\u2019s Hunting Horn is about to blow! Ride your little Tyrannosaurus Rex and bring all your friends along to prove yourself to be a top hunter this season in the world of Ulala.\n\nA relaxed RPG?\nWant to be the best, but don\u2019t want to spend all of your time ",
+    "icon": "/icons/com.xdg.and.wll.jpg"
+  },
+  "com.uchainwallet.app": {
+    "title": "UWallet App",
+    "package": "com.uchainwallet.app",
+    "description": "UWallet is a secure and convenient cryptocurrency wallet designed to manage your digital assets with ease. Full control over your funds, advanced security features, and an intuitive interface make UWallet an ideal choice for both beginners and experienced cryptocurrency users.\n\nSecurity and control\nYou are the only one who holds your private keys \u2014 they are stored on your smartphone.\nBiometric protection \u2014 log in and confirm transactions using Face ID or fingerprint.\nState-of-the-art Defender security mechanism \u2014 to confirm transactions.\nA unique Fee Protector feature \u2014 no needless expenditures or exorbitant commissions.\n\nEfficient payments and transfers\nInstant transfers between users from all over the world.\n\nMulti-currency support\nAll your assets and key networks in one place.\n\nSimplici",
+    "icon": "/icons/com.uchainwallet.app.png"
+  },
+  "com.ucroo.xavier": {
+    "title": "myXULA",
+    "package": "com.ucroo.xavier",
+    "description": "myXULA is your one-stop-shop connecting you with the systems, information, people, and updates you'll need to succeed at Xavier University of Louisiana.\n\nUse myXULA to:\n- Access all community single sign-on services, your XULA email, and other everyday systems for daily tasks\n- Receive key notifications from important services and offices\n- Keep updated on announcements and alerts relevant to you\n- Search staff, peers, systems, groups, posts, resources, and more\n- Connect with departments, services, organizations, and peers\n- Stay focused on your most important to-dos\n- View personalized resources and content\n- Find and join Xavier events that interest you\n\nIf you have questions about myXULA, please contact the Help Desk online at help.xula.edu, at 504-520-7449 or helpdesk@xula.edu.",
+    "icon": "/icons/com.ucroo.xavier.jpg"
+  },
+  "com.universityathlete.uar5": {
+    "title": "UA Recruiter",
+    "package": "com.universityathlete.uar5",
+    "description": "University Athlete Recruiter (UA Recruiter) is a tool for college volleyball coaches to track and evaluate athletes, primarily at events. The application mirrors the design and all functions available in the University Athlete web platform for college coaches.\n\nWhat\u2019s in this version?\n\u2022 New codebasedesign with up to 5x faster performance\n\u2022 Tags with custom colors and icons\n\u2022 Enhanced view of Athlete Cards and Athlete Details\n\u2022 Enhanced view of Evaluations\n\u2022 Improved view of Search filters\n\u2022 Overall rating\n\u2022 Skill Ratings\n\u2022 Note Labels\n\u2022 Tasks Functionality\n\u2022 Emailing\n\u2022 Follow\n\u2022 Quick Search functionality updated\n\u2022 Improved navigation across important elements\n\nThe application requires a University Athlete college web account with login privileges. It will not be useful to anyone who is not",
+    "icon": "/icons/com.universityathlete.uar5.png"
+  },
+  "com.psiphon3.subscription": {
+    "title": "Psiphon VPN: Freedom Online",
+    "package": "com.psiphon3.subscription",
+    "description": "Welcome to Psiphon \u2014 the open-source application built on cutting-edge, research-backed security and network technologies. With over 150 million downloads, Psiphon is the trusted Internet Freedom VPN. Access your favorite apps and sites with our proxy server. Whether you're connecting across borders or protecting your data on public Wi-Fi, Psiphon offers a worry-free online experience through a secure mobile VPN.\n\n\nPSIPHON\u2019S FEATURES:\n\n\nMORE THAN A SECURE HOTSPOT AND  MOBILE VPN\n- Proxy VPN access ensures that you can browse securely\n- Browse freely from anywhere with our mobile VPN.\n- Hotspot VPN protection means that your mobile security is safe, even on public networks\n\n\nPRIVATE BROWSING WITH A SEAMLESS PROXY VPN\n- The Psiphon Proxy server automatically selects the best protocol and pro",
+    "icon": "/icons/com.psiphon3.subscription.png"
   }
 }
