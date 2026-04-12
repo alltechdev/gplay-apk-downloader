@@ -17297,5 +17297,11 @@
     "package": "com.etrade.mobilepro.activity",
     "description": "Welcome to E*TRADE from Morgan Stanley, where we simplify investing and trading no matter your experience level. Our award-winning app offers everything you need, including investing, banking, trading, research, and more\u2014right at your fingertips. Download now to start investing.\n\nInvest on your terms\n\u2022 Enjoy commission-free online US-listed stock, ETF, and options trades\n\u2022 Trade mutual funds\n\u2022 Choose from professionally built portfolios\n\nInvest with confidence\n\u2022 Get streaming quotes, charts, and portfolio information\n\u2022 Access education, research, tools, and screeners to spot investment opportunities\n\u2022 Set alerts and create watchlists for the investments you're interested in\n\u2022 Stream live Bloomberg video\n\u2022 Chat with customer service in-app\n\nBank and save\n\u2022 Earn more on your cash with high-y",
     "icon": "/icons/com.etrade.mobilepro.activity.png"
+  },
+  "rahmouni.neil.counters": {
+    "title": "Counters (Sport, Habits...)",
+    "package": "rahmouni.neil.counters",
+    "description": "Counters is an app that lets you create simple counters to track pretty much anything !\n\nFeatures:\n - Multiple counters\n - Counters can automatically reset every day / week / month\n - Works with Material You (changes color based on your wallpaper or theme)\n - Works with Health Connect\n - No ads & no paid content\n - Works offline\n\nTrack habits, workout progress, medication and improve your productivity !",
+    "icon": "/icons/rahmouni.neil.counters.png"
   }
 }

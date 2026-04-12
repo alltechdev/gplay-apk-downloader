@@ -65,6 +65,17 @@ DEFAULT_DEVICE = DEFAULT_ARM64_PROFILE
 AUTH_FILE = Path.home() / ".gplay-auth.json"
 SCRIPT_DIR = Path(__file__).parent
 
+# Blacklist: packages that cannot be downloaded
+def _load_blacklist():
+    try:
+        bl_file = SCRIPT_DIR / 'public' / 'blacklist.json'
+        data = json.loads(bl_file.read_text())
+        return set(data.get('packages', [])), data.get('message', 'This app is not available.')
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set(), 'This app is not available.'
+
+BLACKLISTED_PACKAGES, BLACKLIST_MESSAGE = _load_blacklist()
+
 # Architecture mapping
 ARCH_MAP = {
     'arm64': 'arm64-v8a',
@@ -352,6 +363,9 @@ def cmd_search(args):
 
 def cmd_info(args):
     """Get app details."""
+    if args.package in BLACKLISTED_PACKAGES:
+        print(f"Error: {BLACKLIST_MESSAGE}")
+        return 1
     auth = load_auth()
     if not auth:
         return 1
@@ -441,6 +455,11 @@ def cmd_info(args):
 
 def cmd_download(args):
     """Download APK."""
+    package = args.package
+    if package in BLACKLISTED_PACKAGES:
+        print(f"Error: {BLACKLIST_MESSAGE}")
+        return 1
+
     # Pre-check ADB device if --install requested
     if getattr(args, 'install', False):
         if not _check_adb_device():
@@ -449,8 +468,6 @@ def cmd_download(args):
     auth = load_auth()
     if not auth:
         return 1
-
-    package = args.package
     arch = ARCH_MAP.get(args.arch, 'arm64-v8a') if args.arch else 'arm64-v8a'
     should_merge = args.merge
 
@@ -688,6 +705,9 @@ def cmd_download(args):
 
 def cmd_check_version(args):
     """Check app version without downloading (protobuf API with HTML fallback)."""
+    if args.package in BLACKLISTED_PACKAGES:
+        print(f"Error: {BLACKLIST_MESSAGE}")
+        return 1
     auth = load_auth()
     if not auth:
         return 1
@@ -798,6 +818,9 @@ def cmd_check_version(args):
 
 def cmd_list_splits(args):
     """List available splits for an app."""
+    if args.package in BLACKLISTED_PACKAGES:
+        print(f"Error: {BLACKLIST_MESSAGE}")
+        return 1
     auth = load_auth()
     if not auth:
         return 1

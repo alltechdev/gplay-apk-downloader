@@ -133,6 +133,23 @@ DEFAULT_DEVICE = DEVICE_ARM64
 
 SUPPORTED_ARCHS = ['arm64-v8a', 'armeabi-v7a']
 
+# Blacklist: packages that are fully blocked from download, search, and app pages
+BLACKLIST_FILE = Path(__file__).parent / 'public' / 'blacklist.json'
+
+def _load_blacklist():
+    try:
+        data = json.loads(BLACKLIST_FILE.read_text())
+        return set(data.get('packages', [])), data.get('message', 'This app is not available.')
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set(), 'This app is not available.'
+
+BLACKLISTED_PACKAGES, BLACKLIST_MESSAGE = _load_blacklist()
+
+
+def is_blacklisted(pkg):
+    """Return True if the package is blacklisted."""
+    return pkg in BLACKLISTED_PACKAGES
+
 
 def get_device_config(arch='arm64-v8a', profile_index=0):
     """Get device config for a specific architecture.
@@ -394,9 +411,11 @@ def validate_package_name(pkg):
 
 
 def _require_valid_pkg(pkg):
-    """Return a 400 JSON response if pkg is invalid, else None."""
+    """Return a 400 JSON response if pkg is invalid or blacklisted, else None."""
     if not validate_package_name(pkg):
         return jsonify({'error': 'Invalid package name'}), 400
+    if is_blacklisted(pkg):
+        return jsonify({'error': BLACKLIST_MESSAGE}), 403
     return None
 
 
@@ -700,6 +719,8 @@ if not _DISABLE_APP_PAGES:
     def app_page(pkg):
         if not re.match(r'^[a-zA-Z][a-zA-Z0-9_.]*$', pkg):
             return Response('Invalid package name', status=400, content_type='text/plain')
+        if is_blacklisted(pkg):
+            return Response('App not found. <a href="/">Try searching for it</a>.', status=404, content_type='text/html')
         from app_pages import render_app_page
         html = render_app_page(pkg)
         if not html:
@@ -1060,6 +1081,8 @@ def search():
                         'icon': icon
                     })
 
+        # Filter out blacklisted packages before finalizing
+        results = [r for r in results if not is_blacklisted(r.get('package', ''))]
         final_results = results[:5]
         # Cache the results for future requests
         cache_search(normalized_query, final_results)

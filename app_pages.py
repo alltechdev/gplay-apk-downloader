@@ -50,8 +50,21 @@ def get_app_meta(pkg):
     return meta.get(pkg)
 
 
+def _load_blacklist():
+    try:
+        bl_file = Path(__file__).parent / 'public' / 'blacklist.json'
+        data = json.loads(bl_file.read_text())
+        return set(data.get('packages', []))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set()
+
+_BLACKLISTED_PACKAGES = _load_blacklist()
+
+
 def cache_app(pkg, title, icon_url=None, description=''):
     """Cache app metadata and icon. Called after successful download."""
+    if pkg in _BLACKLISTED_PACKAGES:
+        return  # blacklisted, do not cache
     with _meta_lock:
         meta = _load_meta()
         if pkg in meta and meta[pkg].get('title') and meta[pkg].get('description'):
@@ -148,6 +161,8 @@ def enrich_from_play(pkg):
 
 def render_app_page(pkg):
     """Render an app page from template + cached metadata."""
+    if pkg in _BLACKLISTED_PACKAGES:
+        return None
     meta = get_app_meta(pkg)
     if not meta:
         return None
