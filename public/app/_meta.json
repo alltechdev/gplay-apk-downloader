@@ -17830,5 +17830,23 @@
     "package": "com.instacart.shopper",
     "description": "Earn money by grocery shopping and help those who need it most by becoming an Instacart shopper. As a shopper, you go to the grocery store like normal, except you get paid to shop for others in your local community. \n\nWhat it\u2019s like being an Instacart shopper:\n\n\u2014 Work whenever & wherever you want \u2014\nWith no set schedule or region, you can make extra cash when it fits your life\u2014whether that\u2019s close to home or miles away.\n\n\u2014 Pick the orders you want \u2014 \nUse the app to see nearby orders and choose the ones that work best for you. Then get paid just for grocery shopping!\n\n\u2014 Get paid fast \u2014 \nKeep 100% of customer tips and cash out in as little as 2 hours after making a delivery. \n\n\u2014 Make someone\u2019s day \u2014 \nFrom helping seniors to small businesses to busy families, shoppers keep their communities ru",
     "icon": "/icons/com.instacart.shopper.webp"
+  },
+  "com.xiaomi.hm.health": {
+    "title": "Zepp Life",
+    "package": "com.xiaomi.hm.health",
+    "description": "Zepp Life provides you with accurate exercise tracking, detailed sleep and exercise analysis. It motivates you to love exercise, enjoy an active and healthy lifestyle, and embrace a better version of yourself.\n\nZepp Life supports the following products:\n- Xiaomi Mi Band series\n- Xiaomi Weighing Scale series\n- Xiaomi Body Composition Scale series\n- Mi Watch Lite\n- And many more smart products\n\nThe main features of Zepp Life include:\n[Record Every Exercise]: Supports running, cycling, walking, and related training; each exercise session provides professional posture and heart rate analysis, making your workout more scientific and effective;\n[Intimate Sleep Manager]: In-depth analysis of various factors affecting sleep quality and offering improvement suggestions;\n[Comprehensive Evaluation of",
+    "icon": "/icons/com.xiaomi.hm.health.png"
+  },
+  "com.huami.watch.hmwatchmanager": {
+    "title": "Zepp",
+    "package": "com.huami.watch.hmwatchmanager",
+    "description": "The official app for Amazfit, the Zepp app is free to use and trusted by top athletes such as running back Derrick Henry and sprinter Gabby Thomas. \n\nBuilt for sports and performance, it\u2019s where you\u2019ll track your training, health and recovery data, log your nutrition, and get easy-to-understand scores with AI-powered coaching and guidance \u2014 all protected with the highest level of data security.\n\nTRACK MACROS: Snap a photo of your meal and instantly get calories, weight, and macronutrients. No watch required, just the Zepp App. Perfect for athletes balancing training with strict diets. Log as many meals as you want with no limits, or enter them manually if that\u2019s easier.\n\nHEALTH & FITNESS DATA: Vital health metrics like heart rate, sleep, stress, and blood oxygen, the Zepp App tracks your f",
+    "icon": "/icons/com.huami.watch.hmwatchmanager.png"
+  },
+  "com.huami.watch.pop": {
+    "title": "Zepp Active",
+    "package": "com.huami.watch.pop",
+    "description": "Zepp Active App (Only for Amazfit Pop Series) is an application for all kinds of sports watches. It can synchronize the steps, heart rate, sleep, exercise and other data of the exercise table. When you grant phone and SMS permission, you can push your SMS and number to the connected watch device. You can push messages from different applications to your watch, and you can set various reminders for your watch. More application scenarios and more features are waiting for you to experience.\n\nName of associated equipment: Amazfit Pop 2, Pop 3S, Pop 3R",
+    "icon": "/icons/com.huami.watch.pop.png"
   }
 }
