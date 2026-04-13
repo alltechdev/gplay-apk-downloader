@@ -17486,5 +17486,193 @@
     "package": "com.psiphon3.subscription",
     "description": "Welcome to Psiphon \u2014 the open-source application built on cutting-edge, research-backed security and network technologies. With over 150 million downloads, Psiphon is the trusted Internet Freedom VPN. Access your favorite apps and sites with our proxy server. Whether you're connecting across borders or protecting your data on public Wi-Fi, Psiphon offers a worry-free online experience through a secure mobile VPN.\n\n\nPSIPHON\u2019S FEATURES:\n\n\nMORE THAN A SECURE HOTSPOT AND  MOBILE VPN\n- Proxy VPN access ensures that you can browse securely\n- Browse freely from anywhere with our mobile VPN.\n- Hotspot VPN protection means that your mobile security is safe, even on public networks\n\n\nPRIVATE BROWSING WITH A SEAMLESS PROXY VPN\n- The Psiphon Proxy server automatically selects the best protocol and pro",
     "icon": "/icons/com.psiphon3.subscription.png"
+  },
+  "com.nico.coinche": {
+    "title": "CoinCoinche : Coinche and Belo",
+    "package": "com.nico.coinche",
+    "description": "This application for phones and tablets help you count and keep scores for Belote and Coinche games. Simply add games and keep stats of previous games without any pens and paper :) \n\nWith the app comme an unlimited and free historic of all your games.\n\nAmong the features you can find :\n\n- Global stats on all played games\n- Stats on the most successful color \n- A dark mode\n- Declarations\n- The dealer\n- Capot and G\u00e9n\u00e9rale\n- Coinche and Surcoinche\n- Every players stats\n\nHave a good game !",
+    "icon": "/icons/com.nico.coinche.png"
+  },
+  "com.belooapp.beloo": {
+    "title": "Beloo",
+    "package": "com.belooapp.beloo",
+    "description": "Beloo is the first safety application for cyclists with a 100% comprehensive solution where you can request help from other users in the Beloo community or share your route with your safety contact... and much more!",
+    "icon": "/icons/com.belooapp.beloo.png"
+  },
+  "com.wallet.crypto.trustapp": {
+    "title": "Trust: Crypto & Bitcoin Wallet",
+    "package": "com.wallet.crypto.trustapp",
+    "description": "A Wallet You Can Trust \u2014  Now Lets You Earn On Your Stablecoins\nGrow your crypto securely with the newest feature from Trust Wallet: Stablecoin Earn. Start earning daily rewards on stablecoins like USDT, USDC, DAI, and USDA \u2014 directly in the wallet trusted by over 200 million users.\n\nWhat\u2019s New!\n- Stablecoin Earn \u2013 Put your stablecoins such as USDT, USDC, USDA, and DAI to work using transparent, self-custodial, onchain protocols.\n- Earn competitive, real-time rewards. Withdraw anytime. Keep full  control.\n- Available now in the latest version of Trust Wallet.\n\nTrust Wallet \u2013 Your All-in-One Web3 Wallet\nTrust Wallet is a secure multi-chain self-custody wallet and your gateway to 10+ million digital assets, NFTs, and thousands of Web3 dApps.\n\nSecure and Private\n- You control your private key",
+    "icon": "/icons/com.wallet.crypto.trustapp.png"
+  },
+  "com.coinomi.wallet": {
+    "title": "Coinomi: Crypto Bitcoin Wallet",
+    "package": "com.coinomi.wallet",
+    "description": "Your funds, your freedom with Coinomi, the trusted all-in-one wallet for Bitcoin, Ethereum, Solana, and thousands of other blockchain assets.\n\nUnlock endless possibilities:\n\n  Seamlessly send and receive crypto across 125+ blockchains\n  Manage a wide range of digital assets, including Bitcoin (BTC), Ethereum (ETH), Solana (SOL), Ripple (XRP), Litecoin (LTC), NFTs, and more\n  Effortlessly import unlimited tokens across multiple networks\u2014no need to wait for new token additions\n  Purchase crypto using your credit card and have it instantly delivered to your wallet\n  Sync your Coinomi wallet across your devices for easy access anytime, anywhere\n  Expertly designed for both beginners and seasoned users, ensuring an intuitive experience\n\n\nBeyond the essentials:\n\n  24/7 support: Our dedicated tea",
+    "icon": "/icons/com.coinomi.wallet.png"
+  },
+  "com.bitcoin.mwallet": {
+    "title": "Bitcoin.com Wallet: Buy, Sell",
+    "package": "com.bitcoin.mwallet",
+    "description": "The Bitcoin.com Wallet: Your Self-Custody Bitcoin & Crypto DeFi Wallet\nThe most secure, easy-to-use multichain crypto wallet that gives you full control of your assets.\n\nBuy, sell, send, receive, and swap major cryptocurrencies:\nBitcoin (BTC), Bitcoin Cash (BCH), Ethereum (ETH), Avalanche (AVAX), Polygon (MATIC), BNB Smart Chain (BNB), ZANO, fUSD, and select ERC-20 tokens. Pay with credit card, Google Pay and more. Supports stablecoins like USDT, USDC, DAI, fUSD, and more.\n\nKey Features:\n\nSELF-CUSTODIAL CRYPTO WALLET\nYou control your private keys and assets \u2014 not even Bitcoin.com can access them. No custodians, no lock-ins, no third-party risk. Move your crypto to any wallet at any time \u2013 no questions asked!\n\nNON-CUSTODIAL DEFI WALLET\nConnect to DApps on Ethereum, Avalanche, Polygon, and B",
+    "icon": "/icons/com.bitcoin.mwallet.png"
+  },
+  "com.mexcpro.client": {
+    "title": "MEXC: Buy Bitcoin BTC & Crypto",
+    "package": "com.mexcpro.client",
+    "description": "MEXC is one of the world's leading digital asset exchanges. With the lowest fees in the industry (zero fees), the most diverse range of trading pairs (3,000+), and a secure and reliable trading engine, MEXC delivers a top-tier trading experience, earning the trust of over 40 million users worldwide. MEXC makes trading more efficient and simple!\n\nThrough MEXC, you can get:\n- Most Pairs: Over 3,000 listed trading pairs, allowing you to fully enjoy wealth opportunities.\n- Lowest Fees: 0 maker fees for spot and futures trading, with 1bps\u20132bps taker fees.\n- Best Depth: Industry-leading liquidity for smaller spreads, more stable trading, and faster execution.\n- Higher Returns: $8,000 rewards for new users, and up to 60% yield for holding MX.\n- Security Assurance: Every two months, the platform p",
+    "icon": "/icons/com.mexcpro.client.png"
+  },
+  "com.lemonn.app": {
+    "title": "Lemonn Stocks & Option Trading",
+    "package": "com.lemonn.app",
+    "description": "Lemonn is an Indian Stock Market App which helps you trade and invest. Open a demat account in minutes and start investing in the share market with ease. Trade stocks intraday or futures and options with fast execution, invest in shares, mutual funds, SIP, ETFs, IPOs. \ud83c\udf4b\n\nTrusted by 1.5 Million+ Indians who trade and invest securely with our trading app.\n\nWhy choose Lemonn?\n\nOpen a Demat Account in minutes - 100% digital KYC and instant account opening with Zero AMC to kickstart your stock market journey quickly.\n\nStock Trading App - Trade stocks, derivatives like futures and options (F&O) with real-time option chain, smart analytics and advanced charting tools.\n\nInvestments - Invest in stocks, mutual funds, IPOs, ETFs and create SIPs all in one place.\n\nGet expert Stock Recommendations - Ga",
+    "icon": "/icons/com.lemonn.app.png"
+  },
+  "com.defi.wallet": {
+    "title": "Crypto.com: Onchain Wallet",
+    "package": "com.defi.wallet",
+    "description": "Take Control of Your Crypto with Our Multi-Chain Wallet\nUnlock the full potential of your crypto assets with our advanced non-custodial wallet, purposefully designed for seamless access to DeFi, dApps, trading, staking, and more\u2014all in one secure and intuitive platform.\n\nAccess Everything On-Chain\nEmbark on your Web3 journey with ease. Our crypto wallet offers an intuitive interface that grants you personalized insights, real-time market trends, and the ability to discover new projects. Stay ahead of the crypto curve with timely updates on the latest airdrops and significant developments within the crypto ecosystem.\n\nTrade on the Go\nExperience the thrill of crypto trading on the go. Predict the prices of your favorite crypto tokens with cutting-edge tools, dive into the exciting world of m",
+    "icon": "/icons/com.defi.wallet.png"
+  },
+  "com.bd.nproject": {
+    "title": "Lemon8 - Lifestyle Community",
+    "package": "com.bd.nproject",
+    "description": "Lemon8 is a lifestyle community focused app powered by TikTok, where you can discover and share authentic content on a variety of topics such as beauty, fashion, travel, food, and more. You can edit and share photos with great ease and engage in discussion with like-minded people. Lemon8 offers a space where you can connect, inspire, and support one another.\n\n[Find Your Community]\n- Lemon8's customized content is specifically made for you. Our \"For You\" section recommends a personalized feed to you based on your interests. \n- Lemon8 is also a great place for you to express and engage in a free space with other like-minded creatives within the community.\n\n[Create with Ease]\n- Fed up of the faff of creating on one app, editing on another, posting on yet one more? With Lemon8, our in-app suit",
+    "icon": "/icons/com.bd.nproject.png"
+  },
+  "Com.mojang.minecraft": {
+    "title": "Com.mojang.minecraft",
+    "package": "Com.mojang.minecraft"
+  },
+  "com.expediapartnercentral": {
+    "title": "Expedia Group Partner Central",
+    "package": "com.expediapartnercentral",
+    "description": "Manage your business with Expedia Group anytime, anywhere.\nWith the Partner Central app, you have the tools and real-time data you need to:\n\n* Stay up to date\nEasily view your reservations, and receive instant booking and cancellation notifications.\n\n* Manage your inventory\nQuickly make updates to your rates and availability, and close out eligible inventory.\n\n* Make your listing stand out\nInspire travelers to book with images you take, upload, and tag right from your smartphone, including local points of interest.\n\n* Engage with guests\nStart a conversation before guests arrive, respond to feedback when they are onsite, and manage guest reviews when they leave.\n\n* Improve your performance\nIdentify opportunities, make better informed decisions and optimize your revenue.\n\n* Sign in securely\n",
+    "icon": "/icons/com.expediapartnercentral.webp"
+  },
+  "com.expedia.bookings": {
+    "title": "Expedia: Hotels, Flights, Cars",
+    "package": "com.expedia.bookings",
+    "description": "TRAVEL PLANNING MADE EASY IN ONE APP\nPlan, collaborate, book and manage your whole trip, from flights, vacation packages, hotels, car rentals, activities, and more. Find inspiration for your next destination, expert tips and personalized recommendations. Book your flight, hotel and more together to save.*\n\nREWARDS ON ANY WAY YOU TRAVEL\nOne Key\u2122 members can use and earn rewards** on eligible bookings, including select hotels, vacation rentals, car rentals, activities, and flights. Plus, earn airline miles AND One Key rewards on flights. Move up the tiers quickly to enjoy free room upgrades at select VIP Access properties and more. Signing up for One Key is free and easy! Just download the Expedia app and log in.\n\nMEMBERS SAVE INSTANTLY\nOne Key members get instant travel discounts on select ",
+    "icon": "/icons/com.expedia.bookings.webp"
+  },
+  "com.hcom.android": {
+    "title": "Hotels.com: Travel Booking",
+    "package": "com.hcom.android",
+    "description": "Find and book your perfect somewhere with the Hotels.com app. \n\nGET REWARDED THROUGH OUR APP \n\n-Access Member Prices* of 10% or more on over 100,000 hotels worldwide. \n- Join One Key\u2122, our travel program that unlocks a world of instant benefits and perks. \n- Earn OneKeyCash\u2122** and use this whenever you want and instantly save on your next trip on Hotels.com, Expedia and Vrbo when you book eligible hotel stays, flights, vacation rentals, car rentals, and more. \n- One Key Silver, Gold and Platinum members can enjoy extra perks at select VIP Access properties. \n\n \nFIND THE ONE THAT\u2019S JUST RIGHT FOR YOU\n\n- Choose from over 500,000 properties worldwide.  \n- Whether you\u2019re planning a short hotel stay, last minute weekend getaway, long vacation, business trip, or anything in between, we have a pr",
+    "icon": "/icons/com.hcom.android.png"
+  },
+  "com.emirates.ek.android": {
+    "title": "Emirates",
+    "package": "com.emirates.ek.android",
+    "description": "Explore the world your way with the personalised Emirates App for Android.\n\n1. SEARCH AND BOOK YOUR NEXT GETAWAY\nSearch for flights to over 150 destinations around the world, and complete your entire booking through the app. \n\n2. MANAGE YOUR TRIP ON THE GO\nChoose your meal and seat preference, and add services such as Chauffeur-drive. It\u2019s easy to update your details, and you can view your full itinerary at any time - even when you\u2019re offline.\nYou can also track your bags from check in through to the baggage belt at your final destination, giving you peace of mind that your bags are with you every step of the way.\n\n3. DOWNLOAD YOUR BOARDING PASS\nCheck in online and download your boarding pass. You can print it, or send it to your phone via SMS or email to use it as a digital boarding pass.",
+    "icon": "/icons/com.emirates.ek.android.png"
+  },
+  "com.austrian.connector.android": {
+    "title": "Austrian Airlines",
+    "package": "com.austrian.connector.android",
+    "description": "Book flights, reserve seats and keep track of your boarding passes - the Austrian app accompanies you throughout your journey with the Lufthansa Group network airlines.\nYou receive real-time information and all relevant updates about your flight directly on your smartphone in the form of push notifications. The Austrian App ensures you are always up to date.\nExperience a smooth journey with the Austrian app. From booking your flight to landing and beyond, you can stay informed at all times. You can also conveniently manage your data and access personalized services via your personal profile.\nIn short: The Austrian App keeps you well informed throughout your journey.\nHere\u2019s how the Austrian App makes your journey easier:\n\n\ud83d\udeeb Before departure\n\u2022\tBook your flight, reserve your seat and add your",
+    "icon": "/icons/com.austrian.connector.android.png"
+  },
+  "com.yoc.swiss.swiss": {
+    "title": "SWISS",
+    "package": "com.yoc.swiss.swiss",
+    "description": "Book flights, reserve seats and access your digital boarding passes. With the SWISS app, your mobile travel companion for journeys with the Lufthansa Group network airlines, you can do all this and more.\nPush notifications will inform you of your flight\u2019s status in real time, so you are kept up to date throughout your journey.\nWith the SWISS app you are always well informed, from booking your flight to the arrival of your baggage at your destination so you can rest assured that your journey will run smoothly. Your personal data and personalized services can all be conveniently managed on your smartphone.\nIn short, the SWISS app ensures you are well informed about all aspects of your flight.\nThe main features of the SWISS app:\n\n\ud83d\udeeb Before your flight\n\u2022\tBook your flight, reserve your seat and ",
+    "icon": "/icons/com.yoc.swiss.swiss.png"
+  },
+  "com.dynamicisland.notchscreenview": {
+    "title": "Dynamic Notch Notification Bar",
+    "package": "com.dynamicisland.notchscreenview",
+    "description": "Easily access recent alerts, phone status updates, and new notifications through a stylish dynamic popup \u2014 just like a notification light or LED, but smarter and more interactive.\n\nBring the Dynamic Notification Bar experience to your Android device with our app! Enjoy powerful, customizable, and interactive notifications anytime.Inspired by cutting-edge notification systems, it gives you a sleek, modern way to stay connected and interact with your notifications.\n\nDynamic Notch Bar For Android is an application that you can use to import the Phone's own design features with a tool as popular as dynamic bar. \n\nReplace your standard Android notification popups with a beautifully animated Dynamic Notchbar, designed for fluidity and convenience.Simply tap the small popup to expand it with dyna",
+    "icon": "/icons/com.dynamicisland.notchscreenview.png"
+  },
+  "hfr.neamar.kiss": {
+    "title": "hfr.neamar.kiss",
+    "package": "hfr.neamar.kiss"
+  },
+  "fr.neamar.kiss": {
+    "title": "KISS Launcher",
+    "package": "fr.neamar.kiss",
+    "description": "Start programs from your new home screen by typing in a few letters.\n\nThe app adapts to how you use it, making finding what you want even faster.\nYour data never leaves your device, and you can expect to save battery life\nand speed up your device compared to complex and bloated launchers.\nKISS is just 250 KB and never connects to the Internet.\n\n-------------------------\n93% of users that try KISS for a week are still active users after 3 years.\n-------------------------\n\nGPLv3+ copylefted libre software means everyone can use, see, change and share at will, with all.\nGitHub.\n\nHelp, customizations and screenshots.\nWebsite.\n\nThis app makes use of Android Accessibility API to allow \"double tap to lock\" feature. No data is accessed or stored in the process.\n\n* Usable privacy\n* Speedy simplicit",
+    "icon": "/icons/fr.neamar.kiss.png"
+  },
+  "bitpit.launcher": {
+    "title": "Niagara Launcher \u2027 Home Screen",
+    "package": "bitpit.launcher",
+    "description": "Niagara Launcher \u2013 A Clean & Elegant Home Screen\n\nNiagara Launcher is a minimalist Android launcher designed to upgrade your phone by offering a clean, elegant, and customizable home screen. Focusing on productivity and easy customization, Niagara Launcher reduces clutter and allows you to effortlessly customize your home screen with themes, widgets, wallpapers, and icons, helping you make the most of your smartphone.\n\n\ud83c\udfc5 Awards\n\n\ud83c\udfc5 Among the Best Android Launchers in 2025 \u2013 Tom\u2019s Guide\n\n\ud83c\udfc5 Among the Best Minimalist Launchers in 2025 \u2013 Geeky Gadgets\n\n\ud83c\udfc5 Among the Best Android Launchers to customize your phone in 2025 \u2013 Android Police\n\n\u258c Customization \u2013 Make your phone truly yours\n\n\ud83c\udfa8 Themes \u00b7 Apply themes from our theme collection with just one tap.\n\n\ud83d\udd8c\ufe0f Custom App Icons \u00b7 Discover a wide range ",
+    "icon": "/icons/bitpit.launcher.png"
+  },
+  "com.n7mobile.nplayer": {
+    "title": "n7player Music Player",
+    "package": "com.n7mobile.nplayer",
+    "description": "n7player Music Player is an intuitive audio player giving you an innovative way to browse your music. It provides advanced features in a user-friendly interface.\n\nQuick access to currently playing songs allows for total control in a handy way. Because the ease of use, this app is perfect for beginners but its countless features will satisfy even the most demanding and advanced users.\n\nAll music at your fingertips\nDon't search for your music, with n7player you have access to your whole library in a friendly and intuitive way controlled by simple gestures. Handles all most popular formats including FLAC and OGG.\nUnique n7player's surface is not the only way of browsing through your music library. Play by directories or sort in a more old-school way - albums/artists/tracks. \n\nHigh quality aud",
+    "icon": "/icons/com.n7mobile.nplayer.png"
+  },
+  "com.ction.playergames": {
+    "title": "2 3 4 Player Mini Games",
+    "package": "com.ction.playergames",
+    "description": "Duel your friends in a variety of 4 player minigames using simple one touch controls! Play simultaneously on the same device for multiplayer action on the road, wherever you are.\nYou can play with two players but if you have more friends or family around you can battle it out with three or four players.\nYou can also play the 4 Player Cup to determine who is the best!\n=====================\n30 MINIGAMES TO PLAY\n=====================\nSnake Arena\nGrow your snake by eating stars, but be careful, make sure your head doesn't touch an opponent's body.\nTry to corner your opponent and be the last one standing in the arena!\n\nSkateboard Racing\nTap as fast as you can to reach the finishline.\n\nTank Battle\nDuel each other on the battlefield. Who\u2019s the best shooter? \n\nGrab the Fish\nTest your timing skills",
+    "icon": "/icons/com.ction.playergames.png"
+  },
+  "com.PlayMax.playergames": {
+    "title": "Stickman Party 234 MiniGames",
+    "package": "com.PlayMax.playergames",
+    "description": "Stickman Party is a collection of singleplayer / local multiplayer games, including games for one player, 2 player games, 3, or even as many as 4 players on the same device (smartphone of tablet). In stickman games, the rules are very simple. You can play without internet / Wi-Fi, because this game is for offline, local multiplayer, on one.\n\nThese fun Stickman Party games for one, two players or more are perfect on the road, for parties, first dates, as well as for husband and wife, children and parents, brother and sister, for a group of friends.\n\nAt Stickman Party, playing on the same device with friends is a lot of fun. The more people playing together, the more fun, but if you have no one around to play with, you can also play alone for one player, to train your skills for your later v",
+    "icon": "/icons/com.PlayMax.playergames.jpg"
+  },
+  "com.bigbluebubble.singingmonsters.full": {
+    "title": "My Singing Monsters",
+    "package": "com.bigbluebubble.singingmonsters.full",
+    "description": "Dive into the Musical World of My Singing Monsters\ud83c\udfb5Breed them, feed them, listen to them sing!\n\nBreed and collect a musical menagerie of Monsters, each acting as a living, breathing instrument! Discover a vast world of fantastical locations, filled to the brim with endless weird and wacky Monster combinations, and songs to be sung. \n\nFrom the raw natural beauty of Plant Island, and its vibrant song of life, to the serene majesty of Magical Nexus, breed and collect monsters across dozens of unique and incredible worlds. Create your very own musical paradise, customized just the way you like it and dress to impress with an array of Monster costumes. Join the tens of millions of players around the globe with toe-tapping tunes and show-stopping songs. There\u2019s never a dull moment in the Monster",
+    "icon": "/icons/com.bigbluebubble.singingmonsters.full.jpg"
+  },
+  "com.watchfacestudio.wfp246": {
+    "title": "WFP 246 Extreme watch face",
+    "package": "com.watchfacestudio.wfp246",
+    "description": "WFP 246 Extreme watch face is not only stylish, but also very functional. It provides detailed weather, health, and activity data, and offers a wide range of customization options for maximum convenience and personalization.\n\nWatch face installation instructions:\nhttps://samsung-watchface.com/instructions\n\nIf you want to use phone charge widgets, information about calories, floors, etc., follow the link for instructions:\nhttps://samsung-watchface.com/settings\n\nPromotion - Buy 1 - Get 1 free:\nhttps://samsung-watchface.com/buy1-get1\n\nFEATURES:\n- 8 complications;\n- 15 background colors;\n- 7 background textures;\n- 10 bezel colors;\n- 2 hand types:\n- Sweep second hand;\n- 2 bezel digit styles;\n- Weather in degrees Fahrenheit/Celsius;\n- A high resolution;\n- High optimization;\n- Low battery consump",
+    "icon": "/icons/com.watchfacestudio.wfp246.png"
+  },
+  "com.apptegy.northeast": {
+    "title": "Northeast USD 246, KS",
+    "package": "com.apptegy.northeast",
+    "description": "Introducing the brand new app for Northeast USD 246, KS.\n\nNEVER MISS AN EVENT\nThe event section shows a list of events throughout the district.\u00a0 Users can add an event to their calendar to share the event with friends and family with one tap.\u00a0\u00a0\n\nCUSTOMIZE NOTIFICATIONS\nSelect your student\u2019s organization within the app and make sure you never miss a message.\n\nCAFETERIA MENUS\u00a0\nWithin the dining section, you\u2019ll find an easy to navigate, weekly menu, sorted by day and meal type.\n\nDISTRICT UPDATES\nIn the Live Feed is where you\u2019ll find updates from the administration about what\u2019s going on in the district right now. Whether that\u2019s celebrating a student\u2019s success, or reminding you about an upcoming deadline.\n\nCONTACT STAFF & DEPARTMENTS\nFind relevant staff and department contacts under an easy-to-",
+    "icon": "/icons/com.apptegy.northeast.png"
+  },
+  "com.software3d.MoStellaGold": {
+    "title": "MoStella Gold",
+    "package": "com.software3d.MoStellaGold",
+    "description": "Take polyhedra with you everywhere you go!  Rotate them in 3D, explode their faces apart, see their duals and morph polyhedra into their duals in a couple of different ways.  Show information such as face, edge and vertex counts, and where available a link to online photographs of paper models made by Robert Webb.  A must for fans of polyhedra or sacred geometry.\n\nIncludes the following polyhedron categories:\n\n- Platonic Solids: tetrahedron, cube, octahedron, dodecahedron, icosahedron.\n- Kepler-Poinsot: the 4 non-convex regular polyhedra.\n- Archimedean Solids: the 13 convex but not regular uniform polyhedra.\n- Uniform Polyhedra: the remaining 54 non-prismatic non-convex uniform polyhedra.\n- Prisms & Antiprisms: a collection of uniform prisms and antiprisms.\n- Johnson Solids: 92 non-uniform",
+    "icon": "/icons/com.software3d.MoStellaGold.png"
+  },
+  "com.dajiu.stay": {
+    "title": "Stay Browser - Light Browser",
+    "package": "com.dajiu.stay",
+    "description": "Stay Browser is a lightweight web browser designed for focused and powerful browsing.\n\nIt removes unnecessary content and distractions, while adding advanced tools like ad blocking, user scripts, downloads, and cross-device sync.\nPerfect for users who want more control, customization, and efficiency in their browsing experience.\n\nPowerful features, without bloat\n\nStay Browser integrates seamlessly with Stay Extension, turning the browser into a powerful and flexible browsing platform.\nKey capabilities include:\n\n- Ad blocking for a cleaner browsing experience\n- User script management (Tampermonkey & Violentmonkey compatible)\n- Dark mode for web pages\n- Browser extension\n- Built-in download tools\n- Advanced page control and customization\n\nWith a Stay account, you can connect your browsers ac",
+    "icon": "/icons/com.dajiu.stay.png"
+  },
+  "com.takimi.android": {
+    "title": "Taimi: LGBTQ+ Dating & Meet Up",
+    "package": "com.takimi.android",
+    "description": "What if you have been searching for love in the wrong places? Then it\u2019s time to find Taimi, one of the biggest LGBTQ+ dating apps for people who are 18 and older\ud83c\uddfa\ud83c\uddf8\n\nAll-Inclusive Fluid Online Dating Platform has everything for all colors and shades of the rainbow. Looking for the right network, awesome events, love story, LGBT+ dating? A transgender person looking for a bisexual or another trans person? Set up your gaydar! Come, download and get joy here!\n\nGuys, women, girls, men. No, there are more genders!\nBy questioning our sexuality we become who we truly are. You may never be done figuring out your mutuals and that\u2019s okay.\nLesbians, poly people\u2026 Welcome to our app! Meet people, become friends or something more\u2026 \n\nOthers are looking for you on Taimi, the best of all LGBT+ free dating a",
+    "icon": "/icons/com.takimi.android.png"
+  },
+  "com.tarsi.app": {
+    "title": "Tarsi",
+    "package": "com.tarsi.app",
+    "description": "Tarsi \u2014 Your Personal Finance Companion\n\nTarsi is a simple yet powerful finance app that helps you track everything in one place, from daily expenses to long-term goals. Whether you\u2019re just starting or already managing multiple accounts, Tarsi keeps things clear, organized, and easy to use.\n\nSEE YOUR MONEY CLEARLY\n\nTrack your expenses and income in seconds. Monitor balances across cash, bank accounts, credit cards, and investments, all in one place. See your net worth in a single screen and understand exactly where your money goes with clean, simple breakdowns.\n\nYou can also create investment accounts for US stocks and crypto, with access to the latest market data so your portfolio stays up to date without manual tracking.\n\nTarsi supports light and dark mode, so you can use it comfortably ",
+    "icon": "/icons/com.tarsi.app.png"
+  },
+  "com.neowizgames.game.browndust2": {
+    "title": "BrownDust2 - Full Burst RPG",
+    "package": "com.neowizgames.game.browndust2",
+    "description": "\u25a3 Game Introduction \u25a3\n\n\u25a0 Senran Kagura Collab Rerun! \u25a0\nBrown Dust 2 x Senran Kagura Collab Rerun! \nMeet our new character Ikaruga now!\nPrevious Senran Kagura characters are also back! Complete the event missions to get Yomi for free!\n\n\u25a0 A New Adventure RPG with Console-Level Graphics \u25a0\nExperience High-End 2D graphics with overwhelming detail! \nEnjoy the diverse charms of Live 2D characters drawn by top-tier illustrators,\nalong with beautifully designed fields that add excitement to your adventures.\n\n\u25a0 Immersive Adventures in Both Landscape and Vertical Mode \u25a0\nA user-friendly interface optimized for both landscape and vertical screens!\nExperience a whole new level of immersion as you explore the expanded world.\n\n\u25a0 Console-Style Game Pack that Transcends Time and Space with a Captivating Sto",
+    "icon": "/icons/com.neowizgames.game.browndust2.webp"
+  },
+  "com.launcher.smart.android": {
+    "title": "CMM Launcher",
+    "package": "com.launcher.smart.android",
+    "description": "\ud83c\udfc6CMM Launcher, choice of 30,000,000+ People.\n\nCMM Launcher - Launcher App - Most Lightest, Fast and Home Launcher for everyone.\n\nCMM Launcher is a smart launcher app which is simple and clean to personalized theme Launcher With featuring and friendly interface, CMM Launcher offering the ultimate theme make over of your phone looks by delivering free themes for android and wallpapers with HD resolution every day! All this makes it different from the other. CMM Launcher is loved as a best launcher by so many of our users.   \n\nFeatures :\n\n\u2022 Fast & simple: Find, download, & uninstall apps from the search bar\n\u2022 Friendly interaction: phone launcher that improves your interface in every single detail\n\u2022 Safe: Prime Launch App protects your privacy from third parties.\n\u2022 Small & Light : The one of t",
+    "icon": "/icons/com.launcher.smart.android.png"
   }
 }
