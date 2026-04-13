@@ -1,7 +1,9 @@
 {
   "packages": [
     "com.wealthfront",
-    "com.americanexpress.android.acctsvcs.us"
+    "com.americanexpress.android.acctsvcs.us",
+    "com.doordash.driverapp",
+    "com.dd.doordash"
   ],
   "message": "This app has been removed due to a takedown request from the rights holder."
 }

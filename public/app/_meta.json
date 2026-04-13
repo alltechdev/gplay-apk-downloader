@@ -9725,12 +9725,6 @@
     "description": "Play your FAVORITE Vegas SLOTS and WIN BIG at DoubleDown Casino!  Download NOW!\nCasino \ud83c\udfb0SLOT\ud83c\udfb0  action and JACKPOT  thrills are FREE \u2014and right at your fingertips!\u2014in one of the world\u2019s biggest FREE casino slots app. Win big on over 250  authentic Vegas casino slot machines, from 3-reel classic 777 slot-machines to the latest Las Vegas hit slot games, as well as the same name-brand \u2665\ufe0f\u2660\ufe0f Video Poker \u2663\ufe0f\u2666\ufe0f, Blackjack,  and Roulette  you know and love directly from your favorite Vegas casino. Download today for \ud83e\udd29MILLIONS of FREE CHIPS\ud83e\udd29 to start playing your favorite Vegas slots!\n\n\u25ba PREMIUM casino slots for FREE! \n\u25ba \ud83d\udc8e550+ authentic slot machines from Vegas\ud83d\udc8e\n\u25ba MILLIONS  of FREE chips for to hit the JACKPOT! \n\u25ba 777  Get lucky in NEW  and EXCITING online casino games! 777 \n\u25ba MORE than slots, play R",
     "icon": "/icons/com.ddi.png"
   },
-  "com.dd.doordash": {
-    "title": "DoorDash: Food, Grocery, More",
-    "package": "com.dd.doordash",
-    "description": "Delivery anywhere you are. DoorDash offers the greatest online selection of your favorite restaurants and stores, facilitating delivery of freshly prepared meals, groceries, OTC medicines, flowers & more. Shop same-day delivery and takeout with DoorDash. \n\nWith more than 310,000 menus and 55,000+ grocery, convenience & retail stores across 4,000+ cities in the U.S., Canada, Australia, and New Zealand, you\u2019ll find the best of your neighborhood as you shop and order online. Plus, enjoy $0 delivery fees for your first order. Restrictions apply: https://drd.sh/tF5uns/\n\nIT\u2019S ALL HERE\n\u00b7Restaurants: Food delivery from local & national restaurants\n\u00b7Grocery: Fulfill your weekly grocery list, from produce to diapers. Shop diets like gluten-free & vegan.\n\u00b7Drinks, Snacks & More: Sodas, candy & ibuprof",
-    "icon": "/icons/com.dd.doordash.webp"
-  },
   "me.lyft.android": {
     "title": "Lyft",
     "package": "me.lyft.android",
@@ -9742,12 +9736,6 @@
     "package": "com.tacobell.ordering",
     "description": "Download the official Taco Bell\u00ae app and your taste buds will officially thank you. Earn points on every qualifying order and reward yourself with free food. Gain access to exclusives only available on the app. Order tacos for delivery or pickup.\n \nFeatures Include:\n1. Order and pay ahead for delivery or pickup\n2. Customize and save your favorite menu items to make ordering easy\n3. Track your order seamlessly on the app to know when it\u2019s ready for pickup or being delivered\n4. Earn points on every qualifying order so your tacos can earn you more tacos\n5. Redeem exclusive rewards and special offers only available on the app\n \nTerms and conditions apply.",
     "icon": "/icons/com.tacobell.ordering.png"
-  },
-  "com.doordash.driverapp": {
-    "title": "DoorDash - Dasher",
-    "package": "com.doordash.driverapp",
-    "description": "Enjoy the freedom to be your own boss and earn money on your schedule. Plus, get 100% of your tips, always.\n\n*   CASH AFTER EVERY DASH   *\nGet paid right after every dash, automatically, with no deposit fees \u2014 ever.\n\n*    EARN WITH NUMBER ONE   *\nMake money delivering with the #1 Food & Drink Delivery app, available in 7,000+ cities in the US.\n\n *   START RIGHT NOW   *\nSign up to deliver in minutes. You only need your smartphone and transportation (bike, car, scooter, or motorcycle) to start.\n\n*   BE SUPPORTED   *\nYour app will show you where you\u2019re going and when to get there. Plus 24/7 help is available if you need it.\n\n*   SET YOUR OWN SCHEDULE   *\nChoose your own hours and enjoy flexibility over hourly, seasonal, or full-time work. Start and stop whenever you want.\n\n*   FIND WORK NEAR ",
-    "icon": "/icons/com.doordash.driverapp.png"
   },
   "com.dunkinbrands.otgo": {
     "title": "Dunkin\u2019",
@@ -17674,5 +17662,173 @@
     "package": "com.launcher.smart.android",
     "description": "\ud83c\udfc6CMM Launcher, choice of 30,000,000+ People.\n\nCMM Launcher - Launcher App - Most Lightest, Fast and Home Launcher for everyone.\n\nCMM Launcher is a smart launcher app which is simple and clean to personalized theme Launcher With featuring and friendly interface, CMM Launcher offering the ultimate theme make over of your phone looks by delivering free themes for android and wallpapers with HD resolution every day! All this makes it different from the other. CMM Launcher is loved as a best launcher by so many of our users.   \n\nFeatures :\n\n\u2022 Fast & simple: Find, download, & uninstall apps from the search bar\n\u2022 Friendly interaction: phone launcher that improves your interface in every single detail\n\u2022 Safe: Prime Launch App protects your privacy from third parties.\n\u2022 Small & Light : The one of t",
     "icon": "/icons/com.launcher.smart.android.png"
+  },
+  "com.audible.application": {
+    "title": "Audible: Audiobooks & Podcasts",
+    "package": "com.audible.application",
+    "description": "Escape into stories you love with Audible. Discover a library of audiobooks, podcasts and Originals\u2014where great stories meet immersive sound. Use our book player for hands-free listening. Download audiobooks & podcasts to listen offline, so you are never without a great story.\n\nFind the perfect titles, bestsellers, exclusive Originals, and podcasts. Escape from the everyday with the award-winning fantasy series available on Audible. Discover genres like: health and wellness, mystery, fantasy, true crime and more. Personalize your experience with features such as adjustable narration speed, sleep timer, and bookmarks & notes.\n\nSlow your heart rate and relax your body as you unwind with podcasts and bestsellers. Stream your favorite audiobook or podcast series narrated by a star-studded voic",
+    "icon": "/icons/com.audible.application.png"
+  },
+  "deezer.android.app": {
+    "title": "Deezer: Music & Podcast Player",
+    "package": "deezer.android.app",
+    "description": "Deezer is more than just a music platform.\nIt\u2019s a fully personalized listening experience that adapts to you. From mood-driven mixes to curated playlists, discover music that sounds like you.\n\nDeezer is where you can embrace your tastes, turn up the volume, and Live the Music.\n\nWith a Deezer Premium plan, you'll get everything you need in one app:\n\nMusic you love, made for you\n\u2022 A massive catalog with all the tracks you could ever want\n\u2022 Flow, your infinite, personalized mix of favorites and new discoveries\n\u2022 Curated playlists for every mood, genre, or season\n\u2022 Also explore Podcasts, Audiobooks*, and Radio*\n\nInteractive and fun features\n\u2022 Shaker lets you mix playlists with friends and compare your tastes\n\u2022 Music Quiz tests your music knowledge \u2014 solo or with friends\n\u2022 SongCatcher helps you",
+    "icon": "/icons/deezer.android.app.png"
+  },
+  "com.doghowlgames.EasyDeliveryCo": {
+    "title": "Easy Delivery Co.",
+    "package": "com.doghowlgames.EasyDeliveryCo",
+    "description": "Welcome to Easy Delivery Co. - a relaxing driving adventure with\u2026 absolutely no secrets whatsoever. \nSteam: Overwhelmingly Positive, 96%.\n\nYou\u2019ve just been hired as the newest delivery driver in a once-lively mountain town now buried under strange weather and even stranger residents. Cruise through scenic roads, meet the locals, and uncover the story behind the town (which is definitely 100% normal).\nEarn money, buy wildly overpriced fuel, upgrade your trusty kei truck, and take on delivery jobs at your own pace. Whether you\u2019re here to chill or to dig into the town\u2019s hidden mysteries, every road leads somewhere unexpected.\n\nFeatures:\n- Deliver packages, earn cash, and chat with the \u201ccompletely ordinary\u201d locals\n- Explore atmospheric mountain roads \u2014 relax or speed through (road safety quest",
+    "icon": "/icons/com.doghowlgames.EasyDeliveryCo.png"
+  },
+  "com.global.foodpanda.android": {
+    "title": "foodpanda: food & groceries",
+    "package": "com.global.foodpanda.android",
+    "description": "Discover the local choice for meals, groceries, and food delivery with foodpanda!\n\nLife can get overwhelming, but we\u2019re here to help! Whether you need daily meals, groceries, or shopping essentials, foodpanda has got you covered with convenient food delivery.\n\nOrder Your Favourite Food with Just 3 Simple Taps!\n\nWith foodpanda, you can easily choose the food you love, and we\u2019ll deliver it right to your door. Serving millions across over 400 cities in 11 Asian markets \u2014 Singapore, Hong Kong, Thailand, Malaysia, Pakistan, Taiwan, the Philippines, Bangladesh, Laos, Cambodia, and Myanmar \u2014 foodpanda is your go-to for everyday food delivery.\n\nEndless Food and Grocery Delivery Choices at Your Fingertips!\n\nHungry for wood-fired pizza, a classic burger or fried chicken? We know the best restaurants",
+    "icon": "/icons/com.global.foodpanda.android.png"
+  },
+  "com.Nanali.ForestIsland": {
+    "title": "Forest Island: Relaxing Game",
+    "package": "com.Nanali.ForestIsland",
+    "description": "\ud83c\udf81 Welcome Gift for New Players\nAdopt the cute [ The Three Little Rabbits ] and [ Albino Raccoon ] for free!\n\n\ud83c\udfc6 Selected as Google Play\u2019s \u201cFeatured Game of the Week\u201d (Korea, 2023)\n\ud83c\udfc6 Minister of Culture, Sports and Tourism Award (Korea, 2022)\n\ud83c\udfc6 \u201cExcellent Game of the Month\u201d \u2014 Korea Creative Content Agency (2022)\n\n\ud83e\udd8a Over 10 million Foresters have chosen Forest Island, a relaxing idle sanctuary for animal & nature lovers. \u2605\u2605\u2605\u2605\u2605\n\nBeautiful nature and adorable animals are always by your side\nwhenever your heart feels tired from anxiety and stress.\n\nRelax with cute baby animals\nand enjoy growing diverse natural habitats at your own pace.\n\nMeet animals and birds from the sky, sea, and forest \u2014\nwe hope you find joy and peace in this relaxing idle game made just for you.\n\n\n[ Game Features ]\n\n\ud83d\udc30 100+ ",
+    "icon": "/icons/com.Nanali.ForestIsland.png"
+  },
+  "com.kongregate.mobile.thetrail.google": {
+    "title": "The Trail",
+    "package": "com.kongregate.mobile.thetrail.google",
+    "description": "Join our pioneers on a vast journey across country unknown. Set forth to reach the town of Eden Falls - explore, craft, collect, trade, discover, and eventually settle and build. \n\nThe newest game from Peter Molyneux, legendary designer and creator of the God Game genre, brings the frontier to life on your mobile device. Peter Molyneux\u2019s previous games include Theme Park, Dungeon Keeper, Fable, Populous, and Godus.\n\nFeatures of The Trail include:\n\nBEAUTIFUL\nTake in the view as you walk The Trail through different landscapes and fantastic vistas.\n \nRELAXING\nUsing only your thumb, swipe and drag to move delightfully along The Trail.  Designed for everyone to pick up and enjoy.\n \nMAKE YOUR FORTUNE\nTravel to the new world to make your fortune! Learn to craft and trade.\n \nBUILD A COMMUNITY\nJoin",
+    "icon": "/icons/com.kongregate.mobile.thetrail.google.png"
+  },
+  "de.application_systems.TheLonging": {
+    "title": "The Longing",
+    "package": "de.application_systems.TheLonging",
+    "description": "The Longing 400 day game\nIn utter loneliness deep below the surface, it's your task to wait for the awakening of your king... for 400 days.\nPlay as a lonely Shade, the last servant of a king who once ruled an underground kingdom. The king's powers have faded and he falls asleep for 400 days to regain his might. It is your duty to stay in the earthen palace until he awakens.\nAs soon as you start, the game inevitably counts down the 400 days - even when you stop playing and exit the game. \nIt is now up to you to decide what to do with your solitary existence beneath the soil. Don't stress yourself, you have plenty of time.\n\nChoose your playing style\nStart the game and simply come back after 400 days to see how it ends. You actually don't have to play the game at all. But the Shade will be ev",
+    "icon": "/icons/de.application_systems.TheLonging.png"
+  },
+  "com.tinyco.potter": {
+    "title": "Harry Potter: Hogwarts Mystery",
+    "package": "com.tinyco.potter",
+    "description": "\ud83e\udd89 Your letter has finally arrived! What kind of witch or wizard will you be? A heroic Gryffindor? A cunning Slytherin? A clever Ravenclaw? A loyal Hufflepuff? Put on the Sorting Hat, and YOU decide! \ud83c\udf93 With countless choices, you\u2019ll be able to carve out your own unique path in Harry Potter: Hogwarts Mystery. \ud83d\udcec\n\n\nThis is YOUR Hogwarts journey. Whether you\u2019re mastering powerful spells with Dumbledore, brewing potions with Snape, discovering a never-before-seen mystery at Hogwarts, forging alliances with new friends, or duelling your rivals, there\u2019s always something new to explore! As part of WBIE\u2019s Portkey Games label, this groundbreaking mobile game lets you choose your story at the centre of an all-new adventure in the Wizarding World.\n\n\nStart your very own adventure in Harry Potter: Hogwar",
+    "icon": "/icons/com.tinyco.potter.png"
+  },
+  "com.squareenix.lis": {
+    "title": "Life is Strange",
+    "package": "com.squareenix.lis",
+    "description": "\"Life Is Strange is a five part episodic game that sets out to revolutionize story-based choice and consequence games by allowing the player to rewind time and affect the past, present, and future.  \n\nFollow the story of Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price. The pair soon find themselves investigating the mysterious disappearance of fellow student Rachel Amber, uncovering a dark side to life in Arcadia Bay. Meanwhile, Max must quickly learn that changing the past can sometimes lead to a devastating future.\n\n- A beautifully written modern adventure game;\n- Rewind time to change the course of events;\n- Multiple endings depending on the choices you make;\n- Striking, hand-painted visuals;\n- Distinct, licensed indie sound",
+    "icon": "/icons/com.squareenix.lis.png"
+  },
+  "com.scsgroupec.send": {
+    "title": "SEND",
+    "package": "com.scsgroupec.send",
+    "description": "We know that in the day to day what less is the time and that we need to have the things we need and require in minutes.\nSEND collects and delivers what you can think of your city in minutes, meals from your favorite restaurant, medicines from your trusted pharmacy, liquor to encourage your parties, that ingredient to prepare food and that is only in your market favorite, or ask what you can think of.\nOnce you did not ask the question If I had someone to bring it to me?\nNow you have SEND at your disposal, you just ask for it, we'll take it to you!",
+    "icon": "/icons/com.scsgroupec.send.png"
+  },
+  "com.flutterwave.send.prod": {
+    "title": "Send App (Prev. Send)",
+    "package": "com.flutterwave.send.prod",
+    "description": "What does it matter in Lagos, Nairobi, Accra, or London? Use Send App to quickly and reliably send money to local bank accounts and even mobile money wallets whenever you want.\n\nGUARANTEED GLOBAL TRANSFERS\nPowered by Africa\u2019s largest payments provider, Send App gets your money transfers settled in minutes\u2013or days depending on the payment method. Regardless, your transfers will always hit home to serve the need they were meant for. \n\nNO BARRIERS: MULTI-COUNTRY SUPPORT\nEnglish or French? We speak both fluently and will add more. So, pick a language you are comfortable with and start making instant money transfers within countries like the UK, US, Nigeria, Kenya, Germany, Ireland, Cote D\u2019Ivoire, Ghana and Ethiopia.\n\nCHOOSE HOW YOU PAY\nMake transfers from your bank account, with card payments ",
+    "icon": "/icons/com.flutterwave.send.prod.png"
+  },
+  "com.fullsenders.sendit": {
+    "title": "sendit",
+    "package": "com.fullsenders.sendit",
+    "description": "sendit is the Q&A app. get questions from friends and answer right on your story! here's why everyone is doing sendit:\n\nHOW IT WORKS\n1) share a prompt like \"ask me anything\"\n2) friends answer right on your story\n3) get responses on sendit\n\nSENDIT GAMES\n1) open your \"sendit\" tab\n2) scroll through the most popular icebreakers\n3) share them onto your story and wait for new questions!\n\nGET QUESTIONS\n1) swipe to your \"inbox\" tab\n2) view your questions\n3) write your answer and share!\n\nASK QUESTIONS\n1) swipe to your \"ask\" tab\n2) tap on a friend you want to know about\n3) type a question and ask them anything!\n\nUNLOCK YOUR AI CLONE\n1) swipe to your \"profile tab\"\n2) easily turn on your own AI!\n3) your AI Clone gets to know you, act like you, and answer like you!\n\nSEE WHO LIKES YOU\n1) friends will vi",
+    "icon": "/icons/com.fullsenders.sendit.webp"
+  },
+  "com.send2.customer": {
+    "title": "Send2",
+    "package": "com.send2.customer",
+    "description": "Compare money transfer rates instantly\n\nLooking to send money home from the UAE?\nSend2 helps you easily compare rates, fees, and transfer speeds across leading money transfer providers \u2014 so you can get the best value for every dirham you send.\n\nKnow exactly how much your loved ones will receive, and when \u2014 all in a simple, intuitive app.\n\nPrice Comparison\nQuickly compare the cost of sending money across a wide-range of money transfer service providers in the UAE. Save money with the best available rates.\n\nProvider Insights\nAccess detailed information on money transfer service providers, including their rates, terms, and reliability.\n\nExchange Rate Updates\nStay updated with exchange rates and transfer fees from multiple providers.\n\nUser Reviews & Ratings\nRead real customer experiences to he",
+    "icon": "/icons/com.send2.customer.png"
+  },
+  "com.pandaexpress.app": {
+    "title": "Panda Express",
+    "package": "com.pandaexpress.app",
+    "description": "Good Fortune Awaits with Panda Rewards and the Panda Express\u00ae App. Order your Panda favorites on the fly for dine-in, take out, or delivery. And you can earn Panda Points when you satisfy your Panda cravings! \n\nFeatures:\n\n* Join Panda Rewards and earn Panda Points with qualifying purchases by ordering in the app or scanning your QR code in store or in our drive-thru!\n* Get surprise offers and use your Panda Points to unlock more rewards and redeem them for your Panda favorites.\n* Order for dine-in, take-out, or delivery and get your food whenever you want\u2014whether it's ASAP or scheduled for later.\n* Save and reorder your favorites with a single tap in your account!\n* Having a party? Our catering options are second to none. Just pick your sides + entrees and we\u2019ve got you covered!",
+    "icon": "/icons/com.pandaexpress.app.webp"
+  },
+  "com.sgn.pandapop.gp": {
+    "title": "Bubble Shooter: Panda Pop!",
+    "package": "com.sgn.pandapop.gp",
+    "description": "Enjoy playing free bubble shooters? \n\nGet ready to pop bubbles and beat level after level in Panda Pop - a fun bubble pop game that will challenge you at every turn.\n\nMatch 3 to pop bubbles of the same color and rescue the pandas in this addictive bubble shooter saga! The poor pandas are relying on you to rescue them \ud83e\udd7a. Can you complete the challenging levels before you run out of bubbles?\n\nBlast through each challenging puzzle to rescue cute toon pandas! Start shooting bubbles, complete every level and play Panda Pop online with your friends! You will spend hours of fun matching lines of the same color and solving our amazing, free bubble shooter puzzles!\n\nChallenge yourself to beat your score and stay sharp with this free Panda Pop bubble shooting quest. In this animal bubble shooter sag",
+    "icon": "/icons/com.sgn.pandapop.gp.jpg"
+  },
+  "com.drpanda.town.holiday": {
+    "title": "Dr. Panda Town: Vacation",
+    "package": "com.drpanda.town.holiday",
+    "description": "EXPLORE EXCITING LOCATIONS!\nCheck out your fancy cruise ship as you choose where to visit first! Hit the beach and play volleyball with friends, or grab your snorkel and scuba-dive in the deep sea and uncover a huge underwater city. Travel to new islands, and experience the great outdoors where you can go camping in the woods or set off on a winter adventure to the snow covered mountain. With tons of fun places to visit and things to do, there\u2019s something for everyone!\n\nTELL YOUR OWN STORIES!\nWith more places to go, there\u2019s even more fun to be had! If being the captain of the ship floats your boat, entertain guests with a live band or even a rooftop pool party. Go hiking in the woods to discover a secret hideaway and camp out after dark, or brave the scorching sands of the desert and unloc",
+    "icon": "/icons/com.drpanda.town.holiday.png"
+  },
+  "com.drpanda.town.street": {
+    "title": "Dr. Panda Town Tales",
+    "package": "com.drpanda.town.street",
+    "description": "Play pretend in the wonderful world of Dr. Panda TownTales! Express yourself as you break boundaries and explore the many wondrous adventures Dr. Panda TownTales has to offer! Play and learn at your own pace in an open world full of fun!\n\nCustomize characters in the character creator! Decorate your characters and show off your style. Choose from dozens of hairstyles, noses, eyes, and more - there are thousands of combinations. Play pretend with dozens of unique and diverse characters that are ready for the next adventure.\n\nEver thought of giving your apartment a pop of peachy pink for a total makeover? How about taking care of cute crying babies who need a loving hand? You can even become a doctor and help all sorts of quirky patients, or create super idols and do their makeup to make them",
+    "icon": "/icons/com.drpanda.town.street.png"
+  },
+  "com.king.apps.candysolitaire": {
+    "title": "Candy Crush Solitaire",
+    "package": "com.king.apps.candysolitaire",
+    "description": "Welcome to Candy Crush Solitaire: the new classic TriPeaks card game from the creators of Candy Crush Saga.\n\nCandy Crush Solitaire is a fun and challenging classic card game for players of all levels, with a delightful twist to the classic TriPeaks solitaire experience. Join iconic Candy Crush Saga characters in a delicious journey around the world, creating a lovely postcard collection on the way. Relax and immerse yourself in Candy Crush Solitaire's beautiful graphics, animations, and design!\n\nDiscover the unique Hold Slot feature: set cards aside and unlock new strategies to complete tricky solitaire levels. Candy Crush Solitaire blends the best of classic TriPeaks card games with playful Candy Crush Saga\u2013inspired blockers and boosters that add just the right amount of challenge to the ",
+    "icon": "/icons/com.king.apps.candysolitaire.jpg"
+  },
+  "com.king.candycrushjellysaga": {
+    "title": "Candy Crush Jelly Saga",
+    "package": "com.king.candycrushjellysaga",
+    "description": "There's a new player in town, the wiggling, jiggling Jelly Queen and she's here to challenge you to a game of Candy Crush Jelly Saga!  Whatever your favorite moves, you better hope they're Jellylicious enough to take on the mighty Jelly Queen.\n \nThe unstoppably spreadable game!  New Candy Crush Jelly Saga is full of delightful game modes, features and boss battles featuring the Jelly Queen!  Playing as Jenny, show off your Jellylicious moves and take turns switching Candies against the jiggling Jelly Queen. Every sweet move will spread more Jelly and whoever spreads the most will win the level!\n \nThere are splendid new Candies, a marvelous new booster and a dreamy treetop world to explore in the Candy Kingdom too!\n\nRoyal Championship is the new VS Mode in Candy Crush Jelly Saga. Players wi",
+    "icon": "/icons/com.king.candycrushjellysaga.png"
+  },
+  "com.jtechdigital.jcontrol": {
+    "title": "J-Tech Digital Control",
+    "package": "com.jtechdigital.jcontrol",
+    "description": "Our lightweight app provides all the tools you need to manage compatible audiovisual equipment from our wide range of products. With video walls, matrix switches, AV-over-IP, and more - we've got you covered for your home or business, and with this app you can configure and connect your new devices without a physical keyboard or mouse.\n\nFeatures\n\n \u2022 Control routing settings\n\n \u2022 Manage multiple devices\n\n \u2022 Remember device settings even after you close your app\n\n \u2022 Save/Load commonly-used routing settings\n\nCompatible Models\n\n \u2022 JTECH-4K88-EX2\n \u2022 JTECH-4KM44A\n \u2022 JTECH-4x4-HDBaseT\n \u2022 JTECH-8X8-EX50M\n \u2022 JTECH-8X8-H20\n \u2022 JTECH-ENCH4\n \u2022 JTECH-ENCH4A\n \u2022 JTECH-H264-N2N-R\n \u2022 JTECH-H264-N2N-T\n \u2022 JTECH-MX443-UHD\n \u2022 JTECH-MX445-UHD\n \u2022 JTECH-MXT40\n \u2022 JTECH-MXT40v2\n \u2022 JTECH-MXT60\n \u2022 JTECH-NS24\n \u2022 JTECH-N",
+    "icon": "/icons/com.jtechdigital.jcontrol.png"
+  },
+  "com.walker.jtech": {
+    "title": "Jtechtrade:Giftcards&Crypto",
+    "package": "com.walker.jtech",
+    "description": "Welcome to Jtechtrade App, this App enables you to transact your digital assets (BTC USDT ETH) and Giftcards with adequate security features that guarantees safety for clients at all times.\n\nIn addition we have created a fantastic chatting system within the App that will enable you to chat directly with our online agents 24 hours a day.",
+    "icon": "/icons/com.walker.jtech.png"
+  },
+  "com.trainerize.jnewtrition": {
+    "title": "J Newtrition",
+    "package": "com.trainerize.jnewtrition",
+    "description": "J.Newtrition & Fitness LLC is an elite online nutrition coaching and personal training company with clients losing an average of 15-20 lbs in 16 weeks while eating pizza, drinking alcohol, and doing workouts they enjoy. Learn virtually, improve reality.",
+    "icon": "/icons/com.trainerize.jnewtrition.png"
+  },
+  "com.jtechcompany.jtech": {
+    "title": "J Tech",
+    "package": "com.jtechcompany.jtech",
+    "description": "Master the Korean Language and Ace Your EPS-TOPIK Exam with Comprehensive Learning Resources and Realistic Test Simulations\n\nJ Tech is the ultimate mobile application specifically designed to help you prepare for the EPS-TOPIK (Employment Permit System-Test of Proficiency in Korean) examination. Our comprehensive platform offers everything you need to master the Korean language skills required to work in South Korea, with specialized content tailored to the exact format and requirements of the official EPS-TOPIK exam.\n\nKey Features:\n\nExtensive Learning Materials:\nAccess a complete library of Korean language learning resources specifically curated for EPS-TOPIK preparation. Our content covers all essential aspects including vocabulary, grammar, reading comprehension, and listening skills. S",
+    "icon": "/icons/com.jtechcompany.jtech.png"
+  },
+  "com.codebrewgames.pocketcity2": {
+    "title": "Pocket City 2",
+    "package": "com.codebrewgames.pocketcity2",
+    "description": "Build and explore your own city in this 3D sequel to the original Pocket City! Create using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!\n\nNo microtransactions or long wait times, everything is unlocked and rewarded through gameplay!\n\nFEATURES\n- Build a unique city by creating zones and new special buildings\n- Explore your city by controlling your avatar directly\n- Enjoy a dynamic environment with seasons and a day night cycle\n- Play minigames like street racing, plane flying, and much more\n- Trigger fun events like block parties, or disasters like tornadoes\n- Complete quests to earn XP and money\n- Customize your avatar with clothing and tools\n- Be",
+    "icon": "/icons/com.codebrewgames.pocketcity2.png"
+  },
+  "com.codebrewgames.pocketcitygame": {
+    "title": "Pocket City",
+    "package": "com.codebrewgames.pocketcitygame",
+    "description": "Build your own city as mayor! Create residential, commercial, and industrial zones. Build parks and recreation spots. Respond to crime and disasters. Watch your city come alive!\n\nNo microtransactions or long wait times! Everything is unlocked and rewarded through gameplay.\n\nPocket City re-imagines classic city building simulation gameplay for Android devices.\n\n- Build a unique city by creating zones and special buildings\n- Trigger fun events like block parties, or disasters like tornadoes\n- Complete quests to earn XP and money\n- Unlock advanced buildings by levelling up\n- Unlock new land with different terrain types\n- Succeed by optimizing your cash flow, traffic, happiness, and more\n- Enjoy a dynamic city with citizens, vehicles, animals and animated buildings\n- Upload your city to the cl",
+    "icon": "/icons/com.codebrewgames.pocketcitygame.png"
+  },
+  "com.shipt.shopper": {
+    "title": "Shipt: Shopper and Driver",
+    "package": "com.shipt.shopper",
+    "description": "Looking for flexible work that fits your schedule? Become a delivery driver with Shipt, and get paid to pick up and deliver packages in your area. Or sign up to be a personal shopper, and deliver groceries and home goods to customers from nearby stores. Work whenever you want, and get paid same-day!\n\nEarn money & get paid fast\n- Help people in your community while getting paid to do flexible work with Shipt. \n- Personal shoppers earn base pay (offer pay) for any grocery or package delivery based on estimated time and effort.\n- Package delivery drivers earn money for each route they complete.\n- Personal shoppers keep 100% of customer tips on top of base pay.\n- Personal shoppers may have the opportunity for additional earnings on top of base pay on select orders.\n\nWhy choose Shipt? \nShipt is",
+    "icon": "/icons/com.shipt.shopper.webp"
+  },
+  "com.branchapp.instacartcard": {
+    "title": "Instacart Shopper Rewards",
+    "package": "com.branchapp.instacartcard",
+    "description": "The Instacart Shopper Rewards Card is now available!\n\nPowered by Branch, the Shopper Rewards Card\u00b9 is a business debit Mastercard and account\u00b2 that is designed exclusively for shoppers on the Instacart Shopper platform. The card was created to help shoppers unlock greater savings and support them in reaching their goals. The Shopper Rewards Card can be used anywhere Mastercard debit cards are accepted.\n\nSome of the benefits associated with the card include:\n\nGet free auto-payouts after every batch: Receive auto-payouts of your earnings to your Instacart Shopper Rewards account so that you can get paid quickly after every batch\u2014at no cost to you.\u00b3\n\nGet up to 4% cash back on gas as a Diamond Cart shopper: When you pay for gas at the pump with the Shopper Rewards Card, you can get 1-3% cash b",
+    "icon": "/icons/com.branchapp.instacartcard.png"
+  },
+  "com.instacart.shopper": {
+    "title": "Instacart Shopper: Earn money",
+    "package": "com.instacart.shopper",
+    "description": "Earn money by grocery shopping and help those who need it most by becoming an Instacart shopper. As a shopper, you go to the grocery store like normal, except you get paid to shop for others in your local community. \n\nWhat it\u2019s like being an Instacart shopper:\n\n\u2014 Work whenever & wherever you want \u2014\nWith no set schedule or region, you can make extra cash when it fits your life\u2014whether that\u2019s close to home or miles away.\n\n\u2014 Pick the orders you want \u2014 \nUse the app to see nearby orders and choose the ones that work best for you. Then get paid just for grocery shopping!\n\n\u2014 Get paid fast \u2014 \nKeep 100% of customer tips and cash out in as little as 2 hours after making a delivery. \n\n\u2014 Make someone\u2019s day \u2014 \nFrom helping seniors to small businesses to busy families, shoppers keep their communities ru",
+    "icon": "/icons/com.instacart.shopper.webp"
   }
 }
