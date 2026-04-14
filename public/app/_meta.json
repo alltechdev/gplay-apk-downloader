@@ -18279,5 +18279,197 @@
     "package": "com.newsclapper.video",
     "description": "Welcome to Clapper, one of the fastest-growing social media platforms focused on promoting real lives, connections and communities. You can see the latest trends and people\u2019s real lives as they unfold, as well as people\u2019s opinions and talents. Our mission is to use technology to empower everyone's life, so that everyone has the opportunity to show, the channel to speak, and the possibility to be seen. No troll, no shadow ban. \n\n-Be heard \nBuild up your own following and be an opinion leader. Connect with friends and follow those whose opinions you want to hear. Our \u201cClapback\u201d feature is unique in that you can simply express your opinion and easily view people\u2019s opinions with support or opposition. \n\n- Be seen \nClapper uses \u2018equal opportunity\u2019 algorithms to show ordinary, real, and diverse ",
     "icon": "/icons/com.newsclapper.video.webp"
+  },
+  "com.starlingbank.android": {
+    "title": "Starling - Mobile Banking",
+    "package": "com.starlingbank.android",
+    "description": "Our personal, business and joint accounts make managing your money as seamless, simple and satisfying as it should be in 2025. It's why we're the Which? Recommended Provider for a sixth year in a row.\n\nApply for a bank account online in minutes - for free - from your phone, and join the millions who have already discovered the better way to bank.\n\nWhat's in it for you?\n\nNo overseas fees\n\n\u2022 We won't charge you a penny for using your card abroad, or for withdrawing cash at an ATM.\n\u2022 We'll give you the Mastercard exchange rate, and won't add anything on top.\n\u2022 Get notifications in the local currency, and in GBP.\n\nBetter budgeting\n\n\u2022 Use Spaces to set money aside in a virtual change jar. Personalise with pictures, set a target, and track your progress.\n\u2022 Get instant payment notifications and t",
+    "icon": "/icons/com.starlingbank.android.webp"
+  },
+  "com.abnamro.nl.mobile.payments": {
+    "title": "ABN AMRO",
+    "package": "com.abnamro.nl.mobile.payments",
+    "description": "Make the move towards digital banking. \n\nThe ABN AMRO app is for everyone, beginners and professionals alike. Children are able to use the app, and business clients can easily use it to do lots of their banking. Thanks to the app, you can always see all your everyday banking affairs at a glance and you can bank quickly and securely, wherever you are. \n\nGet started with ABN AMRO too. Open a personal account in the app - it\u2019s a breeze! You can even open a current account in the app using your international passport in many cases. No need to go to a branch.\n\nYou can do more with the app than you may know, like:\n\u2022 log in to Internet Banking and confirm orders securely there\n\u2022 get connected immediately with the right customer service representative\n\u2022 change your personal details and settings\n\u2022 ",
+    "icon": "/icons/com.abnamro.nl.mobile.payments.png"
+  },
+  "com.myorder.pinbox.mpos": {
+    "title": "Rabo SmartPin",
+    "package": "com.myorder.pinbox.mpos",
+    "description": "Choose Tap to Pay or card reader\n\nWith Rabo SmartPin, you can let your customers pay easily anytime and anywhere. And you choose how you want your customers to pay. Do you want a physical card reader that you let your customers pay with? Then you can order the SmartPin card reader. Or do you want your customers to pay directly via your phone? Then the Tap to Pay function is for you!\n\nIn addition, you automatically use Rabo Smart Pay for free. In the associated dashboard, you always have insight into all your payments at a glance and you can easily manage your payment options.\n\nThe benefits:\n- Choose between Tap to Pay on Android or the Rabo SmartPin card reader\n- Let customers pay anytime, anywhere\n- Choose your payment methods: PIN, credit card, Payment request and iDEAL QR\n\nUse the Rabo ",
+    "icon": "/icons/com.myorder.pinbox.mpos.png"
+  },
+  "com.square_enix.android_googleplay.FFIII_GP": {
+    "title": "FINAL FANTASY III (3D REMAKE)",
+    "package": "com.square_enix.android_googleplay.FFIII_GP",
+    "description": "When darkness falls and the land is robbed of light, four youths are chosen by the crystals to embark upon a journey to save the world.\n\nFINAL FANTASY III was the first title in the FINAL FANTASY series to become a million-seller, establishing once and for all that Square Enix's classic RPG saga was here to stay.\n\nA hallmark of innovation for the entire series, FINAL FANTASY III incorporates not only a job system that lets characters change classes at any time to the ability to summon powerful creatures such as Shiva and Bahamut.\n\nThe 3D remake of FINAL FANTASY III, with fully-rendered 3D graphics, duplicated the original's success.\n\n- The four protagonists have been completely redesigned and new scenarios have been added.\n\n- The 3D remake has really brought the cutscenes and battles to li",
+    "icon": "/icons/com.square_enix.android_googleplay.FFIII_GP.png"
+  },
+  "com.square_enix.android_googleplay.FFVII": {
+    "title": "FINAL FANTASY VII",
+    "package": "com.square_enix.android_googleplay.FFVII",
+    "description": "Note:\n- As this application is very large, it will take some time to download.\n- This application takes up around 2GB of memory. Over 4GB of free space is required to download it, so make sure that ample spare memory is available before attempting to do so. \n------------------------------------------------------\n===============\n[Read before playing]\n\nSee the help page for how to trigger the special match while using the \"MAX Stats\" option.\n\nDepending on the terrain and timing of the action, the buggy, submarines, airships, and other modes of transportation may cease to move when the player embarks or disembarks. Currently, the only fix is to restart the game from a data file saved before the bug occurred. We recommend saving frequently and/or utilizing multiple save files. This bug occurs ",
+    "icon": "/icons/com.square_enix.android_googleplay.FFVII.png"
+  },
+  "com.square_enix.android_googleplay.FFPR": {
+    "title": "FINAL FANTASY",
+    "package": "com.square_enix.android_googleplay.FFPR",
+    "description": "A remodeled 2D take on the first game in the world-renowned FINAL FANTASY series! Enjoy the timeless story told through charming retro graphics. All the magic of the original, with improved ease of play.\n\nEarth, fire, water, wind... The light that once shone within the four Crystals was lost. Darkness covered the land, until the only hope for humanity rested in legends past. Become the Warriors of Light and embark on your own journey to restore power to the Crystals and save the world.\n\nSwitch between classes to improve your characters. Traverse the wide world with your airship and other vessels. Return to the game that started it all.\n\n-------------------------------------------------------------------------------\n\n\u25a0 Beautifully revived with new graphics and sound!\n\u30fbUniversally updated 2D",
+    "icon": "/icons/com.square_enix.android_googleplay.FFPR.jpg"
+  },
+  "com.square_enix.android_googleplay.DD": {
+    "title": "DISSIDIA DUELLUM FINAL FANTASY",
+    "package": "com.square_enix.android_googleplay.DD",
+    "description": "Warriors from the FINAL FANTASY (FF) series assemble in modern-day Tokyo to save the world from destruction in DISSIDIA DUELLUM FINAL FANTASY.\n\nFight in 3-versus-3 battles where two teams fight monsters and clash in a race to defeat the powerful boss faster than the enemy team!\n\n\u25a0 LEGENDARY FF CHARACTERS\nFight as one of several legendary FF warriors like Warrior of Light, Cloud, Lightning, and more, and take on the role of either Melee, Ranged, Agile, or Support. Choose the character that matches your playstyle and work as a team to take on powerful monsters!\n\u203b More characters will be added over a period of time.\n\n\u25a0 EXHILARATING ACTION\nAcquire various abilities and unleash them in battle to gain the upper hand.\nCustomize your loadout from an array of abilities, including numerous newly dra",
+    "icon": "/icons/com.square_enix.android_googleplay.DD.png"
+  },
+  "com.square_enix.android_googleplay.ff7ecww": {
+    "title": "FINAL FANTASY VII EVER CRISIS",
+    "package": "com.square_enix.android_googleplay.ff7ecww",
+    "description": "Relive the most memorable moments from FFVII and experience the journey of a young hero Sephiroth.\nExperience both classic and new stories within the FFVII universe presented in a retro-style look combined with modern, beautifully rendered graphics, that\u2019s easily accessible on the go. Team up your favorite characters and customize each one with iconic gear and weapons to defeat powerful opponents in Solo or Co-op battle mode.\n\n\n\u25c6 EXPERIENCE NEW AND ORIGINAL STORIES FROM THE FINAL FANTASY VII UNIVERSE\n\nDiscover the never-before told story of a young hero, Sephiroth.\n\nEncounter new characters along the way and play as iconic heroes, such as Cloud and Zack, in the epic storylines of the original FINAL FANTASY VII and CRISIS CORE -FINAL FANTASY VII- in episodic installments.\n\nFINAL FANTASY VII",
+    "icon": "/icons/com.square_enix.android_googleplay.ff7ecww.png"
+  },
+  "com.taptapsend": {
+    "title": "Taptap Send: Money Transfer",
+    "package": "com.taptapsend",
+    "description": "Send Money Home with Taptap Send: The Secure International Money Transfer App\n\n\n\nLooking for a reliable way to send money home? Taptap Send is the premier international money transfer app designed specifically for the diaspora. Whether you need to send money to family in Africa, Asia, or Latin America, our platform ensures your remittance reaches its destination fast, safely, and at the best possible value.\n\n\n\nWhy Millions Choose Taptap Send for International Money Transfer\n\nWhen you use Taptap Send, you aren't just sending funds; you are supporting dreams. We provide a seamless money transfer experience that eliminates the stress of traditional banking. No more waiting in long lines or dealing with complex paperwork. With just a few taps on your phone, your money transfer is on its way.\n\n",
+    "icon": "/icons/com.taptapsend.png"
+  },
+  "com.gpshopper.moneygram": {
+    "title": "MoneyGram\u00ae Money Transfers App",
+    "package": "com.gpshopper.moneygram",
+    "description": "THE MONEYGRAM\u00ae MONEY TRANSFERS APP\n\nThe MoneyGram app provides the speed, flexibility and freedom to move money on your terms.\n\nIt\u2019s convenient to transfer money using the MoneyGram Money Transfers app! Transfer funds directly into bank accounts, mobile wallets or for cash pickup in 200+ countries and territories.\n\nSEND MONEY INTERNATIONALLY & WITHIN THE US\n\nYou know and love our international money transfers that make it fast, easy and reliable to send money to over 200 countries and territories around the globe. But did you know you can also transfer money to your friends and family within the United States? Simply select the U.S. as the receive country to estimate fees and start online money transfers to your loved ones here at home.\n\nYou can send money to India, Mexico, Jamaica, Vietna",
+    "icon": "/icons/com.gpshopper.moneygram.png"
+  },
+  "com.cashmit": {
+    "title": "CASHMIT \u2014 Pay & Mobile Banking",
+    "package": "com.cashmit",
+    "description": "Cashmit is a U.S. digital wallet that brings people and businesses together through fast, affordable, and secure instant transactions. Whether you\u2019re sending money to your family or friends, paying your local vendor, or managing business transfers, Cashmit helps every transaction feel closer and simpler.\n\nBanking services made available to you by a federally insured depository institution Wells Fargo N.A., Comerica Bank, Axos Bank, and Western Alliance Bank.\n\nBuilt for America\u2019s working families, entrepreneurs, and community leaders \u2014 Cashmit makes digital payments personal again. No waiting days for your money. Just connection, trust and financial opportunities.\n\nVerified for Safety \u2014 Every user and business on Cashmit is verified to keep your money and identity protected.\n\nPeer-to-Peer T",
+    "icon": "/icons/com.cashmit.png"
+  },
+  "org.fossify.gallery": {
+    "title": "Fossify Gallery",
+    "package": "org.fossify.gallery",
+    "description": "Unleash memories, not personal data. Fossify Gallery is the ultimate photo and video app that's as powerful as it is private. No ads, no unnecessary permissions \u2013 just a seamless experience tailored for you.\n\n\ud83d\uddbc\ufe0f PHOTO EDITING AT YOUR FINGERTIPS:\nEnhance your photos with our basic yet powerful photo editor. Crop, resize, rotate, flip, draw, and apply stunning filters, all without compromising your privacy. Take control of your memories like never before.\n\n\ud83c\udf10 PRIVACY FIRST, ALWAYS:\nYour privacy matters. Ditch the data-hungry giants. Fossify Gallery puts you in control. Strip away EXIF metadata like GPS coordinates and camera details, keeping your memories yours, and yours alone.\n\n\ud83d\udd12 SUPERIOR SECURITY:\nLock down your memories with pin, pattern, or fingerprint protection. Secure specific photos,",
+    "icon": "/icons/org.fossify.gallery.webp"
+  },
+  "com.simplemobiletools.gallery.pro": {
+    "title": "Simple Gallery Pro",
+    "package": "com.simplemobiletools.gallery.pro",
+    "description": "Simple Gallery brings you all the photo viewing and editing features you have been missing on your Android in one stylish easy-to-use app. Browse, manage, crop and edit photos or videos faster than ever, recover accidentally deleted files or create hidden galleries for your most precious images and videos. And with advanced file-support and full customization, finally, your gallery works just the way you want.\n\nADVANCED PHOTO EDITOR\nTurn photo editing into child's play with Simple Gallery's improved file organizer and photo album. Intuitive gestures make it super easy to edit your images on the fly. Crop, flip, rotate and resize pictures or apply stylish filters to make them pop in an instant.\n\nALL THE FILES YOU NEED\nSimple Gallery supports a huge variety of different file types including ",
+    "icon": "/icons/com.simplemobiletools.gallery.pro.png"
+  },
+  "com.fstop.photo": {
+    "title": "Fast Photo Gallery Pro: F-Stop",
+    "package": "com.fstop.photo",
+    "description": "F-Stop: The Best Photo Organizer & Gallery App for Seamless Viewing\nAre you tired of scrolling through disorganized photo galleries? Meet F-Stop, the ultimate photo organizer designed to keep your images efficiently organized and easy to access. Whether you're a photography enthusiast or someone who loves capturing moments, F-Stop makes managing, tagging, and rating your photos a breeze.\n\nF-Stop is more than just a gallery app\u2014it's a powerful tool that puts control of your photo collection at your fingertips. With features like tagging, custom albums, and photo EXIF data viewer, F-Stop transforms your gallery into a customizable, secure, and enjoyable space.\n\nOrganize and Manage Your Photos Like a Pro\nF-Stop\u2019s intuitive photo manager allows you to easily sort and organize your photos. Use ",
+    "icon": "/icons/com.fstop.photo.png"
+  },
+  "com.google.android.embedded.projection": {
+    "title": "Android Auto Receiver",
+    "package": "com.google.android.embedded.projection",
+    "description": "Android Auto Receiver works with your Android phone to bring the best of Google to your car.\n\n  With Android Auto, you can use apps like Google Maps for navigation or Google Assistant to respond to messages or play media on your infotainment system using just your voice.",
+    "icon": "/icons/com.google.android.embedded.projection.png"
+  },
+  "io.yuka.android": {
+    "title": "Yuka - Food & Cosmetic Scanner",
+    "package": "io.yuka.android",
+    "description": "\u25c6 80 MILLION USERS \u25c6\n\nYuka scans food, beauty & personal care products to decipher their ingredients and evaluate their impact on your health.\n\nIn a world of incomprehensible labels, Yuka provides clarity in one quick scan so you can make clear-sighted purchases.\n\nYuka uses a simple color code to inform you of the product's impact on your health: excellent, good, mediocre, or poor. You can access a detailed info page for each product, to help you understand its grade.\n\n\u25c6 4 MILLION FOOD PRODUCTS \u25c6\n\nEvery product is evaluated according to 3 objective criteria: nutritional value, additives, and the organic dimension of the product.\n\n\u25c6 2 MILLION BEAUTY PRODUCTS \u25c6\n\nThe scoring method relies on analyzing all of the product's ingredients. Every ingredient is assigned a level of risk, based on cur",
+    "icon": "/icons/io.yuka.android.webp"
+  },
+  "com.app.tgtg": {
+    "title": "Too Good To Go: End Food Waste",
+    "package": "com.app.tgtg",
+    "description": "Too Good To Go is the free food recovery app that makes it easy to make a positive impact on the planet while saving money on your favourite foods. The #1 app for reducing food waste, you can save tasty unsold snacks, takeaway meals, and ingredients straight from shops, cafes, grocery stores, and restaurants in your area - all at an unbeatable price.\n\nFood waste is a big problem for the environment, but together, we can be a solution. In a world where one-third of food goes to waste annually, the Too Good To Go app is your ticket to unlocking affordable, tasty eats that help the planet.\n\nFind everything your heart desires from ingredients for the perfect meal from pizza to sushi. \n\nHow Too Good To Go Works:\n\nExplore and Discover: Download the app to explore the map, finding nearby takeaway",
+    "icon": "/icons/com.app.tgtg.png"
+  },
+  "com.fig": {
+    "title": "Fig: Food Scanner & Guide",
+    "package": "com.fig",
+    "description": "With 1M+ satisfied members, Fig is the only app that supports EVERY dietary restriction and allergy, helping you find food you CAN eat and avoid reactions. \n\nWhether you have food allergies or follow a specialized diet like Low FODMAP, Gluten-Free, Vegan, Low Histamine, Alpha-Gal, or any of our 2,800+ other options, Fig empowers you to navigate grocery aisles and restaurants with confidence and reclaim your love for food.\n\nNo more second-guessing or tedious label reading\u2014simply scan, discover, and enjoy a wide range of foods that align with your specific dietary needs and help you hit your nutrition goals.\n\nCUSTOMER REVIEWS\u2028\n\n\u201cThis app is an ABSOLUTE GODSEND and I cannot recommend it enough. It works amazingly, is so easy to use, scans things super quickly and allows you to put in so many ",
+    "icon": "/icons/com.fig.jpg"
+  },
+  "com.starbucks.mobilecard": {
+    "title": "Starbucks",
+    "package": "com.starbucks.mobilecard",
+    "description": "Ordering ahead is just a download away. Get the Starbucks\u00ae app for an easier way to enjoy your favorites and discover Rewards in every sip as a member. \n\nORDER SEAMLESSLY \n\u2022 Order in the app when you\u2019re on your way\n\u2022 Customize and create your perfect drink\n\u2022 Save your favorite stores\n\u2022 View past orders & save custom drinks \n\u2022 Save payment methods and scan to pay in stores\n\u2022 Tip your barista for your delicious drink\n\nJOIN STARBUCKS\u00ae REWARDS\n\u2022 Earn Stars to use on free food & drinks\n\u2022 Start at Green status & level up to Gold or Reserve for exclusive benefits\n\u2022 Enjoy a free drink on your birthday*, plus more time to redeem as you level up\n\u2022 Try one free customization a month on Free Mod Mondays**\n\u2022 Enjoy early access to new items\n\u2022 Get Bonus Stars for digitally reloading your Starbucks Card (",
+    "icon": "/icons/com.starbucks.mobilecard.png"
+  },
+  "com.m3tz.freechessanalysis": {
+    "title": "Chess Analysis plus 4chess.com",
+    "package": "com.m3tz.freechessanalysis",
+    "description": "with Chess Analysis plus you can Review your chess games from chess.com and lichess with AI-powered analysis, learn openings, fix mistakes, and improve your strategy fast.\n\nMaster Every Chess Game with AI Analysis & Puzzles with Chess Analysis plus \n\nTake your chess skills to the next level. Chess Analysis is the ultimate tool for reviewing games, solving puzzles, and improving your strategy. Whether you\u2019re a beginner learning the basics or an advanced player improving your Elo, our AI-powered engine helps you understand every move like a pro.\n\nChess Puzzles & Tactics\nSharpen your brain with our new Puzzles Mode.\n\u2022 Solve daily chess puzzles to improve your tactical vision.\n\u2022 Practice checkmates, forks, pins, and complex endgames.\n\u2022 Train your pattern recognition to spot winning moves in re",
+    "icon": "/icons/com.m3tz.freechessanalysis.png"
+  },
+  "com.dailymanna.mobile": {
+    "title": "Daily Manna: Bible Study",
+    "package": "com.dailymanna.mobile",
+    "description": "Transform your Bible study with Daily Manna - the most comprehensive Scripture companion combining traditional commentary, intelligent insights, and daily devotionals in one beautiful app. Also have access to highly-detailed courses for Bible books and special topics, ask questions, play daily trivia, and more!\n\nWHY DAILY MANNA?\n\nDive deeper into Scripture than ever before with commentary from trusted scholars including Steve Gregg, Matthew Henry, and early church fathers. Whether you're a new believer or lifelong student of the Word, our app meets you where you are and helps you grow.\n\n\ud83d\udd25 STANDOUT FEATURES\n\nVERSE-BY-VERSE COMMENTARY\n- Multiple perspectives: Application, Academic, Critical, Apologetic & Early Church Insights\n- Historical context and theological insights\n- Compare interpreta",
+    "icon": "/icons/com.dailymanna.mobile.png"
+  },
+  "com.bibleway.bibleway": {
+    "title": "Bible Way: Daily Study & Quiz",
+    "package": "com.bibleway.bibleway",
+    "description": "Start your daily walk with scripture today.\n  Joyful Daily Bible Study Game & Quiz.\n  Transform your daily Bible reading into an engaging spiritual adventure. Bible Way combines interactive learning with a progression system that makes scripture study genuinely enjoyable.\n\n  UNLOCK BIBLICAL HEROES AS YOU PROGRESS\n\n  Journey through scripture and unlock over 50 biblical heroes. Complete Genesis to reveal Abraham. Finish Exodus to meet Moses. Progress through Samuel to unlock King David. Each book brings new heroes to your collection, making spiritual growth visible and rewarding.\n\n  INTERACTIVE QUIZZES AND LESSONS\n\n  Every chapter includes thoughtfully designed quizzes that help you retain what you learn. Questions reinforce key verses, stories, and teachings.\n\n  Features include:\n  - Chapt",
+    "icon": "/icons/com.bibleway.bibleway.jpg"
+  },
+  "com.yahoo.mobile.client.android.weather": {
+    "title": "Yahoo Weather: Forecast & Maps",
+    "package": "com.yahoo.mobile.client.android.weather",
+    "description": "Prepare for winter with Yahoo Weather, the app that combines accurate forecasts with photos that match your current conditions. Whether you are tracking a winter storm, checking if it will snow this weekend, or planning your holiday travel, Yahoo Weather helps you stay ahead of the elements. Don't just check the weather, experience it. Yahoo Weather brings you reliable hourly, 5-day, and 10-day forecasts, ensuring you know exactly when to grab a winter coat or an umbrella.\n\nFAVORITE FEATURES\n- Winter Ready Forecasts & Severe Weather Alerts\n- Stay Ahead of the Cold: Instantly know \"how cold is it\" with our detailed temperature tracking. We prioritize the data that impacts your day: wind chill, chance of snow, and freezing temperatures.\n- Severe Weather Safety: Winter storms can be unpredict",
+    "icon": "/icons/com.yahoo.mobile.client.android.weather.png"
+  },
+  "com.coreventura.flappydragon": {
+    "title": "Flappy Dragon",
+    "package": "com.coreventura.flappydragon",
+    "description": "\ud83d\udc09 ENTER THE FLAPPY UNIVERSE!\nPlay in the crazy universe of Flappy Dragon, where you control dragons with special abilities and travel through exotic worlds with unique mechanics. Devour aristocrats, find treasure chests, collect crowns, hatch dragon eggs, use power-ups, and above all, avoid the towers in this magical flappy adventure!\n\n\ud83e\ude90 EXPLORE DAZZLING WORLDS\nEmbark on a journey, collecting crowns from the Ronoka Mountains to the mysterious Arehma Desert, the captivating depths of the ocean, or even the vast outer space, and many more! Each world features unique mechanics, fun characters, and hidden secrets waiting to be discovered.\n\n\ud83e\udd5a HATCH, COLLECT, AND UPGRADE!\nCollect over 150 different dragons, each boasting unique skills, flying abilities, and control schemes. \nFind eggs and hatch ",
+    "icon": "/icons/com.coreventura.flappydragon.webp"
+  },
+  "com.noodlecake.superflappygolf": {
+    "title": "Super Flappy Golf",
+    "package": "com.noodlecake.superflappygolf",
+    "description": "Flap your way to the green in this highly anticipated follow up to the viral Flappy Golf series!\n\nPlay vibrant and exciting courses, guiding your birdie to the hole in as few flaps as you can. Simple two-button controls designed for players of any skill level. \n\nChallenge your friends to an action packed race to the cup. First to the hole wins! Show off your rarest birdies and make everyone jealous from the top of the podium. Take your flapping skills to the next level with new glide and dive mechanics. \n\nEarn eggs and collect Birdie traits with different rarities to hatch stylish and sometimes crazy birdies. With millions of potential combinations you never know what you are going to get!\n\nFeatures:\n- 30 Exciting Courses on launch for all skill levels\n- Simple two-button controls\n- Play w",
+    "icon": "/icons/com.noodlecake.superflappygolf.png"
+  },
+  "com.viaatlas.school": {
+    "title": "ViA Atlas",
+    "package": "com.viaatlas.school",
+    "description": "Learn Value Investing methodology and gain investing insights from successful value investors. Perfect for beginners and select from a range of programmes for varying knowledge and skill levels in investing to kick start your learning journey anywhere, anytime. Master the concepts through a growing collection of case studies on US-listed and Singapore-listed companies. \n\nViA Atlas is the official app by Value Investing Academy (ViA):\n- Access to content on personal finance and self-development at your own pace.\n- Seamlessly access your courses on your mobile device and learn on the go.\n- Push reminder notifications allows user to create a learning plan to stay on track.\n- Add your favourite course to your list, and for quicker access.\n- Transition effortlessly between desktop and mobile de",
+    "icon": "/icons/com.viaatlas.school.png"
+  },
+  "com.ridewithvia.vas.viawestsacramento": {
+    "title": "Via West Sac",
+    "package": "com.ridewithvia.vas.viawestsacramento",
+    "description": "Via es como un autob\u00fas compartido que viene cuando lo deseas, a donde lo deseas.\n\nReserva viajes directamente desde tu tel\u00e9fono, te recogen en minutos y puedes ir al trabajo o hacer mandados sin necesidad de un coche.\n\nDe qu\u00e9 se trata.\n\nCOMPARTIDO.\nNuestro algoritmo de esquina a esquina empareja a personas que se dirigen en la misma direcci\u00f3n. Esto significa que obtienes la conveniencia y comodidad de un viaje privado con la eficiencia, rapidez y asequibilidad de uno p\u00fablico.\n\nASEQUIBLE.\nTu viaje cuesta $3.50 por trayecto, o $1.75 por trayecto para personas mayores y personas con discapacidades.\n\nSOSTENIBLE.\nCompartir viajes reduce la cantidad de veh\u00edculos en las carreteras, disminuyendo la congesti\u00f3n y las emisiones de CO2. Con un par de toques, puedes hacer tu parte para que tu ciudad se",
+    "icon": "/icons/com.ridewithvia.vas.viawestsacramento.png"
+  },
+  "com.ridewithvia.jar.jersy": {
+    "title": "Via Jersey City",
+    "package": "com.ridewithvia.jar.jersy",
+    "description": "Think of Via Jersey City as a whole new way to get around Jersey City \u2014 a ridesharing service that\u2019s smart, easy, and affordable.\n With a few taps, book an on-demand ride in the app, and our technology will pair you with other people headed your way. No detours, no delays.\n \nHow it works:\n- Book a ride on your phone.\n- Get picked up on a nearby corner.\n- Share your ride with others.\n- Save cash and reduce carbon emissions.\n\nWhat we\u2019re about:\nSHARED.\nOur corner-to-corner algorithm matches people headed in the same direction. This means you\u2019re getting the convenience and comfort of a private ride with the efficiency, speed, and affordability of a public one.\n\n\nAFFORDABLE.\nAggregating people into one vehicle brings down prices. Enough said.\n\n\nSUSTAINABLE.\nSharing rides reduces the number of v",
+    "icon": "/icons/com.ridewithvia.jar.jersy.png"
+  },
+  "com.justride.viatx": {
+    "title": "VIA goMobile+",
+    "package": "com.justride.viatx",
+    "description": "VIA goMobile is VIA Metropolitan Transit\u2019s mobile-ticketing app, available for smartphones. Purchase fares on the go for easy, fast boarding. There are never additional fees to purchase VIA products through your goMobile app. It\u2019s the way to go!\nBenefits\n\u2022        Stop worrying about misplaced or expired passes. Buy and activate VIA fares and passes instantly on your phone.\n\u2022        Use Visa & Mastercard for purchases and set up an optional account to make future visits faster. Add funds to your account using cash at retailers.\n\u2022        Store multiple tickets on your phone for future activation.\n\u2022        Touchless payment is safe and quick.\n\u2022        Take your tickets with you when you upgrade your phone.\n\u2022        Quick links to trip planning and Next Bus information at your fingertips anyti",
+    "icon": "/icons/com.justride.viatx.png"
+  },
+  "com.getyourguide.android": {
+    "title": "GetYourGuide: Travel & Tickets",
+    "package": "com.getyourguide.android",
+    "description": "Download the GetYourGuide app to discover and book unforgettable travel experiences anywhere in the world\n\nWhether you're planning a vacation or looking for last-minute things to do in any destination, we make booking tours, day trips, and activities easier than ever. Choose from culture, food, adventure, nature, and more experiences.\n\nMaximize your trip with exclusive access to the world's top attractions and museums, find the highlights and hidden gems, and keep up with last-minute travel deals using the app \u2014 we make travel planning easy, and making memories easier.\n\nFind over 100,000 experiences \n\nBooking tickets for unmissable sights has never been easier \u2014 experience the Colosseum, Eiffel Tower, London Eye, TV Tower, Sagrada Familia, and more.\n\nDiscover expert-guided tours \u2014 explore ",
+    "icon": "/icons/com.getyourguide.android.png"
+  },
+  "com.agoda.mobile.consumer": {
+    "title": "Agoda: Cheap Flights & Hotels",
+    "package": "com.agoda.mobile.consumer",
+    "description": "Agoda is your ultimate holiday planner. Find cheap flights and affordable hotels and accommodations in just a few taps! The Agoda app is your best tool for finding and booking travel deals, anywhere in the world.\n \nBook flights on Agoda for domestic and international routes seamlessly. Find flight deals from over 200 airlines worldwide for countless options. Our unique search engine compares flights and prices in real time so you can book the best deal as soon as it drops.\n \nBook hotels, villas, BnBs, and more with over 4,000,000 accommodations in the language and currency of your choice. Book accommodations to your liking with filters, hi-res photos, map views, local information, and over 35 million verified traveler reviews. Book hotel rooms tailored to your travel needs and budget, than",
+    "icon": "/icons/com.agoda.mobile.consumer.png"
+  },
+  "com.chinarailway.globalticketing": {
+    "title": "Railway 12306",
+    "package": "com.chinarailway.globalticketing",
+    "description": "Produced by China Railway, People's Railway is for the people, buy train tickets with Railway 12306! The Railway 12306 website (including mobile client) is the only official train ticket online ticketing platform of China Railway, and has never authorized any third-party platform to sell train tickets.\nOur features:\nTicketing without markup: No acceleration package fees, no bundled insurance sales, and no membership fees are charged, allowing you to purchase tickets with peace of mind.\n[More accurate information] Delay and suspension information, train departure and arrival information, carriage and vehicle information are available in a timely manner, allowing you to travel with peace of mind.\n\u3010 More comprehensive \u3011 With nearly a hundred functions, including train tickets, air tickets, ca",
+    "icon": "/icons/com.chinarailway.globalticketing.png"
   }
 }
