@@ -18660,5 +18660,225 @@
     "title": "PayPay-\u30da\u30a4\u30da\u30a4",
     "package": "jp.ne.paypay.android.app",
     "description": "PayPay's registered users have finally reached 73 million! (\u203b1)\n\nPayPay is a payment app that lets you make simple and smart payments with just your smartphone.\n\n\u25c6 Dozens of great coupons every day!\nPayPay coupons are updated every Monday! Earn coupons from famous stores and popular brands, including convenience stores, drugstores, and apparel shops.\n\n\u25c6 Use it at over 10 million locations across Japan!\nSearch for participating stores and great campaigns in the app's \"Nearby Deals\" section.\n\n\u25c6 Earn points every time you pay.\nEarn up to 2% PayPay points when you pay with PayPay.\n(Please see the PayPay Steps for the conditions for points redemption.)\n\n\u25cf Registration takes as little as one minute!\n\n\u25cf PayPay identity verification for even more convenience and security.\nAfter verifying your iden"
+  },
+  "jp.co.rakuten.pay": {
+    "title": "\u697d\u5929\u30da\u30a4 - \u697d\u5929\u30dd\u30a4\u30f3\u30c8\u30ab\u30fc\u30c9\u3082\u5229\u7528\u3067\u304d\u308b\u30b9\u30de\u30db\u6c7a\u6e08\u30a2\u30d7\u30ea",
+    "package": "jp.co.rakuten.pay",
+    "description": "\u25cf Tap and Pay is the best deal! Earn up to 2.5% back in Rakuten Points*1\n\u25cf Use and earn Rakuten Points when paying in town!\n\u25cf Of course, limited-time points are also available!\n\nThe Rakuten Pay app is a convenient smartphone payment app that lets you pay easily and even use your Rakuten Point Card, Rakuten Edy, Rakuten Card Touch Payment, and Mobile Suica*2 with just your smartphone!\n\n\u25a0How to Use the Rakuten Pay App\n\u30fbEarn double Rakuten Points*3\n(Present your Rakuten Point Card and pay with Rakuten Pay)\n\u30fbEarn Rakuten Points when topping up your Mobile Suica*4\n\u30fbAdd more Rakuten Points to your Mobile Suica\n\u30fbUse points smartly, even from 1 point\n\u30fbEarn points at overseas stores with Rakuten Card Touch Payment*5\n\n\u25a0How to Use at Stores\n[Code/QR Code Payment]\nHave the store clerk scan the code/QR"
+  },
+  "com.tvipplayer.app": {
+    "title": "TVIP PLAYER",
+    "package": "com.tvipplayer.app",
+    "description": "TVIP PLAYER is a media player that lets end-users to play the content: Live TV, VOD, Series, TV shows.\nIt supports Xtream codes, M3U URL, and Playlist.\nIptv player supports external EPG Links, Parental Control, Language, and Timezone switching",
+    "icon": "/icons/com.tvipplayer.app.png"
+  },
+  "com.madfingergames.legends": {
+    "title": "Shadowgun Legends: Online FPS",
+    "package": "com.madfingergames.legends",
+    "description": "Enjoying online shooters and multiplayer gun games? Would you like to discover a whole new universe, kill some nasty aliens and drink in a spacebar?  Then this online game is the right choice!\n\n\u2605 Award-winning Action First-person Shooter \u2605\nThe universe is under attack and the last line of defense are the Shadowguns - legendary warriors, heroes and showmen. Fight against the alien invasion in the sci-fi world of Shadowgun Legends. Embrace your destiny and join the action in the epic story campaign, competitive PvP or co-op games! Show the galaxy who is the ultimate shooter and become a Legend!\n\n\u2605 Immersive Online Multiplayer \u2605\nBring your friends to an intense Co-op available for every mission, dungeon and arena. Join a guild or make one of your own and play multiplayer shooting games togeth",
+    "icon": "/icons/com.madfingergames.legends.png"
+  },
+  "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter": {
+    "title": "Rainbow Six Mobile",
+    "package": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
+    "description": "From the acclaimed Tom Clancy\u2019s Rainbow Six franchise, Rainbow Six Mobile is a competitive online tactical action shooter FPS built specifically for online mobile action. Engage in intense 5v5 multiplayer FPS matches inspired by Rainbow Six Siege\u2019s iconic Attack vs. Defense gameplay. Alternate roles every round as you play Attacker or Defender in fast-paced online combat. Experience close-quarter shooter action where teamwork, positioning, and map knowledge make the difference. Choose from a roster of elite Operators from Rainbow Six Siege, each designed for action tactical team play with unique abilities and gadgets. Every map offers new strategic possibilities, demanding coordination, precision, and smart decisions. \n\nRainbow Six Mobile delivers a true FPS action shooter experience, adap",
+    "icon": "/icons/com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter.png"
+  },
+  "com.opentouchgaming.quadtouch": {
+    "title": "Quad Touch",
+    "package": "com.opentouchgaming.quadtouch",
+    "description": "The most advance 'Quake engines' on earth brought to your Android device.\n\nNote:\nThis app does not include any original 'Quake' or 'Hexen 2' data. You must provide your own files to play the original games\n\nDarkPlaces -  Q1 engine with many enhanced features and graphics.\nQuakeSpasm - Q1 engine staying true to the original.\nFTEQW - Q1 engine with enhanced graphics and great multiplayer. Also plays Hexen 2!\nQuake 2 v3.24 - The original Q2 engine with bug fixes and a few extras.\nYamagi Quake 2 - A modern Q2 engine with many new features.\nIOQuake3 - The definitive Q3 engine.\nHexen 2 - Hammer of Thyrion - The only Hexen 2 engine worth playing.\nWRATH: Aeon of Ruin - The engine for the awesome WRATH (High end 6GB+ RAM device needed)\n\nNOTE ON WRATH: You need to use the FULL VERSION OF WRATH! The ",
+    "icon": "/icons/com.opentouchgaming.quadtouch.png"
+  },
+  "com.opentouchgaming.deltatouch": {
+    "title": "Delta Touch [10 x Doom engine]",
+    "package": "com.opentouchgaming.deltatouch",
+    "description": "Important! You need to supply your own copy of the 'Doom' wad files to play original Doom.\n\nTEN of the best  'Doom engine' source ports brought to Android.\n\n* GZDoom (v1.9.1 & v3.25 & v3.82 & v4.x)\n* LZDoom\n* Zandronum (v3.2 Alpha)\n* Chocolate Doom\n* PrBoom+\n* RetroDoom\n* Crispy Doom\n* Dhewm3 (Doom 3)\n* DOOM64EX+\n* DSDA Doom\n\nFull touch screen controls and full game-pad support.\n\n* Highly customizable touch screen controls.\n* Built in keyboard to access cheats and console commands\n* Custom UI to easily select your wads and mods\n* 18 custom buttons for GZDoom for mods\n* Fully navigatable UI via a gampad\n* Various rendering modes available\n* Save/load your touch screen layouts\n* Play thousands of community made mods and levels!\n* Downloads midi and Fluidsynth samples for quality music\n* Supp",
+    "icon": "/icons/com.opentouchgaming.deltatouch.png"
+  },
+  "com.koalitygame.iceleaguehockey": {
+    "title": "Ice League Hockey",
+    "package": "com.koalitygame.iceleaguehockey",
+    "description": "Grab your sticks and face off at center ice in Koality Game's Ice League Hockey! Choose a league, select a team and lead your players to the Cup. Get charged with a penalty for fighting and test your defense. Or attack on a power play and use your passing skills to catch your opponents off guard. Either way, you can become the next dynasty in the hottest hockey game on ice. This is the Ice League.\n\nCAREER MODE\n- Get drafted as a rookie after starring in the Rookie Showcase\n- Gain XP after each game and improve your attributes\n- Request trades or stay loyal and win as many accolades as possible!\n\nGENERAL MANAGER MODE\n- Scout for prospects and make trades to improve your roster\n- Develop your players and create the best championship contender\n- Induct your greatest players into the Hall of F",
+    "icon": "/icons/com.koalitygame.iceleaguehockey.png"
+  },
+  "com.inkle.sorcery1": {
+    "title": "Sorcery!",
+    "package": "com.inkle.sorcery1",
+    "description": "An epic adventure in a land of monsters, traps and magic. \n\n\"You should choose to own this adventure\" -- Eurogamer\n\n\"Inkle's adaptation of Sorcery! takes the genre to a whole new level\" -- Kotaku\n\nBased on the million-selling Fighting Fantasy series by legendary designer Steve Jackson, Sorcery! is an interactive adventure spanning four chapters and an entire world of traps, monsters, magic and mayhem. Cast spells with wild and weird consequences. Take risks. Gamble with goblins. Explore caves, mines, and treacherous cities. Survive, if you can..!\n\n* Your own story: thousands of choices, all of which are remembered\n* Forge your own path across a hand-drawn map \n* Unique combat system based on bluff and deception \n* From the creators of 80 DAYS, TIME magazine's Game of the Year 2014\n\n\"Beauti",
+    "icon": "/icons/com.inkle.sorcery1.png"
+  },
+  "com.fantablade.icey": {
+    "title": "ICEY",
+    "package": "com.fantablade.icey",
+    "description": "[Attention]\nIf you have trouble initiating ICEY, please try reboot your device and try again. We are working on an update that fix this issue. \n\n[ABOUT THIS GAME]\n\nICEY is a 2D side-scrolling action game. As you follow the narrator's omnipresent voice, you will see through ICEY's eyes and learn the truth about her world. \n\n\u201cAlright, you caught me! This ISN'T really just a simple 2D action game, and you WON'T be seeing through ICEY's eyes... NOR will you learn the truth about her world.\" says the narrator. \n\n\u201cICEY is a Meta game in disguise. The narrator will constantly urge you in one direction, but you must ask, \"Why? Why am I following his directions? Why can't I learn the truth about this world and ICEY's purpose here?\" Fight against his tyranny, and uncover what's really going on for y",
+    "icon": "/icons/com.fantablade.icey.png"
+  },
+  "com.safety101.inspector": {
+    "title": "Inspector by Safety 101",
+    "package": "com.safety101.inspector",
+    "description": "The Safety 101 mobile inspection app works in conjunction with the Safety 101 web-application. To learn more visit https://www.safety101.com.\n\nThe Safety 101 mobile inspection app allows users to build custom checklists for walk-around inspections, hazard assessments, toolbox talks, confined space entry permits, hot work permits, equipment checklists, preventative maintenance checklists, pre-tow inspections and more. \n\nThe app works in off-line mode when internet service is not available. With the Safety 101 mobile inspection app, users can document findings with pictures and notes, capture signatures of inspectors and toolbox talk attendees with date and time stamp. E-mail notifications are provided upon completion of an inspection that includes a list of failed questions. \n\nFailed audit ",
+    "icon": "/icons/com.safety101.inspector.png"
+  },
+  "com.ferdinandobermeier.focusmate": {
+    "title": "Focus Now - Pomodoro Timer",
+    "package": "com.ferdinandobermeier.focusmate",
+    "description": "\ud83d\udcd8 What is Focus Now?\nFocus Now is a smart Pomodoro timer, study timer, and productivity app designed to help you stay focused, fight procrastination, and get more done. Whether you\u2019re studying for exams, working from home, or building new habits, Focus Now makes deep work simple and sustainable.\n\nBased on the proven Pomodoro Technique, the app structures your time into short focus intervals with refreshing breaks in between. This method helps you avoid burnout, stay consistent, and actually enjoy the process of getting things done.\n\n\u2728 With the latest update, Focus Now becomes your complete focus companion \u2014 redesigned with a cleaner, more intuitive interface, motivating streaks and badges, customizable goals, background music, and AI-powered insights to guide you toward smarter focus and b",
+    "icon": "/icons/com.ferdinandobermeier.focusmate.png"
+  },
+  "com.sopivasti.pomodoro": {
+    "title": "Pomodoro Timer: Focus & Study",
+    "package": "com.sopivasti.pomodoro",
+    "description": "Tomer is a clean, distraction-free Pomodoro timer designed to help you focus. Set a timer. Do the work. Take a break. Repeat.\n\nFEATURES\n- Pomodoro timer with focus sessions, short breaks, and long breaks\n- Custom presets with adjustable durations (1-120 min focus, 1-60 min breaks)\n- Set sessions until long break (2-8)\n- Activity heatmap showing 52 weeks of focus history\n- Stats tracking: sessions, total focus time, and streaks\n- Filter stats by Today, Week, Month, or All Time\n- Session history with CSV export\n- Timer controls: pause, extend (+60s), skip, reset\n\nSETTINGS\n- Continuous mode for auto-cycling through focus and breaks\n- Auto-start breaks or focus sessions\n- Pre-completion warning (30 seconds before timer ends)\n- Keep screen awake during timer\n- Notifications, vibration, and soun",
+    "icon": "/icons/com.sopivasti.pomodoro.png"
+  },
+  "com.harishraghav17.calculatorapp": {
+    "title": "One Focus: AI Pomodoro & To-Do",
+    "package": "com.harishraghav17.calculatorapp",
+    "description": "Pomodoro Focus & To-Do AI is a Focus-first, all-in-one productivity app designed to help you manage tasks, stay deeply focused, build habits, and win back your time \u2014 all in a clean, distraction-free experience.\n\nThe app helps users achieve deep work through an interactive Pomodoro-centric workflow, combined with a smart to-do system and habit tracking, followed by AI assistance, productivity analytics, calendar planning, and priority management.\n\nUsers can chat with the AI productivity assistant to receive insights based on their Pomodoro sessions, focused time, completed tasks, habits, and overall productivity patterns.\n\n\ud83c\udf1f MAIN FEATURES (Focus-First)\n\n\u2022 Custom Pomodoro Focus Timer (Main Screen)\n\u2022 Smart To-Do & Task Manager\n\u2022 AI-Powered Productivity Assistant\n\u2022 Calendar & Task View\n\u2022 Eise",
+    "icon": "/icons/com.harishraghav17.calculatorapp.png"
+  },
+  "com.ozeito.pomotimer": {
+    "title": "AI Pomodoro Timer:Focus Planer",
+    "package": "com.ozeito.pomotimer",
+    "description": "PomoTimer is an AI-Powered awesome app to organize and manage your workday effectively. It provides a clear planner and structure to help you stay focused on top of your priorities. \n\nInstead of overwhelming yourself with big tasks, you can break them down into smaller, more manageable pieces and allocate specific time slots to them on your schedule. \n\nThis approach allows you to boost your productivity and complete tasks efficiently using the Pomodoro technique.\n\nDon't worry, using the Pomodoro Focus Timer is super easy. First, write down all your tasks on the to-do list. Then, you can customize the focus time according to your preferences or stick with the default Pomodoro timer settings: 4 intervals, 25 minutes of work, and 5 minutes for a short break. \n\nOnce you start the timer, give y",
+    "icon": "/icons/com.ozeito.pomotimer.png"
+  },
+  "com.coursehero.coursehero": {
+    "title": "Course Hero: AI Homework Help",
+    "package": "com.coursehero.coursehero",
+    "description": "AI Homework Help For Supercharged Studying\nGet help with your homework and master your courses with AI-powered homework help. Get answers, and explanations to homework questions, chat with your AI study companion to quickly fill gaps in your understanding, ask expert tutors for help 24/7, and access relevant course materials recommended to you. \n\nYou can also search our vast library of student- and professor-contributed resources related to your specific courses. Let our Math Solver tackle tough math problems with the snap of your mobile camera and provide a detailed explanation to help you understand the solution. Get instant AI help with your homework right in your document.\n\nHomework Answers\n- Educator-verified explanations help build confidence and improve your problem-solving skills\n-",
+    "icon": "/icons/com.coursehero.coursehero.png"
+  },
+  "com.reachVoteTech": {
+    "title": "Reach \u2014 Progressive Organizing",
+    "package": "com.reachVoteTech",
+    "description": "Reach is the grassroots organizing app that lets you truly meet people where they are, build relationships, manage your team, and get results. \n\nOriginally built by Alexandria Ocasio-Cortez's groundbreaking campaign, this canvassing and relational organizing app is changing the way progressives connect with voters and supporters. Reach's direct search features let your team find voters and collect data from them in person or online, turning every voter interaction into a canvassing attempt. The relational organizing features allow each user to build and activate their own personal network of voters including both people they've known for years and new people they meet during their work. The home screen, live chat, push notifications, and gamification make Reach the perfect digital organizi",
+    "icon": "/icons/com.reachVoteTech.png"
+  },
+  "com.teamreach.app": {
+    "title": "TeamReach - Your Team App",
+    "package": "com.teamreach.app",
+    "description": "TeamReach has everything you need to manage and instantly communicate with your team, club, or group. It's EASY, INTUITIVE, SAFE and FREE!\n  \n\u2022\u2003 MESSAGES \u2013 Team Reach saves you time and reduces confusion by serving as a central place for all team communications.\n\u2022\u2003 SCHEDULES - No more guessing when and where games and practices are taking place. Includes reminders, maps and forecast.\n\u2022\u2003 INSTANT UPDATES - Immediately notify your team of last minute changes: game time, location, cancellation, uniform, and more.\n\u2022\u2003 AVAILABILITY - Easily find out who can attend a game, practice or special event by sending out an availability request to the group.\n\u2022\u2003 EVENT DETAILS - Everyone will know the time, place, driving directions, forecast, and attendees.\n\u2022\u2003 POLLS - Get instant team input on restaurants,",
+    "icon": "/icons/com.teamreach.app.webp"
+  },
+  "ch.rea.app": {
+    "title": "myReach - AI Assistant",
+    "package": "ch.rea.app",
+    "description": "myReach is a powerful AI-driven app for search and knowledge management. By unlocking your company\u2019s collective insights, it empowers internal teams and external clients to find the answers they need \u2013 whether through a centralised knowledge base or an AI chatbot for customer interactions.\n\nCENTRALISE YOUR KNOWLEDGE\n- Save all data types (files, websites, audio, notes, etc.) in an interconnected 3D visualiser\n- Search across your company\u2019s information to find the answers you need\n- Transcribe audios and summarise long PDFs automatically\n\nGET INSTANT ANSWERS 24/7\n- Get answers in Natural Language using myReach\u2019s Generative AI capabilities\n- Support for +72 languages with accurate, fact-checked answers from your knowledge base\n- Every response includes a reference to the original source, par",
+    "icon": "/icons/ch.rea.app.png"
+  },
+  "com.subsplash.thechurchapp.worldoutreachchurch": {
+    "title": "World Outreach Church",
+    "package": "com.subsplash.thechurchapp.worldoutreachchurch",
+    "description": "The latest sermons, tools, and events from World Outreach Church and Pastor Allen Jackson.\n\u2022 Watch services at World Outreach Church, live or on demand\n\u2022 Get the sermon notes and follow along on your device\n\u2022 Engage in the Bible reading plan\u2014read or listen to the audio each day\n\u2022 Listen to archived sermon audio\n\u2022 Access small group study guides and teaching videos\n\u2022 Give to support the church, quickly and simply\n\u2022 Get the latest event notifications and service update alerts\n\nAbout World Outreach Church\nWorld Outreach Church, led by Pastor Allen Jackson, has become a destination of hope for people across the entire Southeast region and beyond. From the church\u2019s campus in Murfreesboro, TN, the people of World Outreach Church stand firm in their mission to help people become more fully devote",
+    "icon": "/icons/com.subsplash.thechurchapp.worldoutreachchurch.png"
+  },
+  "com.verizon.contenttransfer": {
+    "title": "Content Transfer",
+    "package": "com.verizon.contenttransfer",
+    "description": "With the cross-platform Verizon Content Transfer app, it's easy to transfer your contacts and other content from your old phone to your new phone, without the need for wires, subscribed services or additional equipment. Enjoy the data backup available in the Verizon Cloud whenever you need it.\n \nVerizon Content Transfer lets you:\n\u2022 Copy your personal data from one phone to another easily.\n\u2022 Choose to transfer data by simply scanning a QR code.\n\u2022 Transfer photos and videos, as well as contacts, music, documents, call logs, messages, applications, and calendars.\n\u2022 Track the progress of the transfer on the go.\n \nDownload the Verizon Content Transfer app now and start transferring all your stuff, so you can enjoy your new phone.",
+    "icon": "/icons/com.verizon.contenttransfer.png"
+  },
+  "com.estmob.android.sendanywhere": {
+    "title": "Send Anywhere (File Transfer)",
+    "package": "com.estmob.android.sendanywhere",
+    "description": "Send Anywhere: Easy, quick, and unlimited file sharing \n\n\u25b6 Features\n\u2022 Transfer any file type without altering the original\n\u2022 All you need is a one-time 6-digit key for an easy file transfer\n\u2022 Wi-Fi Direct: transfer without using data or the Internet\n\u2022 Share files to multi-people at once via a link\n\u2022 Transfer files to a specific device\n\u2022 Reinforced file encryption (256-bit)\n\n\u25b6 When to use Send Anywhere!\n\u2022 When moving photos, videos, and music to your PC!\n\u2022 When you need to send large files but you do not have mobile data or you have difficulty connecting to the internet\n\u2022 Anytime you want to send files in an instant!\n\n* While using the application if an issue or error arises, please let us know by clicking \u201cSend Feedback\u201d under More menu\n\n-\n\nAPK File\n\u2022 The copyright of applications sent thr",
+    "icon": "/icons/com.estmob.android.sendanywhere.webp"
+  },
+  "org.yutorah.app": {
+    "title": "YUTorah",
+    "package": "org.yutorah.app",
+    "description": "The YUTorah\u00ae App is made possible by Adina Katz in loving memory of her husband Marcos Katz z\"l and is a project of Yeshiva University's Center for the Jewish Future. It offers more than 180,000 Torah shiurim and articles by YU Roshei Yeshiva, faculty, staff and other Torah luminaries. The opinions and views expressed are solely those of the author or lecturer and should not be attributed to Yeshiva University.\nAll shiurim are fully available for download and you can personalize the app to feature your favorite speakers, series, and venues.",
+    "icon": "/icons/org.yutorah.app.png"
+  },
+  "com.cxapp.cloudflare": {
+    "title": "Cloudflare Workplace",
+    "package": "com.cxapp.cloudflare",
+    "description": "To request a login account, simply email support and we will respond quickly!\n\nCloudflare Workplace is our one-stop-app experience to easily access onsite information and plan for your visit to Cloudflare Campuses.\n\n\u2022 Find and book available desks\n\u2022 Create meetings and invite other users\n\u2022 View campus maps and navigate to points of interest\n\u2022 Stay informed with real-time notifications\n\u2022 Keep Track of upcoming Events and Trainings\n\u2022 Get to know your fellow users with member profiles",
+    "icon": "/icons/com.cxapp.cloudflare.png"
+  },
+  "com.emrekeles.cloudflareremote": {
+    "title": "Cloudflare Manager",
+    "package": "com.emrekeles.cloudflareremote",
+    "description": "Cloudflare Remote is a powerful mobile DNS and domain manager built for professionals who need full control of their Cloudflare infrastructure\u2014anytime, anywhere.\n\nManage DNS records, firewall rules, SSL settings, analytics, and security features directly from your iPhone with a fast, secure, and intuitive interface.\n\nNo API key information is ever stored\n\n\nDNS & DOMAIN MANAGEMENT\n\n\n\u2022 Manage unlimited DNS records (A, AAAA, CNAME, MX, TXT, NS, SRV)\n\u2022 Create, edit, and delete DNS records instantly\n\u2022 Real-time DNS propagation monitoring\n\u2022 Bulk DNS management\n\u2022 Quick response to DNS attacks with instant updates\n\u2022 Multi-account support with fast switching\n\nANALYTICS & MONITORING\n\n\u2022 Real-time traffic analytics dashboard\n\u2022 Request counts, bandwidth usage, and visitor insights\n\u2022 Cache hit rate & ca",
+    "icon": "/icons/com.emrekeles.cloudflareremote.png"
+  },
+  "com.amego.app2rjos0uz3djxlqf6qzyf": {
+    "title": "Cloudflare Events",
+    "package": "com.amego.app2rjos0uz3djxlqf6qzyf",
+    "description": "The Cloudflare app is your place to easily plan your event experience, access up-to-the minute event information and make the most out of your Connect experience.",
+    "icon": "/icons/com.amego.app2rjos0uz3djxlqf6qzyf.png"
+  },
+  "com.doubleprecisionai.ParkUncExpo": {
+    "title": "ParkUncle - SG Parking",
+    "package": "com.doubleprecisionai.ParkUncExpo",
+    "description": "Parking in Singapore should not feel like a gamble.\n\nParkUNC helps you find smarter places to park and charge before you waste time circling the block, queueing at full carparks, or overpaying when a better option is just nearby. Whether you are heading to the CBD, Orchard, a heartland mall, an HDB area, or your daily errand stop, ParkUNC helps you make a faster, cheaper decision.\n\nBuilt for Singapore drivers, ParkUNC shows nearby parking and EV charging spots on a map, helps you compare options, and lets you head there with navigation in a few taps.\n\nWhy drivers in Singapore download ParkUNC:\n\u2022 Save money by spotting cheaper nearby parking options\n\u2022 Save time by checking nearby parking and EV locations before you commit\n\u2022 Compare estimated parking cost based on your planned duration\n\u2022 Fin"
+  },
+  "com.jamesuncle": {
+    "title": "James Uncle",
+    "package": "com.jamesuncle",
+    "description": "\u2022  James Uncle is a platform for all, where anybody can find the right person for daily household requirements.\n\u2022   The same platform is also dedicated for service provider individuals to get searched by dwellers and to get jobs.",
+    "icon": "/icons/com.jamesuncle.jpg"
+  },
+  "com.kuyougame.superuncle": {
+    "title": "Super Uncle's World",
+    "package": "com.kuyougame.superuncle",
+    "description": "Super Uncle's World is a free amazing running and jumping adventure game.\n\nYour task is to help uncle to run through the mysterious jungle, jump over obstacles, and super evil monsters to save the beautiful princess at the final destination. This game is a free game and you can play offline.\n\nYou will be joining in jungle world adventures to help uncle run through the mysterious jungle, jump over the obstacles , defeat super evil monsters and boss!\n\n*** How to play Super Uncle's World ***\n- Jump to smash the monsters.\n- Use apple to attack monsters.\n- Use joystick or button to jump, run, fire.\n- Jump to broken the bonus stoneblocks.\n- Collect all coins and boosters as many as you can.\n\n*** Super Uncle's World Features ***\n- Great graphics and music.\n- Epic boss fights in every 10 levels.\n-",
+    "icon": "/icons/com.kuyougame.superuncle.png"
+  },
+  "com.iacm.uncleremus": {
+    "title": "Uncle Remus SFC",
+    "package": "com.iacm.uncleremus",
+    "description": "Get ready to savor the experience like never before with the new Uncle Remus Mobile App! Now it\u2019s even easier to indulge in famous fried chicken and memorable sides. Order ahead for pickup or delivery, and rack up rewards while you do it. Pay fast with saved payment options, including Google Pay. Keep coming back for the flavors you love \u2013 every order brings you closer to more rewards!\n\nFeatures include:\n* Find the Uncle Remus location nearest you\n* Order ASAP or ahead for Pickup or Delivery\n* Easily reorder your favorites\n* Securely save your payment methods of choice\n* Join our Remus Rewards loyalty program that includes exclusive deals, rewards, and promotions\n\n\nDownload the app now and enjoy the convenience of ordering on the go!",
+    "icon": "/icons/com.iacm.uncleremus.png"
+  },
+  "com.mep.annoying.punch.game": {
+    "title": "Annoying Uncle: Punch & Slap",
+    "package": "com.mep.annoying.punch.game",
+    "description": "Annoying Uncle: Punch and Slap\n\nAnnoying Uncle: Punch and Slap is a super cool action game where you are the boss. It is time to have some fun and teach your uncle a lesson. Are you ready to wiggle your arm and deliver the perfect hit?\n\n\ud83c\udfae How to Play This Awesome Game\n\nPlaying is super easy! You have a stretchy, rubbery arm that can reach anywhere.\n\n1. Touch on the screen to aim your hand.\n2. Release.\n3. Smack the target to win!\n\n\ud83e\udd4a Use Your Best Moves\nYou have so many ways to play. Do you like sports? Then use your boxing skills! Put on your gloves and deliver a super strong punch. When you land a good punch, the uncle will fly across the room like a ragdoll. It looks so funny!\n\nDo you want to be like a spider superhero? Use your web shooter! Aim carefully and throw a sticky web to trap hi",
+    "icon": "/icons/com.mep.annoying.punch.game.png"
+  },
+  "com.mkconsulting.pukpuk": {
+    "title": "PukPuk",
+    "package": "com.mkconsulting.pukpuk",
+    "description": "PukPuk \u2013 Your local guide \ud83c\udfd9\ufe0f\n\nBecome part of your community with the PukPuk app! Discover local ads, events and offers that are perfect for you. Support local businesses and always stay up to date with what's happening in your area!\n\n\u2728 What can you do with PukPuk?\n\t\u2022 \ud83d\udd0d Browse ads \u2013 buy, sell or find services and products near you.\n\t\u2022 \ud83d\uddd3\ufe0f Discover Events \u2013 Find out what's happening in your city, from concerts to trade shows and community events.\n\t\u2022 \ud83d\udcac Support local businesses \u2013 meet local entrepreneurs and take advantage of unique offers.\n\t\u2022 \ud83d\udcf2 Customize notifications \u2013 receive only the information that interests you.\n\n\ud83d\udee1\ufe0f Your data is safe\n\nWe care about your privacy. You decide what information you want to receive and who has access to your ads.\n\nDownload PukPuk and be closer to your communit",
+    "icon": "/icons/com.mkconsulting.pukpuk.png"
+  },
+  "com.igg.android.vikingriseglobal": {
+    "title": "Viking Rise",
+    "package": "com.igg.android.vikingriseglobal",
+    "description": "The 3rd Anniversary Celebration begins! Massive rewards await, plus stunning debuts of limited Hero and Hallowed Castle Skins. Join the grand feast!\n\nAre you a fan of strategy games? As the Viking leader, how will you lead your Tribe to explore, plunder, and conquer the world of Midgard? Will you participate in the war games?\nFamous Heroes from Norse mythology and Viking history are ready to win wars with you. Strategize and use your wits to utilize the strengths of your Heroes!\nWhat enemies will you encounter in these war games? What friends will you make? Try your hand at [Viking Rise]!\n\nValhalla is calling!\n\n[Viking Rise] is one of the best online multiplayer real-time war strategy games with epic world-building. You play as the leader of the Vikings, guiding your Tribe throughout Valha",
+    "icon": "/icons/com.igg.android.vikingriseglobal.jpg"
+  },
+  "com.birdshel.Uciana": {
+    "title": "Uciana",
+    "package": "com.birdshel.Uciana",
+    "description": "Build your own space faring empire in this true 4X mobile game. Discover new technologies, other alien races, derelict ships and much more as you spread your Empire to the Stars. The galaxy maps and star systems are procedurally generated, so with every game there will be something new to discover.\n\nYou'll have to decide how to manage your Empire's resources between research, farming, and production, depending on your situation in the galaxy.\n\nDo you focus on building up your current systems with more buildings, star ports, or defenses? Or do you continue expanding, building instead of Fleet of ships to defend your growing Empire?\n\nUciana features detailed turn-based ship-to-ship combat. In which you can customize the load out of each of your ships, with different weapons, defenses and oth",
+    "icon": "/icons/com.birdshel.Uciana.png"
+  },
+  "com.readyapp.bitswits": {
+    "title": "Ready App",
+    "package": "com.readyapp.bitswits",
+    "description": "Simplify the on boarding process for truck drivers! No more sorting through stacks \nof paperwork to find misplaced documents. With Ready App, experience a \nstreamlined and secure on boarding system. Our platform provides a centralized \ndocument management solution, making it effortless to store, organize, and \nretrieve crucial driver-related documents. Truck drivers, carriers, and recruiters \ncan easily upload, share, and oversee documents like licenses, certifications, \nmedical records, and more.",
+    "icon": "/icons/com.readyapp.bitswits.jpg"
+  },
+  "com.bigwinepot.nwdn.international": {
+    "title": "Remini - AI Photo Enhancer",
+    "package": "com.bigwinepot.nwdn.international",
+    "description": "Turn your old, pixelated, blurred, or damaged pictures into high-definition photos with just one tap! \n\nGenerate mind-blowing and professional looking AI Photos of yourself with the powerful photo enhancer Remini.\n\nRemini uses state-of-the-art Artificial Intelligence to unblur, restore, and enhance any image you want. Take your old memories and give them a new lease of life in stunning, crystal clear HD.\n\nOver 100 million photos now revitalized. The Remini photo editor is one of the most popular and beloved enhancer apps in the world. Scan your old family photos, revitalize them, and reminisce together!\n\n-------- Use Remini to... --------\n- Turn your portrait, selfie, or group picture into HD\u2014it\u2019s incredible with face details!\n- Repair old, blurry, scratched photos\n- Clear vintage and old ",
+    "icon": "/icons/com.bigwinepot.nwdn.international.png"
+  },
+  "com.readid.ready": {
+    "title": "ReadID Ready",
+    "package": "com.readid.ready",
+    "description": "ReadID Ready is an application for mobile identity document verification, in some cases it will also do a selfie to verify if the identity document belong to you. The verification results will be shared with the organisation that asked you to use ReadID Ready. You can only use ReadID Ready when a third party wants to verify your identity. You will receive a request and instructions (with a QR code and/or link) to do this.\n\nReadID Ready is made by Signicat.\n\nPRIVACY\nWe process your personal information on behalf of the organisation that asked you to use ReadID Ready. For details, see our privacy statement https://www.signicat.com/about/readid-privacy-policy\n\nLICENSES FOR OPEN SOURCE LIBRARIES USED\nSee \"About\" in the app.",
+    "icon": "/icons/com.readid.ready.png"
+  },
+  "com.fatiguescience.readisupervise": {
+    "title": "ReadiSupervise Mobile",
+    "package": "com.fatiguescience.readisupervise",
+    "description": "ReadiSupervise enables shift supervisors and dispatchers on the Readi FMIS platform to get a bird\u2019s eye, predictive view of on-duty fatigue in their crew. Supervisors receive notifications at the start-of-shift that indicate operators who are flagged for high fatigue risk, and they can view flagged operators in a single tap. From there, supervisors can proactively manage task assignment to ensure the right worker is assigned the right task at the right time \u2014 enhancing productivity and safety, and ensuring shifts run smoothly and effectively. One-tap intervention logging enables seamless record-keeping, without distracting supervisors from the core of their operations.",
+    "icon": "/icons/com.fatiguescience.readisupervise.png"
   }
 }
