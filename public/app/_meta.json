@@ -18874,5 +18874,547 @@
     "package": "com.fatiguescience.readisupervise",
     "description": "ReadiSupervise enables shift supervisors and dispatchers on the Readi FMIS platform to get a bird\u2019s eye, predictive view of on-duty fatigue in their crew. Supervisors receive notifications at the start-of-shift that indicate operators who are flagged for high fatigue risk, and they can view flagged operators in a single tap. From there, supervisors can proactively manage task assignment to ensure the right worker is assigned the right task at the right time \u2014 enhancing productivity and safety, and ensuring shifts run smoothly and effectively. One-tap intervention logging enables seamless record-keeping, without distracting supervisors from the core of their operations.",
     "icon": "/icons/com.fatiguescience.readisupervise.png"
+  },
+  "com.fx.tunnel": {
+    "title": "Fx Tunnel vpn - Super Fast Net",
+    "package": "com.fx.tunnel",
+    "description": "Fast & Reliable VPN\n\nSecure your connection and unblock geo-restricted websites by using FX TUNNEL VPN\n\nFeatures:\n\u2705 Free, no need payment!\n\u2705 Secures your connection\n\u2705 Bypass Geo-Restrictions\n\u2705 Bypass Network-Restrictions\n\u2705 Multiple Protocol Supported",
+    "icon": "/icons/com.fx.tunnel.png"
+  },
+  "com.fxfamnote.app": {
+    "title": "FX TWO",
+    "package": "com.fxfamnote.app",
+    "description": "FX TWO is a simple and practical app designed to help users stay organized and keep track of important information in daily life.\n\nIt provides a convenient way to record details, review patterns, and plan ahead over time. Whether for personal use or shared scenarios, FX TWO brings clarity and structure to everyday arrangements.",
+    "icon": "/icons/com.fxfamnote.app.png"
+  },
+  "com.basepaintball.fxblue": {
+    "title": "FX Radar",
+    "package": "com.basepaintball.fxblue",
+    "description": "Ballistic APP for FX Radar Chronographs\n\nSupported devices (FX Airguns and FX Outdoors) :\nFX True Ballistic Chronograph\nFX Pocket Chronograph\nFX Archery Chronograph\nFX Pocket Chronograph V2\n\nDescription for Pocket Chronograph:\n\nUsing the first ever pocket radar ballistic chronograph from FX Airguns of Sweden, this ballistic app enables the recording of data from 20 fps to 1100 fps.\nEver wanted to know the speed of your pellet, BB, Arrow or Paintballs, then this app will allow you to create profiles and store data from all your testing and tuning.\nVocal shout outs for each shot can enable smooth target grouping at the range, just listen to the result and don\u2019t take your eye off the target.\nExport the data strings for further evaluation, save and record your days testing using the profile fu",
+    "icon": "/icons/com.basepaintball.fxblue.png"
+  },
+  "com.proximatesolutions.fxeinstein": {
+    "title": "FxEinstein - Forex Signals App",
+    "package": "com.proximatesolutions.fxeinstein",
+    "description": "FX Einstein is the best forex trading app by FX-Einstein which provides accurate trade signals for all Major Currencies, Exotic Currencies, Commodities, Indices, and Crypto Currencies. It offers the convenience for FX traders who can now follow the FX market continuously without being online all the time. Traders can take advantage of opportunities in the FX market by using our trade signals.\n\nYou don\u2019t have to be an experienced forex trader to make money in\u00a0forex\u00a0market. What you really need is to have the guidance of a winning trading team that will tell you exactly in what currency / commodity put your money. FX Einstein also provides commodities trading signals, gold trading signals, and currency trading signals. This is what we provide! Our recommendations regarding FX trading signals",
+    "icon": "/icons/com.proximatesolutions.fxeinstein.png"
+  },
+  "com.picadelic.fxguru": {
+    "title": "FxGuru:  Movie FX Director",
+    "package": "com.picadelic.fxguru",
+    "description": "Add the fun and excitement of big-budget Hollywood horror, sci-fi and action movie special effects to any video. FxGuru's Movie FX Director offers groundbreaking features for you to scare and impress your friends.\n\n\u2605 UNLEASH YOUR CREATIVITY with longer effects and cinematic filters for more drama and suspense\n\u2605 DIRECT LIKE A PRO by using our MotionMatch\u2122 technology and virtual decals to add realistic movement while filming\n\u2605 SHOW OFF to your friends with HD recording, enhanced soundtracks and effect themes like animals, weapons, disasters, horror and much more.\n\u2605 OVER 90 VIDEO SPECIAL EFFECTS AVAILABLE from explosive action to scary, heart-pounding terror and sci-fi\n\nA huge variety of free and paid effects are available, including:\n\n\u2606 Horror and Terror:  ghosts, zombies, werewolves, skelet",
+    "icon": "/icons/com.picadelic.fxguru.png"
+  },
+  "com.fubo.firetv.screen": {
+    "title": "Fubo: Watch Live TV & Sports",
+    "package": "com.fubo.firetv.screen",
+    "description": "Watch MLB, NBA, NHL, NASCAR, NCAA college football, NCAA college basketball, WNBA, NFL, MLS soccer, F1 racing, the 2026 FIFA World Cup, UEFA Champions League, LaLiga, Bundesliga and more, all live. Plus, stream acclaimed TV series, live news and award-winning movies. Enjoy Unlimited Cloud DVR and dedicated sports pages to watch what you want, when you want.\n\n350+ LIVE TV CHANNELS\nFubo has over 350 TV channels and is the only way to get every Nielsen-rated sports channel without cable. Fubo features ABC, CBS, FOX, ESPN, CBS Sports Network, FS1, NFL Network, NFL RedZone, NBA TV, MLB Network, MLB.TV, NHL Network, beIN SPORTS, SEC Network, ACC Network, Big Ten Network, Willow TV, Tennis Channel, regional sports networks for most local markets.\n\nSTREAMING LEADER IN BASEBALL \nFubo has the most M",
+    "icon": "/icons/com.fubo.firetv.screen.jpg"
+  },
+  "com.wheresthematch.android.app": {
+    "title": "Live Football on TV",
+    "package": "com.wheresthematch.android.app",
+    "description": "Live Football on TV is an essential app for all sport fans looking to keep up to date with upcoming football fixtures as well as 33 other live sports. Our comprehensive football guides contain all of the information needed to plan your watching including dates & times, as well as which broadcaster is showing all of your favourite teams. \n\nThe Live Football on TV App Covers:\n\n- Football fixtures for the UK\u2019s top domestic leagues including the English Premier League, EFL Championship, EFL League 1 & League 2 and the Scottish Premiership.\n- Cup competitions including the FA Cup, Carabao Cup and EFL Trophy.\n- Other top European leagues such as the Spanish La Liga, Italian Serie A, German Bundesliga and French Ligue 1.\n- All annual UEFA cup tournaments - UEFA Champions League, UEFA Europa Leagu",
+    "icon": "/icons/com.wheresthematch.android.app.png"
+  },
+  "com.codehaha.football": {
+    "title": "Football Live Scores",
+    "package": "com.codehaha.football",
+    "description": "Football Live Scores keeps you up-to-date with the latest scores and live sports highlights. \n\nFootball Live Scores provides you with real-time results for live football / soccer scores for the Premier League (England), Champions League, Europa League, Euro 2028, Liga (Spain), Serie A and Serie B (Italy), Bundesliga (Germany), Eredivisie (Holland), Ligue 1 (France).\n\nLive football news:\nPersonalized news and notifications make it easy to follow your favorite teams and players.\n\nFootball live scores app with live football scores and results for the Champions League, Liga and Serie A.\n\nAdded football full league and top scorers for the Premier League, Liga, Serie A, Euro 2024, Ligue 1, Bundesliga, Eredivisie and Irish Premier League.\n\nThe Soccer Live Scores app is packed with the latest news",
+    "icon": "/icons/com.codehaha.football.png"
+  },
+  "com.crucify.cricfylivetvapp": {
+    "title": "Live Football TV HD 2026",
+    "package": "com.crucify.cricfylivetvapp",
+    "description": "With the Live Football TV HD app, you can stay updated with soccer live scores & stats, and match highlights at no cost. We cover matches from the Premier League to the World Cup, ensuring you never miss a moment of the action!\n\nGet real-time score updates, detailed match stats, lineups, and more on your mobile or tablet with live football scores app.",
+    "icon": "/icons/com.crucify.cricfylivetvapp.png"
+  },
+  "org.sdfcu.banking": {
+    "title": "SDFCU Digital Banking",
+    "package": "org.sdfcu.banking",
+    "description": "Convenient and secure banking that fits your lifestyle\u2014wherever you may be. \n\nStay connected to your money with just a few taps. Monitor your accounts, move money, pay bills, check your credit reports and more. \n\nManage your accounts\n\u2022 Review transactions & check balances\n\u2022 Monitor accounts & set alerts\n\u2022 Check your credit score\n\u2022 Manage debit and credit card preferences\n \nMove Money\n\u2022 Transfer money to and from accounts\n\u2022 Deposit checks\n\u2022 Send money quickly to family and friends\n\u2022 Pay loans and bills\n\nAccess services\n\u2022 Find the nearest ATM or branch\n\u2022 Open a new account or apply for loan\n\u2022 And more",
+    "icon": "/icons/org.sdfcu.banking.png"
+  },
+  "com.clairmail.fth": {
+    "title": "Fifth Third: 53 Mobile Banking",
+    "package": "com.clairmail.fth",
+    "description": "Securely access your accounts, deposit checks\u00b2, view recent transactions, pay bills, transfer money\u00b9, and find ATMs and branches.\n\nSee over six months of account history and account details. Plus you can view total pending credit card transactions, and 24 months of statements. If you\u2019re a first time user, just follow the link on the login page to get started.*\n\n\nDEPOSIT CHECKS\n\nSave a trip to the bank and deposit checks with your phone - as late as 8 PM ET to process your deposit the same business day.\u00b2,\u00b3 And Mobile Deposit with Immediate Funds can get you access to the full amount of your check right away.\u2074\n\n\n\nTRANSFER MONEY & PAY BILLS\n\nGet in. Get out. Transfer funds quickly. Add new payees and make payments right from the app.\u00b9\n\n\nSEND MONEY with ZELLE\u00ae PERSON-TO-PERSON PAYMENTS\n\nIt\u2019s E",
+    "icon": "/icons/com.clairmail.fth.png"
+  },
+  "org.schoolsfirstfcu.mobile.banking.isam": {
+    "title": "SchoolsFirst FCU Mobile",
+    "package": "org.schoolsfirstfcu.mobile.banking.isam",
+    "description": "The redesigned SchoolsFirst FCU Mobile Banking app makes managing your accounts anytime, anywhere easier and more convenient than ever before. Log in quickly with fingerprint and face recognition, enjoy an easier-to-read view of your account balances, deposit checks, move money between accounts, manage bill payments, send money to fellow Members, and much more. Plus, with state-of-the-art encryption methods and two-factor authentication, your information is always safe and secure.\n \nMore Features:\n\u2022             Send and receive money with Zelle\u00ae \n\u2022             Find nearby ATMs and branches, as well as current wait times\n\u2022             Lock and unlock your debit cards\n\u2022             Manage your credit cards\n\u2022             Add or cancel travel notices\n\u2022             View and download account sta",
+    "icon": "/icons/org.schoolsfirstfcu.mobile.banking.isam.png"
+  },
+  "com.ally.MobileBanking": {
+    "title": "Ally: Bank, Auto & Invest",
+    "package": "com.ally.MobileBanking",
+    "description": "Refer your friends to Ally and you could both get paid. Terms & conditions apply. Eligible Ally Bank account holders can select the Learn how link in Profile for details.\n \nMaking your financial life simple and secure has always been our thing. Easily manage your bank, invest and auto accounts on the go \u2014 all in one app.\n \nAlly Auto \n\u00b7\tMake one-time vehicle payments or use Auto Pay to schedule future payments\n\u00b7\tManage multiple vehicles from your Snapshot\n\u00b7\tStay on top of your financial health with free FICO\u00ae Score updates\n \nAlly Bank \n\u00b7\tSave more with smart savings tools: buckets and boosters\n\u00b7\tOur Spending Account is a checking account packed with money management tools\n\u00b7\tAdd cash to your Spending Account at any Walmart near you\n\u00b7\tGet paid up to two days sooner with early direct deposit\n\u00b7",
+    "icon": "/icons/com.ally.MobileBanking.png"
+  },
+  "com.manoramaonline.mmc.free2019": {
+    "title": "Malayala Manorama Calendar",
+    "package": "com.manoramaonline.mmc.free2019",
+    "description": "App name\t\nMalayala Manorama Calendar\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nShort description\nMalayalam Calendar 2026 with Panchangam, Holidays & Personal Organizer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n  \nDescription:\n \nMalayala Manorama Calendar & Organizer 2026\n \nMalayala Manorama Calendar 2026 is the best Malayalam calendar and organizer, combining the trusted traditional Manorama Calendar with a modern mobile organizer. The app displays English, Malayalam, Shakavarsham, and Hijra calendars, while allowing users to switch between Travancore and Malabar editions. Fully in Malayalam, it is your perfect companion for planning and organizing your year.\n   \nMalayala Manorama has transformed the widely trusted calendar, used in Kerala for decades, into a digital app that also acts as your personal organizer.\n   \nThe app helps y",
+    "icon": "/icons/com.manoramaonline.mmc.free2019.png"
+  },
+  "com.moadw4.wingman": {
+    "title": "Wingman",
+    "package": "com.moadw4.wingman",
+    "description": "A trusted community for singles and their closest friends. Wingman is a free dating app that allows friends and family to become matchmakers for their single friend. This is 21st century matchmaking, allowing singles to hand the reins over to those that know them best. Whether it\u2019s a friend or family member who will be writing your profile, it provides a trusted testimonial as opposed to a self-promotional bio.  \n \nAfter creating a wonderful testimonial, the Wingman will search the dating feed and view other profiles, and when they find a suitable match, they are able to approach and introduce their single friend (rather than swiping aimlessly).  Similar to how we behave in real life dating situations, Wingman mimics this on a mobile digital platform.\n\u2028As Singles, you can like and swipe ri",
+    "icon": "/icons/com.moadw4.wingman.png"
+  },
+  "com.bfcc5d02fce2.www": {
+    "title": "Rabbi Schneider",
+    "package": "com.bfcc5d02fce2.www",
+    "description": "Rabbi Schneider, a Jewish believer, is the host of the impactful TV and Radio program - Discovering The Jewish Jesus. He teaches with passion the synergetic truths between the Hebrew Bible (Old Testament) and the New Testament, bringing relevant and real-life applications for everyone. App users will experience true inspiration, authentic revelation, and the on-going encouragement to grow in their relationship with the Father through Messiah Jesus.",
+    "icon": "/icons/com.bfcc5d02fce2.www.jpg"
+  },
+  "com.reformluach": {
+    "title": "Reform Luach: The Jewish Calen",
+    "package": "com.reformluach",
+    "description": "This calendar app for the Reform Movement allows you to check the dates of upcoming Jewish holidays, look up weekly and holiday Torah portions, and access other important information. Sync events to the default calendar of your device. Includes information on Jewish calendar variations and alternatives.",
+    "icon": "/icons/com.reformluach.png"
+  },
+  "com.ionicframework.ohr558058": {
+    "title": "Ohr Reuven Torah Audio Library",
+    "package": "com.ionicframework.ohr558058",
+    "description": "The Yeshivas Ohr Reuven Torah audio library is a growing collection of shiurim from the Rabbi Rudinsky as well as other Rebbeim. \n\nThe app contains all shiurim recorded at the yeshiva and at yeshiva events, and shiurim are updated on a daily basis when yeshiva is in session. \n\nAll shiurim are provided free of charge, with the philosophy that Torah should be available anywhere anytime.",
+    "icon": "/icons/com.ionicframework.ohr558058.png"
+  },
+  "com.orrdo.app": {
+    "title": "Orrdo - Scan & Reminders",
+    "package": "com.orrdo.app",
+    "description": "All your documents in your pocket.\n\nMeet Orrdo \u2013 the smart and simple way to keep your life organized.\n\nNo more digging through drawers, folders, or emails just to find an important paper. With Orrdo, you can scan and securely store all your documents \u2013 letters, contracts, confirmations, tickets, and more \u2013 always neatly organized and just a tap away.\n\nBut Orrdo is more than just storage.\nIt\u2019s a complete system that connects everything \u2013 your scanned documents, reminders, and addresses \u2013 all working together seamlessly in one place.\nYou can attach reminders to your documents so you\u2019ll never forget a deadline, appointment, or renewal again.\n\nNeed to visit a specific place? Simply enter the address into your reminder. When the time comes, tap the address, and Orrdo opens your preferred navig",
+    "icon": "/icons/com.orrdo.app.png"
+  },
+  "com.verpsolution": {
+    "title": "Oreius",
+    "package": "com.verpsolution",
+    "description": "Oreius App is a powerful and user-friendly mobile application designed to enhance your Enterprise Resource Planning (ERP) experience. With Oreius App, you can effortlessly perform a wide range of ERP software operations on the go. Whether it's managing finances, tracking inventory, handling human resources, or optimizing supply chain processes, Oreius App provides a seamless and intuitive interface for all your ERP needs. Simplify your business operations with Oreius App.",
+    "icon": "/icons/com.verpsolution.png"
+  },
+  "com.new.afrosky": {
+    "title": "Afrosky",
+    "package": "com.new.afrosky",
+    "description": "Afrosky is a business, entertainment and Social Media Platform designed to fundamentally change the way businesses interact with customers and the public at large. Also bringing our daily activities such as Shopping, Chatting, Schooling, Banking, Calling, Downloading and Uploading on a platform to allow anyone and everyone to share their opinions, which makes for interesting conversation.",
+    "icon": "/icons/com.new.afrosky.png"
+  },
+  "com.kubo.orkay": {
+    "title": "Orkay",
+    "package": "com.kubo.orkay",
+    "description": "Whether you want to grab a coffee, go rock climbing, paint, read a book, play board games, get a massage, go out to party, or any other plan you can imagine, Orkay has you covered.\n\nWith Orkay, you can search for anything you want and find local brands in your area that offer what you're looking for.\n\nBrowse categories and contact brands directly: No middlemen!\n\nDon't miss out on any promotions, news, or events from your favorite brands by activating notifications!\n\nIf you own a brand or business, you can manage your profile directly from the app and have 24/7 control.\n\nYou can log in as a guest and enjoy the search and browse features, but to add brands to your favorites and rate your experience, register with your preferred option. Orkay is your local brand directory with simplicity, con",
+    "icon": "/icons/com.kubo.orkay.png"
+  },
+  "com.orlay": {
+    "title": "Orlay: Food Delivery at DineIn",
+    "package": "com.orlay",
+    "description": "Now order food with ORLAY in just a few taps on your smartphone and get it delivered in no time. Orlay is a user-friendly e-commerce platform where you can search nearby restaurants & stores to order the food & other items to get superfast delivery.\n\nOrlay is proudly Made in India\u2764\ufe0f\n\n\ud83c\udfc6 Top Restaurants\nOrder from your favorite and top-rated restaurants of your city & enjoy the taste you crave for, that too at Dine-in Rates.\n\n\ud83e\udd11 Offers at Dine-in Rates\nBig Offers on Dine-in rates are not less than a jackpot, order from Orlay and get food delivered at less than dine-in rates.\n\n\u26a1 Lightning-Fast Deliveries\nOur food delivery chain is designed to confirm, process and deliver your order in the best possible time.\n\n\ud83d\udc4d\ud83c\udffc No Mediator\nWe know you hate the word MEDIATOR, that\u2019s why we have removed it from",
+    "icon": "/icons/com.orlay.png"
+  },
+  "com.appfrance.ecosuivi": {
+    "title": "\u00c9coSuivi - APP-FRANCE",
+    "package": "com.appfrance.ecosuivi",
+    "description": "EcoSuivi is a professional mobile application dedicated to managing and tracking waste collection and operations.\n\nDesigned for companies in the sector, it facilitates the planning, execution, and monitoring of your operations.\n\n\ud83c\udfaf Key Features:\n\nWork Schedule Management: Plan and track your waste collection work\nSmart Calendar: View and organize your work by date and operator\nOperator Tracking: Manage your teams and assign work\nCustomer Management: Keep your customer database up to date\nTreatment Centers: Track your waste treatment partners\nVehicle Fleet: Manage your collection trucks and vehicles\nDigital Work Orders: Create and sign your work orders\nGeolocation: Access addresses and optimize navigation\nPhotos and Signatures: Document your work with photos and digital signatures\n\n\ud83d\udd27 Profess",
+    "icon": "/icons/com.appfrance.ecosuivi.png"
+  },
+  "com.ianchrist007.biblestudyai": {
+    "title": "Bible Rabbi",
+    "package": "com.ianchrist007.biblestudyai",
+    "description": "Bible Rabbi is your personal AI-powered Bible teacher designed to help you grow in faith, understand God\u2019s Word, and apply biblical wisdom in your daily life. Whether you\u2019re preparing for a sermon, studying Scripture, or seeking inspiration, Bible Rabbi brings the power of the Word to your fingertips.\n\n\u2728 Key Features:\n\n\ud83d\udd4a\ufe0f AI Bible Explanation \u2013 Ask any Bible question and get clear, spirit-filled answers with supporting verses.\n\n\ud83d\ude4f Prayer Generator \u2013 Instantly create heartfelt prayers for every need or occasion.\n\n\ud83d\udcd6 Devotional Creator \u2013 Receive daily devotionals written in a personal, reflective tone.\n\n\ud83d\udd25 Sermon Builder \u2013 Generate outlines and messages for preaching, youth services, or Bible study.\n\n\ud83d\udcac Verse Meaning & Insights \u2013 Explore the deeper meaning behind every verse with context and ref",
+    "icon": "/icons/com.ianchrist007.biblestudyai.png"
+  },
+  "com.rdmapp.android": {
+    "title": "Rabbi Daniel Malinga",
+    "package": "com.rdmapp.android",
+    "description": "The RDM App is a great way to stay informed with all the exciting news, events and revelation happening at Rabbi Daniel Malinga Ministries!\n\n\"He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given\"",
+    "icon": "/icons/com.rdmapp.android.png"
+  },
+  "com.app.rabbiaharongulkowitz": {
+    "title": "RABBI AHARON GULKOWITZ",
+    "package": "com.app.rabbiaharongulkowitz",
+    "description": "The app delivers a unique set of Divrei Torah on the Parsha and Gemara from Rabbi Aharon Gulkowitz. The app can be used to select each Parsha and select any one of hundreds of lectures.\n\nRabbi Aharon Gulkowitz is the Rav of Ahavas Shalom in Brooklyn, NY. A renowned Talmud Chacham and Maggid Shiur, he has spoken on many diverse topics including Halacha, Parsha, Daf Yomi, and Jewish thought and history. His shiurim and speeches are dynamic, and are known for giving over complicated topics in a clear and concise manner.\n\nRabbi Gulkowitz received his Semicha from Ner Yisroel and is a highly regarded Posek in Brooklyn and Florida.\n\nThis app was built by his many listeners and congregation.",
+    "icon": "/icons/com.app.rabbiaharongulkowitz.png"
+  },
+  "org.futo.voiceinput": {
+    "title": "FUTO Voice Input",
+    "package": "org.futo.voiceinput",
+    "description": "FUTO Voice Input is an application that adds voice input capabilities to your phone. It integrates with apps and keyboards that support the standard Android voice input APIs (ACTION_RECOGNIZE_SPEECH and Voice IME). All processing is done completely offline on your device, and your recordings are NEVER saved or sent anywhere. The app accesses the Internet only when you choose to download optional models. FUTO Voice Input respects your privacy.",
+    "icon": "/icons/org.futo.voiceinput.webp"
+  },
+  "com.heliogames.westland": {
+    "title": "Westland Survival: Cowboy Game",
+    "package": "com.heliogames.westland",
+    "description": "\ud83e\udd20 Unleash the Cowboy Within! \ud83e\udd20\nGet ready for an exciting journey in Westland Survival, a game set in the Wild West. Create your own story, build a strong home, and protect it from dangerous enemies. Are you prepared to explore the wild, take on challenges, and become a true cowboy legend?\n\n\ud83c\udfdc\ufe0f Discover a Huge Open World \ud83c\udfdc\ufe0f\nEach location provides unique resources but you will also meet deadly enemies there. Visit Native American Tribes to craft spiritual items and kill all enemies at the Bandits Outpost.\n\n\ud83e\udd20Build a Wild West Ranch\ud83e\udd20\nBuild a shelter that will help you to survive in the Wild West. Gather resources, craft workbenches, get rare materials and build a perfect fortress.\n\n\ud83e\udde8Craft Weapons & Armor for a Fight\ud83e\udde8\nCollect rare blueprints and craft the strongest weapons and armor. Your shooti",
+    "icon": "/icons/com.heliogames.westland.png"
+  },
+  "com.gm_shaber.dayr": {
+    "title": "Day R Survival: Last Survivor",
+    "package": "com.gm_shaber.dayr",
+    "description": "The plot of our RPG game:\nIn 1985, an unknown enemy caused the apocalypse and the followed collapse of the USSR, turning the entire country into an uncharted post-apocalyptic wasteland where survival was the utmost priority. In the state of survival following a devastating radiation outbreak, the world has been transformed into a desolate and dangerous place. Violence, hunger, and disease now reign, as the world has been overrun by both zombies and mutants, and you, one of the few survivors, must search for your family in this chaos.\n\nThe evil presence of mutant creatures lurks around every corner, preying on the remnants of humanity. These abominations possess a chilling ability for mimicry, blending seamlessly with the devastated environment. You must navigate through this wasteland, arm",
+    "icon": "/icons/com.gm_shaber.dayr.png"
+  },
+  "com.survival.last": {
+    "title": "Dawn of Zombies: Survival Game",
+    "package": "com.survival.last",
+    "description": "Experience the aftermath of a nuclear apocalypse in the king of online survival games, Dawn of Zombies: Survival. This online multiplayer game unfolds in the Last Territories, which have mysteriously survived the Conflagration. In this survival adventure, you'll be battling hunger, cultists, zombies, diseases, radiation, nuclear aberrations, and bandits from across the wasteland. Will you, a born survivor, succeed against the challenges of the post-apocalyptic world? Establish your state of survival and show the apocalypse who's boss.\n\n\nJump into our survival game:\n\u2014 Acquaint yourself with the rules of survival and master survival craft both above ground and below.\n\u2014 Excel in life after the apocalypse: sate your hunger, quench your thirst, and recover from radiation and diseases.\n\u2014 Delve i",
+    "icon": "/icons/com.survival.last.png"
+  },
+  "com.pgstudio.survival.evo.pro": {
+    "title": "Survival Island: Evolve Pro",
+    "package": "com.pgstudio.survival.evo.pro",
+    "description": "Many centuries have passed before the humanity has finally achieved its long awaited goal \u2013 we have conquered the Earth and enslaved the nature forces. But you know how they say, the bigger they are \u2013 the harder they fall. Eventually we did fall and it was hard. Environmental cataclysm exploded, covering every major city in toxic smog, the atmosphere became less and less livable with each passing day, the Earth\u2019s light started to decay. The only way of delaying the inevitable turned out to be a special emulsion obtained out of the rarest metal Pridium. The Earth Protection Committee formed a special task force in order to discover new worlds rich in Pridium. You stepped up as a volunteer and departed for the unexplored territory but as it usually happens, something went wrong. You woke up ",
+    "icon": "/icons/com.pgstudio.survival.evo.pro.png"
+  },
+  "com.khelian.fantasy.heroes.survival": {
+    "title": "Heroes Survival",
+    "package": "com.khelian.fantasy.heroes.survival",
+    "description": "\ud83d\udd25 Survive the Endless Waves!\nAssemble your squad of three mighty heroes and prepare for an epic battle against relentless waves of skeletons, orcs, golems, and other deadly creatures! Master unique abilities, upgrade your warriors, and test your survival skills in a stunning low-poly fantasy world.\n\n\u2694\ufe0f Features:\n\u2705 Three-Hero Squad: Choose from powerful warriors, mages, and archers to form the ultimate survival team.\n\u2705 Endless Enemies: Fight against waves of skeletons, orcs, golems, and more\u2014each with unique attack patterns.\n\u2705 Dynamic Upgrades: Enhance your heroes with weapons, skills, and buffs to survive longer.\n\u2705 Fast-Paced Action: Simple controls, smooth gameplay, and intense battles!\n\u2705 Low-Poly Fantasy World: Beautiful minimalist visuals with immersive combat effects.\n\u2705 Challenging Bos",
+    "icon": "/icons/com.khelian.fantasy.heroes.survival.jpg"
+  },
+  "com.grand.survival.ocean.adventure": {
+    "title": "Epic Ocean Survival",
+    "package": "com.grand.survival.ocean.adventure",
+    "description": "Grand Survival  is a  marvelous survival game   with unforgettable experience! \n\nBrave an ocean full of mysteries and danger with nothing but your wits and your raft. If you want to survive, you\u2019ll have to collect resources, upgrade, craft items and explore islands \u2013 all while fighting for your life against sharks, mutant crabs, zombies and other threats. You have not seen that in other raft games!\n\nYour first challenge is to survive in this adventure. That is easier said than done, so you will need to figure out ways to collect water and cook food.\n\nGAME FEATURES\n\n\ud83d\udee0\ufe0f  Crafting system.  Once you\u2019ve taken care of the basics on your raft, you can start exploring the ocean and islands. Search for resources to upgrade your raft, craft new items and equipment, and do whatever it takes to surviv",
+    "icon": "/icons/com.grand.survival.ocean.adventure.png"
+  },
+  "com.candyrufusgames.survivalcraft2trial": {
+    "title": "Survivalcraft 2 Day One",
+    "package": "com.candyrufusgames.survivalcraft2trial",
+    "description": "What's new in the 2.4 update:\n\n- Seasons! Survive through summer, autumn, winter and spring.\n- Community Content search box and filters added\n- Poplar trees\n- Explosion ground shake\n- Werewolves interact with block and open doors\n- Dirt slabs and stairs\n... and many more: full list of changes on our website\n\nYou are marooned on the shores of an infinite blocky world. Explore, mine resources, craft tools and weapons, make traps and grow plants. Live through all four seasons. Tailor clothes and hunt over 30 real world animals for food and resources. Build a shelter to survive cold nights and share your worlds online. Ride horses, camels or donkeys and herd cattle to protect them from predators. Blast your way through the rock with explosives. Build complex electric devices. Craft custom furn",
+    "icon": "/icons/com.candyrufusgames.survivalcraft2trial.png"
+  },
+  "com.PLNB.CoreSurvival": {
+    "title": "Core Survival",
+    "package": "com.PLNB.CoreSurvival",
+    "description": "**Core Survival is a minimalist Survival Action Roguelike, played entirely with a single finger.**\n\nPlayers must defend a fixed central core from relentless waves of incoming enemies. The central core attacks automatically, and you, the player, can also **directly control the attack** to defeat enemies. By strategically judging the timing of **weapon choices** and **upgrades**, you'll fight back against increasingly powerful threats.\n\nThe ever-changing equipment and enhancement selections lead to brand-new builds every run, challenging you with the question: \"How long can I survive this time?\"\n\n**\ud83d\udd25 Core Survival Key Features**\n\n- **Optimized for One-Handed Play:** Vertical mode support allows for light, convenient control anytime, anywhere.\n- **Short, Intense Immersion:** Quick 3\u20136 minute ",
+    "icon": "/icons/com.PLNB.CoreSurvival.png"
+  },
+  "com.ybann": {
+    "title": "Ybann",
+    "package": "com.ybann",
+    "description": "As an interest-based social media, our mission is to connect people with similar interests. Users from all over the world can share their posts to a main interest page. Users can also create their own unique interest page where they can invite their friends and other users to engage with one another about the interest. Our all-in-one platform allows users to stay updated on current topics through the newsstand, discover new musicians and listen to their songs while browsing the site, and follow businesses. Favourite posts can be saved to the clipboard for future viewing. Ybann allows new and upcoming musicians to promote their music to current and new fans, \u201cannounce\u201d and promote upcoming gigs, plan jam sessions and network with other musicians. On Ybann, businesses will be able to promote",
+    "icon": "/icons/com.ybann.png"
+  },
+  "com.netpulse.mobile.lasvegasymca": {
+    "title": "YMCA of Southern Nevada",
+    "package": "com.netpulse.mobile.lasvegasymca",
+    "description": "The YMCA of Southern Nevada app provides class schedules, social media platforms, fitness goals, and in-club challenges. Our app will also allow you to link many of the popular fitness tracking devices and fitness apps on the market.",
+    "icon": "/icons/com.netpulse.mobile.lasvegasymca.png"
+  },
+  "com.netpulse.mobile.ymcawesternnorthcarolina": {
+    "title": "YMCA of WNC",
+    "package": "com.netpulse.mobile.ymcawesternnorthcarolina",
+    "description": "Elevate your fitness routine with the app! It's your all-in-one solution to easily monitor your workouts, track progress, and achieve your fitness goals with engaging insights and motivation.\n\nThe app offers an array of features, including:\n\nWorkout Tracking\nSeamlessly capture all your workout data from gym equipment or manually enter it for a complete record.\n\nTraining Plans\nOptimize your workouts with personalized plans provided by your fitness facility or trainer.\n\nActivity Levels\nStay motivated with encouraging milestones as you progress to higher levels.\n\nFun Challenges\nChallenge yourself with time-based activities that reward you with kudos, activity points, and prizes.\n\nSchedules\nManage and book classes with ease to keep yourself on track.\n\nAnd much more!\n\nHave a comment or question",
+    "icon": "/icons/com.netpulse.mobile.ymcawesternnorthcarolina.png"
+  },
+  "com.the.yeshiva.world.news": {
+    "title": "Yeshiva World News",
+    "package": "com.the.yeshiva.world.news",
+    "description": "The premier Jewish News site for the world at large. YWN provides the most current up to date breaking Jewish news as it happens.",
+    "icon": "/icons/com.the.yeshiva.world.news.png"
+  },
+  "com.emittance.draco_is_typing": {
+    "title": "Y/n",
+    "package": "com.emittance.draco_is_typing",
+    "description": "Welcome to Y/n: fanfiction, but you\u2019re one of the characters.\n\nPlay a story to get Harry to fall in love with you, or escape a desert island with Sherlock. It\u2019s the fastest way to **live** in the fanfiction.\n\nWith Y/n you can:\n- Find 1M+ stories & fanfics by Y/n writers.\n- Write and publish your own stories.\n- Invite friends to play stories with you.",
+    "icon": "/icons/com.emittance.draco_is_typing.png"
+  },
+  "com.crosspath.edgesurvival": {
+    "title": "Edge Survival",
+    "package": "com.crosspath.edgesurvival",
+    "description": "\ud83d\udd25 NOW LIVE \ud83d\udd25\n\nWelcome to Edge Survival \ud83e\udddf\u200d\u2642\ufe0f\u2694\ufe0f\n\u26a1Slash \ud83d\udee1\ufe0fBuild \ud83c\udfafClimb\n\n\ud83e\uddb8\ud83c\udffc\u200d\u2642\ufe0f 5 epic heroes\n\u2604\ufe0f 20+ insane skills\n\ud83d\udd20 8 electric game modes\n\ud83e\udd16 10 robot pets to fight by your side\n\ud83c\udfdf\ufe0f 20+ twisted battle phases\n\ud83d\udc65 Team co-op madness\n\ud83c\udd9a PvP: Arena & Ranked\n\ud83d\udd2b 1,000+ item upgrades\n\ud83c\udf0d Available in \ud83c\uddec\ud83c\udde7 English & \ud83c\udde7\ud83c\uddf7 Portuguese\n\nYour \ud83d\udee3\ufe0f to salvation starts now!\n\ud83c\udfae Download now and join the resistance\n\nAll of this is designed for single-hand gameplay, allowing you to dive into the action anytime, anywhere...\n\n[Story]\n\nIn a world torn by chaos, five heroes rise.\n\nHighTech City once powered Earth, but after a ruthless tyrant took control, a massive energy blast shattered the planet. Storms, monsters, and wild nature consumed the land. Humanity fled to hidden Sanctuaries, but one by one, they fell.\n\nNow, a rebel he",
+    "icon": "/icons/com.crosspath.edgesurvival.png"
+  },
+  "com.sbs.diet": {
+    "title": "MacroFactor - Macro Tracker",
+    "package": "com.sbs.diet",
+    "description": "MacroFactor combines innovative coaching algorithms with proven nutrition and behavioral science to help you reach your diet goals and achieve empowering, sustainable results. \n\nMacroFactor uses a dynamic algorithm to adapt to changes in your metabolism and personalize your macro plan to keep you on track.\n\nDownload to start your 7-day trial of this premium, ad-free macro tracker app. \n\nDIET SMARTER\n\nUsing a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \n\n\u2022 The unique energy expenditure calculation detects changes in your metabolism\n\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\n\u2022 Weekly check-ins keep you on track toward your goals\n\nThe result? ",
+    "icon": "/icons/com.sbs.diet.png"
+  },
+  "com.universalstudios.orlandoresort": {
+    "title": "Universal Orlando Resort",
+    "package": "com.universalstudios.orlandoresort",
+    "description": "Whether you\u2019re planning a future visit or already in the middle of your adventure, the Universal Orlando Resort App is the ultimate must-have. Tap in to purchase tickets, access planning tools, unlock exclusive experiences, book delicious dining reservations, and even order your favorite foods on the go!\n\nGet all of this and more in the palm of your hand with the Universal Orlando Resort App.\n\nAccess Your Universal Orlando Wallet: Link your tickets and add a payment method to ensure an even more seamless visit! For a contactless experience, you can access your tickets on the go and even assign specific tickets to people within your Travel Party.\n\nOrdering Food is Deliciously Easy: With Mobile Food & Drink Ordering, you can order ahead at select locations. That means less time waiting in li",
+    "icon": "/icons/com.universalstudios.orlandoresort.png"
+  },
+  "com.goodgamestudios.bitlife.fr.francais.simulation.de.vie": {
+    "title": "BitLife Fran\u00e7ais",
+    "package": "com.goodgamestudios.bitlife.fr.francais.simulation.de.vie",
+    "description": "BitLife FR: the official French version of BitLife!\n\nWhat life will you lead in BitLife?\n\nWill you strive to make all the right decisions in order to become a model citizen shortly before you pass away? You could marry the love of your life, have children, and get a good education along the way.\n\nOr, on the contrary, will your choices terrify your parents? Why not fall into a life of crime, fall in love, go on adventures, foment riots in prison, engage in smuggling, or even cheat on your spouse? It's up to you to choose your story...\n\nFind out how an accumulation of small choices can lead to your success in the life of the game.\n\nInteractive narrative games have been around for years. However, this is the first text-based life simulator that condenses and reproduces adult life!"
+  },
+  "com.brochos.app": {
+    "title": "Brochos - Jewish Blessings",
+    "package": "com.brochos.app",
+    "description": "This is the official Brochos.com (Jewish Blessings) app for Android. Features include:\n\n* Fully searchable database of Brachos information (you can even search by voice!)\n* Browse, and explore various items: alphabetically, categorically, by popularity, and randomly.\n* Based on the ever-expanding database at Brochos.com\n* Information is available offline as well\n* Did we mention it's free?\n\nIf you think of a feature you would like to see implemented, please contact us.\n\nTo get more food added to the database, use the \"Send Request\" feature on the app's dashboard.\n\nBerachos is the hebrew-transliterated word for \u05d1\u05e8\u05db\u05d5\u05ea.",
+    "icon": "/icons/com.brochos.app.png"
+  },
+  "com.rovertown.sappbros": {
+    "title": "Sapp Bros",
+    "package": "com.rovertown.sappbros",
+    "description": "Save money at Sapp Bros stores with great coupons on gas, snacks, and more!\n\nSimply tap the orange redeem button and show your phone at purchase to redeem your coupons.\n\nSpecial, limited time, offers are only accessible via this easy to use app powered by Rovertown. Find nearby stores and get notified of nearby coupons.\n\nEasily set coupon reminders and never forget your coupons at home again.",
+    "icon": "/icons/com.rovertown.sappbros.png"
+  },
+  "com.dutchbros.loyalty": {
+    "title": "Dutch Bros",
+    "package": "com.dutchbros.loyalty",
+    "description": "The fun doesn\u2019t stop on the Dutch Bros\u00ae app! Customize your drink to your liking on Order Ahead and pay with Dutch Pass\u00ae. Earn points on every purchase towards free drinks with Dutch Rewards\u2122 and unlock exclusive app stickers! Get closer to free drinks with bonus point days and member-exclusive challenges. See you at the shop!\n\nOrder Ahead\nYour Broista is now on speed dial! Customize, pay and pick up your order at the shop using Order Ahead. Select \"Pickup Window\" for the fastest experience! Don\u2019t worry, we\u2019ll still ask about your day.\n\nDutch Rewards\u2122\nSign up for Dutch Rewards\u2122 and download the app to unlock a FREE medium drink! Earn 3 points for every dollar spent towards rewards. Look out for bonus point days and challenges to get closer to free drinks!\n\n*Offer valid for new app users on",
+    "icon": "/icons/com.dutchbros.loyalty.png"
+  },
+  "com.subsplashconsulting.s_HK9DTR": {
+    "title": "Broward Church",
+    "package": "com.subsplashconsulting.s_HK9DTR",
+    "description": "Mobile App\nWe long to be a community of all races and ages who strive to make Jesus Christ the center and the Lord of our lives. Our longing is for that. For Jesus to be center and supreme in the lives of everyone in our community, we want to invite you if you are on a journey of faith, looking for sound teaching, looking for biblical thought, and looking for how to guide the spiritual life. We want to invite you to be a part of our digital community, trying to establish the kingdom of God right here in Broward County.\n\nTV App\nWe long to be a community of all races and ages who strive to make Jesus Christ the center and the Lord of our lives. This app provides access to our latest content, allowing you to engage with our community digitally.\n\nMobile app version: 6.20.0\nTV app version: 1.3.",
+    "icon": "/icons/com.subsplashconsulting.s_HK9DTR.png"
+  },
+  "com.broochboutique.android": {
+    "title": "Brooch Boutique",
+    "package": "com.broochboutique.android",
+    "description": "Shop Brooch Boutique from the app.\nFeatures:\n- Browse all of our most recent arrivals and promotions\n- Easy ordering and checkout with credit or debit card\n- Waitlist items and purchase them when they are back in stock\n- Email notification for order fulfillment and shipping",
+    "icon": "/icons/com.broochboutique.android.png"
+  },
+  "com.manzanitamobile.smartlist": {
+    "title": "Smartlist",
+    "package": "com.manzanitamobile.smartlist",
+    "description": "Smartlist is a task app designed to answer one simple question.\nWhat should I do next.\n\nInstead of showing you every task you have ever entered, Smartlist filters and prioritizes so you only see the tasks you can actually act on right now. It uses time, location, and priority to keep your list focused and useful throughout the day.\n\nSmartlist is built for people who juggle a lot. Client work, internal projects, family, errands, and the \u201cI really cannot drop this\u201d items that keep slipping through the cracks. You finish one task, open Smartlist, and you have a clear next step.\n\nKEY IDEAS\n\nOne focused Smartlist\nSee a single prioritized list of tasks that you can work on now. As you complete items, the next most important tasks rise to the top so you keep moving without re-sorting or rethinkin",
+    "icon": "/icons/com.manzanitamobile.smartlist.png"
+  },
+  "com.ymmeli.smartlist": {
+    "title": "SmartList",
+    "package": "com.ymmeli.smartlist",
+    "description": "SmartList \u2013 Votre compagnon intelligent d'organisation !\nCapturez des id\u00e9es, documentez votre quotidien, et organisez sans effort vos activit\u00e9s.\nSmartList transforme la gestion de t\u00e2ches en une exp\u00e9rience fluide et perspicace, con\u00e7ue pour optimiser votre productivit\u00e9. Que vous g\u00e9riez des projets professionnels, planifiez votre quotidien ou documentiez vos activit\u00e9s, SmartList garde votre vie organis\u00e9e, interconnect\u00e9e et pr\u00eate \u00e0 \u00eatre optimis\u00e9e.\n\nFONCTIONNALIT\u00c9S :\n\n. Simple et intuitif : Cr\u00e9ez, \u00e9tiquetez et g\u00e9rez vos t\u00e2ches et notes sans distractions.\n\n. Documentation multim\u00e9dia : Enrichissez vos notes avec photos, vid\u00e9os, fichiers audio et pi\u00e8ces jointes.\n\n. Productivit\u00e9 cibl\u00e9e : Organisez clairement vos journ\u00e9es pour surmonter la procrastination et am\u00e9liorer votre efficacit\u00e9.\n\n. R\u00e9f\u00e9rence ",
+    "icon": "/icons/com.ymmeli.smartlist.png"
+  },
+  "com.algoritec.smartlistlauncher": {
+    "title": "SmartList Launcher",
+    "package": "com.algoritec.smartlistlauncher",
+    "description": "SmartList Launcher \u2013 Your Shortcut to Easy Shopping List Management\n\nSmartList Launcher is a simple and convenient app that gives you quick access to the SmartList website, where you can create, organize, and manage all your shopping lists. No need to open a browser manually \u2013 with SmartList Launcher, your shopping lists are just one tap away.\n\nFeatures:\n\nQuick Access: Open SmartList instantly from your device\n\nManage Shopping Lists: Add, edit, and delete shopping lists with ease\n\nStay Organized: Keep all your grocery lists in one place\n\nSimple & Lightweight: No unnecessary features, just fast access\n\nCross-Platform: Works seamlessly with the SmartList website\n\nWhy SmartList Launcher?\n\nSave time by launching SmartList directly from your home screen\n\nNever forget a shopping list again\n\nPerf",
+    "icon": "/icons/com.algoritec.smartlistlauncher.png"
+  },
+  "com.alhussain.smartlist": {
+    "title": "SmartList",
+    "package": "com.alhussain.smartlist",
+    "description": "SmartList - Your Intelligent Shopping Companion\n\nPlan, track, and analyze your shopping expenses with powerful collaboration features and data-driven insights. SmartList uses advanced data science and intelligent tree structure architecture to organize your shopping efficiently.\n\n\ud83d\udcca SMART ORGANIZATION ARCHITECTURE\n\u2022 Tree-based structure: Groups \u2192 Lists \u2192 Sub-lists \u2192 Items\n\u2022 Organize shopping by groups (family, work, projects)\n\u2022 Create multiple lists within each group\n\u2022 Break down lists into manageable sub-lists\n\u2022 Track individual items as leaves in the tree\n\n\ud83d\udca1 KEY FEATURES\n\n\u2713 Collaborative Shopping\n\u2022 Share groups with family, friends, or team members\n\u2022 Assign group admins and members\n\u2022 Manage shop owners and customers\n\u2022 Real-time synchronization across all devices\n\n\u2713 Advanced Analytics\n\u2022 Pr",
+    "icon": "/icons/com.alhussain.smartlist.png"
+  },
+  "com.weather": {
+    "title": "com.weather",
+    "package": "com.weather",
+    "icon": "/icons/com.weather.webp"
+  },
+  "com.ytheekshana.apkextractor": {
+    "title": "APK & XAPK Extractor",
+    "package": "com.ytheekshana.apkextractor",
+    "description": "APK & XAPK Extractor \u2014 Trusted by 1 Million+ Users\n\nAPK & XAPK Extractor is a powerful APK extractor and XAPK extractor for Android, trusted by over 1 million users worldwide. Extract installed apps as APK or XAPK, create secure app backups, install split APKs, and analyze detailed app information \u2014 all without root.\n\nBuilt for modern Android App Bundles, this tool fully supports split APKs and provides reliable backups and installations for today\u2019s apps.\n\n\n\ud83c\udfaf Smart APK & XAPK Extraction\nChoose the extraction format that fits your needs:\n\nSmart Mode (Recommended)\n- Automatically selects the best format for each app\n- Single APK apps \u2192 extracted as APK\n- Split APK apps \u2192 extracted as XAPK\n- Best balance of compatibility and reliability\n\nAPK Mode\n- Extract all apps as standalone APK files\n- I",
+    "icon": "/icons/com.ytheekshana.apkextractor.png"
+  },
+  "com.dastanapps.androiddevtools": {
+    "title": "Dev Tools: Decompiler,Analyzer",
+    "package": "com.dastanapps.androiddevtools",
+    "description": "\ud83d\udd13 Unlock the Full Potential of Your Android Device \ud83d\ude80\n\nAndroid Dev Tools is a powerful APK Manager, APK & XAPK Installer, and App Analyzer built for Android developers, QA testers, students, and power users who need deeper control and visibility into installed apps.\n\nIt combines APK analysis, APK extraction, APK installing, reverse engineering tools, deep link testing, device info, and bulk app management in one fast, lightweight, and privacy-focused Android utility.\n\n---\n\n\ud83d\udd0d Advanced App Inspector & App Analyzer\n\nInspect installed apps using a detailed App Inspector and App Analyzer. View:\n\n\u2022 Package name & version\n\u2022 Permissions & components\n\u2022 Activities, services & receivers\n\u2022 Install source & install date\n\u2022 System apps vs user apps\n\u2022 App size & usage details\n\nSearch, sort, and filter apps",
+    "icon": "/icons/com.dastanapps.androiddevtools.png"
+  },
+  "com.apktools.app.decompile": {
+    "title": "Decompile App : Apktool & Jadx",
+    "package": "com.apktools.app.decompile",
+    "description": "This is a tool used by programmers and security researchers.\n\nThis tool allows you to decompile and recompile on your phone without a computer.\n\nThe decompile engine is based on Apktool & Jadx.\n(Apktool M ; Apktool on Android ; Apktool M for Android)\n\nIt is very simple to use and the performance is very fast after our optimization.\n\nFeature list:\n1. Support decompile System App or User App.\n2. Support decompile APK from sdcard or network.\n3. Support view the decompiled code.\n4. Support edit the decompiled code\n5. Support recompile smali to APK.\n6.Support export App.\n\nDemo Video:\nhttps://youtu.be/AkJ5dbfbjbE\n\nWelcome to download and use.\nIf you find it useful, please give me 5 stars, thank you very much!",
+    "icon": "/icons/com.apktools.app.decompile.png"
+  },
+  "com.permithubpermissionmanager.app.android.googleplay": {
+    "title": "Permit Hub: Permission Manager",
+    "package": "com.permithubpermissionmanager.app.android.googleplay",
+    "description": "Welcome to Permit Hub\n\nPermit Hub is a smart Permission Manager app designed to help you understand, review, and manage app permissions on your device with greater clarity and confidence. With a strong focus on security, transparency, and user control, Permit Hub enables you to make informed decisions about the apps installed on your phone.\n\n\ud83d\udd10 Key Features\n\ud83d\udcca Risk Assessment for Installed Apps\n\nHigh, Medium, Low, and No Risk Classification\n\nPermit Hub carefully analyzes installed apps based on factors such as permissions requested, permission usage behavior, and publicly known security indicators. Each app is categorized to help you quickly understand potential risks:\n\nHigh Risk\n\nApps that request excessive or sensitive permissions or show potentially unsafe behavior. Permit Hub highlights ",
+    "icon": "/icons/com.permithubpermissionmanager.app.android.googleplay.png"
+  },
+  "com.mirfatif.permissionmanagerx": {
+    "title": "Permission Manager X",
+    "package": "com.mirfatif.permissionmanagerx",
+    "description": "\u25b6 Features:\nUsing eXtended Permission Manager, for each installed app, on single screen, you can:\n\u25cf View, grant or revoke manifest permissions\n\u25cf View AppOps permissions and choose one of multiple modes\n\u25cf Set your desired reference value for every changeable permission\n\nManifest permissions are those normally called permissions e.g. Storage, Camera etc. AppOps (app operations) is a robust framework Android uses at back end for access control. They provide a fine-grained control over many of the manifest permissions. Plus it provides additional controls like background execution, vibration, clipboard access etc.\n\nWith every Android release manifest permissions are becoming more dependent on AppOps. So it's fun to control both simultaneously and see how they relate to each other.\n\nWhen you re",
+    "icon": "/icons/com.mirfatif.permissionmanagerx.png"
+  },
+  "com.mobile.permissionauditor": {
+    "title": "Apps Permission Manager Pro",
+    "package": "com.mobile.permissionauditor",
+    "description": "Take back control of your device with App Permission Manager - Pro. Are you worried about apps accessing your camera, microphone, or location without your knowledge? With App Permission Manager - Pro, you can audit every app on your phone and manage security risks instantly. Our App Permission Manager - Pro provides a deep look into your mobile's safety, allowing you to identify which apps are overstepping their boundaries.\n\nWhy Choose App Permission Manager - Pro?\n\nMost users are unaware of the hidden risks in their installed apps. App Permission Manager - Pro acts as your personal security detective. Whether it\u2019s a system app or a new game, App Permission Manager - Pro scans every corner of your device to show you exactly what data is being accessed. By using App Permission Manager - Pro",
+    "icon": "/icons/com.mobile.permissionauditor.png"
+  },
+  "com.shexa.permissionmanager": {
+    "title": "App Permission Manager",
+    "package": "com.shexa.permissionmanager",
+    "description": "App Permission Manager - Master Your Mobile Security.\n\n\u2b50 Your Ultimate Mobile App Security Tool!\n\ud83d\udee1\ufe0f Are you tired of sneaky apps overstepping their boundaries? Welcome to the App Permission Manager Tool, where your phone's safety is our top priority! It's time to outsmart those apps and take control of your privacy. \n\n\ud83d\udd0d Ever wonder which apps are playing it risky with your data? With App Permission Manager Tool, you become the detective of your device. Discover which apps are asking for more than they need and learn to grant permissions wisely. \n\nWhat does the App Permission Manager Tool do?\nIt is your personal mobile security agent, giving you a detailed rundown of all permissions used by apps on your device. With a single tap, revoke unnecessary permissions and protect your data from pry",
+    "icon": "/icons/com.shexa.permissionmanager.png"
+  },
+  "com.polarisvortex.apppermissionmanager": {
+    "title": "App Permission Manager",
+    "package": "com.polarisvortex.apppermissionmanager",
+    "description": "Your Ultimate Mobile Privacy & Security Tool!\n\n\ud83d\udee1\ufe0f Tired of apps overstepping their boundaries? App Permission Manager puts you in full control of your phone\u2019s privacy. Detect risky apps, revoke unnecessary permissions, and safeguard your data with ease.\n\n\ud83d\udd0d Wondering which apps access your Camera, Microphone, Location, or other sensitive info? App Permission Manager makes you the detective of your own device. Identify apps requesting excessive permissions and manage them wisely.\n\nWhat can App Permission Manager do for you?\n\nIt\u2019s your personal mobile security assistant, providing a clear, organized view of every permission used by apps on your device. With a single tap, revoke permissions, monitor permission requests, and make smarter privacy decisions.\n\n\ud83d\udca1 Knowledge is power! With App Permis",
+    "icon": "/icons/com.polarisvortex.apppermissionmanager.png"
+  },
+  "com.macropinch.pearl": {
+    "title": "Battery",
+    "package": "com.macropinch.pearl",
+    "description": "Battery indicates the battery charge level of your device. \n\nBattery is a small, sleek and elegant app that will help you follow the current battery percentage on your Android device.\n\nWith Battery, every time and everywhere you will know if your battery is charged enough to play a game, a movie, or to browse the web.\n\nThere is no other battery app with such intuitive, neat and gorgeous interface as Battery has. The UI of Battery is as simple as possible, but tremendously practical.\n\nWe will work constantly to improve Battery, adding in the very near future new features, like useful battery information, battery tips, new widgets, and many more.\n\n\n* FEATURES\n\n\u2713 Displays battery information in percent (%)\n\u2713 Supports the lock screen widget\n\u2713 Full support for all known screen resolutions\n\u2713 Pow",
+    "icon": "/icons/com.macropinch.pearl.png"
+  },
+  "com.forecasts.noaa.live.weather": {
+    "title": "Live Weather: Daily Forecast",
+    "package": "com.forecasts.noaa.live.weather",
+    "description": "Get real-time and precise weather forecasts with Live Weather.  Stay informed with up-to-the-minute weather conditions and access the most accurate forecasts whenever you require them. Additionally, you can check the detailed 24-hour weather forecast, allowing you to stay informed about the hourly weather conditions.\n\n\u2600\ufe0f Detailed weather information\nGet detailed weather updates for today and the week ahead. Our service offers in-depth information, including daily temperatures, sunrise and sunset times, humidity levels, UV index, and wind conditions. Stay informed and ready with all the crucial weather data right at your fingertips.\n\n\u26a1 Severe Weather Alerts\nReceive timely notifications about various severe weather conditions to help you prepare in advance. Our Live Weather feature alerts yo",
+    "icon": "/icons/com.forecasts.noaa.live.weather.png"
+  },
+  "com.android.cts.weather": {
+    "title": "com.android.cts.weather",
+    "package": "com.android.cts.weather"
+  },
+  "com.aws.android": {
+    "title": "WeatherBug: Weather Forecast",
+    "package": "com.aws.android",
+    "description": "Get reliable weather forecasts with WeatherBug! With over 20 map layers, WeatherBug provides comprehensive weather insights to help keep you safe. These map layers include Storm Tracker, Radar, 1-hr Future Radar, Severe Storm Risk, Local Pressure, Alerts, and more. From real-time lightning to real-time precipitation, WeatherBug ensures you are always informed with live conditions. Stay updated with customizable weather alerts, hourly and 10-day Forecasts, and Hurricane Outlooks.\n\nTrusted since 2000, WeatherBug ensures you're always prepared with reliable local weather forecast. Join millions of users and Know Before\u00ae severe weather strikes with one of the most comprehensive weather forecast apps in the Industry.\n\n\nTHE WEATHERBUG ADVANTAGE\n\u2022 Spark\u2122 Lightning with real-time lightning alerts ",
+    "icon": "/icons/com.aws.android.png"
+  },
+  "com.riteshsahu.SMSBackupRestorePro": {
+    "title": "SMS Backup & Restore Pro",
+    "package": "com.riteshsahu.SMSBackupRestorePro",
+    "description": "SMS Backup & Restore Pro is an app that backs up (creates a copy of) SMS & MMS messages and call logs currently available on the phone. It can also restore messages and call logs from already existing backups. This is a Paid no-ads version of the ad-supported free app.\n\nNote: This app requires existing backups to be able to restore call logs and messages. It cannot recover anything without existing backups. \n\nTo view the contents of the backups, visit https://www.synctech.com.au/view-backup/\n\nFor questions or issues please visit our FAQ at: https://synctech.com.au/sms-faqs/\n--------------------------------------------------------- \n\nAPP FEATURES:\nAdditional features not in the free app:\n- Compress and encrypt backups.\n- Use WebDAV as a backup location.\n\nOTHER FEATURES:\n- Backup SMS (text) ",
+    "icon": "/icons/com.riteshsahu.SMSBackupRestorePro.png"
+  },
+  "com.allbackup": {
+    "title": "All Backup & Restore",
+    "package": "com.allbackup",
+    "description": "Protect what matters with backup and restore for your daily essentials: contacts backup, SMS backup (messages + MMS), call logs, and calendar. Choose local backup, SD card backup, or cloud backup and restore so you can recover fast when it counts. No root needed \u2014 start your easy backup today and stay ready!\n\n \u2705 Simple backup and restore\n\nPhone problems often show up after a factory reset, when switching to a new phone, or transferring data to a new device. With this free phone backup and restore app, you can backup and restore the essentials without a long process \u2014 no computer required. Make an easy backup, review what you saved, and restore it later in a few quick steps. Perfect before a factory reset, a phone upgrade, or anytime you want a safe copy of your essentials.\n\n\ud83d\udce6 What you can ",
+    "icon": "/icons/com.allbackup.png"
+  },
+  "com.simpler.backup": {
+    "title": "Easy Contacts Backup & Restore",
+    "package": "com.simpler.backup",
+    "description": "Easy Backup is the easiest and fastest way to backup, restore and transfer your contacts between mobile devices\n\n\n\u2714\ufe0f Easy Backup allows you to backup your phone\u2019s entire contacts list with a single tap, by uploading your contacts to a secured cloud to keep them safe!\n\u2714\ufe0f Export your contacts - you can easily send a backup .vcf file of your contacts book to any email address!\n\u2714\ufe0f You can also send contacts via various share services such as: WhatsApp, Gmail, Google Drive, SMS, Dropbox, Skype, Telegram and many others!\n\u2714\ufe0f Easy Backup is the easiest and the most efficient way to transfer and recover contact details of your friends and family if you lose your smartphone or switch to a new one!\n\n\n\ud83d\udca1 How it works:\n\n\ud83d\udd39 To Backup your contacts:\n\n1.\tDownload Easy Backup on your phone\n2.\tCreate an accou",
+    "icon": "/icons/com.simpler.backup.png"
+  },
+  "com.rerware.android.MyBackupPro": {
+    "title": "My Backup Pro",
+    "package": "com.rerware.android.MyBackupPro",
+    "description": "MyBackup Pro is the easiest, most reliable, and feature packed Android backup solution available.\nSupporting the most content, and the most Android devices.\n\nFind out why over 5 million people have chosen MyBackup as their secure source for a Backup Solution.\n\nFEATURES:\n- Backup and Restore using your local device or SD card\n* Backup and Restore using an On The Go (OTG) USB card\n- Cloud backup to our online secure servers, or use your Dropbox account\n- Cloud backup to your personal Google Drive Cloud account\n- Migrate information directly between 2 devices\n- Backup directly to your computer over the Internet!\n- Schedule multiple different backups to multiple locations\n- Restore to an existing or new Android device\n- View the backup in detail without having to restore\n- All Android 1.6+ dev",
+    "icon": "/icons/com.rerware.android.MyBackupPro.png"
+  },
+  "com.kait.android.weather": {
+    "title": "KAIT Region 8 Weather",
+    "package": "com.kait.android.weather",
+    "description": "The KAIT Mobile Weather App includes:\n\n   * Access to station content specifically for our mobile users\n   * 250 meter radar, the highest resolution available\n   * Future radar to see where severe weather is headed\n   * High resolution satellite cloud imagery\n   * Current weather updated multiple times per hour\n   * Daily and Hourly forecasts updated hourly from our computer models\n   * Ability to add and save your favorite locations\n   * A fully integrated GPS for current location awareness\n   * Severe weather alerts from the National Weather Service\n   * Opt-in push alerts to keep you safe in severe weather",
+    "icon": "/icons/com.kait.android.weather.jpg"
+  },
+  "com.krcr.android.weather": {
+    "title": "KRCR Weather",
+    "package": "com.krcr.android.weather",
+    "description": "KRCR NEWS Channel 7 is proud to announce a full featured weather app for Android.\n\nFeatures\n\n   \u2022 Access to station content specifically for our mobile users\n   \u2022 250 meter radar, the highest resolution available\n   \u2022 Future radar to see where severe weather is headed\n   \u2022 High resolution satellite cloud imagery\n   \u2022 Current weather updated multiple times per hour\n   \u2022 Daily and Hourly forecasts updated hourly from our computer models\n   \u2022 Ability to add and save your favorite locations\n   \u2022 A fully integrated GPS for current location awareness\n   \u2022 Severe weather alerts from the National Weather Service\n   \u2022 Opt-in push alerts to keep you safe in severe weather",
+    "icon": "/icons/com.krcr.android.weather.jpg"
+  },
+  "com.katu.wx": {
+    "title": "KATU Weather",
+    "package": "com.katu.wx",
+    "description": "katu.com brings you an interactive weather app, putting the most precise, up to date and accurate information in your hand. - Local and national radar - Satellite cloud imagery - Current conditions based on location - Customizable weather experience based on zip code - Hourly forecast - Current temperatures - Instant severe weather alerting",
+    "icon": "/icons/com.katu.wx.png"
+  },
+  "com.hy.xil_l5": {
+    "title": "LIMITLESS 5",
+    "package": "com.hy.xil_l5",
+    "description": "This application contains aerial photograph, V sign, face tracking. And these function of preview, take  photos , picture recording can come true by LIMITLESS UAV. You can also through the classic, body feeling or rocker model to control the UAV.",
+    "icon": "/icons/com.hy.xil_l5.png"
+  },
+  "com.limitless.cashier": {
+    "title": "Limitless Cashier",
+    "package": "com.limitless.cashier",
+    "description": "Limitless Cashier is a smart and efficient application powered by Limitless Parking, designed to streamline cashier operations in ANPR-based parking systems.\n\nWhen a vehicle approaches the exit lane, the system's camera captures the license plate and sends the entry and exit times to the app. The app instantly calculates the total fee and displays it to the cashier. It works seamlessly with Android devices that support or include embedded receipt printers, allowing instant ticket printing.\n\nKey Features:\nANPR Integration: Automatically receives plate numbers and calculates amounts from ANPR cameras.\n\nPrinter Support: Supports embedded receipt printers for quick and easy bill printing.\n\nUser Accounts: Limitless provides cashier login credentials for secure access.\n\nShift Management: Cashier",
+    "icon": "/icons/com.limitless.cashier.png"
+  },
+  "com.alittlebitofchill.limitless": {
+    "title": "Limitless Guided Visualization",
+    "package": "com.alittlebitofchill.limitless",
+    "description": "Anxiety and stress spirals can keep our mind stuck in the same cycles. Limitless is a guided mindset companion designed to help you shift your internal dialogue and build new patterns for mental health.\n\nThese neuroscience-informed experiences blend guided imagery, mindfulness, meditation, breathwork, and somatic awareness to help reshape thought patterns and create a calm, more supportive inner voice.\n\nHOW LIMITLESS HELPS\nLimitless Guided Visualizations teaches you to rise above repeating thoughts and develop a new relationship with your mind.\n\nInstead of getting pulled into worry, self-criticism, or overwhelm, the sessions guide you toward calm, mindfulness, and mental clarity while helping you recognize and shift unhelpful thought patterns.\n\nOver time, this practice strengthens metacogn",
+    "icon": "/icons/com.alittlebitofchill.limitless.jpg"
+  },
+  "com.ridgeline_apps.limitless_outdoors_INC": {
+    "title": "Limitless Outdoors",
+    "package": "com.ridgeline_apps.limitless_outdoors_INC",
+    "description": "With the Limitless Outdoors app, you have access to loads of great tools and information to help you as you begin your walk with the Lord. Whether you are beginning your first mile as a believer or you are a seasoned believer, this app can provide value in numerous ways.\n\nThe app's many features include:\n\n- \"Verse of the Day\" notification\n- Digital interactive First Mile\n- A devotionals section\n- Bible with four different available versions\n- Optional Bible Plan\n- Many other digital forms\n- Access to Limitless Outdoors hunting and discipleship videos\n- A giving option\n- Calendar to help you stay up to date\n- And more\n\nIf you have questions, there is an option to directly email us from the app with any questions or concerns you may have. Please let us know how we can help!",
+    "icon": "/icons/com.ridgeline_apps.limitless_outdoors_INC.png"
+  },
+  "com.nexalent.limitless": {
+    "title": "LIMITLESS",
+    "package": "com.nexalent.limitless",
+    "description": "Book, buy, perform routines, save your brands, check histories and much more from your trusted app.",
+    "icon": "/icons/com.nexalent.limitless.png"
+  },
+  "app.smartfox.lab.limitless.ai.chatgpt.gpt4": {
+    "title": "Limitless AI\u30fbChatBot Assistant",
+    "package": "app.smartfox.lab.limitless.ai.chatgpt.gpt4",
+    "description": "\ud83c\udf1f Are you looking for an AI chat bot and voice chat assistant? Or maybe you\u2019re looking for an AI essay writer and helper (or story writer) or anybody you can ask questions you want? Welcome to Limitless: The Ultimate Personal AI Virtual Assistant for Your Daily Life! Here, you will find much more than just a chat AI bot writing assistant powered by Chat GPT 4 (GPT 4.5), by Gemini and by DALL\u00b7E, voice based on Artificial Intelligence algorithms and many other valuable features\ud83c\udf1f\u00a0\n\nStruggling with daily tasks, academic pursuits, professional achievements, etc.? Have all them tackled with this 24/7 intelligent personal assistant powered by Chat GPT 4 (GPT 4.5) and by Gemini and DALL\u00b7E.\ud83e\udd16\n\nGive up loneliness. Have a roleplay chat every time you want. Artificial Intelligence can become the hero o",
+    "icon": "/icons/app.smartfox.lab.limitless.ai.chatgpt.gpt4.png"
+  },
+  "com.contacts.backup.sim.phone.number.transfer.restore": {
+    "title": "Contacts Backup - Sync Restore",
+    "package": "com.contacts.backup.sim.phone.number.transfer.restore",
+    "description": "Contact Backup App is the ultimate solution for saving and protecting your valuable phone contacts. With a simple and user-friendly interface, you can easily backup all of your contacts with just one tap. Effortlessly, Quickly, and Securely Backup and Transfer your Contacts with Contact Backup.\n\nOur app also includes advanced features to help you manage and organize your contacts, such as search, merge duplicates, and view contact details.\n\nKey Features of Contact Backup\n\n\u2192 Backup Contacts: With Contact Backup, you can take a backup of your contacts in various formats, including .xls, .vcf, vCards, and .csv files. Additionally, our app provides secure 256-bit encryption for enhanced security.\n\n\u2192 Easy Restore: Whether you have an iOS or Android device, you can easily restore your backup con",
+    "icon": "/icons/com.contacts.backup.sim.phone.number.transfer.restore.png"
+  },
+  "com.dktlabs.contacts": {
+    "title": "Transfer Contacts",
+    "package": "com.dktlabs.contacts",
+    "description": "Switching phones? Transfer Contacts lets you move all your contacts from one device to another in seconds \u2014 whether you're going from Android to iPhone, iPhone to Android, or any combination. No cables, no cloud accounts, no hassle.\n\nHOW IT WORKS\n\n1. Open the app on your old phone and tap \"Send Contacts\"\n2. Select which contacts to transfer \u2014 or send them all\n3. A 6-digit PIN appears on screen\n4. Open the app on your new phone and tap \"Receive Contacts\"\n5. Enter the PIN \u2014 done! Your contacts are saved instantly\n\nIt's that simple. No sign-up, no email, no passwords.\n\nWHY USERS LOVE TRANSFER CONTACTS\n\nWorks across platforms \u2014 Android to iPhone, iPhone to Android, or same platform transfers. No account required \u2014 just install, open, and transfer. Transfers all contact details \u2014 names, phone n",
+    "icon": "/icons/com.dktlabs.contacts.png"
+  },
+  "com.call.name.anouncer.contacts.backupnumbers.messagesrecovery": {
+    "title": "All Contacts Backup & Restore",
+    "package": "com.call.name.anouncer.contacts.backupnumbers.messagesrecovery",
+    "description": "\u2728 Whether you want to know who is calling without touching your phone, recover deleted WA messages \ud83d\udcac, backup IG chats \ud83d\udcf2, or save all your contacts securely \ud83d\udcc2 \u2014 this Caller Name Announcer \ud83d\udcde, Contacts Backup \ud83d\udcc2, and Deleted Messages Recovery \ud83d\udcac app has everything you need.\n\n\ud83d\udcc2 Contacts Backup & Restore\n\ud83d\udd10 Easily backup contacts to Google Drive \u2601\ufe0f and keep your phonebook safe forever.\n\ud83d\udcf1 Works as a secure contacts backup and restore tool that saves all your numbers in a single file.\n\ud83d\udce4 Whether you need to restore deleted contacts, transfer contacts to a new phone \ud83d\udcf2, or create a google contacts backup \u2601\ufe0f, our app makes it fast and reliable.\n\u2705 With just one tap, you can perform a backup all contacts to Google Drive safely and restore them whenever you need.\n\n\ud83d\udcde Caller Name Announcer\n\ud83d\udd0a Our caller name ",
+    "icon": "/icons/com.call.name.anouncer.contacts.backupnumbers.messagesrecovery.png"
+  },
+  "com.riteshsahu.SMSBackupRestore": {
+    "title": "SMS Backup & Restore",
+    "package": "com.riteshsahu.SMSBackupRestore",
+    "description": "SMS Backup & Restore is an app that backs up (creates a copy of) SMS & MMS messages and call logs currently available on the phone. It can also restore messages and call logs from already existing backups.\n\nNote: This app requires existing backups to be able to restore call logs and messages. It cannot recover anything without existing backups.\n\nTo view the contents of the backups, visit https://www.synctech.com.au/view-backup/\n\nFor questions or issues please visit our FAQ at: https://synctech.com.au/sms-faqs/\n \n\nAPP FEATURES:\n- Backup SMS (text) messages, MMS and call logs in XML format.\n- Local device backup with options to automatically upload to Google Drive, Dropbox and OneDrive.\n- Choose a recurring scheduled time to automatically backup.\n- Option to select which conversations to bac",
+    "icon": "/icons/com.riteshsahu.SMSBackupRestore.png"
+  },
+  "com.gilapps.smsshare2": {
+    "title": "SMS Backup, Print & Restore",
+    "package": "com.gilapps.smsshare2",
+    "description": "Complete SMS/MMS Backup & Restore utility. Securely back up your message history to printable PDF, Word, Excel, CSV, JPG, or HTML formats. Easily print, share, or fully restore messages directly back to your device\n\nA MUST-HAVE FOR EVERY SMARTPHONE!!!\n\n\n\nSo, What can you do with \"SMS Backup, Print & Restore\":\n\u2709\ufe0f Backup & Restore your messages - Just send your messages to your email or leave the files on your device - you can restore all the messages on the same device or another device.\n\u2709\ufe0f Automatic Scheduled Backup to the cloud Upload you chats to Google Drive, Dropbox or OneDrive\n\u2709\ufe0f Print your SMS and MMS Backups! - Perfect for court or for archiving impotent messages with loved ones. Print directly from your phone or share the backup to your email, open it on the desktop, and print.\n\n\nS",
+    "icon": "/icons/com.gilapps.smsshare2.png"
+  },
+  "com.microsoft.android.smsorganizer": {
+    "title": "SMS Organizer",
+    "package": "com.microsoft.android.smsorganizer",
+    "description": "SMS Organizer, a Microsoft Garage project, is the smartest of all SMS apps. It automatically organizes your inbox, sets reminders and keeps track of them, all this magic happens on your device safely, without any of your personal data being uploaded anywhere online. Never miss anything important\u2014switch to SMS Organizer as your default SMS app to experience it now! \n \nWhy use SMS Organizer: \n \n\nAutomatic reminders\nNever miss your appointments! SMS Organizer gives you automatic reminders for upcoming trains, flights, buses, movies, hotel reservations, doctor appointments and even for bill payments. Also, create a custom reminder to help you remember anything you want.\n \nSmart assist for tasks\nCheck Flight status, do web check-in, pay bill, book a cab\u2014all of this and more\u2014directly through rem",
+    "icon": "/icons/com.microsoft.android.smsorganizer.webp"
+  },
+  "com.smartpositive.sms_exporter": {
+    "title": "SMS Exporter",
+    "package": "com.smartpositive.sms_exporter",
+    "description": "SMS Exporter lets you easily transfer your SMS and MMS conversations to a computer or another phone.\n\n\ud83d\udcdd How It Works\n1\ufe0f\u20e3 Select one conversation or all your messages\n2\ufe0f\u20e3 Tap the Export button and choose your preferred file format: TXT, CSV, PDF, or XLSX\n3\ufe0f\u20e3  Transfer the file via email, cloud storage services (GDrive, Dropbox, etc..) , or even messaging app\n\n\ud83d\udd12 Privacy First\nYour data stays yours \u2014 SMS Exporter never collects or stores any of your messages. Everything remains private and secure on your device.",
+    "icon": "/icons/com.smartpositive.sms_exporter.png"
+  },
+  "com.touchfield.appbackuprestore": {
+    "title": "Apps Backup and Restore",
+    "package": "com.touchfield.appbackuprestore",
+    "description": "Now save data charges and time by backup and restore Apps .\nApps Backup and Restore is used to backup your installed apps to your internal/SD card and restore backup-ed apps. \nNote: This app don't backup data related to apps.\n\nFeatures of the App: \n\n \u2192 Backup apps to Internal/SD card\n \u2192 Reinstall apps from Internal/SD card\n \u2192 Auto backup app on new app install\n \u2192 Backup system apps\n \u2192 Uninstall installed app\n \u2192 Launch installed app\n \u2192 share apk with your friends easily\n \u2192 Share app link\n \u2192 More options on long click on app list\n \n\nMore features will be added to the app as per your suggestions and feedback.\n\njoin us for updates\nhttps://www.facebook.com/touchfield",
+    "icon": "/icons/com.touchfield.appbackuprestore.png"
+  },
+  "md.obsidian": {
+    "title": "Obsidian",
+    "package": "md.obsidian",
+    "description": "Obsidian is a powerful knowledge base that works on top of\na local folder of plain text Markdown files.\n\nIt is a second brain, for you, forever. Now available on the go for Android!\n\nFeatures include:\n- Customizable toolbar\n- Pull down quick actions\n- Graph view\n- Share to and from Obsidian\n- Community plugins\n- Themes\n- Sidebar pinning for tablet",
+    "icon": "/icons/md.obsidian.png"
+  },
+  "com.azhard.taskforge": {
+    "title": "TaskForge - Obsidian Tasks",
+    "package": "com.azhard.taskforge",
+    "description": "TaskForge is a DOCUMENT & FILE MANAGEMENT app for Markdown task files used with Obsidian. Its core purpose is to LOCATE, READ, EDIT, and ORGANIZE Markdown (.md) task files across user-selected folders in shared storage (internal, SD card, or sync folders). To do this, TaskForge requires Android's special \"All files access\" (MANAGE_EXTERNAL_STORAGE). Without this permission, the app cannot perform its core file-management functions.\n\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\nFILE SYSTEM REQUIREMENTS\n\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\n\nTaskForge functions as a specialized FILE MANAGER for your Markdown task files. The app must:\n\u2022 Read files in user-selected folders (outside app storage)\n\u2022 Process large, nested folders with many Markdown files\n\u2022 Write updates back to ORIGINAL files when you create, edit, or complete tasks\n",
+    "icon": "/icons/com.azhard.taskforge.png"
+  },
+  "com.scanworks.obsi": {
+    "title": "VaultMate: Tasks for Obsidian",
+    "package": "com.scanworks.obsi",
+    "description": "\ud83d\udce3 WE ARE REBRANDING! Obsi is now VaultMate. New name, fresh look, same great features. Update now to continue managing your tasks effortlessly.\n\n\ud83d\udcd8 VaultMate \u2014 Tasks & Widgets for Obsidian Take your Markdown to-dos anywhere with VaultMate, the privacy-first task manager built for Obsidian users.\n\n\ud83d\udd12 No Cloud. No Accounts. Total Privacy. VaultMate is Open Source and works 100% offline. It reads only your local vault. Your notes stay fully in your control and never leave your device.\n\n\u2728 KEY FEATURES\n\n\u2705 Home Screen Widgets \u2013 View your to-do list and add tasks instantly without opening the app. \n\n\u2705 Automatic Vault Scanning \u2013 No complex setup. VaultMate finds your Obsidian folder automatically. \n\n\u2705 Recurring Tasks \u2013 Create tasks that repeat daily, weekly, or on custom schedules.\n\n \u2705 Tags Support ",
+    "icon": "/icons/com.scanworks.obsi.png"
   }
 }
