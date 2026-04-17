@@ -20065,5 +20065,798 @@
     "package": "de.congstar.ja",
     "description": "With the free ja! mobil app, you quickly and easily have full control over your usage and data at a glance.\nThe ja! mobil app offers the following features:\nFor prepaid and contract plans\n- View usage\n- View data, SMS, and minutes\n- Manage plans and options\n- Change plans, book, or cancel options\n- View and top up prepaid credit\n- Manage SIM and eSIM plans\n- Block/swap SIM cards, activate eSIM, view PIN and PUK\n- Change personal data\n- Change address or authentication PIN\n\nWe are continuously developing our ja! mobil app and welcome your reviews and constructive feedback.\n\nYou can find our app's accessibility statement at: https://www.jamobil.de/barrierefreiheit\n\nWe hope you enjoy our app!\nYour App Team",
     "icon": "/icons/de.congstar.ja.png"
+  },
+  "com.signal.app": {
+    "title": "com.signal.app",
+    "package": "com.signal.app"
+  },
+  "com.whatsapp.app": {
+    "title": "com.whatsapp.app",
+    "package": "com.whatsapp.app"
+  },
+  "com.komorebi.SimpleCalendar": {
+    "title": "Simple Calendar - easy planner",
+    "package": "com.komorebi.SimpleCalendar",
+    "description": "Keep your time management simple with Simple Calendar app: a free organizer for all your activities: family, work, studies, holidays and important dates. \n\nSimple as ABC: it takes one tap to open a daily planner, choose time and schedule a new event or task for any day. If necessary you can also keep notes and set an alarm or appointment reminder in order not to miss anything.\n\nSimple Calendar is also an easy to do list app. All activities are accurately organized in your timetable with color coding. So it takes no effort to understand when to work, study, spend time with loved ones, play sports.\n\nSchedule planner for everything\n\u2022 work schedule to keep you productive\n\u2022 appointment calendar for business events\n\u2022 study planner for school and university\n\u2022 chore checklist for home stuff\n\u2022 holi",
+    "icon": "/icons/com.komorebi.SimpleCalendar.png"
+  },
+  "com.appgenix.bizcal": {
+    "title": "Business Calendar 2 Planner",
+    "package": "com.appgenix.bizcal",
+    "description": "Business Calendar 2 has everything you need in a calendar app: It provides an excellent overview of your appointments, it\u2019s easy to use and it gives you powerful tools for planning your events and tasks.\n\n\ud83c\udfaf Calendar Planner and Task Organizer\n\u25aa manage your appointments and tasks with just one app\n\u25aa focus on work, family or private events by quickly hiding the other ones\n\u25aa sync with Google Calendar, Outlook Calendar, Exchange, CalDAV etc.\n\u25aa use unique tools to swiftly update your work calendar as well as your private appointments\n\u25aa share your schedule with colleagues, friends and family\n\u25aa easily add birthdays and public holidays to your agenda\n\n\ud83d\ude80 Your Quick Schedule Planner\n\u25aa create events faster with smart suggestions for title, location and attendees\n\u25aa add appointments to your schedule wi",
+    "icon": "/icons/com.appgenix.bizcal.png"
+  },
+  "com.simplemobiletools.calendar": {
+    "title": "Simple Calendar",
+    "package": "com.simplemobiletools.calendar",
+    "description": "Simple Calendar 2026 is a highly customizable, offline monthly calendar app for Android. Have an agenda planner in your pocket, designed to do exactly what a personal tiny schedule planner should do in 2026. No complicated features and unnecessary permissions! It supports syncing events via Google Calendar or other calendars supporting CalDAV protocol.\n\nTake Control of Your Time\n\nWhether you are looking for a work calendar for a business, a day planner, an appointment scheduler, or organization and scheduling of single and recurring events like birthdays, anniversaries, appointment reminders, or anything else, Simple Calendar 2026 makes it easy to stay organized. The calendar widget has an incredible variety of customization options: customize event reminders, notification appearance, tiny",
+    "icon": "/icons/com.simplemobiletools.calendar.png"
+  },
+  "com.motion.cues.sickness": {
+    "title": "Motion Cues - Stop CarSickness",
+    "package": "com.motion.cues.sickness",
+    "description": "Motion Cues \u2013 Stop Carsickness \ud83d\ude97\ud83d\udca8\n\nPrevent Motion Sickness & Enjoy a Comfortable Journey!\n\nDo you feel nauseous, dizzy, or uncomfortable when reading, watching movies, or using your phone while traveling? Motion Cues is the solution! Using your device\u2019s motion sensors, it synchronizes what you see with what you feel, helping you avoid motion sickness in cars, buses, trains, or airplanes.\n\n\ud83d\ude97 No More Travel Sickness!\n\nMotion Cues helps your brain reconcile movement differences between your inner ear and eyes, reducing nausea, dizziness, and fatigue during travel. Whether you\u2019re in a car, bus, train, or airplane, stay comfortable and motion-sickness-free!\n\n\ud83c\udfa5 Keep Enjoying Your Screen\n\n\u2714 Read books, watch movies, or play games without discomfort.\n\u2714 A subtle dynamic motion indicator keeps your ",
+    "icon": "/icons/com.motion.cues.sickness.png"
+  },
+  "com.motionics.ThreadKing": {
+    "title": "ThreadKing",
+    "package": "com.motionics.ThreadKing",
+    "description": "ThreadKing is the ultimate reference and calculator for threads. \n\nIt contains all the information for Metric and UN Taps, Fine/Course Threads, Drill/Tap sizes, Pipe Tap sizes, and Thread Dimension. \n\nThreadKing is also a handy calculator for finding the right drill size in Cutting Tap and Forming Tap based on Thread Percentage. Besides, it calculates RPM and feed rates in Cutting Tap for different materials\n\nFEATURES:\n- Drill/Tap Chart available in drill size standards: Fractional, Letter, Wire Gauge and Metric\n- Course and Fine Thread\n- Pipe Thread Chart\n- Cutting Tap Calculator based on Thread Percentage\n- Forming Tap Calculator based on Thread Percentage\n- Cut Tapping RPM and Feed Rate Calculator\n- Formular and Equations for Reference",
+    "icon": "/icons/com.motionics.ThreadKing.png"
+  },
+  "com.motionics.dialreading": {
+    "title": "DialReading",
+    "package": "com.motionics.dialreading",
+    "description": "DialReading is developed for users to wirelessly connect and read from Motionics WiMER (wireless data transmitter for Mitutoyo, Sylvac, Fowler instruments) and BlueDial (Bluetooth dial indicator) on an Android device.\n\nDialReading supports continuous recording of incoming data stream and single capturing with button tapping. \n\nRecorded data can be exported in a CSV file via Email.\n\nPlease contact Motionics for hardware information.",
+    "icon": "/icons/com.motionics.dialreading.png"
+  },
+  "com.chrystianvieyra.physicstoolboxsuite": {
+    "title": "Physics Toolbox Sensor Suite",
+    "package": "com.chrystianvieyra.physicstoolboxsuite",
+    "description": "Turn your phone into a powerful sensor lab. This app uses your smartphone\u2019s built-in sensors to collect, display, record, and export CSV data for analysis. Ideal for physics, engineering, and STEM experiments in classrooms, labs, and fieldwork.\n\nVisit www.vieyrasoftware.net to explore case studies and lesson plans for educators and researchers.\n\n\u2e3b\n\nKINEMATICS\n\t\u2022\tG-Force Meter: Ratio of Fn/Fg (x, y, z, and/or total)\n\t\u2022\tLinear Accelerometer: Acceleration in x, y, z axes\n\t\u2022\tGyroscope: Radial velocity (x, y, z)\n\t\u2022\tInclinometer: Azimuth, roll, pitch\n\t\u2022\tProtractor: Angle from vertical or horizontal\n\nACOUSTICS\n\t\u2022\tSound Meter: Sound intensity\n\t\u2022\tTone Detector: Frequency and musical tone\n\t\u2022\tTone Generator: Sound frequency output\n\t\u2022\tOscilloscope: Wave shape and amplitude\n\t\u2022\tSpectrum Analyzer: Graphi",
+    "icon": "/icons/com.chrystianvieyra.physicstoolboxsuite.png"
+  },
+  "com.motionics.multigage": {
+    "title": "MultiGage Reader",
+    "package": "com.motionics.multigage",
+    "description": "MultiGage Reader App is able to connect up to 8 units of Motionics Bluetooth measurement devices and receive readings from all of them at the same time. Each device will be assigned with an individual panel to display measurement reading, max, min, and TIR. User can disconnect a device or add more devices without interference in other devices and measurement undergoing. \n\nMultiGage Reader provides 2 options for data recording: continuous recording at up to 10 samples/sec or one by one capturing with button tapping. Recorded data can be plotted in a user interaction enabled graph or saved in local database for exporting in CSV file via e-mail, cloud drive, or flash drive  for further assessment.\n\nTo better visualize sensor readings, a probe meter is embedded. Users can freely set the range ",
+    "icon": "/icons/com.motionics.multigage.png"
+  },
+  "com.fidelitybank425301.mobile": {
+    "title": "Fidelity Bank Mobile App",
+    "package": "com.fidelitybank425301.mobile",
+    "description": "Stay connected and in control of your accounts wherever you are with the Fidelity Bank mobile app. Available to Fidelity Bank customers, our mobile banking app allows you to monitor all of your accounts, review transactions, deposit paper checks, view balances, pay bills, make transfers and find the nearest Fidelity Bank office. Send and receive money with just a few taps with Zelle\u00ae. Enjoy convenient and secure access with passcode, touch ID and face ID technology. Bank when and where you want with the Fidelity Bank mobile app; one more way we empower your financial life and keep you moving Bravely Onward.\n\nAvailable features include: \nMobile check deposit - Deposit paper checks directly into your account using your smartphone camera.\n\nAccount monitoring - Check your latest account balanc",
+    "icon": "/icons/com.fidelitybank425301.mobile.png"
+  },
+  "com.fidelity.hcg.health": {
+    "title": "Fidelity Health\u00ae",
+    "package": "com.fidelity.hcg.health",
+    "description": "Easily manage your health care benefit plans and expenses.\n\nThe Fidelity Health\u00ae app was built to help you minimize the time, cost, and hassle of managing your health care needs. It can help you manage your benefit plans and accounts if you\u2019re enrolled in an employer-sponsored health benefits plan through Fidelity or if you have a Fidelity Health Savings Account (HSA). With Fidelity Health, you can:\n\nAccess key info about your coverage and benefits\n\u00b7 See all your health plan coverage and benefit details\n\u00b7 Save and share pictures of your health benefit, prescription, and vaccination ID cards for easy access anywhere\n\nManage your health care expenses\n\u00b7 See your Fidelity HSA balances and transaction history, or balances for certain flexible spending accounts (FSAs)\n\u00b7 Reimburse yourself from y",
+    "icon": "/icons/com.fidelity.hcg.health.png"
+  },
+  "com.fidelity.wi.activity": {
+    "title": "NetBenefits - Fidelity at Work",
+    "package": "com.fidelity.wi.activity",
+    "description": "Conveniently manage your workplace benefits from Fidelity\u2014from sending us documents to accessing your retirement savings, stock options, health insurance, HSA and more.\n\nEasily view retirement savings and other benefits  \nAccount balances, investments, recent contributions, and account performance \nManage your HSA expenses and investments \nMonitor other accounts, including 529 plans and brokerage accounts\nQuickly find health insurance information, such as who\u2019s covered under your plan, provider phone numbers, and your group number\nAccess recent payroll statements\n\nPersonalize planning\nSee how much you may need in retirement and get your Fidelity Retirement Score SM\nFinancial Wellness next steps so you can confidently plan and take action\n\nTake control of your total well being  \nChange your",
+    "icon": "/icons/com.fidelity.wi.activity.png"
+  },
+  "com.interswitchng.www": {
+    "title": "Fidelity Online Banking",
+    "package": "com.interswitchng.www",
+    "description": "Welcome to the banking that suits your lifestyle!\n \nThe upgraded Fidelity Online Banking App lets you stay in control of your finances. Manage your transactions, accounts and cards securely and easily anywhere. The App allows you perform transactions and manage your bank account(s) from your mobile device. It is secure and very simple to use.\n \nConduct your banking transactions while on the move with Fidelity Online Banking app and enjoy a world of convenient banking anytime, anywhere. Our redesigned app puts all the services you need at your fingertips, enabling you do the following:\n \n\u2022 Transfer to accounts in any Bank in Nigeria\n\u2022 Transfer to your other accounts in exactly one click, no token required\n\u2022 Biometric/Fingerprint Authentication for easier login\n\u2022 View all your accounts (Curr",
+    "icon": "/icons/com.interswitchng.www.jpg"
+  },
+  "com.aircanada": {
+    "title": "Air Canada + Aeroplan",
+    "package": "com.aircanada",
+    "description": "With the Air Canada + Aeroplan app, seamlessly book flights, manage travel and get the most of your Aeroplan loyalty benefits - all in one place.\n\n\nEVEN BETTER TOGETHER\nSign in with Aeroplan to unlock access to loyalty program benefits. Check your points balance, track Elite status progress, view recent transactions, and access popular features like the Aeroplan eStore, car rentals, and hotel bookings \u2014 all from the app.\n\nBOOK YOUR WAY\nBook your next trip using cash, redeem Aeroplan points, or use a combination of Points + Cash. You can even cover taxes, fees, and charges entirely with points for a seamless booking experience.\n\nREAL-TIME UPDATES WITH LIVE ACTIVITIES\nStay informed throughout your trip with real-time updates, now available on your Lock Screen and Dynamic Island. Whether it's",
+    "icon": "/icons/com.aircanada.png"
+  },
+  "com.delta.mobile.android": {
+    "title": "Fly Delta",
+    "package": "com.delta.mobile.android",
+    "description": "Welcome to Fly Delta, Delta\u2019s award-winning Android app that makes travel easier than ever before. \n\nPlanning Your Trip\n\u2022 Shop and book domestic and international flights\n\u2022 Track and pay for upgrades using your SkyMiles\u00ae\n\u2022 Manage travel preferences and payment methods\n\u2022 Save a companion to your profile\n\u2022 Need Help? Chat with one of our agents via Live Chat messaging\nUse at the Airport\n\u2022 \u201dToday\u201d has everything you need for your day of travel \n\u2022 Check in to your flight and receive your digital boarding pass\n\u2022 \u201dNotifications\u201d stores your flight updates and gate change notifications\n\u2022 Use Airport Maps to navigate through the airport\n\u2022 View your place on the upgrade/standby list\n\u2022 Scan your passport during check-in\n\u2022 View, change or upgrade your seat\n\u2022 Reserve Preferred Seats in the bulkhead or",
+    "icon": "/icons/com.delta.mobile.android.png"
+  },
+  "com.united.mobile.android": {
+    "title": "United Airlines",
+    "package": "com.united.mobile.android",
+    "description": "Meet the United app\n\nFrom planning, to booking, to day of travel, we\u2019ve got you covered.\u202f\u202f\u00a0\nOn our app you can:\u202f\u00a0\n\u2022 look for flights across our global network and book them easily\u00a0\n\u2022 check in for your flight and get your boarding pass before you get to the airport\u00a0\n\u2022 change seats, or flights, if something better becomes available\u00a0\n\u2022 make sure you\u2019re prepared for your trip with our Travel-Ready Center\u00a0\n\u2022 add your bags, drop them at bag drop shortcut and track them along your journey\u00a0\n\u2022 get real-time updates on boarding progression so you know when it's your turn to board\u00a0\n\u2022 view flight updates, transfer time and gate info all in one place to feel prepared for your connection\u00a0\n\u2022 see ongoing updates in your notifications tray and lock screen \u00a0\n\u2022 use our built-in Terminal guide and airport map",
+    "icon": "/icons/com.united.mobile.android.png"
+  },
+  "areamovil.aviancataca": {
+    "title": "avianca",
+    "package": "areamovil.aviancataca",
+    "description": "Use our avianca app for a simpler digital experience\u2708\ufe0f. Activate app notifications and receive our travel offers first to take advantage of the best prices.\n\n\u2022Check in from your cell phone, avoid lines and get your boarding pass instantly.\n\u2022Book and manage your flight easily, choose your seat and much more.\n\u2022Know the location of your luggage with the tracker.\n\u2022Check the status of your flight and make changes to your reservation whenever you need to.\n\n\ud83d\udcf2 Download the avianca app now and stay informed with the latest updates and travel offer notifications!",
+    "icon": "/icons/areamovil.aviancataca.jpg"
+  },
+  "com.counterpath.bria": {
+    "title": "Bria Mobile: VoIP Softphone",
+    "package": "com.counterpath.bria",
+    "description": "Android Softphone App for VoIP and SIP voice and video calls, instant messaging and more! \n\nStay connected wherever you go, leveraging your call server or VoIP service. Includes HD audio and video support, along with XMPP & SIP SIMPLE support.\n\nBria Mobile is an award-winning softphone that increases your business productivity by streamlining business communication across mobile devices and teams.  Whether you are a small start-up or a global enterprise, take the power of this award-winning softphone with you \u2013 at work, at home or anywhere in-between to ensure you stay connected and more productive.  \n\nTechnical Features Highlights:\n\u2022\tThoughtfully innovated, with over 10 years of technology development, Bria Mobile is available on a monthly subscription, which includes ongoing updates, Bri",
+    "icon": "/icons/com.counterpath.bria.png"
+  },
+  "ms.voip.softphone.android": {
+    "title": "VoIP.ms Softphone",
+    "package": "ms.voip.softphone.android",
+    "description": "The official VoIP.ms softphone app, designed to seamlessly connect you to your VoIP.ms account, offering high-quality voice calls, easy setup, and reliable communication on the go.",
+    "icon": "/icons/ms.voip.softphone.android.png"
+  },
+  "com.pcability.voipconsole": {
+    "title": "VoIP.ms Console",
+    "package": "com.pcability.voipconsole",
+    "description": "VoIP.ms Console is an app that exposes the API provided by VoIP.ms in a consistent and friendly way, allowing you virtually unlimited control over your account from your smartphone or tablet. The app has been explicitly designed to work well on tablets and provides options to set the UI size and menu density to best match your needs.\n \nThe app is designed as a series of viewers and editors that wrap the various \"elements\" that make up your VoIP.ms account, such as: DIDs, Sub-Accounts, Filters, Voicemails, Ring Groups, Forwards, Phonebook, etc.\n\nThe app also expands upon various aspects of the API, such as allowing you to group Phonebook entries together to create unified \u201cContacts\u201d. It allows related Filters to be grouped in a similar fashion. There are new types introduced, including \u201cFil",
+    "icon": "/icons/com.pcability.voipconsole.png"
+  },
+  "com.ooma.office2": {
+    "title": "Ooma Office Business Phone App",
+    "package": "com.ooma.office2",
+    "description": "Stay connected on the go with the Ooma Office business mobile app. Whether you\u2019re at home, at work or somewhere else, you\u2019ll be able to access the #1 rated business phone service right from your smartphone. Starting at just $19.95/user/month. \n\nKeep collaborating. \nCo-workers can easily stay connected with group messaging, group calls and extension dialing, letting you connect to colleagues whenever you need to from wherever you are. \n\nNever miss a call. \nForget about missing important calls by routing all your important business phone calls right to the Ooma Office app. \n\nManage business calls better. \nEasily transfer calls to your co-workers to help clients and customers get the help they need faster. \n\nEliminate business interruptions. \nSeamlessly flip calls between your desktop phone a",
+    "icon": "/icons/com.ooma.office2.png"
+  },
+  "cz.acrobits.softphone.aliengroundwire": {
+    "title": "Groundwire: VoIP SIP Softphone",
+    "package": "cz.acrobits.softphone.aliengroundwire",
+    "description": "Acrobits Groundwire: Elevate Your Communication\n\nAcrobits, a leader in UCaaS and communication solutions for over 20 years, proudly introduces the Acrobits Groundwire Softphone. This top-tier SIP softphone client offers unmatched voice and video call clarity. A softphone designed for both personal and professional use, it seamlessly integrates quality communication with an intuitive interface.\n\nIMPORTANT, PLEASE READ\n\nGroundwire is a SIP Client, not a VoIP service. You must have service with a VoIP provider or PBX that supports use on a standard SIP client to use it.\n\n\ud83d\udcf1: Choosing the Best Softphone App\n\nExperience robust communication with a leading SIP softphone application. Preconfigured for major VoIP providers, this softphone app guarantees high-quality, secure, and intuitive calling. ",
+    "icon": "/icons/cz.acrobits.softphone.aliengroundwire.png"
+  },
+  "com.keepcalling.ui": {
+    "title": "KeepCalling International",
+    "package": "com.keepcalling.ui",
+    "description": "Save money on your international phone calls with KeepCalling app! Make cheap international calls or send an SMS at great rates. Enjoy high quality VoIP calls, low rates and an easy to use online service. It's time to save when you call international!\nBuy cheap prepaid credit online and replace calling cards and phone cards with our easy to use international calling app. \nThis way you can make cheap international calls to Mexico, India, China, Colombia, Cuba, Thailand, Vietnam, Saudi Arabia, Nigeria and many other countries worldwide. With KeepCalling it\u2019s easy to call home.\nNEW! Offline Calling - this feature is meant to allow app users to connect calls without Internet connection WiFi or 3G/4G-LTE, through local access numbers.\nThis feature will help you call any contact number without I",
+    "icon": "/icons/com.keepcalling.ui.png"
+  },
+  "com.android.cts.apps.accessibility.voiceaccess": {
+    "title": "com.android.cts.apps.accessibility.voiceaccess",
+    "package": "com.android.cts.apps.accessibility.voiceaccess"
+  },
+  "com.android.cts.adndaven": {
+    "title": "com.android.cts.adndaven",
+    "package": "com.android.cts.adndaven"
+  },
+  "com.android.cts.crossyroad": {
+    "title": "com.android.cts.crossyroad",
+    "package": "com.android.cts.crossyroad"
+  },
+  "com.android.cts.chess": {
+    "title": "com.android.cts.chess",
+    "package": "com.android.cts.chess"
+  },
+  "com.android.cts.flar2.homebutton": {
+    "title": "com.android.cts.flar2.homebutton",
+    "package": "com.android.cts.flar2.homebutton"
+  },
+  "com.android.cts.gifkgk": {
+    "title": "com.android.cts.gifkgk",
+    "package": "com.android.cts.gifkgk"
+  },
+  "com.android.cts.kaytech.dpichanger": {
+    "title": "com.android.cts.kaytech.dpichanger",
+    "package": "com.android.cts.kaytech.dpichanger"
+  },
+  "com.android.cts.khl.kiosk": {
+    "title": "com.android.cts.khl.kiosk",
+    "package": "com.android.cts.khl.kiosk"
+  },
+  "com.android.cts.strategy": {
+    "title": "com.android.cts.strategy",
+    "package": "com.android.cts.strategy"
+  },
+  "com.jtech.zemer": {
+    "title": "com.jtech.zemer",
+    "package": "com.jtech.zemer"
+  },
+  "com.sonim.scout.contact": {
+    "title": "Sonim Contact Transfer",
+    "package": "com.sonim.scout.contact",
+    "description": "NOTE: This application does not have its own Launcher icon. Please access it via Sonim SCOUT. You can ensure SCOUT is updated on your device here: https://play.google.com/store/apps/details?id=com.sonim.scout.SCOUT \n\nContact Transfer is a tool used to transfer contacts from one device to another or over-the-air via Sonim CLOUD (https://www.sonimcloud.com).Contacts can be in VCF, MDB or CSV form (specific CSV format is required).  Contacts can also be transferred via Bluetooth.\n\nAbout Sonim Technologies: Sonim Technologies is the only US manufacturer of mission-critical smart phone-based solutions designed specifically for workers in extreme, hazardous and isolated environments. The Sonim solution includes ultra-rugged mobile phones, business-process applications and a suite of industrial-g",
+    "icon": "/icons/com.sonim.scout.contact.png"
+  },
+  "com.sonim.scout.mdmhelper": {
+    "title": "Scout MDM Helper",
+    "package": "com.sonim.scout.mdmhelper",
+    "description": "SCOUT MDM Helper can be used to restrict access to a number of features on your Sonim devices.  By using SCOUT MDM Helper, Administrators can ensure users are focused on doing their work safely and efficiently.\nFeatures include:\n\u2022\tDisable access to the Camera application\n\u2022\tDisable the ability of the user to install any applications\n\u2022\tDisable the ability of the user to uninstall any applications\n\u2022\tDisable Device Shutdown\n\u2022\tDisable Factory Reset\n\u2022\tDisable Mock Locations\n\u2022\tDisable access to Device Administrator menu\n\u2022\tDisable Camera Shutter Sound\n\u2022\tDisable ability to take a Screenshot\n\u2022\tDisable Safe Mode\n\u2022\tSet and Lock Bluetooth State\n\u2022\tSet and Lock Wi-Fi State\n\u2022\tSet and Lock Location State\n\u2022\tSet and Lock Cellular Data State\n\u2022\tSet and Lock Airplane Mode State\n\u2022\tSet and Lock NFC State\n\u2022\tSet an",
+    "icon": "/icons/com.sonim.scout.mdmhelper.png"
+  },
+  "com.sonim.scout.callscreening": {
+    "title": "SCOUT Call Screening",
+    "package": "com.sonim.scout.callscreening",
+    "description": "SCOUT Call Screening allows a User to limit incoming and outgoing phone calls and messages.\nApplication Settings can be set from the client or via Sonim CLOUD (https://www.sonimcloud.com).\n\n\u2022\tIncoming calls\no\tAllow only calls from Contacts\no\tWhitelist incoming numbers\no\tBlacklist incoming numbers\n\u2022\tOutgoing calls\no\tAllow only calls to Contacts\n\u2022\tIncoming messages\no\tAllow only calls from Contacts\no\tWhitelist incoming numbers\no\tBlacklist incoming numbers\n\u2022\tOutgoing messages\no\tAllow only calls to Contacts\n\nAbout Sonim Technologies: \nSonim Technologies is the only US manufacturer of mission-critical smart phone-based solutions designed specifically for workers in extreme, hazardous and isolated environments. The Sonim solution includes ultra-rugged mobile phones, business-process applications ",
+    "icon": "/icons/com.sonim.scout.callscreening.png"
+  },
+  "com.sonim.scout.warranty": {
+    "title": "Sonim Warranty Registration",
+    "package": "com.sonim.scout.warranty",
+    "description": "You can register your 3-Year Comprehensive Sonim warranty by entering the pertinent information directly into the application.\n\nOnce registered, you will also be able to view your warranty information.\n\n \nFor more information on Sonim\u2019s industry-leading warranty, please visit http://www.sonimtech.com/index.php/support3/warranty-info.\n\n \n\nAbout Sonim Technologies:\n\nSonim Technologies is the only US manufacturer of mission-critical smart phone-based solutions designed specifically for workers in extreme, hazardous and isolated environments. The Sonim solution includes ultra-rugged mobile phones, business-process applications and a suite of industrial-grade accessories, collectively designed to increase worker productivity, accountability and safety on the job site. Please visit https://sonim",
+    "icon": "/icons/com.sonim.scout.warranty.png"
+  },
+  "com.zmanim.list": {
+    "title": "com.zmanim.list",
+    "package": "com.zmanim.list"
+  },
+  "com.splashtop.streamer.platform.sonim.d": {
+    "title": "com.splashtop.streamer.platform.sonim.d",
+    "package": "com.splashtop.streamer.platform.sonim.d"
+  },
+  "ru.playsoftware.j2meloader": {
+    "title": "J2ME Loader",
+    "package": "ru.playsoftware.j2meloader",
+    "description": "J2ME Loader is a J2ME (Java 2 Micro Edition) emulator for Android. It supports most 2D games and also 3D with some limitations (Mascot Capsule 3D games don't work). \nEmulator has a virtual keyboard, individual settings for each application, scaling support.\n\nJ2ME Loader is an open source project, you can view source code at: https://github.com/nikita36078/J2ME-Loader\nTranslations page: https://crowdin.com/project/j2me-loader\nNote: In-app purchases are for donations only. If you like my app and want to support its development consider donating, I would really appreciate that.",
+    "icon": "/icons/ru.playsoftware.j2meloader.png"
+  },
+  "com.splashtop.sos.sonim": {
+    "title": "SCOUT Remote Support",
+    "package": "com.splashtop.sos.sonim",
+    "description": "As the capabilities of rugged devices grows, so too, does their complexity.  And for those in the field, the ability to not only troubleshoot, but to be educated on device use, in real-time, becomes crucial. SCOUT Remote Support, connected exclusively to Sonim, offers workers the guidance they need to get the most out of their rugged device, anytime, anywhere.\n\u2022\tEnables real-time troubleshooting and device guidance in the field from \n        Sonim Support.\n\u2022\tProvides workers a greater level of device familiarity and productivity.\n\u2022\tRemote Support for Enterprise Admins can be licensed, offering workers \n        an additional level of support.\n\nSupported devices:\n\n\u2022\tSonim XP8\n\u2022\tSonim RS60\n\u2022\tSonim RS80\n\u2022\tSonim RT80\n\nAbout Sonim Technologies: \nSonim Technologies is the only US manufacturer of ",
+    "icon": "/icons/com.splashtop.sos.sonim.png"
+  },
+  "us.spotco.maps": {
+    "title": "us.spotco.maps",
+    "package": "us.spotco.maps"
+  },
+  "com.google.ar.core": {
+    "title": "Google Play Services for AR",
+    "package": "com.google.ar.core",
+    "description": "Google Play Services for AR is automatically installed and updated on supported devices. This service unlocks augmented reality (AR) experiences built using ARCore. Automatic updates ensure that apps with AR functionality work without requiring an additional download.\n\nThis service was previously known as ARCore. Install this service and unlock new ways to shop, learn, create and experience the world together.\n\n\nhttps://developers.google.com/ar/arcore_open_source_licenses\n\nBy using this service you agree to be bound by our Google Terms of Service (Google ToS,\nhttps://www.google.com/accounts/TOS) and Google\u2019s general Privacy Policy\n(https://www.google.com/intl/en/policies/privacy/). This service is a Service as defined in the Google\nToS and the terms regarding software in our Services apply"
+  },
+  "com.sweetcandy.puzzle.blast.crush.free": {
+    "title": "Sweet Candy Puzzle: Match Game",
+    "package": "com.sweetcandy.puzzle.blast.crush.free",
+    "description": "Sweet Candy Puzzle is a new and stylish candy match 3 puzzle game, available for no matter adults or kids for all ages. Brand new visual effect and game experience. Simple to start but challenging to master! No time-limited that you can play anywhere & anytime offline. \n\nAdvance in a beautiful world full of candy snacks. Join this sweet journey and enjoy a variety of sweet treats, including chocolates, ice cream, cakes, doughnuts and more. Complete tasks in hundreds of well-designed levels, collect targets and grow the lovely succulent plant. Match and crush three or more of the same candies to clear the levels! Crush candies together and make the power booster to help you complete missions. There is more cheer in Sweet Candy Puzzle for you which can be discovered in this sweet candy land!",
+    "icon": "/icons/com.sweetcandy.puzzle.blast.crush.free.png"
+  },
+  "ahapps.controlthescreenorientation": {
+    "title": "control screen rotation",
+    "package": "ahapps.controlthescreenorientation",
+    "description": "Control your screen orientation very easily from your device notification bar.\nPrevent screen auto rotation and choose the screen orientation that you want with any application\nAvailable orientations:\nLandscape\nReverse landscape\nSensor landscape\nPortrait\nRevers portrait\nSensor portrait\nSensor orientation (auto rotation)\nPLEASE NOTICE THAT:\nSome screen orientations may not available in some devices",
+    "icon": "/icons/ahapps.controlthescreenorientation.png"
+  },
+  "com.imangi.templerun": {
+    "title": "Temple Run",
+    "package": "com.imangi.templerun",
+    "description": "The Original Classic Endless Running Adventure!\nExperience the thrill and challenge of Temple Run \u2013 the classic global endless runner game that redefined mobile gaming!\nSteal the cursed idol and escape from the relentless Demon Monkeys in a heart-pounding adventure through ancient temples, jungle ruins, and precarious cliff edges.\nOutrun danger in the ultimate maze-running, jungle-escaping, temple adventure!\n- Run through the jungle as you swipe to turn, jump, dash, parkour, and slide past deadly obstacles and traps\n- Race through temples, bridges, and treacherous paths\n- Collect coins, unlock diverse heroes, and boost your power-ups to reach super sonic speeds through the jungle \n- Test your reflexes in a fast and frenzied arcade action experience\n- Challenge friends & climb the leaderboa",
+    "icon": "/icons/com.imangi.templerun.png"
+  },
+  "com.chennaigames.mrracer.premium": {
+    "title": "MR RACER : Premium Racing Game",
+    "package": "com.chennaigames.mrracer.premium",
+    "description": "#1 Premium Offline & Online Car Racing Game \ud83d\ude98\ud83d\ude97!\nMR RACER game is a thrilling & challenging Racing game to wow you!\nRace with Friends in stunning super-cars at high speed to beat the traffic!\n\nMR RACER : Premium version has,\n\u2022 No Ads, so enjoy playing without any ads.\n\u2022 Fancy Pack (cars' bottom lights & Stance)\n\u2022 50,000 MR RACER game cash to kick start to buy your favorite top cars and to do crazy customization! \n\nKey features:\n\u2022 Very easy to play, extremely FUN to RACE \ud83c\udfc1\ud83c\udf89\n\u2022 Online Real-Time Multiplayer mode : Race with your Friends or Compete with Global Racers \ud83c\udfc1\n\u2022 100 levels in Challenge mode : Let\u2019s see how many you can complete!\n\u2022 Unlimited Chase mode levels : Best of race, chase your opponents & show them that you are a Master!\n\u2022 Various Super hyper-cars to race with!\n\u2022 Career Race Mod",
+    "icon": "/icons/com.chennaigames.mrracer.premium.jpg"
+  },
+  "com.oem.ford.GloftAN2P": {
+    "title": "Asphalt Nitro 2",
+    "package": "com.oem.ford.GloftAN2P",
+    "description": "Gas up and go with the Ford Shelby GT350R and other amazing speed machines in furious nitro-fueled races! Every track is full of tense turns and breathtaking details as you compete for the cup in gorgeous environments throughout Japan and New Zealand.",
+    "icon": "/icons/com.oem.ford.GloftAN2P.png"
+  },
+  "com.doubleoctopus.authenticator": {
+    "title": "Octopus Authenticator",
+    "package": "com.doubleoctopus.authenticator",
+    "description": "Note: Enterprise Passwordless Application for Employees.\n\nSecret Double Octopus liberates users from the pain of passwords. Using this app, users don\u2019t need to manage passwords and can enjoy a consistent login experience throughout their work day. Organizations gain the benefits of high assurance and credential control across domain accounts, VPN, cloud applications and legacy apps.",
+    "icon": "/icons/com.doubleoctopus.authenticator.png"
+  },
+  "com.octopus.driver.prod": {
+    "title": "Octopus - Driver",
+    "package": "com.octopus.driver.prod",
+    "description": "The Octopus Driver App is a quick and easy way for Octopus drivers to access their account and cash out earnings, track progress towards their next payments, update contact information, and more. It\u2019s the mobile application version of the existing driver web dashboard, plus a few exciting new features!\n\nKey Features:\nLogin with Face ID or Fingerprint\nChange your contact information (email, phone number)\nCheck your points on the go\nCash out earnings to a debit card, bank account, or e-gift card\nSet account to \"away\" mode for vacations and breaks\nUpdate the Driver Profile shown to riders\n\nDownload Today!",
+    "icon": "/icons/com.octopus.driver.prod.webp"
+  },
+  "com.octopuscards.nfc_reader": {
+    "title": "Octopus",
+    "package": "com.octopuscards.nfc_reader",
+    "description": "Take it easy with the Octopus App! Manage your everyday expenses \u2013 top up your Octopus cards, pay online, and reap additional rewards \u2013 all with your mobile! \n \nServices include: \n \n\n \n \nTOP UP YOUR OCTOPUS, CHECK EXPENSES AND COLLECT SUBSIDIES \n \nGo cashless and top up your own Octopus cards and even your family\u2019s via Faster Payment System (FPS); check your card\u2019s remaining value and spending records, and collect Public Transport Fare Subsidies \n \n \n \nPAY ONLINE WITH OCTOPUS, FOR TRANSPORT, RETAIL AND MORE \n \nPurchase MTR, KMB or Sun Ferry monthly pass without queuing; buy at popular online merchants such as supermarkets and fast food restaurants; even pay for Google Play Store purchases, Government and telecom bills \n \n \n \nUNLOCK MORE OFFERS AND REWARDS \n \nJoin the Easy Earn Scheme, and ",
+    "icon": "/icons/com.octopuscards.nfc_reader.png"
+  },
+  "com.projects.octopus": {
+    "title": "Octopus",
+    "package": "com.projects.octopus",
+    "description": "Octopus is an innovative application for emergency response, security management and integrated command and control on an enterprise level.\nThe Octopus application allows mobile users and company\u2019s employees to send a distress signal in case of an emergency in order to receive assistance from first responders and security agencies.\nApplication offers a comprehensive security management terminal for security personnel, allowing them to receive incident dispatch details, to fill in on-line reports, open gates and doors, check vehicles, view locations on the GIS map and more.\nThe Octopus App enables the mobile users to communicate with the organization and with each other in an encrypted manner for emergency, safety & operational needs.\nOctopus App is hosted on a secure cloud and utilizes enc",
+    "icon": "/icons/com.projects.octopus.png"
+  },
+  "com.octopus_os.app": {
+    "title": "octopus order",
+    "package": "com.octopus_os.app",
+    "description": "Octopus Order - ONE APP. ALL ORDERS.\n\nWith the Octopus Order App you now have the opportunity to place all your orders with your suppliers easily and quickly via your smartphone or tablet. The app is intuitive and easy to use. With just a few clicks you can enter your individual order and send it directly to your supplier.\n\nThe best part? You can use the app anytime, anywhere. And the automatic transmission of your order eliminates transmission errors that often occur with conventional transmission by fax or e-mail.\n\nYour advantages at a glance:\n\n- Time savings through simple and fast order processing\n- Always the right order templates at hand\n- Access to your retailer's range at any time\n- Grant access rights to your team and save time\n- Benefit from faster turnaround times and zero error",
+    "icon": "/icons/com.octopus_os.app.png"
+  },
+  "com.pandavideocompressor": {
+    "title": "Panda Video Compress & Convert",
+    "package": "com.pandavideocompressor",
+    "description": "\ud83d\udc3c Panda \u2013 Video Compressor & Video Converter. Compress videos fast and easily with no visible quality loss!\n\n\ud83d\udcbe FREE UP STORAGE\nVideos fill up your phone's memory and stop you from capturing new moments. Panda compresses videos, resizes videos, converts video formats and changes codecs \u2014 reduce file sizes instead of deleting them.\n\n\ud83d\udcf6 SAVE YOUR DATA\nLimited data plan? Shrink your videos with Panda \u2013 Video Compressor and send files using less data, saving for you and your recipient.\n\n\ud83d\udce4 SEND EVEN WITH A WEAK SIGNAL\nA weak signal means endless uploads \u2014 or failures. Compress, resize and convert videos with Panda to solve the problem.\n\n\ud83d\uddc2\ufe0f BATCH VIDEO COMPRESSION\nThe free version compresses up to 3 videos simultaneously. Premium \u2014 unlimited!\n\n\ud83c\udfa5 RECORD AND SEND DIRECTLY\nWith Panda, record videos, ",
+    "icon": "/icons/com.pandavideocompressor.png"
+  },
+  "com.sinyee.babybus.shopping": {
+    "title": "Baby Panda's Supermarket",
+    "package": "com.sinyee.babybus.shopping",
+    "description": "In Baby Panda\u2019s Supermarket, you can not only enjoy shopping but also play as a cashier and check out items! Apart from that, there are also many fun events for you to join in the supermarket. Shop in the Supermarket Game with your shopping list now!\n\nA WIDE VARIETY OF GOODS \nThe supermarket has a wide variety of goods, including over 300 kinds of goods such as food, toys, children's clothing, fruits, cosmetics, and everyday items. You can buy almost anything you want here! Look carefully, on which shelf are the items you want to buy?\n\nBUY WHAT YOU NEED\nGo to the supermarket and shop for Daddy Panda's birthday party! Birthday cake, ice cream, some flowers, birthday presents, and more! Next, let's buy some new school supplies for the upcoming school season! Remember to check your shopping l",
+    "icon": "/icons/com.sinyee.babybus.shopping.png"
+  },
+  "com.panda.touch": {
+    "title": "Panda Touch Pro",
+    "package": "com.panda.touch",
+    "description": "Unleash the full potential of your mobile gaming with Panda Touch Pro, the ultimate touch screen mobilizer! Tired of clunky touch controls holding you back? Panda Touch Pro empowers you with advanced touch mapping and automation, transforming your phone into a precision gaming machine.\n\nDominate your favorite mobile games with features designed for unparalleled control and customization:\n* Transform Simple Touches: Map volume, power, and other hardware keys to complex actions like multi-touch, swipes, ordered taps, and even powerful macros.\n* One-Tap Power: Execute complex multi-touch gestures, swipes, and macros with a single tap, giving you the edge in fast-paced games.\n* Advanced Macro Engine: Create intricate sequences of clicks, multi-clicks, delays, slides, presses, and multi-presses",
+    "icon": "/icons/com.panda.touch.webp"
+  },
+  "com.panda.gamepad": {
+    "title": "Panda Gamepad Pro",
+    "package": "com.panda.gamepad",
+    "description": "Unleash the Power of Your Gamepad with Panda Gamepad Pro!\n\nTired of clunky touch controls? Dominate your favorite mobile games with the precision and comfort of your gamepad.\n\nUnleash gamepad precision for ultimate mobile gaming dominance.\n\nHere's what sets Panda Gamepad Pro apart:\n* Direct Game Launch: Skip the cloning hassle! Launch your games directly and dive straight into the action.\n* Secure Google Play Login: Log in securely with your Google Play account.\n* Ban-Proof Gaming: Play worry-free! Our unique technology avoids bans in games that restrict duplication running.\n* Universal Compatibility: Supports nearly all gamepad brands, from the latest controllers to your trusty old favorites, we've got you covered.\n* Extensive Game Support: Enjoy enhanced control in almost any mobile game",
+    "icon": "/icons/com.panda.gamepad.png"
+  },
+  "com.panda.nesgames": {
+    "title": "Panda NES Emulator",
+    "package": "com.panda.nesgames",
+    "description": "\u2606 This is only an Emulator, there are no games included at all!!!\n\u2606 Press 'Add Button' to Select nes ROMs on your device to Play!!!\n\nFeatures\n- Finger touch to play directly\n- Connecting gamepad or keyboard to play\n- Customizable keys\n- Fastest engine, Highly simple UI, Play immediately",
+    "icon": "/icons/com.panda.nesgames.png"
+  },
+  "com.saropamobile.app": {
+    "title": "Saropa Contacts",
+    "package": "com.saropamobile.app",
+    "description": "Your phone's default app is just a list. Saropa is a safety net. It combines a powerful contact manager with an offline global emergency database covering 195+ countries.\n\nWhether traveling or at home, get instant access to local help, vital medical guides, and smart location context for everyone in your network.\n\nWHY SWITCH TO SAROPA COLNTACTS?\nMost contact apps just store numbers. Saropa helps you use them to stay safe. It is built for the traveler, the family organizer, and anyone who needs more than a digital Rolodex.\n\n\ud83d\ude91 Global Emergency Safety Net\nThis is the only address book that detects your location to provide instant, offline access to emergency services worldwide. It connects you to the specific help you need.\n\u2022 Direct Dial: 16,800+ verified numbers for Police, Fire, and Ambulan",
+    "icon": "/icons/com.saropamobile.app.png"
+  },
+  "com.samapp.excelcontacts.excelcontactslite": {
+    "title": "SA Contacts Pro",
+    "package": "com.samapp.excelcontacts.excelcontactslite",
+    "description": "Looking for a smarter and safer way to manage your contacts? SA Contacts offers a comprehensive, user-friendly solution to help you stay organized and in control. Whether it\u2019s syncing, organizing, importing/exporting, or cleaning up duplicates, SA Contacts handles it all \u2014 reliably and efficiently.\n\nKey Features:\n    \u2022   Smart Sync\nKeep a real-time, local copy of your phone contacts. Changes sync automatically, so your data is always safe.\n    \u2022   Custom Address Books\nCreate multiple address books for different purposes. Effortlessly import or export contacts across devices and formats.\n    \u2022   Powerful Import/Export\nSupports Excel (xlsx) and VCF formats. Works seamlessly with Dropbox, Google Drive, and Box for secure cloud backups.\n    \u2022   Accurate Duplicate Merging\nAutomatically identify",
+    "icon": "/icons/com.samapp.excelcontacts.excelcontactslite.png"
+  },
+  "com.logicwind.contactbook": {
+    "title": "ContactBook - Contact Manager",
+    "package": "com.logicwind.contactbook",
+    "description": "Welcome to Contactbook, the definitive solution for modern contact management. Designed to streamline the way you handle contacts. \nKey Features:\n\n1. Smart Contact Sharing:\n\nShare contacts with a single tap across your team or with clients. Whether you need to distribute client lists, team contacts, or vendor details, Contactbook makes it simple and secure. You can set permissions to control who can view or edit shared contacts, ensuring sensitive information is always protected.\n\n2. Advanced Contact Organization:\n\nSay goodbye to cluttered contact lists. This contact management app allows you to categorize contacts into groups, add tags, and filter based on your chosen criteria. This makes it easy to manage everything from client contacts to personal connections, all in one place. \n\n3. Col",
+    "icon": "/icons/com.logicwind.contactbook.png"
+  },
+  "org.fossify.calendar": {
+    "title": "Fossify Calendar",
+    "package": "org.fossify.calendar",
+    "description": "Tired of cluttered calendars and privacy concerns?\n\nFossify Calendar is here to change that. Your open-source powerhouse for managing life, designed with privacy as its core and packed with powerful features to keep you organized.\n\nHere's what makes Fossify Calendar different:\n\n\ud83d\udeab AD-FREE AND PRIVATE: \nYour events remain yours. No ads, no tracking, no intrusive permissions.\n\n\u23f0 FLEXIBLE AND CUSTOMIZABLE: \nCraft events precisely with times, durations, reminders, and advanced repetition rules.\n\n\ud83d\udd04 SEAMLESS SYNCING: \nSync effortlessly with Google Calendar, Outlook, Nextcloud, Exchange, and more.\n\n\ud83c\udfa8 PERSONALIZE YOUR PLANNER: \nSet custom sounds, looping audio streams, vibrations, and themes to match your preferences.\n\n\ud83c\udf08 VIBRANT WIDGETS: \nBrighten your day with beautiful calendar widgets and themes",
+    "icon": "/icons/org.fossify.calendar.webp"
+  },
+  "com.digibites.calendarplus": {
+    "title": "DigiCal+ Calendar",
+    "package": "com.digibites.calendarplus",
+    "description": "\ud83c\udfc6 Favorite: best calendar apps for Android \u2013 The Next Web\n\ud83c\udfc6 DigiCal is a smart calendar app for Android that is packed full of features - Android Headlines\n\ud83c\udfc6 DigiCal is one of the most flexible, customizable calendars \u2013 Lifehacker \n\u00a0\u00a0\nUpgrade to DigiCal+ and unlock more powerful functions and customization options! \n\u00a0\u00a0 \n\ud83c\udf1f DigiCal+ features:\n- 2 extra widgets: month widget and month calendar widget\n- Year view with heat map for spotting free and busy period\n- Unlock new customization options for the calendar widgets and calendar views\n- 7 extra widget themes\n- 42 theme colors \n- Custom snooze option\n- No ads\n\u00a0\u00a0\n\u2601 SYNC WITH GOOGLE CALENDAR, OUTLOOK AND EXCHANGE\n\u00a0\u00a0\n\ud83d\udcc6 7 POWERFUL AND STYLISH CALENDAR VIEWS\nOrganize your busy schedule using the day, week, agenda, month, text month, list and year",
+    "icon": "/icons/com.digibites.calendarplus.png"
+  },
+  "com.digibites.calendar": {
+    "title": "DigiCal Calendar Agenda",
+    "package": "com.digibites.calendar",
+    "description": "\ud83c\udfc6 Favorite: best calendar apps for Android \u2013 The Next Web\n\ud83c\udfc6 DigiCal is one of the most flexible, customizable calendars \u2013 Lifehacker \n\u00a0\u00a0\nOur daily planner has a clean design and multiple agenda views to make scheduling quick and easy.\n\u00a0\u00a0\n\u2601 SYNC WITH GOOGLE CALENDAR, OUTLOOK AND EXCHANGE\n\u00a0\u00a0\n\ud83d\udcc6 7 POWERFUL AND CLEAN AGENDA VIEWS\nSchedule appointments with our easy to use planner that offers the day, week, agenda, month, text month, list and year view to all your events. \n\u00a0\u00a0\n\ud83d\udcc5 6 BEAUTIFUL AND EASY CUSTOMIZABLE CALENDAR WIDGETS\nUse our planner to organize and get a clear overview of your busy schedule with 9 beautiful pre-set themes available for the list, grid, day, day list, text month and month widgets\n\u00a0\u00a0\n\ud83c\udf84 PREMIUM HOLIDAY, SPORTS, TV, FINANCE AND LIFESTYLE CALENDAR \u26bd\nGet access to more than ",
+    "icon": "/icons/com.digibites.calendar.png"
+  },
+  "org.fossify.contacts": {
+    "title": "Fossify Contacts",
+    "package": "org.fossify.contacts",
+    "description": "Introducing Fossify Contacts - the next evolution in contact management. Poised to redefine how you manage your contacts, our app combines simplicity with advanced features, tailored for both personal and professional use.\n\n\ud83d\udd0d SMART SEARCH & FIELD CUSTOMIZATION:\nLocate contacts quickly with our intelligent search feature. Customize visible fields, enjoy a user-friendly interface, and find contacts effortlessly, saving time and enhancing productivity.\n\n\u2709\ufe0f GROUP MANAGEMENT & COMMUNICATION:\nEffortlessly manage contact groups for streamlined communication. Our app facilitates easy grouping for batch emails or SMS, with features to create favorite lists and rename groups, enhancing your organizational capabilities.\n\n\ud83d\udd04 RELIABLE BACKUP & EXPORT OPTIONS:\nEnsure your contacts are always safe with ou",
+    "icon": "/icons/org.fossify.contacts.webp"
+  },
+  "com.truedevelopersstudio.automatictap.autoclicker": {
+    "title": "Auto Clicker - Automatic tap",
+    "package": "com.truedevelopersstudio.automatictap.autoclicker",
+    "description": "Auto Clicker helps you do repeated taps at any location with any interval you specify.\nAuto Clicker does NOT require root access.\nHave a floating control panel to start/stop the automatic tap.\nIt is great for click games.\n\nFeature:\n- The friendly user interface, easy to use\n- Support multiple click points, multiple swipes\n- Have a global timer to run for a certain amount of time\n- Can Import/Export automatic scripts\n\nNote:\n- Only support Android 7.0 and up.\n- Require Accessibility service to work.\n\nImportant:\n- Why do we use this permission?\nWe use AccessibilityService API to implement core features, such as simulating clicks and wipes on your screen.\n- Do we collect your private data?\nWe do not collect your private data through this permission.\n\n** Credits: The app icon is made by Freepik",
+    "icon": "/icons/com.truedevelopersstudio.automatictap.autoclicker.png"
+  },
+  "io.github.sds100.keymapper": {
+    "title": "Key Mapper & Floating Buttons",
+    "package": "io.github.sds100.keymapper",
+    "description": "Make custom macros on your keyboard or gamepad, make on-screen buttons in any app, and unlock new functionality from your volume buttons!\n\nKey Mapper supports a huge variety of buttons and keys*:\n\n- ALL your phone buttons (volume AND side key)\n- Game controllers (D-pad, ABXY, and most others)\n- Keyboards\n- Mouse buttons\n- Headsets and headphones\n- Fingerprint sensor\n\nNot enough keys? Design your own on-screen button layouts and remap those just like real keys!\n\n\nWhat shortcuts can I make?\n--------------------------\n\nWith over 100 individual actions, the sky is the limit.\nBuild complex macros with screen taps and gestures, keyboard inputs, open apps, control media, and even send intents directly to other apps.\n\n\nHow much control do I have?\n---------------------------\n\nTRIGGERS: You decide h",
+    "icon": "/icons/io.github.sds100.keymapper.png"
+  },
+  "com.all.audio.converter": {
+    "title": "All Audio Converter - MP3,MP4",
+    "package": "com.all.audio.converter",
+    "description": "Audio Converter & Editor - The Ultimate Audio Converter Tool for Android\n\nConvert, Compress, Edit, and Play Audio Files with Ease using Audio Converter!\n\nAudio Converter is a powerful and versatile app that allows you to convert, compress, edit, and play audio files in almost any format. Audio Converter supports MP3, AAC, M4A, OGG, WAV, WMA, AC3, FLAC, OPUS, AMR, MP2, and many others. Audio Converter is designed to handle all your audio needs quickly and efficiently.\n\nWhether you want to change audio formats using Audio Converter, customize your audio, or even analyze audio frequencies, Audio Converter provides a simple, user-friendly interface with all the features you need. With Audio Converter, you can also set your converted audio files as default ringtones, alarm tones, or notificatio",
+    "icon": "/icons/com.all.audio.converter.png"
+  },
+  "com.tapuniverse.audioconverter": {
+    "title": "Audio Converter - MP4 to MP3",
+    "package": "com.tapuniverse.audioconverter",
+    "description": "Audio converter app that convert video to audio or audio to audio, support all formats such as MP3, WAV, OGG, M4A, ACC, acc, etc. Extract audio and create your own ringtones with high quality.\n\nWith audio converter, you can easily convert multiple video/audio files at once in just a few seconds. The batch conversion helps you to fasten your process of extracting your favorite audios. Share them with your family and friends or share it through social media.\n\nWe support all audio formats to convert including AAC, M4A, 3GP, M4B, M4V, M4R, AC3, FLAC,OPUS, OGG, MP3, AMR, MP2, MPG, MPEG, OGA, OGV, SPX, WV, WMA. All without any limitations.\n\nPowerful audio converter with many features\n- Convert video to audio\n- Extract audio to create ringtones\n- Audio converter that convert between all video for",
+    "icon": "/icons/com.tapuniverse.audioconverter.jpg"
+  },
+  "com.bdroid.audiomediaconverter": {
+    "title": "Audio Converter (MP3 AAC OPUS)",
+    "package": "com.bdroid.audiomediaconverter",
+    "description": "Audio Converter, Convert, Cut & Extract Audio\n\nAudio Converter is a simple and reliable Android app that helps you convert audio formats, cut audio clips, extract sound from videos, and convert multiple files at once, all directly on your device.\n\nWhether you want to convert music to MP3, cut a ringtone, set an alarm sound, or extract audio from a video, Audio Converter helps you get it done in just a few taps.\n\nConvert Audio in Seconds\n\nSelect one or multiple files, choose the output format and quality, and tap Convert.\n\nAudio Converter supports batch conversion, allowing you to convert multiple audio files at once. This makes it ideal for playlists or large audio collections.\n\nAvailable quality options range from 8 kb/s to 320 kb/s, so you can easily balance file size and sound quality.\n",
+    "icon": "/icons/com.bdroid.audiomediaconverter.jpg"
+  },
+  "com.world4tech.m4atomp3converter": {
+    "title": "M4a to Mp3 Converter",
+    "package": "com.world4tech.m4atomp3converter",
+    "description": "Convert M4A to MP3 & WAV in Seconds \u2013 No Charges, No Data Loss!\n\nLooking for a lightning-fast, offline M4A to MP3 converter with crystal-clear audio quality? Our M4a to Mp3 Converter lets you seamlessly convert M4A files to MP3 or WAV without losing quality\u2014100% free & fully offline!\n\n\ud83d\ude80 Why Choose Our M4A Converter?\n\u2714 Blazing-Fast Conversion \u2013 Quick and high-quality results\n\u2714 3-Step Process \u2013 Select, Convert, Save \u2013 Simpler than competitors!\n\u2714 No Internet Needed \u2013 Works offline, keeping your files private\n\u2714 Multiple Formats \u2013 Convert M4A \u2192 MP3 or WAV effortlessly\n\u2714 Built-in Audio Player \u2013 Preview files before & after conversion\n\u2714 Save Anywhere \u2013 Export to your preferred folder\n\u2714 Clean & Ad-Free UI \u2013 No bloatware, no hidden fees!\n\n\ud83d\udd0a Perfect For:\n\u2022 Converting audiobooks, music, or podcasts t",
+    "icon": "/icons/com.world4tech.m4atomp3converter.png"
+  },
+  "com.mediaconverter.mp3videoconverter.videotomp3converter": {
+    "title": "Video to MP3 Converter",
+    "package": "com.mediaconverter.mp3videoconverter.videotomp3converter",
+    "description": "You like a piece of music, a dialogue or inspirational quote from a video or clip and convert it to audio formats (MP3,MWA,WAV ...); you want to change/edit the title, genre, artist, cover image, album of the MP3 and set it as a ringtone.\n\nOur app is a good choice for you.\n\nWith video to mp3 converter app, you can cut/trim video files and convert video to audio with many options in a few seconds. You can extract high quality songs from video and converting one or more videos simultaneously.\n\nOutstanding features\n- Provide variety of input video formats: MP4, 3GP, WEBM, MKV, FLV, AVI, MOV, MPG, OGV, WMV, M4V ...\n- Allow you to choose your favorite part of the video which you want to extract.\n- Cut/trim video or audio file.\n- Use edit tag function to change/edit MP3 file information\n- Set au",
+    "icon": "/icons/com.mediaconverter.mp3videoconverter.videotomp3converter.png"
+  },
+  "com.phascinate.precisevolume": {
+    "title": "Precise Volume 2.0 + Equalizer",
+    "package": "com.phascinate.precisevolume",
+    "description": "Precise Volume is a fully-featured Equalizer and audio control utility. It is filled with helpful features with the goal of allowing you to customize your audio to sound exactly how you like it.\n\nThis app overrides Android's default 15-25 volume steps and allows you to set a fully custom number. Other apps may give the illusion of having more volume steps, but this app actually has them.\n\nHelp\nDocumentation/help can be found at https://precisevolume.phascinate.com/docs/\n\nModern science tells us that the volume of our music can be just as important as anything else for connecting emotionally. When volume is too loud or too soft for a given song, emotional connection can be lost.\n\nBut Precise Volume doesn't just give you more volume steps. It also contains tons of automation features and cus",
+    "icon": "/icons/com.phascinate.precisevolume.png"
+  },
+  "com.fnp.audioprofiles": {
+    "title": "Audio Profiles Volume Control",
+    "package": "com.fnp.audioprofiles",
+    "description": "Add audio profiles / sound profile (volume, vibration and ringtones). Full control of your Do Not Disturb settings and Priority Notifications! Your Sound Manager and Volume control app.\n\nFully compatible with Samsung too!\n\n--------------------------------------------\nFeatures:\n\n\u2022 Manage your Do Not Disturb preferences for each profile (from Android M). This includes calls, notifications, alarms, etc\n\u2022 Notification widget to switch between profiles (you can deactivate it)\n\u2022 Quick settings tile for switch between profiles (from Android N)\n\u2022 Add schedules for each audio / sound profile\n\u2022 Priority notifications for each profile: Control your apps notifications (ringtone, volume and vibration pattern). Also when the screen is off or on\n\u2022 Control all your contact ringtones (or calls to voicemail",
+    "icon": "/icons/com.fnp.audioprofiles.png"
+  },
+  "com.tombayley.volumepanel": {
+    "title": "Volume Styles - Custom control",
+    "package": "com.tombayley.volumepanel",
+    "description": "Take full control of your volume sliders with the most advanced volume app on the Play Store.\n\nVolume Styles lets you fully customize your phone's volume panel and sliders.\nChange the colors, apply different themes such as iOS & MIUI, change the position, and more! You have full control.\n\nYou can even add additional shortcuts in the volume panel, and change the brightness, to make accessing things faster.\n\n\nSTYLES\nEasily apply any style to your volume slider in just one tap:\n\u2022 Android 10\n\u2022 iOS 13\n\u2022 Xiaomi MIUI\n\u2022 Samsung One UI\n\u2022 OnePlus OxygenOS\n\u2022 Android Oreo horizontal sliders\n\u2022 Huawei EMUI\n\u2022 Windows 10\n\u2022 RGB\n\u2022 Color OS\n\u2022 Paranoid Android\n\u2022 Vivo Funtouch OS\n\u2022 Realme UI\n\u2022 iOS 12\n\u2022 Windows Phone\n\u2022 Volume knob\n\u2022 ... and thousands of more styles inside the app\n\n\nVolume Styles also includes a",
+    "icon": "/icons/com.tombayley.volumepanel.png"
+  },
+  "com.app.volumelocker": {
+    "title": "Volume Locker",
+    "package": "com.app.volumelocker",
+    "description": "Volume Lock gives you full control over your device\u2019s volume, ensuring nothing changes accidentally. With parental controls, you can prevent kids from tampering with your settings. Plus, your calls, texts, and alarms will always be at the right volume.\n\nKey Features:\n\ud83d\udd12 Volume Lock:\nLock sound levels for media, notifications, alarms, ringtones, and calls to prevent accidental changes and ensure you don\u2019t miss anything important.\n\n\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67 Parental Control:\nSet a PIN to keep kids from messing with your volume settings.\n\n\ud83d\udd15 Auto Silent:\nAutomatically silence your phone during meetings, prayers, or other busy moments.\n\n\ud83c\udf19 Dark Mode:\nA sleek dark theme that\u2019s easy on the eyes.\n\nWith Volume Lock, you stay in control\u2014no more sudden volume changes or interruptions!",
+    "icon": "/icons/com.app.volumelocker.png"
+  },
+  "com.soundcontroller.loudspeaker.volume.manager.android": {
+    "title": "Volume Control Launcher",
+    "package": "com.soundcontroller.loudspeaker.volume.manager.android",
+    "description": "Do you sometimes wish your phone\u2019s volume controls were easier to manage?\n\nWith the Volume Control Launcher, every sound - from your favorite songs to morning alarms \u2014 are just right.\n\nThis launcher app puts all your essential volume settings one swipe away, helping you fine-tune every detail of your audio experience with ease.\n\nWhether you\u2019re enjoying music, watching videos, or taking calls, Volume Control Launcher helps you create a more balanced and satisfying sound experience that fits your lifestyle.\n\nPlease note: As a launcher app, the layout of your home screen may change after install. Don\u2019t worry, all your apps are still on your phone - they just may be in a different location. To learn more, please visit our FAQ section:\n https://phonevolumecontrol.com/#faq\n\nWith a launcher app, ",
+    "icon": "/icons/com.soundcontroller.loudspeaker.volume.manager.android.png"
+  },
+  "com.onestream.live": {
+    "title": "OneStream Live",
+    "package": "com.onestream.live",
+    "description": "Create and multistream real-time & pre-recorded videos to 45+ social media platforms, Custom RTMP Destinations, Hosted Live Pages, and the Web simultaneously.\n\n\n==================\nSTREAMING OPTIONS\n==================\n\n\u2022 Mobile Camera Broadcasting: Go live to multiple destinations using your mobile\u2019s camera.\n\n\u2022 Real-time RTMP Source Streaming: Go live in real-time using third-party tools such as OBS, Zoom, XSplit and Wirecast.\n\n\u2022 Pre-recorded Streaming: Broadcast pre-recorded videos from your device or cloud storage across multiple platforms simultaneously.\n\n\u2022 Live Studio: Join Live Studio sessions as guest directly from your mobile app.\n\n\u2022 Custom RTMP Destinations: Extend your streaming capabilities to any RTMP-supported destination, allowing you to reach your audience no matter where they",
+    "icon": "/icons/com.onestream.live.jpg"
+  },
+  "com.ttee.leeplayer": {
+    "title": "SPlayer - Fast Video Player",
+    "package": "com.ttee.leeplayer",
+    "description": "SPlayer - An Android Video Player that will Dominate the Market. \nIf you are looking for a User Friendly Player which you can navigate easily right in the first use, then SPlayer is your must choose. SPlayer does support all Video formats that are available now, with many built-in feature that will give you the best streaming experience on all the videos you want. \n\nKEY FEATURES:\n- Multi-Formats supported \n- Subtitle setting: Modify the appearance and the speed of the subtitle as you wish, you can also choose to import subtitle into the video from your local storage or from an URL.\n- Cast to your TV with ChromeCast.\n- PIP (Picture in Picture) Mode, so you can do multiple tasks while watching your favorite videos.\n- Player Gestures.\n- Private Folder to protect your private videos. \n- Audio ",
+    "icon": "/icons/com.ttee.leeplayer.png"
+  },
+  "com.onstreammoviesapp.streammovies": {
+    "title": "Onstream app",
+    "package": "com.onstreammoviesapp.streammovies",
+    "description": "Discover movies and TV shows in a simple and fast way with this lightweight movie browser app.\n\nExplore trending, popular, top-rated, and upcoming titles from around the world. Browse by category, check detailed information, and watch official trailers \u2014 all inside a clean and easy-to-use interface.\n\n\u2728 Key Features:\n\n\u2022 Browse movies and TV shows by category\n\u2022 Discover trending and popular titles\n\u2022 View detailed information including overview, ratings, and release date\n\u2022 Watch official trailers via supported platforms\n\u2022 Save your favorite titles for quick access\n\u2022 Clean, smooth, and optimized performance\n\nThis app is designed for movie discovery and informational purposes only. It does not host, stream, upload, or download any movies or TV shows.\n\nMovie data, descriptions, images, and trail",
+    "icon": "/icons/com.onstreammoviesapp.streammovies.png"
+  },
+  "com.rainfocus.eventapp.OneStreamSplash": {
+    "title": "OneStream Splash",
+    "package": "com.rainfocus.eventapp.OneStreamSplash",
+    "description": "The official mobile app of OneStream Events, bringing together a powerful community of financial leaders ready to experience modern finance. Make the most of your event experience all in the palm of your hand; explore speakers, sessions, curate your personal agenda, search for exhibitors and more.",
+    "icon": "/icons/com.rainfocus.eventapp.OneStreamSplash.png"
+  },
+  "com.zelivonic.onstreambk.hdmovies.moviebox": {
+    "title": "OnStream Movies Watch Movie HD",
+    "package": "com.zelivonic.onstreambk.hdmovies.moviebox",
+    "description": "\ud83c\udfac OnStream: Watch HD Movie & TV Shows is your ultimate guide to discovering the latest movies and TV shows.\nThis app provides official trailers, cast info, release dates, and ratings \u2014 all in one clean and easy-to-use interface.\n\n\ud83d\udccc Key Features:\n\u2705 Watch official trailers from YouTube\n\u2705 Browse trending movies and series\n\u2705 View ratings, summaries & cast info\n\u2705 Updated daily using reliable public APIs\n\u2705 No sign-up required\n\n\u26a0\ufe0f Disclaimer:\nOnstream does not stream or host any full movies or TV shows.\nAll content is sourced via public APIs (such as TMDB & YouTube) for informational and promotional purposes only.",
+    "icon": "/icons/com.zelivonic.onstreambk.hdmovies.moviebox.png"
+  },
+  "grant.m4a.to.mp3": {
+    "title": "M4a To Mp3 Converter",
+    "package": "grant.m4a.to.mp3",
+    "description": "The M4A file extension is an audio file saved in the MPEG-4 format. It is used to store various types of audio content, such as audiobooks, songs, and podcasts.\n\nM4A audio files are usually encoded with the lossy Advanced Audio Coding (AAC) codec or the Apple Lossless Audio Codec (ALAC), in order to reduce the size of the audio file.\n\nLooking for a simple yet powerful solution to convert your M4A audio files? Meet the M4A to MP3 Converter app \u2013 a versatile tool that lets you convert, cut, and merge M4A audio files with ease. Designed for anyone who wants a seamless M4A audio conversion and editing experience, this app supports .m4a, .m4b, .m4p, and .m4r formats and provides all the features you need in one place.\n\nM4A to MP3 Converter is a reliable and easy-to-use tool for M4A audio conver",
+    "icon": "/icons/grant.m4a.to.mp3.jpg"
+  },
+  "com.ubercatch": {
+    "title": "com.ubercatch",
+    "package": "com.ubercatch"
+  },
+  "com.citex.twelve_step_recovery": {
+    "title": "12-Step Recovery Guide",
+    "package": "com.citex.twelve_step_recovery",
+    "description": "12-Step Meeting Finder / Guide is an app designed to help with your recovery in AA, CA, NA and OA fellowships. It is tailored made to provide you all the information you need for your journey and includes an exclusive free in-person and online location based interactive meeting finder map with no ads or sign up required. It is the companion app for the website recoverymeetingfinder.com.\n\nMain features:\n\n\u2022\tInteractive location based in-person and online meeting finder map\n\u2022\tSet your sobriety date and track you progress in days, months and years\n\u2022\tSelect the step you are currently working with a brief description of what's involved\n\u2022\tRead and share the daily reflection, thought for the day and just for today readings\n\u2022\tBrowse the literature in PDF format including the basic texts, 12 & 12, L",
+    "icon": "/icons/com.citex.twelve_step_recovery.png"
+  },
+  "com.goodbarber.aabigbookfree": {
+    "title": "12 Step Tools for Recovery",
+    "package": "com.goodbarber.aabigbookfree",
+    "description": "Looking for the best app to support your journey to sobriety? Look no further!\n\nThe Sober Toolkit app is your ultimate companion on the path to recovery. This all-in-one resource provides powerful tools, a supportive community, and regular updates to help you stay focused and motivated. Whether you're just starting out or have been sober for years, Sober Toolkit is designed to be with you every step of the way.\n\nKey Features:\nRecovery Literature: Access full text and audiobook versions of foundational sobriety literature. Explore the resources that have guided countless individuals to lasting recovery.\n\nMeeting Finder: Easily locate recovery support meetings around the world. Whether you're at home or traveling, finding a meeting has never been more convenient.\n\n12 Steps and Traditions: Re",
+    "icon": "/icons/com.goodbarber.aabigbookfree.png"
+  },
+  "com.my12sc.app": {
+    "title": "My 12-Step Coach",
+    "package": "com.my12sc.app",
+    "description": "Recovery is not an event - it's a daily practice.\n\nWhether you are travelling, busy with work, or navigating difficult moments, your recovery structure stays in your pocket.\n\nBuilt by people in recovery, for people in recovery, My12SC brings your 12-step work into one private, focused space so you can stay organised, grounded and consistent.\n\nFree to use. No ads. No data selling. No noise.\n\u2022 Track Progress: Manage sobriety dates across multiple programmes. \n\u2022 Daily Work: Complete inventories (including AA Big Book format), gratitudes, and reflections. \n\u2022 One-Tap Accountability: Share Step 10s or daily summaries with your sponsor instantly. \n\u2022 Fellowship-Specific Tools: Access literature, prayers, and reflections tailored to your specific 12-step path. \n\u2022 Resource Library: Access prayers, L",
+    "icon": "/icons/com.my12sc.app.jpg"
+  },
+  "com.ibyteapps.aa12steptoolkit": {
+    "title": "A.A. 12 Step Toolkit",
+    "package": "com.ibyteapps.aa12steptoolkit",
+    "description": "Join over \ud83c\udf1f 500,000 sober Alcoholics Anonymous members and 14,000+ sponsors on their recovery journey! Now featuring \ud83d\udcf2 instant chat messaging, this app is your all-in-one toolkit for maintaining a daily reprieve and achieving long-term sobriety.  \n\nThis is the only recovery app you\u2019ll ever need, inspired by the \ud83d\udcd6 Big Book of Alcoholics Anonymous. Whether you're working the 12 Steps, connecting with a sponsor, or simply seeking inspiration, this app has everything you need to stay on track.  \n\n---\n\n \ud83c\udf1f Key Features \ud83c\udf1f  \n\n\ud83d\uddd3 Sobriety Calculator  \nTrack your sobriety milestones with detailed stats, motivating you to stay strong.  \n\n\ud83d\udcdd Steps 4 & 5 Inventory Tool  \nEasily create inventories based on the Big Book method \u2013 resentment, fear, sex, and harms done.  \n\n\ud83e\udd1d Steps 8 & 9 Amends Tool  \nMake res",
+    "icon": "/icons/com.ibyteapps.aa12steptoolkit.png"
+  },
+  "com.ibyteapps.aa12stepguide": {
+    "title": "12 Step Guide - AA",
+    "package": "com.ibyteapps.aa12stepguide",
+    "description": "12 Step Guide for Alcoholics Anonymous (AA)\n\nStep by step explanation and understanding of the AA 12 steps of alcoholics anonymous via the sharing of an alcoholic.\n\nIncludes genuine experience, strength & hope of an alcoholic who is now sober for a few years and a thriving member of the AA fellowship.\n\nThe app also features a sobriety calculator, a good selection of AA literature, and the complete Big Book text 164 pages. \n\nThis app is not sponsored by or affiliated to the fellowship of Alcoholics Anonymous or AAWS Inc.",
+    "icon": "/icons/com.ibyteapps.aa12stepguide.png"
+  },
+  "com.streaming.bsnllivetv": {
+    "title": "BSNL Live TV",
+    "package": "com.streaming.bsnllivetv",
+    "description": "Creating a world where traditional DTH and Cable TV services are a thing of the past, transform the way you watch TV, offering a cutting-edge alternative that will change the game.\n\nWe're committed to providing a seamless, high-quality viewing experience that surpasses traditional TV services. Say hello to a world of endless entertainment possibilities.",
+    "icon": "/icons/com.streaming.bsnllivetv.png"
+  },
+  "com.PixelStudio": {
+    "title": "Pixel Studio: pixel art editor",
+    "package": "com.PixelStudio",
+    "description": "Pixel Studio is a new pixel art editor for artists and game developers. Simple, fast and portable. No matter whether you are a beginner or a professional. Create amazing pixel art anywhere and anytime! We support layers and animations and have a ton of useful tools - all you need to create cool projects. Add music to your animations and export videos to MP4. Use Google Drive to sync your work between different devices and even platforms. Join Pixel Network\u2122 - our new pixel art community! Create NFT! Don't doubt, just try it and make sure you've chosen the best pixel art tool ever! Over 5.000.000 downloads around the world, translated to more than 25 languages!\n\nFeatures:\n\u2022 It's super simple, intuitive and user friendly\n\u2022 It's cross-platform, use it on mobile and desktop with Google Drive s",
+    "icon": "/icons/com.PixelStudio.png"
+  },
+  "com.brakefield.painter": {
+    "title": "Infinite Painter",
+    "package": "com.brakefield.painter",
+    "description": "Experience one of the best-designed painting, sketching, and drawing apps for tablets, phones, and Chromebooks. Used by millions, this award-winning app brings rich, powerful features to all artists, whether art is your hobby, passion or career.\n \nHIGHLIGHTS\n- Best-in-class pencils\n- Minimal and intuitive interface\n- Robust, powerful tool set\n- Share Timelapse recordings with your friends\n- Convert brush strokes into editable shapes\n \nREIMAGINING BRUSHES\n- Hundreds of built-in brushes\n- Realistic brush to canvas interaction\n- Over 100 customizable brush settings\n- Organize and share your favorite brushes and brush sets\n- Designed for stylus devices with full pressure and tilt support\n- Apply realtime color adjustments and live effects to any brush\n- Sample lower layers when blending\n- Impo",
+    "icon": "/icons/com.brakefield.painter.png"
+  },
+  "jp.co.celsys.clipstudiopaint.googleplay": {
+    "title": "Clip Studio Paint",
+    "package": "jp.co.celsys.clipstudiopaint.googleplay",
+    "description": "Start drawing and painting in a free 30-day trial.\n\nTablet\n\u30fbYou need an annual or monthly plan to save or export your artwork\n\u30fbUp to 3 months free with your first plan\n\nSmartphone\n\u30fbEnjoy all features for 30 hours in a free trial that refreshes monthly with no ads!\n\nSubscribe for the time you want to use it. Get all the latest features, materials, and cloud storage (10 GB)!\n\nDrawing and painting is easy with Clip Studio Paint!\nTry it and see why pros and beginners alike choose Clip Studio Paint.\nCSP\u2019s digital art features will have you drawing better! Now with new and more powerful features!\n\nMaking character art?\nCSP will bring your character to life!\n\n\u30fbCreate up to 10,000 layers for detailed artwork\n\u30fbPose 3D models to draw tricky angles\n\u30fbLiquify on multiple layers to adjust line art and c",
+    "icon": "/icons/jp.co.celsys.clipstudiopaint.googleplay.png"
+  },
+  "com.aige.hipaint": {
+    "title": "HiPaint: Sketch & Draw art",
+    "package": "com.aige.hipaint",
+    "description": "Hi~Paint is a professional and versatile drawing apps for pad and phone. You can use it to draw, sketch, illustration, art design, and create animation anywhere, and it can also be used for image editing.\n\n\u300cHighlights\u300d\n\u00b7 Minimal and intuitive interface to allows you to focus on the digital drawing itself. \n\u00b7 A powerful tool set for drawing and image editing complete your own artworkout.\n\u00b7 Quick operations and gesture controls make your creation process more convenient.\n\u00b7 Import and export custom brushes and brush sets\n\u00b7 Supports multiple color modes including RGB, HSV, and CMYK.\n\u00b7 Custom Themes & DIY canvas: Drag-and-drop tool icons for a customizable canvas interface.\n\n\u300cBrushes Features\u300d\n\u00b7 Over 100 kinds of brushes including pencils, markers, airbrushes, smudges, fill brushes, oil brushes",
+    "icon": "/icons/com.aige.hipaint.png"
+  },
+  "com.adsk.sketchbook": {
+    "title": "Sketchbook",
+    "package": "com.adsk.sketchbook",
+    "description": "From quick sketches to fully finished artwork, Sketchbook goes where your creativity takes you.\n \nSketchbook is an award-winning sketching, painting, and drawing app for anyone who loves to draw. Artists and illustrators love Sketchbook for its professional-grade feature set and highly customizable tools. Everyone loves Sketchbook for its elegant interface and natural drawing experience, free of distractions so you can focus on capturing and expressing your ideas.\n\n\u2022\tA full complement of brush types: pencils markers, airbrushes, smear and more that look and feel just like their physical counterparts\n\u2022\tBrushes are highly customizable so you can create just the look you want\n\u2022\tGuides, rulers and stroke tools support precision when you need it\n\u2022\tLayers with a full complement of blend modes de",
+    "icon": "/icons/com.adsk.sketchbook.png"
+  },
+  "com.wikibuy.prod.main": {
+    "title": "Capital One Shopping",
+    "package": "com.wikibuy.prod.main",
+    "description": "Capital One Shopping helps you save money while you shop online.\n\nFree for everyone - no Capital One account required\n\nWith Capital One Shopping:\n- Find deals and savings from stores you love\n- Earn Rewards and redeem for gift cards\n- Easily find and apply available coupon codes\n- Enable Accessibility Service API and get free rewards offers in Chrome\n\nIt does the work for you -- it's kinda genius.\n\nIn the last year alone, Capital One Shopping found over $160 million in savings.\n\nCapital One Shopping is just another way Capital One is looking out for you and your money.",
+    "icon": "/icons/com.wikibuy.prod.main.png"
+  },
+  "com.capitalone.intellix.mobile.prod": {
+    "title": "Capital One Intellix\u00ae Mobile",
+    "package": "com.capitalone.intellix.mobile.prod",
+    "description": "With Capital One Intellix Mobile, enjoy quick and simple Treasury Management wherever you need it. Intellix Mobile empowers you to take control, help prevent fraud and efficiently manage your company\u2019s finances.\n\nWith Intellix Mobile, you can:\n\u2022 Sign in with Face ID or Touch ID (simply enroll after signing in to the app).\n\u2022 Take a glance at the latest activity on your personalized dashboard.\n\u2022 Deposit checks directly into your accounts with the snap of a photo.\n\u2022 View your available balance, previous transactions, and more while you\u2019re on the go.\n\u2022 Make transfers between your Capital One accounts.\n\u2022 Quickly approve or reject payments pending approval.\n\u2022 Manage account protections by reviewing and submitting Positive Pay exceptions.\n\nTo enroll in Intellix Mobile, contact your Client Adminis",
+    "icon": "/icons/com.capitalone.intellix.mobile.prod.png"
+  },
+  "com.capitalone.credittracker": {
+    "title": "CreditWise from Capital One",
+    "package": "com.capitalone.credittracker",
+    "description": "CreditWise is a free credit monitoring tool that could help you improve your credit score.\n\nWe believe in empowering people with the tools to effectively monitor and manage their credit, no matter where they are in their credit journey. That\u2019s why CreditWise is completely free. Plus, using it won\u2019t hurt your credit score and you won\u2019t ever be asked to enter a credit card number.\n\nWith CreditWise, you\u2019ll have free access to your FICO\u00ae Score 8 and TransUnion\u00ae credit report\u2014plus targeted advice, tools and alerts to help you monitor your credit. You\u2019ll also get free access to identity theft monitoring tools\u2014like dark web alerts\u2014to help you take action when your information is detected somewhere suspicious.\n\nGet free:\n\u25cf Updates as frequently as daily to your TransUnion-based FICO Score 8.\n\u25cf Acc",
+    "icon": "/icons/com.capitalone.credittracker.png"
+  },
+  "com.capitalone.travel.app": {
+    "title": "Capital One Travel",
+    "package": "com.capitalone.travel.app",
+    "description": "Find everything you need for your travels, from dreaming to booking and beyond, with the Capital One Travel app. Book your flights, hotels and vacation rental stays, rental cars and activities\u2014all in one place. Track your trip with real-time notifications, from price alerts to gate changes. Use our live lounge locator to search our network of 1,000+ lounges and join the waitlist ahead of time.* Plus, easily see your travel rewards in one clear view, take comfort with 24/7 support by phone and enjoy peace-of-mind features like price prediction for flights to help you save as you dream up your next adventure.\n\n*Lounge access is not guaranteed and is subject to space availability. Operating hours vary by location and are subject to change without notice. Hours may be impacted by airport hours",
+    "icon": "/icons/com.capitalone.travel.app.png"
+  },
+  "com.target.ui": {
+    "title": "Target: Shop. Style. Save.",
+    "package": "com.target.ui",
+    "description": "Spring is the season for fresh starts, brighter days and everyday moments that matter. Refresh your everyday routine with spring essentials that make life feel lighter, from groceries and pantry staples to outfit ideas, home decor and cleaning supplies. Discover new spring arrivals and shop the spring collection to update your space and style with seasonal accents, lighter layers, organization finds and everyday essentials that help everything feel fresh again. Shop spring deals and spring sale savings on everyday favorites. Easter is just around the corner, making it the perfect time to shop Easter gifts, Easter basket stuffers, candy, chocolates, toys and festive treats for kids, family and friends. Whether you\u2019re planning an Easter egg hunt, hosting Easter brunch or looking for Easter i",
+    "icon": "/icons/com.target.ui.png"
+  },
+  "com.etsy.android": {
+    "title": "Etsy: Shop Home, Style & More",
+    "package": "com.etsy.android",
+    "description": "Welcome to the Universe of Special.\n \nShop Etsy\u2014your global marketplace for original items made, handpicked, and designed by real people for all budgets. Explore everything from vintage treasures and trending style pieces to personalized jewelry and custom home decor. Get offers and deals on one-of-a-kind items from small shops, chat with Etsy sellers, track your orders, and more.\n \nNo matter what you\u2019re looking for, Etsy has the pieces that speak to you. Download today and discover original gifts and seasonal treasures from our community of sellers.\n \nShop the Etsy app.\n \nApp Marketplace Features\n \nGlobal Marketplace\n\u2022 Explore over 15+ categories of original items from all over the world\u2014from thrifted clothes to handmade jewelry and home decor.\n\u2022 Favorite shops, save items, and organize y",
+    "icon": "/icons/com.etsy.android.png"
+  },
+  "com.vphone.os": {
+    "title": "com.vphone.os",
+    "package": "com.vphone.os"
+  },
+  "com.yoyo.snake.rush": {
+    "title": "VPhoneOS: Android Emulator",
+    "package": "com.yoyo.snake.rush",
+    "description": "VPhoneOS Virtual Android is a cutting-edge Android Emulator designed specifically for Android devices. It stands out as the emulator to run Android 12 rom, enabling users to unlock the full potential of their devices. With VPhoneOS, you can run an independent virtual operating system alongside your existing one, providing enhanced performance, multi-account management, and exceptional privacy protection\u2014all in a seamless user experience.\n\nWhy Choose VPhoneOS Android Emulator?\n1. Powerful Virtual Android Environment\nTransform your phone into a versatile tool! VPhoneOS supports virtually all popular social apps and games, including WhatsApp, ShareChat, Snapchat, and FreeFire. With its dual-system capability, you can enjoy dual accounts, use it as a game booster, and enhance productivity\u2014all ",
+    "icon": "/icons/com.yoyo.snake.rush.png"
+  },
+  "com.vsphone.overseas": {
+    "title": "VSPhone - Android Cloud Phone",
+    "package": "com.vsphone.overseas",
+    "description": "VSPhone: The New King of Mobile Cloud Gaming\n\nVSPhone is here to revolutionize the traditional gaming experience, unlocking endless possibilities for players with its cutting-edge Android cloud phone technology. Say goodbye to device performance bottlenecks and charge into the cloud battlefield, helping you secure your spot at the top of the server!\n\nCloud Technology Empowers Gaming, Never Disconnects\n\nPowered by the world's leading data centers and intelligent network optimization, VSPhone builds an impregnable fortress for gaming. Whether you're on a subway commute, on a long journey, or even asleep at night, you can instantly enter the game world with a single tap. The multi-account AFK mode allows you to control multiple accounts simultaneously, automatically collecting resources and c",
+    "icon": "/icons/com.vsphone.overseas.png"
+  },
+  "com.vendsoft.mobile": {
+    "title": "VendSoft Vending Software",
+    "package": "com.vendsoft.mobile",
+    "description": "VendSoft is the complete vending management software which will provide the crucial information you need to run your business more efficiently.",
+    "icon": "/icons/com.vendsoft.mobile.png"
+  },
+  "com.haha.ai": {
+    "title": "AI Vending",
+    "package": "com.haha.ai",
+    "description": "Haha Convenience is committed to providing consumers with an advanced unmanned retail shopping experience. By using an online intelligent merchant operation system, remote management of equipment and operational effectiveness can be achieved to improve the efficiency of merchant operations.",
+    "icon": "/icons/com.haha.ai.png"
+  },
+  "com.pay4vend.pay4vend": {
+    "title": "Pay4Vend",
+    "package": "com.pay4vend.pay4vend",
+    "description": "PAY4VEND: is an app designed to buy any product from an enabled vending machine through your smartphone.\n\nHOW: is extremely simple, just look for the logo Pay4Vend (P4V) on the machines in your office, open the APP, connect to your favorite machine and select the products you want. Simple isn't it?\n\nREGISTRATION: will require just a few personal datas and within seconds, you will be transported to the new P4V world as the newest payment system on your favorite vending machine.\n\nCREDIT: pay4vend scale the amount due from credit stored within the application. Charging can be done:\n\n- Cash (coins or banknotes) directly from the vending machine\n- Via PayPal or credit cards directly inside the APP\n\nYou cannot find the P4V logo on your machines? No problem, ask your operator to get in contact wi",
+    "icon": "/icons/com.pay4vend.pay4vend.png"
+  },
+  "com.TrueMythGamesLtd.VendingMachineMatch3D": {
+    "title": "Vending Machine Match 3D",
+    "package": "com.TrueMythGamesLtd.VendingMachineMatch3D",
+    "description": "Snack & Match! Vending Machine Match 3D is here to spread the fun !! Tap on the machine to merge 3 identical items. Match them all to complete the level, beat the timer and unlock more fun and rewarding levels! How fast can you match?\n\nFeatures\n-Easy to play- whether you are just merging or u are a merge master you can enjoy a classic merge game\n-Challenge your observation skills and become master of time!\n-Complete tasks to win amazing rewards and unlock fun-loading levels.\n-Relax and enjoy a unique puzzle game.\n\nHaving any feedback? Love to help!\nGo to menu tap on settings select the contact us button to automatically send an email to our team or let us know via direct email at vendingmachinegame@gmail.com",
+    "icon": "/icons/com.TrueMythGamesLtd.VendingMachineMatch3D.png"
+  },
+  "com.payrange.payrange": {
+    "title": "PayRange",
+    "package": "com.payrange.payrange",
+    "description": "Pay with a simple swipe on your phone screen.\n\nUse PayRange to pay at thousands of vending, laundry, arcade, parking, coffee and other supported machines with a simple swipe of your finger.\n\n    Swipe left or right on the phone app screen to select the machine.\n    Swipe up on your phone screen and payment will be sent to the machine.\n\nIt is that SIMPLE.  \n\n \n\nQUICK AND SIMPLE\n\nNO MORE COINS, NO MORE BILLS. PayRange takes the hassle out of your life. To guarantee the highest level of convenience, we designed our app for a quick and secure payment experience. Your experience is as simple as swiping your finger on your phone screen. You do not need to worry about having the right amount of change, small bills, or bill accepter issues. \n\n \n\nSAFE AND SECURE\n\nSafety and security of your payment",
+    "icon": "/icons/com.payrange.payrange.webp"
+  },
+  "com.dttcl": {
+    "title": "DT&T",
+    "package": "com.dttcl",
+    "description": "DT & T Money Transfer is an online money transfer service that lets you send money to friends and family back home, using your Android smartphone.\n\nIt is a convenient, low-cost alternative to using our high street branches and agents for your remittance.\n\nWith DT & T\u2019s mobile app, you can send money worldwide, track transactions, estimate transfer fees for online transactions, manage your account, and much more!\n\nTransfers to most countries are same day and funds can be received as a bank deposit only.\n\nCurrencies used on DT & T include USD, GBP, EUR, CAD, NGN, ZAR, CHF, JPY\n\nLow cost\n\u2022 Guaranteed exchange rates\n\u2022 Low fees displayed up-front\n\nFast\n\u2022 Instant transfers to many countries\n\u2022 Notifications by email.\n\nSimple\n\u2022 Send from Android smartphone.\n\u2022 Available 24/7 \n\nTrusted\n\u2022 Trusted by ",
+    "icon": "/icons/com.dttcl.png"
+  },
+  "com.viion.tes": {
+    "title": "My Transworld",
+    "package": "com.viion.tes",
+    "description": "My Transworld app puts control at your fingertips. With an improved interface and powerful new features, managing your internet connection has never been easier.\nKey Features:\n1. Bill Payment \u2013 Pay securely via debit/credit card or mobile wallets (JazzCash, Easypaisa).\n2. Wi-Fi Optimization \u2013 Boost your in-home Wi-Fi performance.\n3. Service Upgrade \u2013 Subscribe or upgrade your package in a few taps.\n4. Push Notifications \u2013 Get real-time alerts and updates.\nStay connected. Stay in control.\nDownload My Transworld today.",
+    "icon": "/icons/com.viion.tes.png"
+  },
+  "com.tms": {
+    "title": "T \uba64\ubc84\uc2ed \u2013 \ud560\uc778\uacfc \uc801\ub9bd\uc744 \uc6d0\ud558\ub294 \ub300\ub85c, \ub9de\ucda4\ud615 \ud61c\ud0dd",
+    "package": "com.tms",
+    "description": "Welcome to T Membership.\n\n\u25cf Membership: Choose the method that best suits you: discounts or point accumulation, and enjoy a wealth of benefits.\n\u25cf Mission: Easily earn T Plus Points through various mission programs, including attendance checks, roulettes, and benefit travel stamps.\n\u25cf T Universe: Experience the T Universe subscription service that perfectly suits your lifestyle.\n\u25cf My Space: Provides features necessary for enjoying benefits, such as barcodes, coupon boxes, and usage history. You can also review your lifestyle analysis results.\n\nT Membership is a personalized membership service for SK Telecom customers. Download now and enjoy even more benefits!\n\n[Optional Permissions]\n- Phone: Permission to confirm the device's phone number and make calls.\n- Location: Permission to determine ",
+    "icon": "/icons/com.tms.png"
+  },
+  "com.sktelecom.minit": {
+    "title": "T world - SKT \ub370\uc774\ud130/\uc694\uae08 \ud655\uc778, \ub9de\ucda4 \ud61c\ud0dd",
+    "package": "com.sktelecom.minit",
+    "description": "T world, the essential app for SK Telecom customers, greets you with an even more convenient look.\n\nAny SK Telecom customer can use the revamped T world service for free without data charges in 3G, LTE, or 5G environments. (However, data charges may apply for certain menus or when using international roaming.)\n\n\u25a0 Home\n\nYou can comprehensively check and utilize major product services, including recommendation information and benefits.\n\n\u25a0 T Direct Shop\n\nYou can purchase mobile phones, tablets, smartwatches, portable Wi-Fi, kids' phones, B tv, accessories, and more directly.\n\n\u25a0 Recommendation Services\n\nWe provide personalized history-based recommendation services tailored to your time, place, and situation.\n\n\u25a0 MY\n\nGather your frequently accessed real-time balance, billing charges, and subscri",
+    "icon": "/icons/com.sktelecom.minit.png"
+  },
+  "com.identitypassmobile": {
+    "title": "Microsoft Identity Pass",
+    "package": "com.identitypassmobile",
+    "description": "Identity Pass is a Microsoft application for processing access requests to organizational resources. When you submit a request, biometric data is collected. A live photo is taken and compared with your employee badge photo. Biometric data will be stored for one year. You may need to join a video call with an authorized Microsoft employee to verify your identity. \n\nTurn ON Push Notifications for improved experience.  \n\nWhat if Push Notifications are turned OFF?  \n\nRequest notifications are sent to your Microsoft work account or personal email address that you share in the request. The links provided in the email must be accessed on the same device to continue with the request.",
+    "icon": "/icons/com.identitypassmobile.png"
+  },
+  "com.lguplus.smartotp": {
+    "title": "PASS by U+ - \uc778\uc99d\uc744 \ub118\uc5b4 \uc77c\uc0c1\uc73c\ub85c PASS",
+    "package": "com.lguplus.smartotp",
+    "description": "[What is PASS?]\n- Check authentication services like simple identity verification, mobile ID (driver's license, resident registration card), and PASS certificates, as well as personalized benefits and asset information, all in one place.\n\n[Service Eligibility]\n- LG U+ Customers\n\u203bSign up and use the service only on mobile phones registered in your name.\n\u203bAlso available on LG U+ corporate mobile phones and MVNO (mobile phone network operator) phones.\nHowever, PASS is not available on corporate mobile phones.\n\u203bChildren under the age of 14 must obtain parental (legal) consent to use the service, and access to some services may be restricted.\n\n[Key Features]\n- Identity Verification: Simple identity verification and authentication history viewing via password and biometric authentication through",
+    "icon": "/icons/com.lguplus.smartotp.png"
+  },
+  "com.kt.ktauth": {
+    "title": "PASS by KT - \uc778\uc99d\uc744 \ub118\uc5b4 \uc77c\uc0c1\uc73c\ub85c PASS",
+    "package": "com.kt.ktauth",
+    "description": "[Service Introduction]\n- Enjoy a variety of lifestyle services, from quick and easy authentication to financial product comparison, through the PASS app.\n\n[Service Eligibility]\n- KT Mobile/KT MVNO (Cheap Phone) Customers\n\u203b Anyone aged 14 or older can conveniently use the app.\n\u203b Foreigners who can verify their identity through mobile phones and corporate customers who have signed up for corporate identity verification services can also use the app.\n(However, mobile micropayments are not available for those under 19 or with corporate-named phones.)\n\n[Key Features]\n- Easy Identity Verification: Securely verify your identity using your 6-digit PIN, fingerprint, or other information registered with PASS, without worrying about smishing.\n- Mobile Payment: View your mobile payment history and use",
+    "icon": "/icons/com.kt.ktauth.webp"
+  },
+  "com.supremainc.supremapass": {
+    "title": "Suprema Pass",
+    "package": "com.supremainc.supremapass",
+    "description": "Unlock doors with your Phone.\nSuprema Pass is the official mobile wallet for BioStar Air, Suprema\u2019s cloud-native access control platform. With Suprema Pass, your smartphone becomes a professional, secure credential for unlocking doors\u2014at the office, gym, school, or anywhere BioStar Air is used.\nKey Features:\nTap and Go: Unlock doors using your phone\nWorks even when your phone is locked\nStore credentials for multiple locations in one app\nRevoke or replace credentials instantly if your phone is lost\nMore secure than physical keycards\nWho is it for?\nSuprema Pass is designed for users of BioStar Air, a platform built by the global leader in biometric access control. If your organization uses BioStar Air and your administrator has issued you a mobile credential, you\u2019re ready to get started.\nNot",
+    "icon": "/icons/com.supremainc.supremapass.png"
+  },
+  "com.lastpass.lpandroid": {
+    "title": "LastPass Password Manager",
+    "package": "com.lastpass.lpandroid",
+    "description": "LastPass is a password manager that secures your passwords and personal information in an encrypted vault. As you visit apps and sites, LastPass autofills your login credentials. From your LastPass vault, you can store passwords and logins, create online shopping profiles, generate strong passwords, track personal information securely in notes, and more. All you have to do is remember your LastPass master password, and LastPass will autofill web browser and app logins for you.\nStop getting locked out of your online accounts or struggling with frustrating password resets. Let LastPass remember your passwords for you and keep you safe online.\n\nNEW TO LASTPASS?\nDownload LastPass now and get the protection you need for your online information.\n\u2022 Store usernames and passwords for all your onlin",
+    "icon": "/icons/com.lastpass.lpandroid.png"
+  },
+  "com.kakaopay.app": {
+    "title": "\uce74\uce74\uc624\ud398\uc774",
+    "package": "com.kakaopay.app",
+    "description": "Kakao Pay: Making Finance Easier for Everyone\n\n\"Finance with Peace of Mind, Kakao Pay\"\n\nHow to Use Kakao Pay\n\n\u25a0 Payment\n- Double-tap the \"Payment\" tab, no matter which tab you're on, and you're ready to pay.\n- Customized payment benefits, including those close to you, are all available.\n- Check membership rewards, expiring coupons, and useful payment tips all at once before making a purchase.\n- Both Samsung Pay and Zero Pay work! Pay anywhere with Kakao Pay.\n* Available on smartphones that support Samsung Pay!\n(Zero Pay works on all devices.)\n- Quick and easy payments with biometric authentication, and pay anywhere with barcodes and QR codes.\n- Pay in offline stores with Wear OS devices. Experience Kakao Pay, now even simpler and faster with Tile and Complication. (Requires Wear OS version",
+    "icon": "/icons/com.kakaopay.app.webp"
+  },
+  "com.sampleapp": {
+    "title": "Baemin",
+    "package": "com.sampleapp",
+    "description": "Delivery is Baemin!\n\nIf you\u2019re new to Baemin,\nget a \u20a910,000 discount coupon on your first order.\n\n\u25a0 No.1 in number of partnered stores and food reviews\nLooking for great local restaurants?\nYou\u2019ll find them all on Baemin.\nEnjoy a delicious meal with Baemin today.\n\n\u25a0 Free delivery and YouTube content! Baemin Club\nThe ultimate food buddy membership is here.\nWith Baemin Club + YouTube Premium,\nenjoy free delivery and uninterrupted YouTube streaming.\n\n\u25a0 Free delivery with no minimum order, Baemin Single Bowl\nOrder just one bowl of noodles,\nor just one sandwich.\nNo minimum order amount \u2014 delivered right away.\nA true one-person meal with no pressure, available only on Baemin.\n\n\u25a0 Ultra-fast delivery, 365 days a year, Baemin B-Mart\nFrom must-have fridge items like eggs, milk, and bean sprouts\nto po",
+    "icon": "/icons/com.sampleapp.png"
+  },
+  "com.supercell.moco": {
+    "title": "mo.co",
+    "package": "com.supercell.moco",
+    "description": "Are you ready for the part-time adventure of a lifetime? \n\nmo.co is recruiting hunters to help us fight back against Chaos Monsters from parallel worlds who started invading earth! No experience necessary. Flexible hours. Fun team environment.\n\nJob responsibilities: \n\nHunt Chaos Monsters\u2026 They keep attacking everything!\nTake down Bosses..  We\u2019re a company but we don\u2019t like bosses. \nTest & Upgrade Gear\u2026 Find the best combinations of weapons, gadgets, and passives.\nCollect Chaos Shards.. Fuel our R&D by gathering these bits of Chaos Energy.\n\nStart your monster hunting career at mo.co to experience a working environment that is\u2026.\n\nFLEXIBLE  - Bite sized adventures that fit around your schedule. \n\nWhether you want a quick hunt or to have a longer session with friends, using our interdimensiona",
+    "icon": "/icons/com.supercell.moco.png"
+  },
+  "com.skt.prod.dialer": {
+    "title": "\uc5d0\uc774\ub2f7 \uc804\ud654",
+    "package": "com.skt.prod.dialer",
+    "description": "[Key Features of Adot Phone]\n\nConnecting Adot Phone allows you to use AI features like call summary, business contacts, and interpretation calls within the \"Adot Phone\" app.\n\n\u3147 Call Recording and Summary\nNever miss important calls, even old ones!\nYou can automatically record all calls through the settings.\nUpgraded AI converts recorded calls into text and provides summaries and post-call suggestions.\n\n* The call recording feature is optimized for smartphones released by SK Telecom.\n\n\u3147 Business Contacts (formerly T114)\nAdot Phone can find all business phone numbers in Korea!\nReal-time, collaborative business search information!\nNow, save only the phone numbers of family, friends, and acquaintances on your phone! T114 has been upgraded to a business contact system, with AI informing you of t",
+    "icon": "/icons/com.skt.prod.dialer.png"
+  },
+  "com.prioritypass3": {
+    "title": "Priority Pass\u2122",
+    "package": "com.prioritypass3",
+    "description": "Download the Priority Pass\u2122 app today to access the original and market-leading airport experiences programme.\n\nActivate your account in the Priority Pass\u2122 app in just 2 easy steps, giving yourself access to airport lounges and travel experiences in over 700 airports worldwide. Choose from an ever-growing range of premium experiences \u2013 from spas to sleeping pods to dining \u2013 to help elevate every journey into something special.\n\n\u2022Enjoy contactless entry with your Digital Membership Card\n\u2022Stay up to date, check your current membership entitlement and visit history\n\u2022Search for lounges and experiences, and save your favourites\n\u2022Unlock more with access to additional Travel Services and benefits that enhance your travel journey\n\nEnrich your airport experience with the Priority Pass\u2122 app.",
+    "icon": "/icons/com.prioritypass3.png"
+  },
+  "com.verkada.VerkadaPass": {
+    "title": "Verkada Pass",
+    "package": "com.verkada.VerkadaPass",
+    "description": "Meet the Verkada Pass app\u2014your digital keycard to easily access doors across your organization. With just a tap, instantly unlock doors and manage your profile.",
+    "icon": "/icons/com.verkada.VerkadaPass.png"
+  },
+  "com.s2pass.s2pass": {
+    "title": "S2 Pass",
+    "package": "com.s2pass.s2pass",
+    "description": "S2 Pass is a trusted digital ticketing and payment app for schools and organizations.\n\nBuy tickets, order concessions, pay fees, and follow school news - all in one place.\n\nKey Features:\n\nEvent Ticketing \u2013 Purchase and store digital tickets instantly.\n\nConcession Ordering \u2013 Skip the lines with mobile food and drink purchases.\n\nPayments Made Easy \u2013 Pay for school fees, tuition, or non-ticket items.\n\nSchool News \u2013 Stay updated with school announcements and activities.\n\nSchool Stores \u2013 Access your school\u2019s online shop for merchandise.\n\nEvent Info \u2013 View schedules, weather, and upcoming events.\n\nNo account required. All major payment methods accepted, including Google Pay.\n\nS2 Pass delivers a fast, secure, and reliable way to connect with your school community.",
+    "icon": "/icons/com.s2pass.s2pass.webp"
+  },
+  "com.dntech.securepassmanager": {
+    "title": "Secure Pass - Password Manager",
+    "package": "com.dntech.securepassmanager",
+    "description": "Secure Pass is your simple, free offline password manager for Android \u2013 the secure way to store, generate, and manage passwords without any cloud sync or internet required.\nIn 2026, with rising data breaches, protect your logins with a 100% local encrypted vault. No company (not even us) can access your data \u2013 everything stays on your device.\nKey Features:\n\nFully Offline Storage: All passwords saved locally with military-grade AES-256 encryption. Perfect for privacy-focused users.\nStrong Password Generator: Create complex, unique passwords instantly.\nEasy Autofill & Copy: Quick clipboard copy with auto-clear after 30 seconds for security.\nSearch & Categories: Organize by folders (Banking, Social, Work) and fast search.\nBiometric Unlock: Use fingerprint or face for quick access.\nMaster PIN ",
+    "icon": "/icons/com.dntech.securepassmanager.png"
+  },
+  "com.milesfoundation.parentpass": {
+    "title": "Parent Pass",
+    "package": "com.milesfoundation.parentpass",
+    "description": "The first-of-its-kind, all-in-one parenting app that allows parents to: 1) find child care, 2) access & rate local resources, 3) search child activities and local events, and 4) connect with other families in their community!",
+    "icon": "/icons/com.milesfoundation.parentpass.png"
+  },
+  "com.finalproject.passvault": {
+    "title": "Pass Vault: Safe & Secure",
+    "package": "com.finalproject.passvault",
+    "description": "\u2022 Pass Vault provides a secure vault to manage all your passwords.\n\u2022 Giving you faster access to your accounts.\n\u2022 This app comes with an inbuilt encoder-decoder to ensure your data is\nsafely stored in the database.\n\u2022 Data Security - To ensure the safety of the data stored in the application\nfrom third parties, we have included security features such as: \n       - Fingerprint for access\n       - Instant lock\n       - Secure View\n\u2022 A password generator is included with the app that the user can use to create a strong password.",
+    "icon": "/icons/com.finalproject.passvault.png"
+  },
+  "com.pearhealthlabs.onepass": {
+    "title": "One Pass\u2122",
+    "package": "com.pearhealthlabs.onepass",
+    "description": "Access thousands of gyms, fitness studios, online workouts, and personalized exercise plans with One Pass! Plus, get grocery delivery and more! It\u2019s THE ultimate monthly membership, all in one simple app. Features can vary by health plan or employer.\n\nFEATURES\n\nGyms, studios, and classes: \nGet active your way with a broad network of gyms, fitness centers, studios, and classes near you, at home or on the go. Pick what suits you best: a popular gym or a small studio, a vigorous cardio workout or a relaxing yoga class. The One Pass app offers you lots of options.\n\nOnline fitness: \nLike working out at home? Join live, online fitness classes or choose from over 8,000 on-demand workouts that fit your lifestyle and schedule. Choose from activities like running and walking, elliptical sessions, st",
+    "icon": "/icons/com.pearhealthlabs.onepass.png"
+  },
+  "com.boloentertainment.sktnetwork": {
+    "title": "SKT Network",
+    "package": "com.boloentertainment.sktnetwork",
+    "description": "About Sway & King Tech Networks\nSway & King Tech Network is a free, ad-supported streaming app by cultural icons Sway & King Tech. Enjoy old school hip hop, original series, reality shows, documentaries, music specials, live concerts, sports, and more all celebrating hip-hop culture and authentic storytelling.\nVision\n\nSKT is a cultural channel catering to all things hip hop and more. Download the SKT Network app or watch as a FAST channel. Sway & King Tech are hip hop connoisseurs with years of educational content about all things hip hop and more.\n\nMission\nSway & King Tech Network will deliver a diverse slate of original programming inspired by hip-hop culture, including scripted series, films, reality shows, documentaries, concerts, music specials, sports, and financed content.",
+    "icon": "/icons/com.boloentertainment.sktnetwork.png"
+  },
+  "com.glonass24.skt": {
+    "title": "SKT",
+    "package": "com.glonass24.skt",
+    "description": "Main app features:\n\n- Asset list management. Monitor the movement and ignition status, location, and other fleet data in real time.\n\n- Commands. Send commands: messages, routes, configurations, or camera photos to remotely control an asset.\n\n- Tracks. Build vehicle tracks on a map, displaying speed, refueling, fuel drains, and other data for a selected period.\n\n- Geofences. Configure the display of an asset's location within a geofence instead of address information.\n\n- Informative reports. Use detailed data on trips, stops, fuel drains, and refueling for quick decision-making.\n\n- History. Track asset events (movement, stop, refueling, fuel drain) chronologically and display them on a map.\n\n- Map mode. View assets, geofences, tracks, and event markers on a map with the ability to pinpoint ",
+    "icon": "/icons/com.glonass24.skt.png"
+  },
+  "com.smartover.sktmobile": {
+    "title": "SKT",
+    "package": "com.smartover.sktmobile",
+    "description": "Welcome to the SKT Mobile App!\n\nWith the SKT Mobile app, you can easily find the products you\u2019re looking for! This user-friendly mobile app provides fast and reliable access to high-quality felt parts.\n\nFeatures:\n\nFast and Accurate Search: With our app, you can find the felt part you\u2019re looking for in seconds. All you need to do is enter information such as your vehicle\u2019s make, model, and browse the results!\n\nUser-Friendly Interface: Our simple and intuitive interface allows you to use the app with ease. Anyone can easily find the felt part they\u2019re searching for with our app.\n\nPrinted Materials: Access or request our printed materials that catch your interest.\n\nNews from Us: Stay informed about the latest developments at SKT.\n\nQR Code Product Search: Use your device\u2019s camera to quickly get",
+    "icon": "/icons/com.smartover.sktmobile.png"
+  },
+  "com.skt.apm": {
+    "title": "Skt",
+    "package": "com.skt.apm",
+    "description": "A simple, rich and easy to use tracking app that helps clients track their assets 24/7/365 days efficiently and effectively. Successfully tracks 10000+ assets for 200+ clients locally & internationally. Hosted in state of the Art Cloud computing (Amazon Web services) with 99.99% uptime availability.",
+    "icon": "/icons/com.skt.apm.png"
+  },
+  "com.dreamsecurity.skt.usim": {
+    "title": "\uc2a4\ub9c8\ud2b8\uacf5\ub3d9\uc778\uc99d (SKT/KT/LGU+ \uc804\uc6a9)",
+    "package": "com.dreamsecurity.skt.usim",
+    "description": "Try using Smart Joint Authentication to utilize joint certificates for public services (Government 24, Year-End Tax Settlement, etc.) more conveniently.\n\nSimply transfer your certificate from your PC to the app just once! You can easily use functions such as financial transactions and issuing necessary documents anytime, anywhere, without worrying about USBs or public PCs.\n\nThis service is an authentication and security service developed by Dream Security Co., Ltd. and does not represent any government agency or public institution. Applications for government services, inquiries, and document issuance are provided on each agency's official website and dedicated app.\n\nOfficial Information Source: Government 24 (www.gov.kr), National Tax Service Hometax (www.hometax.go.kr)\n\nRecommended for:\n",
+    "icon": "/icons/com.dreamsecurity.skt.usim.png"
+  },
+  "com.crosscert.android": {
+    "title": "\ud1b5\ud569\uc778\uc99d\uc13c\ud130(\uc804\uc790\uc778\uc99d\uc13c\ud130)",
+    "package": "com.crosscert.android",
+    "description": "Integrated Certification Center (Electronic Certification Center) is an application developed by Korea Electronic Certification Co., Ltd. to issue a joint certificate (formerly accredited certificate) from an Android phone, and to easily use the certificate transfer and management function between a smartphone and a PC. no see.\n\n1. Introduction of Integrated Certification Center (Electronic Certification Center)\nThis service is an application that provides certificate issuance, bi-directional movement (smartphone<->PC) and management functions on Android phones.\n\n2. Notice\n-. Only Korea Electronic Certification Certificate can be issued/renewed\n-. Certificates issued by all certification authorities can be moved\n\n3. Detailed features\n\nO Certificate issuance\n-. Certificate Issuance / Reissu",
+    "icon": "/icons/com.crosscert.android.png"
+  },
+  "com.kiwoom.unitycert": {
+    "title": "\ud0a4\uc6c0\ud1b5\ud569\uc778\uc99d",
+    "package": "com.kiwoom.unitycert",
+    "description": "What is the Keum Integrated Certification app?\nIt is an app that can use OTP service as a mobile app for all transaction media provided by Kiwoom Securities without real OTP (token type, card type, etc.).\nIt is quick and easy to get a non-face-to-face real name authentication, and you can use OTP service more convenient.\n\n[Usable Tasks]\n- withdrawal, substitution of securities, issuance of official certificate, registration of certificate of other institution, change of account password, etc.\n\n[Mobile OTP Issuance Method]\n1. Install Keum integrated authentication app\n2. Authenticated by Yeomwon Moon S / Kiwoom account establishment\n(Authentication of mobile phone identity> shooting of ID card> 1 won deposit authentication)\n3. PIN number and additional authentication method (fingerprint / f",
+    "icon": "/icons/com.kiwoom.unitycert.png"
+  },
+  "com.passpassllc.passpass": {
+    "title": "PassPass App",
+    "package": "com.passpassllc.passpass",
+    "description": "PassPass is no big deal. It\u2019s just a TON of little deals that you can use all over town. For just a couple of dollars a month you can unlock thousands of local daily deals, and save at your favorite local spots. Share PassPass with your friends and earn money when they sign up. When you register through a participating business, we share a portion of the monthly membership fee back to support the business and community. You save. Businesses and communities thrive. That\u2019s a Win-Win. You can add your business for free, connect with new customers and earn recurring revenue by referring members.",
+    "icon": "/icons/com.passpassllc.passpass.png"
   }
 }
