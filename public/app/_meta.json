@@ -19156,12 +19156,6 @@
     "description": "Save money at Sapp Bros stores with great coupons on gas, snacks, and more!\n\nSimply tap the orange redeem button and show your phone at purchase to redeem your coupons.\n\nSpecial, limited time, offers are only accessible via this easy to use app powered by Rovertown. Find nearby stores and get notified of nearby coupons.\n\nEasily set coupon reminders and never forget your coupons at home again.",
     "icon": "/icons/com.rovertown.sappbros.png"
   },
-  "com.dutchbros.loyalty": {
-    "title": "Dutch Bros",
-    "package": "com.dutchbros.loyalty",
-    "description": "The fun doesn\u2019t stop on the Dutch Bros\u00ae app! Customize your drink to your liking on Order Ahead and pay with Dutch Pass\u00ae. Earn points on every purchase towards free drinks with Dutch Rewards\u2122 and unlock exclusive app stickers! Get closer to free drinks with bonus point days and member-exclusive challenges. See you at the shop!\n\nOrder Ahead\nYour Broista is now on speed dial! Customize, pay and pick up your order at the shop using Order Ahead. Select \"Pickup Window\" for the fastest experience! Don\u2019t worry, we\u2019ll still ask about your day.\n\nDutch Rewards\u2122\nSign up for Dutch Rewards\u2122 and download the app to unlock a FREE medium drink! Earn 3 points for every dollar spent towards rewards. Look out for bonus point days and challenges to get closer to free drinks!\n\n*Offer valid for new app users on",
-    "icon": "/icons/com.dutchbros.loyalty.png"
-  },
   "com.subsplashconsulting.s_HK9DTR": {
     "title": "Broward Church",
     "package": "com.subsplashconsulting.s_HK9DTR",
@@ -20858,5 +20852,238 @@
     "package": "com.passpassllc.passpass",
     "description": "PassPass is no big deal. It\u2019s just a TON of little deals that you can use all over town. For just a couple of dollars a month you can unlock thousands of local daily deals, and save at your favorite local spots. Share PassPass with your friends and earn money when they sign up. When you register through a participating business, we share a portion of the monthly membership fee back to support the business and community. You save. Businesses and communities thrive. That\u2019s a Win-Win. You can add your business for free, connect with new customers and earn recurring revenue by referring members.",
     "icon": "/icons/com.passpassllc.passpass.png"
+  },
+  "com.a0soft.gphone.app2sd.pro": {
+    "title": "AppMgr Pro III (App 2 SD)",
+    "package": "com.a0soft.gphone.app2sd.pro",
+    "description": "AppMgr (also known as  App 2 SD) is a new design app that provides the following components:\n\u2605 Archive apps: archive apps to save storage on your Android device. Android 15+ only\n\u2605 Move apps: moves apps to either internal or external storage to get more available app storage\n\u2605 Hide apps: hides system (built-in) apps from the app drawer\n\u2605 Freeze apps: freeze apps so they won't use any CPU or memory resources\n\u2605 App manager: manages apps for batch uninstalling, moving apps, or sharing apps with friends\n\nSupport app 2 sd for Android 6+, read http://bit.ly/2CtZHb2 if you don't see the Change button. Some devices may not be supported, visit AppMgr > Settings > About > FAQ for details.\n\nFeatures:\n\u2605 up-to-date UI style, themes\n\u2605 batch archive or restore apps (Android 15+ only)\n\u2605 batch uninstall ap",
+    "icon": "/icons/com.a0soft.gphone.app2sd.pro.png"
+  },
+  "com.vsrevogroup.app.file.manager.usage.permission.restrain.explore.optimizer.analyzer.scan.phone": {
+    "title": "Revo App Manager",
+    "package": "com.vsrevogroup.app.file.manager.usage.permission.restrain.explore.optimizer.analyzer.scan.phone",
+    "description": "The Revo App Manager\u2019s tools include: \n\nScan Module: \nOne-click phone analysis to make informed decisions: organize your storage, declutter unnecessary apps and files, and check the number of notifications, permissions, and time spent on each app. \n\n- Big Apps:\nIdentify and manage space-consuming applications by viewing a list of top apps and their sizes.\n\n- Big Files:\nIdentify which files take the most space out of your phone\u2019s storage. \n\n- Most Used Apps:\nTrack and view the apps you've engaged with the most in the last 72 hours.\n\n- Rarely Used  Apps:\nIdentify apps that haven't been used, providing insights into when they were last accessed, and have the opportunity to declutter your phone.\n\n- Most Viewed:\nTrack how many times you have opened your apps in the last 72 hours.\n\n- Most Alerti",
+    "icon": "/icons/com.vsrevogroup.app.file.manager.usage.permission.restrain.explore.optimizer.analyzer.scan.phone.png"
+  },
+  "com.madness.collision": {
+    "title": "Meta App Info & Manager Pro",
+    "package": "com.madness.collision",
+    "description": "Meta App (aka Boundo) is your go-to app manager, optimized for all kinds of devices: phones, folds, tablets and watches.\n\n1. Your Complete App Library in One Place\n\u2022 Effortless Navigation: discover all your apps, no matter where they are. Browse your installed apps, explore system-preinstalled ones, and even load APK files directly from your phone's storage.\n\u2022 Intuitive Design & Insight: get the information you need at a glance, with unique app features highlighted as tags. Customize which tags appear to fit your needs.\n\n2. App Library, Organized in Your Own Way\n\u2022 Organize your apps into predefined categories, like Social and Games.\n\u2022 Create custom categories at will to reflect your unique way of life.\n\n3. App Info & Details\n\u2022 API info: min. SDK, target SDK, compile SDK\n\u2022 Details: version,",
+    "icon": "/icons/com.madness.collision.png"
+  },
+  "com.pavelrekun.skit": {
+    "title": "Skit - apps manager",
+    "package": "com.pavelrekun.skit",
+    "description": "Skit is the simplest and most intuitive apps manager for your device. Skit opens up many possibilities for you, which includes uninstalling or extracting apps, easily viewing all app's components, and more!\n\nFull control\nExtract your apps in APK and Split APK (APKS) formats and send them to your friends in any way you prefer. You can also uninstall any user apps without any problems.\n\nInstall Split APK (.APKS)\nInstall Split APK files without any hustle and pain. Just feed your files into the installer and wait for the result.\n\nIt's all about the details\nSkit provides a wealth of details about all user and system apps. A huge amount of detailed information, starting from the installation date and ending with a detailed report of apps memory usage.\n\nApp's hierarchy\nFind out how any selected ",
+    "icon": "/icons/com.pavelrekun.skit.png"
+  },
+  "com.lb.app_manager": {
+    "title": "App Manager",
+    "package": "com.lb.app_manager",
+    "description": "Do you hate the multiple steps it takes to just uninstall your apps  ?\nDo you sometimes install many apps in order to find one that suits your needs, but then you hate the time it takes to uninstall the rest?\nDo you need to reset/uninstall apps frequently ?\nDo you install apps from outside the Play Store and can't see icons of them automatically appear?\nWanna try getting rid of some of the bloatware your device has (*) ?\n\nIf so, this is the app for you !\n\nFeatures\nThis app has plenty of features, especially for rooted devices:\n\n\u2022 Easiest uninstaller - single click on an app to uninstall it\n\u2022 Install APK, APKS, APKM, XAPK files via other apps, directly\n\u2022 Batch operations of apps : uninstallation, share, disable/enable, Re-install, manage, open in Play-Store or Amazon-AppStore\n\u2022 APK files ma",
+    "icon": "/icons/com.lb.app_manager.png"
+  },
+  "smart.tv.remote.control.roku": {
+    "title": "Remote for Smart TV, TV Remote",
+    "package": "smart.tv.remote.control.roku",
+    "description": "\ud83c\udfc6 TV remote control is specially designed to replace the physical remote, allowing you to easily power on/off TV, adjust the volume, switch channels, and stream digital content over WiFi. Download it now! Transform your mobile phone into a versatile and convenient TV remote with one click!\n\n\ud83d\udcfa It can be quite frustrating when you want to watch TV but can't locate your remote control. Fret not! Just grab your phone, open this remote control app and you can easily operate your TV, convenient and fast!\n\n\ud83e\udd29 Distinctive Features\n- Quick connection: connect to your TV with one click\n- Flexible touchpad: touch and swipe to easily navigate the TV interface\n- Virtual keyboard: perfect experience for typing and searching on TV\n- Create favorite channels: set shortcuts to your favorite channels for qui",
+    "icon": "/icons/smart.tv.remote.control.roku.jpg"
+  },
+  "com.joetech.tvremoteroku": {
+    "title": "Remote for Roku TVs (WiFi)",
+    "package": "com.joetech.tvremoteroku",
+    "description": "\ud83d\udcf1\ud83d\ude80 Elevate Your Roku Experience with Our All-in-One Remote Control App for Roku! \n\n\ud83d\ude80\ud83d\udcf1 Discover the Ultimate Remote for Roku \u2013 Engineered with Advanced Search, Auto Connection, Media Casting, Private Listening and lots of cool Features for Your Roku Express, Streaming Stick, Premiere, Premiere Plus, Ultra and Smart TVs including popular brands like Hisense, TCL, Sharp, Insignia, RCA, Hitachi, Philips, Haier & Element. \n\nImagine you're on your comfy couch, watching TV, and your furry friend's taking a cozy nap on your lap. Oops! Your physical Roku remote is just out of reach. No worries! Our app lets you control your Roku TV over WiFi with your phone, so you can stay comfy and in control without disturbing your pet's sweet dreams. \ud83d\udcf1\ud83d\udcfa\ud83d\udc36\ud83d\udc31 \n\n\u2728 Why choose this app? \u2728 \n\n\ud83d\ude80 Easy, Simple, Fast & Free",
+    "icon": "/icons/com.joetech.tvremoteroku.png"
+  },
+  "com.meisterapps.roku": {
+    "title": "Remote for Roku: TV Control",
+    "package": "com.meisterapps.roku",
+    "description": "Enjoy full control of your Roku device without ever needing a traditional remote. The Roku TV Remote app by MeisterApps turns your smartphone into a powerful, reliable tv remote that makes controlling your Roku device easy and convenient. Say goodbye to the frustration of searching for your lost remote or dealing with one that doesn\u2019t respond.\n\nRoku TV Remote - Effortless Control for Your Roku Device\n\nThe Roku TV Remote control app solves all of these problems by offering fast and easy access to all your Roku\u2019s features. Whether you want to turn the TV on, adjust the volume, or quickly switch between channels and apps, you can do it all from your phone. No more wasted time or frustration, just a smooth and enjoyable viewing experience.\n\nBenefits of Using our Roku TV Remote Control app:\n\n- ",
+    "icon": "/icons/com.meisterapps.roku.jpg"
+  },
+  "com.roku.remote.smart.tv.control": {
+    "title": "Roku Remote: Smart TV Control",
+    "package": "com.roku.remote.smart.tv.control",
+    "description": "Transform Your Mobile Device into a Powerful Remote controller for your Roku TV!\nIntroducing Roku remote: smart TV control - Take command of your home\nentertainments with your smartphone! This third-party app turns your phone into a comprehensive TV remote for Roku, replacing the hassle of multiple remotes with a single, streamlined solution.\n\nKey Features:\n\u2022 Universal Compatibility: Seamlessly control Roku streaming devices, ensuring straightforward operations right from your smartphone.\n\u2022 Easy To Use: Optimized for quick, reliable commands via your home Wi-Fi, enhancing your control experience without additional hardware. Just connect to the same network connection as your TV.\n\u2022 Interactive Navigation: Use our trackpad for precise navigation and voice input for easy typing, making Roku T",
+    "icon": "/icons/com.roku.remote.smart.tv.control.png"
+  },
+  "com.tinybyteapps.robyte": {
+    "title": "RoByte: Roku TV Remote Control",
+    "package": "com.tinybyteapps.robyte",
+    "description": "RoByte is a simple and easy to use Roku remote control app that works with your Roku Player or Roku TV.\n\nFeatures:\n\u2022 No Setup required, RoByte automatically scans for your Roku device\n\u2022 Easy channel switcher\n\u2022 Use your keyboard for fast text & voice entry on channels like Netflix, Hulu, or Disney+.\n\u2022 View all your TV channels and jump directly to the one you like.\n\u2022 Adjust your Roku TV's volume and toggle the input.\n\u2022 Tablet support\n\u2022 Wear OS support, quick access to play/pause from your wrist\n\u2022 Navigate using D-pad or Swipe-Pad\n\u2022 Pair with multiple Roku devices\n\u2022 Customizable Widgets turn your Android homescreen into a Roku remote\n\u2022 Option to keep the wifi from sleeping\n\u2022 Beautiful design with material design\n\nRoByte Free features:\n\u2022 Roku remote control\n\u2022 Play/pause, fast forward, rewind\n",
+    "icon": "/icons/com.tinybyteapps.robyte.png"
+  },
+  "com.boost.roku.remote": {
+    "title": "TV Remote control for All TV",
+    "package": "com.boost.roku.remote",
+    "description": "TV Remote control for All TV is a mobile TV remote control app that specially designed for popular smart TVs & streaming devices. This TV control application allows you to use your mobile device as a remote control to turn on/off the TV, control volume, browse and stream content and launch channels, which provide all the same functionality as your physical Smart TV remote.\n\nThis TV remote control app works with common Smart TV models, such as Samsung\u3001LG\u3001Vizio\u3001Sony\u3001Fire\u3001Apple TV, etc. Whether you've misplaced your physical TV stick remote or just prefer the convenience of using your phone, the TV remote replacement app is the perfect solution for controlling your Home TV. \n\nFeatures:\n- Easy setup: Download the app and connect it to your TV to start using it right away.\n- Simple navigation: ",
+    "icon": "/icons/com.boost.roku.remote.png"
+  },
+  "com.blogspot.rokutvremotecontrol.remoteforrokutv": {
+    "title": "Remote Control For Roku TV",
+    "package": "com.blogspot.rokutvremotecontrol.remoteforrokutv",
+    "description": "Remote Control for Roku TV is State of the Art Roku Remote which controls your Roku TV and Roku Media Player. This Roku Remote App will always be with you all the time when you move to Friends home for a Movie or you went to a restaurant and your Favorite Channel wasn\u2019t Played on Roku TV. \n\nFeatures\nOne of the best Features of this Roku TV Remote is that all the Functions are Free and there no restricted Paid Access. Our team of experts believe in the Research and Development and this is the reason that our Products are Highly Recommended by users using Roku Universal Remote.\n\nFunctions\nRemote Control for Roku TV has the best and following functions\n\n\uf0d8\tEasy Navigations i.e Up/Down, Right/Left\n\uf0d8\tState of Art Multi Media Controls for Roku TV Remote i.e Play, Pause, FForward, FRewind, Back, H",
+    "icon": "/icons/com.blogspot.rokutvremotecontrol.remoteforrokutv.png"
+  },
+  "com.whenbaro.app": {
+    "title": "When Baro? \u2014 Warframe",
+    "package": "com.whenbaro.app",
+    "description": "Never miss Baro Ki'Teer again! This app tracks exactly when the void trader shows up in Warframe, what he's selling, and sends you a heads up when he arrives with stuff you actually want.\n\nWhat you get:\n\n    Live countdown until Baro's next visit\n\n    Complete inventory with prices the moment he arrives\n\n    Wishlist any items and get notified when he brings them\n\n    Full archive of every item he's ever sold\n\n    Community reviews and ratings for each item, so you know what items are worth the purchase\n\n    warframe.market price data, so you know what things can sell for platinum\n\nMade by Tenno, for Tenno. No ads, no data selling, no nonsense. Just a solid tool to help you not miss a single Baro visit.\n\nNote: This is a community-made companion app, and is not affiliated with Digital Extre",
+    "icon": "/icons/com.whenbaro.app.png"
+  },
+  "com.cephalon.navis": {
+    "title": "Cephalon Navis - Warframe hub",
+    "package": "com.cephalon.navis",
+    "description": "Navis uses the WFCD API to deliver essential information for Warframe players, keeping you informed without leaving your game. Navigate the solar system with ease using Navis\n\nFeatures:\n\n- Real-time in-game news and alerts\n\n- World events and cycle timers for all Open World areas\n\n- Bounty tracking and rewards\n\n- Complete Fissure information (including Void Storms and Steel Path)\n\n- Invasion and Sortie/Archon Hunt details\n\n- Nightwave challenges and rewards\n\n- Darvo's Daily Deals with countdown timers\n\n- Baro Ki'Teer arrival countdown and inventory tracking\n\n- 1999 Calendar for planning your gameplay\n\n- Customizable notifications for invasion resources, cycle timers, and fissure missions\n\nStay ahead of the game with targeted alerts for exactly what you need. Whether you're hunting specific",
+    "icon": "/icons/com.cephalon.navis.png"
+  },
+  "com.digitalextremes.warframemobile": {
+    "title": "Warframe",
+    "package": "com.digitalextremes.warframemobile",
+    "description": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven, free-to-play online action game.\n\nBECOME A POWERFUL WARRIOR\n\nEnter your Warframe: a biomechanical avatar of untold power. Unleash its Abilities and wield a vast array of devastating weaponry to annihilate hordes of enemies. In between the carnage, you can earn or instantly unlock 57+ different Warframes \u2014 each with unique suites of powers to let you control the mayhem any way you want.\n\nBATTLE ALONGSIDE FRIENDS\n\nForm a Squad with your friends and earn valuable bonus Rewards when you complete Missions together via highly collaborative, co-operative gameplay. Utilize your Warframe\u2019s Abilities to heal allies, redirect enemy fire, and accomplish your objectives. Stuck on a particular challenge? In-game mat",
+    "icon": "/icons/com.digitalextremes.warframemobile.png"
+  },
+  "com.digitalextremes.warframenexus": {
+    "title": "Warframe Companion",
+    "package": "com.digitalextremes.warframenexus",
+    "description": "Stay connected using Warframe companion app and get the latest news. Login using your PC, PlayStation Network, Xbox Live, or Nintendo account to receive the best experience.\n\nALERTS, INVASIONS, AND MORE\nGet notifications of new Alerts and view active Invasions, Sorties, and Void Fissures\n\nNIGHTWAVE\nView your completion of daily and weekly Acts as you rank up through the current Season! Also, take a peek at the rewards for the later tiers.\n\nDEPLOY DRONES\nDeploy Extractor Drones with ease right from the Warframe App. Gather resources such as Orokin cells, Plastids, and Neurodes.\n\nBUILD IN YOUR FOUNDRY\nYour Foundry is hard at work \u2014 even when you're offline. Build the latest Warframes, Weapons and gear right from your phone.\n\nFor troubleshooting tips and support please visit:\nhttps://digitale",
+    "icon": "/icons/com.digitalextremes.warframenexus.png"
+  },
+  "com.yacreader.yacreader": {
+    "title": "YACReader Remote",
+    "package": "com.yacreader.yacreader",
+    "description": "YACReader is finally on Android!\n\nBrowse and read all your comics and mangas from YACReaderLibrary remotely or import the content of your library into a local library for reading offline and keep your progress synchronized between devices.\n\nEnjoy a superb user experience with an advance reader that includes support for multiple fitting modes, manga reading, continuous vertical scroll for web based content, double page mode, auto scroll by tapping and more.\n\nJoin the YACReader family and this new journey in a new platform. YACReader has been around for more than a decade in Windows, macos, Linux and iOS, now it is time to enjoy the best comic reader on Android.",
+    "icon": "/icons/com.yacreader.yacreader.webp"
+  },
+  "com.webcomics.manga": {
+    "title": "WebComics - Webtoon & Manga",
+    "package": "com.webcomics.manga",
+    "description": "WebComics\u2122 is the ultimate destination for Comic & Manhwa fans worldwide, offering the latest and hottest authentic comic series. Whether you're a fan of Manga, Manhwa, or Webtoon, we offer an exhilarating and high-definition comic-reading experience, indulging you in the most popular manga & manhwa genres, including Romance, Action, Fantasy, Comedy, BL, GL, Drama, Horror, and more. It's your go-to platform for reading the best stories.\nWith over 8,000 authentic Manhwa & Comic available for online reading, WebComics\u2122 features the latest releases of comics, manga, manhwa, manhua, and webtoons. Whether you fancy billionaires, destined partners, dominant CEOs, vampires, love triangles, otherworldly adventures, time-travel, enemies-to-lovers, or contractual marriage, there's something for ever",
+    "icon": "/icons/com.webcomics.manga.webp"
+  },
+  "com.marvel.unlimited": {
+    "title": "Marvel Unlimited",
+    "package": "com.marvel.unlimited",
+    "description": "Marvel Unlimited is Marvel\u2019s premier digital comics subscription service. Gain instant access to over 30,000 digital comics and over 80 years of comic books through the Marvel Unlimited app, or your web browser. Start your 7-day free trial now!\n\nMarvel Unlimited features all of your favorite characters from Marvel movies, TV shows, and video games. Read the comic books that inspired your favorite super heroes and villains on the big screen!\n\nExperience the all-new digital comic format, Marvel\u2019s Infinity Comics available exclusively on Marvel Unlimited. Featuring in-universe stories from top creators told in visionary vertical format, designed for your device.\nRead comics and stories about Spider-Man, Iron Man, Captain America, Captain Marvel, The Avengers, Thor, Hulk, the X-Men, the Guardi",
+    "icon": "/icons/com.marvel.unlimited.png"
+  },
+  "com.service.reports": {
+    "title": "Service Reports+",
+    "package": "com.service.reports",
+    "description": "A complete, fast and functional tool for Jehovah\u2019s Witnesses, JW, to record and report the time spent in the field ministry.\n \nThis is the advanced version of the 'Service Report' app for JW.\nIt keeps a clean and simple design, with all the previous features like: \n\u2022 send report via SMS, email or third party app like whatsapp\n\u2022 use a stopwatch \n\u2022 set monthly or yearly goals for pioneers\n\u2022 LDC time (available in the settings)\n\u2022 automatically count the exact number of bible studies\n\u2022 round (up or down) the hours at the end of month\n\u2022 works totally offline, no internet connection needed\n\nAnd add new features:\n\u2022 Full return visits managements\n\u2022 Support for multi-publishers\n\u2022 Google Drive Backups\n\nAll data is saved in your device's memory, instead of a remote server that cannot guarantee confid",
+    "icon": "/icons/com.service.reports.png"
+  },
+  "com.khconf.meet": {
+    "title": "JW Conf",
+    "package": "com.khconf.meet",
+    "description": "The JW Conf app is your client for joining interactive audio and video meetings hosted on the JW Conf platform.\n\n\u2022 High-quality audio and video streaming.\n\u2022 Join meetings instantly with a Meeting ID or a direct URL.\n\u2022 Secure connections to protect your privacy.\n\u2022 Cross-platform support for a seamless experience.\n\u2022 Simply enter the Meeting ID provided by the host or click the meeting link to join. No account is needed to attend!\n\u2022 Visit jwconf.com to learn how to get started.",
+    "icon": "/icons/com.khconf.meet.png"
+  },
+  "com.jwscheduler.jws": {
+    "title": "NW Publisher",
+    "package": "com.jwscheduler.jws",
+    "description": "New World Publisher (NW Publisher) allows publishers to view upcoming Christian Life & Ministry meeting parts, Public Talk assignments, Reserve Public Witnessing carts, Duties, Congregation Events & Information Board. Publishers can also see upcoming Life and Ministry meeting, Weekend meeting and Field Service schedules, as well as submit their Field Service Reports to their local congregation.\n\nReceive reminders and notifications for new and upcoming assignments, duties and announcements.\n\n*** PLEASE NOTE: This App is designed to be used together with New World Scheduler (NW Scheduler) which can be downloaded from www.nwscheduler.com. If your congregation is not using New World Scheduler, you will not be able to use this App. ***\n\nASSIGNMENTS\nView all upcoming Midweek Meeting parts, inclu",
+    "icon": "/icons/com.jwscheduler.jws.png"
+  },
+  "com.jwsfoods": {
+    "title": "JW's Foods",
+    "package": "com.jwsfoods",
+    "description": "The JW's Foods Rewards app is the easiest way for our loyal shoppers to receive savings every time they come in to the store!  It's as simple 1, 2, 3: \n\n1. Get the app. \n2. Adding coupons and specials to your shopping list, and \n3. Presenting loyalty card to cashier to scan at check out.  \n\nClaim as many coupons as you want with one simple scan! No more searching through mailers or printing out emails, JW's Foods is bringing rewards right to your mobile device!",
+    "icon": "/icons/com.jwsfoods.png"
+  },
+  "com.creditunion4262.production": {
+    "title": "Credit Union 1 Mobile Banking",
+    "package": "com.creditunion4262.production",
+    "description": "Credit Union 1 Mobile Banking is a secure, convenient way to access your accounts anytime, anywhere, using your mobile device.\n\nThis application allows you to:\n\n\u2022View account balances\n\u2022View account transactions\n\u2022Transfer funds between your checking and savings accounts\n\u2022Deposit checks\n\u2022Be assured that your information is safe and secure\n\u2022And more!",
+    "icon": "/icons/com.creditunion4262.production.jpg"
+  },
+  "com.navyfederal.android": {
+    "title": "Navy Federal Credit Union",
+    "package": "com.navyfederal.android",
+    "description": "Bank easy with the Navy Federal mobile app! With a great look and feel, we\u2019ve made the mobile app easier to find information on your accounts and transactions. Breeze through payments, transfers, and check deposits with just a few taps. Quickly sign-in using a 4-digit passcode. Apply for a credit card, a personal loan, or membership, or find your closest ATM or branch. \n\nFeatures: \n\n\u2022 Safe and Secure. Access your accounts 24 hours a day.\n\u2022 Use your fingerprint or a four digit passcode to see your balances quicker. \n\u2022 Easier to find information on your accounts, including transaction details and running balance.\n\u2022 Make an internal, member, or external transfer through one easy process.\n\u2022 Bill Pay for making payments on the go.\n\u2022 Automatically deposit checks using your camera.\n\u2022 View schedul",
+    "icon": "/icons/com.navyfederal.android.png"
+  },
+  "com.cuamerica.cuamerica": {
+    "title": "Credit Union of America",
+    "package": "com.cuamerica.cuamerica",
+    "description": "With the Credit Union of America Mobile Banking app you can:\nACCESS YOUR ACCOUNT\n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002View current balances\n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002View transactions\nMAKE TRANSACTIONS\n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002Transfer funds between eligible accounts\n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002Pay bills \n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002Deposit checks into your accounts with your device's camera\n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002Manage your debit card settings from your phone\nGET SECURITY ALERTS\n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002Account and transaction alerts\nCONTACT CREDIT UNION OF AMERICA\n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002Locate Credit Union of America branches and ATMs near you.\n-\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002Contact customer service or your local branch.\nAND MORE!\n\nTo enroll in mobile banking you must be a client of Credit Union of America.\u2002\u2002Simply download the free app to your Android device.\n\nRead the Mobile Banking Terms and Conditions for more details.\n\n*Check with your carrier",
+    "icon": "/icons/com.cuamerica.cuamerica.png"
+  },
+  "com.q2e.americanairlinesfederalcreditunion5083.mobile.production": {
+    "title": "American Airlines Credit Union",
+    "package": "com.q2e.americanairlinesfederalcreditunion5083.mobile.production",
+    "description": "Access your accounts while on the go with the American Airlines Federal Credit Union app. \n- Card On/Off is here! You can now temporarily turn off misplaced debit and credit cards. \n- Sign in using your fingerprint on a supported Android\u00ae device for easy, secure access.\n-  Enjoy a 360-degree view of your relationship with the Credit Union, including accounts on which you are a joint owner.\n- Access electronic statements and notices when you enroll in online statements. \n- Monitor your credit score through SavvyMoney\u00ae from any device. \n- Enjoy a unified online banking experience, whether you access your account online, on your Android\u00ae Phone or tablet. \n- Send and receive secure messages to the Credit Union about your account. \n- Transfer funds, make loan payments, pay bills and also pay ot",
+    "icon": "/icons/com.q2e.americanairlinesfederalcreditunion5083.mobile.production.png"
+  },
+  "com.softek.ofxclmobile.unitedcu": {
+    "title": "United Credit Union Mobile",
+    "package": "com.softek.ofxclmobile.unitedcu",
+    "description": "Mobile banking at your fingertips.\n\nBanking with UCU Mobile is faster and easier than ever before!\n\nWith UCU Mobile, you can:\n\nView balances\nView transaction\nView scheduled transfers, pending deposits, and upcoming transfers\nSet up alerts\nFace ID authentication\nMake transfers between your accounts\nMake transfer to other UCU members\nMake loan payments\nGrant account access to a sub-user\nDeposit checks by taking a picture with your device\u2019s camera\nManage card controls for your debit and credit cards from your device. This includes freezing misplaced cards.\nView monthly statements\nOrder checks\nPay bills\nLocate branches and ATM\u2019s near you\n\nUCU\u2019s Mobile App is convenient, safe, and secure.\n\nFirst time users must select the enroll link to set up their account.\n\nIf you have any issues using the ap",
+    "icon": "/icons/com.softek.ofxclmobile.unitedcu.png"
+  },
+  "com.commerzbank.photoTAN": {
+    "title": "Commerzbank photoTAN",
+    "package": "com.commerzbank.photoTAN",
+    "description": "Current information: Due to new protective features in the photoTAN app against the tapping of key material, the app requires the right to access the hardware identity as of version 9.0.0. This data remains on the device and is not transmitted to Commerzbank. Unfortunately, it is not possible to request this right individually. The overall right \"Phone function and contacts\" must always be requested (partly different designation depending on the Android version).\n\nThe right is absolutely necessary to use the app. Subsequent removal of the right can result in the app no longer being able to be used to control orders, as the keys are no longer available.\n\n#######################\nHard-/software checks of your device: At runtime, we check known, security-relevant attack vectors (e.g. rooted/ja",
+    "icon": "/icons/com.commerzbank.photoTAN.webp"
+  },
+  "com.db.pbc.phototan.nb": {
+    "title": "norisbank photoTAN",
+    "package": "com.db.pbc.phototan.nb",
+    "description": "APPROVE ORDERS SECURLY AND QUICKLY\nWith the photoTAN app, you can easily and securely approve your orders such as transfers in online and mobile banking. To do this, the photoTAN security procedure must be activated by scanning a graphic in the activation letter.\n\nphotoTAN AND photoTAN push\nWith an active photoTAN procedure, you have 2 options to approve an order:\n\nphotoTAN \u2013 here you scan a graphic and enter the generated TAN (transaction number) in the order. This confirms the order and approves it.\n\nFor more convenience, we recommend photoTAN push \u2013 you confirm the order directly in the app after checking the data. \n\nSECURITY\nThe photoTAN app is protected by a PIN chosen by you or by biometric data.\n\nACTIVATE photoTAN\nSince May 23, 2025, no new photoTAN security procedure can be set up.",
+    "icon": "/icons/com.db.pbc.phototan.nb.png"
+  },
+  "com.db.pbc.phototan.db": {
+    "title": "Deutsche Bank photoTAN",
+    "package": "com.db.pbc.phototan.db",
+    "description": "+++ Approve orders securely and conveniently +++\nThe photoTAN app allows you to approve your orders, such as transfers in online and mobile banking. To do this, the photoTAN security procedure must be activated by scanning a graphic in the activation letter.\n+++ photoTAN and photoTAN push +++\nOnce a photoTAN procedure is active, you have 2 options for approving an order:\nphotoTAN \u2013 simply scan a graphic and enter the generated TAN (transaction number) in the order. This confirms the order and approves it.  \nFor added convenience, we recommend photoTAN push \u2013 once you have checked the data, confirm the order directly in the app. \n+++ Security +++\nThe photoTAN app is protected by a PIN of your choice or by biometric data.\n\n+++ Note on activating photoTAN +++\nSince 25 August 2025, it is no lo",
+    "icon": "/icons/com.db.pbc.phototan.db.png"
+  },
+  "com.widex.dchip": {
+    "title": "WIDEX ALLURE",
+    "package": "com.widex.dchip",
+    "description": "Take full control of your Allure TM hearing by using the Widex Allure app\u2014it\u2019s only a tap away! \n\nAccessible for all:\nUsing the app, you\u2019ll experience seamless support of your phone\u2019s accessibility features such as haptic feedback and adjustable text size.\n\nControl your hearing aids:\nCheck the battery level, change program, adjust the volume and mute/unmute your hearing aids.\n\nStream directly to your hearing aids:\nHear phone calls, music and everything else from your phone directly in your hearing aids. In the app, adjust the balance between stream and surroundings.\n\nUse the AI Assistant:\nWhen you need to adjust your sound, you can try the Quick Assistant for instant sound recommendations or experience the full AI-guided tour via Sound Assistant.\n\nCustomize the sound:\nAdjust your hearing a",
+    "icon": "/icons/com.widex.dchip.png"
+  },
+  "com.allure.production": {
+    "title": "Allure Lighting",
+    "package": "com.allure.production",
+    "description": "This app allows you to configure and control your installed Allure track lighting products.\n\nTo find out more about Allure Lighting and the products we offer, visit us at https://allurelighting.ca.",
+    "icon": "/icons/com.allure.production.png"
+  },
+  "com.allure.audiobooks": {
+    "title": "Allure: Alpha Werewolf Stories",
+    "package": "com.allure.audiobooks",
+    "description": "Allure: Werewolf Love Stories \u2013 Passion, Fate & Alpha Romance\n\nStep into the seductive world of Allure, the ultimate destination for fans of werewolf love stories, alpha romance, and supernatural passion. Whether you crave intense emotional drama, fated mate bonds, or powerful pack dynamics, Allure brings unforgettable stories straight to your screen.\n\n\ud83c\udf15 Dive into Captivating Werewolf Romance\nExplore a growing collection of thrilling werewolf novels filled with dominant alphas, strong heroines, forbidden love, betrayal, revenge, and destined mates. Each story pulls you deeper into a world where love is fierce, loyalty is tested, and passion burns under the full moon.\n\n\ud83d\udcda Immersive Reading Experience\nEnjoy smooth, distraction-free reading designed for true romance lovers. Customize your read",
+    "icon": "/icons/com.allure.audiobooks.jpg"
+  },
+  "com.allureapp": {
+    "title": "Allure",
+    "package": "com.allureapp",
+    "description": "Allure connects talents with real casting opportunities in the entertainment and media industry. Whether you're an actor, model, presenter, dancer, singer, influencer, or voice artist \u2014 Allure helps you build your professional profile and apply to verified job opportunities.\n\nFor Talents\n\nCreate a complete professional profile including:\n\n\u2022 Photos and video portfolio\n\u2022 Skills, experience, and languages\n\u2022 Appearance and profession details\n\u2022 Multiple talent profiles\n\u2022 Analytics and profile insights\n\nSearch and apply to casting calls with smart filters:\n\n\u2022 Role type (actor, model, presenter, etc.)\n\u2022 Gender and age range\n\u2022 Location and project type\n\u2022 Salary range\n\u2022 Application deadline\n\nTrack your application status in real time and receive instant notifications.\n\n\n\ud83d\udc8e Subscription Plans\n\nChoose",
+    "icon": "/icons/com.allureapp.png"
+  },
+  "com.stc.allure": {
+    "title": "Allure Dating App: Chat & Love",
+    "package": "com.stc.allure",
+    "description": "Allure is a modern dating app built to help you meet people who genuinely match your vibe. If you\u2019re tired of boring dating apps, Allure gives you a fresh, clean, intentional way to connect.\n\nFind real singles near you with location-based matching, refine your preferences, and meet people who actually align with what you\u2019re looking for. Once you match, chat instantly with our real-time messaging.\n\nAllure also includes fun digital gifts you can send to people you like \u2014 roses, hearts, and other premium effects that make conversations more exciting and help you stand out.\n\nAllure goes beyond typical dating apps. Create and join local events, meet people in real life, and turn online connections into real experiences.\n\nFEATURES\n\u2022 Modern dating app for real connections\n\u2022 Send digital gifts to ",
+    "icon": "/icons/com.stc.allure.png"
+  },
+  "com.globe.gcash.android": {
+    "title": "GCash",
+    "package": "com.globe.gcash.android",
+    "description": "SEND MONEY IN REAL-TIME\n\u2022 Free GCash-to-GCash transactions\n\u2022 Send to multiple GCash accounts via Send to Many\n\u2022 Transfer funds to other e-wallets & banks such as Maya, BPI, BDO, Unionbank, Landbank, Metrobank, Chinabank, and more\n\u2022 Save bank account details for future transfers\n\nBUY LOAD ANYTIME, ANYWHERE\n\u2022 Available for all networks\n\u2022 Get GCash-exclusives for Globe & TM\n\u2022 Prepaid broadband, TV channel packages, and prepaid health insurance available\n\nPAY BILLS & FEES TO 400+ BILLERS\n\u2022 Settle bills in advance or past due anytime, anywhere\n\u2022 Set payments reminders and save recurring billers\n\u2022 GCredit accepted by select billers\n\nPAY EASILY EVERYWHERE YOU GO\n\u2022 Scan to Pay via GCash QR or QRPh at 70,000+ merchants nationwide, and in select international merchants via Alipay+ QR\n\u2022 Pay with the ",
+    "icon": "/icons/com.globe.gcash.android.png"
+  },
+  "com.gcash.app": {
+    "title": "GCASH Portfolio",
+    "package": "com.gcash.app",
+    "description": "Choose the financial assets (stocks, BDRs, metals, real estate funds, currencies, cryptocurrencies) and use our algorithm based on Artificial Intelligence to simulate the Portfolios whose allocation (%) of assets will provide your Investment with Maximum Return and Lowest Risk.\n\nSelect one of the simulated portfolios, set asset prices and track their value and profitability graphically.\n\nMonitor market indicators updated daily.\n\nCreate as many simulations and portfolios as you like.\n\nShare them with your friends!",
+    "icon": "/icons/com.gcash.app.png"
+  },
+  "com.kasikornbank.kpaymerchant": {
+    "title": "K SHOP",
+    "package": "com.kasikornbank.kpaymerchant",
+    "description": "K SHOP is an application that help offline and online merchant to manage payment the more cashless way. \n\n\u2022 Accept various of QR code payment - Thai QR PromptPay, QR Credit, Alipay, WeChat Pay and K Point\n\u2022 Support auto and on-demand manually settlement\u00a0 \n\u2022 Support Payment Link and share to chat room, social media or email\n\u2022 Support KBank credit card installment payment\n\u2022 Instant void from K PLUS payment transaction\n\u2022 Card acceptance with mPOS (Mobile Point of Sale)\n\u2022 Sale report for hourly, daily, weekly and yearly\n\u2022 Realtime notification alert for both shop owner and shop employee\n\u2022 Voice notification and push notification on K SHOP application\n\nOn-boarding registration channels:\n\u2022 Individual person - simply download application and apply online\n\u2022 Juristic person - contact at KBank branc"
   }
 }
