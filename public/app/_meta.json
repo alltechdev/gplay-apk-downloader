@@ -21085,5 +21085,395 @@
     "title": "K SHOP",
     "package": "com.kasikornbank.kpaymerchant",
     "description": "K SHOP is an application that help offline and online merchant to manage payment the more cashless way. \n\n\u2022 Accept various of QR code payment - Thai QR PromptPay, QR Credit, Alipay, WeChat Pay and K Point\n\u2022 Support auto and on-demand manually settlement\u00a0 \n\u2022 Support Payment Link and share to chat room, social media or email\n\u2022 Support KBank credit card installment payment\n\u2022 Instant void from K PLUS payment transaction\n\u2022 Card acceptance with mPOS (Mobile Point of Sale)\n\u2022 Sale report for hourly, daily, weekly and yearly\n\u2022 Realtime notification alert for both shop owner and shop employee\n\u2022 Voice notification and push notification on K SHOP application\n\nOn-boarding registration channels:\n\u2022 Individual person - simply download application and apply online\n\u2022 Juristic person - contact at KBank branc"
+  },
+  "com.dutchbros.loyalty": {
+    "title": "Dutch Bros",
+    "package": "com.dutchbros.loyalty",
+    "description": "The fun doesn\u2019t stop on the Dutch Bros\u00ae app! Customize your drink to your liking on Order Ahead and pay with Dutch Pass\u00ae. Earn points on every purchase towards free drinks with Dutch Rewards\u2122 and unlock exclusive app stickers! Get closer to free drinks with bonus point days and member-exclusive challenges. See you at the shop!\n\nOrder Ahead\nYour Broista is now on speed dial! Customize, pay and pick up your order at the shop using Order Ahead. Select \"Pickup Window\" for the fastest experience! Don\u2019t worry, we\u2019ll still ask about your day.\n\nDutch Rewards\u2122\nSign up for Dutch Rewards\u2122 and download the app to unlock a FREE medium drink! Earn 3 points for every dollar spent towards rewards. Look out for bonus point days and challenges to get closer to free drinks!\n\n*Offer valid for new app users on",
+    "icon": "/icons/com.dutchbros.loyalty.png"
+  },
+  "com.teamworks.twmobile.next": {
+    "title": "Teamworks",
+    "package": "com.teamworks.twmobile.next",
+    "description": "Teamworks is The Operating System for Sports\u2122, connecting the best in sports technology and home to best-in-class products for each stage of the athlete lifecycle. It\u2019s ONE complete solution that connects, focuses, and empowers staff, coaches, and athletes to drive holistic performance. Wherever your athletes and staff may be, empower them with the information they need to manage their responsibilities on and off the field.\n\n- Timely news feed\n- Robust in-app messaging with SMS fallback\n- Team and individual calendars \n- Consolidated task lists\n- Video, photo, and file upload\n- Form completion\n- Travel itineraries\n- Access to other Teamworks products\n\nNote: You must have a Teamworks account to access the Teamworks app.",
+    "icon": "/icons/com.teamworks.twmobile.next.png"
+  },
+  "com.neptune.bearfish": {
+    "title": "Bearfish Slots",
+    "package": "com.neptune.bearfish",
+    "description": "BEARFISH offers a free Vegas slot machine experience, just a tap away to enjoy the best classic slot games. Enjoy free spins and win big in these free slot machine games! Start your slot journey with X2, X4, X8 speeder! It will be more ! Enjoy endless fun with big cash slot machines!\n\n[1] Multiple themed real-life Las Vegas slot machine experiences: Zeus, DuoFuDuoCai, JinJiBaoXi, FAFAFA, 777, Panda, and more...\n[2] Multiple jackpots: mini/minor/major/grand WINS, incredible massive victories!\n[3] Multiple gaming platforms: Not only does it provide a domino kingdom for domino lovers, but it also offers real online fishing games with various themes, bringing astonishing excitement. Valuable fishing props can also be gifted to friends.\n[4] Play with friends anytime, anywhere, with millions of ",
+    "icon": "/icons/com.neptune.bearfish.png"
+  },
+  "com.neptune.dominogl": {
+    "title": "Higgs Domino Global",
+    "package": "com.neptune.dominogl",
+    "description": "Higgs Domino Global is a casual board and card game app, developed with both Cocos2d-X and Unity3D engines.\nThe game is based on the Domino game widely played in real life, and also features a variety of popular titles such as Texas Hold\u2019em Poker, Remi , Chess, Ludo, along with thrilling entertainment options like Slot Games. Players can explore diverse gameplay, enjoying both relaxation and excitement.\nThe app supports multiple regional servers across the Americas, Africa, Europe, and more, allowing players worldwide to connect, compete, and experience unique regional game styles.\nThis is a unique and engaging online game that is easy to learn yet full of challenges. Join now and make your leisure time even more enjoyable!\nFeatures\nElegant and modern UI design \u2013 Refined style and relaxing",
+    "icon": "/icons/com.neptune.dominogl.png"
+  },
+  "com.harmonygames.dominodelights": {
+    "title": "Domino Delights",
+    "package": "com.harmonygames.dominodelights",
+    "description": "Domino Delights offers a unique blend of classic tile-matching with strategic brain teasers, immersing players in an exciting and relaxing gameplay experience. Perfect for fans of board games and solitaire, this game combines clever puzzle-solving with vibrant visuals, smooth 3D graphics, and a serene atmosphere, making it a delightful way to unwind.\n\nExplore thousands of handcrafted levels, each filled with challenging puzzles and special objectives. Dive into a world where every move counts and enjoy the thrill of matching, collecting, and strategizing with satisfying ASMR gameplay featuring domino tiles and soothing animations. With every level, you\u2019ll experience the excitement of unlocking new challenges while enjoying the calming effects of this delightful puzzle adventure.\n\nWhy You\u2019l",
+    "icon": "/icons/com.harmonygames.dominodelights.png"
+  },
+  "com.neptune.poker": {
+    "title": "Poker Island-Crazy Domino",
+    "package": "com.neptune.poker",
+    "description": "Join Your Friends on Poker Island! You can play classic card games Poker and Dominoes for free anytime and anywhere! There are more game innovations, whether you are a beginner or an expert, you can quickly understand the game rules and enjoy cool effects and exciting games with Multiplier!\n\nFeature:\n1. Innovation in the Domino Game\nAdded Multiplier innovation in the classic Domino game, providing a more interesting and enjoyable playing experience.\n\n2. Very Classic Playing Card Game\nCompete with real players and become a master in online games, a return to the classic game of Rummy.\n\n3. Lots of Free Coins Every Day\nGet coins just by registering, just log in every day to get lots of free coins, as well as various events and missions to get more coins.\n\n4. Combination of cool effects that h",
+    "icon": "/icons/com.neptune.poker.png"
+  },
+  "com.murumed.android.muru": {
+    "title": "Muru",
+    "package": "com.murumed.android.muru",
+    "description": "Built by medics, for medics, Muru delivers you the right tools you need during a call. Intuitive, blazingly fast, and built for the mission critical work you do. \n\nDosing\n--------------------------------------------------\nGet any information you need on a dose. Find out how many times you can repeat your dose, if it\u2019s a medical control order, or its contraindications. \n\nMed Math \n--------------------------------------------------\nAll your med math done for you with every variable accounted for. Infusion sets, concentrations, weight, 200 mg in 250 ml \u2013 it\u2019s all taken care of. \n\nTransportation Decisions\n--------------------------------------------------\nNo second-guessing transport decisions or arguments about if a hospital recently lost its STEMI certification. Know where the closest specia",
+    "icon": "/icons/com.murumed.android.muru.png"
+  },
+  "com.GGDS.idle.medieval.tycoon": {
+    "title": "Medieval: Idle Tycoon Game",
+    "package": "com.GGDS.idle.medieval.tycoon",
+    "description": "Build medieval town, grow your kingdom and become king in this tap idle clicker! Your fantasy empire is waiting for you! \ud83c\udff0\n\nDownload this building tycoon simulator game for free and build in multiple lands to earn gold coins and to collect your village's cash. If you love idle games - this one is for you!\n\nBuilding castle, market, inn, and more! - gives you profits. Upgrade them for boost and become medieval billionaire tycoon! \ud83e\udd34If you search for idle games - you've found best!\n\nGet idle loot - quest give you reward, invest it to earn more!  Create Medieval Inc.\n\nDifferent buildings help grow your medieval clicker kingdom so you collect even more money.\nBe the operator of your medieval business, hire advisors - best idle heroes - to get bonuses. \ud83d\udc51\n\nTap, Develop new technologies and profit ",
+    "icon": "/icons/com.GGDS.idle.medieval.tycoon.png"
+  },
+  "com.feralinteractive.empire_android": {
+    "title": "Total War: EMPIRE",
+    "package": "com.feralinteractive.empire_android",
+    "description": "\u2018A NEW WORLD\u2019 NOW AVAILABLE\nAvailable via in-app purchase, this massive expansion unlocks:\n\n \u2022 44 PLAYABLE FACTIONS: Lead all non-rebel factions in the Grand Campaign, from Greece and Gran Colombia to Mexico and the Mamelukes.\n\n \u2022 2 NEW CAMPAIGNS: The Late Start Campaign brings EMPIRE\u2019s global map into 1783, where technologically advanced empires fight to retain their distant colonies. In the Warpath Campaign, lead one of five Native American factions on a detailed, tightly focused map of the Americas.\n\n \u2022 14 NAVAL UNITS: Enhances late-game naval combat with variants on existing vessels and favourites from Total War: NAPOLEON, including the giant 140-gun Santissima Trinidad.\n\n===\n\nEMPIRE brings Total War\u2019s real-time battles and grand turn-based strategy into the 18th-century age of explora",
+    "icon": "/icons/com.feralinteractive.empire_android.png"
+  },
+  "com.herocraft.game.full.medieval": {
+    "title": "S&T: Medieval Wars Premium",
+    "package": "com.herocraft.game.full.medieval",
+    "description": "The history of medieval Europe is rich in bloody wars and conflicts. The Norman invasion, the Crusades, the Hundred Years' War, the Reconquista, the Wars of the Roses, the Albigensian Crusade and endless peasant riots\u2026 \n\nA new game in the Strategy & Tactics series gives you an opportunity to try your strength in confrontations between the most ruthless conquerors.\n\nIn Strategy & Tactics: Medieval Wars you are to lead the armies of England and France as well as the armies of crusaders in three campaigns and try to win the biggest wars and battles of European medieval history. Scenario maps will let you take part in Russian feuds, stop the Saracens under the flag of Charles the Great and lead The Hussites.\n\nAfter winning all the fascinating battles of Campaign and Scenario mode, try Hotseat ",
+    "icon": "/icons/com.herocraft.game.full.medieval.png"
+  },
+  "com.feralinteractive.medieval2_android": {
+    "title": "Total War: MEDIEVAL II",
+    "package": "com.feralinteractive.medieval2_android",
+    "description": "MEDIEVAL II brings Total War\u2019s compelling mix of massive real-time battles and intricate turn-based strategy to Android. Set across three continents during the turbulent Middle Ages, spectacular conflicts and scheming rivals line the path to power as the great kingdoms of the medieval world vie for supremacy. Be it through diplomacy or conquest, trade or subterfuge, you must secure the resources and loyalty required to rule an empire from the shores of Western Europe to the sands of Arabia.\n\nTHE STRENGTH OF NATIONS\nUnlock up to 17 playable factions and build them into major world powers through statecraft, subterfuge or all-out war.\n\nTHE KINGDOMS EXPANSION\nAvailable via in-app purchase, this massive expansion includes 24 playable factions across four unique, fully featured campaigns. Wage ",
+    "icon": "/icons/com.feralinteractive.medieval2_android.png"
+  },
+  "com.herocraft.game.free.medieval": {
+    "title": "S&T: Medieval Wars",
+    "package": "com.herocraft.game.free.medieval",
+    "description": "Strategists! A huge update of Medieval Wars is here!\n\nA free campaign \u2018In Praise of Odin!\u2019 consists of 9 missions, in which you will take part in the Vikings\u2019 bloody wars in Scandinavia and Mainland Europe. \n\n\u2022 You will be able to capture Paris, invade England and Southern Italy. \n\u2022 With the great Rollo you will found the Normandy dukedom. \n\u2022 In Oleg the Prophet\u2019s campaign you will gain Kiev. \n\n\nFor those who think that\u2019s not enough, we have also prepared 4 new historical scenarios. \n\n\u2022 In the bloody \u2018Battle of Br\u00e1vellir\u2019 you will defeat the legendary Harald Wartooth, the King of Danes and Swedes. \n\u2022 In a huge scenario called \u2018Vikings' Wars\u2019 you will be able to keep half of Europe in fear and make them look to the seas in terror. \n\u2022 Playing as Harald Fairhair in the \u2018Unification of Norway\u2019",
+    "icon": "/icons/com.herocraft.game.free.medieval.png"
+  },
+  "com.sbs.train": {
+    "title": "MacroFactor Workouts - Tracker",
+    "package": "com.sbs.train",
+    "description": "MacroFactor Workouts combines innovative coaching algorithms with science-based workout routines customized to your goals, fitness level, and gym equipment.\n\nEffortlessly track your strength training routines with an intuitive workout planner, and easily monitor your PRs and progress with charts and data insights.\n\nMacroFactor Workouts uses progressive overload to automatically adjust your strength training workouts based on your progress, helping you break through plateaus and reach your fitness goals.\n\nNo gym? No problem. Create routines based on the equipment you have available in your home gym.\n\nDownload to start your 7-day trial of this premium, ad-free workout tracker app.\n\nWORKOUT TRACKER & PLANNER FEATURES\n\n- Effortlessly track your workouts with an intuitive interface\n- Hundreds o",
+    "icon": "/icons/com.sbs.train.png"
+  },
+  "com.soundcorset.client.android": {
+    "title": "Tuner & Metronome",
+    "package": "com.soundcorset.client.android",
+    "description": "\ud83c\udfb9 Easy to use and innovative must have features are all included.\n\n\ud83c\udfb6 The most accurate chromatic tuner and professional hands-free metronome.\n\ud83d\udc4d Designed by musicians \u2192 super-fast and simple to use!\n\ud83c\udfbc [NEW] 4,000+ free sheet music pieces in our app.\n\nWith just one touch, you can:\n\u2022 Start or stop the metronome\n\u2022 Turn on the tuner\n\u2022 Toggle flash light-, vibration-, and visual-mode metronome\n\u2022 Record your playing\n\u2022 Select rhythm patterns\n\n==========================================\n\u2605 Features:\n\u2022 Tuner with two modes:\n(1) chromatic tuner for measuring sound pitch and intensity\n(2) pitch fork mode\n\u2022 Customizable A4 frequency (default 440Hz)\n\u2022 Record your playing with our integrated one-touch recorder\n\u2022 Upload your own sheet music to the app, and record and practice while watching or following alo",
+    "icon": "/icons/com.soundcorset.client.android.webp"
+  },
+  "app.revanced.manager.flutter": {
+    "title": "app.revanced.manager.flutter",
+    "package": "app.revanced.manager.flutter"
+  },
+  "com.gameloft.android.ANMP.GloftPOHM": {
+    "title": "My Little Pony: Magic Princess",
+    "package": "com.gameloft.android.ANMP.GloftPOHM",
+    "description": "Saddle up for fun, friendship and adventure with all of the most popular ponies in Equestria in the free official game based on the phenomenal MLP TV show.\n\nOnly Twilight Sparkle -- the student of Princess Celestia -- and her friends Rainbow Dash, Fluttershy and the rest can save the day for every horse in the city as they farm resources, meet cute friends and reach for their dreams.\n\n\u00b7 Over 300 characters: Meet a royal prince or princess one day, a cute adventure-seeking horse the next day and who knows what the next. Give them places to stay, nibble on hay and hear what they have to say.\nExplore the Crystal Empire, Canterlot, Sweet Apple Acres farm and more.\n\n\u00b7 Make a pretty pony home: Beautify your MLP town and make it better than in any other city builders out there with cute houses, a",
+    "icon": "/icons/com.gameloft.android.ANMP.GloftPOHM.png"
+  },
+  "com.coloros.weather2": {
+    "title": "Weather",
+    "package": "com.coloros.weather2",
+    "description": "Your simple and easy-to-use weather app for a wide array of accurate weather info.\n \u00b7 Weather for any location\nGet current weather and forecast for 700,000+ cities around the world.\n \u00b7 All weather info you need\nView hour-by-hour and 15-day forecasts, precipitation, air quality, weather-based clothing advice, and more.\n\u00b7 Severe weather warnings\nBe prepared and take precautions with severe weather warnings."
+  },
+  "com.upscrolled.app": {
+    "title": "UpScrolled",
+    "package": "com.upscrolled.app",
+    "description": "UpScrolled \u2014 Where voices connect, stories unfold, and expression thrives.\n\nBuilt for authentic connection and genuine expression. Unlike mainstream platforms, UpScrolled prioritizes real conversations and meaningful interactions. Here you can:\n\n\u2022 Share photos and everyday moments with ease\n\u2022 Post high-quality short or long-form videos\n\u2022 Use advanced video editing tools to add your personal touch\n\u2022 Write text posts to express your thoughts and opinions\n\u2022 Chat instantly with others in real time\n\u2022 Explore trending topics and content in your region\n\u2022 Customize your profile to reflect your identity\n\u2022 View daily stories from friends and the community\n\u2022 Follow people who inspire or matter to you\n\u2022 Stay up to date with what\u2019s happening around you\n\u2022 Stay in control with private accounts\n\nWe champi",
+    "icon": "/icons/com.upscrolled.app.webp"
+  },
+  "com.markOne.s_app": {
+    "title": "com.markOne.s_app",
+    "package": "com.markOne.s_app"
+  },
+  "com.tencent.voov": {
+    "title": "VooV Meeting",
+    "package": "com.tencent.voov",
+    "description": "Global cross-border video conferencing just got better! VooV Meeting breaks down borders, providing smooth, secure, and reliable cloud-based video conferencing across over 100 countries around the world - for free up to 300 attendees.\n\nEasily schedule or join meetings with crystal clear audio and HD video quality. And effectively collaborate across global teams through instant messaging, screen and document sharing, and much more! \n\n- Key Features -\n[Easy to Use]\n- Easily join, start, and schedule a meeting in just a few clicks across devices\n- Real-time screen, file and message sharing \n- Comprehensive host management controls\n\n[Smooth and Crystal Clear]\n- Crystal-clear audio and HD video quality\n- AI-powered beauty filters and background blur\n- Smart ambient noise and keyboard click soun",
+    "icon": "/icons/com.tencent.voov.webp"
+  },
+  "com.tencent.mobileqq": {
+    "title": "QQ",
+    "package": "com.tencent.mobileqq",
+    "description": "----- QQ \u00b7 Happy communication -----\n\n\u221a Serving more than 90% of mobile Internet users\n\u221a Multi-person video and file transmission between multiple ends, continuous innovation to meet the needs of communication\n\u221a Committed to creating a joyous communication, entertainment and life experience\n\n-----The main function-----\n\n\u00b7 Chat messages: send and receive friends and group messages anytime and anywhere with one touch.\n\u00b7 Voice call: Two-person, multi-person voice call, high-definition chat.\n\u00b7 Video chat: Friends and family, it is better to miss each other.\n\u00b7 File transfer: Multi-terminal transmission between mobile phones and computers is convenient and fast.\n\u00b7 Spatial dynamics: learn about friends' dynamics faster, share life and keep moving.\n\u00b7 Personal dress up: free choice of themes, busin",
+    "icon": "/icons/com.tencent.mobileqq.png"
+  },
+  "com.alibaba.android.rimet": {
+    "title": "DingTalk",
+    "package": "com.alibaba.android.rimet",
+    "description": "DingTalk \u2014 The AI Workplace Platform for Teams\nDingTalk is an AI-powered collaboration platform trusted by over 700 million users and 26 million organizations worldwide.\nIn the age of AI, DingTalk connects your team\u2019s communication, creation, and execution to enable smarter, more efficient work.\n\nAI Meeting Assistant\nAI transcribes and summarizes meetings in real time, automatically generating minutes and action lists.\nIt supports speaker identification, key point highlighting, and full-text search.\nWith over 30 meeting templates\u2014covering regular meetings, OKR reviews, and client discussions\u2014it helps your meetings run more efficiently.\n\nAI Table\nBuild business databases with no coding using AI Tables.\nEquipped with 50+ business templates, AI assists with OCR recognition, auto-summarization",
+    "icon": "/icons/com.alibaba.android.rimet.png"
+  },
+  "com.gaminik.i18n": {
+    "title": "Gaminik: Auto Screen Translate",
+    "package": "com.gaminik.i18n",
+    "description": "Ad-Free Forever! Get Free Unlimited Translation Points Upon Login!\nHas supported DeepL, ChatGPT, Claude, Gemini and other advanced translation engines\n\nGaminik provides the most realistic real-time translation of screen. Support translation of content such as Game, Chat, Comics, News, APP interface, Photo, etc. Support translation from 89 languages (including English, Chinese, Japanese, Korean, Thai, Russian, Arabic etc.) to 105 languages.\n\n********\nAdvantage:\n\ud83d\udc4d Ad-Free experience, uninterrupted gameplay.\n\ud83d\udc4d Better yet, it's smarter and supports Automatic translation.\n\ud83d\udc4d More natural, the translation is integrated into the game screen, as if the game is natively supported.\n\ud83d\udc4d Faster, the translation displayed as fast as 1 second.\n\ud83d\udc4d More accurate, with the most advanced technology used for tex",
+    "icon": "/icons/com.gaminik.i18n.png"
+  },
+  "com.autonavi.minimap": {
+    "title": "AMap Global",
+    "package": "com.autonavi.minimap",
+    "description": "China's first English map for overseas users has officially launched!\nThe Choice of 800 Million Navigation Users.\nOver 200 countries and territories mapped and hundreds of millions of places on the map.\nExploring China with AMAP as your guide!\n\n-3D lane-level views & traffic light countdown\n-Get real-time traffic updates & ETAs\n-Detail junction views, never miss a turn\n-See real time transit info and route options\n\u3010APP\u66f4\u65b0\u3011\n-3D lane-level views & traffic light countdown\n-Get real-time traffic updates & ETAs\n-Detail junction views, never miss a turn\n-See real time transit info and route options",
+    "icon": "/icons/com.autonavi.minimap.jpg"
+  },
+  "com.blink.academy.protake": {
+    "title": "Protake - Mobile Cinema Camera",
+    "package": "com.blink.academy.protake",
+    "description": "Protake brings the filmmaking experience of professional cinema cameras to your mobile devices.\n\nNo matter you're a daily vlogger, a commercial director, or a well-established filmmaker, you will benefit from Protake's features including:\n\n# MODES\n\n\u00b7 AUTO Mode: a mode optimized for vloggers and YouTubers, you can use it single-handedly, with our cinematic looks and professional composition assistants.\n\u00b7 PRO Mode: a mode designed for professional filmmakers. All the camera information and control settings are well aligned on the screen. The feature you want is always there on the screen.\n\n# COLOR\n\n\u00b7 LOG: it's not only a genuine LOG gamma curve -- we strictly matched your mobile device's color to the industrial standard - ALEXA Log C. Besides the benefit of an outstanding dynamic range, colo",
+    "icon": "/icons/com.blink.academy.protake.png"
+  },
+  "com.untitledshows.pov": {
+    "title": "POV \u2013 Disposable Camera Events",
+    "package": "com.untitledshows.pov",
+    "description": "POV helps you capture the point of view of everyone at your event. It's perfect for weddings, birthdays, quincea\u00f1eras, graduations, bachelorette parties, and more.\n\nLike a digital disposable camera \u2013\u2013 cap the number of photos that each of your guests can take and have the photos reveal the next day!\n\nNO DOWNLOAD REQUIRED FOR GUESTS\nGuests can scan a code or tap on a link and don't have to download this app to participate.\n\nCAMERA\nThe camera is completely customizable \u2013\u2013 you determine how many photos each of your guests can take.\n\nGALLERY\nChoose when your photo album reveals \u2014 during the event, right after, or on a delay just like a real disposable camera. Create a shared gallery where all guests can relive the best memories together, or keep it private so photos are shared directly with th",
+    "icon": "/icons/com.untitledshows.pov.png"
+  },
+  "com.flavionet.android.camera.lite": {
+    "title": "Camera FV-5 Lite",
+    "package": "com.flavionet.android.camera.lite",
+    "description": "Camera FV-5 is a professional camera application for mobile devices, that puts DSLR-like manual controls in your fingertips. Tailored to enthusiast and professional photographers, with this camera application you can capture the best raw photographs so that you can post-process them later and get stunning results. The only limit is your imagination and creativity!\n\n\nMajor features:\n\n\u25cf All photographic parameters are adjustable and always at hand: exposure compensation, ISO, light metering mode, focus mode, white balance and program mode.\n\u25cf DSLR-like viewfinder display: see exposure time, aperture and stops display with EV and bracketing settings, in real-time!\n\u25cf Full fledged exposure bracketing: from 3 to 7 frames, unlimited stops spacing, plus custom EV shifting.\n\u25cf Built-in intervalometer",
+    "icon": "/icons/com.flavionet.android.camera.lite.png"
+  },
+  "com.widgetclub": {
+    "title": "WidgetClub:Widget, Theme, Icon",
+    "package": "com.widgetclub",
+    "description": "Customize Your Phone with Aesthetic Widgets, App Icon packs, and Aesthetic Wallpapers with WidgetClub!\nThis app includes these features;\n- Widget Maker\n- Live Wallpaper Maker\n- Icon Changer\n- Icon Maker ... and more!\n\n5,000+ Aesthetic Home Screen Themes for Android\ud83c\udf89 \n\nWith WidgetClub, you can easily customize your home screen and lock screen with various types of beautiful widgets, icons, live wallpapers, and HD & 4K wallpapers.\nCreate your own personalized themes effortlessly!\n\nWide Range of Aesthetic Themes\nChoose from over 5,000+ theme packs (theme kit) to stylishly customize your home screen! Each theme pack includes a curated set of aesthetic icons, background wallpapers, and widgets, making it easy to find and apply your perfect phone theme!\n\nThis theme app acts as an all-in-one phon",
+    "icon": "/icons/com.widgetclub.webp"
+  },
+  "com.note9.launcher.cool": {
+    "title": "Cool Note20 Launcher Galaxy UI",
+    "package": "com.note9.launcher.cool",
+    "description": "Cool Note20 Launcher is a cool style of Galaxy Note20 launcher with many valuable features and many configurations.\n\n\u2764\ufe0f Who will get value from Cool Note20 Launcher?\n1. People who has a bit old phones and want to make their phone look modern, just try this Cool Note20 Launcher, need not flash Rom\n2. People who has Galaxy J/A/C/S series devices or other brands' devices and want to experience Galaxy Note20, just try this Cool Note20 Launcher\n3. People who has Galaxy Note series devices and want more new, cool features from launcher than One UI launcher, just try this Cool Note20 Launcher\n\n\ud83d\udca1 Notice for users: \n+ Android\u2122 is a registered trademark of Google, Inc. \n+ Cool Note20 Launcher is inspired by Galaxy Note20 Launcher, it is NOT official Samsung\u2122 Galaxy Note20 Launcher, it is built by Co",
+    "icon": "/icons/com.note9.launcher.cool.png"
+  },
+  "com.rockstargames.bully": {
+    "title": "Bully: Anniversary Edition",
+    "package": "com.rockstargames.bully",
+    "description": "Download and play Bully: Anniversary Edition for up to thirty minutes as a free trial. Purchase the full game as a one-time, in-app purchase to play without any time limits. GTA+ Members can enjoy unlimited access while subscribed for as long as it is included in GTA+.\nThe Anniversary Edition of Bully has been designed for mobile compatibility and includes four bonus classes and additional non-storyline missions in addition to everything from the original Bully release. \nThe Rockstar tradition of groundbreaking, original gameplay, and tongue-in-cheek storytelling invades the schoolyard.  \n \nAs a mischievous teenager, Jimmy Hopkins, you\u2019ll stand up to bullies, take on the liars, cheats, and snobs who are the most popular members of the student body and faculty at Bullworth Academy \u2014 the cor",
+    "icon": "/icons/com.rockstargames.bully.webp"
+  },
+  "com.h73.jhqyna": {
+    "title": "Once Human",
+    "package": "com.h73.jhqyna",
+    "description": "Once Human is a multiplayer open-world survival game set in a post-apocalyptic world. Join forces with friends to fight for survival, construct your sanctuary, and conquer terrifying aberrations to unravel the truth behind the apocalypse.  Do you still hold the answer to what it means to be human?\n\nEXPLORE A SUPERNATURAL OPEN WORLD\nThe world has fallen. An extraterrestrial substance called Stardust has infected everything\u2014plants, animals, even the air we breathe. Most humans couldn't survive\u2026 but you're different. You're a Meta-Human\u2014one of the few who can harness Stardust's power instead of being destroyed by it. With your abilities, you can fight back, rebuild, or even rule this broken world.\n\nCHALLENGE YOUR SURVIVAL INSTINCTS\nThe Starfall has reshaped everything on the Nalcott. You, as ",
+    "icon": "/icons/com.h73.jhqyna.png"
+  },
+  "com.unknownworlds.subnautica": {
+    "title": "Subnautica",
+    "package": "com.unknownworlds.subnautica",
+    "description": "Subnautica is an underwater adventure game set on an alien ocean planet.\nA massive, open world full of wonder and peril awaits you!\n\nDescend into the depths, craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive. Unravel the mystery of this world teeming with creatures, both friendly and hostile, scattered with clues from a previous time.\n\nPlay in Survival mode to experience the original challenge, or switch to Freedom or Creative mode to discover this oceanic planet without the pressures of thirst, hunger, or oxygen. \n\nFEATURES\n\u2022 SURVIVE \u2013 After crash landing on a vast underwater planet, the clock is ticking to find water, food, and to develop the equipment you need to explore.\n\u2022 EXPLORE \u2013 Mana",
+    "icon": "/icons/com.unknownworlds.subnautica.png"
+  },
+  "com.the10tons.dysmantle": {
+    "title": "DYSMANTLE",
+    "package": "com.the10tons.dysmantle",
+    "description": "As you ascend from your shelter after the long long years, a brave new old world awaits you. A world inhabited with nasty and vile creatures. A world with no other human soul to be seen. A world with nature in reigns now. A world that's about to get even worse. You need to find a way to escape the wretched island. But before that, enjoy the bittersweet apocalypse.\n\nFeatures:\n* Break over 99% of all objects for materials with the right tools. No barrier will stop you.\n* Fight with (or run away) nasty and vile creatures of the post-apocalyptic era.\n* Explore the handcrafted open world and uncover its mysteries.\n* Survive. Clear areas of monsters and claim it as yours.\n* Build outposts to establish your presence.\n* Craft permanent weapons, tools, outfits, and trinkets.\n* Hunt various game or ",
+    "icon": "/icons/com.the10tons.dysmantle.png"
+  },
+  "com.unknownworlds.subnauticabelowzero": {
+    "title": "Subnautica: Below Zero",
+    "package": "com.unknownworlds.subnauticabelowzero",
+    "description": "Get it at a special 10% off launch price!\n\n\n*Please make sure your device is supported before purchasing Below Zero!*\n\nBelow Zero is the next chapter of Subnautica, the underwater survival open world set on an alien ocean planet.\n\nSubmerge yourself in an all-new, sub-zero expedition in an arctic region of Planet 4546B. After crash landing planetside, set out into frigid waters to investigate what happened to your sister...\n\nDiscover new biomes, creatures, challenges and story! Below Zero expands the Subnautica universe, diving deeper into the adventure and mysteries introduced in the original game.\n\nUNCOVER THE TRUTH - Who were the aliens who came here before? Why were they on this planet? What really happened to your sister? And will exposing the truth give some closure to your loss?\n\nSUR",
+    "icon": "/icons/com.unknownworlds.subnauticabelowzero.png"
+  },
+  "com.gameloft.android.ANMP.GloftGGHM": {
+    "title": "Gangstar Vegas: World of Crime",
+    "package": "com.gameloft.android.ANMP.GloftGGHM",
+    "description": "Gangstar Vegas is an open-world RPG where you rise as the leader of a gang in Las Vegas. Experience intense shooting missions, gang wars, and mafia battles while playing alongside gangsters and crime cartels. Explore a massive open city with missions, car chases, shooting challenges, and nonstop action.\n\nV is for Las Vegas: The City of Sin\nExplore this open city with different TPS missions, box the mafia cartel, fight for the final prize and play in different adventure crime clans vs. the gang world of the city of Las Vegas.\nThis is an RPG adventure saga of mafia and waging gang wars. Extra missions are added with each update and season, plus limited-time events to play.\nStreet fights and mafia deals are part of this gangster world-of-crime game, with six-gun action missions. Fight-night b",
+    "icon": "/icons/com.gameloft.android.ANMP.GloftGGHM.png"
+  },
+  "ru.zdevs.zarchiver": {
+    "title": "ZArchiver",
+    "package": "ru.zdevs.zarchiver",
+    "description": "ZArchiver - is a program for archive management (including managing of application backups in archives). You can managment backup of application. It has a simple and functional interface. The app doesn't have permission to access the internet, so cannot transmit any information to other services or persons.\n \nZArchiver lets you:\n \n- Create the following archive types: 7z (7zip), zip, bzip2 (bz2), gzip (gz), XZ, lz4, tar, zst (zstd);\n- Decompress the following archive types: 7z (7zip), zip, rar, rar5, bzip2, gzip, XZ, iso, tar, arj, cab, lzh, lha, lzma, xar, tgz, tbz, Z, deb, rpm, zipx, mtz, chm, dmg, cpio, cramfs, img (fat, ntfs, ubf), wim, ecm, lzip, zst (zstd), egg, alz;\n- View archive contents: 7z (7zip), zip, rar, rar5, bzip2, gzip, XZ, iso, tar, arj, cab, lzh, lha, lzma, xar, tgz, tbz",
+    "icon": "/icons/ru.zdevs.zarchiver.webp"
+  },
+  "com.actfirstgames.seven": {
+    "title": "Obsidian Knight \u2014 RPG Games",
+    "package": "com.actfirstgames.seven",
+    "description": "Step into the ultimate fantasy RPG experience with Obsidian Knight!\n\nEmbark on an epic RPG adventure through a mysterious medieval games setting where the king has vanished without a trace. As an elite knight warrior in this immersive fantasy world, you'll face legendary giants, sinister legions of enemies, zombies, and uncover dark secrets in this captivating strategy RPG. \n \nMaster the art of knighthood and prove yourself in intense RPG adventure games that combine roguelike elements with addictive idle RPG mechanics. This action-packed RPG knight games experience delivers everything fans of fantasy games crave - from strategic combat to mysterious quests that will challenge even the most veteran players of role playing games.\n\nThe fate of the realm rests in your hands in this immersive ",
+    "icon": "/icons/com.actfirstgames.seven.jpg"
+  },
+  "com.ginicaranyastudio.ginisuarabaterai": {
+    "title": "Gini - Suara Baterai",
+    "package": "com.ginicaranyastudio.ginisuarabaterai",
+    "description": "Gini - Battery Sound is a smart battery monitoring app with a fully customizable sound notification system. Get real-time information about your battery status in a more personalized and accessible way.\n\nKEY FEATURES:\n\n\ud83d\udd0b Real-time Battery Monitoring - Monitor battery level, temperature, voltage, and health in real time\n\ud83d\udd0a Custom Audio Notifications - Choose between Text-to-Speech or upload your own audio file\n\u2699\ufe0f Flexible Settings - Set when notifications appear (low battery, charger connect/disconnect, full battery)\n\ud83d\udcca Full Technical Details - Access in-depth information about battery health\n\ud83c\udfb5 Audio File Support - Upload your favorite MP3/WAV files for notifications\n\ud83d\udca1 Smart Estimation - Estimate battery usage and charging time\n\ud83c\udf19 Background Monitoring - Works 24/7 with high efficiency\n\ud83d\udd12 Priva"
+  },
+  "com.identigo.app": {
+    "title": "Identigo",
+    "package": "com.identigo.app",
+    "description": "Welcome to Identigo, the pioneering leader in background verification.\n\nOur cutting-edge platform redefines the industry, making background checks easier than ever before. With our integrated solution, you can access comprehensive reports covering:\n- Employment history verification\n- Education credentials validation\n- ID and document authentication\n- Address confirmation\n- Criminal record checks\n- Professional reference verification\n\nWhether you're a small business, domestic employer, or large corporation, Identigo caters to organizations of all sizes. Get fast and accurate results through our streamlined, user-friendly interface that simplifies compliance while maintaining the highest security standards.\n\nHOW IT WORKS:\n1. Create your employer account\n2. Set up your verification requiremen",
+    "icon": "/icons/com.identigo.app.png"
+  },
+  "com.torob.vpn": {
+    "title": "Torob VPN",
+    "package": "com.torob.vpn",
+    "description": "Torob VPN is designed to provide a secure, private, and reliable internet connection for everyday use. By leveraging modern VPN technology, Torob VPN helps protect your online identity, encrypt your data, and ensure safe access to digital content wherever you are.\n\nWith Torob VPN, your internet traffic is routed through secure servers, keeping your personal information hidden from third parties. Whether you are using public Wi-Fi, mobile data, or a home network, Torob VPN adds an essential layer of privacy and security to your connection.\nTorob VPN operates using the official VPN Service framework, which forms the foundation of its core functionality. This allows the app to deliver stable performance while reinforcing user privacy, data protection, and secure access to online resources.\n\nO",
+    "icon": "/icons/com.torob.vpn.png"
+  },
+  "com.fengeon.resprite_desktop": {
+    "title": "Resprite: pixel art studio",
+    "package": "com.fengeon.resprite_desktop",
+    "description": "Resprite is a pixel art and sprite animation editor.\n\nIt is powerful and is committed to becoming a powerful tool for creating pixel sprite images in the game field on mobile terminals, which can meet the needs of professional creators. The powerful and complete feature set comparable to desktop applications, and the extreme optimization and innovation to adapt to the mobile environment and the pen, let you create as you like.\n\nResprite provides a complete pixel painting editing tool, a set of advanced layers and timeline systems, and a high-performance rendering engine based on Vulkan, which can help you create charming pixel art, exquisite spritesheets, charming GIF dynamic expressions and wonderful game art resources.\n\nWhether lying on the sofa, in a camping tent, relaxing on the beach,",
+    "icon": "/icons/com.fengeon.resprite_desktop.png"
+  },
+  "com.rainbowmeteo.weather.rainbow.ai": {
+    "title": "Rainbow Weather: Storm Radar",
+    "package": "com.rainbowmeteo.weather.rainbow.ai",
+    "description": "Rainbow Weather (formerly Rainbow.ai) is your top weather tracker and real-time rain radar app for Android. Enjoy live weather updates, interactive maps, and precise rain forecasts powered by AI radar. This rain app also features weather radar live for the most accurate data. \n\n\ud83c\udf27\ufe0f Weather Maps \n\u25ab\ufe0f Stay updated with high-resolution rain radar images to track precipitation and rain movements. \n\u25ab\ufe0f Monitor rain and snow in real-time with detailed AI radar predictions. \n\u25ab\ufe0f Customize your map overlay: choose between green NOAA weather radar colors or blue Rainbow Weather tiles. \n\u25ab\ufe0f Zoom out for a global view using our comprehensive rain map. \n\u25ab\ufe0f Access weather conditions worldwide by tapping on the interactive rain map. \n\u25ab\ufe0f Switch between light or dark sky weather mode to fit your preferences. \ud83c\udf19",
+    "icon": "/icons/com.rainbowmeteo.weather.rainbow.ai.png"
+  },
+  "com.weatherology.android": {
+    "title": "Weatherology: Weather Together",
+    "package": "com.weatherology.android",
+    "description": "The first weather app that fully integrates into your home and car with real-time audio weather reports and emergency weather notifications; personalized for you.\n\nWe take weather to another level.\n\nOur patented technology delivers real-time audio weather reports to your location.\n\nIt's voice-activated: Ask Weatherology for the latest forecast.\n\nAt home. In your car. On your phone.\n\nIt's real-time. With up-to-the-minute weather updates including the latest watches, warnings, advisories, and bulletins. We alert you with relevant weather notifications to keep you informed.\n\nIt's real people, not voice simulation: Select your favorite weather talent, and they provide real-time weather reports on demand.\n\nIt's accurate and personalized for your location.\n\nThe technology is new, but the Weather",
+    "icon": "/icons/com.weatherology.android.png"
+  },
+  "com.interactiveweather.weatherwise": {
+    "title": "WeatherWise.app",
+    "package": "com.interactiveweather.weatherwise",
+    "description": "Always stay one step ahead of severe weather with our high-resolution radar and cutting-edge forecasting tools. WeatherWise delivers the original, highest-quality radar data directly from the source\u2014ensuring you have the reliable insight needed to protect what matters most.\n\nNew in v1.4.0: WeatherWise Pro\n\nGo further with your weather analysis using professional tools (available via in-app subscription):\n\u2022 Triple/Quad View Radar Visuals: Display up to 3 on mobile, and 4 on iPad radar products at the same time\n\u2022 FastScan: Ultra Low-Latency US Radar Scan Updates\n\u2022 Realtime Radar Cross Section\n\u2022 Reflectivity X: Get double the reflectivity scans from the US radar network\n\u2022 Max Reflectivity: View the max reflectivity for up to 30 radar scans\n\u2022 Flash a custom Reflectivity range to highlight area",
+    "icon": "/icons/com.interactiveweather.weatherwise.png"
+  },
+  "com.vtoupet.smartmixin": {
+    "title": "SmartMixin Weather Station",
+    "package": "com.vtoupet.smartmixin",
+    "description": "One App for All Your Weather Stations\n\nSmartMixin brings together all your weather station brands into a single, powerful dashboard. Connect Netatmo, Davis, Ecowitt, Ambient Weather, AcuRite, Tempest, and Weather Underground \u2014 no more switching between apps.\n\nWhether you own a weather station or simply want the most accurate hyperlocal weather, SmartMixin delivers what brand-specific apps can't: unified data, deep analysis, and multi-model forecasts.\n\n\n\u2705 Real-Time Weather from 40,000+ Stations\nAccess current conditions from a global network of personal and official stations \u2014 including your own, if connected. One dashboard, all your data.\n\n\u2705 Multi-Model Forecasts\nCompare GFS, ICON, AROME and other models side by side. Hourly predictions for 24h, 14-day trends. See where models agree \u2014 and ",
+    "icon": "/icons/com.vtoupet.smartmixin.png"
+  },
+  "com.gassouth": {
+    "title": "KMN- \u1ee9ng d\u1ee5ng truy xu\u1ea5t ngu\u1ed3n",
+    "package": "com.gassouth",
+    "description": "The App is used for people to have access to the origin of the gas cylinders, the origin of the brands, and also allows the users to manage the import and export of gas cylinders.",
+    "icon": "/icons/com.gassouth.png"
+  },
+  "com.kamoland.kmicloud": {
+    "title": "KMI\u30af\u30e9\u30a6\u30c9\u30b5\u30fc\u30d3\u30b9",
+    "package": "com.kamoland.kmicloud",
+    "description": "KMI cloud service is a service for you to use more convenient Android application \"Yamatabi logger,\" \"map Lloyd,\" \"GPX photo search\".\n\n[KMI Cloud Services\nhttps://chizroid.info/kmicloud/\n\nIn and membership registration, please log in from this app.\n\nThat way, you will be able to use the \"GPX Photo Album,\" \"map Lloyd cloud expansion,\" \"Yamatabi logger peace plan\".\n\n1 week after membership registration will be a free trial period.\n\nThen when it was continued to be available, please purchase the plan using the in-app purchase.\n6-month period at 600 yen will be extended.\n\nWhen the trial period expires, will not be able to download also upload to the cloud, it is uploaded data Please note that will be deleted.",
+    "icon": "/icons/com.kamoland.kmicloud.png"
+  },
+  "com.letsworkoutapp.lwo": {
+    "title": "KMUNTY",
+    "package": "com.letsworkoutapp.lwo",
+    "description": "Welcome to KMUNTY\nKMUNTY is the ultimate platform for trainers to monetize their skills and knowledge. And for you to find classes for things you want to learn. With our easy-to-use app, you can create and sell classes on a variety of topics, connect with students, and track your earnings all in one place.\nHere's what you can do with KMUNTY:\n\n  Sign in or sign up to get started\n  Explore and find the things you like\n  Join classes and start working out!\n  Connect your Stripe account to process payments and receive earnings\n  Create a class and set your own price\n  Join other users' classes to learn and expand your skills\n  Pay for classes with a few taps\n  Follow other users and view their profiles\n  Edit your own profile and showcase your expertise\n  Check your Stripe express dashboard an",
+    "icon": "/icons/com.letsworkoutapp.lwo.png"
+  },
+  "com.lightcast.kmi": {
+    "title": "KMI TV",
+    "package": "com.lightcast.kmi",
+    "description": "Prepare to embark on plenty of exciting messages displaying the Love of Jesus Christ. We are dedicated to bringing you live content, inspirational messages, stage plays, sports talks, and more. Start here and enjoy family-friendly content.",
+    "icon": "/icons/com.lightcast.kmi.png"
+  },
+  "com.wazabe.meteobelgique": {
+    "title": "Weather in Belgium",
+    "package": "com.wazabe.meteobelgique",
+    "description": "MeteoBelgique, le site m\u00e9t\u00e9o de r\u00e9f\u00e9rence en Belgique vous propose sa nouvelle application pour smartphone et tablette.\n\n\u2022 Pr\u00e9visions m\u00e9t\u00e9o pour les 12 prochains jours :\nConsultez nos pr\u00e9visions m\u00e9t\u00e9o avec les temp\u00e9ratures minimales, maximales, risque de pr\u00e9cipitations, n\u00e9bulosit\u00e9, vitesse et direction du vent\n\n\u2022 Pr\u00e9visions d\u00e9taill\u00e9es pour les prochaines 36 heures :\nRetrouvez dor\u00e9navant les temp\u00e9ratures, risque de pr\u00e9cipitations, n\u00e9bulosit\u00e9, vitesse et direction du vent par intervalle de 3 heures !\n\n\u2022 G\u00e9olocalisation :\nConsultez automatiquement les pr\u00e9visions de votre localit\u00e9, o\u00f9 que vous soyez en Belgique ! Vous pouvez \u00e9galement choisir manuellement une commune de votre choix\n\n\u2022 Animation radar et satellite :\nObservation des pr\u00e9cipitations avec cible sur le radar afin de visualiser la di",
+    "icon": "/icons/com.wazabe.meteobelgique.png"
+  },
+  "com.raceweather.app": {
+    "title": "MeteoPace",
+    "package": "com.raceweather.app",
+    "description": "MeteoPace helps runners adjust pace and strategy for real conditions, so you don\u2019t get surprised by heat, wind, or hills on race day (or in training).\n\nPlan any supported race with forecast + historical norms + course profile, and see how conditions change your expected pace, effort, and finish time. In training, use MeteoPace to understand why a run felt harder, and what pace makes sense today, given the weather.\n\nWhether you\u2019re chasing a PR or simply trying to avoid overheating, MeteoPace turns conditions into a clear pacing plan.\n\nFeatures\n\u2022 Forecast, historical averages, and actual race-day conditions\n\u2022 Weather + elevation impact on pace, effort, and expected time\n\u2022 Split-by-split pacing strategy that matches the course\n\u2022 Training adjustments for today\u2019s conditions\n\u2022 Supports marathons",
+    "icon": "/icons/com.raceweather.app.png"
+  },
+  "com.idmobile.belgiummeteo": {
+    "title": "Weather for Belgium + World",
+    "package": "com.idmobile.belgiummeteo",
+    "description": "A quick and easy way to get the weather forecast for your region updated in real time by meteorologists!\n\n- Flash TV updated three times a day!\n- Flash TV on the weekend weather, evolution in Belgium, seasonal trends, weather in Europe\n- Radar Animation for 3 hours\n- Precipitation radar, satellite, winds\n- Weather forecast for the morning, the afternoon, and the evening\n- Slide quickly to next day\n- See a 10 days overview \n- Rainfall radar\n- Value of forecast reliability \n- Probability of sunshine and precipitations\n- Perceived, average, mimimum and maximum temperature \n- Wind force, wind direction, gust force \n- Limit of snowfall and zero degrees\n- Fog \n- Graphics\n\nChoose your town or any other city and even small villages around the World\n\nExposure for 10 days in landscape mode.\n\nContent",
+    "icon": "/icons/com.idmobile.belgiummeteo.png"
+  },
+  "com.mobilesoft.belgiumweather": {
+    "title": "M\u00e9t\u00e9o Belgique",
+    "package": "com.mobilesoft.belgiumweather",
+    "description": "The Belgium Weather application provided weather forecasts (Time, wind, humidity, ephemeris ...) any cities in Belgium for the next seven days.\nIts simple, intuitive and ergonomic interface provides easy access to data.\nIf you like the app rate it and make the people around you know!",
+    "icon": "/icons/com.mobilesoft.belgiumweather.png"
+  },
+  "com.tayasui.sketches": {
+    "title": "Tayasui Sketches",
+    "package": "com.tayasui.sketches",
+    "description": "Because beautiful tools make beautiful drawings, Sketches has the most beautiful brushes ever seen in an Android App.\nSketches is the drawing application with the most realistic tools, enhanced with a large number of advanced functions and a minimalist and intuitive interface.\n\nAvailable with Pro options: many tool variants, layers and dozens of additional features.\n\n- Over 20 ultra realistic tools\n- Layers\n- Import photos\n- Incredibly realistic watercolor wet brush\n- Brushes Editor\n- Color Eyedropper\n- Advanced sharing and export functions\n- Layers\n- Use layers to simplify your task\n- Stylus support\n\nThe brushes have been designed so that each stroke behaves vividly and truly like a brush on paper, adapting the pressure, angle, and width to your movements. \n\nList of tools\n\n- Pen\n- Rotring",
+    "icon": "/icons/com.tayasui.sketches.webp"
+  },
+  "com.tophatch.concepts": {
+    "title": "Concepts: Sketch, Note, Draw",
+    "package": "com.tophatch.concepts",
+    "description": "Think, plan & create \u2013 Concepts is a flexible vector-based creative workspace/sketchpad where you can take your ideas from concept to reality.\n\nConcepts reimagines the ideation stage \u2013 offering a safe and dynamic workspace to explore your ideas, organize your thoughts, experiment with and iterate designs before sharing them with friends, clients and other apps. \n\nWith our infinite canvas, you can:\n\u2022 sketch out plans and whiteboard ideas\n\u2022 make notes, doodles, and mindmaps\n\u2022 draw storyboards, product sketches and designs\n\nConcepts is vector-based, making every stroke editable and scalable. With our Nudge, Slice and Select tools, you can easily change any element of your sketch without redrawing it. Concepts is optimized for the latest pen-enabled devices and Chrome OS\u2122, making it fast, smoo",
+    "icon": "/icons/com.tophatch.concepts.webp"
+  },
+  "com.prisma3D.prisma3D": {
+    "title": "Prisma3D - Animation, Modeling",
+    "package": "com.prisma3D.prisma3D",
+    "description": "Be a 3D creator! Prisma3D helps you to easily make 3D models and produce stunning 3D animated scenes. No limits to your creativity - 3D model own worlds and 3D characters, create game animations (mods creator) and realize your imaginations.\n\nNo experience in 3D design? Don\u2019t worry! - Prisma3D helps you step by step with easy-to-use 3D tools, while at the same time providing the full range of 3D animation and 3D modeling possibilities.\n\nThis 3D editing app is a full social media animation maker, 3D game creator, cgi graphics app for mobile / android (not yet on iphone) and a 3D model maker.\n\nMODEL YOUR 3D WORLD\n\n- Create and select from 3D objects, 3D models, 3D lights and 3D cameras\n- Group and design multiple 3D models at once\n- Digital drawing, 3D sculpting\n- 3D vector graphics editing\n-",
+    "icon": "/icons/com.prisma3D.prisma3D.webp"
+  },
+  "com.alightcreative.motion": {
+    "title": "Alight Motion",
+    "package": "com.alightcreative.motion",
+    "description": "Be part of the movement! Alight Motion is the first professional motion design app bringing you professional-quality animation, motion graphics, visual effects, video editing, video compositing, and more!\n\n\u2022 Add multiple layers of graphics, video, and audio\n\u2022 Vector and bitmap support: edit vector graphics right on your phone!\n\u2022 160+ basic effect building blocks that can be combined to create sophisticated visual effects\n\u2022 Keyframe animation available for all settings\n\u2022 Link parent and child layers and rig character joints\n\u2022 Use Cameras that pan, zoom, and support focus blur and fog\n\u2022 Group layers together and create Masks!\n\u2022 Adjust Colors and change them as you wish!\n\u2022 Animation easing for more fluid motion: Pick from presets or build your own timing curves\n\u2022 Add bookmarks for ease of edi",
+    "icon": "/icons/com.alightcreative.motion.png"
+  },
+  "com.cateater.stopmotionstudio": {
+    "title": "Stop Motion Studio",
+    "package": "com.cateater.stopmotionstudio",
+    "description": "Get Stop Motion Studio, the world\u2019s easiest app to get you into stop motion moviemaking today!\n\nWith its easy-to-use interface, Stop Motion Studio lets you create beautiful movies like Wallace and Gromit or those groovy Lego shorts on YouTube. It's simple to use, deceptively powerful, and insanely fun to play with.\n\nStop Motion Studio is a powerful, full-featured movie editor with a whole host of features:\n\u2022 A simplistic, easy-to-use interface\n\u2022 Overlay mode showing the differences between frames\n\u2022 Animation guides to position animated objects more easily\n\u2022 Copy, paste, cut, and insert frames at any position\n\u2022 Interactive timeline so you never get lost, even if you have hundreds of frames\n\nCreate beautiful movies:\n\u2022 Choose from a whole lot of unique titles, credits, and text cards, or crea",
+    "icon": "/icons/com.cateater.stopmotionstudio.jpg"
+  },
+  "com.weirdhat.roughanimator": {
+    "title": "RoughAnimator - animation app",
+    "package": "com.weirdhat.roughanimator",
+    "description": "A fully featured hand drawn animation application for Android. Made by an animator, for animators. Powerful enough for professionals, simple enough for beginners. Everything you need to create traditional hand drawn frame-by-frame animation, anywhere you go!\n\nFeatures:\n- Timeline with unlimited layers and easily adjustable exposure length of individual drawings, for pose-to-pose or straight-ahead animating\n- Onion skinning\n- Preview playback\n- Scrub along timeline\n- Import audio for lip syncing\n- Import video for rotoscoping animation\n- Custom brushes\n- Supports Samsung S-Pen and other pressure sensitive devices\n- Control framerate and resolution\n- Export animation to Quicktime video, GIF, or image sequence\n- RoughAnimator projects can be imported to Adobe Flash/Animate, After Effects, and",
+    "icon": "/icons/com.weirdhat.roughanimator.png"
+  },
+  "com.premium.tv.launcher.ui": {
+    "title": "TV Launcher Premium Smart UI",
+    "package": "com.premium.tv.launcher.ui",
+    "description": "Android TV Launcher - Ad free launcher.\n\ud83d\udcfa PREMIUM TV LAUNCHER: Experience elite cinematic polish\n\nIs your Android TV Box limited by a basic interface? Premium TV Launcher.UI is the definitive answer. We don\u2019t just replace your home screen; we transform your hardware into a professional, high-performance cinema hub.\n- Smart TV Launcher, Home Screen \nDesigned for Smart TVs, TV Boxes, and Projectors, this is the clean, elegant interface you have been waiting for.\n\n\u2728 WHY UPGRADE TO PREMIUM TV LAUNCHER.UI?\n\n\ud83d\ude80 EXTREME SPEED & SIMPLICITY\nStop waiting for your TV to load. Our \"Zero-Lag\" engine ensures instant navigation. We stripped away the bloatware to give you a Simple TV Launcher that just works. Perfect for seniors, kids, and anyone who wants a fuss-free experience.\n\n\ud83c\udfa8 BEAUTIFUL & MODERN UI\nY",
+    "icon": "/icons/com.premium.tv.launcher.ui.png"
+  },
+  "com.mobigrow.canyouescapeisland": {
+    "title": "Can You Escape - Island",
+    "package": "com.mobigrow.canyouescapeisland",
+    "description": "Want all 23 escape games in one app?\nGet \u201cCan You Escape: Collection\u201d \u2014 a separate premium app with over 300 levels free to play and no in-app purchases.\n\nShipwrecked and stranded\u2014you\u2019re not alone on this mysterious island.\n\nExplore deadly jungles, ancient temples, pirate forts, and more as you search for clues, solve puzzles, and fight to survive. Every level is a new challenge on your journey to escape.\n\nDownload Island Escape now and see if you can make it out alive!\n\nFeatures:\n\nThrilling survival escape adventure\n\nUnique levels with hidden secrets\n\nChallenging puzzles and tricky traps\n\nExplore jungles, temples, and pirate ruins\n\nPerfect for fans of adventure and escape room games",
+    "icon": "/icons/com.mobigrow.canyouescapeisland.jpg"
+  },
+  "com.mobigrow.canyouescape4": {
+    "title": "Can You Escape 4",
+    "package": "com.mobigrow.canyouescape4",
+    "description": "Want all 23 escape games in one app?\nGet \u201cCan You Escape: Collection\u201d \u2014 a separate premium app with over 300 levels free to play and no in-app purchases.\n\nCan You Escape 4 is a classic retro-style escape game where every room is a puzzle waiting to be solved! Trapped in a series of mysterious apartments, your only way out is through sharp logic, hidden clues, and mind-bending challenges.\n\nThis escape adventure will put your puzzle-solving skills to the test. Explore, decode, and think outside the box\u2014can you escape them all?\n\nGet ready for the ultimate retro escape challenge!",
+    "icon": "/icons/com.mobigrow.canyouescape4.png"
+  },
+  "com.appbond.the100roomxv": {
+    "title": "Can you escape the 100 room XV",
+    "package": "com.appbond.the100roomxv",
+    "description": "Classic Escape Game \"Can you Escape the 100 room XV\"  is coming ...\n\nIt is a classic puzzle game , If you  like the challenge must not miss it!\n\nThe new 50 room escape, Let you can't stop, start your brain cells, your observations, your judgment, your calculations, trying to escape ...\n\nHumane tips, the key moment will be pleasantly surprised,Make you successful escape.\n\nIf you love puzzle games, you will not miss such a wonderful challenge.\n\n50 rooms, 50 challenge,  waiting for you to escape!!!",
+    "icon": "/icons/com.appbond.the100roomxv.png"
+  },
+  "com.appbond.the100roomxx": {
+    "title": "Can you escape the 50 room 20",
+    "package": "com.appbond.the100roomxx",
+    "description": "Classic Escape Game \"Can you Escape the 50 room 20\"  is coming ...\n\nIt is a classic puzzle game , If you  like the challenge must not miss it!\n\nHumane tips, the key moment will be pleasantly surprised,Make you successful escape.\n\nIf you love puzzle games, you will not miss such a wonderful challenge.",
+    "icon": "/icons/com.appbond.the100roomxx.png"
+  },
+  "com.appbond.the100roomxix": {
+    "title": "Can you escape the 50 room 19",
+    "package": "com.appbond.the100roomxix",
+    "description": "Classic Escape Game \"Can you Escape the 50 room 19\"  is coming ...\n\nIt is a classic puzzle game , If you  like the challenge must not miss it!\n\nHumane tips, the key moment will be pleasantly surprised,Make you successful escape.\n\nIf you love puzzle games, you will not miss such a wonderful challenge.",
+    "icon": "/icons/com.appbond.the100roomxix.png"
+  },
+  "com.integrity.mustapp": {
+    "title": "MUSTER | MUST University",
+    "package": "com.integrity.mustapp",
+    "description": "Streamline your academic experience with MUSTER App! Schedule, services, newsfeed, grades & more!\n\nMUSTER app stands as a cornerstone of academic support for students at Misr University for Science and Technology. With its innovative features and comprehensive functionality, it has swiftly become an essential resource, empowering students to excel in their academic pursuits while simplifying and enhancing their overall experience.\n\nThe MUSTER app offers students unparalleled convenience by granting effortless access to critical academic information. From accessing grades, schedules, and transcripts to seamlessly managing online services like document orders and fee payments, MUSTER empowers students to track their progress and stay organized with ease. These essential features not only str",
+    "icon": "/icons/com.integrity.mustapp.png"
   }
 }
