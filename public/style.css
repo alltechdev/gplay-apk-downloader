@@ -575,7 +575,9 @@
 
     /* Footer */
     .footer {
-      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
       margin-top: 32px;
       padding-top: 20px;
       border-top: 1px solid var(--border);
@@ -618,6 +620,7 @@
     .footer-link:hover svg {
       opacity: 1;
     }
+
 
     /* ADB Card */
     .adb-card {

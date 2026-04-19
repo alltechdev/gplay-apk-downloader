@@ -68,7 +68,7 @@ def set_security_headers(response):
         "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
         "font-src 'self' https://fonts.gstatic.com",
         "img-src 'self' data: https://play-lh.googleusercontent.com",
-        f"connect-src 'self' https://*.google.com https://*.googleapis.com https://*.googleusercontent.com https://*.ggpht.com{_ANALYTICS_ORIGIN}",
+        f"connect-src 'self' https://*.google.com https://*.googleapis.com https://*.googleusercontent.com https://*.ggpht.com https://api.github.com{_ANALYTICS_ORIGIN}",
         "frame-src 'self'",
         "object-src 'none'",
         "base-uri 'self'",

@@ -73,6 +73,15 @@
       });
       refreshCounter();
       initAdb();
+      fetch('https://api.github.com/repos/alltechdev/gplay-apk-downloader')
+        .then(r => r.json())
+        .then(d => {
+          if (d.stargazers_count != null) {
+            $('#gh-stars-count').textContent = d.stargazers_count.toLocaleString();
+            $('#gh-stars').style.display = 'inline-flex';
+          }
+        })
+        .catch(() => {});
       // Always show import option (backup button shows when ADB connected)
       const backupCard = $('#backup-card');
       if (backupCard) backupCard.classList.add('visible');
