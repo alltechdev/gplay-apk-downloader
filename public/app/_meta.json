@@ -20122,12 +20122,6 @@
     "description": "Stay connected and in control of your accounts wherever you are with the Fidelity Bank mobile app. Available to Fidelity Bank customers, our mobile banking app allows you to monitor all of your accounts, review transactions, deposit paper checks, view balances, pay bills, make transfers and find the nearest Fidelity Bank office. Send and receive money with just a few taps with Zelle\u00ae. Enjoy convenient and secure access with passcode, touch ID and face ID technology. Bank when and where you want with the Fidelity Bank mobile app; one more way we empower your financial life and keep you moving Bravely Onward.\n\nAvailable features include: \nMobile check deposit - Deposit paper checks directly into your account using your smartphone camera.\n\nAccount monitoring - Check your latest account balanc",
     "icon": "/icons/com.fidelitybank425301.mobile.png"
   },
-  "com.fidelity.hcg.health": {
-    "title": "Fidelity Health\u00ae",
-    "package": "com.fidelity.hcg.health",
-    "description": "Easily manage your health care benefit plans and expenses.\n\nThe Fidelity Health\u00ae app was built to help you minimize the time, cost, and hassle of managing your health care needs. It can help you manage your benefit plans and accounts if you\u2019re enrolled in an employer-sponsored health benefits plan through Fidelity or if you have a Fidelity Health Savings Account (HSA). With Fidelity Health, you can:\n\nAccess key info about your coverage and benefits\n\u00b7 See all your health plan coverage and benefit details\n\u00b7 Save and share pictures of your health benefit, prescription, and vaccination ID cards for easy access anywhere\n\nManage your health care expenses\n\u00b7 See your Fidelity HSA balances and transaction history, or balances for certain flexible spending accounts (FSAs)\n\u00b7 Reimburse yourself from y",
-    "icon": "/icons/com.fidelity.hcg.health.png"
-  },
   "com.fidelity.wi.activity": {
     "title": "NetBenefits - Fidelity at Work",
     "package": "com.fidelity.wi.activity",
@@ -20151,12 +20145,6 @@
     "package": "com.delta.mobile.android",
     "description": "Welcome to Fly Delta, Delta\u2019s award-winning Android app that makes travel easier than ever before. \n\nPlanning Your Trip\n\u2022 Shop and book domestic and international flights\n\u2022 Track and pay for upgrades using your SkyMiles\u00ae\n\u2022 Manage travel preferences and payment methods\n\u2022 Save a companion to your profile\n\u2022 Need Help? Chat with one of our agents via Live Chat messaging\nUse at the Airport\n\u2022 \u201dToday\u201d has everything you need for your day of travel \n\u2022 Check in to your flight and receive your digital boarding pass\n\u2022 \u201dNotifications\u201d stores your flight updates and gate change notifications\n\u2022 Use Airport Maps to navigate through the airport\n\u2022 View your place on the upgrade/standby list\n\u2022 Scan your passport during check-in\n\u2022 View, change or upgrade your seat\n\u2022 Reserve Preferred Seats in the bulkhead or",
     "icon": "/icons/com.delta.mobile.android.png"
-  },
-  "com.united.mobile.android": {
-    "title": "United Airlines",
-    "package": "com.united.mobile.android",
-    "description": "Meet the United app\n\nFrom planning, to booking, to day of travel, we\u2019ve got you covered.\u202f\u202f\u00a0\nOn our app you can:\u202f\u00a0\n\u2022 look for flights across our global network and book them easily\u00a0\n\u2022 check in for your flight and get your boarding pass before you get to the airport\u00a0\n\u2022 change seats, or flights, if something better becomes available\u00a0\n\u2022 make sure you\u2019re prepared for your trip with our Travel-Ready Center\u00a0\n\u2022 add your bags, drop them at bag drop shortcut and track them along your journey\u00a0\n\u2022 get real-time updates on boarding progression so you know when it's your turn to board\u00a0\n\u2022 view flight updates, transfer time and gate info all in one place to feel prepared for your connection\u00a0\n\u2022 see ongoing updates in your notifications tray and lock screen \u00a0\n\u2022 use our built-in Terminal guide and airport map",
-    "icon": "/icons/com.united.mobile.android.png"
   },
   "areamovil.aviancataca": {
     "title": "avianca",
@@ -21475,5 +21463,201 @@
     "package": "com.integrity.mustapp",
     "description": "Streamline your academic experience with MUSTER App! Schedule, services, newsfeed, grades & more!\n\nMUSTER app stands as a cornerstone of academic support for students at Misr University for Science and Technology. With its innovative features and comprehensive functionality, it has swiftly become an essential resource, empowering students to excel in their academic pursuits while simplifying and enhancing their overall experience.\n\nThe MUSTER app offers students unparalleled convenience by granting effortless access to critical academic information. From accessing grades, schedules, and transcripts to seamlessly managing online services like document orders and fee payments, MUSTER empowers students to track their progress and stay organized with ease. These essential features not only str",
     "icon": "/icons/com.integrity.mustapp.png"
+  },
+  "com.feralinteractive.companyofheroes_android": {
+    "title": "Company of Heroes",
+    "package": "com.feralinteractive.companyofheroes_android",
+    "description": "Company of Heroes is the critically-acclaimed and enduringly popular World War II game that redefined real-time strategy with a compelling combination of fast-moving campaigns,  dynamic combat environments, and advanced squad-based tactics. \n\nCommand two crack companies of American soldiers and direct an intense campaign in the European Theater of Operations starting with the D-Day Invasion of Normandy.  \n\nTailored to and optimised for Android, Company of Heroes features an intuitive user interface for rapid execution of advanced real-time tactics in the heat of battle.\n\nA MASTERPIECE BROUGHT TO MOBILE\nOne of real-time strategy\u2019s most celebrated games redesigned for Android. From the new Command Wheel to flexible barbed wire placement, play using features built specifically for mobile gami",
+    "icon": "/icons/com.feralinteractive.companyofheroes_android.png"
+  },
+  "com.venomizedArt.SlaughterRebels": {
+    "title": "Slaughter 3: The Rebels",
+    "package": "com.venomizedArt.SlaughterRebels",
+    "description": "A city hidden from the rest of the world.\n\nFor years, it operated as a massive prison complex, housing the world\u2019s most dangerous criminals. Thieves, killers, warlords - each sentenced to life, locked away forever. But nothing stays caged forever.\n\nThis place was a powder keg - and now it\u2019s exploded.\n\nA prison break. A full-blown breakout.\nThe walls have fallen, and the prisoners have seized control. Waves of enraged inmates - rebels against the old order - now dominate the ruins. Every corner of the city echoes with gunfire, bloodshed, and chaos.\n\nAll security forces were wiped out in the first strike. Civilians fled into the forests. And your partner - your only backup - has gone missing. Communications? Dead.\n\nYou\u2019re the last line between survival and total collapse.\n\nThis is no ordinar",
+    "icon": "/icons/com.venomizedArt.SlaughterRebels.png"
+  },
+  "com.extreamsd.aemobiledemo": {
+    "title": "Audio Evolution Mobile TRIAL",
+    "package": "com.extreamsd.aemobiledemo",
+    "description": "From recording song ideas to full-fledged mobile productions, Audio Evolution Mobile sets the standard for music creation, mixing and editing on Android. Whether you are recording using the internal mic or recording from a multi-channel USB audio (*) or MIDI interface, Audio Evolution Mobile rivals desktop DAWs. Featuring virtual instruments, a vocal pitch and time editor, a virtual analog synthesizer, real-time effects, mixer automation, audio loops, drum pattern editing and more, the app powers your creativity.\n\nAudio Evolution Mobile Studio was chosen the #1 Android mobile music app in Computer Music - December 2020 issue!\n\nNote that this is a TRIAL version of the full paid version and has several limitations:\n\u2022 Loading of projects is limited to 3 tracks\n\u2022 Mixdown is limited to 45 secon",
+    "icon": "/icons/com.extreamsd.aemobiledemo.png"
+  },
+  "com.sise15.mysqlviewer": {
+    "title": "MySQL Viewer: Client & Admin",
+    "package": "com.sise15.mysqlviewer",
+    "description": "MySQL Viewer: Powerful MariaDB & MySQL Client\n\nManage your databases on the go with MySQL Viewer, a professional and secure mobile client designed for developers, DBAs, and data analysts. Whether you are running MySQL or MariaDB, this app provides a desktop-class experience in the palm of your hand.\n\n\u25a0 Enterprise-Grade Security\n\u2022 Secure Connections: Supports SSH Tunneling (Port Forwarding) and SSL.\n\u2022 Strong Encryption: Passwords and private keys are stored safely using AES encryption.\n\u2022 Efficient Data Transfer: Utilizes zlib compression for faster communication.\n\n\u25a0 Advanced Query Editor\n\u2022 Smart Coding: Syntax Highlighting, Auto-completion, and Beautifier (Formatter).\n\u2022 Deep Insights: Analyze performance with Query and DML Profiling.\n\u2022 Full Control: Support for Multiple Result Sets and Tran",
+    "icon": "/icons/com.sise15.mysqlviewer.png"
+  },
+  "com.mighttext.app": {
+    "title": "com.mighttext.app",
+    "package": "com.mighttext.app"
+  },
+  "com.thetisgames.spacesimulator.free": {
+    "title": "Space Shuttle Simulator 2026",
+    "package": "com.thetisgames.spacesimulator.free",
+    "description": "Cosmos Space Simulator is the best space simulator already created!\n\nWe focus our efforts and development team on bringing the best set of commands to our spaceship! So, the experience of flying on the infinity space is very accurate!  \n\nThe game simulates the spaceship, it`s engines, moving parts and all planets from our solar system!\nBecome an astronaut! And explore the space at your will! \n\nThe simulator is compatible with more than 5000 android devices! \n\nFeatures\n- Realtime Earth rotation.\n- You can watch the night becoming day, and day becoming night in different places of the planet!\n- All planets from solar system.\n- Realistic sun\n- Asteroids ring.\n- All planet moons! \n\nReal world simulation:\n- Weather forecast.\n- Turbulence and G-Force\n- Real clouds\n\nWe are thinking about everythi",
+    "icon": "/icons/com.thetisgames.spacesimulator.free.png"
+  },
+  "com.gardenofdreams.elonmars": {
+    "title": "ElonMars Spaceflight Simulator",
+    "package": "com.gardenofdreams.elonmars",
+    "description": "Elon Mars is a 3D spaceflight simulator about space exploration. Raccoons build spaceships for Spaceflights to conquer space. And they are inspired by their idol - Elon Mars.\n\nYou have to help the raccoons to conquer space:\n \n\ud83d\ude80Create your rocket\nUnlock the components and build the perfect rocket. Don't forget about weight, power and fuel tank capacity. Can you fly out of the atmosphere in your first Spaceflight? And fly around the planet Earth? And fly to the moon and back? It depends on you in realistic space flight simulator.\n\nMaster piloting and fly\nLeave your native Earth as soon as possible, because there are so many interesting things ahead! Find the right trajectory, gain maximum speed, avoid drifts, save fuel and don't forget about atmospheric drag in your Spaceflights.\n\n\ud83e\udd16 Craft cr",
+    "icon": "/icons/com.gardenofdreams.elonmars.png"
+  },
+  "com.dinopix.RocketSpaceflightSimulator": {
+    "title": "Rocket Spaceflight Simulator",
+    "package": "com.dinopix.RocketSpaceflightSimulator",
+    "description": "Welcome to Rocket Spaceflight Simulator, the ultimate destination for space enthusiasts and aspiring astronauts! In this thrilling rocket ship game, you'll immerse yourself in the world of spaceflight like never before. Join our esteemed space agency and take command of your very own spaceship as you embark on epic journeys into the cosmos.\n\nBegin with the creation of your spacecraft. Utilize a vast array of components to construct the perfect vessel for your next spaceflight. From thrusters to control modules, the possibilities are endless as you design and customize your spaceship to suit your exploration needs.\n\nPrepare for liftoff as you countdown to the exhilarating rocket launch. Experience the raw power and excitement of blasting off into space as your carefully crafted spaceship le",
+    "icon": "/icons/com.dinopix.RocketSpaceflightSimulator.png"
+  },
+  "com.fds.infiniteflight": {
+    "title": "Infinite Flight Simulator",
+    "package": "com.fds.infiniteflight",
+    "description": "Infinite Flight offers the most comprehensive flight simulation experience on mobile devices, whether you are a curious novice or a decorated pilot. Explore high definition scenery in regions from around the world with our diverse inventory of detailed aircraft, tailoring each flight by choosing your time of day, weather conditions, and aircraft weight configuration. \n\nFeatures:\n\u2022 Dozens of aircraft in a diverse fleet of airliners, general aviation and military aircraft (subscribe to Infinite Flight Pro to unlock all aircraft)\n\u2022 Multiple regions featuring high definition satellite imagery, accurate topography and all major airports with precise runway and taxiway layouts\n\u2022 Growing list of 3D airports around the world\n\u2022 Real-world navigation data including airspaces, NAVAIDs, SIDs, STARs, a",
+    "icon": "/icons/com.fds.infiniteflight.png"
+  },
+  "com.flatastic.app": {
+    "title": "Chore Tracker - Flatastic",
+    "package": "com.flatastic.app",
+    "description": "Flatastic is the chore tracker and household manager your family needs. Organize household chores, assign tasks, and build accountability\u2014all in one chore manager app.\n\nFlatastic: Chore Tracker, Family Chore Manager, Chore Chart, Roommate App\n\nManage household chores without the arguments. This chore tracker lets you:\n\n\u2713 Create Your Household Chore Management System\nSet up recurring chores in your chore tracker. Weekly, monthly, daily\u2014your household manager adapts to your schedule. Assign chores to family members. Everyone sees their chores in the chore tracker.\n\n\u2713 The Best Chore Tracker for Family Accountability\nYour household manager keeps everyone accountable. See who completed their chores. Track chore completion in real-time. This chore tracker builds family responsibility and teamwor",
+    "icon": "/icons/com.flatastic.app.png"
+  },
+  "com.pioneerminisplit": {
+    "title": "Pioneer Official Store",
+    "package": "com.pioneerminisplit",
+    "description": "Browse and shop for all of your home or office heating and cooling needs, all from the convenience of your smartphone with the Pioneer Official store smartphone app. Pioneer offers high quality and easy to install split system heat pumps, which are all powered by ultra-highly efficient inverter technology. Pioneer carries best-selling wall-mounted ductless systems with configurable lineset lengths, along with multi-zone mix-and-match systems and ducted central units. Select the perfect system for your project along with our vast array of accessories. Whether it's heating, cooling, or dehumidification, you will have no trouble at all finding the perfect solution for any project on the Pioneer Official Store.",
+    "icon": "/icons/com.pioneerminisplit.png"
+  },
+  "com.mfoundry.mb.android.mb_PB221371372": {
+    "title": "Pioneer-Mobile Banking",
+    "package": "com.mfoundry.mb.android.mb_PB221371372",
+    "description": "Start banking wherever you are with Pioneer-Mobile Banking. Available to all Pioneer Bank online banking customers. Pioneer-Mobile Banking allows you to check balances, make transfers, pay bills, find locations and deposit checks. Need to find a Branch or ATM closest to you? With Find Near Me, Pioneer-Mobile Banking will discover your location and provide you with addresses and phone numbers on the fly.\nMember FDIC. \n \nAvailable features include:\n \nAccounts\n- Check your latest account balance and search recent transactions by date, amount, or check number.\n \nTransfers\n- Easily transfer cash between your accounts.\n \nBill Pay\n- Pay new bills, edit bills scheduled to be paid, and review previously paid bills from your phone.\n \nLocations\n- Find nearby Branches and ATMs using the built-in GPS. ",
+    "icon": "/icons/com.mfoundry.mb.android.mb_PB221371372.png"
+  },
+  "com.amoledwatchfaces.pioneer": {
+    "title": "Pioneer Watch Face",
+    "package": "com.amoledwatchfaces.pioneer",
+    "description": "Only for Wear OS 4+ devices\n// Not suitable for rectangular watches\n\nPowered by Watch Face Format\n\nDisclaimer for Galaxy Watch Users: The watch face editor in the Samsung Wearable app often fails to load complex watch faces like this one. This is not an issue with the watch face itself. It is recommended to customize the watch face directly on the watch until Samsung resolves this issue.\n\namoledwatchfaces.com\n\nBUY ONE GET ONE OFFER!\namoledwatchfaces.com/bogo\n\nCUSTOM COMPLICATION APPS\namoledwatchfaces.com/apps\n\nFEATURES\n\n\u2022 Watch Face Format 1 / 2\n\u2022 compatible with latest Wear OS devices (Galaxy Watch7 / Pixel Watch 3)\n\u2022 flavors feature support (Wear OS 5)\n\u2022 8 custom complication slots (max)\n\u2022 includes common complication types - SHORT_TEXT, LONG_TEXT, RANGED_VALUE, MONOCHROMATIC_ICON, SMALL",
+    "icon": "/icons/com.amoledwatchfaces.pioneer.png"
+  },
+  "com.iconradius.polbb": {
+    "title": "Pioneer Online",
+    "package": "com.iconradius.polbb",
+    "description": "Pioneer Online users can use this app for adding complaints ,online payments, view traffic report .Users can login and they can manage their own packages, adding complaints, enquiry, invoices",
+    "icon": "/icons/com.iconradius.polbb.png"
+  },
+  "com.pioneerokla.tv.platform": {
+    "title": "Pioneer iVideo",
+    "package": "com.pioneerokla.tv.platform",
+    "description": "Pioneer iVideo is the next generation streaming tv solution available exclusively to Pioneer Internet customers in Oklahoma. Enjoy the live tv you love without being tied to set top boxes and lengthly contracts.  With Pioneer iVideo you can watch your favorite shows and movies on the streaming devices you already own. Which means no matter what screen you watch it on, smartphones, tablets, Tv's, etc., your favorite entertainment is just a click away. Select from four unique packages to meet your specific TV needs. Plus, enjoy up to 500 hours of DVR storage* to use on eight streaming devices*, and it's all in HD! \n\nTo check availability in your area visit ivideo.gopioneer.com.\n\nPioneer iVideo is clearly the advantage.\nNo Set Top Box Fees\nNo HD Fees\nNo Installation Fees\nNo Contract\n\nPioneer ",
+    "icon": "/icons/com.pioneerokla.tv.platform.png"
+  },
+  "com.rockstargames.gtasa.de": {
+    "title": "GTA: San Andreas - Definitive",
+    "package": "com.rockstargames.gtasa.de",
+    "description": "Five years ago, Carl \u2018CJ\u2019 Johnson escaped the haze of Los Santos, San Andreas...a city tearing itself apart with gang trouble, drugs, and corruption. Now, it's the early 90s. CJ\u2019s got to go home - his mother has been murdered, his family has fallen apart, and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of cops frame him for homicide, forcing CJ on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets in the next iteration of the series that changed everything.\n\nRockstar Games, Inc. 622 Broadway, New York, NY, 10012.  \u00a9 2001\u20132023. Rockstar Games, Grand Theft Auto, Grand Theft Auto: San Andreas and R* Logo are marks/logos/copyrights of Take-Two Interactive. Unreal\u00ae Engine,",
+    "icon": "/icons/com.rockstargames.gtasa.de.png"
+  },
+  "com.pubg.newstate": {
+    "title": "NEW STATE : NEW ERA OF BR",
+    "package": "com.pubg.newstate",
+    "description": "New Season!\nNew Survival Pass!\n\nIntroducing NEW STATE MOBILE, the new Battle Royale game developed by PUBG STUDIOS, the company behind PLAYERUNKNOWN'S BATTLEGROUNDS (PUBG). \nDive into expansive Battlegrounds, search for strategically placed weapons, vehicles, and consumables, and fight for survival in an ever-shrinking play area. \nExperience the action-packed thrills and gameplay as you fight to become the last one standing! \n \n\u25a3 Game Features \u25a3 \n\u25b6 Experience the latest NEW STATE map: LAGNA\n- Dynaimic Battle Royale action on a 4x4 desert map\n- Fun, tactical play with limited cover\n- Set up your attack from various ridge heights\n\n\u25b6Akinta: 15 Minutes of Original Battle Royale\n- Drop into fast-paced battle royale matches in a 4x4 map\n- Experience thrilling and tense gameplay from the get-go\n-",
+    "icon": "/icons/com.pubg.newstate.webp"
+  },
+  "com.github.xckevin927.android.battery.widget": {
+    "title": "Battery Widget",
+    "package": "com.github.xckevin927.android.battery.widget",
+    "description": "\ud83c\udfc6 Best battery widget, small but beautiful and powerful\uff01You can customize the battery widget look to help you decorate your launcher.  And it also support display some bluetooth battery!\n\nIf you can't download it through the Play Store, you can also go to GitHub to download and use it, its source code is completely open and free: https://github.com/xckevin/AndroidBatteryWidget\n\nIf you want to more function, just comment in Play Store and create issue in Github.\n\nI wish you like it \u2764\ufe0f",
+    "icon": "/icons/com.github.xckevin927.android.battery.widget.png"
+  },
+  "dev.bytesculptor.batterytemperaturestatus": {
+    "title": "Status Bar Battery Temperature",
+    "package": "dev.bytesculptor.batterytemperaturestatus",
+    "description": "Simple, lightweight app to show the battery temperature in the status bar.\n\nThis app is designed to alert you on too high or too low battery temperature. Prevent your phone's battery from overheating or freezing by receiving a notification if its temperature exceeds a limit. Additionally, receive notifications on low battery level.\n\nThis is a simple, light version of our more advanced app \"Bamowi\", without all the statistics and charts. If you are looking for widgets, charts and more data about your phone's battery, check out the Bamowi app: https://play.google.com/store/apps/details?id=com.bytesculptor.batterymonitor\n\n\n\ud83d\udd0b Battery Data\n\n\u25ba The battery temperature in the notification bar\n\u25ba Get notifications for too high or too low temperature\n\u25ba Get notifications for low battery level\n\u25ba Choose",
+    "icon": "/icons/dev.bytesculptor.batterytemperaturestatus.png"
+  },
+  "com.jacktor.batterylab": {
+    "title": "Battery Lab: Battery Info",
+    "package": "com.jacktor.batterylab",
+    "description": "Want to know the real remaining capacity of your smartphone or tablet battery? Or maybe you\u2019ve bought a new battery and want to check its actual capacity? Then this app is for you!\n\nBattery Lab helps you:\n- Measure the remaining battery capacity or check the real capacity of a new battery\n- View battery capacity in Wh, charge cycles, temperature, and voltage\n- Monitor charge/discharge current in real time\n- Get notifications when the battery is low, reaches a certain charge level, or is fully charged\n- Receive alerts when the battery overheats or gets too cold\n- See charging current limit (if supported by your device)\n- Display information in an overlay on screen\n\nThe app is optimized for minimal background power usage.\n\nBefore leaving a review or asking questions, please read the instruct",
+    "icon": "/icons/com.jacktor.batterylab.png"
+  },
+  "com.bytesculptor.batterymonitor": {
+    "title": "Bamowi - Battery Info & Widget",
+    "package": "com.bytesculptor.batterymonitor",
+    "description": "This app is designed to alert you on too high or too low battery temperature. Prevent your phone's battery from overheating or freezing by receiving a notification if its temperature exceeds a limit. Additionally, receive notifications on low battery level, and configure an alert level while charging to protect your battery from overcharging.\nThe app collects and visualizes different data about your battery and the charging process, showing statistics and charts. \n\nA simple, lightweight version of this app, without all the statistics and charts is available here: https://play.google.com/store/apps/details?id=dev.bytesculptor.batterytemperaturestatus\n\n\n\ud83d\udd0b Battery Data\n\n\u25ba The battery temperature in the notification bar \n\u25ba Get notifications for low battery level, too high or too low temperatur",
+    "icon": "/icons/com.bytesculptor.batterymonitor.png"
+  },
+  "com.darshancomputing.BatteryIndicator": {
+    "title": "BatteryBot Battery Indicator",
+    "package": "com.darshancomputing.BatteryIndicator",
+    "description": "BatteryBot Battery Indicator is the original battery indicator app for Android\u2122, released in 2009 as simply \"Battery Indicator.\"  Both the free and the Pro versions have maintained a 4.5+ star rating in Google Play from the beginning. It offers two modes: the original status bar indicator and now also a desktop widget.  You can use either or both, as you please.\n\nBatteryBot monitors and shows your battery charge level (percent) as an icon in your status bar, with how much time you have left, temperature, health, voltage, and time since plugged / unplugged in the notification area.  It now also has a 1x1 app widget. The Pro version also has user-configurable alarms, logs, mA current information, and a large (4x1) widget.\n\nGive it a try -- it's free and open source!  BatteryBot Battery Indic",
+    "icon": "/icons/com.darshancomputing.BatteryIndicator.png"
+  },
+  "com.autel.maxiap200.bs200": {
+    "title": "Battery Test",
+    "package": "com.autel.maxiap200.bs200",
+    "description": "Battery Test BT508/506 Battery & Electrical System Tester\nEasy-to-use Battery Diagnostics\nThe Battery Test app, together with the lightweight battery and electrical system tester BT508 or BT506, provides a quick health check of the vehicle\u2019s battery and electrical systems. This free and easy-to-use mobile app enables technicians to view more accurate test results and learn about the true health of their batteries, starters and generators.\n\nHighlights and Features\n\uf06c\tSupport in-vehicle and out-of-vehicle testing of passenger vehicle batteries\n\uf06c\tTest 6- and 12-volt batteries: 100 - 2000 CCA\n\uf06c\tTest 12- and 24- cranking/charging systems\n\uf06c\tTest Flooded, AGM, AGM Spiral, EFB and GEL batteries\n\uf06c\tCompatible with CCA, CA, SAE, EN, IEC, DIN, JIS and MCA\n\uf06c\tOne-touch battery registration (BT508 only)\n\uf06c",
+    "icon": "/icons/com.autel.maxiap200.bs200.png"
+  },
+  "com.dbdhub.joolace": {
+    "title": "DBD Hub - Companion & Builds",
+    "package": "com.dbdhub.joolace",
+    "description": "\u26a0\ufe0fPLEASE NOTE: This is NOT the game Dead by Daylight Mobile.\nThis is an unofficial, community-driven companion app for Dead by Daylight players. We are not affiliated with Behaviour Interactive.\nDBD Hub is an independent, fan-made companion app and is NOT affiliated with, endorsed by, or officially connected to Behaviour Interactive Inc. or Dead by Daylight\u2122. Please read the full disclaimer at the bottom.\n\nLooking for the best fan-made builds? Need a perk tier list, killer rankings, or real-time queue times? DBD Hub is the community-driven toolkit for Dead by Daylight players on mobile.\n\n\u26a1 META BUILDS & LOADOUTS\nBrowse top-rated killer and survivor builds created by the community. Create your own loadout, share it, and vote on the best community builds. Find the current meta perks instantl",
+    "icon": "/icons/com.dbdhub.joolace.png"
+  },
+  "com.badflyinteractive.deadeffect2": {
+    "title": "Dead Effect 2",
+    "package": "com.badflyinteractive.deadeffect2",
+    "description": "The nightmare isn\u2019t over. Plunge into the dead space aboard ESS Meridian again! Darkness envelopes you. Will you be dead by daylight?\nLooking to push the boundaries of mobile gaming to another level, Dead Effect 2 is a console-quality action sci-fi shooter with RPG elements. \nChallenge yourself in of its enticing storyline, with tons of upgradable weapons, gear and high-tech body implants.\n\nKEY FEATURES:\n\nCONSOLE-QUALITY GRAPHICS AND SOUND\n\u2022 breathtaking graphics using the latest Android & NVIDIA technology\n\u2022 realistic effects and stunning environments\n\u2022 narrated by professional voice actors\n\u2022 atmospheric soundtrack and movie-quality sound effects\n\nRPG LAYER WITH DEEP CHARACTER DEVELOPMENT\n\u2022 3 personas = 3 different personalities\n\u2022 character training and development\n\u2022 unique system of 100+",
+    "icon": "/icons/com.badflyinteractive.deadeffect2.png"
+  },
+  "com.skytecgames.survival": {
+    "title": "Horrorfield Multiplayer horror",
+    "package": "com.skytecgames.survival",
+    "description": "Horrorfield is a horrifying action horror game. Play this scary hide and seek online game with friends in real-time. Will you get caught by the deadly serial killer or escape becoming a survivor? It's up to you in survival multiplayer games! Remember all horror movies about cult maniac Jason and Friday the 13th and feel like the main character of a scary slasher. It's time to be afraid!\n\nWelcome to the horrifying maniac monster lair! Join the camp of 7 survivors and choose your unique role and set of abilities:\n\ud83c\udfc0BASKETBALL PLAYER can run away from the murderer faster than the other players.\n\ud83e\ude7aDOCTOR heals himself and other victims.\n\ud83d\udee0\ufe0fENGINEER can fix generators and crafts armors and weapons more quickly.\n\ud83d\udddd\ufe0fTHIEF has high stealth and agility to hide from a serial killer.\n\ud83d\udca3MERCENARY is a brav",
+    "icon": "/icons/com.skytecgames.survival.png"
+  },
+  "com.ds.usbdebug": {
+    "title": "USB Debug",
+    "package": "com.ds.usbdebug",
+    "description": "Usb Debug is a simple application which allows to turn on or off developer options. \nWhen you connect the phone to your laptop or computer, the application automatically starts. Then you can easily turn on developer options by clicking: Start USB DEBUG.\nAdditional functionality:\n- CheckBox for auto start USB Debug. Will allow you to decide whether the application starts when you connect    your phone to your computer.\n- Automatic transition to USB Debug.\n- Application was tested on android 4.0 to 4.4.",
+    "icon": "/icons/com.ds.usbdebug.png"
+  },
+  "com.homeysoft.nexususb.importer": {
+    "title": "USB Media Explorer",
+    "package": "com.homeysoft.nexususb.importer",
+    "description": "USB Media Explorer (UME), formerly known as Nexus Media Importer, allows you view photos (Jpeg and Raw), stream videos1, listen to music, and view documents from USB storage devices and cameras.  Specialized screens for photos, videos, music, documents and file management.  Copy files to and from the USB device.  View full size photos and videos without importing!\n\nSupported Devices:\n- Flash/Pen Drives\n- Card Readers\n- Hard Drives2\n- Cameras3\n- Other Android devices4\n- MTP/UMS audio players5\n- Some DVD drives6\n\nAdditional Hardware Requirements:\n- Connecting most devices will require a microUSB OTG cable or USB C to USB adapter.  These are available from most major retail websites.\n\nNotes:\n1. Video and audio formats not natively supported by Android (AVI, Dolby, DTS, WMV) may require a thir",
+    "icon": "/icons/com.homeysoft.nexususb.importer.png"
+  },
+  "com.redlee90.hideusbdebugging": {
+    "title": "Hide USB Debugging Mode [Xpose",
+    "package": "com.redlee90.hideusbdebugging",
+    "description": "An Xposed module that is used to hide usb debugging status. Useful for apps such as SepctrumTV which refuses to run when usb debugging is on.\n\nPlease be aware of that the magic is done via Xposed framework. It will do nothing if you don't have a working Xposed environment.",
+    "icon": "/icons/com.redlee90.hideusbdebugging.png"
+  },
+  "com.mixapplications.usbtools": {
+    "title": "USB TOOLS",
+    "package": "com.mixapplications.usbtools",
+    "description": "\ud83e\uddf0 USB Tools \u2014 Format, Wipe, Backup & Repair USB Drives\nFormat, wipe, partition, and back up USB drives\u2014no PC required.\nUSB Tools is a complete USB maintenance suite for Android. Format drives, manage partitions, securely erase data, and restore backups\u2014all from your phone. Most features work without root. Internal SD card slot access requires root.\n\n\ud83d\udee0\ufe0f Core Features\nUSB Formatter\n\u2022 Format drives to FAT16, FAT32, EXFAT, NTFS, EXT2/3/4\n\u2022 Manual file system selection\nPartition Wizard\n\u2022 Create and delete partitions\n\u2022 Manual selection of GPT (UEFI) or MBR (Legacy)\nUSB Wipe\n\u2022 Securely erase all data from USB or SD card\nBackup & Restore\n\u2022 Create full backups of USB content\n\u2022 Restore from saved backups\nPS2 USB Utils\n\u2022 Organize, convert, defragment, and export PS2 games\n\u2022 Supports >4GB ISOs, BIN/IS",
+    "icon": "/icons/com.mixapplications.usbtools.png"
+  },
+  "com.bluedragonfly.developeroptions": {
+    "title": "USB Debugging",
+    "package": "com.bluedragonfly.developeroptions",
+    "description": "This app allows you to fast open the Developer options. The standard steps for opening the Developer options is Settings -> Developer options. Using this app, those options will appear automatically when you connect your device to USB or when you disconnect your device. Then you can choose which options do you want to enable or disable as you did before. \n\nUsing this app you don't need to manually enter the settings for development, as the application will do it for you automatically. Additionally, you can choose whether to display the Developer options. It can be displayed only when you connect your device to USB, as well as both connect and disconnect your device.\n\n****************************\nNote for Xiaomi users:\nDeveloper options will be opened at USB events (if enabled) only if Auto",
+    "icon": "/icons/com.bluedragonfly.developeroptions.png"
+  },
+  "com.abs.cpu_z_advance": {
+    "title": "CPU X - Device & System info",
+    "package": "com.abs.cpu_z_advance",
+    "description": "CPU X shows complete information about devices like processor, cores, speed, model, RAM, camera, sensors etc. See most detailed specifications of other Android smartphones.\nYou can discuss with technology enthusiasts around the world to exchange ideas and share knowledge. You can ask questions and give answers.\n\n\n FEATURES\n\n\u2022  Device Specifications - Get most complete information about your device \n    like processor, cores, speed, model, RAM, camera, sensors etc.\n\n\u2022  Search Smartphones - See most detailed specifications of Android \n   smartphones.\n\n\u2022 Internet Speed Monitor - See current download & upload speed in \n   notifications and combined speed in status bar.\n\n\u2022 Battery Monitor - See charging or discharging electric current in milliampere \n  and temperature of battery in notification",
+    "icon": "/icons/com.abs.cpu_z_advance.png"
+  },
+  "com.royalapps.cpuhardwareinfopro": {
+    "title": "CPU Device & Hardware Info Pro",
+    "package": "com.royalapps.cpuhardwareinfopro",
+    "description": "CPU Device & Hardware Info Pro is information app for your Android Smartphones to know your complete CPU and Android version information about your phone at one place and user can see Device, Camera, Battery, SIM, Operating System, Display, Memory, CPU, Sensors and many more.\n\nFeatures:\n\u2022 Device Info: Model, Manufacturer, Chipset, Build Number and Android OS version.\n\u2022 System: CPU architecture, Board, Number of Cores, Clock Speed, CPU Features, Governor and Kernel information. As well as current CPU Utilization, Total running processes, and clock frequency of each core.\n\u2022 Memory: Total and available RAM, as well as Storage information about your device.\n\u2022 Camera: Detailed information about the primary and secondary camera in your phone. Along with supported resolutions, focus modes and Ant",
+    "icon": "/icons/com.royalapps.cpuhardwareinfopro.png"
   }
 }
