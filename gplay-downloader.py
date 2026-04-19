@@ -958,8 +958,9 @@ def cmd_download_both_arch(args):
 
 
 def cmd_download_all_locales(args):
-    """Download APK with all language splits."""
+    """Download APK with all available language splits."""
     import time
+    import re
 
     auth = load_auth()
     if not auth:
@@ -969,102 +970,261 @@ def cmd_download_all_locales(args):
     output_dir = Path(args.output)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Language headers to try
-    LANGUAGE_HEADERS = [
-        ('en', 'en-US,en;q=0.9'),
-        ('he', 'he-IL,he;q=0.9,iw;q=0.8,en;q=0.7'),
-        ('fr', 'fr-FR,fr;q=0.9,en;q=0.7'),
-    ]
+    # Suppress merge and install in cmd_download — we handle both ourselves
+    # after all locale splits are downloaded so nothing is deleted prematurely.
+    user_merge = args.merge
+    user_install = getattr(args, 'install', False)
+    args.merge = False
+    args.install = False
 
-    # First do normal download
     print("Downloading base APK and default splits...")
     result = cmd_download(args)
+
+    args.merge = user_merge
+    args.install = user_install
+
     if result != 0:
         return result
 
-    # Now try to get additional language splits
     try:
         from gpapi import googleplay_pb2
-        import re
 
-        # Get version code from details
-        headers = get_auth_headers(auth)
-        headers['Content-Type'] = 'application/x-protobuf'
-        headers['Accept'] = 'application/x-protobuf'
+        # Determine version code from the base APK filename left on disk.
+        base_apk = None
+        version_code = None
+        for f in output_dir.iterdir():
+            if (f.name.startswith(f"{package}-") and f.suffix == '.apk'
+                    and 'config' not in f.name and 'merged' not in f.name):
+                base_apk = f
+                try:
+                    version_code = int(f.stem.replace(f"{package}-", ''))
+                except ValueError:
+                    pass
+                break
 
-        response = requests.get(f"{DETAILS_URL}?doc={package}", headers=headers, timeout=30)
-        if response.status_code != 200:
-            print("Could not get version info for additional splits")
+        if base_apk is None or version_code is None:
+            print("Could not locate base APK to read locale split list.")
+            return 1
+
+        # Parse splits0.xml from the base APK using aapt.
+        aapt = shutil.which('aapt')
+        if not aapt:
+            print("Error: aapt not found.")
+            print("Install with: sudo apt install aapt  (Debian/Ubuntu)")
+            print("          or: brew install android-platform-tools  (macOS)")
+            return 1
+
+        aapt_result = subprocess.run(
+            [aapt, 'dump', 'xmltree', str(base_apk), 'res/xml/splits0.xml'],
+            capture_output=True, text=True, timeout=30
+        )
+
+        if aapt_result.returncode != 0:
+            print("No splits0.xml found in base APK (legacy monolithic APK).")
+            print("No additional locale splits available.")
             return 0
 
-        details_response = googleplay_pb2.ResponseWrapper()
-        details_response.ParseFromString(response.content)
-        app = details_response.payload.detailsResponse.docV2
-        version_code = app.details.appDetails.versionCode
+        # Collect all (lang_key, split_name) pairs from every module.
+        # key= and split= are on consecutive lines in aapt output.
+        # Locale split names are config.{xx} where xx is a 2-4 char ISO language code.
+        # This excludes SnapCamera-style feature module names and density/arch splits.
+        lang_pattern = re.compile(r'^config\.[a-z]{2,4}$')
+        def is_locale_split(name):
+            return bool(lang_pattern.match(name))
+        locale_splits = []
+        pending_key = None
+        for line in aapt_result.stdout.splitlines():
+            km = re.search(r'key="([^"]+)"', line)
+            sm = re.search(r'split="([^"]*)"', line)
+            if km:
+                pending_key = km.group(1)
+            if sm and pending_key is not None:
+                split_name = sm.group(1)
+                if split_name and is_locale_split(split_name):
+                    locale_splits.append((pending_key, split_name))
+                pending_key = None
 
-        lang_pattern = re.compile(r'^config\.([a-z]{2}(_[A-Z]{2})?)$')
+        # Deduplicate by split_name, preserving first lang_key seen.
+        seen_splits = {}
+        for lang_key, split_name in locale_splits:
+            if split_name not in seen_splits:
+                seen_splits[split_name] = lang_key
+        locale_splits = list(seen_splits.items())  # [(split_name, lang_key)]
+
+        if not locale_splits:
+            print("App has no separate locale splits (strings are bundled in base APK).")
+            return 0
+
+        print(f"\nFound {len(locale_splits)} locale splits in app manifest.")
+
+        # Build set of already-downloaded locale splits (support re-runs).
+        # Filter to only splits declared in splits0.xml — prevents density/arch splits
+        # (e.g. config.xxhdpi) from polluting the locale tracking.
+        known_locale_split_names = {split_name for split_name, _ in locale_splits}
         downloaded_splits = set()
-
-        # Check what we already have
         for f in output_dir.iterdir():
-            if f.name.startswith(f"{package}.config.") and f.name.endswith('.apk'):
-                split_name = f.name.replace(f"{package}.", '').replace('.apk', '')
-                downloaded_splits.add(split_name)
+            if (f.name.startswith(f"{package}-{version_code}-config.")
+                    and f.suffix == '.apk'):
+                split_name = f.name.replace(f"{package}-{version_code}-", '').replace('.apk', '')
+                if split_name in known_locale_split_names:
+                    downloaded_splits.add(split_name)
 
-        # Try each language
-        for lang_code, accept_lang in LANGUAGE_HEADERS:
-            expected = f"config.{lang_code}"
-            if expected in downloaded_splits:
-                print(f"Already have {expected}, skipping")
+        # Download each locale split.
+        skipped = 0
+        failed = []
+        newly_downloaded = []
+
+        for split_name, lang_key in locale_splits:
+            if split_name in downloaded_splits:
+                skipped += 1
                 continue
 
-            print(f"\nFetching {expected} split...")
-            time.sleep(2)
+            lang_headers = get_auth_headers(auth, accept_language=f"{lang_key};q=0.9")
+            lang_headers['Content-Type'] = 'application/x-protobuf'
+            lang_headers['Accept'] = 'application/x-protobuf'
 
             try:
-                lang_headers = get_auth_headers(auth, accept_language=accept_lang)
-                lang_headers['Content-Type'] = 'application/x-protobuf'
-                lang_headers['Accept'] = 'application/x-protobuf'
-
-                delivery_url = f"{DELIVERY_URL}?doc={package}&ot=1&vc={version_code}"
-                delivery_response = requests.get(delivery_url, headers=lang_headers, timeout=30)
-
+                delivery_response = requests.get(
+                    f"{DELIVERY_URL}?doc={package}&ot=1&vc={version_code}",
+                    headers=lang_headers, timeout=30
+                )
                 if delivery_response.status_code != 200:
-                    print(f"  Failed: HTTP {delivery_response.status_code}")
+                    print(f"  {split_name}: HTTP {delivery_response.status_code}, skipping")
+                    failed.append(split_name)
+                    time.sleep(0.3)
                     continue
 
                 delivery_wrapper = googleplay_pb2.ResponseWrapper()
                 delivery_wrapper.ParseFromString(delivery_response.content)
                 delivery_data = delivery_wrapper.payload.deliveryResponse.appDeliveryData
 
-                # Look for language splits
-                for split in delivery_data.split:
-                    if lang_pattern.match(split.name) and split.name not in downloaded_splits:
-                        split_filepath = output_dir / f"{package}.{split.name}.apk"
+                target = next((s for s in delivery_data.split if s.name == split_name), None)
+                if target is None:
+                    # Play doesn't serve this split (e.g. config.mzn).
+                    failed.append(split_name)
+                    time.sleep(0.3)
+                    continue
 
-                        download_headers = {}
-                        for cookie in delivery_data.downloadAuthCookie:
-                            download_headers['Cookie'] = f"{cookie.name}={cookie.value}"
+                cookie_parts = [f"{c.name}={c.value}" for c in delivery_data.downloadAuthCookie]
+                dl_headers = {'Cookie': '; '.join(cookie_parts)} if cookie_parts else {}
 
-                        dl_response = requests.get(split.downloadUrl, headers=download_headers, stream=True, timeout=300)
-                        if dl_response.status_code == 200:
-                            with open(split_filepath, 'wb') as f:
-                                for chunk in dl_response.iter_content(chunk_size=8192):
-                                    if chunk:
-                                        f.write(chunk)
+                final_path = output_dir / f"{package}-{version_code}-{split_name}.apk"
+                tmp_path = final_path.with_suffix('.apk.tmp')
 
-                            if split_filepath.exists() and split_filepath.stat().st_size > 0:
-                                downloaded_splits.add(split.name)
-                                print(f"  Downloaded: {split.name}")
+                dl_response = requests.get(
+                    target.downloadUrl, headers=dl_headers, stream=True, timeout=300
+                )
+                if dl_response.status_code != 200:
+                    print(f"  {split_name}: download HTTP {dl_response.status_code}, skipping")
+                    failed.append(split_name)
+                    time.sleep(0.3)
+                    continue
+
+                with open(tmp_path, 'wb') as f:
+                    for chunk in dl_response.iter_content(chunk_size=8192):
+                        if chunk:
+                            f.write(chunk)
+
+                if tmp_path.stat().st_size > 0:
+                    tmp_path.rename(final_path)
+                    downloaded_splits.add(split_name)
+                    newly_downloaded.append(final_path)
+                    print(f"  Downloaded: {split_name} ({final_path.stat().st_size // 1024}KB)")
+                else:
+                    tmp_path.unlink(missing_ok=True)
+                    failed.append(split_name)
 
             except Exception as e:
-                print(f"  Error: {e}")
+                tmp_path = output_dir / f"{package}-{version_code}-{split_name}.apk.tmp"
+                tmp_path.unlink(missing_ok=True)
+                print(f"  {split_name}: error — {e}")
+                failed.append(split_name)
 
-        print(f"\nTotal language splits: {len([s for s in downloaded_splits if lang_pattern.match(s)])}")
+            time.sleep(0.3)
+
+        total_lang = len(downloaded_splits)
+        print(f"\nLocale splits: {total_lang} downloaded", end='')
+        if skipped:
+            print(f", {skipped} already present", end='')
+        if failed:
+            print(f", {len(failed)} not available from Play ({', '.join(failed)})", end='')
+        print()
+
+        # Merge if requested.
+        if user_merge:
+            all_splits = [
+                f for f in output_dir.iterdir()
+                if (f.name.startswith(f"{package}-{version_code}-")
+                    and f.suffix == '.apk'
+                    and 'merged' not in f.name
+                    and f != base_apk)
+            ]
+            merged_filename = f"{package}-{version_code}-merged.apk"
+            merged_filepath = output_dir / merged_filename
+            print("\nMerging APKs...")
+            try:
+                merge_apks_with_apkeditor(base_apk, all_splits, str(merged_filepath))
+                print(f"Merged: {merged_filepath}")
+
+                from axml_patcher import get_asset_pack_split_names, patch_apk_fused_modules
+                split_names = [f.stem.replace(f"{package}-{version_code}-", '') for f in all_splits]
+                asset_packs = get_asset_pack_split_names(split_names)
+                if asset_packs:
+                    fused_value = ','.join(asset_packs)
+                    try:
+                        if patch_apk_fused_modules(str(merged_filepath), fused_value):
+                            print(f"Patched fused modules: {fused_value}")
+                    except Exception as e:
+                        print(f"Warning: fused modules patch failed: {e}")
+
+                print("Signing merged APK...")
+                if sign_apk(merged_filepath):
+                    print("APK signed successfully")
+
+                print("Cleaning up split files...")
+                base_apk.unlink(missing_ok=True)
+                for sf in all_splits:
+                    sf.unlink(missing_ok=True)
+
+                print(f"\nFinal APK: {merged_filepath}")
+            except Exception as e:
+                print(f"Merge failed: {e}")
+                print("Individual APK files have been kept.")
+
+        # Install if requested.
+        if user_install:
+            import subprocess as sp
+            try:
+                sp.run(['adb', 'version'], capture_output=True, check=True)
+            except (FileNotFoundError, sp.CalledProcessError):
+                print("Error: adb not found. Install Android SDK platform-tools.")
+                return 1
+
+            if user_merge:
+                merged_filepath = output_dir / f"{package}-{version_code}-merged.apk"
+                if merged_filepath.exists():
+                    print(f"Installing {merged_filepath.name} to device...")
+                    r = sp.run(['adb', 'install', '-r', str(merged_filepath)],
+                               capture_output=True, text=True, timeout=300)
+                    if r.returncode != 0:
+                        print(f"Install failed: {r.stderr.strip() or r.stdout.strip()}")
+                        return 1
+                    print("Installed successfully!")
+            else:
+                all_apks = sorted(output_dir.glob(f"{package}-{version_code}*.apk"))
+                all_apks = [str(f) for f in all_apks if 'merged' not in f.name]
+                print(f"Installing {len(all_apks)} APKs to device...")
+                r = sp.run(['adb', 'install-multiple', '-r'] + all_apks,
+                           capture_output=True, text=True, timeout=300)
+                if r.returncode != 0:
+                    print(f"Install failed: {r.stderr.strip() or r.stdout.strip()}")
+                    return 1
+                print("Installed successfully!")
 
     except ImportError:
-        print("gpapi library required for language split downloads")
+        print("gpapi library required for language split downloads.")
 
+    print("\nDownload complete!")
     return 0
 
 

@@ -197,8 +197,11 @@ Shows all available split APKs including language splits.
 # Download for both architectures at once
 ./gplay download com.google.android.youtube --both-arch
 
-# Download all language splits (en, he, fr)
+# Download all available language splits (individual split APKs)
 ./gplay download com.google.android.youtube --all-locales
+
+# Download all available language splits merged into a single APK
+./gplay download com.google.android.youtube --all-locales -m
 
 # Download and install to connected device via ADB
 ./gplay download com.google.android.youtube -i
@@ -257,7 +260,7 @@ Shows all available split APKs including language splits.
 | `-v`, `--version` | latest | Download specific version code |
 | `-i`, `--install` | off | Install to connected ADB device after download |
 | `--both-arch` | | Download for both ARM64 and ARMv7 |
-| `--all-locales` | | Download all language splits (en, he, fr) |
+| `--all-locales` | | Download all available language splits (reads app manifest) |
 
 ### Scripting Examples
 
