@@ -301,7 +301,7 @@
   <script>
     function shareApp() {
       const url = window.location.href;
-      const title = '__TITLE__';
+      const title = __TITLE_JSON__;
       const toast = document.getElementById('share-toast');
       function showToast(msg) {
         toast.textContent = msg;

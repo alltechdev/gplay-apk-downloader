@@ -173,6 +173,7 @@ def render_app_page(pkg):
         return None
 
     title = htmlmod.escape(meta.get('title', pkg))
+    title_json = json.dumps(meta.get('title', pkg))
     icon = htmlmod.escape(meta.get('icon', ''))
     pkg_escaped = htmlmod.escape(pkg)
     description = meta.get('description', '')
@@ -181,6 +182,7 @@ def render_app_page(pkg):
 
     html = template.replace('__PKG__', pkg_escaped)
     html = html.replace('__TITLE__', title)
+    html = html.replace('__TITLE_JSON__', title_json)
     html = html.replace('__ICON__', icon)
     html = html.replace('__DESCRIPTION__', desc_safe)
     html = html.replace('__DESCRIPTION_DISPLAY__', '' if description else 'display:none')
@@ -247,13 +249,17 @@ def render_browse_page():
             title = htmlmod.escape(app.get('title', pkg))
             icon = htmlmod.escape(app.get('icon', ''))
             icon_html = f'<img class="browse-icon" src="{icon}" alt="" loading="lazy" onerror="this.style.display=\'none\'">' if icon else '<div class="browse-icon-placeholder"></div>'
+            share_icon = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>'
             cards_html += (
-                f'<a class="browse-card" href="/app/{pkg}">'
+                f'<div class="browse-card">'
+                f'<a class="browse-card-link" href="/app/{pkg}">'
                 f'{icon_html}'
                 f'<div class="browse-card-info">'
                 f'<div class="browse-card-title">{title}</div>'
                 f'<div class="browse-card-pkg">{pkg}</div>'
                 f'</div></a>'
+                f'<button class="browse-share-btn" onclick="shareBrowseCard(this,\'/app/{pkg}\')" title="Share">{share_icon}</button>'
+                f'</div>'
             )
         cards_html += '</div></div>'
 

@@ -226,44 +226,22 @@
       grid-template-columns: 1fr;
       gap: 4px;
     }
-    .browse-content.list-view .browse-card {
-      border-radius: 8px;
-      padding: 10px 14px;
-    }
-    .browse-content.list-view .browse-icon {
-      width: 36px;
-      height: 36px;
-      border-radius: 8px;
-    }
+    .browse-content.list-view .browse-card { border-radius: 8px; }
+    .browse-content.list-view .browse-card-link { padding: 10px 14px; }
+    .browse-content.list-view .browse-icon { width: 36px; height: 36px; border-radius: 8px; }
 
     /* --- App cards --- */
     .browse-card {
       display: flex;
       align-items: center;
-      gap: 12px;
-      padding: 12px 14px;
+      gap: 0;
       background: var(--bg-card);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      text-decoration: none;
       transition: border-color var(--transition), background var(--transition), box-shadow 0.25s ease, transform 0.25s ease;
       position: relative;
       overflow: hidden;
       min-width: 0;
-    }
-    .browse-card::after {
-      content: '';
-      position: absolute;
-      right: 12px;
-      top: 50%;
-      transform: translateY(-50%) translateX(4px);
-      width: 16px;
-      height: 16px;
-      opacity: 0;
-      transition: opacity var(--transition), transform var(--transition);
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%232563eb' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='9 18 15 12 9 6'/%3E%3C/svg%3E");
-      background-size: contain;
-      background-repeat: no-repeat;
     }
     .browse-card:hover {
       border-color: var(--border-focus);
@@ -271,15 +249,18 @@
       box-shadow: 0 2px 12px rgba(0,0,0,0.2);
       transform: translateY(-1px);
     }
-    .browse-card:hover::after {
-      opacity: 0.6;
-      transform: translateY(-50%) translateX(0);
-    }
-    .browse-card:active {
-      transform: translateY(0);
-      box-shadow: none;
-    }
+    .browse-card:active { transform: translateY(0); box-shadow: none; }
     .browse-card.hidden { display: none; }
+
+    .browse-card-link {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex: 1;
+      min-width: 0;
+      padding: 12px 14px;
+      text-decoration: none;
+    }
 
     .browse-icon {
       width: 44px;
@@ -301,9 +282,43 @@
     .browse-card-info {
       flex: 1;
       min-width: 0;
-      padding-right: 20px;
       overflow: hidden;
     }
+    .browse-share-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      padding: 7px;
+      margin-right: 10px;
+      background: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: var(--radius);
+      color: #fff;
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .browse-share-btn:hover { background: var(--accent-dim); border-color: var(--accent-dim); }
+    .browse-share-btn svg { width: 14px; height: 14px; display: block; pointer-events: none; }
+    .share-toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(8px);
+      background: var(--bg-card);
+      border: 1px solid var(--border-focus);
+      color: var(--text-primary);
+      font-family: var(--font-mono);
+      font-size: 12px;
+      padding: 8px 16px;
+      border-radius: var(--radius);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s, transform 0.2s;
+      z-index: 9999;
+      white-space: nowrap;
+    }
+    .share-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
     .browse-card-title {
       font-size: 13px;
       font-weight: 600;
@@ -385,9 +400,7 @@
 
     @media (max-width: 600px) {
       .browse-grid { grid-template-columns: 1fr; gap: 6px; }
-      .browse-card { padding: 10px 12px; }
-      .browse-card::after { display: none; }
-      .browse-card-info { padding-right: 0; }
+      .browse-card-link { padding: 10px 12px; }
       .browse-hero-top { flex-direction: column; align-items: flex-start; }
       .view-toggle { display: none; }
       .browse-chips { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 4px; }
@@ -448,6 +461,8 @@
       No apps match your search
     </div>
 
+    <div class="share-toast" id="share-toast"></div>
+
     <footer class="browse-footer footer">
       <a href="/" class="footer-link">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
@@ -457,6 +472,23 @@
   </div>
 
   <script>
+    function shareBrowseCard(btn, path) {
+      var url = window.location.origin + path;
+      var toast = document.getElementById('share-toast');
+      var toastTimer;
+      function showToast(msg) {
+        toast.textContent = msg;
+        toast.classList.add('show');
+        clearTimeout(toastTimer);
+        toastTimer = setTimeout(function() { toast.classList.remove('show'); }, 2200);
+      }
+      if (navigator.share) {
+        navigator.share({ url: url }).catch(function() {});
+      } else {
+        navigator.clipboard.writeText(url).then(function() { showToast('Link copied to clipboard'); }).catch(function() { showToast('Copy: ' + url); });
+      }
+    }
+
     var activeCategory = null;
 
     // Build category chips on load
