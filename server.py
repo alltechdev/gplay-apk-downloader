@@ -670,6 +670,7 @@ def get_download_info(pkg, auth):
 
 SITE_URL = os.environ.get('SITE_URL', '').rstrip('/')
 UMAMI_SCRIPT = os.environ.get('UMAMI_SCRIPT', '')
+UMAMI_REPLAY_SCRIPT = os.environ.get('UMAMI_REPLAY_SCRIPT', '')
 _ANALYTICS_ORIGIN = ''
 if UMAMI_SCRIPT:
     _m = re.search(r'src="(https?://[^"/]+)', UMAMI_SCRIPT)
@@ -694,6 +695,8 @@ def index():
         html = re.sub(r'<script type="application/ld\+json">[^<]*__SITE_URL__[^<]*</script>\n?', '', html)
     if UMAMI_SCRIPT:
         html = html.replace('</head>', f'  {UMAMI_SCRIPT}\n</head>')
+    if UMAMI_REPLAY_SCRIPT:
+        html = html.replace('</head>', f'  {UMAMI_REPLAY_SCRIPT}\n</head>')
     return Response(html, content_type='text/html')
 
 
@@ -713,6 +716,8 @@ if not _DISABLE_APP_PAGES:
             html = re.sub(r'<script type="application/ld\+json">[^<]*__SITE_URL__[^<]*</script>\n?', '', html)
         if UMAMI_SCRIPT:
             html = html.replace('</head>', f'  {UMAMI_SCRIPT}\n</head>')
+        if UMAMI_REPLAY_SCRIPT:
+            html = html.replace('</head>', f'  {UMAMI_REPLAY_SCRIPT}\n</head>')
         return Response(html, content_type='text/html')
 
     @app.route('/app/<path:pkg>')
@@ -727,6 +732,8 @@ if not _DISABLE_APP_PAGES:
             return Response('App not found. <a href="/">Try searching for it</a>.', status=404, content_type='text/html')
         if UMAMI_SCRIPT:
             html = html.replace('</head>', f'  {UMAMI_SCRIPT}\n</head>')
+        if UMAMI_REPLAY_SCRIPT:
+            html = html.replace('</head>', f'  {UMAMI_REPLAY_SCRIPT}\n</head>')
         return Response(html, content_type='text/html')
 
 
