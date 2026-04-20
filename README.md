@@ -4,7 +4,7 @@ Download APKs from Google Play Store. Can merge split APKs (App Bundles) into si
 
 ## Features
 
-- Download any free app from Google Play
+- Download any free app from Google Play (paid apps are detected early and rejected with the price shown)
 - Automatic split APK merging using [APKEditor](https://github.com/REAndroid/APKEditor), with Play Asset Delivery support (OBB/asset pack fusing)
 - 23 device profiles with automatic rotation for reliable downloads
 - Architecture support: ARM64 (modern phones) and ARMv7 (older phones)
@@ -475,7 +475,7 @@ python3 device_profiles.py  # Print all available profiles
 ## How It Works
 
 1. **Authentication**: Gets anonymous token from Aurora Store's dispenser, rotating through device profiles for reliability
-2. **Details**: Fetches app metadata (version, size, splits) via Google Play's protobuf API
+2. **Details**: Fetches app metadata (version, size, splits, price) via Google Play's protobuf API. Paid apps are detected immediately and rejected with a clear error — no purchase or delivery is attempted
 3. **Purchase**: "Purchases" the free app to get download authorization
 4. **Download**: Fetches base APK + config splits from Google Play CDN
 5. **Merge**: Combines splits using APKEditor (proper resource table merging)

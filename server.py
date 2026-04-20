@@ -583,12 +583,19 @@ def get_download_info(pkg, auth):
 
         logger.info(f"Details for {pkg}: title={title}, versionCode={version_code}, versionString={version_string}")
 
+        # Detect paid apps before attempting purchase/delivery
+        for offer in app.offer:
+            if offer.offerType == 1:
+                logger.info(f"Offer for {pkg}: micros={offer.micros}, formatted=\"{offer.formattedAmount}\"")
+                if offer.micros > 0:
+                    logger.warning(f"Paid app detected: {pkg} costs {offer.formattedAmount} ({offer.micros} micros)")
+                    return {'error': 'paid_app', 'formattedAmount': offer.formattedAmount or 'paid'}
+
         # If version_code is 0, try to get it from offer
         if version_code == 0 and app.offer:
             for offer in app.offer:
-                if offer.offerType == 1:  # Free app offer
-                    # Check if there's version info in the offer
-                    logger.debug(f"Offer details: micros={offer.micros}, formattedAmount={offer.formattedAmount}")
+                if offer.offerType == 1:
+                    logger.debug(f"Offer version fallback for {pkg}: micros={offer.micros}")
 
     except Exception as e:
         return {'error': f'Failed to parse app details: {str(e)}'}
@@ -1228,6 +1235,11 @@ def download_info_stream(pkg):
             yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Trying cached token...'})}\n\n"
             try:
                 info = get_download_info(pkg, cached)
+                if info.get('error') == 'paid_app':
+                    price = info.get('formattedAmount', 'paid')
+                    logger.warning(f"Paid app fast-fail: {pkg} ({price})")
+                    yield f"data: {json.dumps({'type': 'error', 'message': f'This app is not free ({price}). Only free apps can be downloaded.'})}\n\n"
+                    return
                 if 'error' not in info:
                     logger.info(f"Cached token worked for {pkg}")
                     total_size = info['downloadSize'] + sum(s.get('size', 0) for s in info['splits'])
@@ -1302,6 +1314,11 @@ def download_info_stream(pkg):
                 info = get_download_info(pkg, auth_data)
 
                 if 'error' in info:
+                    if info['error'] == 'paid_app':
+                        price = info.get('formattedAmount', 'paid')
+                        logger.warning(f"Paid app fast-fail: {pkg} ({price})")
+                        yield f"data: {json.dumps({'type': 'error', 'message': f'This app is not free ({price}). Only free apps can be downloaded.'})}\n\n"
+                        return
                     error_msg = info['error'][:50]
                     logger.warning(f"Token #{attempt} ({profile_name}) failed for {pkg}: {info['error']}")
                     yield f"data: {json.dumps({'type': 'progress', 'attempt': attempt, 'message': f'Token #{attempt} ({profile_name}) - {error_msg}'})}\n\n"

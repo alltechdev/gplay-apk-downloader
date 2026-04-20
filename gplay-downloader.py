@@ -508,6 +508,13 @@ def cmd_download(args):
         print(f"Version: {app.details.appDetails.versionString} ({version_code})")
         print()
 
+        # Detect paid apps before attempting purchase/delivery
+        for offer in app.offer:
+            if offer.offerType == 1 and offer.micros > 0:
+                price = offer.formattedAmount or 'paid'
+                print(f"Error: This app is not free ({price}). Only free apps can be downloaded.")
+                return 1
+
         # Step 2: Purchase (acquire free app)
         print("Acquiring app...")
         purchase_headers = headers.copy()
