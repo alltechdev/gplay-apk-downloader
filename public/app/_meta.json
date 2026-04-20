@@ -875,12 +875,6 @@
     "description": "TikTok Lite - the Compact, Faster version of TikTok, is perfect for users with low-end devices, limited data plans, or unstable networks. Enjoy the full TikTok experience—seamless video streaming, trending music video, and social video sharing—optimized for challenging conditions. With reduced data consumption and minimal storage usage, TikTok Lite keeps you connected to friends and the global video community whether you're a seasoned creator on YouTube, Instagram, TikTok, WhatsApp, or Facebook, etc. \n\nTikTok Lite is also a powerful editing tool. Explore and share trending videos, discover incredible creators, and create your own music-powered videos. \n\nFeatures: \nPerformance Benefits\n - Data Saver: Save up to 20% on data usage while streaming videos.\n - Smaller App Size: Just 18MB, ideal ",
     "icon": "/icons/com.tiktok.lite.go.webp"
   },
-  "com.truecaller": {
-    "title": "Truecaller: Spam Call Blocker",
-    "package": "com.truecaller",
-    "description": "Truecaller's Caller ID & Blocker instantly identifies who's calling, empowering you to block spam, scam, and unwanted calls effortlessly. \nIts advanced spam filter detects and stops telemarketers, robocallers, and suspicious numbers — so you only pick up the calls that matter. With reverse number lookup and call recording built in, Truecaller puts you back in safe of your phone.\n\n AI Call Scanner\n- Detects human vs. AI-synthesized voices\n- Protects you from voice scams and fraud\n- Activate via a dedicated dialer button\n- Records a voice sample and analyzes it in real time\n- Tells you if you're speaking to a real person or a bot\n\n Truecaller Assistant\n- AI-powered assistant that answers your calls\n- Asks callers who they are and why they're calling\n- Identifies spam, scams, and robocallers ",
-    "icon": "/icons/com.truecaller.webp"
-  },
   "com.twitter.android": {
     "title": "X",
     "package": "com.twitter.android",
@@ -21741,5 +21735,209 @@
     "package": "com.beeper.android",
     "description": "Join the best chat app on earth: a single app to chat on WhatsApp, SMS/RCS, Messenger, Telegram and 10 other networks.\n\n- See all your chats in one inbox\n- Find the chats you are looking for with multi-network search\n- Never miss a thing with native bubble support\n- Get things done on foldables and tablets with adaptive layout\n\nBeeper supports: \nAndroid SMS and RCS\nWhatsApp \nTelegram\nSignal\nFacebook Messenger\nInstagram DM\nTwitter DM\nSlack\nDiscord \nLinkedin\nGoogle Chat\nIRC\nMatrix chat\n\nLearn more at www.beeper.com",
     "icon": "/icons/com.beeper.android.webp"
+  },
+  "com.azamsoft_cantos_do_curio": {
+    "title": "Bullfinch bird singing",
+    "package": "com.azamsoft_cantos_do_curio",
+    "description": "Are you in love with the Bullfinch Bird? Then this app is for you!\n\nWith the Cantos do Curió app you can train your bird any time of the day. You will also be able to see your Bullfinch evolve over the course of your training.\n\nAnd still have fun with your whole family listening to the various sounds of the bullfinch. In addition, you can even attract other birds close to you when using the app, because the Bullfinches are attracted by the sounds of other specimens of their species.\n\n\nExclusively have the Bullfinch corners on your smartphone to personalize it with the most amazing corners, leave your cell phone with exclusive calls, corners in great quality\n\nCorners:\nWiney paracambi\nFlorianopolis\nclassic Goiania\nwoodsman\nParacambi breaks cloud\nParanagua\nfemale chirp\nBig beach\nPara repeater",
+    "icon": "/icons/com.azamsoft_cantos_do_curio.png"
+  },
+  "com.akadtech.monkeysounds": {
+    "title": "Monkey Sounds",
+    "package": "com.akadtech.monkeysounds",
+    "description": "Monkey is a term for all members of primates who are not prosimians (\"pre-apes\", such as lemurs and tarsiers) or apes, whether living in the Old World or the New World. Until now, there are 264 types of monkeys that live in the world. Unlike apes, monkeys usually have tails and are smaller in size. Monkeys are known to learn and use tools to help them find food.",
+    "icon": "/icons/com.akadtech.monkeysounds.png"
+  },
+  "com.savvy.navvy.android.app": {
+    "title": "Savvy Navvy Boating Navigation",
+    "package": "com.savvy.navvy.android.app",
+    "description": "Savvy Navvy: Your All-in-One Boating Navigation App\n\nSavvy Navvy is your ultimate boat navigation tool, designed for sailors, powerboaters, fishing enthusiasts, and paddlers alike. Whether you’re planning a trip on the ocean, a lake, or inland waterways, Savvy Navvy simplifies everything from plotting your route to understanding the conditions while out on the water. With clean, easy-to-read nautical charts, active GPS boat tracking, marine weather forecasts, AIS, tidal data, and more, Savvy Navvy is sure to become your go-to app for marine navigation.\n\nSay goodbye to complicated or standalone apps like Navionics, C-Map, i-Boating, Windy, or Predict Wind. With Savvy Navvy, you get an intuitive, all-in-one solution for all your boating needs.\n\nKey Features:\n\n- Clutter-Free Nautical Charts: ",
+    "icon": "/icons/com.savvy.navvy.android.app.png"
+  },
+  "com.garmin.android.marine": {
+    "title": "Garmin ActiveCaptain®",
+    "package": "com.garmin.android.marine",
+    "description": "The free ActiveCaptain app creates a powerful connection between your compatible mobile device and Garmin chartplotter, charts, maps and the boating community. Whether you use your Garmin products for cruising, fishing, sailing or diving, this all-in-one app will help you enjoy your time on the water.\n\nJust pair the app with your compatible chartplotter to wirelessly transfer and access charts and maps, software updates, routes, waypoints and helpful feedback from the ActiveCaptain Community. And, with the purchase of the OnDeck™ hub(1), you can track and monitor your boat from virtually anywhere.\n\nPlease note that this app is intended for Garmin chartplotter owners and is not recommended for use as a stand-alone navigational app.\n\n\nFEATURES AVAILABLE:\n\n- ONECHART™:\n> New Garmin Navionics+",
+    "icon": "/icons/com.garmin.android.marine.png"
+  },
+  "com.navigraph.chartsrn": {
+    "title": "Navigraph Charts",
+    "package": "com.navigraph.chartsrn",
+    "description": "Looking for the most comprehensive software solution for flight simulation? Navigraph Charts is your co-pilot. \n\nNavigraph Charts 8 has been developed with emphasis on delivering a seamless and intuitive experience, reducing the pilot workload in all phases of the simulated flight.\n\nWhy you'll always want Navigraph Charts with you in the cockpit: \n- Only provider of Jeppesen charts and navigation data for flight simulation.\n- Access to IFR chart coverage at over 7,000 airport worldwide. \n- Charts and data sourced from Jeppesen and updated every 28 days according to the AIRAC calendar.\n- Largest dataset of its kind in the world.\n- Most up-to-date and modern navigation software for flight simulation.\n- Simulator sceneries, flight plans, charts, navigation systems, and addon software are all ",
+    "icon": "/icons/com.navigraph.chartsrn.png"
+  },
+  "com.shikudo.fitrpg.google": {
+    "title": "Walking RPG: Walk Fitness Game",
+    "package": "com.shikudo.fitrpg.google",
+    "description": "🏆Best of 2019, Google Play🏆 \n\nPEDOMETER + RPG! Train your team of heroes with fitness goals, as you engage in pedometer games. The more activities you complete, the stronger your heroes become! Fit for battle! Let's take on challenges together and embark on the journey of becoming the new best you in this fitness RPG!\n\nIt has been 12 years since the Dark Force took over Fitland. Villagers await the saviour to return. Will you be the one to lead a team of heroes, defeat enemies and save them all?\n\nFitness RPG, is a unique fitness app that combines the elements of a fitness tracker and game. With this 'fit game', users can turn their workouts into an exciting and engaging RPG experience. The app tracks your physical activities, such as running, lifting weights, and walking, and converts them",
+    "icon": "/icons/com.shikudo.fitrpg.google.jpg"
+  },
+  "com.cirkwi.baladesliegeoises": {
+    "title": "Walks through Liège",
+    "package": "com.cirkwi.baladesliegeoises",
+    "description": "Discover Liege in a different way. Its valley, its hills, its historical and commercial centre, its paths along the Meuse... there are a multitude of walks to be made in the Ardent City and its surroundings. You can discover the city on your own thanks to this application. \n\nIn addition to the emblematic Street Art and Art Nouveau tours, Liège will hold no secrets for you thanks to our must-sees:\nThe Historic Heart of Liege. \nDiscover the history of Liège thanks to this route, which takes in the city's historic heritage. From the Gallo-Roman settlement to the current economic centre, you will cross the centuries in a few minutes.\nThe cathedral district.\nThis walk allows you to discover the old district of the Island, occupied since the end of the 10th century by numerous collegiate churche",
+    "icon": "/icons/com.cirkwi.baladesliegeoises.png"
+  },
+  "com.gojauntly.app": {
+    "title": "Go Jauntly: Discover Walks",
+    "package": "com.gojauntly.app",
+    "description": "If you're visiting the UK or Sweden for work or vacation, use Go Jauntly as a walking and hiking tour guide. We have over 800 walking trails available in the app, created by us and the community. We help people discover new walking routes, connect with nature and enjoy outdoor adventures.\n\nGo Jauntly is a free award-winning walking, wayfinding and nature connection app. We help people discover new walking routes straight from your door, connect people with everyday nature by sharing the greenest route from A to B and promote outdoor adventures. \n \nWe are a growing community so no matter where you are, download the app. You can even add your own favourite trails to help to spread, Happiness Outdoors!\n\n- “Smartphones are often accused  of absenting their users from company, but this applicat",
+    "icon": "/icons/com.gojauntly.app.png"
+  },
+  "com.highheels.xwalk": {
+    "title": "XWalk: Nordic Walking Tracker",
+    "package": "com.highheels.xwalk",
+    "description": "XWalk is a Nordic Walking App, designed for those that do Scandinavian walking also known as stick walking, pole walking, urban polling and exerstriding. The walking tracker app allows you to do pace monitoring, walking calorie counting, set walking goals and in the future connect with nordic walking groups in your area. \n\nThe app is a walking workout, with an extra push. Nordic walking app (XWalk) was designed for the purpose of helping people lose weight, improve mental state by doing outdoor walking exercise and ideal to train for those that are cross country walking, hiking or trekking.\n\nXWalk Features include: \n- Keep track of your walking distance, pace monitoring and calories burned \n- Set customized reminders to never miss a walk\n- Lose weight by keeping track of calories and progr",
+    "icon": "/icons/com.highheels.xwalk.png"
+  },
+  "com.explora.exploraSteps": {
+    "title": "Explora: Walking Game",
+    "package": "com.explora.exploraSteps",
+    "description": "Explora is the fun, free walking game to get more active with exciting gamification.\n\nKeep walking and running to increase your daily step count and boost your calorie burn.\n\nDesigned by gamification experts and trusted by thousands of users worldwide, Explora helps you smash your fitness goals.\n\n# START YOUR WALKING JOURNEY\n\nTurn daily steps into a fun walking game \n• Walk & Run with your phone or watch to automatically record your steps\n• At the end of the day, convert your steps into XP, Loot & Levels\n• Reach your goals to complete quests & level up\n\nSay goodbye to\n• Boring step counter apps \n• Losing motivation after a few days\n• Inactivity and unwanted weight gain\n\nIs this the right walking game for me? \n• You can pick your own difficulty, from easy daily goals to hardcore monthly wal",
+    "icon": "/icons/com.explora.exploraSteps.png"
+  },
+  "com.poweramp.v3.aurora": {
+    "title": "Aurora - Poweramp Skin",
+    "package": "com.poweramp.v3.aurora",
+    "description": "ATTENTION\nThis skin only supports latest Poweramp stable version and is not compatible with Huawei devices running Android 7.0 (above is fine)\n\nAurora is a colorful skin for Poweramp 3 that supports Follow Day/Night Mode. You can customize almost everything to make Poweramp look material, minimalist, transparent, and stunning. This skin also supports Material You Dark and Light (Android 12 and up only). Unlike Luminous and Luminous Black, Aurora offers 2 modes: Dark and Light, along with some other unique options.\n\nFEATURES\n• Follow Day/Night Mode\n• 35 Accent Colors (Aurora Dark), 34 Accent Colors (Aurora Light)  \n• 19 Background Colors (Aurora Dark), 16 Background Colors (Aurora Light)\n• Material You (Dark, Light and Vibrant)\n• 3 Player Screen Layouts\n• Player Screen Track Title Alignment",
+    "icon": "/icons/com.poweramp.v3.aurora.png"
+  },
+  "com.multygraphics.jainmedia": {
+    "title": "Jain Media",
+    "package": "com.multygraphics.jainmedia",
+    "description": "Jain Media is a dedicated platform aimed at disseminating information about Jainism, including its history, lifestyle, festivals, and stories. The website offers a variety of articles and resources to educate and engage individuals interested in Jain culture and philosophy.\n\nKey Sections of Jain Media:\n\n- Introduction to Jainism: This section provides foundational knowledge about Jain beliefs and practices, helping readers understand the core principles of the faith. \n\n- Jain Lifestyle: Articles here delve into daily practices and rituals, such as the significance of Ayambil—a form of fasting in Jainism. \n\n- Jain Festivals (Parv): This category explores various Jain festivals, offering insights into their meanings and the traditions associated with them.\n\n- Jain History: Readers can learn ",
+    "icon": "/icons/com.multygraphics.jainmedia.png"
+  },
+  "com.app.stavanavali": {
+    "title": "Jain Stavanavali",
+    "package": "com.app.stavanavali",
+    "description": "Jain Bhakti – Devotional Hymns & Prayers\nExperience the divine grace of Jain spirituality with one simple tap\n\nImmerse yourself in a comprehensive collection of sacred Jain devotional content, thoughtfully curated for your daily spiritual practice. From timeless Stavans you need for peaceful meditation and prayer is here.\n\nWhat's Inside\n\nSacred Hymns & Prayers:\n\n• Jain Stavans & Stutis for all 24 Tirthankars\n• Ratnakar Pachchisi & Arihant Vandnavali\n• Bhaktamar Stotra, Navkar Mantra, Shanti Path\n• Zarmar, Halardu & traditional Bhakti Geet\n• Beautiful Aartis & Mangaldivo\n\nSpecial Devotional Content:\n\n• Diksha Geet & Saiyam Geet\n• Diwali Ras & Oli celebrations\n• Shripal Mayna Charitra\n• Tirth Songs & pilgrim hymns\n• Dev-Guru Stutis\n\nSpiritual Wisdom:\n\n• Guru Vyakhyans & Vivechans\n• Navpadji ",
+    "icon": "/icons/com.app.stavanavali.png"
+  },
+  "com.univstudiosapps.anveshijainwallpapershd": {
+    "title": "Anveshi Jain Wallpapers HD",
+    "package": "com.univstudiosapps.anveshijainwallpapershd",
+    "description": "Anveshi Jain Wallpapers HD app is to not only setting Anveshi Jain photos as wallpapers but also share & save selected favorite image.\n\nAnveshi Jain got her fame from G the Film (2020), BOSS: Baap of Special Services (2019) and Who's Your Daddy (2020)..etc Hindi movies in Bolywood.\n\nYou can express your love towards Anveshi Jain with others by sharing these Anveshi Jain wallpapers HD!\n\nAnveshi Jain Wallpapers HD , We all love Anveshi Jain ! Welcome to the world of beauty Anveshi Jain. Here you can find some very hot and sexy Anveshi Jain wallpaper for your phones and tablets. \n\n You can save your favorite Anveshi Jain image onto your mobile device and set them as lock screens and wallpapers.\n\nFeatures of Anveshi Jain Wallpapers HD App:\n\n1.You can set the beautiful Anveshi Jain image as wal",
+    "icon": "/icons/com.univstudiosapps.anveshijainwallpapershd.png"
+  },
+  "com.jainstavan": {
+    "title": "Jain Stavan",
+    "package": "com.jainstavan",
+    "description": "Connect with Spirituality through Jain Stavan App – Your Digital Book for Bhakti\n\nJai Jinendra! 🙏 Welcome to the Jain Stavan App, the ultimate destination for all your spiritual needs. Whether you are looking for timeless Jain Stavans, melodious Bhajans, or soulful Chaityavandan, our app brings you a vast collection of lyrics and audio to deepen your devotion.\n\nDesigned for simplicity and ease of use, the app allows you to read, listen, and learn popular Jain prayers anytime, anywhere. With features like Text-to-Speech (TTS) and Audio Playback, you can immerse yourself in bhakti whether you are at home or on the go.\n\n✨ Key Features:\n\n📖 Huge Collection of Jain Stavans & Bhajans Access a comprehensive library of Stavans dedicated to Tirthankaras like Adinath Dada, Rishabhdev, Mahavir Swami, ",
+    "icon": "/icons/com.jainstavan.png"
+  },
+  "com.Paras.JainJinvaani": {
+    "title": "Jain Jinvaani",
+    "package": "com.Paras.JainJinvaani",
+    "description": "जय जिनेंद्र,\n\nयह एप्लिकेशन जिनवाणी की अधिकांश सामग्रियों को ऑफ़लाइन उपलब्ध कराने का एक प्रयास है, ताकि लोग स्वतंत्र रूप से जिनवाणी से प्रेरित होकर पढ़ सकें और सीख सकें।\n\nप्रमुख विशेषताऐं:-\n\n1. आरती\n2. भक्ति\n3. जिनेन्द्र स्तुति संग्रह\n4. चालीसा \n5. पूजा\n6. स्तुति\n7. स्त्रोत्र\n8. तीर्थंकर\n9. समस्त पूजा अर्घ्यावली\n10. दैनिकपाठ\n11. प्रार्थना\n12. दशलक्षण धर्म‎\n13. णमोकार महामंत्र\n14. जाप्य मंत्र\n15. स्वाध्याय\n16. सम्मेद शिखर कूट पूजन\n17. बालबोध पाठमाला\n18. भजन",
+    "icon": "/icons/com.Paras.JainJinvaani.png"
+  },
+  "de.number26.android": {
+    "title": "N26 — Love your bank",
+    "package": "de.number26.android",
+    "description": "Welcome to the bank you'll love. Bank, save, and invest in one beautifully simple app that's trusted by millions. \n\nBANK\n– Open your online N26 bank account in minutes  — right from your smartphone. Get a physical or virtual Mastercard debit card, add it to Google Pay or Apple Pay, and start using it straight away. \n– Send money in seconds using MoneyBeam and instant transfers.\n– Want even more perks and features? Discover our premium accounts and give your banking experience an upgrade. Choose from N26 Smart, N26 Go, and N26 Metal.\n– Open your joint account in minutes and manage shared finances alongside your personal account. \n– Self-employed? Handle all your business finances with an N26 business account and get up to 0.5% cashback for every payment you make with your N26 Mastercard. \n–",
+    "icon": "/icons/de.number26.android.webp"
+  },
+  "com.flutterwave.app": {
+    "title": "Flutterwave",
+    "package": "com.flutterwave.app",
+    "description": "Flutterwave Mobile makes it super convenient for anyone to run their business anytime, anywhere.\n\nFlutterwave Mobile essentially turns any smartphone into a mobile POS. This is because Flutterwave Mobile allows you accept card payments from anyone- you only need to generate a payment link within the app for them to pay you using their card as they'd do with a physical POS. \nBut Flutterwave Mobile goes even one better. Flutterwave Mobile accepts more payment types than any physical POS can accept. Card payments, bank transfers, Paga, Mobile Money, USSD, the possibilities are endless.\nYour delivery personnel with Flutterwave Mobile installed on their phone don't need a physical POS anymore. Your sales personnel at your branches no longer need physical POS machines. Again the possibilities ar",
+    "icon": "/icons/com.flutterwave.app.webp"
+  },
+  "com.luckydeveloper.apkshare": {
+    "title": "Apk Share - Files & Tools",
+    "package": "com.luckydeveloper.apkshare",
+    "description": "The only app you need — transfer files offline, chat over WiFi, mirror your screen, \nmigrate to a new phone, and clean storage. 50+ built-in tools replace a dozen apps.\n\nTrusted for 15 years by millions as Apk Share Bluetooth — now even more powerful.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n⚡ OFFLINE FILE TRANSFER — NO INTERNET NEEDED\n\n• Send photos, videos, music, documents, and apps over local Wi-Fi — fast and private.\n• QR code pairing — connect in 2 seconds, no setup.\n• Resume interrupted transfers automatically.\n• Batch transfer — send unlimited files at once with smart previews.\n• Web Share — drop files to any PC browser on the same Wi-Fi.\n• Text & link sharing via QR codes.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n💬 WIFI CHAT — MESSAGE WITHOUT INTERNET\n\nChat with friends nearby over local Wi-Fi — no",
+    "icon": "/icons/com.luckydeveloper.apkshare.png"
+  },
+  "com.tomclaw.appsend_rb": {
+    "title": "AppSend - apk extractor",
+    "package": "com.tomclaw.appsend_rb",
+    "description": "AppSend will extract APK that are installed on your Android device and put them to your storage.\n\n★ Fast and easy to use.\n★ Extracts almost all applications, including system applications.\n★ No ROOT access required.\n★ By default APK's will be saved in /Downloads/Apps/.\n★ Provided Search option to search applications.\n★ Compatible with latest version of Android.\n★ Saved APK format AppName-AppVersionName.apk\n\nInterest in collaboration? AppSend is Open Source! \nContribute: https://github.com/solkin/appsend-android",
+    "icon": "/icons/com.tomclaw.appsend_rb.png"
+  },
+  "com.appshare.shrethis.appshare": {
+    "title": "Share Apps: APK Share & Backup",
+    "package": "com.appshare.shrethis.appshare",
+    "description": "Apps Sharing – Transfer APK, Backup & App Sharing.\nShare Apps instantly! Do you have friends that you want to easily and conveniently share apps with? ⭐ Check out Share Apps - APK Transfer, App Sharing & Backup! You can share app links or APK files with amazing ease. Wi-Fi, Bluetooth, or cloud services like Google Drive, Dropbox, and Facebook can all be used for sharing. Sharing has never been easier, discover why this is a go-to tool to share apk files.\n\n📶 No Internet? No Problem! Sharing Offline is super easy. Transfer apps virtually anywhere via Bluetooth. Just put the phones within 1 cm of each other and let the devices work their magic. Powerful app to share apk files!\n\nNow you can easily share faster and share easier!! 🚀 Download Share Apps - APK Transfer, App Sharing & Backup and ex",
+    "icon": "/icons/com.appshare.shrethis.appshare.png"
+  },
+  "com.cirkwi.pit": {
+    "title": "Cirkwi",
+    "package": "com.cirkwi.pit",
+    "description": "With the Cirkwi app, there is always something to discover wherever you are.\nDiscover the best things to see and do around you through more than 300,000 places of interest and 40,000 tourist routes and walks in France and Belgium.\n- Embed these contents (maps, texts, photos ...) on your smartphone in order to use them without internet connection\n- Let yourself be guided during your walks by our GPS map\n- Be warned when you approach a place that interests you\n- Share your discoveries with your friends",
+    "icon": "/icons/com.cirkwi.pit.png"
+  },
+  "com.laperriere.cirkul": {
+    "title": "Cirkul",
+    "package": "com.laperriere.cirkul",
+    "description": "Cirkul is a mobility solution with organized self-service hybrid bikes.\n\nYou can rent a bike and take advantage of the electric one if you wish. Rental is available without commitment, on demand, or with subscription formulas suitable for everyone (individuals and companies).",
+    "icon": "/icons/com.laperriere.cirkul.png"
+  },
+  "com.cirkular.world": {
+    "title": "Cirkular",
+    "package": "com.cirkular.world",
+    "description": "Cirkular makes selling as effortless as buying. Snap a photo of anything in your home and our AI will identify the item, evaluate its condition and authenticity, and give you a binding cash offer in seconds. If you accept, you get paid instantly and we take care of pickup, resale and giving your item a new life.\n\nHOW IT WORKS\n\n1. Open the app and snap a photo of the item you want to sell – clothing, sneakers, accessories, electronics, sporting gear, books, art, collectibles and more.\n2. Our AI analyses the image, recognises the brand and model, extracts key attributes and condition, and checks market data.\n3. Within seconds you receive a fixed offer directly in the app.\n4. If you accept, you get paid out immediately.\n5. We arrange a convenient pickup in your city or give you an easy way to",
+    "icon": "/icons/com.cirkular.world.png"
+  },
+  "com.actiontourguide.saltlake": {
+    "title": "Salt Lake City Walking Tour",
+    "package": "com.actiontourguide.saltlake",
+    "description": "Journey through a bustling hub with some serious Wild West history with this comprehensive walking tour of Salt Lake City, Utah!\n\nSalt Lake City Walking Tour:\nNo trip to Utah is complete without a visit to its sparkling capital: Salt Lake City! With this self-guided walking tour of Salt Lake City, you’ll experience this remarkable city’s past, present, and future with the help of fascinating stories and easy-to-follow directions that take the hassle out of exploring this beautiful place!\n\nVenture through the iconic Temple Square, gazing up at the vast Salt Lake City Tabernacle and Salt Lake Temple. Hear the stories behind these awe-inspiring landmarks before heading to the Utah State Capitol to uncover the dramatic tale of how Utah became a state!\n\nAlong the way, you’ll dig deep into the h",
+    "icon": "/icons/com.actiontourguide.saltlake.png"
+  },
+  "com.axxelapp.iptvplayer": {
+    "title": "IPTV Smart Player: LiveTV 4K",
+    "package": "com.axxelapp.iptvplayer",
+    "description": "Welcome to the Most Popular IPTV App.\n\nGet the next-generation professional IPTV Smart Player app and enjoy the entertainment. Powered by AI technology, the IPTV Smart Player app is incredibly fast, powerful, and user-friendly.\n\n- With IPTV Smart Player, you can easily watch live streams, sporting events, current movies, the latest seasons, and TV shows in high definition without any lag on Android phones, tablets, Android TVs, and Chromebooks.\n\n- With IPTV Smart Player, you can record your live streams as videos and watch them later, and instantly download your favorite TV shows and movies.\n\n- It supports all video formats, including SD, HD, and 4K, and resolutions like 1080p and 720p, giving you the best viewing experience.\n\n- Buy IPTV Smart Player once and use it forever. No need to ren",
+    "icon": "/icons/com.axxelapp.iptvplayer.png"
+  },
+  "com.kaching.merchant": {
+    "title": "SumUp: Payments and POS",
+    "package": "com.kaching.merchant",
+    "description": "The all-in-one app for your business needs\n\nWith the free SumUp mobile app you can take payments, manage your item catalog, track your sales, and more. Our app connects with SumUp’s hardware to bring you closer to your customers and get paid wherever your business takes you.\n\nOpen the app to manage your top business needs on the spot. Looking to send payment links, issue invoices, or boost your customer base? You can explore all your options with this free, portable app. All of our tools are intuitive and many can be mixed-and-matched to meet your personal needs.\n\nOrganize items and get helpful reports\nAdd, edit, and delete items in your own personalized catalogue straight from your app. You can then easily select any of these items to speed up your transactions using one of the payment me",
+    "icon": "/icons/com.kaching.merchant.png"
+  },
+  "com.izettle.android": {
+    "title": "PayPal POS (ex Zettle)",
+    "package": "com.izettle.android",
+    "description": "The PayPal POS app (ex Zettle) empowers you to easily and seamlessly accept in-person payments. From accepting card, contactless, e-wallet payments to tracking sales, PayPal POS has a suite of payment solution to fit your business' needs. Whether you’re running a coffee shop, clothing store or barber shop, PayPal POS is the one app you need accept payments, manage inventory, and track sales in one complete app. No monthly fees, no set-up costs and no lock-in contracts.\n\nThe PayPal POS app is free to download and comes with a range of features:\n• Simplify your inventory management with an intuitive product library\n• Accept contactless payments with TTP or accept payment types including card, contactless, e-wallets, and more with the Card Reader or Terminal\n• Customize receipts and print, te",
+    "icon": "/icons/com.izettle.android.png"
+  },
+  "com.payclip.clip": {
+    "title": "Clip",
+    "package": "com.payclip.clip",
+    "description": "Grow your business with Clip!\n\nDownload the app and accept payments with all credit and debit cards, contactless technology and Samsung Pay. \n\nWithout complicated paperwork, monthly fees, or minimal sales. Receive your money every day.\n\nWhy Clip?\n\n-Accepts all credit and debit cards: American Express, Visa, Mastercard; Sí Vale, Edenred, Sodexo and Carnet; contactless technology, Apple Pay, and Samsung Pay.\n-Receive your money every day. With Clip Clásico and Pagos a Distancia Clip the deposit is made in 48 hours; with Clip Plus, Plus 2, Pro, and Total in 24 hours; it doesn't matter if it's the end of the week or a holiday. \n-Accept payments without your client being present. Just send a link through your favorite social network and that's it. The easiest, fastest, and safest way to make tr",
+    "icon": "/icons/com.payclip.clip.png"
+  },
+  "com.elementarypos.client.sumup": {
+    "title": "Elementary POS SumUp Edition",
+    "package": "com.elementarypos.client.sumup",
+    "description": "Elementary POS and SumUp: a point of sale that saves you time and hassle.\n\nElementary POS cash register is a simple yet powerful POS system designed to help you easily manage your café, bistro, store, or any other business. With the new edition integrated with SumUp terminals, you can now accept card payments effortlessly – no complicated setup needed.\n\nTransform your Android device into a powerful POS system with Elementary POS. Designed for small and medium-sized businesses, this intuitive app streamlines sales, inventory management, and customer engagement—all from your smartphone or tablet.\n\nKey Features:\nUser-Friendly Interface: Set up and start selling in minutes with an intuitive design that requires minimal training.\n\nVersatile Sales Processing: Handle cash, card, and QR code payme",
+    "icon": "/icons/com.elementarypos.client.sumup.png"
+  },
+  "com.htsu.hsbcpersonalbanking": {
+    "title": "HSBC for EG, SL",
+    "package": "com.htsu.hsbcpersonalbanking",
+    "description": "This app is for customers with accounts in Egypt or Sri Lanka.\n\nFor other countries or territories, you'll need to download your own local HSBC Mobile Banking app. \n\nManage your money on the move and around the clock with this secure personal banking app from HSBC.\n\nYou can: \n\n• log on to your account around the world\n• view your account balances and transaction history\n• move money\n\nExact features depend on the services available in your country.\n\nFind out more about the app, including details of the permissions we request, here: https://m.mobile15.hsbc.com/pages/mobile-banking.html\n\nThis app is not intended for distribution, download or use by any person in any jurisdiction, country or region where the distribution, download or use of this material is restricted and wouldn’t be permitted",
+    "icon": "/icons/com.htsu.hsbcpersonalbanking.png"
+  },
+  "com.hsbc.expat.hsbcexpat": {
+    "title": "HSBC Expat",
+    "package": "com.hsbc.expat.hsbcexpat",
+    "description": "Download to apply, the HSBC Expat app makes managing your banking simple, secure, and convenient wherever you are.\n\nOur Expat Premier Bank Account is designed to support your international lifestyle, giving you seamless access to global banking. Moving abroad can be complex, but your finances don’t have to be. With an Expat Account, you’ll unlock a range of features, products, and services to help you manage your money with ease.\n\nIt takes just a few minutes to get started with HSBC Expat Mobile Banking. Download it today and you can: \n\n• Apply for your first HSBC Expat account*, register and set up digital banking.\n• Log on quickly and securely with your Face ID or Touch ID.\n• Make payments and view your local and globally linked balances.\n• 24/7 chat assistance to answer common banking q",
+    "icon": "/icons/com.hsbc.expat.hsbcexpat.png"
+  },
+  "com.hsbc.us.hsbccentresuite": {
+    "title": "HSBC CentreSuite",
+    "package": "com.hsbc.us.hsbccentresuite",
+    "description": "The HSBC CentreSuite app provides mobile access to a wide array of valuable card, statement, and payment features and benefits to meet the needs of commercial cardholders and program administrators alike.\n \n- Cardholders enjoy a simpler, less time-consuming process in the palm of their hand - making it a breeze to track purchases and meet corporate requirements.\n- Administrators can quickly review cardholder activity or provide support at any time, and from wherever they happen to be.\n- The HSBC CentreSuite app offers a seamless omnichannel experience, leveraging the full power of the HSBC CentreSuite platform through a smartphone.\n \nCommercial Cardholders (also “team members”) can:\n- View account details\n- Track purchases and view statements\n- Make and edit one time and recurring payments",
+    "icon": "/icons/com.hsbc.us.hsbccentresuite.png"
+  },
+  "com.hsbc.hsbcnet": {
+    "title": "HSBCnet Mobile",
+    "package": "com.hsbc.hsbcnet",
+    "description": "The HSBCnet Mobile app is a multi-award winning service and has won Best Mobile Technology Solution at the Treasury Management International (TMI) awards both in 2018 & 2019. \n\nHSBCnet mobile brings all your global banking into one place. Enjoy faster banking with our intuitive App; enabling you to manage your business from wherever you are, at any time.\n\nSimplifying your complex business banking needs with the following:\n\nEasy & secure access to your money\n• Log on securely with Android Fingerprint ID\n• Use biometrics or generate a PIN to authorise transactions\n• Use your mobile to log on and access services on HSBCnet.com\nSimple everyday banking\n• View global account balances and recent transactions \n• Track the status of your payments and receive notifications when payments need to be a",
+    "icon": "/icons/com.hsbc.hsbcnet.png"
   }
 }
