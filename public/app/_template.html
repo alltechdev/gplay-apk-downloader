@@ -28,7 +28,7 @@
       display: flex;
       gap: 20px;
       align-items: flex-start;
-      margin-bottom: 8px;
+      margin-bottom: 4px;
     }
     .app-hero-icon {
       width: 88px;
@@ -47,13 +47,13 @@
       font-weight: 700;
       color: var(--text-primary);
       line-height: 1.2;
-      margin-bottom: 4px;
+      margin-bottom: 10px;
     }
     .app-hero-developer {
       font-size: 13px;
       color: var(--accent);
       font-weight: 600;
-      margin-bottom: 8px;
+      margin-bottom: 10px;
     }
     .app-hero-tags { display: flex; gap: 6px; flex-wrap: wrap; }
     .app-tag {
@@ -106,6 +106,47 @@
       background: rgba(255,255,255,0.02);
     }
     .play-link svg { width: 12px; height: 12px; }
+    .share-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      background: var(--accent);
+      cursor: pointer;
+      padding: 7px;
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      transition: all var(--transition);
+      flex-shrink: 0;
+      align-self: flex-start;
+    }
+    .share-btn:hover {
+      background: var(--accent-dim);
+      border-color: var(--accent-dim);
+    }
+    .share-btn svg { width: 14px; height: 14px; }
+    .share-toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(8px);
+      background: var(--bg-card);
+      border: 1px solid var(--border-focus);
+      color: var(--text-primary);
+      font-family: var(--font-mono);
+      font-size: 12px;
+      padding: 8px 16px;
+      border-radius: var(--radius);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s, transform 0.2s;
+      z-index: 9999;
+      white-space: nowrap;
+    }
+    .share-toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
     @media (max-width: 480px) {
       .app-hero { gap: 14px; }
       .app-hero-icon { width: 64px; height: 64px; border-radius: 16px; }
@@ -154,8 +195,12 @@
             <span class="app-tag">__PKG__</span>
           </div>
         </div>
+        <button class="share-btn" onclick="shareApp()" title="Share">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+        </button>
       </div>
     </div>
+    <div class="share-toast" id="share-toast"></div>
 
     <!-- ADB Device -->
     <div class="card adb-card" id="adb-card">
@@ -253,5 +298,22 @@
 
   <script type="module" src="/adb.js"></script>
   <script src="/app.js"></script>
+  <script>
+    function shareApp() {
+      const url = window.location.href;
+      const title = '__TITLE__';
+      const toast = document.getElementById('share-toast');
+      function showToast(msg) {
+        toast.textContent = msg;
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), 2200);
+      }
+      if (navigator.share) {
+        navigator.share({ title: 'Download ' + title + ' APK', url }).catch(() => {});
+      } else {
+        navigator.clipboard.writeText(url).then(() => showToast('Link copied to clipboard')).catch(() => showToast('Copy: ' + url));
+      }
+    }
+  </script>
 </body>
 </html>
