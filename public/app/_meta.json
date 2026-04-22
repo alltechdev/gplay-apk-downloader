@@ -18845,12 +18845,6 @@
     "description": "Turn your old, pixelated, blurred, or damaged pictures into high-definition photos with just one tap! \n\nGenerate mind-blowing and professional looking AI Photos of yourself with the powerful photo enhancer Remini.\n\nRemini uses state-of-the-art Artificial Intelligence to unblur, restore, and enhance any image you want. Take your old memories and give them a new lease of life in stunning, crystal clear HD.\n\nOver 100 million photos now revitalized. The Remini photo editor is one of the most popular and beloved enhancer apps in the world. Scan your old family photos, revitalize them, and reminisce together!\n\n-------- Use Remini to... --------\n- Turn your portrait, selfie, or group picture into HD\u2014it\u2019s incredible with face details!\n- Repair old, blurry, scratched photos\n- Clear vintage and old ",
     "icon": "/icons/com.bigwinepot.nwdn.international.png"
   },
-  "com.readid.ready": {
-    "title": "ReadID Ready",
-    "package": "com.readid.ready",
-    "description": "ReadID Ready is an application for mobile identity document verification, in some cases it will also do a selfie to verify if the identity document belong to you. The verification results will be shared with the organisation that asked you to use ReadID Ready. You can only use ReadID Ready when a third party wants to verify your identity. You will receive a request and instructions (with a QR code and/or link) to do this.\n\nReadID Ready is made by Signicat.\n\nPRIVACY\nWe process your personal information on behalf of the organisation that asked you to use ReadID Ready. For details, see our privacy statement https://www.signicat.com/about/readid-privacy-policy\n\nLICENSES FOR OPEN SOURCE LIBRARIES USED\nSee \"About\" in the app.",
-    "icon": "/icons/com.readid.ready.png"
-  },
   "com.fatiguescience.readisupervise": {
     "title": "ReadiSupervise Mobile",
     "package": "com.fatiguescience.readisupervise",
@@ -22583,5 +22577,671 @@
     "package": "com.simpler.dialer",
     "description": "Easy Phone is a fast dialer for your Android phone, powered with Call Block, Caller ID, Smart Contacts Search, Call Log History, T9, and Beautiful Themes. Replace your stock phone App and take your phone calling experience to the next level. Easy Phone is easier to use than any other dialer and offer powerful features. It\u2019s so magical, you will forget about your traditional phone App. Use Easy Phone to see block spam calls, smart contacts, complete phone call history, and more. Apply beautiful themes to make your phone App personal.\n\nMAIN FEATURES\n\nPowerful phone App that automatically has spam blocker and caller ID. One phone App that has all features that you need. Replace your slow and unintuitive phone App with Easy Phone and experience powerful features like:\n\u25cb Caller ID and spam bloc",
     "icon": "/icons/com.simpler.dialer.png"
+  },
+  "chat.simplex.app": {
+    "title": "SimpleX Chat",
+    "package": "chat.simplex.app",
+    "description": "SimpleX - the first messaging platform that has no user identifiers of any kind - 100% private by design!\n\nSecurity assessment by Trail of Bits: https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html\n\nSimpleX Chat features:\n- end-to-end encrypted messages, with editing, replies and deletion.\n- disappearing messages with opt-out per contact/group.\n- NEW message reactions.\n- NEW delivery receipts, with opt-out per contact.\n- multiple chat profiles, with hidden profiles.\n- app access and self-destruct passcodes.\n- incognito mode - unique to SimpleX Chat.\n- sending end-to-end encrypted images and files.\n- voice messages up to 5 minutes \u2013 also end-to-end encrypted.\n- \"live\" messages \u2013 they update for all recipients as you type them, every few seconds - unique to Si",
+    "icon": "/icons/chat.simplex.app.png"
+  },
+  "co.appventure.meaningfulminute.dev": {
+    "title": "Meaningful Minute",
+    "package": "co.appventure.meaningfulminute.dev",
+    "description": "With this app you will have access to a new inspirational video every day. Download the app today and keep up with your favorite motivational speakers. Read and interact with their daily posts and watch their minute-long videos. Once you register, you can save videos or easily sponsor a post in honor of a loved one.",
+    "icon": "/icons/co.appventure.meaningfulminute.dev.png"
+  },
+  "com.Hydraprimeonline": {
+    "title": "Hydra Prime",
+    "package": "com.Hydraprimeonline",
+    "description": "Enjoy seamless access to live TV, movies, and on-demand content with our powerful IPTV Android app. Designed for performance and ease of use, this app transforms your Android device into a fully functional entertainment hub. Whether you're into sports, news, shows, or international channels, everything is just a tap away.\n\nOur IPTV app supports M3U playlists, giving you complete flexibility to stream your favorite content from anywhere. With an intuitive user interface, quick channel switching, your TV experience becomes smarter and more personalized.\n\nKey Features:\n\n\ud83d\udcfa Live TV and on-demand content streaming\n\n\u2b50 Favorite channels list for quick access\n\n\ud83c\udfa8 Sleek and modern user interface\n\n\u2699\ufe0f Customizable settings for better control\n\n\ud83d\udcf2 Optimized for phones, tablets, and Android TV",
+    "icon": "/icons/com.Hydraprimeonline.png"
+  },
+  "com.YONOMUApp": {
+    "title": "YONO SBI Mauritius",
+    "package": "com.YONOMUApp",
+    "description": "About the app\n\nWith a strong focus on customer convenience our latest mobile banking offering, YONO SBI Mauritius is an application for our retail Internet banking users. Download the app now and enjoy the revamped banking experience with attractive features such as One View, India remittance etc. Kindly use only Google Play Store to download this application.\n\nUsers can conveniently access below features in YONO SBI Mauritius\n\nOne View: No need to keep two separate apps to view your Indian and Mauritius accounts. Use the one view feature to view all your SBI accounts in one place now!\n\nTD: Because we want to grow your money more than you do. Open a TD now and earn attractive interest rates!\n\nInstant remittance: How would you feel if you sent money home, and by the time you called them the",
+    "icon": "/icons/com.YONOMUApp.png"
+  },
+  "com.YONOSGMobileApp": {
+    "title": "YONO SBI Singapore",
+    "package": "com.YONOSGMobileApp",
+    "description": "With a strong focus on customer convenience, our mobile banking app i.e. YONO (You Only Need One) SBI SG is an application for our retail customers. Download the app now and embark on a journey of effortless banking convenience and manage your finances with just a few steps. You can access your accounts, make transfers, pay bills, remit in INR and monitor your spending all in one place. All you need is a smart phone with internet connection.",
+    "icon": "/icons/com.YONOSGMobileApp.png"
+  },
+  "com.acellus.acellus": {
+    "title": "Acellus",
+    "package": "com.acellus.acellus",
+    "description": "Acellus is the fastest growing learning system in America. The program is used by over one million students at schools in every U.S. state. It works by showing short video lessons followed by practice problems to assess understanding of the concept taught. Acellus creates a dynamic and interactive learning experience to meet the specialized needs of every student.\n\nSelf-paced Learning\nStudents can work independently and receive personalized instruction to help them master each concept.\n\nLive Monitoring\nWatch your student's progress real-time from any mobile device or computer.\n\nAutomatic Record-keeping\nAcellus automatically compiles scores, progress, and hours worked into printable reports.\n\nResearch-Based Data Driven Instruction\nAcellus utilizes statistical data on how students learn to c",
+    "icon": "/icons/com.acellus.acellus.png"
+  },
+  "com.aicyteadev.n1master": {
+    "title": "N1 Master JLPT: N5 - N1",
+    "package": "com.aicyteadev.n1master",
+    "description": "Learn Japanese and prepare for the JLPT in a more structured and enjoyable way with N1 Master.\n\nFrom N5 to N1, every level is designed to help you progress step by step\u2014not just memorize content.\n\nImportant Note:\nThe exam mode in this app is a mock test (simulation practice) and not an official JLPT exam. This app is not affiliated with the official JLPT organizers.\n\nKey Features:\n\nJLPT Training Mode\nPractice with clear explanations and detailed discussions. Suitable for beginners as well as those who have taken the JLPT before.\n\nJLPT Exam Mode\nTest your skills by level. Answer questions within a time limit and level up from N5 to N1. Higher levels are locked until you're truly ready, making your progress feel more meaningful.\n\nStudy Materials\nAccess complete materials from hiragana, katak",
+    "icon": "/icons/com.aicyteadev.n1master.jpg"
+  },
+  "com.aikipi.hydra": {
+    "title": "Hydra",
+    "package": "com.aikipi.hydra",
+    "description": "Discover our advanced chat app that lets you interact seamlessly with multiple LLM providers and pay only for what you use \u2013 no subscription required. \nSupports chat,  image questions and images generation, with more exciting tools on the way.\n\nYour privacy is our top priority. All your interactions with the models remain anonymous and no user data is logged or mined. \n\nEnjoy a secure, ad-free experience with permanent access to the latest AI models released in the market. Don't lock in on a single provider subscription, embrace the future of AI paying for what you choose to use whenever you want to use, on the phone or computer. \n\nCurrently supported chat models:\n- Qwen 3 30B-A3B\n- Qwen3 235B-A22B-2507\n- Qwen3 Coder 480B a35b\n- Qwen 3 8B\n- Kimi K2\n- DeepSeek R1 05/28\n- DeepSeek V3.1 Termi",
+    "icon": "/icons/com.aikipi.hydra.png"
+  },
+  "com.aim.racing": {
+    "title": "Extreme Car Driving Simulator",
+    "package": "com.aim.racing",
+    "description": "Extreme Car Driving Simulator is the open world car simulator since 2014, thanks to its advanced real physics engine\nEver wanted to try a sports car simulator? Now you can drive, drift and feel a racing sports car!\nBe a furious racer on a whole city for you. No need to brake because of traffic or racing other rival vehicles, so you can perform illegal stunt actions and run full speed without the police chasing you!\n\nDrifting fast and doing burnouts had never been so fun! Burn the asphalt of this open world city!\n\nGame Features\n\nMini game checkpoint mode\nDrive with traffic\nFull real HUD including revs, gear and speed\nABS, TC and ESP simulation. You can also turn them off!\nExplore a detailed open world environment\nRealistic car damage. Crash your car!\nAccurate physics\nControl your car with a",
+    "icon": "/icons/com.aim.racing.png"
+  },
+  "com.amazon.flex.rabbit": {
+    "title": "Amazon Flex",
+    "package": "com.amazon.flex.rabbit",
+    "description": "Deliver smiles\nAmazon delivers millions of items each year, delighting customers around the world. We\u2019re investing in getting deliveries to customers faster all the time, and people like you can help make it happen.\n\nGrow with Amazon\nAre you looking for a delivery driving opportunity that provides great pay and a chance to deliver smiles to customers? The Amazon Flex app gives you access to technology that makes delivering packages easy.\n\nIt\u2019s simple\nBeing a delivery driver is easy with the Amazon Flex app. We\u2019ll guide you every step of the way, from sign up, to making your first delivery, to on-road support.\n \nLet's go!\nIf you join us, you can build your own schedule, seven days a week. You can schedule work ahead or accept same-day offers when you have spare time.\nBy downloading the app,",
+    "icon": "/icons/com.amazon.flex.rabbit.png"
+  },
+  "com.animofan.animofanapp": {
+    "title": "Animo  Fanz - Anime Library",
+    "package": "com.animofan.animofanapp",
+    "description": "Animo Fanz manage anime library.\nMake collection of your favourite anime\nNotification for new and updated anime.\nShare with your friends.\nExplore new anime\n\nFeatures:\n- Find out latest Anime and trending Anime\n- Mark your anime as favourite to come back ANY TIME\n- Amazing FREE.\n- Fastest\n- Search anime.\n- Support for english languages.\n- Download",
+    "icon": "/icons/com.animofan.animofanapp.webp"
+  },
+  "com.bk.videotogif": {
+    "title": "GIF Maker, Video to GIF Editor",
+    "package": "com.bk.videotogif",
+    "description": "Video to Gif Converter - Your Key to the Ultimate GIFs!Convert your photos and videos to marvelous slideshows using the ultimate Video To Gif Converter. Be it to create animated slideshows out of pictures or to convert some videos into a different format, this tool does it all. That's why Mp4 to Gif Maker Editor will let you easily edit and personalize, and it is perfect for beginners and pros alike.\n\nLet your creativity run amok with such tools as Make A GIF Editor and Make GIF Creator! Check the features of the options below and see how easily you will create and edit using our Video To Gif Converter.\n\n\ud83d\udcc4Video To Gif Converter Key Features:\ud83d\udcc4\n\ud83c\udfa5 Video To Gif Converter \u2013 Quickly convert MP4 videos. Adjust the duration, frames, and effects;\n\ud83d\udcf8 GIF Maker From Picture \u2013 Create from your favorite",
+    "icon": "/icons/com.bk.videotogif.png"
+  },
+  "com.boxitsoft.battleofwizards": {
+    "title": "Clash of Wizards",
+    "package": "com.boxitsoft.battleofwizards",
+    "description": "Discover a world filled with magic. A world where Orcs, Goblins, Undead, and Humans are immersed in an endless Battle to take control of the Wizard Royale Arena, the source of all magic.\n\nThe main Wizard tower, two crystals towers and some battle troops are the only defenses you have to clash with your enemies and establish control over the Arena Royale. Deploy your battle troops and cast your spells to defeat enemy battle forces!\n\nIn Clash of Wizards, each battle gives you rewards, gather all type of cards and upgrade them to make them stronger! Get them all and complete your collection!\n\nFind the perfect strategy, win battles, get experience, win new cards, earn trophies, glory and much more in Clash of Wizards!\n\nFeatures:\n- Great troops and spells to collect and upgrade!\n- Real-time mul",
+    "icon": "/icons/com.boxitsoft.battleofwizards.png"
+  },
+  "com.bsport_13__1463": {
+    "title": "Animo Studios",
+    "package": "com.bsport_13__1463",
+    "description": "Download our app Animo Studios to always have your favorite studio in your pocket!\nFrom our app, you can plan and schedule your classes, view schedules, register, and much more!\nMaximize your time and never miss out on the latest information that will always be at your fingertips. Don't wait any longer and download Animo Studios now.",
+    "icon": "/icons/com.bsport_13__1463.png"
+  },
+  "com.bybora.smartxtream": {
+    "title": "Smart Xtream AI IPTV Player",
+    "package": "com.bybora.smartxtream",
+    "description": "\ud83d\udcfa Smart Xtream AI: Meet the Future of IPTV Experience!\n\nBored of ordinary players? Smart Xtream AI IPTV Player learns your viewing habits with artificial intelligence technology and suggests the best movies, series, and live streams tailored just for you.\n\nExperience the highest image quality without freezing, thanks to 4K Ultra HD and HDR support. Whether on your phone, tablet, or Android TV; we bring the cinema enjoyment right to your home.\n\n\u2728 KEY FEATURES:\n\n\ud83e\udd16 AI-Powered Recommendations End the struggle of \"what should I watch\"! Smart Xtream analyzes your favorites and viewing history to offer content specifically for you.\n\n\ud83d\ude80 4K and HDR Video Support (Advanced Player) Push your device's limits with the special \"Turbo Mode\". Watch 4K, HEVC, HDR10, and Dolby Vision content smoothly without",
+    "icon": "/icons/com.bybora.smartxtream.png"
+  },
+  "com.callapp.contacts": {
+    "title": "CallApp: Caller ID & Block",
+    "package": "com.callapp.contacts",
+    "description": "Caller ID? Block numbers? Text & SMS messaging? Call Recording? Phone number lookup? \nWe\u2019ve got it all with CallApp, our phone number lookup & default SMS app!\n\n \ud83d\udcde Caller ID:  \n- Advanced caller ID technology to identify unknown numbers. More than 7 BILLION numbers!\n- Never ask \u201cwho called me\u201d again!\n- Always know who is calling, with our caller trace & phone book abilities! \n- Stop telemarketing & spam calls, texts and SMS!\n- Phone number lookup- search phone number or numbers and find them ASAP!\n\n \ud83d\udeab Spam Call Blocker & Spam Detector: \n- Stop robocalls, block numbers and contact block! \n- Blacklist numbers, block telemarketing & telemarketer calls, stop robocalls & scam calls!\n- Block spam with our caller ID blocker!\n- Scam calls protection!\n- Advanced blacklist options & robocalls filter",
+    "icon": "/icons/com.callapp.contacts.png"
+  },
+  "com.cars.android": {
+    "title": "Cars.com: Buy and sell cars",
+    "package": "com.cars.android",
+    "description": "Shopping for a new or used car or truck? Download the free Cars.com app and start exploring every possible car for every possible you. With millions of vehicle listings, over 10 million dealership reviews, and the technology to get personalized offers to sell your current car and finance your next one \u2014 the next step in your journey starts here.\n\nEXPLORE MILLIONS OF CAR LISTINGS\nSearch millions of new, used, and certified pre-owned cars for sale. Shop the possibilities of SUVs, pickup trucks, minivans, sedans, EVs, and more. Get tailored recommendations in your area based on your search preferences.\n\nFIND THE ONE WITH ADVANCED SEARCH\nNarrow your search by price, mileage, year, exterior and interior color, features, fuel type, body style, and more to find the exact right vehicle for you.  \n",
+    "icon": "/icons/com.cars.android.png"
+  },
+  "com.codethefuture.advancediptv": {
+    "title": "Advanced IPTV : Xtream Player",
+    "package": "com.codethefuture.advancediptv",
+    "description": "Advanced IPTV is an advanced IPTV application that offers a rich and personalized TV experience. With these new features, accessing your favorite content anytime and anywhere is both easy and enjoyable. Here are the key features of Advanced IPTV:\n\nSeamless Continuation: Continue from where you left off! Advanced IPTV provides a smooth experience across all your devices, allowing you to pick up from where you stopped.\nOnline Subtitle Download: Easily download subtitles through the application. Enjoy your favorite movies and series with the right subtitles.\nManage Your Favorite Channels: Add your favorite channels to your favorites and access them easily whenever you want. This way, you can quickly find your preferred programs.\nDownload and Watch: Download the content you want to watch, and ",
+    "icon": "/icons/com.codethefuture.advancediptv.png"
+  },
+  "com.craft.gnu.join.thin": {
+    "title": "Craft Gnu Join Thin",
+    "package": "com.craft.gnu.join.thin",
+    "description": "Log daily expenses with specific amounts, categories, and optional notes.\n- Organize spending across preset categories like dining, riding, and shopping.\n- View financial history across daily, weekly, and monthly timeframes.\n- Filter expense lists by individual category using the category selector.\n- Persist all financial data locally on the device for offline access.\n- Dashboard displaying total spending and a list of recent transactions.\n- Monitor budget progress with a visual completion bar based on current spending.",
+    "icon": "/icons/com.craft.gnu.join.thin.png"
+  },
+  "com.ctugames.km2": {
+    "title": "The Wild Darkness",
+    "package": "com.ctugames.km2",
+    "description": "Inside a forest on a mysterious world...\nA sorcerer is casting a spell in the dark.\nOnce the ritual was complete, a streak of light fell from the sky.\n\nThen you regain consciousness in the middle of a strange forest.\nWhere... Am I? Where is this place?!\n\n\nGame Features\n\nYou have been summoned to another world, against your will.\nYou know nothing, and everything is foreign to you.\n\nYou must find food for yourself, and be cautious of monsters that emerge at night.\nIf you let your guard down, it\u2019ll be the end of you.\nIf you die, it will be game over, and you must start from the very beginning.\n\nHowever, with every death comes more knowledge about\ncrafting and totems, which can help you to finish the game.\n\nIt requires patience and focus, but you will find joy in your journey.\n\nNow, be brave! ",
+    "icon": "/icons/com.ctugames.km2.png"
+  },
+  "com.danielochab.myhabits": {
+    "title": "Habit Tracker - MyHabits",
+    "package": "com.danielochab.myhabits",
+    "description": "Build better habits and stay consistent every day.\n\nThis habit tracker helps you create routines, track your daily progress, and stay motivated with clear statistics and a beautiful visual grid. Whether you want to improve productivity, health, or personal growth, this app keeps everything simple and effective.\n\n\ud83d\ude80 Key features:\n\n\u2022 Track daily habits with an intuitive and clean interface\n\u2022 Visual progress grid to see your consistency at a glance\n\u2022 Detailed statistics to monitor your improvement over time\n\u2022 Add and manage one-time tasks alongside your habits\n\u2022 Stay organized with a simple and distraction-free design\n\n\ud83d\udcca Stay consistent\n\nBuild strong routines by tracking your habits every day. The visual grid helps you quickly understand your progress and stay motivated.\n\n\ud83c\udfaf Habits + Tasks in o",
+    "icon": "/icons/com.danielochab.myhabits.jpg"
+  },
+  "com.dreamgames.royalkingdom": {
+    "title": "Royal Kingdom",
+    "package": "com.dreamgames.royalkingdom",
+    "description": "From the creators of Royal Match comes a brand new match 3 puzzle adventure in Royal Kingdom, starring the extended Royal Family!\n\nYou\u2019ll meet King Richard, King Robert's younger brother, as well as a charming cast of new characters, including Princess Bella and the Wizard, to embark on a journey to build legendary kingdoms! Solve match 3 puzzles to explore new lands and defeat the Dark King & his army!\n\nMASTER MATCH 3 PUZZLES\nTest your skills and become the ultimate match 3 expert by solving fun yet challenging puzzles! Beat thrilling levels and overcome unique obstacles!\n\nBUILD AND EXPLORE KINGDOMS\nWith the help of the Builder, craft a kingdom befitting royalty. Solve puzzles, earn coins, and unlock diverse districts - from the Parliament Square to the University and the Princess Tower.\n",
+    "icon": "/icons/com.dreamgames.royalkingdom.webp"
+  },
+  "com.dreamgames.royalmatch": {
+    "title": "Royal Match",
+    "package": "com.dreamgames.royalmatch",
+    "description": "Welcome to Royal Match, the king of puzzle games! Swipe colors, solve match-3 puzzles and help King Robert decorate his castle. An exciting adventure is calling you!\n\nWe have thousands of challenging match-3 levels for you to play in the Royal Arena! On this fun journey, you will solve exciting puzzles, receive coins for unlocking new areas, decorate King Robert\u2019s castle and get extra boosters to continue your saga. Also you can compete with millions of players in events such as King's Cup, Sky Race, Team Battle, Lightning Rush and claim exciting rewards for your achievements. Fun and challenge never ends and you will never have a dull moment in Royal Match.\n \nAnd BOOM! It is 100% ad free and no wifi needed - internet free.\n \nJump into the adventure and play now! We have lots of sweet puzz",
+    "icon": "/icons/com.dreamgames.royalmatch.png"
+  },
+  "com.dudynets.lovecounter": {
+    "title": "Love Counter \u2013 Time in Love",
+    "package": "com.dudynets.lovecounter",
+    "description": "Love Counter is the ultimate app for couples who want to cherish their love story, track relationship milestones, and celebrate every special moment. Whether you\u2019re counting the days since you first met or logging your favorite memories, Love Counter is your personal companion for all things romance.  \n\n---\n\nWhat Makes Love Counter Special?  \n\n\u2022\u2003Real-Time Love Tracker  \nSee how long you\u2019ve been together, down to the second. Love Counter calculates your relationship duration in years, months, days, hours, minutes, and seconds, giving you a complete picture of your romantic journey.  \n\n\u2022\u2003Detailed Stats with a Tap  \nCurious about the exact hours or days you\u2019ve spent as a pair? Tap on any value to see a detailed breakdown. For example, view the total number of hours you\u2019ve shared since your lo",
+    "icon": "/icons/com.dudynets.lovecounter.png"
+  },
+  "com.duolingo": {
+    "title": "Duolingo: Language & Chess",
+    "package": "com.duolingo",
+    "description": "Learn a new language, chess & more with the world\u2019s most downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening & writing to build your vocabulary & grammar skills.\n\nDesigned by learning experts & loved by hundreds of millions worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English & more. Whether you want to learn Spanish, learn French, learn German or improve your English, our language lessons make learning effective & fun\n\nAnd now, you can learn Math, Music & Chess the Duolingo way, including interactive chess online & fun chess lessons for all levels!\n\n\u265f\ufe0fChess: Master moves, level up your game & play chess online in our brand ne",
+    "icon": "/icons/com.duolingo.png"
+  },
+  "com.elex.unicorn": {
+    "title": "Lost Wildlands: Survival",
+    "package": "com.elex.unicorn",
+    "description": "Set in modern times, the game begins when players\u2019 plane encounters a mysterious force near the Bermuda Triangle, forcing an emergency landing on a strange, uncharted island. After the crash, players awaken, saved by the island\u2019s native people and an unusual creature. Together with other survivors from around the world, they work to construct a camp from the wreckage and resources at hand. The vast island is home to incredible and often mythical creatures, some from ancient legends across various cultures. Core gameplay focuses on survival, exploration, and base-building. Players must collect resources, locate and rescue other survivors, and fend off wild animals in the jungle. As they explore, they\u2019ll tame unique \u201cpets\u201d with magical abilities, using their powers to build and expand their ",
+    "icon": "/icons/com.elex.unicorn.png"
+  },
+  "com.essentricstv": {
+    "title": "Essentrics TV",
+    "package": "com.essentricstv",
+    "description": "Stream 400+ dynamic stretching, toning & pain-relief Essentrics workouts!\n\nThe creators of the award-winning TV programs Aging Backwards\u00ae, Forever Painless\u00ae, Classical Stretch\u00ae, and Essentrics\u00ae bring you a unique workout that combines scientifically-designed strengthening and stretching exercises to create a flexible, balanced and pain-free body.\n\nThe Essentrics TV app provides unlimited streaming access to 400+ workouts designed for women and men of all ages and fitness levels. Each routine will engage and rebalance all of your 650 muscles and 360 joints - creating long, lean muscles, improving posture and mobility, enhancing range of motion, increasing energy and blood flow, and promoting healthy cells.\n\nEssentrics TV members have access to...\n\n\u2022 Classes ranging from 10-60 minutes in len",
+    "icon": "/icons/com.essentricstv.png"
+  },
+  "com.exploration.Survivorofisland": {
+    "title": "Survivor of Island",
+    "package": "com.exploration.Survivorofisland",
+    "description": "Welcome to Survivor of Island!\ud83c\udf34\ud83c\udfe1 Unwind in the world of fun-filled adventure now!\nEnjoy a delightful island adventure game where you can\u00a0plant crops, rescue adorable pets, build dream home, and uncover hidden secrets. Perfect for casual gamers, this game offers a blend of joy, creativity, and endless activities. \n\nGame Highlights\n1. Island Adventure \ud83d\udc8e:\u00a0Chop trees, cut grass, and gather materials to build your perfect home.\n2. Discover Pets \ud83d\udc36:\u00a0Rescue adorable pets, interact with them, and let them be your loyal helpers.\n3. Build and Thrive \ud83d\udd28:\u00a0Construct various buildings to enhance your island life and turn it into a paradise.\n4. Explore Mysteries \ud83d\udc63:\u00a0Discover unknown areas, unlock secrets, and find endless fun.\n5. Grow and Guard \ud83c\udf89: Defeat monsters invading the island, protect your farmland h",
+    "icon": "/icons/com.exploration.Survivorofisland.png"
+  },
+  "com.forteam.syncgene": {
+    "title": "SyncGene Contact Calendar Sync",
+    "package": "com.forteam.syncgene",
+    "description": "Free Cloud synchronization service to sync your Calendar, Contacts and Tasks with another iPhone, iPad, Mac, iCloud account, as well as Google and Microsoft devices and services.\n\nSync Contacts, Calendar Events, and Tasks between your iPhone/iPad via iCloud with Google Gmail, Outlook 365, Outlook.com, Hotmail and Exchange.\n\nWith SyncGene you can sync iCloud Calendar and Contacts with Google Calendar and Gmail Contacts. \nYou can sync Calendar and Contacts using SyncGene app or online. \n\nMain features of SyncGene sync service: \n\nSYNC CONTACTS, CALENDAR, AND TASKS\nSync Contacts, Calendar Events, and Tasks automatically across multiple devices, email accounts, Web Apps, and services. No more manual exporting, importing, double-entry, and data duplication. \n\nSYNC MULTIPLE SOURCES\nOne tool to sy",
+    "icon": "/icons/com.forteam.syncgene.png"
+  },
+  "com.global.wildland": {
+    "title": "Wildland Survivor",
+    "package": "com.global.wildland",
+    "description": "In the not-so-distant future, deserts engulf 99% of the Earth's surface, cities reduced to tombstones of human civilization.\n\nThe remnants of the old world lie buried beneath the sand. Relying on the \"Sand Vacs\", survivors are the last hope of the rebirth of humanity.\n\nCivilization is swallowed by sand. With a \"Sand Vac\", you will restore our home.\n\n--- Core Gameplay ---\nIn a world of 99% desertification, only those who master the six laws of survival can live on.\n\n\ud83c\udf10 Explore & Gather\nVenture into the sea of sand with your Sand Vac. Gather resources, store water, and scavenge for data of lost technologies.\n\n\ud83c\udf35 Rebuild the Oasis City\nBuild the last bastion of human civilization under the protection of the Tree of Life.\n\n\ud83d\udc65 Manage Workforce\nShelter Survivors. Turn them into productive forces an",
+    "icon": "/icons/com.global.wildland.png"
+  },
+  "com.gltop.wj.xxsg2.tw2": {
+    "title": "\u5c0f\u5c0f\u4e09\u570b2:\u4f11\u9592\u990a\u6210\u7b56\u7565\u5361\u724c\u904a\u6232\uff0c\u52d5\u6f2b\u98a8\u76ca\u667a\u639b\u6a5f\u570b\u6230\u624b\u904a",
+    "package": "com.gltop.wj.xxsg2.tw2",
+    "description": "Game introduction\none. Worry-free leisure farming. A casual AFK Three Kingdoms game with 19 types of resources and 28 types of buildings: money, food, steamed stuffed buns, wood, stone, iron ore, etc. There is no resource plundering and no malicious PK. The lords only need to upgrade the resource buildings and reasonably allocate craftsman production, and then they can safely AFK and obtain a large amount of resources! Super benefits are delivered every day, and online rewards, daily rewards and accumulated login rewards are collected every day, allowing you to collect endless gold coins and play for free every day!\ntwo. Training makes soldiers. 10 basic types of arms: guns, bows, shields, cavalry, skills, etc., 30 types of advanced arms: white soldiers, tiger and leopard cavalry, trapped ",
+    "icon": "/icons/com.gltop.wj.xxsg2.tw2.png"
+  },
+  "com.gnu.gnu_meeting": {
+    "title": "GNU MEETING",
+    "package": "com.gnu.gnu_meeting",
+    "description": "1. Add a new meeting\nClick New Meeting, write meeting details, and select Add.\n\n2. Check attendance\nSelect Check Attendance to scan the QR code of meeting attendees.\n\n3. View attendance check results\nYou can check the list of meeting attendees and save the results to download them as an Excel file.",
+    "icon": "/icons/com.gnu.gnu_meeting.png"
+  },
+  "com.gnu.vpn": {
+    "title": "GnuVPN: Super Fast VPN Proxy",
+    "package": "com.gnu.vpn",
+    "description": "GnuVPN is an unlimited VPN proxy and travel eSIM app that is a smart solution to secure your internet connection and maintain online privacy. With our turbo fast VPN, you can browse securely, protect your data, and enjoy an internet connection wherever you are.\n\nYou can use worldwide servers (Japan, Indonesia, Turkey, Brazil, USA VPN) to protect your personal data even using Wi-Fi.\n\nTurbo fast VPN for Privacy, Security & Freedom\n\nGnuVPN encrypts your internet traffic and hides your IP address, helping keep your personal information private. Our protocols have powerful encryption to save your online activity from trackers. Our MASA Level 2 certification confirms that VPN  protects sensitive data, follows secure development practices, mitigates common mobile threats, and meets Google Play se",
+    "icon": "/icons/com.gnu.vpn.png"
+  },
+  "com.google.android.apps.docs.editors.slides": {
+    "title": "Google Slides",
+    "package": "com.google.android.apps.docs.editors.slides",
+    "description": "Create, edit, and collaborate on presentations from your Android phone or tablet with the Google Slides app. With Slides, you can:\n\n- Create new presentations or edit existing ones\n- Share presentations and collaborate in the same presentation at the same time\n- Work anywhere, anytime - even offline\n- Add and respond to comments\n- Add and rearrange slides, format text and shapes, and more\n- Present straight from your mobile device\n- Never worry about losing your work \u2013 everything is saved automatically as you type\n- Make beautiful slides, instantly - with smart suggestions\n- Present slides to video calls - scheduled meetings will automatically appear\n- Open, edit, and save PowerPoint files\n\nGoogle Slides is part of Google Workspace: where teams of any size can chat, create, and collaborate",
+    "icon": "/icons/com.google.android.apps.docs.editors.slides.png"
+  },
+  "com.google.android.webview.beta": {
+    "title": "Android System WebView Beta",
+    "package": "com.google.android.webview.beta",
+    "description": "Android WebView is a pre-installed system component from Google that allows Android apps to display web content. The Beta version updates weekly.",
+    "icon": "/icons/com.google.android.webview.beta.png"
+  },
+  "com.google.android.webview.canary": {
+    "title": "Android System WebView Canary",
+    "package": "com.google.android.webview.canary",
+    "description": "Android WebView is a pre-installed system component from Google that allows Android apps to display web content. The Canary version updates daily.",
+    "icon": "/icons/com.google.android.webview.canary.png"
+  },
+  "com.google.android.webview.dev": {
+    "title": "Android System WebView Dev",
+    "package": "com.google.android.webview.dev",
+    "description": "Android WebView is a pre-installed system component from Google that allows Android apps to display web content. The Dev version updates weekly.",
+    "icon": "/icons/com.google.android.webview.dev.png"
+  },
+  "com.haidarcorp.hydra": {
+    "title": "Hydra",
+    "package": "com.haidarcorp.hydra",
+    "description": "Hydra empowers you to replace the clutter of social media apps with one elegant and powerful platform that does it all!\n\nFEATURES\n\n\ud83d\udc4d POSTS - Videos, Images, Discussions\n\ud83d\udcac MESSENGER - Chat With Anyone\n\ud83c\udfae GAMES - Play In-App Games\n\ud83e\udd17 MEET - Make New Friends\n\ud83e\udec2 GROUPS - Join Public Groups\n#\ufe0f\u20e3 TOPICS - Discover Content Deliberately\n\ud83c\udfa8 THEMES - Custom Dark & Light Modes\n\n\u2022 \u2022 \u2022\n\nThere's an app for almost anything - Hydra will do everything! From music and gaming, to streaming and shopping, Hydra will allow you to both consume and produce endless content.\n\nCOMING SOON\n\ud83c\udfb5 MUSIC STREAMING\n\ud83d\udcde VIDEO & VOICE CALLING\n\ud83d\udd34 LIVE STREAMING",
+    "icon": "/icons/com.haidarcorp.hydra.png"
+  },
+  "com.hcph.sandexplore": {
+    "title": "Sand Miner: Idle Mining Game",
+    "package": "com.hcph.sandexplore",
+    "description": "Embark on an adventure to the Land of Sand to dig up some marvelous relics! Try the taste of the mining tycoon life in our ultimate idle game!\n\nOur mining simulator takes you to a desert full of abandoned dig sites. Power up your excavator and start digging to find artifacts hidden deep in there. While searching, vacuum up all the sand to exchange it for money and become the top digger in this addictive idle miner simulator!\n\nAll the ingredients for an awesome adventure are here:\n\n- Hidden treasures. Dig through the sand to find some great artifacts, from dinosaur fossils to UFO spaceships! \n- Futuristic excavator. Our mining tycoon simulator provides you with a powerful digger-machine. With its turbocharged vacuum, your digging speed will increase!\n- Breathtaking desert. Our miner sim wil",
+    "icon": "/icons/com.hcph.sandexplore.png"
+  },
+  "com.hd.backupapk": {
+    "title": "Backup Apk - Extract Apk",
+    "package": "com.hd.backupapk",
+    "description": "If anyone has question How to backup android or How to backup and restore app, the main answer is backup app: Backup apk - Extract Apk.\n\nAll applications in the phone are backed up easily and quickly. After backing up these applications will be stored in the folder of the device. Backup apk displays all the applications that the user has backed up. Users can easily install the application, delete it from the list of archives or share apps to friends.\n\nIn addition, Backup apk - Extract Apk displays all the applications installed in the device, including the applications of the system. Users can easily backup assistant, store, uninstall or share apps to friends.\n\nAll applications(apps backup software) was displayed will provide users with very clear and complete information about the applica",
+    "icon": "/icons/com.hd.backupapk.png"
+  },
+  "com.hydrahd.watchmoviesseries": {
+    "title": "HydraHD -  Movies and Series",
+    "package": "com.hydrahd.watchmoviesseries",
+    "description": "HydraHD is an informational application created to help users explore movies and TV series through an easy and structured interface. Hydra HD app focuses on providing essential details about titles, allowing users to discover content across different genres and categories.\n\nWith a lightweight design and smooth navigation, HydraHD offers a comfortable browsing experience. Users can explore titles, read summaries, and learn more about films and series without unnecessary complexity.\n\nKey features:\n\nBrowse movie and TV series titles\n\nView descriptions and basic information\n\nSimple, fast, and user-friendly interface\n\nOrganized layout for easy discovery\n\nHydraHD is designed for entertainment discovery and content exploration, helping users stay informed about movies and series they may be inter",
+    "icon": "/icons/com.hydrahd.watchmoviesseries.png"
+  },
+  "com.inspiredsquare.sand.blast": {
+    "title": "Sand Blast\u2122",
+    "package": "com.inspiredsquare.sand.blast",
+    "description": "Welcome to \"Sand Blast!,\" a fresh twist on the classic sand game and sand block puzzle genre!\n\nDrop, match, and sand blast colorful blocks in this satisfying sand puzzle game. Fill lines with the same color sand to clear them and keep the sand tetris grid under control! Watch how the relaxing tetris sand flowing game plays itself!\n\nHow to Play:\n- You\u2019re given 3 colorful block shapes, a color sand game and can place sand games on the grid in any order similar to sandtetris.\n- Each sand blocks breaks into a sand blaster and flows naturally based on its shape.\n- Create a full horizontal line of the same color sand to clear it.\n- Use bomb blocks to clear sand and free up space for new pieces.\n- The game ends when there\u2019s no room left for your next blocks, so think ahead and play smart!\n\nFeatur",
+    "icon": "/icons/com.inspiredsquare.sand.blast.png"
+  },
+  "com.instarabbiapp.instarabbi": {
+    "title": "InstaRabbi - Torah Q&A",
+    "package": "com.instarabbiapp.instarabbi",
+    "description": "How often have you found yourself in the following situations?...\n\nYou did not know the correct Bracha to make in a particular situation...\n\nYou had a question that you didn't feel comfortable asking someone who knows you...\n\nYou consistently feel guilty \"bothering\" the Rabbi with your \"simple questions\" all the time...\n\nToo often, many of us will convince ourselves that we think we know the correct thing to do and that we are probably right. \n\nInstaRabbi is taking your orthodox Jewish observance to the next level by making sure that you never again have to act as your own Rabbi when you don't know what to do, and that none of the questions that you have related to Judaism go unanswered. Insta Rabbi allows Jews from across the world to ask Torah or halachic questions and get them answered ",
+    "icon": "/icons/com.instarabbiapp.instarabbi.png"
+  },
+  "com.issakaai.base": {
+    "title": "base: intelligent communities",
+    "package": "com.issakaai.base",
+    "description": "Base:\n- Create a personalized space for your community devoid of distractions, ads, and trackers.\n- Unlock new possibilities and reach higher success by redefining the possibilities of your social network.\n- Considered disconnecting from your social networks? Don\u2019t. Let\u2019s show you how to use them differently.\n   - endless scroll? Sorry, we don\u2019t do that here!\n   - two ways to readily influence behavior: manipulate or inspire. We choose to inspire.\n- Deconstructing and reconstructing social media\n- Shifting from individualistic and capitalistic social media platforms towards community-centric spaces.\n- Building spaces that give people access to cutting-edge AI technologies to help amplify their voices and narratives.\n- Humans and Machines work together - for each other.\n\nWhy Base?\n- Privacy",
+    "icon": "/icons/com.issakaai.base.png"
+  },
+  "com.jellyblast.cmcm": {
+    "title": "Jellipop Match",
+    "package": "com.jellyblast.cmcm",
+    "description": "Welcome to the world of Jellipop Match! Build this fun-filled tropical island into your very own paradise, and explore a story filled with surprises while you grow alongside a cast of fun and charming characters!\n\nPlay match-3 levels and renovate your island villa. Use your wits to help the wizard Bingo solve his problems as you meet new friends and build the island paradise of your dreams!\n\nFeatures\n\n\u25c6Unique match-3 gameplay with more than 3,000 challenging levels. Collect all sorts of delicious dishes and find cute animals!\n\u25c6Explore a fun-filled tropical island and discover its secrets.\n\u25c6Design your very own tropical island getaway, complete with private pool, open-air dining room, a luxurious wardrobe, and so much more!\n\u25c6Build your own waterpark complete with water slide - the perfect w",
+    "icon": "/icons/com.jellyblast.cmcm.jpg"
+  },
+  "com.lb.contacts_sync": {
+    "title": "Contacts Sync (requires ROOT)",
+    "package": "com.lb.contacts_sync",
+    "description": "Uses root to sync your address book with high-quality contacts photos.\nThis way, during calls and inside the address book app, you could see who you are talking to!\n\nThe operation is almost entirely automatic, and you can choose which contacts to avoid syncing.\n\nDisclaimer:\nThe app does what you can do anyway by yourself: get photos from folders that are accessible via root and later set each to the person in the address book, just like on any file-manager app (that has root capabilities).\n\nPlease check the FAQ on the official forum before using this app including the requirements to use it :\nhttps://forum.xda-developers.com/android/apps-games/app-contacts-sync-sync-contacts-photos-t3483461\n\nNote that you MUST have a rooted device in order to run this app.",
+    "icon": "/icons/com.lb.contacts_sync.png"
+  },
+  "com.linkdesks.jewellegend": {
+    "title": "Jewels Legend - Match 3 Puzzle",
+    "package": "com.linkdesks.jewellegend",
+    "description": "Welcome to Jewel Legend\u2014the ultimate offline match 3 puzzle adventure!\nGet ready to dive into a world of sparkling jewels, tricky puzzles, and mind-sharpening fun\u2014all offline and on your terms!\n\nHere's what Jewel Legend brings to the table:\n\n\u2605 Brain-boosting match 3 puzzles to sharpen your problem-solving skills\n\u2605 Match, swap, and crush jewels to engage your mind and enhance strategic thinking\n\u2605 Powerful boosters to help you conquer even the trickiest puzzles\n\u2605 Incredible rewards \u2013 accumulate points and exchange them for awesome in-game goodies\n\u2605 Thousands of challenging levels that will keep you mentally sharp and entertained\n\u2605 Gorgeous animations and lively music to bring every level to life\n\u2605 Perfect for relaxing or challenging yourself whenever, wherever\u2014no internet needed!\n\u2605 Easy to p",
+    "icon": "/icons/com.linkdesks.jewellegend.png"
+  },
+  "com.lorezest.www": {
+    "title": "LoreZest: AI Bedtime Stories",
+    "package": "com.lorezest.www",
+    "description": "FOR PARENTS: Create Magical Personalized Stories for Your Family\n\nLoreZest is a parent-controlled tool that generates AI-powered storybooks where YOUR child becomes the hero. Perfect for parents who want to make reading exciting and track their learning progress.\n\nHOW IT WORKS FOR PARENTS\n\n1. Create profiles for up to 4 children\n2. Upload a photo to generate a safe, custom avatar\n3. Choose story themes, reading levels, and art styles\n4. Generate a personalized 10-page illustrated story in minutes\n5. Track reading progress from your parent dashboard\n6. Receive weekly email insights on vocabulary growth\n\nPARENT DASHBOARD FEATURES\n\n- Multi-Profile Management: Manage up to 4 individual profiles with separate reading levels and avatars\n- Progress Tracking: Monitor reading time, stories complete",
+    "icon": "/icons/com.lorezest.www.png"
+  },
+  "com.maapps.habittracker": {
+    "title": "Habit360 Habit Tracker & To-do",
+    "package": "com.maapps.habittracker",
+    "description": "Habit360 - Habit tracker & Routine Planner helps you create and maintain good habits and eliminate bad habits, allowing you to achieve your long-term goals. With simple and beautiful charts and statistics, Habit360 will make monitoring your life becomes completely effortless.\n\nChange the way you organize yourself with this most complete habit tracker app. No distractions, no Ads.\n\n\n\u258cSIMPLE &, BEAUTIFUL\n\nHabit360 has a clear and beautiful interface that will help you build customized habits lists, based on our handy habit presets.\nCreate your habits and organize your daily routines. Habits are visualized in cards to give you a quick overview of your to-do list. Customize habit colors, icons, schedules, and reminders.\n\n\n\u258c GRAPHS & STATISTICS\n\nWith a beautiful interface, Habit360 helps you to",
+    "icon": "/icons/com.maapps.habittracker.png"
+  },
+  "com.marktbarclay.markbarclayministries199app": {
+    "title": "BASE",
+    "package": "com.marktbarclay.markbarclayministries199app",
+    "description": "Mobile App\nThe Base App is your hub for spiritual growth as a follower of Jesus. Access over 800 impactful sermons, along with podcasts and live streams featuring Mark T. Barclay and other compelling gospel ministers, all in one convenient place. Say goodbye to outdated CDs, USBs, and complicated downloads\u2014now you can stream life-changing audio and video sermons directly from your phone or tablet. With a searchable library organized by title, topic, and scripture, finding the perfect message to ignite your faith and guide your spiritual journey has never been easier.\n\nTV App\nThe Base App is your go-to hub for spiritual growth. Access over 800 impactful sermons, podcasts, and live streams by Mark T. Barclay and other ministers. Say goodbye to CDs and downloads\u2014search by title or topic and a",
+    "icon": "/icons/com.marktbarclay.markbarclayministries199app.png"
+  },
+  "com.media.zatashima.studio": {
+    "title": "GIF Maker, GIF Editor",
+    "package": "com.media.zatashima.studio",
+    "description": "Unleash your creativity with GIF Maker & GIF Editor, the all-in-one gif app that lets you create and edit high-quality animated gifs without any watermarks. With its intuitive and user-friendly interface, you can easily transform images, videos, screen recordings and even existing gifs into stunning animations.\n\nGIF Maker & GIF Editor supports a wide range of popular video and image formats including PNG, JPEG, MP4, MPEG, FLV, 3GP, GIF and more. You can easily customize and edit your gifs to perfectly capture your unique style. \n\nWhether you prefer a dark or light theme, GIF Maker & GIF Editor offers the perfect environment for unleashing your creativity. Start making stunning gifs that stand out and get noticed today with GIF Maker & GIF Editor.\n\nSupport up to 22 languages: English, Fran\u00e7",
+    "icon": "/icons/com.media.zatashima.studio.png"
+  },
+  "com.mediafire.android": {
+    "title": "MediaFire",
+    "package": "com.mediafire.android",
+    "description": "MediaFire lets you easily upload all your files - like your photos, videos, music, and documents - and access them from anywhere with your phone, tablet, computer, or the web!\n\nUpload files and folders from other Android apps (including most file managers) by using the Android \"Share to\" option and selecting \"MediaFire\". This will upload the file or folder directly into your MediaFire account.\n\nFeatures:\n\u2022 Upload files from anywhere with \"Share to MediaFire\".\n\u2022 12 GB of space - free!\n\u2022 Earn up to 50 GB of free space.\n\u2022 View docs, spreadsheets, presentations, video, and listen to audio.\n\u2022 Create and manage folders of files.\n\u2022 Share files on the go via email, SMS, Facebook, Twitter, other Android apps, or copy and paste links.\n\u2022 Quickly search all your files and folders.\n\u2022 Keep all your impo",
+    "icon": "/icons/com.mediafire.android.png"
+  },
+  "com.memrise.android.memrisecompanion": {
+    "title": "Memrise: Languages for life",
+    "package": "com.memrise.android.memrisecompanion",
+    "description": "Over 80 million people have already chosen Memrise to achieve their language goals. Whether it\u2019s finally speaking Spanish, brushing up on French, or mastering Japanese, Memrise makes learning authentic, engaging, and unforgettable.\n\nWith real-life conversations, cultural insights, and the confidence to speak like a local, Memrise is your ultimate partner for turning your resolution into reality.\n\nLearn Spanish, Korean, Japanese or 31 other languages in lessons that teach you vocabulary, listening and speaking as if you were a local living in the country!\n\nNew languages:\nLatin \ud83c\udff4,Finnish \ud83c\uddeb\ud83c\uddee , Irish \ud83c\uddee\ud83c\uddea, Ancient Greek \ud83c\uddec\ud83c\uddf7 Czech \ud83c\udde8\ud83c\uddff, Hungarian \ud83c\udded\ud83c\uddfa, Cantonese \ud83c\udde8\ud83c\uddf3, Romanian \ud83c\uddf7\ud83c\uddf4, Esperanto \ud83c\udff4, Afrikaans \ud83c\uddff\ud83c\udde6, Croatian \ud83c\udded\ud83c\uddf7, Kurdish \ud83c\uddf0\ud83c\uddfcSerbian \ud83c\uddf7\ud83c\uddf8, Bulgarian \ud83c\udde7\ud83c\uddec, Azerbaijani \ud83c\udde6\ud83c\uddff\n\nChoose a language from Spanish \ud83c\uddea",
+    "icon": "/icons/com.memrise.android.memrisecompanion.png"
+  },
+  "com.mini.meditators": {
+    "title": "Mini Meditators: Kid Feelings",
+    "package": "com.mini.meditators",
+    "description": "Children sleep better and manage big feelings with Mini Meditators. Our guided meditations and breathing exercises help with both bedtime struggles and emotional regulation. By first identifying their feelings, children start calming down before the meditation even begins, making each session more effective.\n\nKEY FEATURES\n* Bedtime Meditations: Designed to help children unwind and fall asleep more easily.\n* Breathing Exercises: Simple techniques to ease stress and bring a sense of calm.\n* Emotion-Based Selection: Kids choose how they feel, leading to a personalized experience.\n* Support for Tantrums and Anxiety: Meditations to help with overwhelming emotions.\n* Easy Navigation: Sessions categorized by feelings and needs, from sleep to emotional balance.\n(Mindfulness Tools: Gentle sounds an",
+    "icon": "/icons/com.mini.meditators.png"
+  },
+  "com.mixvibes.remixlive": {
+    "title": "Remixlive - Make Music & Beats",
+    "package": "com.mixvibes.remixlive",
+    "description": "Remixlive is the perfect beat making and live performance app for producers and DJs.\n\n\ud83e\udd41 \ud83c\udfb9\u00a0PLAY, JAM, MIX AND REMIX YOUR MUSIC. LIVE!\n\u2022 Play up to 48 Loops synced in Key and Tempo \n\u2022 Change the Key and BPM in real time\n\u2022 Jam and record live Drums & Instruments\n\u2022 Shape and resample your sound in real-time with Pro-grade FXs\n\u2022 Create your own sequences and patterns\n\u2022 Arrange your sounds on the timeline to finish your songs\n\n\ud83d\udd25 \ud83c\udfb6\u00a0SPICE-UP YOUR TRACKS WITH AN EXCLUSIVE SAMPLE LIBRARY!\n\u2022 Access over 32000+ pro-grade samples in 20+ musical genres\n\u2022 Perfectly crafted by top sound designers and world-class Artists. \n\u2022 Royalty-free, cleared for personal and commercial use on any platform.\n\u2022 New content weekly!\n\n\ud83c\udf93\u2699\ufe0f \u00a0ENJOY ADVANCED PRO-GRADE FEATURES!\n\u2022 Professional Audio engine and Sample Time stretc",
+    "icon": "/icons/com.mixvibes.remixlive.png"
+  },
+  "com.ml.proximitysensorfix": {
+    "title": "Call Proximity Sensor Fix",
+    "package": "com.ml.proximitysensorfix",
+    "description": "I created this app because my Xiaomi has some bugs during the call and with my face I close the call or mute the microphone accidentally.\nThe application does nothing but lock the screen when the phone is brought close to the ear during a phone call.\nSome special permissions are needed to lock the screen. If the application does not remain active in the background, disable battery optimizations on the app settings.\nNo ROOT required",
+    "icon": "/icons/com.ml.proximitysensorfix.png"
+  },
+  "com.mobisystems.mobidrive": {
+    "title": "MobiDrive Cloud Storage & Sync",
+    "package": "com.mobisystems.mobidrive",
+    "description": "MobiDrive is a streamlined, secure and ad-free cloud storage with handy features to backup, sync and access all your files. From its free 20GB storage available on sign in, to its rich cross-platform capabilities, MobiDrive ensures secure content transfer regardless of file format, device, platform, or location.\n\nSECURE DRIVE WITH AMPLE STORAGE\n\u2022\tWant 20GB free cloud storage, zero ads and no strings attached? Just create an account, claim your free storage, and sync or backup any file.\n\u2022\tNeed a practical video storage or photo storage but the free 20 GB aren\u2019t enough? Upgrade your drive to up to 2TB and enjoy sufficient storage to sync and backup.\n\nINSTANT ACCESS TO YOUR FILES\n\u2022\tMobiDrive\u2019s content transfer is straightforward and fast. Secure and sync files and folders to your drive in sec",
+    "icon": "/icons/com.mobisystems.mobidrive.webp"
+  },
+  "com.my.defense": {
+    "title": "Rush Royale: Tower Defense TD",
+    "package": "com.my.defense",
+    "description": "Step into the mystical world of Rush Royale, where Tower Defense reigns supreme in this strategy game genre! The Isle of Rhandum is a land of magic, mayhem, and strategic battles. Assemble a deck of powerful defense units and prepare for an epic TD game clash that will test your wits and tactical prowess.\n\nIn Rush Royale, you'll command a vast array of cute but fearsome units, each with unique abilities and strengths. From keen-eyed Archers and crafty Trappers to angry Bruisers and graceful Blade Dancers, you'll need to carefully merge your units and manage your mana to create a winning battle strategy for castle defense.\n\nBut Rush Royale isn't just about base defense\u2014it's also a fierce Arena Battle against other players! Break through enemy Tower Defense, progress, and earn valuable troph",
+    "icon": "/icons/com.my.defense.png"
+  },
+  "com.mymind.access": {
+    "title": "mymind",
+    "package": "com.mymind.access",
+    "description": "mymind is one beautiful, private place for all your bookmarks, inspiration, notes, articles, images, videos and screenshots.\n\nShare anything with the mymind app to save it. Find it later with a simple search. No need to organize anything yourself; mymind does it for you.\n\nThink of it like a search engine for your brain. One place to save everything you care about online. One place to find it.",
+    "icon": "/icons/com.mymind.access.jpg"
+  },
+  "com.naver.linewebtoon": {
+    "title": "WEBTOON: Manga, Comics, Manhwa",
+    "package": "com.naver.linewebtoon",
+    "description": "Join the largest manga, comics, and manhwa community in the world with millions of fans and creators on WEBTOON!\n \nWhy you'll love WEBTOON:\n- Access millions of episodes for FREE!\n- Explore the world\u2019s largest selection of webcomics spanning diverse genres like action, romance, thriller and everything in between.\n- Now you can read or watch fan-favorite stories like never before with Video Episodes - anytime, anywhere, free!\n- Find your next obsession in the Watch tab, where you can explore series highlights and the latest video episodes.\n- Enjoy global hits like Lore Olympus, The Mafia Nanny, Omniscient Reader, School Bus Graveyard and The Remarried Empress.\n- Read familiar favorites and graphic novels like Fullmetal Alchemist, Batman: Wayne Family Adventures, Godzilla, Avatar: The Last A",
+    "icon": "/icons/com.naver.linewebtoon.png"
+  },
+  "com.netflix.NGP.Venice": {
+    "title": "Black Mirror: Thronglets",
+    "package": "com.netflix.NGP.Venice",
+    "description": "NETFLIX MEMBERSHIP REQUIRED.\n\nCross over into the world of \"Black Mirror\" and experience \"Thronglets,\" the retro virtual pet simulation at the center of the Season 7 episode \"Plaything.\" These pixel art critters won't just take over your phone; they could take over your life. \n\n\"Thronglets\" was originally developed in the 1990s as experimental software by legendary Tuckersoft programmer Colin Ritman (\"Metl Hedd,\" \"Nohzdyve,\" \"Bandersnatch\"). This isn't a game; it's a life-form whose biology is entirely digital. No emulator required.\n\nMORE THAN A PET SIMULATION\n\nHatch and evolve hundreds of cute creatures: Thronglets! Feed, bathe and entertain them to watch them multiply. One becomes two, two becomes four, and so on. Soon there will be so many you'll call them a Throng. \n\nVIRTUAL EVOLUTION\n",
+    "icon": "/icons/com.netflix.NGP.Venice.png"
+  },
+  "com.nextaix.adbshellpro": {
+    "title": "ShellX - Local ADB Shell Pro",
+    "package": "com.nextaix.adbshellpro",
+    "description": "Run ADB shell commands directly on your Android device \u2014 no PC required. ShellX makes device management and debugging easier than ever, supporting both local and remote devices on Android 4.x and above.\n\nKey Features:\n\n\ud83d\udd0c 1. PC-Free Debugging\uff1aDebug and manage your device without a computer.\n\ud83d\udcf1 2. Wide Android Compatibility\uff1aSeamlessly supports Android 4.x through Android 16.\n\ud83d\udd17 3. Pairing Mode Support\uff1aConnect easily using wireless pairing mode.\n\ud83d\udcbb 4. Full ADB Command Support\uff1aRun all ADB commands directly on your device.\n\ud83d\udda5\ufe0f 5. Multiple Shell Windows\uff1aOpen and manage multiple shell sessions at once.\n\ud83c\udf10 6. Local & Remote Connection\uff1aEffortlessly connect multiple devices, locally or remotely.\n\u270d\ufe0f 7. Multi-Line Input\uff1aExecute complex, multi-line commands with ease.\n\u26a1 8. Smart Suggestions\uff1aType faster with",
+    "icon": "/icons/com.nextaix.adbshellpro.png"
+  },
+  "com.nicktylah.gnucash_mobile": {
+    "title": "GnuCash Mobile",
+    "package": "com.nicktylah.gnucash_mobile",
+    "description": "An application for keeping track of GnuCash transactions on the go.\n\nNote: this app is not meant to be a standalone implementation of GnuCash. Rather, it's a simple tool for recording transactions as they happen that also allows you to export in a GnuCash-compatible format (CSV).\n\nCapabilities:\n\n- Import a set of accounts (these should be exported from a valid GnuCash instance; File > Export > Export Account Tree to CSV...)\n- Create transactions a GnuCash-compatible, double-bookkeeping fashion\n- Export said transactions for import into a standalone GnuCash instance (File > Import > Import Transactions from CSV...). Use the \"GnuCash Export Format\".\n- Set favorite debit and credit accounts for pre-populating transaction fields.",
+    "icon": "/icons/com.nicktylah.gnucash_mobile.png"
+  },
+  "com.olzhas.carparking.multyplayer": {
+    "title": "Car Parking Multiplayer",
+    "package": "com.olzhas.carparking.multyplayer",
+    "description": "More than just parking: open-world multiplayer mode, car tuning, free walking!\nThousands of players are waiting for you.\nJoin us!\n \nMultiplayer open world mode\n\u2022 Free walking.\n\u2022 Free open world with real gas stations and car services.\n\u2022 Compete against real players in the multiplayer racing.\n\u2022 Exchange cars with real players.\n\u2022 Thousands of real players every day.\n\u2022 Friend list.\n\u2022 Voice Chat.\n\u2022 Police mode\n\nCar customization \n\u2022 Adjustable suspension, wheel angle and more.\n\u2022 Engine tuning: swap engine, turbo, gearbox and exhaust.\n\u2022 Visual auto tungs: Dynamic vynils, car body parts.\n\nHigh-quality open world\n\u2022 Highly-detailed environments\n\u2022 100 cars with the real interior.\n\u2022 16 player skins \n\u2022  Buildings with interior \n\n\nInteresting gameplay \n\u202282 real-life parking and driving challenges.\n\u2022Dif",
+    "icon": "/icons/com.olzhas.carparking.multyplayer.jpg"
+  },
+  "com.on3": {
+    "title": "On3",
+    "package": "com.on3",
+    "description": "Introducing the On3 Sports App, your ultimate companion for all things college sports, football and basketball recruiting, NIL, Transfer Portal, and beyond. Get ready to immerse yourself in a world of trusted news, comprehensive data, and expert insights on your favorite teams, all conveniently accessible through this feature-rich app.\nStay on top of the latest developments in college sports with the On3 Sports App. We understand the importance of accurate and reliable information, which is why we've partnered with a network of local experts who are deeply connected to the world of collegiate athletics. These seasoned journalists and insiders bring you up-to-the-minute news, exclusive interviews, and in-depth analysis that go beyond the surface. With their unique perspectives and insider k",
+    "icon": "/icons/com.on3.png"
+  },
+  "com.onemb.shadowborn": {
+    "title": "Shadowborn",
+    "package": "com.onemb.shadowborn",
+    "description": "Shadowborn is an arcade-style RPG designed for fast, gripping mobile gameplay. Dive into a rich world of whimsy and darkness letting you carve your path to victory, whether it's a quick battle or a longer, more immersive quest.\n\nExperience pure power fantasy with tight, short game loops that pack in excitement. Move seamlessly through vibrant landscapes, tackle fast-paced missions, and engage in combat that's responsive and satisfying. The game rewards your skill, allowing you to dodge attacks and time your take-downs to win against the odds. \n\n\nUNLEASH YOUR POWER\nStep into a world of fantasy as a hero uniquely tailored to your style:\n\u2022 Select from distinctive classes like the Warrior, Rogue, Sorcerer, Necromancer, Swashbuckler, and Valkyrie \u2014 each with a unique feel and powerful abilities",
+    "icon": "/icons/com.onemb.shadowborn.webp"
+  },
+  "com.oppo.quicksearchbox": {
+    "title": "Global Search",
+    "package": "com.oppo.quicksearchbox",
+    "description": "With Global Search, you can quickly access various types of information and apps on your phone, including:\n\nApps:\u200b Enter an app's name to access installed apps or go directly to their download page in the app store.\n\nContacts:\u200b Enter a name or partial number to find your contacts directly.\nFiles:\u200b Enter keywords to quickly locate your stored documents, images, videos, music, and other file types.\n\nSettings:\u200b Enter a function name (e.g., \"Sound\") to jump directly to the corresponding settings page. \n\nNotes:\u200b Enter a keyword to immediately find and display related notes.\n\nCalendar:\u200b Enter an event title to keep track of upcoming schedules and activities at any time.",
+    "icon": "/icons/com.oppo.quicksearchbox.png"
+  },
+  "com.pc.sand.loop": {
+    "title": "Sand Loop",
+    "package": "com.pc.sand.loop",
+    "description": "Discover Sand Loop, a uniquely relaxing puzzle experience where you collect the sand from the beautiful sand art which is very satisfying to watch and play. \nGuide moving buckets along a conveyor belt, collect sand by color, and watch as each level comes to life in a smooth cascade of motion. Every grain falls with realistic physics, creating a mesmerizing and satisfying visual journey.\n\nWhether you\u2019re looking to unwind after a long day or enjoy a simple yet engaging puzzle, Sand Loop delivers a calming escape with every tap.\n\nHow to Play:\n\n- Tap to release and guide buckets along the conveyor\n- Collect the right color sand in the right place\n- Fill each section to gradually reveal the hidden artwork\n- Adapt to new obstacles and level layouts as you progress\n- Complete the picture and enjo",
+    "icon": "/icons/com.pc.sand.loop.png"
+  },
+  "com.peterhohsy.eecalculatorpro": {
+    "title": "Electronics Toolbox Pro",
+    "package": "com.peterhohsy.eecalculatorpro",
+    "description": "Electronics Toolbox \u2013 All-in-One Electronic Calculator & Reference\n\nThe ultimate mobile toolkit for electronics engineers, hobbyists, students, and professionals!\n\nOver 80 powerful tools & references in one clean, fast, and offline app. Whether you're designing circuits on the go, debugging in the lab, or learning electronics, this is the only app you'll ever need.\n\n\n\nBasic tools\n\u2022 Resistor color code\n\u2022 Inductor color code\n\u2022 Resistor SMD marking & EIA-96\n\u2022 dBm, dbW, dBuV converter\n\u2022 Resistors in series\n\u2022 Resistors in parallel\n\u2022 Two resistors in ratio\n\u2022 Voltage divider\n\u2022 Ohm's law\n\u2022 Y-\u0394 converter\n\u2022 L, C reactance\n\u2022 Complex number operation\n\u2022 RC charging time constant\n\u2022 RC filter\n\u2022 RL filter\n\u2022 LC circuit\n\u2022 555 monostable\n\u2022 555 astable\n\u2022 Wheatstone bridge\n\u2022 Trace width calculator\n\u2022 Battery ca",
+    "icon": "/icons/com.peterhohsy.eecalculatorpro.png"
+  },
+  "com.phappsandgames.apkdownloader": {
+    "title": "APK Download - Apps and Games",
+    "package": "com.phappsandgames.apkdownloader",
+    "description": "APK Download - Apps and Games is one of the largest galleries available on the Play Store, where you can find more than one million games and applications to download on your Android device. This application is a great alternative to the store of other applications and games.\n\nThe application gives you the most complete information. You can see data about reviews, downloads and ratings of each application or game you are looking for. You can also filter to see PAGAS or FREE applications in the results. You can also see the main trend collections and the new free and paid applications as well.\n\nFeatures: \n\n\u2705 - Sort APK files by date\n\u2705 - Analyze APK files from the SD card and external storage.\n\u2705 - Install APK files with just one click\n\u2705 - Delete APK files from SD card and external storage\n\u2705 ",
+    "icon": "/icons/com.phappsandgames.apkdownloader.png"
+  },
+  "com.playerelite.hydra": {
+    "title": "Hydra",
+    "package": "com.playerelite.hydra",
+    "description": "Welcome to Hydra \u2013 Designed to transform the way you manage digital sign-ups and payments.\n\nHydra offers a seamless solution for organizations, clubs, and businesses, simplifying the complexities of user management and sign-ups.\n\nExperience the power of seamless membership management at your fingertips with our cutting-edge Tablet app.\n\nKey Features:\n\nReal-Time Membership Status: Keep an eye on the status of digital membership sign-ups. Stay informed and make better decisions with just a glance!\n\nFlexible Payments: We understand that flexibility is key. That's why our app goes beyond the digital realm, allowing you to facilitate and approve cash payments with ease.\n\nEffortless Search: Finding memberships is a breeze with our advanced search functionality. Quickly locate memberships with ea",
+    "icon": "/icons/com.playerelite.hydra.png"
+  },
+  "com.psoffritti.video.to.gif": {
+    "title": "Convert Video to GIF",
+    "package": "com.psoffritti.video.to.gif",
+    "description": "Transform your favorite videos into captivating GIFs with ease using the Video to GIF Converter app! Whether you want to share funny moments, create unique animations, or capture special memories, our app provides all the tools you need to make stunning GIFs right from your Android device.\n\nFeatures:\n\n\ud83c\udfac Trim and Cut Videos:\nEasily select the perfect segment of your video to convert into a GIF. Our intuitive trimming and cutting tools allow you to focus on the best parts, ensuring your GIFs are always engaging and to the point.\n\n\u23f1\ufe0f Change Speed:\nAdd some flair to your GIFs by adjusting the speed of your videos. Slow down or speed up the action to create dramatic or humorous effects that will make your GIFs stand out.\n\n\ud83d\udcd0 Adjust Resolution:\nCustomize the resolution of your GIFs to suit your n",
+    "icon": "/icons/com.psoffritti.video.to.gif.png"
+  },
+  "com.riftsky.mhg.gb.gp": {
+    "title": "The Cozy Florist",
+    "package": "com.riftsky.mhg.gb.gp",
+    "description": "Looking for a heartwarming game to relax without boredom? Eager to meet like-minded friends but afraid of social awkwardness? This game filled with flowers and surprises solves all your worries!\nDual gameplay of managing a garden + flower shop\u2014therapeutic and fun, plus real flower rewards waiting for you to claim! \n\nUnlock a World of Blossoms, Manage Your Exclusive Garden & Flower Shop\nDive into a diverse world of flowers in The Cozy Florist! From daisies and lilies of the valley to rare tulips, craft your one-of-a-kind garden with your own hands and run a personalized flower shop\u2014pure therapeutic joy!\n\nFlower-Stealing Interaction: Thrilling & Super Stress-Relieving\nSpotted vibrant roses blooming in a friend\u2019s garden? Sneak a few blooms, but watch out\u2014don\u2019t get caught! Snagging rare flower",
+    "icon": "/icons/com.riftsky.mhg.gb.gp.png"
+  },
+  "com.rocketouch.CRCKosher2013": {
+    "title": "cRc Kosher",
+    "package": "com.rocketouch.CRCKosher2013",
+    "description": "The cRc Kosher App is your comprehensive resource for everything kosher. Featuring an enhanced design and improved user experience, with the ability to search across all lists within the app for quick access to the information you need.\n\nFeatures of the cRc Kosher App:\n\n- Recommended Hechsherim: See a list of recommended Hechsherim from across the United States and around the world.\n- Hechsher Logo Scanner: See a Kashrus logo you don\u2019t recognize? Scan logos to get detailed information about the certification agency.\n- Food & Beverage Product Lists: Alcoholic Beverages, Beverages, Food, Fruits & Vegetables Checking Guide, Slurpees, and Starbucks products.\n- Other Essential Resources: Medicine, Non-Food products, Berachos guide, Tevilas Keilim and Kashering guide.\n- Kashrus Alerts: Stay up-t",
+    "icon": "/icons/com.rocketouch.CRCKosher2013.png"
+  },
+  "com.rs.explorer.filemanager": {
+    "title": "RS File Manager File Explorer",
+    "package": "com.rs.explorer.filemanager",
+    "description": "File Management app RS File Manager - RS File Explorer is the ultimate File Manager for Android.\n\nAndroid 16 is supported now! \n\nFree, Safe, Simple, Manage your files efficiently and easily  with RS File Manager. RS File Manager - RS File Explorer is easy and powerful file explorer for Android devices. It's free, fast and full featured.\n\nManage your files like you do on your desktop or laptop using Multiple Select, Cut, Copy, Paste, Move, Create, Delete, Rename, Search, Share, Send, Hide, zip, unzip, and Bookmark etc.\n\nWith RS File Manager - RS File Explorer, you can easily manage your files and folders on your device and cloud storages. Also you can find how many files and apps you have on your device immediately after opening RS File Manager.\n\nMore Features:\n\n\u25cf Disk Analysis : analyze yo",
+    "icon": "/icons/com.rs.explorer.filemanager.png"
+  },
+  "com.runawayplay.starlight": {
+    "title": "Flutter Starlight \u2014 Cozy Game",
+    "package": "com.runawayplay.starlight",
+    "description": "Enter the cozy world of Flutter: Starlight! Discover the delight of nurturing and collecting moths in a serene, moonlit forest. You'll soon discover moths are just as beautiful as any butterfly in this relaxing cozy game.\n\nImmerse yourself in the relaxing forest ambience as you nurture moths through their enchanting lifecycle, from adorable caterpillars to majestic moths. Guide them through the cozy haven, bursting dandelions and collecting pollen. Behold their beauty and quirks as they flutter and play!\n\nBuild your moth collection and learn about each breed in the Flutterpedia. From the Lunar breeds available for collecting during different moon phases to the Zodiac breeds available for collecting during the course of the zodiac cycle, Flutter: Starlight features 300+ real-life moth breed",
+    "icon": "/icons/com.runawayplay.starlight.png"
+  },
+  "com.s3.drive.file.explorer.storage.cloud.manager": {
+    "title": "S3Drive: Cloud storage",
+    "package": "com.s3.drive.file.explorer.storage.cloud.manager",
+    "description": "S3Drive is an easy-to-use client that converts any S3, WebDAV or Rclone compatible back-end into your personal encrypted file storage. Your files are encrypted before they leave your device, so no one beside you can access them. Not even us.\n\nFeatures:\n- Drive mount / Files app integration,\n- Multiple sync modes (copy, sync, move, two-way),\n- Content and filename encryption,\n- Photo & video backup with background mode,\n- Secure sharing via encrypted link,\n- Multiple accounts support,\n- Manage files & directories (open, preview, download, copy, delete, rename, folder upload etc.),\n- Preview different file formats (pdf, markdown, txt, audio, video),\n- Background audio play-out,\n- Simple text editor,\n- Search within directories,\n- Object Lock support,\n- File versioning (delete & restore),\n- L",
+    "icon": "/icons/com.s3.drive.file.explorer.storage.cloud.manager.webp"
+  },
+  "com.samsung.android.voc": {
+    "title": "Samsung Members",
+    "package": "com.samsung.android.voc",
+    "description": "Start your journey with Samsung Galaxy here at Samsung Members.\nOpen up possibilities from connecting with other users, sharing a wealth of information,\nand indulging in a variety of perks to exploring various device tips and experts' support.\n\n\u25a0 Official brand news and latest Samsung Galaxy informations \n\u25a0 Get insider tips to unlock the device's full potential \n\u25a0 Connect and share with Samsung Galaxy users in the community\n\u25a0 Access exclusive events and benefits available only on Samsung Members\n\u25a0 Easily review device diagnostics (battery status, camera etc)\n\u25a0 Pose questions directly to the experts and get 1-on-1 customer support\n\n\u203b Availability and services offered above may vary by country and region\n\n\u203b Note \nThis application requires network connection and additional charges may apply f",
+    "icon": "/icons/com.samsung.android.voc.png"
+  },
+  "com.sandbaygames.survive": {
+    "title": "Survive - Wilderness survival",
+    "package": "com.sandbaygames.survive",
+    "description": "Survive - a wilderness survival game. \n\nPrepare your gear. Assess the situation. Gather. Craft. Track and hunt animals. Make traps. Fish. Harvest. Make a plan and get to the safety or signal for the rescue. Explore vast swamp region with alligators. Survive the cold winter in the Grizzly Mountains scenario. Hike through the Elk River and hunt and fish. Stranded Isle - experience being marooned on a lost isle where jungle survival skills will be essential.\n\nPlay offline. \n\nNo ads to watch. No gems to buy. Game offers in-game purchases that unlock maps and perks.\n\n\ud83c\udfdc\ufe0f New scenario RED DUST DESERT coming in version 900 \ud83c\udfdc\ufe0f\nNEW SCENARIO with \"choose your next location\" like in the \"classic survive\" is being developed! Stay tuned for updates.\n\n\ud83d\udc0a April 16, 2026 -- NEW UPDATE 879 ROLLING OUT NOW - ",
+    "icon": "/icons/com.sandbaygames.survive.png"
+  },
+  "com.sbi.SBAnywhereCorporate": {
+    "title": "Yono Business",
+    "package": "com.sbi.SBAnywhereCorporate",
+    "description": "SBI Anywhere Corporate app is now Yono Business\nAn integrated mobile application for SBI Corporate Customers\n\nYono Business is a mobile application for corporate internet banking users providing common user experience to Khata Plus, Vyapaar/ Vistaar and Saral and other variants of SBI Corporate Internet banking.  Corporate Maker, Authorizer and Enquirer can use this product for initiating payments and account management.\n\nCMP (Cash Management Product) Payments users who are availing cash management services of SBI for bulk payments can also use this same app for authorizing payments through this app and manage accounts.\n\nIt is a safe, secure and easy to use application with host of features to SBI Internet banking users to operate their account on the move.\n\nKey features \u2013 (Khata Plus, Vya",
+    "icon": "/icons/com.sbi.SBAnywhereCorporate.png"
+  },
+  "com.sbi.SBIFreedomPlus": {
+    "title": "Yono Lite SBI - Mobile Banking",
+    "package": "com.sbi.SBIFreedomPlus",
+    "description": "Yono Lite SBI is Mobile Banking Smart Phone application for SBI Customers in English, Hindi, Telugu, Tamil, Kannada, Malayalam, Marathi, Gujarati, Punjabi, Bengali, Odia, Assamese, and Kashmiri languages. \n\nYono Lite is SBI\u2019s retail internet banking-based application for your smartphones. A safe, convenient, and easy to use application with a host of features to help users manage your finances on the move. \n\nPlease complete the one-time registration process to start using the application. \n\nNew Registration process: \n\n- A message will be shown on the screen regarding initiating an SMS to +917208871299 from the mobile device for validating user's mobile number. Users has to send this app generated encrypted SMS manually. Users have an option to retry sending SMS to an alternate number 84228",
+    "icon": "/icons/com.sbi.SBIFreedomPlus.png"
+  },
+  "com.sbi.lotusintouch": {
+    "title": "YONO SBI: Banking & Lifestyle",
+    "package": "com.sbi.lotusintouch",
+    "description": "Introducing the all-new YONO SBI\u2014your smarter, faster, and smoother way to the Bank. Explore products with ease, use seamless UPI and quick-pay options, fund your account instantly, and enjoy effortless domestic and international transfers. Benefit from upgraded loyalty rewards, personalized offers, and stronger security with easy lock/unlock controls. Experience an intuitive, effortless approach to managing your finances anytime, anywhere.\n\nWhat\u2019s New in YONO SBI\n\n\u2022 Smoother Product Access: Explore and apply for banking products, investments, and loans with a simpler, unified experience.\n\u2022 Enhanced Payment Solutions: Simplified UPI, quick pay, and new autopay options for smoother transactions.\n\u2022 Instant Account Funding: Fund your account instantly after opening and start transacting right",
+    "icon": "/icons/com.sbi.lotusintouch.webp"
+  },
+  "com.serosoft.academiagnu": {
+    "title": "Academia @ GNU",
+    "package": "com.serosoft.academiagnu",
+    "description": "Are you struggling to keep up with your University's updates? Academia @ GNU App is your all-in-one solution for managing your academic activities. Manage fee records, attendance, timetables, announcements, and programs & Units information seamlessly. Designed to help students efficiently handle their academic responsibilities with ease.\n\nKey Benefits:\nInstant Access: View academic information anytime, anywhere.\nFee & Marks: Easily access fee details and mark sheets.\nQuick Updates: Receive notifications and assignments promptly.\n\nPlease note: Academia @ GNU App is exclusively for\nstudents, parents, and teachers of Guru Nanak University. Contact your Admin for login credentials and support.",
+    "icon": "/icons/com.serosoft.academiagnu.png"
+  },
+  "com.shao.synccontact": {
+    "title": "Sync Phone Contacts",
+    "package": "com.shao.synccontact",
+    "description": "You have a brand new Android phone, and want to transfer contacts in your old Android\u00a0phone to the new one? This is the tool for you!\n\nIt will allow you to quickly transfer contacts from one phone to another, WITHOUT ANY OF YOUR CONTACTS LEAVING YOUR PHONES, if both of your phones are connected to the same wifi network. No third party servers are involved, so that you won't need to worry about exposing your privacy to any other person or company.\u00a0\n\nThis is the steps to take:\n1. install this application on both of your phones\n2. on your old phone, click the round button to share your contact information. Qrcode\u00a0will be displayed if successful.\n3. on your new phone, use the camera button on the bottom-right corner of the screen to scan the qrcode, or simply click the Import\u00a0button\u00a0on the cen",
+    "icon": "/icons/com.shao.synccontact.png"
+  },
+  "com.snapbreak.silt": {
+    "title": "SILT",
+    "package": "com.snapbreak.silt",
+    "description": "*Try SILT for free and unlock the full game to continue your journey!*\n\nDive into a surreal ocean abyss in an atmospheric puzzle-adventure. Explore dangerous waters, possess sea creatures and solve environmental puzzles to discover what lies deep below the surface\u2026\n\nSILT is a surreal underwater puzzle-adventure game. Alone in an underwater abyss, you are a diver searching the deep to uncover long-forgotten mysteries. \nPossess the creatures around you to solve puzzles and travel further into the darkness\u2026\n\nNature has evolved into bizarre forms. Discover strange organisms, unexplored ruins and ancient machinery hidden beneath the water\u2019s surface.\n\nSurvive encounters with giant deep-sea goliaths. Harness their power to awaken a long-dormant force at the centre of the abyss.\n\nExperience art br",
+    "icon": "/icons/com.snapbreak.silt.webp"
+  },
+  "com.snc.test.webview2": {
+    "title": "WebView Test",
+    "package": "com.snc.test.webview2",
+    "description": "Android WebView Test Application.\n\nPrior to the development of hybrid applications, it is possible to conduct a test according to the WebView option.\n\n\n- Full-screen support. (Double tap two or more fingers on the web view screen.)\n\n- Allows you to import web files from Web page connections (.) and file systems.\n\n- After connection, the connection history is saved for re-connected.\n\n- You can change we WebViewSettings settings through the Settings menu, and you can perform various environmental tests.\n\n- You can reset the History, WebView settings using the Settings menu.\n\n- It can be disassociated using a PC Chrome browser.\n\n- Allows you to view console logs directly from the app.\n\n- You can execute JavaScript directly from a webpage.\n\n- Support the Source view.\n\n- Support the HTMLElement",
+    "icon": "/icons/com.snc.test.webview2.png"
+  },
+  "com.star_k": {
+    "title": "Star-K Kosher Info",
+    "package": "com.star_k",
+    "description": "STAR-K's Kosher Info App offers the largest repository of Kosher consumer information in cyberspace, combining www.star-k.org,  the internet's first and most comprehensive consumer information website and the interactivity of the STAR-K Kosher Information Hotline 410-484-4110. \"STAR-K, How May We Help You?\"",
+    "icon": "/icons/com.star_k.png"
+  },
+  "com.subsplash.thechurchapp.s_M7W53X": {
+    "title": "Rhema USA",
+    "package": "com.subsplash.thechurchapp.s_M7W53X",
+    "description": "The official Rhema USA app for Kenneth Hagin Ministries and Rhema Bible Church.\n\nCheck out the faith-building videos, audios, and articles by the Hagin family. Stay up-to-date with events, read The Word of Faith magazine, and much more.\n\nFor more information about Kenneth Hagin Ministries, Rhema Bible Training College, or Rhema Bible church, visit rhema.org.\n\nThe Rhema USA app was created with the Subsplash app platform.\n\nMobile app version: 6.20.2",
+    "icon": "/icons/com.subsplash.thechurchapp.s_M7W53X.png"
+  },
+  "com.swypex.app": {
+    "title": "Swypex",
+    "package": "com.swypex.app",
+    "description": "Our platform empowers you to make payments with ease, streamline invoice management, and access working capital \u2014 gain insight and control of your business\u2019s financial health. Swypex simplifies your business finances, freeing you to focus on growth.\n\n[Minimum supported app version: 7.6.1]",
+    "icon": "/icons/com.swypex.app.png"
+  },
+  "com.syncme.syncmeapp": {
+    "title": "Sync.ME: Caller ID & Contacts",
+    "package": "com.syncme.syncmeapp",
+    "description": "\ud83d\udcde Sync.me \u2013 Caller ID, Spam Blocker & Reverse Phone Lookup\n\nSync.me is a powerful caller ID and spam blocker app that helps you identify unknown callers, block spam calls, and manage contacts easily.\n\nNever ask \u201cwho called me?\u201d again. With real-time caller identification, reverse phone lookup, and smart contact sync, Sync.me shows you who is calling before you answer.\n\nOver 20 million users trust Sync.me every day to identify unknown numbers, block spam calls, and keep their phone contacts organized.\n\n\u2e3b\n\n\ud83d\udd0e Caller ID \u2013 Identify Unknown Callers Instantly\n\nWith Sync.me\u2019s advanced true caller ID, you always know who is calling.\n\n\u2022 Identify unknown callers before answering\n\u2022 See caller name, photo, and phone number details\n\u2022 Find out who called you even if the number is not saved\n\u2022 Real-time ca",
+    "icon": "/icons/com.syncme.syncmeapp.png"
+  },
+  "com.tablemusicmobileapp": {
+    "title": "Table Music",
+    "package": "com.tablemusicmobileapp",
+    "description": "Exclusive Myanmar albums on Table: Purchase your favorite Artist's album and download for offline listening.\n\n-Listen Offline wherever you are\n-Purchasable with a variety of payment options\n-Your purchases help to support your favorite artists.\n-Table offers exclusive albums and podcasts that you can't find anywhere else\n-Sing along with lyrics\n-Listen 30 seconds preview before purchasing an album\n-Share your favoured track on social media\n-Make a playlist of your favorite songs.\n-See what songs are now topping the charts in Myanmar.\nListen on Table and support directly to your favourite artist now!\n\nFor any question, please feel free to contact us at:\nOfficial Website: www.tablemusicmm.com\nEmail: feedback@tablemusicmm.com",
+    "icon": "/icons/com.tablemusicmobileapp.png"
+  },
+  "com.tcx.sipphone14": {
+    "title": "3CX",
+    "package": "com.tcx.sipphone14",
+    "description": "With the 3CX App you can make and receive work calls, schedule conferences, video call and chat from anywhere. The 3CX App is truly your one-stop tool for working remotely - easily and efficiently. \n\nGetting Started:\nOnce the app is downloaded, open it and:\n1. Agree to the license agreement.\n2. Follow the on screen instructions to configure your app with your extension - you need your 3CX Welcome Email email with your credentials, sent from your Administrator.\n3. Allow camera access to scan the QR code from your 3CX web client - details in your email.\n4. Grant all the necessary permissions in the next screens.\n5. Make sure to follow the battery optimization instructions for the app to work efficiently.\n\nAnd that's all! You can now stay connected on-the-go!\n\nImportant read: This app is only",
+    "icon": "/icons/com.tcx.sipphone14.png"
+  },
+  "com.todoist": {
+    "title": "Todoist: To Do List & Calendar",
+    "package": "com.todoist",
+    "description": "You have enough on your plate without fighting your productivity tools. Todoist is the planner and habit tracker that bridges personal and professional productivity, without the complexity tax.\n\nJoin 50+ million people and teams who trust Todoist as their second brain to organize work, life, and everything in between. Your notes, reminders, calendar events, and daily tasks finally have a simple planning center that's easy to use and impossible to outgrow.\n\n\u2013\nStart a 7-day Pro trial or 14-day Business trial today\n\u2013\n\n\u2192 Turn chaos into clarity.\nClarity doesn't come from bloated software with a bunch of bells and whistles; it comes from getting everything out of your head and into a tool that's simple to set up and easy to use. Todoist helps you organize what matters so you can focus on doing,",
+    "icon": "/icons/com.todoist.png"
+  },
+  "com.towerpop.omegaroyale": {
+    "title": "Omega Royale - Tower Defense",
+    "package": "com.towerpop.omegaroyale",
+    "description": "\ud83d\udd25 OMEGA ROYALE \u2013 THE ULTIMATE MERGE TOWER DEFENSE STRATEGY GAME! \ud83d\udd25\n\nAre you ready to command the battlefield and defend your kingdom like never before? Omega Royale brings an exciting twist to tower defense games, combining merge mechanics, real-time strategy, and PvP battles in a fast-paced, action-packed TD showdown!\n\nMerge towers, outthink your opponents, and become the ultimate tower defense champion! Build a powerful defense, unlock legendary towers, and climb the leaderboards in the most competitive strategy game on mobile!\n\n\ud83c\udff0 TOWER DEFENSE EVOLVED \u2013 MERGE, UPGRADE, CONQUER!\nClassic tower defense meets modern strategy in this innovative TD game where every decision matters! Defend against waves of enemies, compete against rival strategists, and merge towers to unlock incredible new a",
+    "icon": "/icons/com.towerpop.omegaroyale.png"
+  },
+  "com.transsion.phoenix": {
+    "title": "Phoenix - Fast & Safe",
+    "package": "com.transsion.phoenix",
+    "description": "Phoenix is a fast and safe web browser for your Android device, with main features like Downloading, News Browsing and Immersive Video Watching\n\n\u272aMain features\u272a\n\nPhoenix browser loads your webpages 2x faster, saves 90% of your data, and enables smooth browsing in a slow network. You can download all-format videos and social media content at a lightning speed.\n\n\u2605Fast Browsing and Downloads: Access websites, download multiple files (videos, audio, documents and more) with the speed of light. Download online videos easily from lots of websites: Facebook\u3001Instagram and etc.\n\n\u2605Smart Video Downloader and Video Player: Automatically detects videos from any website for you to download in one click. Optimized video player for the best watching experience.\n\n\u2605WhatsApp Status Saver plugin: Save your fr",
+    "icon": "/icons/com.transsion.phoenix.png"
+  },
+  "com.ttxapps.autosync": {
+    "title": "Autosync - File Sync & Backup",
+    "package": "com.ttxapps.autosync",
+    "description": "Please note: This is a trial version. When the trial period expires, you will be requested to purchase to continue using the app.\n\nAutosync is an automatic file sync and backup tool. You choose which folder in your device should be synced with which folder in your cloud storage account, and how. Autosync will then keep files in these two folders in sync with each other, automatically and without any additional efforts from the user.\n\nThe official cloud storage apps don't have automatic sync capabilities, or only to a very limited extent. The commonly offered automatic photo upload might suffice for simple photo backup but not for keeping photos on multiple devices synchronized. If you want automatic file sync between your device and your cloud storage, you need this app.\n\nAutosync can be c",
+    "icon": "/icons/com.ttxapps.autosync.png"
+  },
+  "com.ttxapps.onesyncv2": {
+    "title": "OneSync: Autosync for OneDrive",
+    "package": "com.ttxapps.onesyncv2",
+    "description": "This app is an automatic file sync and backup tool. It lets you automatically synchronize files and folders with Microsoft OneDrive cloud storage and with your other devices. It is an ideal tool for photo sync, document and file backup, automatic file transfer, automatic file sharing between devices,...\n\nNew files in your cloud account are automatically downloaded onto your device. New files in your device are uploaded. If you delete a file on one side, it will be deleted on the other side. It works across multiple devices (your phone and your tablet). If their folders are synced with the same cloud account, they will be kept in sync with each other.\n\nThis is how OneDrive works on computers but not on Android. Two-way automatic synchronization should be an essential function of the officia",
+    "icon": "/icons/com.ttxapps.onesyncv2.png"
+  },
+  "com.upephk.music.littlecomposer": {
+    "title": "\u5c0f\u5c0f\u4f5c\u66f2\u5bb6",
+    "package": "com.upephk.music.littlecomposer",
+    "description": "\"Little Composer\" is specially designed for primary school students. It allows children to create short songs or rhythm phrases step by step through clear, simple and easy-to-use composition software, and can export it into sound files or sheet music to share with others!",
+    "icon": "/icons/com.upephk.music.littlecomposer.jpg"
+  },
+  "com.usbank.mobilebanking": {
+    "title": "U.S. Bank Mobile Banking",
+    "package": "com.usbank.mobilebanking",
+    "description": "The award-winning (1) U.S. Bank Mobile App lets you manage your accounts, monitor cash flow, send money and much more, all in one app.\n\nSecurity at your fingertips\n\u2022 Log in with your credentials or enroll in digital services.\n\u2022 Be alerted to duplicate charges, suspicious activity, and low balances. \n\nManage accounts and cards\n\u2022 View accounts & balances in one spot: checking, savings, credit cards, loans, and more.\n\u2022 Securely access credit scores.\n\u2022 Set travel notifications, lock & unlock cards, and more.\n\u2022 Add cards to mobile wallet.\n\u2022 Select your language preference to English or Spanish.\n\nManage and move money easily\n\u2022 Send & request money with friends and family using Zelle\u00ae(2.)\n\u2022 Quickly deposit checks, now with increased limits.\n\u2022 Pay & manage bills in one spot.\n\u2022 Make transfers betwe",
+    "icon": "/icons/com.usbank.mobilebanking.png"
+  },
+  "com.vcqapp.dailyhabittracker": {
+    "title": "HabitAI: Daily Habit Tracker",
+    "package": "com.vcqapp.dailyhabittracker",
+    "description": "Transform your life with HabitAI - the ultimate daily habit tracker and goal planner.\n\nBuild habits that stick, compete with friends, and reach your goals with AI-powered coaching and seamless health integration. HabitAI makes self-improvement engaging, social, and entirely automated.\n\n\u2728 WHY HABITAI? HabitAI combines behavioral science with cutting-edge AI to help you become the best version of yourself. Whether you want to crush fitness goals, stay hydrated, or improve your sleep, HabitAI tracks your daily routine automatically so you can focus on the results.\n\n\ud83d\udcca SMART AUTO-TRACKING (Health Connect) Stop logging manually! HabitAI integrates with Google Health Connect to sync your activity in real-time. \u2022 Fitness: Auto-complete habits for Steps, Distance, and Active Calories. \u2022 Workouts: S",
+    "icon": "/icons/com.vcqapp.dailyhabittracker.jpg"
+  },
+  "com.visio.premium.iptv": {
+    "title": "Xtream Pro IPTV Player",
+    "package": "com.visio.premium.iptv",
+    "description": "Xtream Pro IPTV Player is the go-to media player for transforming your smartphone, tablet, or Android TV into an ultra-fast entertainment hub. Whether you have an Xtream Codes subscription or an M3U playlist, enjoy a smooth, uninterrupted, high-definition streaming experience.\n\nTHE ULTIMATE IPTV EXPERIENCE Why bother with slow players? Xtream Pro IPTV Player was developed with one priority: speed. Its premium interface and optimized playback engine guarantee instant loading of your favorite channels.\nKEY FEATURES:\n\n\u2705 Dual Source Support: Simplified connection via the Xtream Codes API and easy import of M3U links.\n\ud83d\udcfa Complete Entertainment: Intuitive navigation between Live TV, VOD (Movies), and Series.\n\ud83d\udcc1 Multi-Account (New): Save multiple subscriptions and switch between them without ever d",
+    "icon": "/icons/com.visio.premium.iptv.png"
+  },
+  "com.vladlee.easyblacklist": {
+    "title": "Calls Blacklist - Call Blocker",
+    "package": "com.vladlee.easyblacklist",
+    "description": "Tired of annoying calls? Calls Blacklist \u2013 Call Blocker helps you block unknown calls and private numbers with a blacklist. Help stop interruptions from robocalls, telemarketers, and spam calls with this call filter, and stay in control of who can reach you.\n\nNo account required. Simple and lightweight. Create prefix and pattern rules to block numbers, keep important callers in your whitelist, and schedule call blocking by time and day of the week. Use it as a spam call blocker by enabling blocking for unknown or private numbers and adding blacklist rules to keep your phone quiet.\n\nBLACKLIST:\n\u2022 Add unwanted numbers from your contacts or enter a number manually\n\u2022 Use a \"Begins with\" filter to block numbers that start with specific digits\n\u2022 Use a \"Contains\" filter rule to block numbers that ",
+    "icon": "/icons/com.vladlee.easyblacklist.png"
+  },
+  "com.wayfair.wayfair": {
+    "title": "Wayfair - Shop All Things Home",
+    "package": "com.wayfair.wayfair",
+    "description": "The Wayfair app is the easiest way to go after your home goals. Discover app-only deals and early access to sales so you\u2019ll always get our best prices. Plus, be the first to know about price drops on your favorite furniture, decor, and more.\n\nThe Wayfair app makes your shopping journey seamless from start to finish. Get inspired with just-for-you recommendations. Once you score something you love, get order updates and real-time delivery tracking in the palm of your hand.\n\nJust exploring? Use Lists to save, organize, and even share your favorite finds with friends and family when you need a second opinion.   \n\nAll the things you love about Wayfair\u2019s website are in the app, too! Scroll through tons of home picks for every style, space, and budget \u2013 so you can find the ones that are just rig",
+    "icon": "/icons/com.wayfair.wayfair.jpg"
+  },
+  "com.westman.tv.platform": {
+    "title": "WCG Connect TV",
+    "package": "com.westman.tv.platform",
+    "description": "About the WCG Connect TV App\nWCG Connect TV - Your Smart Entertainment Hub!\nUnlock a smarter way to watch TV! The WCG Connect TV app, exclusively for Westman Communications Group Digital TV and Internet subscribers, revolutionizes your entertainment experience by bringing everything together in one seamless platform.\nSay goodbye to app-switching! Dive into your WCG Live TV, explore a vast Video On Demand (VOD) library, and access your favourite streaming services \u2013 all within a single, intuitive interface.\nDiscover your next favorite show with:\n\u2022\tA.I. Powered Personalized Recommendations: Our intelligent system learns your viewing habits to suggest content you'll love, making discovery effortless.\n\u2022\tUniversal Search: Find anything across live TV, VOD, and streaming apps with a single searc",
+    "icon": "/icons/com.westman.tv.platform.png"
+  },
+  "com.xxsanguogg.yr_gg": {
+    "title": "\u5c0f\u5c0f\u4e09\u570b\u5fd7:\u66b4\u8d70\u7fa4\u96c4\u50b3",
+    "package": "com.xxsanguogg.yr_gg",
+    "description": "At the end of the Eastern Han Dynasty, warlords carved up the land, but this was more than just a struggle for territory among the Three Kingdoms. *Little Three Kingdoms: Rampage of Heroes* breaks away from the monotonous routines of traditional idle mobile games! Here, you'll find not only thrilling battles but also relaxing gameplay such as managing a medicine garden and military camps.\n\n\u3010Game Features\u3011\n\n\u25bc Fun Adventures, No More Boredom: Say goodbye to the tedious \"login and harvest\" routine. The game features various relaxing gameplay modes such as managing a medicine garden, military camps, and building your career. Tired of battle? Go harvest some resources\u2014relax, stress-free, and double the fun!\n\n\u25bc Seamless General Switching, Worry-Free Development: Want to train new cards but worri",
+    "icon": "/icons/com.xxsanguogg.yr_gg.png"
+  },
+  "com.zebra.printersetup": {
+    "title": "ZQ2 Zebra Printer Setup",
+    "package": "com.zebra.printersetup",
+    "description": "With Zebra\u2019s Printer Setup Utility, configuring your Zebra DNA printers to optimize performance is easy \u2013 no specialized knowledge required.   \n\nTo use, tap the printer you wish to configure. Your printer and device will instantly begin communicating via Bluetooth. Then follow the simple setup wizards that walk you through how to set specific printing parameters \u2013 such as calibration, media type, ribbon, printer language and print quality \u2013 to optimize performance. If your Android device does not support Tap and Pair via NFC, the app can discover your printer via Bluetooth and network, or connect to it via USB.\n\nWith the Security Assessment Wizard feature, assess your Zebra printer security posture, compare your settings against security best practices and make changes based on your condit",
+    "icon": "/icons/com.zebra.printersetup.png"
+  },
+  "com.zwh.gif.maker.app": {
+    "title": "Video to GIF & GIF Maker",
+    "package": "com.zwh.gif.maker.app",
+    "description": "Unleash your creativity with GIFLab, the all-in-one GIF maker and editor for Android! Convert any video or image into a high-quality animated GIF in seconds. Whether you're creating funny memes, reaction GIFs for social media, or professional animated clips, GIFLab has all the tools you need.\n\ud83c\udf1f KEY FEATURES \ud83c\udf1f\n\ud83c\udfa5 POWERFUL VIDEO TO GIF CONVERTER\nConvert video to GIF effortlessly. Turn your favorite moments from video clips (MP4, MOV, AVI, etc.) into smooth, animated GIFs.\nHD GIF Export: Create high-resolution GIFs without losing quality. Your creations will look sharp and vibrant.\nLoop Video: Make perfect looping GIFs for endless fun.\n\u2728 COMPREHENSIVE GIF EDITOR SUITE\nAdd Text to GIF: Easily add and customize text with colors and styles. Perfect for making memes and captions.\nGIF Speed Control",
+    "icon": "/icons/com.zwh.gif.maker.app.png"
+  },
+  "com.zzsjus.google": {
+    "title": "Legend of Elements",
+    "package": "com.zzsjus.google",
+    "description": "Ready to save the world, Elementalist?\nThe distant lands of the East have long been rich in three elements: wind, fire, and thunder... Yet a sudden elemental storm plunged all into chaos. Now demons and dragons wreak havoc\u2014and you must rise to be the savior of this world!\nAwaken your elemental powers, and embark upon a fantastic adventure like none other!\n\n[New Player Giveaway]\nJust log in to claim 1,000 draws, the Limited-Edition Spirit Panda [Bambam], the Supreme Sword, and a generous item pack: all for free! Start your elemental journey with a bang!\n\n[Wondrous Open-World Exploration]\nA seamless open world awaits. Explore wildernesses, mountain valleys, thick forests, and even sprawling oceans. Mysterious forces and unknown thrills lie around every corner. Search for ancient treasures, t",
+    "icon": "/icons/com.zzsjus.google.jpg"
+  },
+  "ht.nct": {
+    "title": "NCT - NhacCuaTui Nghe MP3",
+    "package": "ht.nct",
+    "description": "NCT - NhacCuaTui Nghe MP3 is the leading music streaming application in Vietnam, offering endless popular songs, albums, and playlists completely free.\n\nNCT provides a premium streaming and offline listening experience with millions of high-quality tracks from both Vietnamese and international artists (Pop, Hip Hop, Dance and Electronic, Blues, Indie and Alternative, Jazz, Rock, V-Pop, US-UK, K-Pop, C-Pop, J-Pop, Remix, Bolero, and Mixtapes). Our library is constantly updated and expertly curated by topic, mood, and genre to fit your every activity.\n\nImmerse yourself in the NCT NhacCuaTui experience:\n+ Ad-free listening: Enjoy your music without interruptions.\n+ Background Play: Keep the music going while using other apps.\n+ Music Trends: Explore NCT Charts and discover new releases across",
+    "icon": "/icons/ht.nct.png"
+  },
+  "jp.konami.duellinks": {
+    "title": "Yu-Gi-Oh! Duel Links",
+    "package": "jp.konami.duellinks",
+    "description": "\"Yu-Gi-Oh!\" is available on-the-go as a mobile app!\n\n\nBecome the best Duelist in the world!\nAnywhere, anytime! Prepare yourself for some sweet Duels!\n\n[ABOUT \"Yu-Gi-Oh! Duel Links\"]\n-Easy to learn rules and simple controls for beginners!\n-Don't worry if you are not sure how to use your cards. The game will indicate when you can activate your cards!\n-Among 3 million players who have participated in the past World Championships, even Duelists with only 3-6 months of Duel Links experience have also became a champion.\nDuel online and aim for the top of \"Yu-Gi-Oh! Duel Links\"!\n\n[FEATURES]\n\u30fbSupporting features for beginners\n-Even beginners can hone their skill by completing the in-game missions.\n-You can learn the basics of cards and Duel techniques from various features.\n\n\u30fbBeginner's Guide\n-Due",
+    "icon": "/icons/jp.konami.duellinks.webp"
+  },
+  "org.mozilla.fenix": {
+    "title": "Firefox Nightly for Developers",
+    "package": "org.mozilla.fenix",
+    "description": "Warning: Nightly is an unstable testing and development platform. By default, Firefox Nightly automatically sends data to Mozilla \u2014 and sometimes our partners \u2014 to help us handle problems and try ideas. Learn what is shared: https://www.mozilla.org/en-US/privacy/firefox/#pre-release\n\nFirefox Nightly gets updated every day and is designed to showcase the more experimental builds of Firefox. The Nightly channel allows users to experience the newest Firefox innovations in an unstable environment and provide feedback on features and performance to help determine what makes the final release.\n\nFound a bug? Report it at: https://bugzilla.mozilla.org/enter_bug.cgi?product=Fenix\n\nWant to know more about the permissions Firefox requests?: https://mzl.la/Permissions\n\nSee our list of supported device",
+    "icon": "/icons/org.mozilla.fenix.png"
   }
 }
