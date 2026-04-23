@@ -19115,11 +19115,6 @@
     "description": "Whether you\u2019re planning a future visit or already in the middle of your adventure, the Universal Orlando Resort App is the ultimate must-have. Tap in to purchase tickets, access planning tools, unlock exclusive experiences, book delicious dining reservations, and even order your favorite foods on the go!\n\nGet all of this and more in the palm of your hand with the Universal Orlando Resort App.\n\nAccess Your Universal Orlando Wallet: Link your tickets and add a payment method to ensure an even more seamless visit! For a contactless experience, you can access your tickets on the go and even assign specific tickets to people within your Travel Party.\n\nOrdering Food is Deliciously Easy: With Mobile Food & Drink Ordering, you can order ahead at select locations. That means less time waiting in li",
     "icon": "/icons/com.universalstudios.orlandoresort.png"
   },
-  "com.goodgamestudios.bitlife.fr.francais.simulation.de.vie": {
-    "title": "BitLife Fran\u00e7ais",
-    "package": "com.goodgamestudios.bitlife.fr.francais.simulation.de.vie",
-    "description": "BitLife FR: the official French version of BitLife!\n\nWhat life will you lead in BitLife?\n\nWill you strive to make all the right decisions in order to become a model citizen shortly before you pass away? You could marry the love of your life, have children, and get a good education along the way.\n\nOr, on the contrary, will your choices terrify your parents? Why not fall into a life of crime, fall in love, go on adventures, foment riots in prison, engage in smuggling, or even cheat on your spouse? It's up to you to choose your story...\n\nFind out how an accumulation of small choices can lead to your success in the life of the game.\n\nInteractive narrative games have been around for years. However, this is the first text-based life simulator that condenses and reproduces adult life!"
-  },
   "com.brochos.app": {
     "title": "Brochos - Jewish Blessings",
     "package": "com.brochos.app",
@@ -23399,5 +23394,211 @@
     "package": "com.coloros.alarmclock",
     "description": "The Clock app helps you manage your time with alarms, world clock, stopwatch, and timers. \n\n- You can customize alarm settings, including ringtones. \n- Add cities in different time zones to view local times at a glance. \n- The stopwatch helps you precisely measure time periods. \n- Preset timers for some daily tasks are provided. You can also create custom timers.",
     "icon": "/icons/com.coloros.alarmclock.png"
+  },
+  "com.monodivision.archivist": {
+    "title": "Archivist Browser",
+    "package": "com.monodivision.archivist",
+    "description": "Archivist Browser is the ultimate media player, transforming your device into a comprehensive portal for streaming content directly from the Internet Archive's vast collections. Built specifically for researchers and enthusiasts of historical media, our app provides the fastest, most reliable way to stream millions of films, audiobooks, music and digital texts.\n\nStop struggling with browser playback. Download Archivist Browser and experience the past, optimised for seamless, modern streaming.\n\nWhat the Critics Say\n\"A really cool piece of software... I've never seen anything like this before... Highly recommend.\" \u2014 WILL SMITH, BRAD AND WILL MADE A TECH POD\n\n\"A great idea for a very niche utility \u2013 my favourite kind these days.\" \u2014 FEDERICO VITICCI, MACSTORIES\n\nAs featured in Cory Doctorow's ",
+    "icon": "/icons/com.monodivision.archivist.png"
+  },
+  "com.davivienda.daviplataapp": {
+    "title": "DaviPlata",
+    "package": "com.davivienda.daviplataapp",
+    "description": "DaviPlata is the easy, fast, and secure way for you to manage your money from your cell phone.\n\nWithout paying anything, without having to have accounts at other banks, without signing anything, or paperwork, our app will allow you to:\n\n-Transfer money to DaviPlata, to other wallets, and to savings or checking accounts at Davivienda or any other bank.\n-Receive and transfer money to other banks instantly using keys with Bre-B.\n-Buy movie tickets and top up betting accounts from our Online Store.\n-Deposit money from Davivienda accounts and other banks through PSE (Spanish Social Security System).\n-Receive national and international money transfers.\n-Top up your cell phone with minutes or data packages for operators such as Claro, Movistar, Tigo, WOM, ETB, Virgin, and Exito.\n-Pay your public ",
+    "icon": "/icons/com.davivienda.daviplataapp.png"
+  },
+  "com.klevico.monet": {
+    "title": "com.klevico.monet",
+    "package": "com.klevico.monet"
+  },
+  "com.ayushlabs.blipapp": {
+    "title": "Blip AI",
+    "package": "com.ayushlabs.blipapp",
+    "description": "Blip AI is an intuitive and powerful audio-first note-taking application designed to transform how you capture, organize, and revisit your thoughts. Seamlessly record audio, which is then intelligently transcribed into text, allowing you to focus on the conversation or lecture without the distraction of typing.                                                              \n                                                                                                                               \n - Effortless Audio Recording: Capture high-quality audio with a single tap, perfect for meetings, lectures, interviews, or personal reflections.   \n                                                                                                     \n - Intelligent AI Transcription: BlipAI automa",
+    "icon": "/icons/com.ayushlabs.blipapp.png"
+  },
+  "com.adobe.scan.android": {
+    "title": "Adobe Scan AI PDF Scanner, OCR",
+    "package": "com.adobe.scan.android",
+    "description": "The document scanner app in your pocket.\nAdobe Scan is free to download and turns your mobile device into a powerful document scanner app and PDF maker that helps you save and organize your paper documents as digital files.\n\n6 WAYS TO USE ADOBE SCAN\n1) Save time with a fast document scanner app: Use High-speed scan to bulk scan documents and turn stacks into PDFs in seconds.\n\n2) Make a PDF with your phone: Convert paper documents or printed photos into PDFs or JPEGs with the mobile PDF and photo scanner app.\n\n3) Ask AI Assistant to pull the key points from any scan, get follow-up answers or draft emails, reports, and next steps from your scan.\n\n4) Use Generative summary: One tap pulls the key points from any scan, so you can find what matters and summarize your docs in a tap with AI.\n\n5) T",
+    "icon": "/icons/com.adobe.scan.android.png"
+  },
+  "com.adobe.photoshop.retail": {
+    "title": "Adobe Photoshop: Photo Editor",
+    "package": "com.adobe.photoshop.retail",
+    "description": "Photoshop on mobile is an image editor app with a wide selection of free photo editing tools. Whether you are just getting started or already know Photoshop, it's easier than ever to transform a single photo or blend multiple images into a cohesive design.   \n\nWhat can Photoshop on mobile do?\n\u2981\tAdd new objects with AI\n\u2981\tBlur or remove backgrounds\n\u2981\tReplace backgrounds and remove unwanted objects\n\u2981\tRetouch, refine, and perfect your images with targeted adjustments\n\u2981\tCombine multiple images to create high-quality compositions \n\u2981\tMake collages, album cover art, perfect your passion projects, and develop unique digital art\n \nHow to remove or replace backgrounds with Photoshop?\n\u2981\tSelect the backgrounds with the Tap Select tool.\n\u2981\tRemove backgrounds or replace them with another image, create AI-",
+    "icon": "/icons/com.adobe.photoshop.retail.png"
+  },
+  "com.adobe.psmobile": {
+    "title": "Photoshop Express Photo Editor",
+    "package": "com.adobe.psmobile",
+    "description": "PHOTO EDITING MADE FUN AND EASY\n\nTap into your creativity and capture the moment with a photo editor made for fun, fast, and easy one-tap photo edits. Trusted by millions, Photoshop Express is the picture editor perfect for turning creative ideas into reality. Add text to photos, touch up a selfie, and make pre-post edits using social media templates. Create a collage of your favorite memories, remove objects and replace backgrounds with AI, apply vibrant beauty filters and stickers, or match your aesthetic with nostalgic or vintage camera effects. With Photoshop Express, you get a state-of-the-art AI image generator, easy-to-use collage maker, and an airbrush face editor in one app.\n\nGet a photo editor app with airbrush tools to remove blemishes, filters to match any aesthetic, and an eas",
+    "icon": "/icons/com.adobe.psmobile.png"
+  },
+  "com.zacksong.archivedive": {
+    "title": "Archive Dive",
+    "package": "com.zacksong.archivedive",
+    "description": "Doomscroll the Archive.\n\nArchive Dive is a unique streaming experience that brings the vast and eccentric collection of the Internet Archive to your mobile device in a modern, vertical feed.\n\nPrivacy Focused: No tracking, no addictive psychological algorithms harvesting your data.\n\n3 WAYS TO DIVE\nForget the algorithm updates and trending dances. Archive Dive connects you directly with a universe of media across three dedicated modes:\n\n\ud83d\udcfa Video Feed: Swipe through a bottomless pit of content. Watch classic childhood cartoons, forgotten TV shows, movies, indie films, bizarre ephemeral footage & more.\n\ud83c\udfb5 Audio Feed: Discover underground mixtapes, live concerts, old-time radio broadcasts, and vintage vinyls with a built-in audio player that keeps playing in the background.\n\ud83d\udcd6 Documents Feed: Brow",
+    "icon": "/icons/com.zacksong.archivedive.jpg"
+  },
+  "com.napsternetlabs.napsternetv": {
+    "title": "Npv Tunnel V2ray/SSH",
+    "package": "com.napsternetlabs.napsternetv",
+    "description": "Npv Tunnel is a V2ray and SSH VPN client tool to browse the internet privately, securely and circumvent internet censorship.\n\nIt supports V2ray protocols vless, vmess, shadowsocks, trojan and socks. It also supports SSH and the subsquent subprotocols like dnstt, payload etc\n\nPrivacy policy - https://napsternetv.vonmatrix.com/privacy-policy.html\nTelegram support group - https://t.me/napsternetv\nTelegram channel - https://t.me/npvchannel",
+    "icon": "/icons/com.napsternetlabs.napsternetv.png"
+  },
+  "com.sika777.slot.casino": {
+    "title": "com.sika777.slot.casino",
+    "package": "com.sika777.slot.casino"
+  },
+  "com.huuuge.casino.slots": {
+    "title": "Huuuge Casino 777 Slots Games",
+    "package": "com.huuuge.casino.slots",
+    "description": "Slots games & 777 slot machines\nSocial casino destination for players who love free slots, 777 slot machines, and exciting casino games. Dive into one of the biggest collections of Vegas-style slot games and experience the thrill of spinning anytime, anywhere.\n\nEnjoy classic 777 slots, fruit machines, jackpot slots, and casino favorites inspired by real Las Vegas casinos. Whether you love Bars & Sevens, Diamond slots, Buffalo-style slot machines, or epic jackpot wins, Huuuge Casino has something for every slot fan.\n\n\ud83c\udfb0 250+ free slots, Vegas slots & jackpot slot games\nPlay over 250 free slot machines. From timeless 777 slots to modern, high-energy jackpot slots. Discover player favorites like:\n- Bars & Sevens\n- Diamonds\n- Sevens of Fortune\n- Fruits & Classic 777 machines\n- Triple Chance Jac",
+    "icon": "/icons/com.huuuge.casino.slots.webp"
+  },
+  "com.slotslimited.superstar": {
+    "title": "777 Casino \u2013 vegas slots games",
+    "package": "com.slotslimited.superstar",
+    "description": "The Best New Casino Slots of 2018! True enjoyment coupled with authentic Vegas thrills\nInstall 777 Casino today, choose your favorite online casino slot machine and let the winning begin!\n\nOur breathtaking selection of classic slot machines includes: Diamond Dream, Mighty Zeus, the Wizard of Oz, the 777 bank, Double Diamond Wheel, Buffalo Blitz and many more!\nAnd we are always bringing new slot games and new features to the floor. Stay tuned for the latest slots straight from Vegas!\n\n777 Casino at the tip of your fingers, with amazing features: \n* Daily FREE COINS bonus every hour\n* Thrilling casino slot machine gameplay-locked wild reels, bonus games, super bonus games, free spins, huuuge Jackpot etc.\n* Authentic slot machines designed by the REAL Casino mathematicians!\n* Dazzling graphic",
+    "icon": "/icons/com.slotslimited.superstar.png"
+  },
+  "com.slotslimited.fatcatcasino.android": {
+    "title": "Slots Slots\u2122: 777 Casino Games",
+    "package": "com.slotslimited.fatcatcasino.android",
+    "description": "The Hottest Vegas Slots Game You Can't Miss in 2026!\nLooking for real Vegas slots games with huge jackpots, big rewards and nonstop free bonuses? Your search ends here!\n\nStart strong with 2,000,000 free coins just for downloading our jackpot slots game! No sign-up needed - just spin and win instantly.\n\nThis casino slots game is packed with tons of new free slots games, updated weekly, and a wide variety of slots casino games! Whether you love classic slot machine games or enjoy playing themed free slots games, Slots Slots\u2122 is your ultimate destination for endless casino game fun!\n\nEnjoy a wide variety of thrilling jackpot slots and premium casino slots games, with a catalog that\u2019s constantly updated with exciting new slot machines. Spin top fan favorites like CATS, Rhino Stampede, and Egyp",
+    "icon": "/icons/com.slotslimited.fatcatcasino.android.jpg"
+  },
+  "com.hncgames.realcasino": {
+    "title": "777 Real Vegas Casino Slots",
+    "package": "com.hncgames.realcasino",
+    "description": "777 Real Vegas Casino Slots is an online social casino game.\n\nWe specialize in thrilling and enjoyable slots.\nYou can now enjoy exciting real vegas slots at home and on your mobile device.\n\nCome & Spin! REAL CASINO gives you extraordinary Vegas experiences.\n\u2022 FREE coins & gifts every days!\n\u2022 All Games are OPEN TO ALL, NO LOCKS!\n\u2022 Play our exclusive slots full of huge jackpots & big wins!\n\u2022 REAL CASINO is the only place you can feel the Real Vegas!\n\nSTART playing now with HUGE welcome BONUSES!\n\nFanpage = https://www.facebook.com/realvegascasinoslot/\n\n\u2022This game is only intended for adult audiences.\n\u2022No Real Money Prizes can be won. \n\u2022No Cash out. This is not Gambling.",
+    "icon": "/icons/com.hncgames.realcasino.png"
+  },
+  "com.aaagame.slots777": {
+    "title": "777 Slots - Vegas Casino Slot!",
+    "package": "com.aaagame.slots777",
+    "description": "PLAY 777 Slots - the best FREE LAS VEGAS SLOTS in the Google Play! Over 70 awesome Vegas slots machines, with huge JACKPOTS, non-stop BONUSES, and much much more.\n\nDOWNLOAD THE FREE 777 Slots NOW TO EXPERIENCE AMAZING VEGAS SLOTS FEATURES:\n-\tStart rich \u2013 begin with 10,000 FREE COINS and get more free from Daily Casino Bonuses and other Bonus Games\n-\tHuge payouts, dozens of DOUBLE BONUSES and many ways to win the VEGAS CASINO JACKPOT\n-\t70+ free Vegas slots machines you love: Fire 777 Re-spin, The Bank 777, Golden 777, Sliding 777 and Multiply 777 Re-spin, etc.\n-\tFree daily spin & free bonuses EVERY HOUR means you always have chance to WIN BIG in 777 Slots\n-\tHuge variety of amazing scatter games, feel the thrill of a LAS VEGAS CASINO wherever you are\n-\tStunning Vegas slots graphics! Experien",
+    "icon": "/icons/com.aaagame.slots777.png"
+  },
+  "com.cinfedcu.cinfedcu": {
+    "title": "CinfedCU Mobile Banking",
+    "package": "com.cinfedcu.cinfedcu",
+    "description": "Cinfed Credit Union\u2019s Mobile Banking gives you secure and convenient account access, 24/7. Check account balances, transfer funds, make bill payments, and much more straight from your iPhone or iPad/Android device.\nFeatures:\n\u2022\tView balances & transaction history for checking, savings, mortgage loans, and credit card accounts\n\u2022\tTransfer funds between your Cinfed accounts\n\u2022\tMake bill payments to established payees \n\u2022\tDeposit checks straight from your smartphone\n\u2022\tManage and lock/unlock your Cinfed Debit/Credit Card(s)\n\u2022\tFind the nearest Cinfed Credit Union branch or ATM\n\n\nDirections:\nIf you are already enrolled in Cinfed Online Banking, use this information to sign into Mobile Banking. Cinfed Credit Union does not charge a fee for the use of our mobile banking service. Depending upon your se",
+    "icon": "/icons/com.cinfedcu.cinfedcu.png"
+  },
+  "com.vermontfcu.vermontfcu": {
+    "title": "Vermont Fed CU Mobile Banking",
+    "package": "com.vermontfcu.vermontfcu",
+    "description": "Mobile Banking with Vermont Federal\nCheck your balances, view transactions, transfer\nfunds, pay bills, and view and activate your cash back \noffers from your mobile phone.\n\nTo learn more how we protect your privacy, please visit\nhttps://www.vermontfederal.org",
+    "icon": "/icons/com.vermontfcu.vermontfcu.png"
+  },
+  "com.ifs.banking.fiid3621": {
+    "title": "Neches FCU",
+    "package": "com.ifs.banking.fiid3621",
+    "description": "Neches FCU mobile banking app allows you to check balances, search for ATMs, view transaction history, transfer funds, pay bills, view and activate your cash back offers, and pay loans on the go. Wear OS also available.\n\n\nTo learn how we protect your privacy, please visit https://www.nechesfcu.org/privacy-policy.html",
+    "icon": "/icons/com.ifs.banking.fiid3621.png"
+  },
+  "org.penfed.mobile.banking": {
+    "title": "PenFed",
+    "package": "org.penfed.mobile.banking",
+    "description": "Wherever you go, take PenFed with you!\n \nThe PenFed Mobile banking app provides around-the-clock access to your PenFed accounts. Get transaction details, transfer balances, track loan application status, and much more! Deposit checks quickly and easily with your smartphone or tablet.\n \nNeed an ATM? The app will help you find one. Forgot to set a travel notification for your PenFed credit card? Do it right in the app -- from anywhere. Want to buy a home? Don't miss our exclusive real estate rewards and other current offers.\n \nWith lightning-fast, 24/7 access, PenFed Mobile puts the power of your credit union right where it belongs\u2026 on your favorite mobile device.",
+    "icon": "/icons/org.penfed.mobile.banking.webp"
+  },
+  "com.fedmobile": {
+    "title": "Federal Bank - FedMobile",
+    "package": "com.fedmobile",
+    "description": "This revamped version of FedMobile\u2013 Federal Bank\u2019s highly popular mobile banking application - comes with more user-friendly and advanced features than its predecessor, ensuring a richer and more pleasant experience for its users. We have combined Mobile Banking, FedBook and BHIM UPI into a single application plus a whole host of new features and services to make it a one stop shop for all your banking needs. \n\nEnriched with new banking and payment features, this version of the app is a complete package, which enables users to access and manage their accounts from anywhere, anytime; it enables the user to undertake \u2013 banking as well as non-banking transactions. \n\nSpecific features include  \n\nRecharge & Bill Payments: Our recharge and bill payment sections allow you to do mobile/DTH/Fastag ",
+    "icon": "/icons/com.fedmobile.png"
+  },
+  "com.burockgames.timeclocker": {
+    "title": "StayFree - Screen Time",
+    "package": "com.burockgames.timeclocker",
+    "description": "StayFree - Screen Time & Limit App Usage is THE companion on your journey towards productivity and self control. Whether you are a light phone user just looking for some interesting stats or a heavy phone user that is looking to break phone addiction, EVERYONE can benefit from understanding their screen time and digital wellbeing. \n\nStayFree, by Sensor Tower, can help you block apps and set thoughtful limits on your usage; schedule time away from your phone throughout the day; view simple breakdowns of your usage history to get a base understanding of how you use your phone; and explore detailed usage patterns to dive deep and unlock your full productivity potential.\n\n\u2726 What makes StayFree special? \n\n\u2714 We are the highest rated screen time, app blocker, and self control app\n\u2714 View and analy",
+    "icon": "/icons/com.burockgames.timeclocker.png"
+  },
+  "cz.mobilesoft.appblock": {
+    "title": "AppBlock - Block Apps & Sites",
+    "package": "cz.mobilesoft.appblock",
+    "description": "Block Apps, Websites & Social Media to stay focused on important things!\n\nAppBlock is a must-have screen time management tool that helps you block apps, websites and social media, keeping you focused on what matters most. Take charge of your day by controlling your screen time with just a click. Discover why our web and app blocker has over 10,000,000+ success stories!\n\nLimit your screen time, achieve digital wellbeing!\n\nWith AppBlock, an enhanced app blocker and website blocker, you can reduce distractions, limit screen time and gain self-control. Whether you want to be more productive, study more effectively or do a digital detox, our app blocker has you covered. Say goodbye to distractions and embrace productivity with our powerful screen time management and app blocker tool!\n\nBenefits ",
+    "icon": "/icons/cz.mobilesoft.appblock.png"
+  },
+  "com.stayfocused": {
+    "title": "Stay Focused: Site/App Blocker",
+    "package": "com.stayfocused",
+    "description": "Unlock your peak productivity and regain control over your digital life with Stay Focused: App Blocker \u2013 the ultimate solution for screen time management and self-control. Designed to be your personal app blocker, website blocker, and screen time tracker, Stay Focused empowers you to limit distractions and achieve your goals with ease.\n\nNow with Adult Content Blocker and Shorts & Reels Blocker to stop harmful content and addictive feeds across apps.\n\nBenefits of Stay Focused\n\ud83d\udcc9 32% Less Screen Time \u2013 Cut down screen time in just one week with the screen time tracker and app blocker.\n\u23f3 Save 2+ Hours Daily \u2013 95% of users block distractions with the website blocker and gain back precious time.\n\ud83d\ude80 60% Less Screen Time \u2013 94% of strict mode users boost productivity by using the app blocker and web",
+    "icon": "/icons/com.stayfocused.png"
+  },
+  "com.teqtic.lockmeout": {
+    "title": "Lock Me Out - App/Site Blocker",
+    "package": "com.teqtic.lockmeout",
+    "description": "Can't put your phone down? Lock Me Out is a powerful and feature rich app blocker that locks you out of your chosen apps and websites when you would rather be doing something else.\n \nPlease check www.dontkillmyapp.com to ensure Lock Me Out is able to run in the background on your device!\nBrief Overview (detailed overview below)\n\u2022 Block chosen apps, allow chosen apps, or allow lock-screen only\n\u2022 Block or allow chosen websites\n\u2022 Password protection for entry, uninstall, and tampering\n\u2022 Automatic lockouts based on usage: time in apps, # app opens, # device unlocks\n\u2022 Only lock at chosen locations\n\u2022 Hide notifications from blocked apps\n\u2022 Turn on DND/silence ringer during lockouts\n\u2022 Works in split screen, picture-in-picture, and Samsung's pop-up views\n\u2022 Temporary emergency access\n\u2022 View usage st",
+    "icon": "/icons/com.teqtic.lockmeout.webp"
+  },
+  "com.wverlaek.block": {
+    "title": "Block - App & Site Blocker",
+    "package": "com.wverlaek.block",
+    "description": "\ud83d\udd12 Block apps and websites at specific times during the week.\n\ud83d\udcc8 View your phone usage, and take control of your time.\n\u23f3 Limit app and website usage. Set hourly or daily usage limits.\n\ud83d\udcca Get weekly usage reports. View trends in your digital wellbeing.\n\ud83d\udc6e\u200d\u2642\ufe0f Strict blocking: can be enabled to become even more productive.\n\n\ud83d\udcaa Boost your productivity, stay focused, and improve your digital wellbeing!\nBlock is an easy-to-use Android application that improves your self-control by blocking or limiting your app usage and giving you insight into how your time is spent on your phone. Whether you need to focus on your \ud83c\udf93 study, don't want to get distracted at \ud83d\udcbc work, can't go to \ud83d\udecc sleep at night, or want to be more \ud83d\udc65 social, this app can help you out.\n\n\n\ud83d\udd53 BLOCK SPECIFIC APPS AT SPECIFIC TIMES\nSelect a gro",
+    "icon": "/icons/com.wverlaek.block.png"
+  },
+  "com.ktwapps.walletmanager": {
+    "title": "Money Manager: Expense Tracker",
+    "package": "com.ktwapps.walletmanager",
+    "description": "Do you often lose track of your spending or wonder where your money goes every month? Money Manager is a money management app designed to give you clarity and control. With this expense tracker and budget planner, you can record daily financial activities, separate personal and work accounts, and monitor multiple wallets such as cash, cards, and bank accounts. The app provides clear insights into your finances, making it easier to control spending, save money, and reach your financial goals.\n\n\ud83d\udca1 Why use a money management app?\n\nManaging money can be challenging. Small spending add up, bills are easy to forget, without a clear record, it\u2019s difficult to know how much you really spend. Spreadsheets and notebooks work for some, but they take time and discipline.\n\nA spending tracker app like Mon",
+    "icon": "/icons/com.ktwapps.walletmanager.png"
+  },
+  "com.realbyteapps.moneya": {
+    "title": "Money Manager (Remove Ads)",
+    "package": "com.realbyteapps.moneya",
+    "description": "\u201cMoney Manager\u201d is an optimized application for personal asset management. \n\n\u203b PC manager function \nYou can view \u2018\u201cMoney Manager\u201d application using Wi-Fi. You can edit and sort the data by date, category or account group on the screen of your PC. In addition, you can see fluctuations in your accounts indicated on graphs on your PC. \n\n\u203b Applying double entry bookkeeping \nIt facilitates efficient asset management. It does not just record your money coming in and out of your account but deposits your money into your account as soon as your income is input and draws money from your account as soon as your expense is input.\n\n\u203b Budget management function \nYou can manage your budget. It shows your budget and expense by a graph so you can see the amount of your expense against your budget quickly.",
+    "icon": "/icons/com.realbyteapps.moneya.png"
+  },
+  "com.droid4you.application.wallet": {
+    "title": "Wallet: Budget Expense Tracker",
+    "package": "com.droid4you.application.wallet",
+    "description": "Wallet is the all-in-one personal finance manager built to help you save money and plan for the future. Connect your bank accounts to track expenses automatically and know where every dollar is going. Dive into in-depth reports on your spending and cash flow to help you effectively manage your money.\n\nWallet allows you to see your finances your way: anywhere, any time.\n \nKey Features \n\n\ud83d\udd17 Connect accounts and manage all things finance in one comprehensive dashboard\n\n\ud83d\udcb0 Take control of your money with custom budgets\n\n\ud83d\udc40 Keep track of your monthly bills and subscriptions \n\n\ud83d\udcca Monitor your cash flow and balance trend\n \n\ud83d\udcc8 Track stocks alongside your other accounts\n\n\ud83d\udcb8 Manage savings to plan for your future\n\n\ud83d\udd2e Get Insightful reports and financial tips\n\n\ud83d\udd79 Customize your dashboard to see what matters ",
+    "icon": "/icons/com.droid4you.application.wallet.png"
+  },
+  "com.realbyteapps.moneymanagerfree": {
+    "title": "Money Manager Expense & Budget",
+    "package": "com.realbyteapps.moneymanagerfree",
+    "description": "Money Manager - the #1 financial planning, review, expense tracking, and personal asset management app for Android!\n\nMoney Manager makes managing personal finances as easy as pie! Now easily record your personal and business financial transactions, generate spending reports, review your daily, weekly and monthly financial data and manage your assets with Money Manager's spending tracker and budget planner.\n\n* Applying double entry bookkeeping accounting system\nMoney Manager facilitates efficient asset management and accounting. It does not just record your money coming in and out of your account but deposits your money into your account as soon as your income is input and draws money from your account as soon as your expense is input.\n\n* Budget and expense management function \nMoney Manage",
+    "icon": "/icons/com.realbyteapps.moneymanagerfree.png"
+  },
+  "com.freeman.moneymanager": {
+    "title": "Money Tracker-Expense & Budget",
+    "package": "com.freeman.moneymanager",
+    "description": "Save money effortlessly! \n\nMoney Tracker is a FREE expense tracker and budgeting app, designed to be the most user-friendly and effective tool on the market. It helps you track spending, save money, plan for the future, and consolidate all your finances in one place.\n\nMoney Tracker simplifies finance management! Easily record personal and business transactions, generate spending reports, review daily, weekly, and monthly financial data, and manage your assets using Money Tracker's spending tracker and budget planner.\n\nDiscover what sets Money Tracker apart:\n\n\ud83d\udc49 Streamline Your Finances with Our Intuitive Accounting Software\nDiscover the ultimate simplicity in managing your finances with our intuitive accounting software. Designed to streamline your financial tracking experience, our softwar",
+    "icon": "/icons/com.freeman.moneymanager.png"
+  },
+  "com.ratel.subcap": {
+    "title": "Captions for Videos - SUBCAP",
+    "package": "com.ratel.subcap",
+    "description": "Subcap: Auto Subtitles & Video Captions\nLooking to make your videos STAND OUT and REACH MORE PEOPLE? Subcap is the ultimate AI-powered app for creating captions and subtitles effortlessly. Whether you're a content creator, business owner, or just sharing moments with friends, Subcap helps you ENGAGE your audience and make your videos ACCESSIBLE to everyone.\n\nWHY SUBTITLES MATTER\n85% of viewers watch videos WITHOUT SOUND\u2014captions keep them hooked.\nSubtitled videos get 35% MORE ENGAGEMENT on social media.\nCaptions make your content INCLUSIVE for 466 million people with hearing impairments.\n\nKEY FEATURES\n* AUTO SUBTITLES: Let AI do the work! Generate accurate captions in seconds.\n* TRANSLATE CAPTIONS: Break language barriers with support for 125+ LANGUAGES.\n* UPLOAD CUSTOM FONTS: Use your own",
+    "icon": "/icons/com.ratel.subcap.webp"
+  },
+  "com.pixsterstudio.captions": {
+    "title": "Captions AI: Videos Subtitles",
+    "package": "com.pixsterstudio.captions",
+    "description": "\ud83d\ude80 AI Video Editor with Auto AI Captions & Subtitles \u2013 The AI Tool for Social Media Creators & Influencers! \ud83c\udfa5\u2728\n\nWant to create professional-quality videos with captions and subtitles in just a few taps? This AI-powered video editor makes it easy to edit videos, generate auto captions & add subtitles effortlessly. Whether you're making for Instagram Reels captions, TikTok videos, YouTube Shorts, or vlogs, this app ensures perfectly synced captions & subtitles to enhance engagement.\n\n\ud83c\udf1f Key Features:\n\n\ud83c\udfac AI Video Editor \u2013 Powerful video editing tools to trim, cut, merge & enhance videos.\n\n\ud83d\udcac AI Captions & Subtitles \u2013 Auto-generate captions & subtitles with Caption AI speech recognition.\n\n\ud83d\udcdd Reels & Video Captions \u2013 Create stylish captions & subtitles for social media videos.\n\n\ud83c\udfa5 Teleprompter for V",
+    "icon": "/icons/com.pixsterstudio.captions.png"
+  },
+  "com.vistring.blink.android": {
+    "title": "Vozo AI Video Translator & Dub",
+    "package": "com.vistring.blink.android",
+    "description": "Leveraging the power of AI, Vozo AI Video Creator (formerly Blink Captions) combines AI video generator, AI photo generator, and AI avatar video generator features \u2014 enabling you to generate, edit, and translate talking videos with 200+ auto-caption styles, AI script writing, teleprompter, and translation tools. Create stunning videos 10\u00d7 easier!\nVozo AI is perfect for YouTube creators, TikTok creators, educators, and content teams who want to reach global audiences.\nAI Video Translator & Dub\nTranslate and dub videos into multiple languages instantly.\nWith Vozo AI you can:\n- Translate video subtitles automatically\n- Dub videos into other languages\n- Translate YouTube videos for global audiences\n- Export videos with translated captions\n  \nVozo AI supports 118 languages and dialects, helping",
+    "icon": "/icons/com.vistring.blink.android.png"
+  },
+  "com.nocap.captions": {
+    "title": "Captions Lite",
+    "package": "com.nocap.captions",
+    "description": "The Captions Lite app, built by MIRAGE\u2122, is an AI video editor that makes it easy to create talking videos. It\u2019s designed for creators and small businesses\u2014no professional editor or special skills required. \n\nUse Captions Lite\u2019s editing tools to make your videos ready for social platforms. Create accessible videos fast, with auto-generated captions, dubbing, and subtitles. You can choose from a range of languages to make as many versions as you need. \n\nCAPTIONS AND DUBBING \n-AI Captions: Automatically generate accurate captions or subtitles in 100+ languages. You can choose specific fonts or colors, too.\n-AI Dubbing: Dub your content into 29 languages, with just a tap of a button.\n\nAI EDITING TOOLS \n- AI Eye Contact: Correct your eye contact to adjust the original recording. \n- AI Zoom: Au",
+    "icon": "/icons/com.nocap.captions.png"
+  },
+  "com.captionsai": {
+    "title": "Dubs: Captions for Videos",
+    "package": "com.captionsai",
+    "description": "Introducing Subtitles: Your Ultimate Video Captions Solution!\n\nAre you looking for an efficient way to enhance your video content with captions? Look no further than Subtitles! Our feature-packed subtitle editor and generator will revolutionize your video captioning experience. Whether you're a content creator, marketer, or simply want to make your videos more accessible, Subtitles has got you covered.\n\nKey Features:\n\n\u2728AI-Driven Capabilities:\nAuto Subtitles: Let our cutting-edge AI handle the captioning, saving you time and ensuring accuracy.\nSubtitles AI: Benefit from our artificial intelligence for precision in every caption.\nAuto Caption: Our AI seamlessly takes care of the entire captioning process.\n\n\u2728Subtitle Creation & Customization:\nSubtitle Editor: Design and fine-tune subtitles in",
+    "icon": "/icons/com.captionsai.png"
   }
 }
