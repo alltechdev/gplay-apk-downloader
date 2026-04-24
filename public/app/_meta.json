@@ -23779,5 +23779,681 @@
     "package": "com.keep.mykeepapp",
     "description": "Keep: The Future of Authentic Connections.\n\nIn a world where we paradoxically feel both constantly connected and often isolated, the greatest luxury isn't the number of contacts you have, but the depth of your connections. We're driven by the fear of neglecting the truly important people and moments. Daily routines often let the nurturing of real relationships become an unintentional oversight.\n\n\n\nThis is where Keep steps in.\n\nKeep isn't just an app \u2013 it's your personal relationship coach, bridging the gap between your desire for deep connections and the reality of a busy life. We developed Keep because we know that nurturing your most important relationships shouldn't feel like a chore, but rather an enrichment.\n\n---\n\nKeep: How We Transform Your Life and Relationships\n\n\n    End the Guilt:",
     "icon": "/icons/com.keep.mykeepapp.png"
+  },
+  "com.x8bit.bitwarden": {
+    "title": "Bitwarden Password Manager",
+    "package": "com.x8bit.bitwarden",
+    "description": "Recognized as best password manager by PCMag, WIRED, The Verge, CNET, G2, and more!\n\nSECURE YOUR DIGITAL LIFE\nSecure your digital life and protect against data breaches by generating and saving unique, strong passwords for every account. Maintain everything in an end-to-end encrypted password vault that only you can access.\n\nACCESS YOUR DATA, ANYWHERE, ANYTIME, ON ANY DEVICE\nEasily manage, store, secure, and share unlimited passwords and passkeys across unlimited devices without restrictions.\n\nUSE PASSKEYS WHEREVER YOU LOG IN\nCreate, store, and sync passkeys across the Bitwarden mobile app and browser extensions for a secure, passwordless experience no matter what device you're on.\n\nEVERYONE SHOULD HAVE THE TOOLS TO STAY SAFE ONLINE\nUtilize Bitwarden for free with no ads and or selling dat",
+    "icon": "/icons/com.x8bit.bitwarden.png"
+  },
+  "com.mysugr.android.companion": {
+    "title": "mySugr - Diabetes Tracker Log",
+    "package": "com.mysugr.android.companion",
+    "description": "Get help with managing your diabetes, it's quick and easy!\n\nRanked the Top Diabetes App by Healthline 3 times. Featured in Forbes, TechCrunch, and The Washington Post.\n\nAdding the mySugr app to your daily routine with diabetes (Type 1, Type 2, or Gestational diabetes) will make your life easier. \n\nThe mySugr diabetes app is your loyal and free diabetes logbook, which keeps your diabetes data under control. With one app you'll have:\n\n\u2022 Easy and personalised dashboard (diet, meds, carb intake, blood glucose levels and more).\n\u2022 Insulin/Bolus calculator with precise insulin dose recommendations (Limited to some countries using mySugr PRO).\n\u2022 See clear blood sugar level graphs.\n\u2022 Diabetes Management Indicator (DMI) at a glance, no more surprises.\n\u2022 Daily, weekly, and monthly reports, that you c",
+    "icon": "/icons/com.mysugr.android.companion.png"
+  },
+  "com.haramblur": {
+    "title": "HaramBlur",
+    "package": "com.haramblur",
+    "description": "HaramBlur is your AI-powered shield against Haram and NSFW images and videos on your phone.\nIt automatically detects and blurs inappropriate content in your favorite social media and browsing apps, helping you protect your gaze and stay focused on what matters.\n\nAll analysis happens locally on your device \u2014 nothing is sent to external servers, and your personal content is never stored or tracked.\n\nWhat HaramBlur does:\n\n\ud83d\uddbc\ufe0f Blurs images that contain Haram / NSFW content\n\n\ud83c\udfa5 Blurs videos frame-by-frame as they play for stronger protection\n\n\ud83d\udcf1 Works across popular social media and browsing apps\n\n\ud83d\udd10 Keeps everything on-device for maximum privacy (no cloud scanning, no tracking)\n\n\u2699\ufe0f Customizable settings: blur strength, sensitivity/strictness, and more.\n\nDesigned for Muslims, built for privacy\n\nHar",
+    "icon": "/icons/com.haramblur.png"
+  },
+  "com.careem.acma": {
+    "title": "Careem: rides, food, grocery",
+    "package": "com.careem.acma",
+    "description": "Meet Careem, the everything app for your everyday needs. Our playground \u2014 EAT, GET, GO & PAY - is the all-in-one app and has your back. Need to order your favorite meal? Stock up on groceries? Book a ride? It\u2019s all just a tap away. Oh, and if you love a good deal, Careem Plus is your VIP pass to unlimited savings and exclusive perks.\n\nEAT Whenever You Like\nDon\u2019t let food cravings ruin your day. Be it banana pancakes, burritos, or biriyani, with Careem, get your favorites delivered straight to your doorstep. Our food delivery app runs on quality, so you get the best food delivery. \nLooking for an easy food delivery service? We make ordering effortless, with real-time tracking so you know exactly when to set the table.\nIf you\u2019re out and about, Careem Food lets you explore best restaurants wi",
+    "icon": "/icons/com.careem.acma.jpg"
+  },
+  "org.findmykids.app": {
+    "title": "Findmykids: Kids GPS Tracker",
+    "package": "org.findmykids.app",
+    "description": "Find my kids delivers parental control, find my phone help, and precise location tracking in one GPS phone location tracker and a GPS tracker app.\n\nWhether you come from Family Link, Qustodio parental control or the Qustodio kids app, or you looked at Airdroid parental control, you\u2019ll feel right at home with our clear geolocator built for parents:  simple to start, reliable day to day, and respectful of your family\u2019s privacy.\n\nParents who tried the iSharing gps location tracker, the Geozilla family gps locator, or an X gps tracker often say Find my kids is easier to start and easier to trust. It keeps focus on what matters: helping you understand where your child is, how they move through the day, and when they may need your attention. With thoughtful alerts and tools that support everyday",
+    "icon": "/icons/org.findmykids.app.webp"
+  },
+  "com.vivo.browser": {
+    "title": "Vivo Browser",
+    "package": "com.vivo.browser",
+    "description": "Note- Only Vivo phones support all the features of this app. Some functions may not work on other brand phones.\n\nThis is the official app of Vivo mobile. Vivo Browser is a free android browser with fast downloading, ad-Block functionality and private browsing feature. It helps you to access trending news, funny videos, and popular websites quickly. It also allows you to check cricket scores instantly. \n\nMain Features\n\n\u2605 Ad Block\n\u2605 Fast Downloading\n\u2605 Latest News\n\u2605 Home screen shortcuts\n\u2605 Trending Videos\n\u2605 Quick Notification for Cricket Score\n\u2605 Incognito/Private mode\n\u2605 Night mode\n\u2605 Fast Browsing\n\n\u2605 Ad Block-\nvivo browser effectively block pop-ups, banner and other kinds of annoying \nads.\n\n\u2605 Fast Downloading-\nDownload your favorite videos, songs, and files with fast speed\n\n\u2605 Latest News-\nGet ",
+    "icon": "/icons/com.vivo.browser.webp"
+  },
+  "com.nathnetwork.limitsiztv": {
+    "title": "LimPlay XC IPTV",
+    "package": "com.nathnetwork.limitsiztv",
+    "description": "LimitlessXC App is a great media player that allows end users to play their content like Live TV, VOD, Series and Local audio/Video files provided by them; On their Android TVs, FireSticks and other android devices.\nFeature Overview\n- Live, Movies, TV Series and Radio Streaming Supported\n- Added Local Player and Embedded Player\n- Main Search (Locked)\n- New layout/UI Design\n- Chapter Resume Bar\n- New Controls in Media Player\n- Automatic Next Chapter Play Supported\n- Parental Controls\n- Support: Continue Watching\n- Support: Recently Added Movies and TV Series\n- Support: Playing Local Audio/Video files\n- Support: Play a Single Stream\n- Integrated Speed \u200b\u200bTest facility\n- Ability to open channel list in Video Player\n- Ability to open \"Episode list\" in Video Player",
+    "icon": "/icons/com.nathnetwork.limitsiztv.png"
+  },
+  "com.openphone": {
+    "title": "Quo (formerly OpenPhone)",
+    "package": "com.openphone",
+    "description": "Never lose a customer with Quo. The only phone system that helps businesses continue to build personal customer relationships at scale.\n\nTrusted by more than 90,000 companies \u2014 from fast-growing startups to Fortune 500s \u2014 and rated #1 in customer satisfaction on G2. Quo brings calls, texts, and customer information together in one platform.\n\nBring clarity to every conversation. Shared inboxes, internal notes, and a mini CRM, gives every teammate the visibility and context they need to make sure each customer doesn't get missed.\n\nRespond to every customer. Fast. Built-in AI answers calls 24/7, flexible call flows route customers instantly, and custom contact properties ensure you're there when your customer needs you, while never missing a detail.\n\nScale effortlessly as you grow. From your ",
+    "icon": "/icons/com.openphone.png"
+  },
+  "com.shervinkoushan.anyTracker": {
+    "title": "AnyTracker - track anything!",
+    "package": "com.shervinkoushan.anyTracker",
+    "description": "Stay up-to-date on every web change with AnyTracker, the user-friendly monitoring app designed specifically for Android devices. AnyTracker can track text, numbers and prices. It automates the boring stuff for you.\n\nNever Miss Important Updates\nAnyTracker provides timely background checks on all the websites you are interested in. The websites can be updated as fast as once per minute, and you will be notified immediately of changes.\n\nTailored Notifications\nWhen a change on a monitored website is detected, you will receive a notification. You can configure the notification to your liking, e.g. to be notified when the price of a product has dropped by a certain amount.\n\nTrack Stocks, Crypto and Currencies\nIn addition to world-leading website change detection, AnyTracker provides fresh finan",
+    "icon": "/icons/com.shervinkoushan.anyTracker.png"
+  },
+  "com.mixerbox.tomodoko": {
+    "title": "MixerBox BFF: Location Tracker",
+    "package": "com.mixerbox.tomodoko",
+    "description": "\ud83c\udf66MixerBox BFF is a free location-sharing app that lets you easily share your current location with friends, family, and loved ones! Download now! \ud83c\udf0e\ud83d\udccd\n\nSay Goodbye To Asking, \"Where are you now?\" You can instantly share your location with friends, family, and loved ones, making it easy to see each other's location right away and view information such as speed, battery level, and duration of stay. MixerBox BFF has minimal battery consumption and highly stable servers\ud83d\udd0b\n\n\u25c6 Find Friends and Phones!\nYou can add unlimited friends through email, QR code, or shaking your phone\ud83d\udc4b Lost your phone? Let your friends help you locate and find it on the map. This app is invitation-only, so you can only share your location with friends and family you approve, ensuring security\ud83d\udd12\n\n\u25c6 \"TimeLine\" Keeps You Update",
+    "icon": "/icons/com.mixerbox.tomodoko.png"
+  },
+  "com.seeworld.gljdw": {
+    "title": "WhatsGPS",
+    "package": "com.seeworld.gljdw",
+    "description": "Butler-level dynamic positioning service platform, providing the most efficient location information service for enterprise managers and developers.\n\nDescription: WhatsGPS is an IoT location service management platform built \non high-tech technologies such as artificial intelligence, cloud computing, \nblockchain, and big data. The connection of equipment, data and \ninformation is integrated, and the rich API interfaces meet the access of \nmultiple types of equipment, support the customization of individual needs ofcustomers in vertical industries, and provide excellent and convenient smart \nconnection management services for domestic and foreign enterprises, \ngovernments and individuals, thereby providing comprehensive The azimuthal and ntegrated IoT industry location service solution ulti",
+    "icon": "/icons/com.seeworld.gljdw.png"
+  },
+  "fakegps.fakelocation.mocklocation.gpsfaker": {
+    "title": "FlashGo: Fake GPS Location",
+    "package": "fakegps.fakelocation.mocklocation.gpsfaker",
+    "description": "FlashGo allows you to change your phone device's GPS location to any location in the world. FlashGo support all devices and phone brands, no Android system version limited. It will work even if app on the backgroud. FlashGo support route mode, you can select vehicle types, walking, speed, cycle mode. App will hide your phone's real GPS location, at the same time, we will protect your location privacy! You can select as many waypoints as you want, and we will optimize the route. Support location history, favorite location. \u2b50 For developer testing purposes.\n\nSpecial feature: \n\u2b50 Change your phone location \n\u2b50 Protect privacy and Keep safe\n\u2b50 Travel anywhere in the world using your phone\n\u2b50 Go navigation routes at real speeds including walking, cycling, and driving.\n\u2b50 Jump teleport Mode: Instantl",
+    "icon": "/icons/fakegps.fakelocation.mocklocation.gpsfaker.png"
+  },
+  "com.onix.onixworkerv2.android": {
+    "title": "Onix Worker",
+    "package": "com.onix.onixworkerv2.android",
+    "description": "We are introducing Onix Worker, an app built with the field worker in mind.\n\nThe app is designed to provide field workers a way to keep up with their busy schedules, and access key information such as user manuals, safety certificates, operator maintenance checklists, overall audit status, and more.\n\n\nWith camera functionality built into the checklists, allowing for specific identification of concerns for further escalation\n\n\nOnix Worker Features:\n\u2022 Perform on-site safety analysis to ensure compliance with company policies, regulations, and all applicable laws\n\u2022 Collaborate in real-time with your colleagues. Changes are made instantly on the app, so everyone is always up to date\n\u2022 Tag equipment with NFC tags and QR codes to quickly identify if the equipment is safe to use\n\u2022 Digitally repor",
+    "icon": "/icons/com.onix.onixworkerv2.android.png"
+  },
+  "com.whoervpn.provider": {
+    "title": "WhoX: Secure VPN without logs",
+    "package": "com.whoervpn.provider",
+    "description": "Explore the internet without boundaries using WhoX  - an anonymous VPN without limits and logs by a renowned online anonymity platform!\n\nInstall our Android VPN app to stay anonymous and enjoy free web browsing.\n\nWith WhoX, you can effortlessly change your IP address, secure your connection, and confidently access your favorite sites and services from anywhere in the world. Enjoy the fast VPN for mobile games, safely access your desired content, and install mobile apps on your Android device. Shop online and conduct business securely from any location by connecting to a VPN server in your chosen country. Plus, our VPN protects your data even on public WiFi networks.\n\nHow to Use VPN on Android\n\n  - Setup VPN on Android.\n  - Register at https://whox.is/ and receive your access code.\n  - Ente",
+    "icon": "/icons/com.whoervpn.provider.png"
+  },
+  "com.duocards.app": {
+    "title": "DuoCards - Vocabulary Builder",
+    "package": "com.duocards.app",
+    "description": "Master vocabulary and learn languages fast with DuoCards \u2013 the #1 duocards app for Spanish flash cards, English words, AI-powered vocab builder, and more!\n\n\ud83d\udd39 DuoCards Language Flashcards  \nSwipe, sort and study with our spaced-repetition algorithm. Build your vocabulary with duo cards app precision: English vocabulary, Spanish vocabulary, French flashcards, German words, Korean vocab, Japanese kanji, Russian language, Italian vocabulary, Portuguese phrases, and 50+ languages.\n\n\ud83d\udd39 Vocabulary Builder & AI Tutor  \nUse our vocabulary AI builder to discover new words, phrases, and sentences. Whether you\u2019re improving English learning, mastering Spanish vocabulary, or expanding your French vocab, this AI tutor adapts to your level. A free vocabulary builder app and vocab builder for learners of al",
+    "icon": "/icons/com.duocards.app.png"
+  },
+  "com.QotoQot.ConjuGato": {
+    "title": "ConjuGato: Learn Spanish Verbs",
+    "package": "com.QotoQot.ConjuGato",
+    "description": "ConjuGato is your perfect Spanish language learning app to easily master verb conjugations. Whether you're a beginner just starting to learn Spanish or aiming to quickly improve your skills, ConjuGato makes grammar practice enjoyable and efficient. Build your vocabulary, enhance your Spanish pronunciation, and learn verbs effectively with convenient flashcards \u2013 ideal for quick practice anytime, even offline.\n\nWhy choose ConjuGato?\n\u2022 NEW: Guides for each tense and verb form\n\u2022 Flexible Practice: Customize verb exercises by irregularity, endings, or popularity\n\u2022 Conjugation tables for each verb, with highlighted irregular forms\n\u2022 Spaced repetition algorithm for efficient exam preparation and long-term retention\n\u2022 Mnemonic flashcards to learn similar verbs together, ideal for beginners!\n\u2022 Aud",
+    "icon": "/icons/com.QotoQot.ConjuGato.png"
+  },
+  "com.lexilize.fc": {
+    "title": "Flashcards: Learn Languages",
+    "package": "com.lexilize.fc",
+    "description": "Flashcards app to study 118+ languages using smart note cards and flashcards! Spanish flash cards, German, French & others including flash cards and note cards for kids and toddlers.\n\nLearn Spanish, French, German, Japanese, Korean, Italian, English vocabulary, and more \u2013 free, offline, with spaced repetition, note cards, and flashcards games to learn words and memorize by heart in a foreign language.\n\nCreate personalized flashcards and memorize words efficiently with smart reminders. Study anytime, anywhere using our flashcards for studying \u2013 perfect for learning English, Spanish, Japanese, Korean, Arabic, Greek, German, French, and other languages. Expand your vocabulary fast with our vocabulary builder and flashcards maker. If you want to make flashcards and memorize by heart new words ",
+    "icon": "/icons/com.lexilize.fc.png"
+  },
+  "com.funeasylearn.spanish": {
+    "title": "Learn Spanish - 11,000 Words",
+    "package": "com.funeasylearn.spanish",
+    "description": "Learn Spanish from 61 native languages, for free & offline, with FunEasyLearn.\n\nLearn to READ \ud83d\udcd6 WRITE \u270d and SPEAK Spanish \ud83d\udcac\nDiscover the fun & easy way to learn all the reading rules, all the words you\u2019ll ever need and all the useful phrases in the Spanish language.\n\n\ud83d\ude80 Contents\n\u2022 6,000 Spanish words (constantly growing): the most common nouns, verbs, adjectives, etc., categorized into 7 levels and 200 topics;\n\u2022 5,000 Spanish phrases (frequently used): the most important phrases for daily conversations and travelling, categorized into 10 levels and 120 topics.\n\nEnhance your vocabulary by learning words, sentences and expressions for beginner, intermediate and advanced learners. \n\n\ud83d\udd14 Why learn Spanish with FunEasyLearn?\nFunEasyLearn reinvents language learning. Our team of linguists and teach",
+    "icon": "/icons/com.funeasylearn.spanish.png"
+  },
+  "com.hello.spanish": {
+    "title": "Learn Spanish: Daily Readle",
+    "package": "com.hello.spanish",
+    "description": "Learn Spanish Daily with Real News & Stories. Teacher-Crafted. Student-Ready.\n\nReadle is a Spanish language learning app with real-world news & stories. It is the world's first CEFR-graded reader to help you learn Spanish. Easily read & listen to news & stories anytime, anywhere \u2013 Take 10 minutes daily to learn Spanish and create a reading habit.\n\nWhy should you learn Spanish with Readle? \n\u2022 Our language experts turn real-world news & stories into fun & bite-sized Spanish A1 \u2013 B2 Spanish learning courses tailored to your level.\n\u2022 Your best companion for reading, listening, comprehension & flashcard vocabulary training with thousands of story courses.\n\nDownload Readle for FREE and start to learn Spanish the new way!\n\n==============\n\nLearn languages with stories and be a part of the revoluti",
+    "icon": "/icons/com.hello.spanish.png"
+  },
+  "com.microsoft.familysafety": {
+    "title": "Microsoft Family Safety",
+    "package": "com.microsoft.familysafety",
+    "description": "The Microsoft Family Safety app helps empower you and your family to create healthy habits and protect the ones you love. Get peace of mind that your family is staying safer while giving your kids independence to learn and grow. \nThis app is designed for both parents and kids.\n\n \nFor parents, it helps to create a safe space for their children to explore online. Set parental controls to filter inappropriate apps and games and set browsing to kid-friendly websites on Microsoft Edge. \n \nHelp your kids balance their screen time activity. Set limits for specific apps and games on Android, Xbox, or Windows. Or use device management to set screen time limits across devices on Xbox and Windows. \n \nUse activity reporting to better understand your family's digital activity. View your kids\u2019 activity ",
+    "icon": "/icons/com.microsoft.familysafety.webp"
+  },
+  "com.wondershare.famisafe": {
+    "title": "Parental Control App- FamiSafe",
+    "package": "com.wondershare.famisafe",
+    "description": "FamiSafe \u2013 Parental Control App is designed for caring parents to control their children's screen time, track location, and monitor digital habits. This versatile app ensures your child\u2019s safety with reliable tools to manage app usage, block inappropriate content, and monitor calls and messages.\n\nHow can FamiSafe \u2013 Parental Control App help protect your child?   \n\nScreen Time Control \u2013 Concerned about your child becoming addicted to mobile phones? FamiSafe's screen time controller can help you customize screen time limits, such as less screen time on school days and more on weekends.\n\nMonitor Online Activities  \u2013 Want to know what your child does with their phone every day? Concerned they might visit dangerous content? FamiSafe can help you monitor their online activities, including how mu",
+    "icon": "/icons/com.wondershare.famisafe.webp"
+  },
+  "com.sand.airdroidkidp": {
+    "title": "AirDroid Parental Control",
+    "package": "com.sand.airdroidkidp",
+    "description": "AirDroid Parental Control App is designed for your child's safety as a priority. With the high safety features provided by AirDroid Parental Control, you can easily get in touch with your child when they are not around you or they can't respond to you on time. Find your child in a tap, extremely easy!\n\nOur latest update revolutionizes online protection with a new, AI-enhanced content monitoring system. We've moved beyond simple keyword blocking to deliver intelligent, context-aware filtering that keeps your family safer than ever.\n\nThe latest online monitor, content filter, and anti-cyberbullying functions have been released, which could improve the performance of kids' safeguards and ensure your loved child is always under perfect protection built by you.\n\nDo you know what is happening in",
+    "icon": "/icons/com.sand.airdroidkidp.png"
+  },
+  "com.qustodio.family.parental.control.app.screentime": {
+    "title": "Qustodio Parental Control App",
+    "package": "com.qustodio.family.parental.control.app.screentime",
+    "description": "Awarded PC Mag\u2019s Editors\u2019 Choice, Qustodio Parental Control App makes parenting easier with daily screen time limits, app blocking, kid tracking, AI powered search and message alerts, social media monitoring, porn blocking and more.\n\n- Screen time limits: Automatically blocks the device after the set time has passed. \n- Family locator & GPS family tracker: Tracks your kid's phone and sends you the GPS location \n- AI-powered message and search alerts: Monitors and alerts for any suspicious browsing activity, or harmful SMS and social messages.\n\nStart by downloading this Qustodio Parental Control App onto your device. Then download the Kids App Qustodio companion app onto your child\u2019s devices. Together, the apps allow you to seamlessly manage your child\u2019s daily screen time allowance on linke",
+    "icon": "/icons/com.qustodio.family.parental.control.app.screentime.png"
+  },
+  "com.squareup.apos": {
+    "title": "Square Appointments: Scheduler",
+    "package": "com.squareup.apos",
+    "description": "Square Appointments has everything you need to run your business from anywhere: online booking  that\u2019s easy for you and your customers, a point of sale  that tracks customer details, and a secure, fast payments system \u2014all in one place. There are three monthly plans: Free, Plus, and Premium, and each is on a per-location basis. Custom pricing is available for businesses that process over $250k in annual revenue.\n\nGet 24/7 online booking, automatic appointment reminders, seamless payment processing, and no-show protection with Square Appointments for Android.\n\nPricing Plans to Fit Your Business\n\u2022 Pricing for Square Appointments is based on the features that fit your business best. There are three monthly plans: Free, Plus, and Premium, and each is on a per-location basis. Custom pricing is ",
+    "icon": "/icons/com.squareup.apos.png"
+  },
+  "com.squareup.dashboard": {
+    "title": "Square Dashboard",
+    "package": "com.squareup.dashboard",
+    "description": "Have peace of mind with the new Square Dashboard app. Get a unified look at your business and manage essential tasks from anywhere in real time. Track business performance, monitor your finances, and manage your team all while you\u2019re on the go.\n\nStay on top of your business.\nGet alerts with in-app notifications. Track your business with multilocation reporting and sales reports. Plus, get data on your top sellers and performers.\n\nUnderstand and control your cash flow.\nIntegrate your sales and spend reports, automate your budgeting, pay your bills, and manage your linked credit cards.\n\nMaintain smooth operations with team management tools.\nMake updates to schedules, view and edit timecards, and run payroll all in real time.\n\n(1) Block, Inc. is a financial services company, not a bank. Banki",
+    "icon": "/icons/com.squareup.dashboard.png"
+  },
+  "com.squareup.invoicesapp": {
+    "title": "Square Invoices: Invoice Maker",
+    "package": "com.squareup.invoicesapp",
+    "description": "The free Square Invoices app is your go-to invoice maker that lets you get paid from anywhere. With the app, you can easily send bills and estimates, track payment status, set auto-reminders for upcoming invoices, monitor your cash flow, and manage your finances. There are no monthly fees or commitments.\n\nANY BUSINESS Whether you\u2019re a small business, contractor, or freelancer, it's easy to create and send your customers estimates for a job and request deposits quickly. Our templates will help guide you through the invoicing and receipt process. It\u2019s an essential invoicing solution that supports any business:\n\u25ba Home & Repair: Contractors, Landscaping, Cleaning, Plumbing\n\u25ba Food & Drink: Catering, Bakeries, Wholesale Stores\n\u25ba Professional Services: Web Designers, Photographers, Consultants, A",
+    "icon": "/icons/com.squareup.invoicesapp.png"
+  },
+  "com.squareup.apos.beta": {
+    "title": "Square Appointments Beta",
+    "package": "com.squareup.apos.beta",
+    "description": "Square Appointments has everything you need to run your business from anywhere: online booking that\u2019s easy for you and your customers, a point of sale that tracks customer details, and a secure, fast payments system\u2014all in one place. It\u2019s free for individuals. And really affordable for teams. Get 24/7 online booking, automatic appointment reminders, seamless payment processing, and no-show protection with Square Appointments for Android.\n\nFREE FOR INDIVIDUALS\nRunning your business with Square Appointments is free for individuals. Sole proprietors only pay for processing. If you have additional staff and need more calendars, try it out with a 30-day free trial.\n\nLET CLIENTS BOOK 24/7\nNo website? No problem\u2014Square Appointments includes a free online booking site, so your customers can book a",
+    "icon": "/icons/com.squareup.apos.beta.png"
+  },
+  "de.c24.bankapp": {
+    "title": "C24 Bank",
+    "package": "de.c24.bankapp",
+    "description": "Open your unconditionally free C24 checking account in just a few minutes - all you need to open the account is your smartphone and your ID.\n\nIn the future, you can conveniently carry out all your banking transactions anytime, anywhere using the app. All advantages of the C24 checking account at a glance:\n\nGERMANY'S BEST CURRENT ACCOUNT\nSecure attractive interest rates on your current account and your daily money.\n\nFREE C24 MASTERCARD AND GIROCARD\nPay easily anywhere with the C24 Mastercard, the C24 girocard and up to 8 free virtual C24 Mastercards.\n\nTO YOUR SAVINGS GOAL WITH POCKETS\nCreate subaccounts with your own IBAN to achieve your individual savings goals. Simply transfer funds from your main account to your Pockets.\n\nSHARE ACCOUNTS WITH FRIENDS AND RELATIVES\nShare your accounts with",
+    "icon": "/icons/de.c24.bankapp.png"
+  },
+  "com.sigmaledger.cube.wallet": {
+    "title": "Coupon24: Coupons from Brands",
+    "package": "com.sigmaledger.cube.wallet",
+    "description": "Discover and Store Coupons on the phone. Redeem coupons in participating brick-and-mortar and online stores.",
+    "icon": "/icons/com.sigmaledger.cube.wallet.png"
+  },
+  "com.laposte.bnum.digiposteplus": {
+    "title": "Digiposte Digital safe",
+    "package": "com.laposte.bnum.digiposteplus",
+    "description": "Digiposte, your secure digital safe \ud83d\udd12\n\nThe Digiposte application allows you to have your important documents with you, anywhere, at all times, whether they are related to your professional or personal life, in a secure and confidential space. \n\nYou can save all your professional and administrative documents in your digital safe (payslips, employment contract, attestations, certificates, proof of address or identity, etc.).  Thanks to Digiposte you can: Add or scan your important documents Have a global view of all your receipts Enable biometric unlock for added security Share your documents quickly and securely with third parties. \n\nSAVING AND ADDING YOUR IMPORTANT DOCUMENTS  \n\nYour documents received from your employer, daily organisations or sent from the Digiposte email address are visi",
+    "icon": "/icons/com.laposte.bnum.digiposteplus.png"
+  },
+  "com.kurechii.postknight": {
+    "title": "Postknight",
+    "package": "com.kurechii.postknight",
+    "description": "* Google Play Best Games of 2017 - Best Indie *\n* Google Play Best Games of 2017 - Best to Pick Up & Play *\n* Winner of IMGA SEA 2017 - Grand Prix *\n\n\nPostknight reimagines the best parts of role-playing games into bite-sized bits within an exciting delivery adventure.\n\nThe story follows the adventures of a Postknight \u2014 a knight who is tasked with difficult or dangerous deliveries \u2014 in the grand kingdom of Kurestal. Through deliveries, the postknight will meet other characters with different backgrounds while venturing across the kingdom of Kurestal and beyond.\n\nDesigned to be an enjoyable RPG for those on-the-go, Postknight is optimized for mobile devices: from content to controls, for hardcore and casual players, to time spent in and out of the game. Instead of spending long hours to exp",
+    "icon": "/icons/com.kurechii.postknight.png"
+  },
+  "com.beenverified.android": {
+    "title": "BeenVerified Background Search",
+    "package": "com.beenverified.android",
+    "description": "With the BeenVerified app, you can now get access to Public Record information and do Reverse Phone Lookups faster than ever! All it takes is a name, address, number, or email to potentially see social networks, relatives, bankruptcies, photos, and MUCH MORE.\n\nWhy use BeenVerified?\n\u2605 Started dating recently? Try running a background report on a first date.\n\u2605 Got a call from a strange number? Use our reverse phone search to try and identify the owner.\n\u2605 Wondering what is out there about you? You may get a clearer picture of your online reputation. See public records information that friends, family and potential employers might find.\n\u2605 Want to find the owner of a property? Quickly see available deed, mortgage and property data using our property search.\n\nMany different search types:\n\ud83d\udc64 Peopl",
+    "icon": "/icons/com.beenverified.android.png"
+  },
+  "com.mycompany.bbdapp": {
+    "title": "Xplore Barbados",
+    "package": "com.mycompany.bbdapp",
+    "description": "Xplore Barbados helps users discover local businesses, services, restaurants, and activities across Barbados.\n\nUsers can browse listings, explore locations on a map, make enquiries, book services and activities, and take part in community and social features, all in one place.\n\nFor businesses, Xplore Barbados provides tools to create and manage listings, showcase offerings, connect with customers, and prepare to receive enquiries and bookings.\n\nBuilt specifically for Barbados, Xplore Barbados is designed to support local businesses while helping residents and visitors find, book, and engage with services and experiences across the island.",
+    "icon": "/icons/com.mycompany.bbdapp.png"
+  },
+  "com.tplink.tether": {
+    "title": "TP-Link Tether",
+    "package": "com.tplink.tether",
+    "description": "TP-Link Tether provides the easiest way to access and manage your TP-Link Router/ xDSL Router/ Range Extender with your mobile devices. From quick setup to parental controls, Tether provides a simple, intuitive user interface to see your device status, online client devices and their privileges.\n- Setup SSID, password and Internet or VDSL/ADSL settings of your devices\n- Block unauthorized users who are accessing your devices\n- Manage permissions of client devices\n- Parental control function with schedule and URL-based Internet access management\n- Find the best location to place your range extender\n- Automatically turn off the LEDs at specific time\n- Manage most of TP-Link devices simultaneously\n\nCompatible Routers\nhttps://www.tp-link.com/tether/product-list/\n\n*To learn how to find the hard",
+    "icon": "/icons/com.tplink.tether.png"
+  },
+  "com.tplink.omada": {
+    "title": "TP-Link Omada",
+    "package": "com.tplink.omada",
+    "description": "Omada app is used for configuring and managing your Omada devices. You can change settings, monitor the network status and manage clients, all from the convenience of a smart phone or tablet.\n\nSTANDALONE MODE\nStandalone mode is designed for managing EAPs or wireless routers right away without having to spend time configuring a controller. Each device is managed separately. This mode is recommended for networks which only have a few EAPs (or wireless routers) and require only basic functions, such as home network.\n\nCONTROLLER MODE \nController mode works together with a software Omada Controller or a hardware Cloud Controller, and is suitable for managing multiple devices (including gateways, switches and EAPs) centrally. Controller mode allows you to configure and automatically synchronize ",
+    "icon": "/icons/com.tplink.omada.png"
+  },
+  "com.tplink.aginet": {
+    "title": "TP-Link Aginet",
+    "package": "com.tplink.aginet",
+    "description": "The Aginet app is the easiest way to activate your internet service, get online in minutes, and set up your home network. No technician required. Now, you can check your network status, view details about your existing wireless connection from anywhere, and make changes right from your smartphone or tablet.\n \nWith a TP-Link Aginet gateway or mesh WiFi, enjoy strong, secure connections at home with robust app features:\n\u2022 Easy Setup: No-fuss home WiFi network setup done in minutes.\n\u2022 Remote Access: Monitor and manage your home network from anywhere.\n\u2022 Parental Controls: Schedule or pause internet access to promote healthy internet habits.\n\u2022 Access Control: Block devices from using your network without your consent.\n\u2022 Home Protection: Keep your network firmware always updated to the latest se",
+    "icon": "/icons/com.tplink.aginet.png"
+  },
+  "com.tplink.tpm5": {
+    "title": "TP-Link Deco",
+    "package": "com.tplink.tpm5",
+    "description": "Welcome to the Deco App \u2014 the perfect way to set up your mesh WiFi in minutes and control your whole network.\n\nOur simple-to-follow guide walks you through the setup process and even gives you suggestions for whole home coverage.\n\nOnce connected, you\u2019ll have instant access to check every connected device, manage your kids\u2019 online activity, and control your home network effortlessly. All from the palm of your hand.\n\n- EASY TO SET UP AND MANAGE\n\u2022\tQuickly set up with step-by-step instructions\n\u2022\tFind the best spots to place additional Deco units for maximum coverage\n\u2022\tControl your WiFi network without turning on your computer\n\u2022\tCheck your connection status and network speed at a glance\n\u2022\tFind out who or what is connecting to your network\n\u2022\tInstantly block unwanted devices with a tap\n\n- PROTECT",
+    "icon": "/icons/com.tplink.tpm5.png"
+  },
+  "com.robskie.tether": {
+    "title": "Tetrd: USB Universal Tethering",
+    "package": "com.robskie.tether",
+    "description": "Tetrd is a simple tool that allows you to share your internet connection from your device to your PC and vice versa through a USB cable. \n\nYou can try it free for three days! When your free trial ends, you can purchase Tether Pro for unlimited tethering, Reverse Tether Pro for unlimited reverse tethering, or Universal Tether Pro to get both at a discounted price.\n\nTethering\n\nTethering allows you to share your device's wifi or mobile internet connection with your PC. You can use this if your carrier or data plan doesn't allow you to enable the built-in tethering feature of your device. Or if you have an unlimited data plan, but your carrier caps your hotspot/tethering usage to a certain amount, say 7GB.\n\nReverse Tethering\n\nReverse tethering allows you to share your computer's internet conne",
+    "icon": "/icons/com.robskie.tether.png"
+  },
+  "greenbits.moviepal": {
+    "title": "Movie Pal: Movie & Show Guide",
+    "package": "greenbits.moviepal",
+    "description": "Movie Pal is your ultimate movie and series guide! Organize, discover, and manage your favorites, but please note: It's NOT an app for watching content directly. \ud83c\udfac\n\nManage and Discover at Your Fingertips:\n\nNetflix Availability: See where your favorite movies and shows are available!\n\nPersonalized Recommendations: Always find something new based on your tastes.\n\nShareable Lists: Create and share movie lists with your friends.\n\nCurated Lists: From \"IMDb Top 250\" to \"MARVEL Cinematic Universe\" and many more.\n\nDiscover Missed Titles: Explore movies and series you haven't seen yet.\n\nTrakt Integration: Manage all your lists in one place.\n\nImport Your IMDb History: Your watchlists and ratings, all here.\n\nKey Ratings: IMDb, Rotten Tomatoes, Metacritic, all at a glance.\n\nFollow us on Twitter! \ud83d\udc26\nhtt",
+    "icon": "/icons/greenbits.moviepal.png"
+  },
+  "app.streamguide": {
+    "title": "Streaming Guide TV & Movies",
+    "package": "app.streamguide",
+    "description": "Discover your next favorite show with StreamGuide \u2013 the essential companion app that revolutionizes how you find and track entertainment across streaming platforms. Say goodbye to endless scrolling and hello to smart, personalized content discovery that puts all your streaming services in one convenient place.\nWhy Choose StreamGuide?\nOne App, All Your Entertainment\nNever switch between apps again! StreamGuide brings together content from all major streaming services, including:\n\nNetflix, Disney+, Prime Video, HBO MAX, and more\nInstant visibility of content availability across platforms\nUniversal search across all services\nReal-time updates on new additions\nTrack availability across services\n\nSmart Recommendations\nOur intelligent recommendation system learns from your preferences to suggest",
+    "icon": "/icons/app.streamguide.png"
+  },
+  "com.riotgames.legendsofruneterra": {
+    "title": "Legends of Runeterra",
+    "package": "com.riotgames.legendsofruneterra",
+    "description": "A LEAGUE OF LEGENDS\u2122 ROGUELITE ADVENTURE\nRuneterra calls! Choose your champion and pick your path to power: a single-player roguelite romp through the world of League of Legends and Arcane, or a ranked card battler where strategy reigns supreme. Unlock and level up dozens of characters in a hand-crafted love letter to fans of hero collectors and card games alike. \n\nTHE STORY SO FAR\nFrom the back alleys of Zaun to celestial Mt. Targon, forces small and large threaten to forever shift the balance of power\u2014if not unravel the world itself! Star-forging dragon Aurelion Sol plots his cataclysmic revenge, while Lissandra, an even greater menace, lurks in the frozen north.\n\nOnly champions of Runeterra can follow the path that has been set\u2014alone or as one\u2014with YOU at the helm.\n\nCHOOSE YOUR CHAMPION",
+    "icon": "/icons/com.riotgames.legendsofruneterra.png"
+  },
+  "in.startv.hotstar": {
+    "title": "JioHotstar",
+    "package": "in.startv.hotstar",
+    "description": "Welcome to the world of infinite possibilities \u2013 where non-stop sports, endless entertainment, and countless stories come alive!\n\nStream the biggest live sports and cricketing action, catch the latest Bollywood, Hollywood and regional blockbusters, binge on hit TV shows before they air on TV, and dive into exclusive Hotstar Specials created just for you. You can also enjoy global hits from HBO, Peacock, and Paramount and explore the magic of Disney, Pixar, Marvel, Star Wars, and National Geographic. Whatever you love to watch, you\u2019ll find it here\u2014all in one place, only on JioHotstar, the ultimate hub for explosive live sports, cricket highlights, web shows, blockbuster movies & more!\n\nExplore Tadka, an all-new tab on the JioHotstar app for dumdaar micro shows packed with mazedaar entertain"
+  },
+  "com.jio.myjio": {
+    "title": "MyJio: For Everything Jio",
+    "package": "com.jio.myjio",
+    "description": "MyJio is your one stop destination for recharges, UPI & payments, managing Jio devices, entertainment, news, games & a lot more!\n\n\u2022 MyJio Home:\nA snapshot to your Jio Digital Life; from recharge & balance reminders, JioTunes, latest music albums, news and more!\n\n\u2022 Mobile & Fiber accounts:\ni. Balance & usage: Get real-time data balance and usage updates\nii. Recharge & payments: Get reminder for your due recharges and bills!\niii. Multiple accounts: Easily link and manage Jio accounts using your profile\niv. Manage devices: Manage your Fiber Wi-Fi names, passwords and connected devices\n\n\u2022 Settings:\ni. Profile settings: Customise your personal profile, manage your contact details & payment settings with ease\niii. App language: Available in your language\n\n\u2022 JioPay:\ni. Payment and wallets: Link &",
+    "icon": "/icons/com.jio.myjio.webp"
+  },
+  "net.kairosoft.android.animestudio_en": {
+    "title": "Anime Studio Story",
+    "package": "net.kairosoft.android.animestudio_en",
+    "description": "Produce your own hit anime starring a character of your making!\n\nSelect a face, body, and presto! Your completed hero can then explode onto the scene of your show, wowing watchers to rule the rankings! Categories include \"Dateability,\" \"Popular with Kids,\" and more! As the animaestro, only you can bring status to your studio!\n\nSpeaking of your studio, equip it with a library, motion capture room, and even a theater! Educate your staff in the anime way to craft a classic that will echo through the generations!\n\nReady to hit the drawing board?\n--\n* Should the screen go dark and freeze, try to power your device down and relaunch the game.\n\nTry searching for \"Kairosoft\" to see all of our games, or visit us at https://kairopark.jp. Be sure to check out both our free-to-play and our paid games!",
+    "icon": "/icons/net.kairosoft.android.animestudio_en.png"
+  },
+  "vn.vtvcab.vtvprime.atv": {
+    "title": "VTVprime d\u00e0nh cho TV",
+    "package": "vn.vtvcab.vtvprime.atv",
+    "description": "Welcome to VTVprime - All in one!\n\nVTVprime: A multi-functional OTT entertainment application, where you can watch blockbuster movies, enjoy top sports, surf fast news and stay ahead of trends. Fun every minute, quality every second.\n\nVTVprime is not only a movie viewing application, but also your entertainment, sports and news companion, exploring a colorful world of content. Whether you are a fan of action movies, passionate about football, or just want to quickly surf the latest news, VTVprime has it all!\n\nWhy is VTVprime your number 1 choice?\n\nDiverse Entertainment on Homepage: Open the application and immediately see a colorful world of entertainment. From blockbuster movies, the hottest TV series, to dramatic football matches and hot news, all are intelligently arranged for you.\n\nOnl",
+    "icon": "/icons/vn.vtvcab.vtvprime.atv.png"
+  },
+  "com.pagopopmobile": {
+    "title": "Spin by OXXO-Tu Cuenta Digital",
+    "package": "com.pagopopmobile",
+    "description": "Your finances, easier and closer to you.\n\nWith Spin by OXXO, open your digital account in minutes. You can also get a VISA card accepted throughout Mexico.\nDeposit and receive transfers in seconds. Manage your finances from a secure and simple app, without lines and with exclusive benefits at OXXO stores and thousands of merchants.\n\nWhat you can do with Spin by OXXO:\n\n\ud83d\udcf2 Open your digital account for free\n\nNo lengthy procedures, just follow these steps:\n\n- Download the app\n- Enter your cell phone number and email\n- Scan your INE (National Tax Identification Number)\n- Done! Start receiving money, making purchases with your virtual card, and more!\nPlus, get your physical Spin by OXXO card in minutes at your nearest OXXO store.\n\n\ud83d\udcb5 Send and receive transfers in seconds\nMake transfers from your ",
+    "icon": "/icons/com.pagopopmobile.png"
+  },
+  "com.digitalfemsa_spinplus": {
+    "title": "Spin Premia",
+    "package": "com.digitalfemsa_spinplus",
+    "description": "Experience a universe of benefits with Spin Premia!\nEarn points and enjoy gift products, as well as exclusive experiences given to you by OXXO, Volaris, OXXO GAS, OXXO CEL, Spin by OXXO, Do\u00f1a Tota, ViX Premium and many more brands! *Brands are the property of their respective owners.\nUse your points to pay for everything from your morning coffee, your favorite soda, gas and even trips to the destination of your dreams.\nParticipate and get gift products, rewards designed for you and tickets to unique events when you register your purchases.\nDiscover and take advantage of the latest offers and coupons created for what you like most.\nFind brands chosen especially for you, which will make your meals, trips and even your next vacation extraordinary.\nDownload the app, transform your day into unf",
+    "icon": "/icons/com.digitalfemsa_spinplus.png"
+  },
+  "com.hamsteroncoke.oxxo": {
+    "title": "\"OXXO\" - Puzzle Game To Relax",
+    "package": "com.hamsteroncoke.oxxo",
+    "description": "Hey, Hamster here!\n\nI create puzzle games for you.\n\n\"OXXO\"\n\nGOAL: Group similar blocks. They like each other ;)\n\nHOW TO DO THAT?\n-Discover the game on your own, no tutorials!\n-Play with the blocks. You can't loose in OXXO!\n-Rotate them like in no other game before.\n-Use all 3 Dimensions :)\n-Sometimes you'll have to think a bit.\n\nI designed OXXO for you to experience discovery of ever changing mechanics. Relax, enjoy the puzzles, feel good about yourself!\n\nHave fun playing, and thanks for your support!\n\n-- BATTERY - USE HQ BUTTON TO SAVE BATTERY -- \n\nDISCORD : https://discord.gg/a5d7fSRrqW\n\nYours\nMike aka Hamster On Coke",
+    "icon": "/icons/com.hamsteroncoke.oxxo.png"
+  },
+  "com.oxxocel.oxxo": {
+    "title": "OXXO CEL",
+    "package": "com.oxxocel.oxxo",
+    "description": "Oxxo Cel permite gestionar tus cuentas Oxxo Cel desde smartphone o tablet Android. A trav\u00e9s de esta aplicaci\u00f3n tendr\u00e1s acceso, de manera f\u00e1cil y segura, a todas las funcionalidades de tus cuentas Oxxo Cel, incluyendo:\n\nResumen del uso de datos\n\u00bfProblemas al acceder a tu cuenta? Restablece tu contrase\u00f1a.\nRevisa tu plan de datos.\nRevisa los detalles de los servicios.\nAccede a las FAQs de facturaci\u00f3n, uso y funcionalidades.",
+    "icon": "/icons/com.oxxocel.oxxo.png"
+  },
+  "com.spot.mdc.oxxoallb": {
+    "title": "OXXO Cleaners that Care",
+    "package": "com.spot.mdc.oxxoallb",
+    "description": "OXXO Cleaners that Care Mobile provides instant access to your personal OXXO Cleaners that Care account and customer information, giving you the ability to track your orders as they are processed, view your cleaning history and receipts, and much more. Schedule a free on-demand route pickup or simply let the store know that you will be in to grab your items\u2014all with the push of a button. OXXO Cleaners that Care Mobile will even notify you when your order is ready for pickup, as well as pass along any special information or promotion.\n\nFeatures listed below are subject to the specific operating policies of your Dry Cleaner:\n\n1) Track your orders in process and view past order history, and receipts.\n2) Request a free On-Demand route pickup.\n3) Notify the OXXO Cleaners that Care store that yo",
+    "icon": "/icons/com.spot.mdc.oxxoallb.png"
+  },
+  "com.cathay.main": {
+    "title": "Cathay Life",
+    "package": "com.cathay.main",
+    "description": "Welcome to Cathay Life App issued by Cathay Life Insurance Corp. The whole new app has more friendly user interface and useful functions.\n\nThis app is for members only, please visit the official website https://www.cathaylife.com.tw or call +886-2-4128-010 for further information.\n \nCathay Life App makes it easy to keep track of your insurance policies, pay bills, apply policy loan, or change your policy contents (such as change contact address, change the funds within your policy, etc.).\n \nServices provided:\n(1) Touch ID or secure pattern lock for logins\n(2) Customized homepage\n(3) Personal notifications\n(4) Finding nearby branches or service locations\n(5) VIP/Member Card\n(6) Claim\n(7) Policy Loan\n(8) Insure Travel Policy\n(9) Health & Wellness Services\n\n**Service in the app are provided o",
+    "icon": "/icons/com.cathay.main.png"
+  },
+  "com.cathaysec.eservice": {
+    "title": "\u570b\u6cf0\u8b49\u5238",
+    "package": "com.cathaysec.eservice",
+    "description": "1. Young People's Favorite Brokerage\nVoted by the community as \"Young People's Favorite Brokerage,\" more than one in three young investors open an account with Guotai Securities.\n2. Ultra-Low Fees\nNo minimum fees for US stock trades, and regular investments in Taiwan and the US are highly cost-effective, making investing economical.\n3. Instant Account Opening\nThree steps, five minutes, dual investment accounts for Taiwan and US stocks.\n4. Comprehensive Quotes\nWe offer Taiwan, US, Hong Kong, and ETFs, with a choice of dark and light color modes for a seamless experience.\n5. A Great Assistant for Regular Investments\nNearly 40% of users choose Cathay Securities for regular investments. With \"Smart Add/Subtract\" and \"Dividend Reinvestment\" features, even lazy investors can invest smartly.\n6. G",
+    "icon": "/icons/com.cathaysec.eservice.png"
+  },
+  "com.cathay.securities.mBroker": {
+    "title": "\u570b\u6cf0\u8b49\u5238\u6a39\u7cbe\u9748\uff0d\u8b49\u5238\u3001\u671f\u8ca8\u3001\u9078\u64c7\u6b0a\u5373\u6642\u5831\u50f9\u3001\u6295\u8cc7\u4e0b\u55ae",
+    "package": "com.cathay.securities.mBroker",
+    "description": "1. \"Looking at the market\" slides, it is really faster\n - Quick swipe view of self-selected stocks and treasury stocks\n - As many as 70 popular rankings: trading volume, daily limit stocks, strong opening, sharp shocks, rapid rises and rapid kills, all of which can be easily swipe to quickly control the market situation and take the lead\n2. \"Stock selection\" slips, it's really faster\n - Swipe left and right to observe up to 20 items of individual stock information: market trends, top five stocks, market quotes, and price points. Stock analysis, easy!\n3. \"Order\" slide, it is really faster\n - Easy to select spot shares, odd shares, US stocks, Hong Kong stocks, financing, and securities lending\n - Sliding price selection, fast and accurate\n - The most convenient account operation: entrustment",
+    "icon": "/icons/com.cathay.securities.mBroker.png"
+  },
+  "com.xs2theworld.cxmobile": {
+    "title": "Cathay Pacific",
+    "package": "com.xs2theworld.cxmobile",
+    "description": "ADD OR VERIFY YOUR MOBILE NUMBER NOW\n\nStarting 13 January 2026, you'll be required to have a verified mobile number in your Cathay account. Add yours now to enjoy seamless access and enhanced security.\n\nYOUR STATUS POINTS DETAILS PAGE, REDESIGNED\nView your next milestone and discover more ways to reach your Status goals.\n\nWe\u2019d love to hear from you. Share\u202fyour feedback with us at\u202fmobileapp@cathaypacific.com. \n \nDownload or update the Cathay Pacific app now.",
+    "icon": "/icons/com.xs2theworld.cxmobile.png"
+  },
+  "com.cathaybk.mymobibank.android": {
+    "title": "\u570b\u6cf0\u4e16\u83ef \u884c\u52d5\u9280\u884c",
+    "package": "com.cathaybk.mymobibank.android",
+    "description": "CUB\u2019s CUBE App utilizes digital data to ensure security of your accounts. With the app, you can make well-informed financial decisions and access financial services anytime, anywhere, all with peace of mind.\n\n\u3014The English version offers\u3015\n\uff0e Quick login\n\uff0e NTD account inquiry\n\uff0e NTD transfer\n\uff0e FCY account inquiry\n\uff0e FCY transfer\n\uff0e FCY trading\n\uff0e Exchange rate inquiry\n\uff0e Credit card transaction details inquiry\n\uff0e Credit card statements inquiry and payments\n\uff0e Credit card (CUBE Card) rewards category switch\n\n\u3014Security\u3015\n\uff0e Protects accounts with two-step verification\n\uff0e Safeguards login security with FIDO authentication\n\uff0e Enhances transaction security with transaction verification codes\n\nCUBE App - your key to simplicity\nDownload the CUBE App and explore our refreshed digital financial services firsthan",
+    "icon": "/icons/com.cathaybk.mymobibank.android.png"
+  },
+  "com.itrader.cathay": {
+    "title": "Cathay Sec.(HK)",
+    "package": "com.itrader.cathay",
+    "description": "Cathay Sec.(HK) is a new generation trading platform developed by Cathay Securities (Hong Kong) Co., Ltd.\nProvides customers and brokers with powerful and comprehensive transaction management for the Hong Kong market\nand risk management derivatives trading platform.\n\nMain features include:\n-Product trading\n-Order management\n-Real-time account inquiry\n-Real-time profit and loss calculation\n-Market product inquiry",
+    "icon": "/icons/com.itrader.cathay.jpg"
+  },
+  "com.ezuniverse.ez360iqmobile": {
+    "title": "360iQMobile",
+    "package": "com.ezuniverse.ez360iqmobile",
+    "description": "With the 360iQ mobile application, you can step out of the office, but not away from your business.\nWatch Live and Historical video in High Definition from all your locations.\nBe everywhere at once. See multiple stores streaming simultaneously.\nIntegrate your existing surveillance with transactional data.\nView transactions as they occur using Live Sales functionality.\nOur intuitive algorithms will flag incidents for you to review, saving you time & money.\nBe alerted when any suspicious activities occur such as discount abuse, employee meal abuse, backdoor theft, and more.\nTrack your enterprise Key Performance Indicators in real time in one place using Reports.\nUse Custom Reports to tailor reports to your specific business needs.\nView reports generated by the 360iQ auditing team.\nNotify oth",
+    "icon": "/icons/com.ezuniverse.ez360iqmobile.png"
+  },
+  "com.pixio.google.mtd": {
+    "title": "Summoner's Greed: Idle TD RPG",
+    "package": "com.pixio.google.mtd",
+    "description": "The King is coming for your loot! Are you ready to defend?\n\nBecome the ultimate villain in Summoner's Greed, the addictive idle tower defense RPG where you play the bad guy! You\u2019ve stolen the King\u2019s precious treasure, and now his army of \"heroes\" is coming to take it back. It\u2019s time to set your defenses, summon your monster army, and protect your chest in this fast-paced strategy game.\n\nUnlike other idle RPG titles or generic clicker games, Summoner's Greed combines the tactical depth of tower defense with easy-to-learn auto battle mechanics. Whether you are AFK or actively playing, your monsters fight to protect your gold!\n\nGAME FEATURES\n\n\ud83c\udff0 Master Idle Tower Defense Strategy Place your towers strategically to wipe out waves of attacking knights, mages, and heroes. As a TD game fan, you\u2019ll",
+    "icon": "/icons/com.pixio.google.mtd.png"
+  },
+  "com.voidpet.dungeon": {
+    "title": "Voidpet Dungeon",
+    "package": "com.voidpet.dungeon",
+    "description": "In the Void, emotions come to life \u2014 from Spite who strikes from the shadows, to Joy who enchants with flames. Hatch your team and take down epic bosses. Equip powerful gear with legendary effects to optimize your build. Evolve your Voidpets through the 5 stages and reach max level.\n\n\ud83c\udf1f 200+ Voidpets to Discover and Evolve\nFrom the fiery rage of Anger to the quiet resilience of Patience, each Voidpet begins as a spark of emotion and transforms into something extraordinary. Collect emotional species, train them through multiple evolutions, and unlock their final forms to master the Void.\n\n\ud83d\uddfa\ufe0f Explore 1000+ Levels\nVenture deeper into the Void across increasingly difficult levels. Face off against elite enemies and epic final bosses.\n\n\u23f3 Time-Limited Events & Boss Battles\nJump into special event",
+    "icon": "/icons/com.voidpet.dungeon.webp"
+  },
+  "jp.co.ponos.battlecatsen": {
+    "title": "The Battle Cats",
+    "package": "jp.co.ponos.battlecatsen",
+    "description": "\u2605\u2605\u2605 Weirdly Cute Cats rampage across the world! \u2605\u2605\u2605\nCommand your Cats with simple controls in a battle through space and time! No need to register to develop your own Cat Army! BATTLE WITH ALL THE CATS!!\n\n=Super Simple Battle System=\nJust tap on the Cat you want to fight for you! \nFire the Cat Cannon to blast baddies getting too close to your base! Overcome weird enemies with the right Cat squad and take down the enemy base!\n\n=Super Simple Leveling System=\nClear stages to get XP and items to level up the Cats! What will they evolve to at level 10? Can you unlock their True Form?\n\n=Super Simple Fun!=\nCollect glorious treasures while you take over the world! \nRecruit dozens of rare and exotic Cats(?) and create the ultimate feline army!!\nHundreds of stages across three Story Mode adventures ",
+    "icon": "/icons/jp.co.ponos.battlecatsen.png"
+  },
+  "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp": {
+    "title": "20 Minutes Till Dawn",
+    "package": "com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp",
+    "description": "Upgrade, Build and Survive! Defend hordes of vampires now!\n\n20 Minutes Till Dawn is a roguelike, shoot'em up game where you mow down endless hordes of lovecraftian monsters and survive the night!\n\n\u3010Unique Builds Every Run\u3011\nIn this roguelite survival game, select from a variety of upgrades to create a unique and overpowered builds every run. You can be a fire wizard, for example, and ignite monsters with every pump of your shotgun, or an agile ninja who controls magic knives to pierce your vampire enemies.\n\n\u3010Select Your Hero\u3011\nChoose from a diverse selection of characters and weapons that offer a variety of gameplay experiences during your survival adventure!\n\n\u3010Features\u3011\n*Over 80 different upgrades to choose from for a unique experience every run!\n*Wide cast of characters, weapons, runes, ma",
+    "icon": "/icons/com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp.jpg"
+  },
+  "com.vcast.mediamanager": {
+    "title": "Verizon Cloud",
+    "package": "com.vcast.mediamanager",
+    "description": "Verizon Cloud gives you space for your digital world, so you can easily backup and access your photos, videos and documents securely and privately. Keep your content handy on your mobile devices, access it when you need it from your smartphone/tablet and computer and easily transfer content when changing devices.*\n\nThe Verizon Cloud app lets you:\n\n\u200b\u200b- Enjoy unlimited storage across unlimited compatible devices (with our Unlimited Individual or Unlimited Group plan, shareable by up to 5 users).*\n- Share your content easily with family and friends using your favorite apps.\n- Share storage with up to 5 users on compatible devices with our Unlimited Group plan. Each user that becomes a member of an Unlimited Group plan gets their own Unlimited Cloud storage; at no extra charge.\n- Organize and ",
+    "icon": "/icons/com.vcast.mediamanager.png"
+  },
+  "com.google.android.apps.cloudconsole": {
+    "title": "Google Cloud",
+    "package": "com.google.android.apps.cloudconsole",
+    "description": "The app helps you manage your services running on Google Cloud directly from your Android phone or tablet:\n* Stay connected to the cloud and check billing, status, and critical issues.\n* Create your own custom dashboard to produce an overview of your Google Cloud services.\n* Monitor the state of your Compute Engine and App Engine resources with the ability to SSH into your VMs.\n* Access to Cloud Shell to perform any Google Cloud (gcloud) operation.\n* View and respond to incidents, errors, and logging.\n\nWe plan to ship new features regularly and continually improve your user experience. Please give us your feedback in the app by tapping the menu button in the upper-left corner, selecting \"Help & feedback\", and then \"Send feedback\".",
+    "icon": "/icons/com.google.android.apps.cloudconsole.png"
+  },
+  "com.kilsar.mxeducation": {
+    "title": "MX Education",
+    "package": "com.kilsar.mxeducation",
+    "description": "MX Edu by Kilsar is the ultimate maintenance education platform designed for A&P technicians, maintainers, students, and instructors. Whether you're on the job or in the classroom, MX Edu enhances your ability to complete maintenance work safely, efficiently, and with precision.\n\nKey Features:\n \u2022 Generative AI Assistance: Access guided troubleshooting workflows and accurate system diagnoses using historical record data and tribal knowledge from experienced technicians.\n \u2022 Legacy Knowledge Preservation: Capture, annotate, and distribute invaluable institutional knowledge to empower your workforce and bridge skill gaps.\n \u2022 Powerful Query Tool: Ask maintenance-related questions and retrieve insights with the integrated AI assistant.\n \u2022 Integrated Inventory Management: Streamline operations wi",
+    "icon": "/icons/com.kilsar.mxeducation.png"
+  },
+  "com.edkongames.mobs": {
+    "title": "Modern Ops: Gun Shooting Games",
+    "package": "com.edkongames.mobs",
+    "description": "Clash with other players in new mobile 3D FPS game with never-ending fire and online shooting games action. Modern gun game in cs style awaits you!\n\nExperience the Ultimate FPS Shooter on Mobile\n\nDive into one of the most immersive online shooting games available on mobile! If you're a fan of fast-paced action, strategic gameplay, and intense firefights, this is the shooting game for you. With a variety of fps games modes, tons of maps, and regular updates, this game offers a unique experience that keeps players engaged and always coming back for more.\nMultiple Game Modes\nOur shooting games feature a range of exciting game modes, designed to suit every player. Whether you prefer classic deathmatches, tactical team battles, or objective-based challenges, you\u2019ll find the perfect mode to matc",
+    "icon": "/icons/com.edkongames.mobs.png"
+  },
+  "com.MA.LAC": {
+    "title": "Los Angeles Crimes",
+    "package": "com.MA.LAC",
+    "description": "Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!\n\nFeatures:\n- Free roam, team death-match, zombie survival, car race & soccer\n- Third-person & first-person view\n- Active-ragdoll and realistic physics\n- LAN support",
+    "icon": "/icons/com.MA.LAC.jpg"
+  },
+  "com.Minimega.WordLaces": {
+    "title": "Word Laces",
+    "package": "com.Minimega.WordLaces",
+    "description": "Free with no ads.\nPlease enjoy the first 100 levels of this game for free, with the option of buying the full game with a one-time purchase.\n\nEvery picture tells a story. Find the meaning and solve the puzzle. Just swipe to lace up words, it\u2019s simple and satisfying!\n\nEach level presents you with an image and a set of jumbled letters. Your task is to find words associated with the image and \u201clace\u201d the words together. \n\nLoop, link, and weave your way through over 1000 puzzles. Unlock new themes and expand your shoe collection. How many can you collect?  \n\nThe daily puzzle for Word Laces features topical content from around the world. Whether it\u2019s Thanksgiving, Ramadan, Halloween or Hanukkah, every day is worth celebrating. \n\nFrom the makers of Bonza, Word Laces is a word puzzle game about as",
+    "icon": "/icons/com.Minimega.WordLaces.jpg"
+  },
+  "id.co.cimbniaga.mobile.android": {
+    "title": "OCTO by CIMB Niaga",
+    "package": "id.co.cimbniaga.mobile.android",
+    "description": "The new OCTO Mobile has arrived with upgraded interface, innovative features and seamless digital banking experience at the tip of your fingers.\n\u00a0\nWhat\u2019s new?\n1.\u00a0 A sleeker user interface that allows you to browse banking needs effortlessly.\u00a0 \u00a0\n2. \u00a0An open-app experience so you can check available features without login.\n3.\u00a0 Financial check-up, a simple financial management providing bird-eye details of your total assets and cash flow.\n4.\u00a0 In-app game! Banking shouldn\u2019t be boring, right?\n\u00a0\nMore than that, OCTO Mobile will provide you with a suite of digital banking capabilities just like having a support of a digital bank in your hands:\n1. Balance inquiry and transaction history from all your CIMB Niaga accounts including savings, time deposits, Rekening Ponsel (e-Wallet), wealth and loans",
+    "icon": "/icons/id.co.cimbniaga.mobile.android.png"
+  },
+  "com.bankkart.mobil": {
+    "title": "Bankkart Mobil",
+    "package": "com.bankkart.mobil",
+    "description": "Enjoy all the privileges of Bankkart Mobile and easily track your card information and spending.\nYou can log in to Bankkart Mobile using your TR ID/Customer Number and internet banking password, the same as those used to access Ziraat Bank Internet Banking and Ziraat Mobile.\n\nCARDS\nWith Bankkart Mobile, you can easily access all your card information and track your spending by sector. You can instantly perform transactions such as Subsequent Installment Payments and Transaction Delays using the quick action buttons displayed above the appropriate transactions. You can also set your card password, change your card settings, and temporarily deactivate your card.\nOn the Cards page, you can easily perform your transactions using quick action buttons such as Configuring a Virtual Card, Configur",
+    "icon": "/icons/com.bankkart.mobil.webp"
+  },
+  "com.kuveytturk.mobil": {
+    "title": "Kuveyt T\u00fcrk Mobile",
+    "package": "com.kuveytturk.mobil",
+    "description": "We renewed the design of the Kuveyt T\u00fcrk Mobile. While making this renovation, we relied on up-to-date technology and design trends; and also benefitted from you and all of our valuable customers\u2019 experience. We aimed at making your banking transactions fast, safe and easy. We will be able to bring you more visual and personalized experiences with the new design. Providing us with your feedback about Kuveyt T\u00fcrk Mobile will help us present you with latest trends and innovations.\n\nWith Kuveyt T\u00fcrk Mobile, you can easily do your banking transactions without any charge.\n\n\n\n\u2022 Money transfers \u2022 Different types of payments related to bill payments and others \u2022 Currency and precious metal buying and selling \u2022 Credit card transactions \u2022 Money deposit and withdrawal with QR code \u2022 Viewing account r",
+    "icon": "/icons/com.kuveytturk.mobil.png"
+  },
+  "com.ziraat.ziraatmobil": {
+    "title": "Ziraat Mobile",
+    "package": "com.ziraat.ziraatmobil",
+    "description": "Our Ziraat Mobile application, which provides convenient and practical access to banking transactions, offers many innovations to our Individual, Corporate and Corporate monitoring customers with its easy, understandable and user-friendly interfaces.\n\n\u2022 With the monitoring infrastructure created for our young customers aged 15-18, they can use Ziraat Mobile with the authority to monitor.\n\n\u2022 Within the scope of their authority, our corporate customers can view and approve their pending transactions from the Approval Management information panel in Ziraat Mobile application. Our corporate monitoring customers can use Ziraat Mobile with monitoring authority.\n\n\u2022 Through the information panels on the main page; You can easily access many information / basic products / transactions such as Accou",
+    "icon": "/icons/com.ziraat.ziraatmobil.png"
+  },
+  "com.belbim.istanbulkart": {
+    "title": "\u0130stanbulkart - Dijital Hesab\u0131m",
+    "package": "com.belbim.istanbulkart",
+    "description": "Those who love living smart are coming together on the city\u2019s smart wallet: \u0130stanbulkart Mobil!\n\nWith \u0130stanbulkart Mobil\u2014now an indispensable part of transportation in Istanbul\u2014you can use QR codes for all public transport rides, top up your \u0130stanbulkart with Turkish lira, and load your subscription pass. By setting up automatic top-ups and activating the Emergency Limit feature, you can prevent disruptions caused by low balance and \u201cput an end to the era of insufficient balance\u201d!\n\nYou can transfer money between your own \u0130stanbulkarts, as well as to the \u0130stanbulkarts of your loved ones.\n\nBy upgrading to a verified account in \u0130stanbulkart Mobil, you can get an IBAN and make money transfers 24/7 to any bank via FAST.\n\nWith the digital account and Virtual \u0130stanbulkart Plus offered by \u0130stanbul"
+  },
+  "com.fi.hostaway": {
+    "title": "Hostaway \u2013 Vacation Rental PMS",
+    "package": "com.fi.hostaway",
+    "description": "Trusted by 20,000+ property managers worldwide, Hostaway is an industry leading, AI-powered vacation rental management platform designed for professional short-term rental operators. Hostaway brings everything together for greater efficiency and faster growth.\n\nGrow your business, manage all reservations, automate guest communication, sync listings across channels like Airbnb and Vrbo, and boost direct bookings from one unified platform, saving you up to 60 minutes per reservation.\n\nWHAT YOU CAN DO WITH HOSTAWAY\nGrow and manage bookings across major channels (Airbnb, Vrbo, Booking.com, Google)\n\u2013 Real-time sync on availability, pricing, and calendars across all connected channels.\n\u2013 Manage all reservations and conversations in one unified inbox.\n\u2013 Automate 93% of repetitive guest communicat",
+    "icon": "/icons/com.fi.hostaway.png"
+  },
+  "com.vrbo.android": {
+    "title": "Vrbo Vacation Rentals",
+    "package": "com.vrbo.android",
+    "description": "When other vacation rentals feel like a lot of work, try one that feels like a vacation. Whether you\u2019re looking for a beach bungalow, an A-frame in the mountains, or a place in town, Vrbo is a more relaxing vacation home option, from booking to checkout. \n\nWhy get shortchanged when you can get rewarded? One Key is a rewards program you won't find on any other vacation rentals platform. Earn and use rewards on eligible vacation homes, flights, hotels, car rentals, and more across our family of brands.\n\n- SEARCH for private places to stay in 190+ countries \n\n- PLAN and collaborate with your people using Trip Planner and group chat \n\n- USE FLEXIBLE DATE SEARCH to help you compare booking options & prices across multiple dates \n\n- GET LONG STAY DISCOUNTS on select vacation rentals \n\n- BOOK sec",
+    "icon": "/icons/com.vrbo.android.webp"
+  },
+  "com.zoho.meeting": {
+    "title": "Zoho Meeting - Meet Virtually",
+    "package": "com.zoho.meeting",
+    "description": "Stay connected on the go! Host or join a secure online meeting with up to 250 participants and collaborate with audio, video and screen sharing. Attend live webinars, participate in polls interact with organizers using Q&A, and \"raise hand\" and talk during the webinar on organizer's approval.\n\nHost unlimited meetings\n- Schedule online meetings and send email invitation to the participants. When quick decisions and ad hoc collaboration are needed, conduct instant meetings from anywhere, in a matter of seconds.\n\n- Easily join a meeting using the invitation link, or the meeting ID. Participants do not require an account to join meetings.\n\nSeamless collaboration\n- Collaborate with your team in real-time using video, audio, and screen sharing with our fully featured video conferencing software.",
+    "icon": "/icons/com.zoho.meeting.png"
+  },
+  "com.necam.mobilemeetings": {
+    "title": "UNIVERGE BLUE\u2122 MEET",
+    "package": "com.necam.mobilemeetings",
+    "description": "Host and join video conferences wherever you go from your mobile device with the UNIVERGE BLUE\u2122 MEET mobile app.\n\nEnjoy crystal-clear HD video and audio quality, screen sharing, and attendee controls from the palm of your hand. Key features:\n\n\u2013 No meeting length restrictions\n\u2013 Join video or audio conferences with up to 100 audio attendees,\n\u2013 Web conferences for up to 30 attendees, and up to 12 HD Video Panels\n\u2013 View shared screen presentations\n\u2013 Control audio and view attendee list\n\u2013 Works with WiFi and cellular networks\nPlease note that this app is only compatible with a mobile or desktop meeting hosted with UNIVERGE BLUE\u2122 MEET.\n\n* Important Information\n1. It is important that you understand the 911 policies before using this product. For more information on these policies, please see htt",
+    "icon": "/icons/com.necam.mobilemeetings.png"
+  },
+  "com.myyearbook.m": {
+    "title": "MeetMe: Go Live & Stream Now",
+    "package": "com.myyearbook.m",
+    "description": "Meet New People, Chat & Go Live on Meetme! \n\nMeetMe helps you meet new people, make friends, stream live,  and chat instantly with others nearby who share your interests! It\u2019s fun, friendly, and free! Connect for free with friendly nearby locals and singles who want to chat now with fun text, video, and livestreaming features\u2014all inside an active social community built around conversation and making real connections. MeetMe makes it easy to find people nearby for free!\n\nDiscover & Connect in Your Community\nJoin millions of people who use MeetMe to find new friends, meet singles, explore local connections, and join a community built around conversation and curiosity! Discover people locally who are like-minded, share your hobbies, interests, or vibe - and start chatting right away with text",
+    "icon": "/icons/com.myyearbook.m.jpg"
+  },
+  "com.meetapp.customer": {
+    "title": "Meet",
+    "package": "com.meetapp.customer",
+    "description": "Meet is a live video chat app for professionals, consultants, influencers, artists, advisors, coaches, remote workers and freelancers, as well as users who need expert advice or want to connect with fans and followers. They connect on a simple video chat marketplace to learn & get advice or offer guidance and services.\n \nFOR USERS\nCustomers can network get professional service, guidance, tips or advice over a \u201cone on one\u201d video meeting. Meet automatically connects and disconnects the meeting, enabling a safe and secure connection for all working professionals and their clients. Meet customers can find professionals on demand by Industry, HashTags, People, and Niche. Use it to connect with influencers or supercharge your career and get services by amazing professionals in your industry.\n \nF",
+    "icon": "/icons/com.meetapp.customer.png"
+  },
+  "com.ifs.banking.fiid4808": {
+    "title": "NECB-Mobile",
+    "package": "com.ifs.banking.fiid4808",
+    "description": "FEATURES OF NORTHEAST COMMUNITY BANK'S MOBILE BANKING\n\u2022\tReview account balances and transactions\n\u2022\tTransfer funds between accounts\n\u2022\tPay bills**\n\u2022\tView copies of cleared checks\n\u2022\tCheck Deposit\n\u2022\tTouch ID\n\u2022\tLocation Service for ATMs and Branches\n\nSAFE AND SECURE\nNECB uses SSL (Secure Socket Layer) encryption to communicate securely through all mobile devices.\n\n*Must be enrolled in Online Banking. There is no charge from NECB, but messaging and data rates may apply.\n**Must have Bill Pay setup previously in Online Banking.",
+    "icon": "/icons/com.ifs.banking.fiid4808.png"
+  },
+  "com.nebankmn.grip": {
+    "title": "My Northeast Bank",
+    "package": "com.nebankmn.grip",
+    "description": "My Northeast Bank - It\u2019s fast, secure, and makes life easier by empowering you with the tools you need to manage your accounts at Northeast Bank (MN) accounts.  Northeast Bank mobile banking customers who do NOT use Business Online Banking or Cash Management.\n\nHere\u2019s what you can do with My Northeast Bank:\n\nKeep your transactions organized by allowing you to add tags, notes, and photos of receipts and checks.\nSet up alerts so you know when your balance drops below a certain amount\nMake payments, whether you\u2019re paying a company or a friend\nTransfer money between your accounts\nDeposit checks in a snap by taking a picture of the front and back\nTurn your debit card off if you\u2019ve misplaced it \nView and save your monthly statements\nFind branches and ATMs near you\nChat with us about your banking ",
+    "icon": "/icons/com.nebankmn.grip.png"
+  },
+  "com.mfoundry.mb.android.mb_052204359": {
+    "title": "CNB Now",
+    "package": "com.mfoundry.mb.android.mb_052204359",
+    "description": "Start banking wherever you are with CNB Now for mobile banking! Available to all CNB Bank, Inc. consumer online banking customers, CNB Now allows you to check balances, make transfers, pay bills, and make deposits.\n \nAvailable features include:\n \nAccounts\nCheck your latest account balance and search recent transactions by date, amount, or check number.\n  \nBill Pay\nSchedule one-time payments.\nAdd, Edit, or Delete Payees directly from the app.\n \nCheck Deposit\nDeposit checks while on the go.\n \nDigital Receipts (Smartphone Only)\nProvides an easy way to track receipts and manage expenses.\nAdd receipts to mobile device:\n- Upload paper and electronic receipts to their mobile device through camera capture and email\n- Add receipt details, such as categories, notes, warranty/return reminders, and fa",
+    "icon": "/icons/com.mfoundry.mb.android.mb_052204359.png"
+  },
+  "com.naecu.MobileBanking": {
+    "title": "NAECU Mobile Banking",
+    "package": "com.naecu.MobileBanking",
+    "description": "With North Alabama Educators Credit Union's Free Mobile Banking Application, you can easily access all of your accounts, 24/7. NAECU Mobile Banking allows you the convenience of managing your finances and performing financial transactions securely anywhere \u2013 anytime! \n\nFEATURES: \n\u2022 Check Account Balances \n\u2022 View Transaction History \n\u2022 Transfer Funds between accounts \n\u2022 Make Loan Payments \n\nSUPPORT: \nPhone Number: (256) 534-2423 \nEmail: feedback@naecu.org",
+    "icon": "/icons/com.naecu.MobileBanking.png"
+  },
+  "com.free.vpn.turbo.fast.secure.govpn": {
+    "title": "VPN secure fast proxy by GOVPN",
+    "package": "com.free.vpn.turbo.fast.secure.govpn",
+    "description": "free VPN by GOVPN  is the fastest and most secure VPN proxy solution. Worried about spying and country restrictions? Try our free VPN. Hide your IP and device fingerprint, secure your connection from possible attacks.\n\nfree VPN by GOVPN  is the perfect hotspot shield and most secure vpn proxy on the world with military grade encryption. Connect to VPN with single tap without registration, payments and hidden costs. Thousands of proxies to connect, daily IP servers update. Any location and works in every country.\nfree VPN offers unlimited downloads, streaming and bandwidth. There is no usage limits, no time limits and no transfer limits!\n free VPN features: \n- one tap VPN proxy connection without any registration\n- thousands of proxy locations, IPs\n- unlimited streaming\n- no trials, no paym",
+    "icon": "/icons/com.free.vpn.turbo.fast.secure.govpn.png"
+  },
+  "com.snk.acawh2j": {
+    "title": "WORLD HEROES 2 JET ACA NEOGEO",
+    "package": "com.snk.acawh2j",
+    "description": "NEOGEO's masterpiece games are now available in the app !!\nAnd in recent years, SNK has partnered with Hamster Corporation to bring many of the classic games on the NEOGEO onto modern gaming environments through the ACA NEOGEO series. Now on smartphone, the difficulty and look NEOGEO games had back then can be reproduced through screen settings and options. Also, players can benefit from online features such as online ranking modes. More, it features quick save/load and virtual pad customization functions to support comfortable play within the app. Please take this opportunity to enjoy the masterpieces that are still supported to this day.\n\n[Game introduction]\nWORLD HEROES 2 JET is a fighting game released by SNK in 1994.\nIt is the third title in the WORLD HEROES series. Sixteen heroes, vi",
+    "icon": "/icons/com.snk.acawh2j.png"
+  },
+  "com.dreamotion.roadtovalor": {
+    "title": "Road to Valor: World War II",
+    "package": "com.dreamotion.roadtovalor",
+    "description": "Dive into the battlefield of World War II! General, give us an order!\n \nRoad to Valor: World War II is a real-time PVP strategy game where you can compete with global players around the world as a General of World War II, the biggest war in history.\n \nSelect \u201cCommand\u201d that suits your own strategy style and collect various units to build the strongest troops. Fight against swarms of enemies in the realistically presented battlefield. Destroy enemy Headquarter and bunkers to get medals as well as the most glorious victory!\n \nPlease note! Road to Valor: World War II is free to download and play, however, some game items can also be purchased in cash. If you do not want to use this feature, please set your purchase password in the Google Play Store app settings. You need an Internet connection",
+    "icon": "/icons/com.dreamotion.roadtovalor.png"
+  },
+  "com.easytech.gog2.android": {
+    "title": "Glory of Generals2: ACE",
+    "package": "com.easytech.gog2.android",
+    "description": "Commander! The new war is about to begin.\nEASYTECH will continue to create the most outstanding war strategy games as we always do.\n\n***Command over 70 kinds of most advanced army, navy and airforce units.\n***Each military unit has its own feature. Use them wisely and you will be invincible.\n***Reform and upgrade your troops with components. Make them the ACE of the battlefield.\n***Each generals has unique skills. Make full use of them according to war situation.\n***Reasonable play of tactical cards will help you dominate the whole battle.\n***Real and various terrains will influence the strategies. Capture enemy's stronghold to win the battle.\n\n\n\u3010Campaign Mode\u3011-----------------------------------------------\n\n\u300eEurope\u300f\u300eAfrica\u300f\u300eMiddle East\u300f\u300eSouth America\u300f\u300eNorth America\u300f\n\u300eCentral Asia\u300f\u300eAntarct",
+    "icon": "/icons/com.easytech.gog2.android.png"
+  },
+  "com.sgra.dragon": {
+    "title": "Dragonstride: Legacy Reborn",
+    "package": "com.sgra.dragon",
+    "description": "A New Legacy Begins \u2014 Welcome to Dark Fantasy Epic Strategy  RPG Dragonstride: Legacy Reborn (formerly Dragonheir) !The game masterfully blends classic TRPG strategy with a new auto-chess mode, delivering a rich and tactical experience. In fast-paced battles, every decision you make \u2014 from hero positioning and skill timing to team synergies \u2014 can build momentum that turns the tide. With the dice of fate cast, seasonal barriers have crumbled. Join your friends and plunge into the infinite joy of adventure! Dragonstride: Legacy Reborn invites you into an unprecedented world of strategy, where possibilities know no bounds and exploration never ends.\n\n\u25c9 Game Features \u25c9 \n\n\u3013 Epic Celebration Carnival: 1,000+ Pulls Up For Grabs \u3013\nThe anniversary celebration is now live. Unprecedented rewards for ",
+    "icon": "/icons/com.sgra.dragon.jpg"
+  },
+  "com.yalla.okey101yalla": {
+    "title": "101 Okey Yalla - Live & Voice",
+    "package": "com.yalla.okey101yalla",
+    "description": "\ud83c\udf89Welcome to 101 Okey Yalla! You've stepped into T\u00fcrkiye's most entertaining okey game platform! Here, gaming and voice chat are combined. Join now and join the fun!\n\n\ud83d\udd0eWhy 101 Okey Yalla?\n\ud83d\udd25Classic yet always innovative!\nAll the okey modes you want are here. And with free in-game voice chat, play and talk\u2014twice the fun!\n\n\ud83c\udf99\ufe0fDon't want the chat to never end?\nNot enough chat in Okey? Unlimited chat awaits you in voice rooms! Make new friends, share the fun, and have fun chatting!\n\n\ud83c\udfc6The best experience, the best you!\nRankings, league system, medals, and titles\u2026 All the details are here to showcase your mastery!\n\n\ud83c\udf81A world full of surprises!\nFree gold, daily rewards, seasonal Battle Passes, and more! Have fun all day long and keep winning!\n\n\u2728All in One App!\n\ud83c\udfaeMultiple Game Modes\n- Real-time matchma",
+    "icon": "/icons/com.yalla.okey101yalla.png"
+  },
+  "com.gtarcade.ioe.global": {
+    "title": "Infinity Kingdom",
+    "package": "com.gtarcade.ioe.global",
+    "description": "Conquer the city, discover the Infinity! Infinity Kingdom is a cartoon-style mmo strategy game.  As a resourceful lord, you must defend the land of Norheim against the evil gnomes while protecting yourself from other invading players!\n\nThree years ago, the gnomes shattered the northern line of defense, led their mechanical army into the fray. Thousands of cities fall and the fate of human kind hangs in the balance. Now Immortals are gathering under your banner. The greatest ones in history are now ready to lead your fearsome troops into battle! Lords! Would you able to repel enemies and restore peace to this scarred land? \n\nHelp! Them Gnomes are wreaking havoc!\nYou have finally arrived, my Lord! Our territory is in dire situation! The Gnomes have ransacked our cities like a plague of locus",
+    "icon": "/icons/com.gtarcade.ioe.global.png"
+  },
+  "com.vendsoft.mobile2": {
+    "title": "Mobile2 Global",
+    "package": "com.vendsoft.mobile2",
+    "description": "In Mobile2 Global, players explore a fantastic world, complete quests, battle monsters, and interact with other players. The game features different character classes, each with unique abilities. Players can customize their characters as they wish and enhance their abilities to become stronger.\n\nThe game includes various missions, dungeons, and enemy camps. Completing these missions is important to obtain items and experience points. Players can also participate in various activities and join forces to battle powerful enemies together. PvP (Player versus Player) battles are also a significant part of the game, allowing players to challenge other players.\n\nMobile2 Global offers a social experience. Players can invite friends, form guilds, and participate in guild battles. Additionally, trad",
+    "icon": "/icons/com.vendsoft.mobile2.png"
+  },
+  "com.smallgiantgames.empires": {
+    "title": "Empires & Puzzles: Match-3 RPG",
+    "package": "com.smallgiantgames.empires",
+    "description": "Empires & Puzzles is a completely new take on match-3 puzzle games, combining RPG elements, PvE quests, and base-building \u2014 topped off with epic PvP duels that range from riveting 1v1 Raids to rambunctious 100v100 Wars.\n\nStart your fantasy adventure today!\n\n\u2022 Solve match-3 puzzles\n\nLead your army to victory by matching colorful shields and unleashing epic combos! This isn't your everyday gem game \u2014 matching tiles will not only deal damage to your enemies, but also charge powerful spells that you can fire at the right time to devastating effect. Setting off dream cascades will allow you to take down even the most powerful of dragons!\n\n\u2022 Explore 5 full seasons of content \u2014 plus many dozens of mythical quests\n\nPrepare for an epic match-3 adventure that will take you through all sorts of world",
+    "icon": "/icons/com.smallgiantgames.empires.png"
+  },
+  "com.geargames.warlegends.rts.strategy.game": {
+    "title": "War Legends: RTS strategy game",
+    "package": "com.geargames.warlegends.rts.strategy.game",
+    "description": "War and magic combined to make War Legends \u2014 a true classic real-time strategy game featuring a fantasy world of orcs and humans, elves and dwarves, goblins, and the undead along with epic heroes, magic spells \n\nWar Legends is a unique mobile online real-time strategy war game inspired by the legendary RTS games on PC! It brings all classic RTS game mechanics on your mobile device. Construct your base, mine resources such as gold and wood, hire warriors, craft war machines and summon epic heroes to raid your enemies and rumble to victory. Command and control your army in PvP clashes, use a wide range of teamfight tactics, cast magic spells, siege enemy bases and conquer the fantasy world. \n\nChoose your side in the endless confrontation between Light and Dark alliances. Six fantasy races ar",
+    "icon": "/icons/com.geargames.warlegends.rts.strategy.game.png"
+  },
+  "com.wesoproiptvpro.wesoproiptvproiptvbox": {
+    "title": "WESOPRO IPTV PRO",
+    "package": "com.wesoproiptvpro.wesoproiptvproiptvbox",
+    "description": "With WESOPRO IPTV PRO you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.\n\nFEATURES OVERVIEW:\n- Support: Live, Movies, and Series Streaming\n- Master Search\n- New Modern layout / UI Design\n- Support for EPG ( TV Program Guide)\n- Support: Chrome Casting\n- Parental Controls\n- Support: TV Catch Up Streaming\n- Support: Continue Watching\n- Support: Recently Added Movies & Series\n- Support: Multi-Screens and Multi-Users ( Improvements)\n- Support: M3U File and URL ( Playlist)\n- Support: External Player.\n- Speed Test facility Integrated and VPN Integration\n- Support: Dynamic language switching\n- Support: Picture-in-Picture\n- Support: Recording Stream\n- And much more\n\nWhat are you waiting for?\nGet the most dow",
+    "icon": "/icons/com.wesoproiptvpro.wesoproiptvproiptvbox.png"
+  },
+  "com.goodtoolapps.zeus": {
+    "title": "Internet Web Browser - ZEUS",
+    "package": "com.goodtoolapps.zeus",
+    "description": "Our Internet Web Browser ZEUS is a free TV browser. You can open web pages and surf the Internet. The TV Browser is optimized for TV control. All functions of the Web Browser can be easily used with the TV remote control.\n\nFeatures:\n- Incognito mode: surfing without saving the browsing history\n- Web bookmarks: Save web pages\n- Browsing history: Internet history\n- Search engine: search the Internet\n- Control videos easily with remote control\n- ZEUS TV Remote: control ZEUS Browser with our smartphone\n\nTry our remote control on your smartphone now!\nSearch for \"ZEUS Remote\" in the Playstore and install our remote control on your smartphone to control ZEUS on your TV.",
+    "icon": "/icons/com.goodtoolapps.zeus.png"
+  },
+  "com.solofunds": {
+    "title": "SoLo Funds: Lend & Borrow",
+    "package": "com.solofunds",
+    "description": "SoLo is the community finance platform where our members step up for one another. We enable financial services for real people, powered by people. We back each other because we believe in each other.\n\nIt\u2019s easy to sign up and become a member. As a SoLo member, you can access up to $625 (1) on your own terms or supply funds to make a social impact and return. You can also leverage our SoLo Wallet (2) as a pathway to financial autonomy.\n\nFun fact \u2192 SoLo won NBCUniversal\u2019s LIFTOff Financial Impact Challenge\n\nHere\u2019s why thousands of members use SoLo\u2026\n\nACCESS UP TO $625 ON YOUR OWN TERMS\nWe give you choice and control where others don\u2019t. No credit checks. We come through for each other because we\u2019re in this together.\n\nEARN MONEY WHILE HELPING OTHERS\nSoLo is a great way to make a social impact w",
+    "icon": "/icons/com.solofunds.png"
+  },
+  "com.paveapp": {
+    "title": "Solo: Your Gig Business App",
+    "package": "com.paveapp",
+    "description": "Work with Uber, Doordash, Instacart, Amazon Flex or other gig jobs? Take the uncertainty out of your app based gig work with insights, tools and guaranteed daily pay from Solo.\n\nSolo seamlessly connects your work accounts to a single app so that you can manage your income, track your expenses, project your taxes and guarantee your daily pay. If you optimize your schedule using Solo\u2019s pay predictions and earn less, we\u2019ll pay you the difference. \n\nHow does it work?\n\nDownload the app and link your gig work accounts\nStart tracking your income, expenses, estimated taxes and access personalized pay predictions\nSave thousands on taxes and earn up to 20% more per week\n\nFEATURES\nPAY PREDICTIONS & DAILY GUARANTEES\nWe crunch the numbers using real earnings data from the Solo community in your city. T",
+    "icon": "/icons/com.paveapp.png"
+  },
+  "com.netmarble.sololv": {
+    "title": "Solo Leveling:Arise",
+    "package": "com.netmarble.sololv",
+    "description": "New story chapters (Expert difficulty) unlocked!\nElena Renault joins the battlefield as a hunter.\nWith the addition of Battlefield of Trials floors,\ntougher challenges await you.\nExperience more intense combat with Elena Renault,\nwho reawakened as an A-Rank hunter.\nCheck out the newly added contents now!\nHunters, arise!\n\nGet a Legendary Artifact Set + Sung Jinwoo's Black Suit costume just by playing the game! The adaptation of the webtoon with 14.3 billion views is playable NOW! Play Solo Leveling:ARISE!\n\n[The action-packed webtoon comes to life with amazing graphics!]\nPlay as Jinwoo and experience every moment of his climb from the Weakest Hunter of All Mankind to the world\u2019s strongest hunter!\n\nExperience the webtoon\u2019s story - and discover brand new exclusive stories!\n\n[Play strategically",
+    "icon": "/icons/com.netmarble.sololv.jpg"
+  },
+  "com.fc.monster.survivor.io": {
+    "title": "Solo Survivor IO Game",
+    "package": "com.fc.monster.survivor.io",
+    "description": "Embark on an epic journey as a courageous knight in the desolate 'Solo Survivor' wasteland. Rise to heroism, battling relentless monsters to save the world from doom.\n\nIn this 2D roguelike survival game, navigate a post-apocalyptic nightmare, face impossible monsters, beasts, mythical creatures and master the skills of a heroic knight. Upgrade your sword, and grasp the ways of a survivor to confront the never-ending tide of monsters in this ultimate survival challenge\u2026\nAre you ready to surpass the mission and claim the coveted title of the #1 Survivor?\n\nStrive for the Ultimate Survivor!\n- The enemies will come as a rising force to constantly encircle you. It's time to showcase your knight skills! Arm yourself with the Sword of Light, Demon Scythe, or the Ultimate Arrow, and many more. As y",
+    "icon": "/icons/com.fc.monster.survivor.io.png"
+  },
+  "com.GustavoBarrionuevo.ChessPuzzle": {
+    "title": "Solo Chess",
+    "package": "com.GustavoBarrionuevo.ChessPuzzle",
+    "description": "Solo Chess is a simple yet addictive puzzle game\u00a0based on Chess. \n\nUsing the movement rules of standard Chess, your goal is to clear the board of all but one piece.\n\nHere are the rules:\n1) Each move must result in a capture.\n2) There is no check rule for the king.\n3) To win the board, you must capture all but the last attacking piece.\n\nEarly challenges may seem easy, but soon you\u2019ll find yourself in deeper waters, pushing your mind and thinking hard about your moves to try and solve the game.",
+    "icon": "/icons/com.GustavoBarrionuevo.ChessPuzzle.png"
+  },
+  "com.slaverygames.guitarfretboard": {
+    "title": "Guitar Fretboard: Scales",
+    "package": "com.slaverygames.guitarfretboard",
+    "description": "Guitar Fretboard app is designed to help you learn scales, memorize the fretboard and train your ear. Allows to customize every aspect of displaying a scale or a chord's notes/intervals on a guitar fretboard. Also shows each scale degree chords and modes with ability to highlight a chord on a scale.\nApp is catered more to learning scales than chords but chords are also present and have chord shapes for main chords for 6/7 string guitar, 4/5 string bass and ukulele.\n\nFeatures:\n- 45+ scales (Major scale modes, Harmonic minor scale modes, Melodic minor scale modes, Major/Minor pentatonic, Exotic scales, Bebop scales) and 35+ chords\n- Ability to add custom scales and chords\n- 1600+ patterns for scales (CAGED, 3 notes per string) and shapes for chords (Triads, Barre, Open, Closed)\n- Ability to ",
+    "icon": "/icons/com.slaverygames.guitarfretboard.png"
+  },
+  "com.strongapps.frettrainer.android": {
+    "title": "Fretonomy - Learn Fretboard",
+    "package": "com.strongapps.frettrainer.android",
+    "description": "Fretonomy is the ultimate educational game to learn the notes and chords on the fretboard of the guitar and other guitar instruments. \n\nPractice notes, chords, scales, intervals, staff reading, and the circle of fifths in over 25 different games.  Or even generate chord progressions to help with song writing!\n\nThere are 9 instruments available to practice on:\n\nGuitar\n7-String Guitar\n8-String Guitar\nBass\n5-String Bass\n6-String Bass\nMandolin\nUkulele\nBanjo\n\nChoose your instrument and pick one of the many games available to you to practice the fretboard until you have mastered every fret and every chord pattern.\n\nCustomize your experience by selecting which section of the fretboard you want to practice on. Practice the first frets, a section in the middle, or the entire fretboard.\n\nMany games ",
+    "icon": "/icons/com.strongapps.frettrainer.android.png"
+  },
+  "com.taurajo.fbquiz": {
+    "title": "Guitar Fretboard Quiz & Tuner",
+    "package": "com.taurajo.fbquiz",
+    "description": "The app requires a  *real* guitar.\nIt asks you to play notes and listens if you hit the correct ones.\nAlso has an integrated tuner.\n** NO ADS **",
+    "icon": "/icons/com.taurajo.fbquiz.png"
+  },
+  "com.justinguitar.guitarnotetrainer": {
+    "title": "Guitar Fretboard Note Trainer",
+    "package": "com.justinguitar.guitarnotetrainer",
+    "description": "The Justin Guitar Fretboard Note Trainer is an app to help you learn the notes on the guitar neck (one of the most essential skills for progressing guitarists) using some awesome, fun and progressive games that you can play anywhere!\n\nIt has four training modes, Name The Note where you have to name the note shown on the neck, Find A Note where you have to find a given note on the neck in all 6 positions, Memory Quiz 1 where you have to name a note having been given it's position, and Memory Quiz 2 where you must name all the notes across a given fret (a tough one!!).\n\nThere are some \"Easy\" options for those just starting out to limit your range of answers.\n\nYou also have an audio option to hear the notes as you select them!\n\nIf you really need to cheat you can swipe your finger diagonally ",
+    "icon": "/icons/com.justinguitar.guitarnotetrainer.png"
+  },
+  "com.eightbitnightmare.fretboardtrainer": {
+    "title": "Fretboard Trainer",
+    "package": "com.eightbitnightmare.fretboardtrainer",
+    "description": "Fretboard Trainer is a simple practice app designed to help guitarists/bassists to do one thing only\u2014memorise the fretboard on their guitar or bass. This app trains your fingers to navigate the fretboard confidently. Note detection to test your accuracy!\n\nFeatures:\n\ud83c\udfb8 Random Note Generation\n\ud83c\udfbc Multiple Scales & Keys\n\u23f1\ufe0f Adjustable BPM\n\ud83d\udcdd Generate Randomised Notes of Selected Scale\n\ud83d\udd07 Sound On/Off: Practice silently or with Metronome.\n\ud83d\udd52 Practice Timer: Keep track of your session duration with an integrated stopwatch.\n\nHow to Use:\n1. Choose your key and scale.\n2. Set your preferred BPM.\n3. Tap \u201cStart\u201d to begin practicing with random fretboard notes.\n\nWhether preparing for lessons, improving improvisation, or just having fun, Fretboard Trainer is your perfect companion to mastering the guitar fret",
+    "icon": "/icons/com.eightbitnightmare.fretboardtrainer.png"
+  },
+  "com.taurajo.guitarscales": {
+    "title": "Guitar Scales & Patterns Lite",
+    "package": "com.taurajo.guitarscales",
+    "description": "I've created this app as a theory reference for myself, while learning to play the guitar, I hope you find it useful too :)  No ads.\n\nWhat it does:\n- shows scales and modes\n- scale box pattern highlighting\n- simple metronome\n- scale harmonized triads\n- supports custom tuning guitar and bass\n- \"left-hand\" option.\n- plays notes on touch",
+    "icon": "/icons/com.taurajo.guitarscales.png"
+  },
+  "app.solotrainer.solo": {
+    "title": "Solo - Fretboard Visualization",
+    "package": "app.solotrainer.solo",
+    "description": "Solo is the ultimate practice App for mastering fretboard visualization, designed by world renowned guitarists Tom Quayle and David Beebee.\n\nFour powerful fretboard trainers allow you to work intuitively on each aspect of the visualization process; learning note names, memorising interval shapes, outlining chord changes, and practicing scales.\n\nSolo asks you to find intervallic functions against one root note, chord symbol or scale at a time, listens to the notes you play, and doesn\u2019t move on until you\u2019ve correctly found each note by its intervallic function in the specified order.\n\nPractice with Solo and finally learn your note names, master interval shapes, confidently play through chord changes and break out of scale boxes with intervallic functions. Start transforming your playing and ",
+    "icon": "/icons/app.solotrainer.solo.png"
+  },
+  "com.santander.app": {
+    "title": "Santander Brasil",
+    "package": "com.santander.app",
+    "description": "Welcome to the Santander app!\n\nFreedom to access your account anytime, anywhere.\n\nCheck out the main features of our app:\n\u2022 Access your account securely\n\u2022 Balance and statement inquiry\n\u2022 View and pay your credit card bill\n\u2022 Pay bills without typing the barcode, using your phone's camera or sharing a PDF\n\u2022 Apply for credit\n\u2022 Transfers (Pix/TED)\n\u2022 View, apply for, and redeem investments\n\u2022 View and share receipts via email and WhatsApp\n\u2022 View and view insurance details\n\u2022 Mobile phone top-up, with the option of scheduled top-ups\n\nAnd much more!\n\nOpen your account\nCount on various products and services to make your day-to-day life easier: checking account, credit cards, loans and financing, investments and retirement plans, consortiums, insurance, loans, international solutions, and foreign exc",
+    "icon": "/icons/com.santander.app.png"
+  },
+  "works.jubilee.timetree": {
+    "title": "TimeTree - Shared Calendar",
+    "package": "works.jubilee.timetree",
+    "description": "App loved by 70 million users worldwide\nWinner of the \"App Store Best of 2015\" award!\n\n\"Connect over time. Grow bonds together.\"\n\nSharing with TimeTree\n- Family use\nSolve time management issues of double-booking with family members. Ideal also for planning to pick up the kids and other errands. Carry the calendar with you and check anytime anywhere!\n\n- Work use\nPlan work shifts of employees\n\n- Couple use\nPerfect for those who have trouble adjusting their time together. See the available slots of both in the calendar and plan out dates!\n\n\nKey Features\n- Shared Calendar\nEasy calendar sharing for families, couples, work and other groups.\n\n- Notifications and reminders\nKeep up with new events, updates, and new messages. No need to check the app all the time thanks to notifications!\n\n- Sync wit",
+    "icon": "/icons/works.jubilee.timetree.png"
+  },
+  "com.anydo": {
+    "title": "Any.do - To do list & Calendar",
+    "package": "com.anydo",
+    "description": "\ud83e\udd47 \"#1 To do list app out there\u201d - WSJ\n\ud83c\udfc6 Editor's Choice by Google\n\nOver +40M people, families and teams rely on Any.do to stay organized and get more done. It's a simple and powerful to do list app with built in tasks, reminders, daily planner and calendar - all-in-one.\n\n\ud83e\udd47 \"A MUST HAVE APP\" (Lifehacker, NYTimes, USA TODAY).\n\nAny.do is a free to-do list, planner & calendar app for managing and organizing your daily tasks, to-do lists, notes, reminders, checklists, calendar events, grocery lists, and more.\n\nOrganize your tasks & to-do list\n\n\u2022 ADVANCED CALENDAR & DAILY PLANNER - Keep your to-do list and calendar events always at hand with our calendar widget. Any.do to-do list & planner support daily calendar view, 3-day Calendar view, Weekly calendar view & agenda view, with built-in reminde",
+    "icon": "/icons/com.anydo.webp"
+  },
+  "com.ha.prepsmart": {
+    "title": "MacrosFirst - Macro Tracker",
+    "package": "com.ha.prepsmart",
+    "description": "MacrosFirst is the most powerful macro tracker with a built-in meal nutrition tracker, food scanner, calorie counter, and food diet tracker to help you achieve your diet, weight loss, and strength goals.\n\n[ Set Macro Tracker Goals ]\n\n\u2022 Use the MacrosFirst food calorie tracker, nutrition tracker, and meal tracker to set custom daily macro goals and log unlimited meals for any diet or weight loss plan with our advanced macro calculator.\n\n[ Auto-Calculate Meal Serving Sizes ]\n\n\u2022 Auto-calculate meal serving sizes with MacrosFirst\u2019s free macro calculator, food calorie tracker, diet tracker, and protein tracker to hit your macro targets.\n\n[ Food Log & Food Scanner ]\n\n\u2022 Use the MacrosFirst food scanner to track calories, macros, protein, and carbs with over 1.8M+ verified foods or barcodes, and e",
+    "icon": "/icons/com.ha.prepsmart.png"
+  },
+  "com.venninteractive.macros": {
+    "title": "Stupid Simple Macro Tracker",
+    "package": "com.venninteractive.macros",
+    "description": "Welcome to the easiest diet you've ever tried. Eat whatever you want, as long as it fits with your food macro plan it's part of your diet! Stupid Simple Macros is the most efficient way ever to track your macro-nutrients and help you bulk up, lose weight, or do both at the same time!\n\nWhy count macros vs what you do on every other diet? Counting macros is one of the easiest ways to reach your fitness goals by simply tracking your fat, protein, and carb levels. Stupid Simple Macros makes tracking these macros super easy. And best of all, you set your own macros levels, so you can eat whatever you want as long as you reach your daily macros! If it fits your macros (\"IIFYM\") you can eat it!\n\nOr you can customize your food grid for a Whole Foods Plant Based diet (WFPB) and see what a different",
+    "icon": "/icons/com.venninteractive.macros.png"
+  },
+  "com.josmantek.macros": {
+    "title": "Macros - Calorie Counter",
+    "package": "com.josmantek.macros",
+    "description": "Take control of your nutrition with Macros. Whether you're looking to lose weight, build muscle, or maintain a healthier lifestyle, Macros makes tracking simple and effective. Enter your profile details, and we'll calculate a personalized daily calorie goal and macro breakdown tailored to your fitness objectives.\n\nMacros is designed to help you build sustainable habits, regardless of your experience level or dietary preferences. Manage your food diary, plan meals, and track macros, activities, and hydration effortlessly. Stay on top of your goals, even on the busiest days, with flexible and intuitive calorie and macro counting.\n\nFeatures:\n\n- Calculate your caloric needs for weight loss, muscle gain, or maintenance.\n- Food tracker for calories and macros (carbohydrates, protein and fats).\n-",
+    "icon": "/icons/com.josmantek.macros.png"
+  },
+  "com.kok_emm.mobile": {
+    "title": "Macrorify - Image Auto Clicker",
+    "package": "com.kok_emm.mobile",
+    "description": "Tell Me About Yourself\nHi, I\u2019m Macrorify and I\u2019m a Macro Maker. You might know me as an Auto Clicker. \nHowever, I can do more than any other auto clicker. Using Image Detection and Text Recognition, I can help make your macros as powerful as possible.\n\nWhat Are Your Strengths?\n\u2022 Click, Swipe: Long clicks, double clicks,...Any swipes or gestures (drag and drop, pinch, zoom,...) and I can do it with all 10 fingers!\n\u2022 Record and Replay: Record your touches and replay them. This recording can be edited freely, mixed and matched in any order, played at different speeds and intervals. You can even randomize every touch point in it.\n\u2022 Image Detection: This is what I do best. I click on an image when it appears and react to it when it disappears. I can detect multiple images, one after another, an",
+    "icon": "/icons/com.kok_emm.mobile.png"
   }
 }
