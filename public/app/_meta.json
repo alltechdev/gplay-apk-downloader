@@ -18533,8 +18533,10 @@
     "icon": "/icons/com.rdminfinity.safetach2.png"
   },
   "app.lumoslabs.chillio": {
-    "title": "app.lumoslabs.chillio",
-    "package": "app.lumoslabs.chillio"
+    "title": "Chillio IPTV Smart Player Pro",
+    "package": "app.lumoslabs.chillio",
+    "description": "Chillio is a modern IPTV and media player built specifically for Android TV. It allows you to watch live TV, movies, series, and personal media using your own playlists or media sources. Chillio does not provide or host any content.\n\nDesigned for large screens and remote control navigation, Chillio delivers a smooth, clean, and customizable TV-first streaming experience.\n\nKEY FEATURES\n\u2022 High-quality playback with fast channel switching\n\u2022 Support for Xtream Codes API\n\u2022 Support for M3U & M3U8 playlists\n\u2022 WebDAV & FTP support\n\u2022 Unified library for multiple playlists or accounts\n\u2022 Electronic Program Guide (EPG) with live channel preview\n\u2022 Favorites and continue watching\n\u2022 Advanced sorting and content organization\n\u2022 Multiview support for watching multiple channels at once\n\u2022 Pause and catch-up s",
+    "icon": "/icons/app.lumoslabs.chillio.png"
   },
   "com.vqafrik.browser": {
     "title": "Quark Browser, Trends with AI",
@@ -25106,5 +25108,638 @@
     "package": "com.auroravision.app",
     "description": "\ud83c\udf0c Aurora Vision \u2013 Northern Lights Forecast\n\nAurora Vision helps you find the best time and place to see the Northern Lights, using real-time space weather data, cloud forecasts, and intelligent scoring.\n\nPlan ahead or react instantly \u2014 whether you\u2019re chasing auroras in Iceland, Scandinavia, North America, or beyond.\n\n\u26a1 LIVE AURORA FORECAST\n\n\u2022 Real-time aurora activity and KP index\n\u2022 Live aurora score based on solar wind conditions\n\u2022 Solar storm (CME) alerts for increased aurora chances\n\u2022 Multi-day aurora forecast for planning ahead\n\n\u2601\ufe0f SMART CLOUD & VISIBILITY ANALYSIS\n\n\u2022 Advanced cloud cover analysis for aurora visibility\n\u2022 Different cloud layers weighted by visual impact\n\u2022 Local weather conditions updated regularly\n\n\ud83d\uddfa\ufe0f WORLDWIDE AURORA LOCATIONS\n\n\u2022 Hand-picked aurora viewing locations ar",
     "icon": "/icons/com.auroravision.app.png"
+  },
+  "com.ouestdroidfull": {
+    "title": "Where is Droid?",
+    "package": "com.ouestdroidfull",
+    "description": "Embark on a colorful hidden-object adventure!\n\nInspired by classic games like Where\u2019s Waldo?, Where is Droid? challenges you to find Droid, a mischievous character hidden in vibrant, hand-drawn worlds filled with quirky characters and playful details.\n\nExplore lively scenes, sharpen your observation skills, and search every corner to uncover hidden surprises, secret sounds, and more.\n\nPerfect for fans of hidden-object games, seek-and-find challenges, and relaxing brain-teasing fun for the whole family.\n\nDownload Where is Droid? and start the search today!",
+    "icon": "/icons/com.ouestdroidfull.png"
+  },
+  "com.dev47apps.obsdroidcam": {
+    "title": "DroidCam Webcam & OBS Camera",
+    "package": "com.dev47apps.obsdroidcam",
+    "description": "Use your phone as an advanced webcam for video calls, live streaming, and video production.\n\n- Chat using \"DroidCam Webcam\" on your computer, including Sound and Picture.\n- Direct OBS Studio integration via DroidCam OBS plugin (see below).\n- Free unlimited usage at standard definition (640x480).\n- Up to 1080p Full-HD as a PC Webcam, and up to 4K UHD as an OBS Camera (see below).\n- Both WiFi and USB connections supported*.\n- HW assisted coding (if possible) and multiple video format options.\n- DSLR -like features including exposure, white balance, and focus controls.\n- Works with the phone screen off and in the background for extra efficiency.\n\nPC WEBCAM \u2013 droidcam.app\nGet the DroidCam PC Client to use your phone as a webcam. The client is available for Windows & Linux systems, and works wi",
+    "icon": "/icons/com.dev47apps.obsdroidcam.png"
+  },
+  "com.disney.droidprotocol_goo": {
+    "title": "Droid Depot",
+    "package": "com.disney.droidprotocol_goo",
+    "description": "Welcome to the Droid Depot Astromech App! If you are having difficulties connecting to your droid, make sure to switch off your physical controller during the pairing process. If issues persist, ensure your droid has new batteries installed. On Android 12, access to the device\u2019s precise location must be allowed.  Additional support can be reached at: https://support.starwars.com/hc/en-us/sections/360008675571-STAR-WARS-Droid-Depot\n\nBring the Star Wars Galaxy\u2019s Edge experience home with the Droid Depot companion app. Build a Digital Droid or play games with your Droid Depot Custom Astromech Droids.\nGames include:\n\u2022Maneuvering - choreograph a dance sequence to the tunes of DJ R3X\n\u2022Piloting - drive your Droid around freely\n\u2022Strategy - play a game of Tic Tac Toe against your Droid\n\u2022Build - Bui",
+    "icon": "/icons/com.disney.droidprotocol_goo.png"
+  },
+  "com.AlienEye.RunDroid": {
+    "title": "Run Droid - Action Platformer",
+    "package": "com.AlienEye.RunDroid",
+    "description": "Help our newly built Droid conquer its quality control trials!\nIn this 2D fast-paced action platformer, guide your resilient Droid through 54 meticulously designed levels filled with lethal obstacles\u2014from radioactive hazards and scorching lava to surging water challenges. Every level tests your reflexes as you dodge, jump, and dash to survive!\n\n\ud83c\udf10 Seamless Cloud Save\nSync your progress effortlessly across devices. Whether on your phone or tablet, pick up right where you left off.\n\n\ud83c\udfae Full Game Controller Support\nPlay your way! Whether you prefer touchscreen or a gamepad, Run Droid adapts seamlessly to your style. Navigate menus and control gameplay effortlessly with your favorite game controller.\n\n\ud83c\udfc6 Exciting Achievements\nChallenge yourself to unlock intriguing achievements and prove you\u2019re t",
+    "icon": "/icons/com.AlienEye.RunDroid.png"
+  },
+  "com.minar.amoleader": {
+    "title": "Droid Concept [Substratum]",
+    "package": "com.minar.amoleader",
+    "description": "If you don't know what a Substratum theme is, please google it! \nThis theme aims to improve the stock android experience using animated icons, gradient colors and more. \nI spent hours and hours on this work! If you buy this theme, feel free to send me an email or contact me to request a feature or tell me about a bug. \n\nThis theme can be used with Antares to create even more combinations!\n\nThis theme features: \n- font\n- original bootanimation (new animation soon)\n- original cloud wallpapers\n- themed ui\n- animated icons\n- exclusive design!\n- multiple combinations possible\n- multiple roms supported\n- no bugs, focused on main apps\n\nThe theme supports Android 7.x Nougat, and Android 8.x Oreo will be supported soon!\n\nFor every problem or request, my email is below!",
+    "icon": "/icons/com.minar.amoleader.png"
+  },
+  "com.pbs.video": {
+    "title": "PBS: TV Shows & Documentaries",
+    "package": "com.pbs.video",
+    "description": "Get the PBS app and stream heartwarming shows like All Creatures Great & Small and Call the Midwife, plus new documentary series like Ken Burns\u2019 The American Revolution. The PBS app features the latest news, live TV from your local PBS station, award-winning documentaries, and iconic series. Download the PBS app and stream thousands of full-length episodes anytime, anywhere! \n\nStreaming and watching TV is made easy with the PBS app. Watch series you love and discover brand new shows, live or on demand, with PBS\u2019s streaming app available on your mobile phone, tablet, or Smart TV. \n\nUnlike conventional streaming apps, PBS lets you access local TV live! Stream local content with the PBS app livestream and discover your favorite local PBS station shows. \n\nStay up to date with the latest news; ",
+    "icon": "/icons/com.pbs.video.png"
+  },
+  "nl.uitzendinggemist": {
+    "title": "NPO Start",
+    "package": "nl.uitzendinggemist",
+    "description": "Streaming Start Here\nWe are the free streaming platform of the NPO. From, for, and by the Netherlands.\nFrom documentaries to series, from real life to films.\nNowhere else will you stream stories that feel so close, real, and relatable.\nWherever and whenever you want.\n\nWhy NPO Start?\n- Stream all NPO programs: catch-up, live, and on-demand\n- Stream for free, wherever and whenever you want via TV, mobile, tablet, or laptop\n- Receive personalized tips, save favorites, and continue streaming where you left off\n- With a Plus subscription, you can stream additional series and foreign titles\n- From your favorite series to the talk of the town\n\nAlso good to know:\nIf you are using an Android version older than 7.0, the entire app is unavailable.\nDue to copyright restrictions, some programs and them",
+    "icon": "/icons/nl.uitzendinggemist.png"
+  },
+  "com.fineapp.yogiyo": {
+    "title": "Yogiyo - Food Delivery",
+    "package": "com.fineapp.yogiyo",
+    "description": "\u25a0 Yogiyo Deal Ranking\nReal-time, first-come, first-served discounts of up to 30% on popular menus!\n\n\u25a0 Tailored just for you! \nBased on your order history, restaurants and menu recommendations will be tailored to your preferences\n\n\u25a0 Daily discounts pouring in\nExplore various exclusive discount offers available only on Yogiyo\n\n\u25a0 The Smartest Thrift Delivery \nEnjoy economical delivery options customized to your needs\n\n\u25a0  Convenient takeout from nearby places\nPick up your orders at your convenience \n\n\u25a0 \uc694\uae30\uc694\uac00 \ub354 \uad81\uae08\ud558\ub2e4\uba74?\n\uc778\uc2a4\ud0c0\uadf8\ub7a8 ID: yogiyo_official\n\ud398\uc774\uc2a4\ubd81: www.facebook.com/Yogiyokorea\n\n\n\uc571 \uc0ac\uc6a9 \uc911 \ubb38\uc81c \ub610\ub294 \uc624\ub958\uac00 \ubc1c\uc0dd\ud558\ub294 \uacbd\uc6b0\n\uc571 \ub0b4 1:1 \ubb38\uc758\ud558\uae30 \ub610\ub294 \uc694\uae30\uc694 \uace0\uac1d\uc13c\ud130\ub85c \ubb38\uc758\ub97c \ub0a8\uaca8\uc8fc\uc138\uc694.\n\ub9ac\ubdf0\uc5d0\ub9cc \uc758\uacac\uc744 \ub0a8\uae30\uc2e4 \uacbd\uc6b0 \ubb38\uc81c\uc5d0 \ub300\ud55c \uc815\ud655\ud55c \ud655\uc778 \ubc0f \ube60\ub978 \ub2f5\ubcc0\uc774 \uc5b4\ub835\uc2b5\ub2c8\ub2e4.\n\n\n\uc694\uae30\uc694 \uc571\uc740 \uc815\ubcf4\ud1b5\uc2e0\ub9dd\ubc95\ub839\uc5d0 \ub530\ub77c \uc11c\ube44\uc2a4\uc5d0 \ud544\uc694\ud55c \ud56d\ubaa9\ub4e4\uc5d0 \ub300\ud574 \uc544\ub798\uc640 \uac19\uc774 \uc811\uadfc\ud569\ub2c8\ub2e4.\n\n\n[\uc120\ud0dd \uc811\uadfc \uad8c\ud55c]\n- \uc54c\ub9bc: \uc8fc\ubb38/\ubc30\ub2ec \ud604\ud669 \uc2e4\uc2dc\uac04 \uc548\ub0b4\n- \uc704\uce58\uc815\ubcf4: \ud604\uc7ac \uc704\uce58 \ud655\uc778\ud558\uc5ec \ubc30\ub2ec \uac00\uac8c",
+    "icon": "/icons/com.fineapp.yogiyo.png"
+  },
+  "com.woowahan.bros": {
+    "title": "\ubc30\ubbfc\ucee4\ub125\ud2b8 - \ubc30\ub2ec\ud560 \ub550 \ub204\uad6c\ub098",
+    "package": "com.woowahan.bros",
+    "description": "Are you looking for a side job/part-time job that is perfect for you?\nNow turn on the app when you need it, exercise and earn money!\n\nAnyone can do it whenever they want, wherever they want.\n\n\u25a0 As much time as I want\n1 hour a day, on weekends, even on the way home from work! Turn on the app whenever you want.\n\n\u25a0 By your preferred means of transportation\nWalking, kickboarding, bicycle, car, and motorcycle are all possible! We deliver by any means you want!\n\n\u25a0 No worries even for beginners\nGet recommended routes using AI. If you follow the road, delivery ends!\n\n\u25a0 Bonus income through delivery missions!\nCheck out the missions you can participate in and complete them whenever you can!\n\n\u25a0 Choose the insurance that\u2019s right for you!\nThere are a variety of insurance products that provide reasonabl",
+    "icon": "/icons/com.woowahan.bros.png"
+  },
+  "com.coupang.mobile.eats": {
+    "title": "Coupang Eats - Food Delivery",
+    "package": "com.coupang.mobile.eats",
+    "description": "Why you should always order with Coupang Eats -\nyou can always order for \u20a90 delivery if you are WOW member!\n\n*\u201c\u20a90 delivery for WOW\u201d applies only to eligible stores and specific menu items.\n*\u20a90 delivery fee applies to WOW Members based on membership status at the time of ordering.\n\n\u25a0 Exclusive Coupang Eats benefits for all WOW Members\nNo need to subscribe to any additional memberships.\nIf you\u2019re a Coupang WOW Member, you get \u20a90 delivery + extra discounts with no added cost.\n\n\u25a0 Earn rewards as you order \u2014 Coupang Cash with Coupay Money\nWhen you pay for Coupang Eats orders using Coupay Money, you earn Coupang Cash.\nEnjoy great benefits while saving more on every order.\n\n\u25a0 Extended morning & late-night delivery hours\nWith extended operating hours, you can enjoy breakfast and late-night meals\nw",
+    "icon": "/icons/com.coupang.mobile.eats.png"
+  },
+  "com.wj.ald": {
+    "title": "aldpay",
+    "package": "com.wj.ald",
+    "description": "ALD PAY is designed for both individuals and businesses. It's a payment system for accepting payments and transfers, processing payments and AA fees, and sending cash and instant messages.",
+    "icon": "/icons/com.wj.ald.png"
+  },
+  "com.otoreport.alpay": {
+    "title": "AL PAY",
+    "package": "com.otoreport.alpay",
+    "description": "AL PAY android application is a free mobile application for AL PAY loyal members wherever they are. This application makes it easy for you to carry out various transactions such as topping up pulses, buying electricity tokens, PPOB, etc.\nWith this application, you can easily check the latest credit prices, see a recap of transaction history, change your balance history, downline activities, chat with customer service, and so on.\n\nThe features available in the application:\n- Purchase of prepaid pulses and electricity tokens of various nominal values\n- Payment of postpaid bills (Electricity, PDAM, TELKOM, etc.)\n- Purchasing internet vouchers\n- Chat messenger feature that is connected directly to our pulse server engine\n- Chat feature with customer service\n- Check balance & account informatio",
+    "icon": "/icons/com.otoreport.alpay.png"
+  },
+  "com.lighthouse1.mobilebenefits.fle": {
+    "title": "AleraPay",
+    "package": "com.lighthouse1.mobilebenefits.fle",
+    "description": "Save time and hassles while making the most of your HSA, HRA, and FSA health benefit accounts by quickly checking your balances and details. Our secure app makes managing your health benefits easy through real-time access and intuitive navigation to all your important account information on the go!  Powerful features of the app include:\n\nEasy, Convenient & Secure\n\u2022\tSimply login to the intuitive app using your same health benefits website username and password (or follow alternative instructions if provided) \n\u2022\tNo sensitive account information is ever stored on your mobile device\n\nConnects You with the Details \n\u2022\tQuickly check available balances 24/7 \n\u2022\tView charts summarizing account(s) \n\u2022\tView claims requiring receipts\n\u2022\tClick to call or email Customer Service\n\nProvides Additional Time-Sa",
+    "icon": "/icons/com.lighthouse1.mobilebenefits.fle.png"
+  },
+  "hk.alipay.wallet": {
+    "title": "AlipayHK",
+    "package": "hk.alipay.wallet",
+    "description": "AlipayHK provides diversified mobile payment services to Hong Kong residents. With AlipayHK, these users can enjoy different payment services, offers and value-added services in Hong Kong, that makes life easier and more convenient.  Hong Kong residents can also use AlipayHK to make payments online and in person at various merchants outside of Hong Kong as they travel for leisure, business, or study.\n\nAlipayHK is not designed or intended for use by foreign users in their home country or anywhere outside of Hong Kong.\n\nAlipayHK provides Hong Kong residents a wide range of payment and other value-added services:\nAlipayHK covers over 100,000 merchants, including physical and online outlets of local retail shops, convenience stores, supermarkets, wet market stalls, restaurants, eCommerce platf",
+    "icon": "/icons/hk.alipay.wallet.png"
+  },
+  "com.wisdomgarden.trpc": {
+    "title": "TronClass \u66a2\u8ab2 \uff0d \u884c\u52d5\u5316\u6578\u4f4d\u5b78\u7fd2\u4e92\u52d5\u5e73\u53f0",
+    "package": "com.wisdomgarden.trpc",
+    "description": "TronClass is a learning management APP suitable for colleges and universities, training and K12 fields, allowing you to obtain learning dynamics anytime, anywhere, making full use of fragmented time for teaching management and learning activities, and also helping to realize flipped classrooms, effectively improving students' learning autonomy and positivity. Make teaching and learning easier!\n\n1. Intimate action learning experience\nStudents can receive course updates and reminders in real time, view a wealth of various types of learning activities anytime, anywhere, and arrange their own learning rhythm.\n\n2. Rich teacher-student interaction\nTeachers can initiate interactions such as roll call, selection, quick answer, voting, and classroom quizzes, so as to improve students' enthusiasm fo",
+    "icon": "/icons/com.wisdomgarden.trpc.png"
+  },
+  "com.grabtaxi.driver2": {
+    "title": "Grab Driver: App for Partners",
+    "package": "com.grabtaxi.driver2",
+    "description": "Hello Driver Partners,\n\nWe're excited to be on this journey with you. Partnering with us helps to boost your earning potential and build a sustainable livelihood. \n\nGrab is Southeast Asia's leading superapp. We offer essential everyday services to over 670 million people across Singapore, Indonesia, Malaysia, Thailand, Philippines, Vietnam, Cambodia, and Myanmar. It is our mission to drive Southeast Asia forward by creating economic empowerment for you and everyone in the region.\n\nBy signing up as a Grab partner you have a unique combination of flexibility and stability: \n- You get to be your own boss - decide when, where and how often you want to work.\n- Maintain a source of reliable earnings - Grab gives you access to millions of customers, instant cash out options, loyalty programs and ",
+    "icon": "/icons/com.grabtaxi.driver2.png"
+  },
+  "com.ballxpit": {
+    "title": "com.ballxpit",
+    "package": "com.ballxpit"
+  },
+  "com.devolverdigital.ballxpit": {
+    "title": "BALL x PIT",
+    "package": "com.devolverdigital.ballxpit",
+    "description": "BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. Batter hordes of enemies with ricocheting balls and gather the riches of the pit to expand your homestead, generate resources and recruit unique heroes.\n\nBALL x PIT is a fast-paced fantasy roguelite where heroes must find the balls to plunge deeper into a seemingly bottomless pit of monsters. Develop arcane ammunition and resources in pursuit of treasure, recruiting additional heroes to aid you in your perilous quest.\n\nBallbylon has fallen. After a meteoric and completely unexpected event annihilated the great city, all that remains is an ominous, yawning pit. Treasure hunters from far and wide flock to the city\u2019s tomb to seek their fortune, plumbing the depths in search of Ballbylon\u2019s scattered riches. Few retu",
+    "icon": "/icons/com.devolverdigital.ballxpit.png"
+  },
+  "com.puzzle1studio.go.brickoutshoottheball": {
+    "title": "Brick Out - Shoot the ball",
+    "package": "com.puzzle1studio.go.brickoutshoottheball",
+    "description": "Shoot. Crush. Win. The ultimate bricks and balls challenge\u2014now with no pop-up ads!\n\n Step into Brick Out: Shoot the Ball, the most addictive and satisfying brick breaker on mobile.\n Aim, shoot, and destroy bricks across thousands of thrilling levels\u2014now with a smoother, cleaner experience.\n No interruptions, no forced ads. Only optional reward ads when you choose to earn bonuses!\n\n\ud83e\uddf1 Classic arcade feel with a modern twist\n \u2022 Shoot balls to crush bricks in satisfying chain reactions\n \u2022 Explore bricks and balls puzzles with fresh challenges in every level\n \u2022 Strategically bounce and blast your way through obstacles\n\n\ud83d\ude80 Level up with power and precision\n \u2022 Collect wild power-ups and boosters to clear bricks faster\n \u2022 Unlock special balls with unique looks and effects\n \u2022 Tackle infinite levels ",
+    "icon": "/icons/com.puzzle1studio.go.brickoutshoottheball.png"
+  },
+  "com.brotato.shooting.survivors.games.paid.android": {
+    "title": "Brotato: Premium",
+    "package": "com.brotato.shooting.survivors.games.paid.android",
+    "description": "A top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.\n\nThe sole survivor: Brotato, the only potato capable of handling 6 weapons at the same time. Waiting to be rescued by his mates, Brotato must survive in this hostile environment.\n\nFeatures\n\u00b7 Auto-firing weapons by default with a manual aiming option\nFast runs (under 30 minutes)\n\u00b7 Dozens of characters available to customize your runs (one-handed, crazy, lucky, mage and many more)\n\u00b7 Hundreds of items and weapons to choose from (flamethrowers, SMGs, rocket launchers or sticks and stones)\n\u00b7 Survive waves lasting 20 to 90 seconds each and kill off as many aliens as you can du",
+    "icon": "/icons/com.brotato.shooting.survivors.games.paid.android.png"
+  },
+  "com.EtherGaming.PocketRogues": {
+    "title": "Pocket Rogues",
+    "package": "com.EtherGaming.PocketRogues",
+    "description": "Pocket Rogues is an Action-RPG that combines the challenge of the Roguelike genre with dynamic, real-time combat. Explore epic dungeons, develop powerful heroes, and build your own Guild Fortress!\n\nDiscover the thrill of procedural generation: no two dungeons are the same. Engage in strategic battles, upgrade your skills, and fight powerful bosses. Are you ready to uncover the secrets of the dungeon?\n\n\"For centuries, this dark dungeon has lured adventurers with its mysteries and treasures. Few return from its depths. Will you conquer it?\"\n\nFEATURES:\n\n\u2022 Dynamic gameplay: No pauses or turns\u2014move, dodge, and fight in real-time! Your skill is the key to survival.\n\u2022 Unique heroes and classes: Choose from a variety of classes, each with its own abilities, progression tree, and specialized gear.\n",
+    "icon": "/icons/com.EtherGaming.PocketRogues.png"
+  },
+  "com.habby.punball": {
+    "title": "PunBall",
+    "package": "com.habby.punball",
+    "description": "This story takes place in a once barren land, where Zeus created civilization. Over time, Zeus grew lazy and an evil Shade appeared and wreaking havoc, bringing waves of evil to all.\n \nNow, a lone mage, pretty and strong stands alone as the only savior in a quest for light over darkness.\nFollow her on this Roguelike adventure; don\u2019t lose though or you\u2019ll have to begin from scratch again!\n\nUse magic and more in this new and unique gameplay with various skills and super fun world!\n\nFeatures:\n- Spin-off from Archero\u2019s IP, opening an all-new form of adventure\n- First Roguelite + RPG combined with Block Breaker Gameplay\n- Super easy controls\n- 100+ Skills with infinite combinations! \n- Thousands of stages!\n\nFaceBook:@PunBallEN\nCustomer Service: punball@habby.com",
+    "icon": "/icons/com.habby.punball.png"
+  },
+  "com.wgames.en.neverlandcasino": {
+    "title": "Hard Rock Neverland Casino",
+    "package": "com.wgames.en.neverlandcasino",
+    "description": "Play 200+ online casino slots games \ud83c\udfb0 at the legendary Hard Rock Neverland Casino, where a world of magic meets the live casino thrill of spinning free casino slot games.\n\n[ SPIN & WIN THE HARD ROCK CASINO WAY ]\n\u2022 Unlock a social casino world of online casino slots games, from classic 3 reel slot machines and video slots to jackpot slots and 3D Vegas slots games.\n\n[ DAILY LIVE CASINO SLOT BONUSES TO ROCK YOUR GAME ]\n\u2022 Get rewarded with no deposit needed for 2M free slots bonus coins and 100 diamonds to play more real casino slots for a chance at the jackpot in real Las Vegas slots games. \n\n[ EARN REWARDS WITH UNITY BY HARD ROCK]\n\u2022 Link your Unity by Hard Rock account to unlock exclusive bonuses, earn rewards, and maximize your online casino slots games jackpot experience with the legendary",
+    "icon": "/icons/com.wgames.en.neverlandcasino.webp"
+  },
+  "com.limondaytrip": {
+    "title": "Limon",
+    "package": "com.limondaytrip",
+    "description": "Welcome to the first version of our app! We thank you for your patience as we build an experience that inspires you to explore more, stress less and travel easy \ud83c\udf4b \n\nEmbark on a Journey of Discovery with Limon.\n\nLimon is your go-to platform for discovering and sharing captivating audio travel stories. Whether you\u2019re planning your next adventure or reminiscing about past trips, Limon connects you with a vibrant community of explorers sharing their unique experiences.\n\nKey Features:\n\t\u2022\tDiverse Storytelling: Explore a library of travel narratives filled with vivid photos and personal insights.\n\t\u2022\tPersonal Journal: Capture your adventures and inspire others by contributing to our growing collection.\n\t\u2022\tImmersive Audio Stories: Dive into engaging journeys through thoughtfully curated audio narra",
+    "icon": "/icons/com.limondaytrip.png"
+  },
+  "com.lemonshort.app": {
+    "title": "Lemon Short TV",
+    "package": "com.lemonshort.app",
+    "description": "Never have enough time to finish a movie anymore? Tired of paying for subscriptions that you don\u2019t use? Watch LemonShort - Every Second is Drama.\n\n\nLemonShort is a next-gen HD streaming platform featuring exclusive vertical TV shows. We change the way you watch movies with minute-long episodes that you can enjoy anywhere, anytime.\n\n\nChoose from our library with limitless addicting content, ranging from sweet encounters with billionaires, heart-wrenching tragedies, to epic comeback stories.\n\n\nWhat awaits you:\n\n\u2022 Bite-sized originals that you can but won't put down.\n\n\u2022 Vertical content with Hollywood quality made for the big screen.\n\n\u2022 Exclusive content that you won't see anywhere else.\n\n\u2022 Endless entertainment, on the go.\n\n\u2022 No subscription? No problem. Watch as much or as little as you lik",
+    "icon": "/icons/com.lemonshort.app.png"
+  },
+  "com.ceino.shalomworld": {
+    "title": "Shalom World TV",
+    "package": "com.ceino.shalomworld",
+    "description": "SHALOM WORLD is a free 24/7 Family entertainment TV streaming app, broadcasting live channels and on-demand videos.\n\nWith Shalom World you can:\n\nWatch inspirational and vibrant programs anywhere at anytime.\n\nHave access to an ever-growing library of Video on Demand from your favorite Shalom World TV programs.\n\nShalom World Makes it easy to share all your favorite programs with your friends through Facebook, Twitter etc.\n\nLet SHALOM WORLD be your source of informative, vibrant, entertaining and inspirational programming, for every age and every place.\n\nCHANGE WHAT YOU WATCH AND, WATCH THE WORLD CHANGE !",
+    "icon": "/icons/com.ceino.shalomworld.png"
+  },
+  "com.ProgrammeReplayTV": {
+    "title": "Programme TV",
+    "package": "com.ProgrammeReplayTV",
+    "description": "The most complete TV program with 100 channels (TNT, Box, Cable-Sat, etc.) over 2 weeks. Also find replays to catch up on your favorite TV programs (shows, series, films, etc. broadcast on TV).\n\ntv-programme.com allows you to quickly choose the TV program to watch at the moment, this evening, during the week, etc. thanks to clear TV schedules and complete program sheets (summary, synopsis, reviews, video trailer, etc.). ).\n\nWant to watch sports? Consult the current sports broadcasts and those of the evening in 1 click. Do the same with TV series, films, documentaries or TV magazines.\n\nDid you miss a show last night? Search for it in our search engine and find its Replay link.\n\nRegister for free, and easily personalize your TV schedule by selecting the channels (drag and drop) that you rece",
+    "icon": "/icons/com.ProgrammeReplayTV.png"
+  },
+  "com.tozelabs.tvshowtime": {
+    "title": "TV Time - Track Shows & Movies",
+    "package": "com.tozelabs.tvshowtime",
+    "description": "PLEASE NOTE: You cannot watch TV shows or movies with TV Time.\n\nTV Time is the tool you need to organize the shows and movies you love and keep track of what you're watching! Join 25M+ people and use TV Time to:\n\n\u2705 TRACK your shows and movies \n- Keep track of what you\u2019re watching - all in one place \n- Add shows and movies you want to watch across all platforms - including anime! \n- Find where to watch  \n- Receive alerts and notifications when new episodes and movies are available\n\n\u2705 DISCOVER something new\n- Get personalized recommendations based on what you\u2019ve watched\n- See trending shows & movies from users across the globe\n- Browse all shows & movies by genre and status\n- Uncover personal stats based on your viewing habits\n\n\u2705 CHAT & REACT with the TV Time community\n- Rate episodes & movi",
+    "icon": "/icons/com.tozelabs.tvshowtime.png"
+  },
+  "com.gzitv": {
+    "title": "GZI TV",
+    "package": "com.gzitv",
+    "description": "GZI TV provides a new and exciting way to connect with Glory of Zion International. Most live broadcasts and time-limited \u201creplays\u201d are free - but GZI TV has more to offer you! Now you can get access to our entire ever-expanding library of content! This includes access to teaching series, Firstfruits revelation, GZI Israel content, Arts & Worship, conferences, courses, and original programming.\n\nWe also have a free trial available, where you can see everything at no cost for 7 days. GZI TV is your opportunity to access revelatory content and entertainment for you and your family anytime, anywhere!\n\nRemember, most live broadcasts and time-limited \u201creplays\u201d remain free!\n\n*All payments will be paid through your Google account and may be managed under Account Settings after the initial payment",
+    "icon": "/icons/com.gzitv.png"
+  },
+  "app.revanced.android.gms": {
+    "title": "app.revanced.android.gms",
+    "package": "app.revanced.android.gms"
+  },
+  "app.revanced.android.youtube": {
+    "title": "app.revanced.android.youtube",
+    "package": "app.revanced.android.youtube"
+  },
+  "club.incendiarypigs.mur": {
+    "title": "Mur Launcher",
+    "package": "club.incendiarypigs.mur",
+    "description": "Mur Launcher \u2013 a fresh take on your home screen, built around live tiles.\n\nMur Launcher reimagines your home screen with a focus on clarity, control, and convenience. Inspired by classic tile layouts and updated with modern design, it makes your daily phone use feel smoother, cleaner, and more personal.\n\n\ud83e\udde9 Live Tiles \u2013 Everything at a Glance\nSee what matters without opening a single app. Live tiles update in real time with media playback, notifications, and app activity. Music controls, messages, and live info \u2014 right where you need them, always up to date.\n\n\ud83c\udf9b Tile Grid \u2013 Flexible, Familiar, Powerful\nCustomize your home screen with resizable tiles and smooth gesture controls. Combine the best of two worlds: the endless scroll of Metro-style layouts and a classic grid feel with an optional ",
+    "icon": "/icons/club.incendiarypigs.mur.png"
+  },
+  "com.adguard.android": {
+    "title": "com.adguard.android",
+    "package": "com.adguard.android",
+    "icon": "/icons/com.adguard.android.png"
+  },
+  "com.cybercat.acbridge": {
+    "title": "com.cybercat.acbridge",
+    "package": "com.cybercat.acbridge"
+  },
+  "com.community.oneroom": {
+    "title": "com.community.oneroom",
+    "package": "com.community.oneroom"
+  },
+  "com.appslab.materialyou.widgetspro": {
+    "title": "Material You Widgets",
+    "package": "com.appslab.materialyou.widgetspro",
+    "description": "Material You Widgets \u2013 Works on All Android Devices\n\nMake your home screen stand out with Material 3 Expressive Widgets! Enjoy a variety of widgets, including Clocks, Weather, Games, Quick Settings, Photos, Compass, Pedometer, Quotes & Facts, Google, Contact, Earbuds, Battery, Location, Search, and more.\n\nKey Features\n\u2726 Works without KWGT or any other app \u2013 Just install and use.\n\u2726 300+ Stunning Widgets \u2013 Beautifully designed for a seamless experience.\n\u2726 Material You \u2013 Instantly match widgets with your theme.\n\u2726 Dynamic Shapes \u2013 Changeable Shapes for Apps, Quick Settings & Photos!\n\u2726 A Wide Range of Widgets \u2013 Clocks, Weather, Games, Quick Settings, Photos, Compass, Pedometer, Quotes & Facts, Google, Contact, Earbuds, Battery, Location, Search, and more.\n\u2726 Theme-Matching 300+ Wallpapers \u2013 Easi",
+    "icon": "/icons/com.appslab.materialyou.widgetspro.png"
+  },
+  "com.github.cvzi.screenshottile": {
+    "title": "Screenshot Tile [No root]",
+    "package": "com.github.cvzi.screenshottile",
+    "description": "Adds a button/tile to the quick settings panel to take screenshots.\n\nAfter install you need to add the button/tile to your quick settings and then grant the permissions to record screen captures and save images to the internal storage.\n\nFeatures:\u2713 Take screenshots from the quick settings\n\u2713 No root required\n\u2713 Notification after a screenshot was taken (can be disabled)\n\u2713 Immediately share, edit or delete a screenshot from the notification\n\u2713 Edit the screenshot with the included image editor\n\u2713 Floating button/Overlay button like a chat bubble (Android 9+)\n\u2713 Use as assist app to take a screenshot (long-press the Home button)\n\u2713 Only take screenshot of a specific area of the screen (long-press the tile)\n\u2713 Delay taking a screenshot\n\u2713 Store in any folder on any storage e.g. sd card\n\u2713 Store in diff",
+    "icon": "/icons/com.github.cvzi.screenshottile.png"
+  },
+  "com.frack.spotiqten": {
+    "title": "SpotiQ Ten - Equalizer Booster",
+    "package": "com.frack.spotiqten",
+    "description": "Looking for a powerful 10 band equalizer with advanced professional features? Here\u2019s an amazing sound equalizer and bass booster app for android -SpotiQ Ten Equalizer that improves the sound quality of all your audio devices with the best management technology.\n\nMain Features\nBelow are the main features of the SpotiQ Ten Equalizer app:\n\n\u2605  10 Band equalizer\n\u2605  Equalizer Sound Booster \n\u2605  Volume Amplifier (volume booster)\n\u2605  Integration with Spotify\n\u2605  Professional Compressor\n\u2605  One Song <-> One Equalizer : Preset management system\n\n\n\u221a SpotiQ is fully compatible with Spotify and all the music/video player apps!\n\u221a SpotiQ can renew your headphones, Bluetooth speakers, Audio and Sound Systems, Hi-fi, and Car Audio!\n\n\nWant to hear something new? Audiophile can finally rejoice as the new music e",
+    "icon": "/icons/com.frack.spotiqten.png"
+  },
+  "com.google.android.contactkeys": {
+    "title": "Android System Key Verifier",
+    "package": "com.google.android.contactkeys",
+    "description": "The Android System Key Verifier is a system service designed to improve the security of end-to-end encrypted (E2EE) messaging apps. It provides a unified system for public key verification across different apps. It lets developers store end-to-end encryption keys. It lets users verify that their apps are using the correct public keys when communicating, confirming that users are communicating with the person they intended to message."
+  },
+  "com.internet.speed.meter.lite": {
+    "title": "Internet Speed Meter Lite",
+    "package": "com.internet.speed.meter.lite",
+    "description": "Monitor Your Mobile Data & WiFi Speed with Internet Speed Meter Lite!\n\nInternet Speed Meter Lite is a lightweight, battery-efficient app designed to give you real-time insights into your data usage and network performance, directly in your status bar and notification pane.  Stay informed about your connection speed and data consumption, whether you're on mobile data or WiFi.\n\nKey Features:\n\n* Real-time Speed Updates:  See your current internet speed at a glance in your status bar and notification.  Perfect for troubleshooting slow connections or testing network performance.\n* Data Usage Tracking: Monitor your daily data usage directly in your notification pane.  Keep track of your mobile data and WiFi usage separately to avoid overage charges and stay within your data limits.\n* Historical ",
+    "icon": "/icons/com.internet.speed.meter.lite.webp"
+  },
+  "com.ist.quotescreator": {
+    "title": "Quotes Creator - Quote Maker",
+    "package": "com.ist.quotescreator",
+    "description": "Share your own thoughts or words with picture. Quotes Creator is the best quote maker app to create your quote. Create beautiful inspirational text pictures and sayings images for Instagram. Add poems or quotes to a photo and share your thoughts on Instagram. You can also add your own watermark, logo and QR code.\n\nQuotes Creator is the best and easiest way to create and share your quotes with the world. Quotes Creator ready with customizing options such as background, text colors, text size, and fonts, or you can choose your photo from your Photo Gallery to be used as background, so you can share your own quotes with your friends.\n\nWrite your quote, poems, emotions, thoughts, haiku or any kind of writings and design them into visually stunning posts using creative designing tools. Make you",
+    "icon": "/icons/com.ist.quotescreator.png"
+  },
+  "com.jaredco.screengrabber8": {
+    "title": "Screenshot X - Screen Capture",
+    "package": "com.jaredco.screengrabber8",
+    "description": "Capture screenshots with one click!\n\nScreenshot X - Screen Capture Tool - the fastest and easiest way to take and share screenshots!\n\nPowerful Screenshot Tool - Capture Screenshots in 1 click!\n\nDownload Screenshot X, a FREE screen tool to instantly capture screens and share screenshots. Just open the app (snipping tool), and an icon will appear on your phone's screen. Tap on the icon anytime you want to grab a screenshot. Then you can immediately share or save the screenshot through other apps: messaging apps, emails, clouds, photo editing, or other phone tools! \n\nScreen Capture for all device types \u2705\nTired of trying to capture screenshots with one hand or even two? With bigger phones, capturing the screen by pressing two buttons simultaneously is hard, and so are other gestures that mess ",
+    "icon": "/icons/com.jaredco.screengrabber8.png"
+  },
+  "com.kodarkooperativet.blackplayerex": {
+    "title": "BlackPlayer EX",
+    "package": "com.kodarkooperativet.blackplayerex",
+    "description": "BlackPlayer Exclusive - Premium MP3 Music Player\n\nBlackPlayer EX removes the Ads to focus on what matters the most, music. Includes tons of extra premium features. Of course all of the excellent features of standard BlackPlayer is also included in this music player. Make your own interface with the customization found in the Settings menu. \n\n Extra features:\n- Light theme!\n- 6 Extra Fonts, including option to use System font.\n- 11 Color accents.\n- 8 Extra Now Playing Themes\n- White Widget theme.\n- Chromecast support (activate in Audio settings)\n- Group music by Year and Composers\n- Customizable crossfading\n- Customize the Library pages completely. Add, Remove and sort.\n- Screen Always on option.\n- Screen rotation lock.\n- Change the Library startpage.\n- Custom grid size for Artists & Albums",
+    "icon": "/icons/com.kodarkooperativet.blackplayerex.png"
+  },
+  "com.lknninex.enix": {
+    "title": "ENIX Icon Pack",
+    "package": "com.lknninex.enix",
+    "description": "Unique, Shapeless, Vibrant and MORE\n\nFEATURES:\n\u2022 4200+ Unique icons\n\u2022 Lots of alternative icons\n\u2022 Special dock Icons\n\u2022 Dynamic calendar Icons\n\u2022 Custom folder icons\n\u2022 Custom app drawer icons\n\u2022 Cloud based Wallpapers \n\u2022 Icon request tool\n\u2022 Regular Updates\n\nHow to use this Icon pack?\n1. Install a supported Launcher\n2. Open Enix, go to Apply section and Select Launcher to apply. If your launcher is not in a list make sure you apply it from your launcher settings\n\nDISCLAIMER\n\u2022 A supported launcher is required to use this icon pack!\n\u2022 FAQ section inside the app which answers a lot of questions you may have. Please read it before you emailing your question.\n\nSUPPORTED LAUNCHERS:\n \u2022 Action Launcher \u2022 ABC Launcher \u2022 ADW Launcher \u2022 Apex Launcher \u2022 Atom Launcher \u2022 ASAP Launcher \u2022 Aviate Launcher \u2022 CM",
+    "icon": "/icons/com.lknninex.enix.png"
+  },
+  "com.joyal.swyplauncher": {
+    "title": "Swyp Launcher",
+    "package": "com.joyal.swyplauncher",
+    "description": "Swyp Launcher is a free Android assistant application that serves as a launcher to launch apps quickly. The app provides four distinct interaction modes (handwriting, index, keyboard, and voice) optimized for single-handed operation. All UI elements are positioned in the bottom half of the screen for easy thumb access. It's completely free, and all four modes run locally without any internet connection.\n\n\nFour Interaction Modes\n- Handwriting Mode: Draw letters or gestures to find apps using on-device ML Kit recognition\n- Index Mode: Browse apps alphabetically with letter-based grid navigation\n- Keyboard Mode: Traditional text search with real-time filtering and calculator support\n- Voice Mode: Hands-free app launching with speech recognition\n\nSmart Features\n- Usage-Based Ranking: Apps auto",
+    "icon": "/icons/com.joyal.swyplauncher.png"
+  },
+  "com.niksoftware.snapseed": {
+    "title": "Snapseed",
+    "package": "com.niksoftware.snapseed",
+    "description": "Snapseed is a complete and professional photo editor developed by Google.\n\n\n\n== KEY FEATURES==\n\n\u2022 29 Tools and Filters, including: Healing, Brush, Structure, HDR, Perspective (see list below)\n\n\u2022 Opens JPG and RAW files\n\n\u2022 Save your personal looks and apply them to new photos later\n\n\u2022 Selective filter brush\n\n\u2022 All styles can be tweaked with fine, precise control\n\n\n\n== TOOLS, FILTERS AND FACE ==\n\n\u2022 RAW Develop \u2013 open and tweak RAW DNG files; save non-destructively or export as JPG\n\n\u2022 Tune image \u2013 adjust exposure and color automatically or manually with fine, precise control\n\n\u2022 Details \u2013 magically brings out surface structures in images\n\n\u2022 Crop \u2013 crop to standard sizes or freely\n\n\u2022 Rotate \u2013 rotate by 90\u00b0, or straighten a skewed horizon\n\n\u2022 Perspective \u2013 fix skewed lines and perfect the geometr",
+    "icon": "/icons/com.niksoftware.snapseed.png"
+  },
+  "com.prismtree.sponge": {
+    "title": "Sponge - Gallery Cleaner",
+    "package": "com.prismtree.sponge",
+    "description": "Sponge makes decluttering your phone gallery fun and easy with a gamified experience. Simply swipe to remove unwanted photos and videos and enjoy watching your gallery clear up in no time. It remembers where you left off, so you can pick up your cleaning session right where you stopped.\n\nYou can organize your gallery by month or album, and experience the satisfaction of checking off each one like a to-do list. You can also move photos and videos to your desired folders while swiping, so you\u2019re not just deleting, but truly organizing.\n\nFeeling adventurous? Try the random clean mode and let Sponge surprise you with what comes next.\n\nSort your media by size, date, or name, and clean in the order that works best for you. Sponge makes decluttering feel less like a chore and more like a mini win",
+    "icon": "/icons/com.prismtree.sponge.png"
+  },
+  "com.tasks.android": {
+    "title": "Tasks: To Do List & Reminders",
+    "package": "com.tasks.android",
+    "description": "Tasks is a beautifully simple, ad-free, and privacy-focused to do list, planner, and reminders app designed to organize your busy life effortlessly and increase your productivity. Stay on top of your daily tasks, plan projects, set reminders, and schedule events\u2014all in one easy-to-use app.\n\n\u2714 To Do List & Task Manager \u2013 Create, organize, and prioritize your tasks and increase your productivity\n\u2714 Daily Planner & Calendar \u2013 Plan your day, week, and month with ease\n\u2714 Smart Reminders \u2013 Set due dates and get timely notifications and alarms\n\u2714 Privacy First \u2013 Your data belongs to you, no ads or trackers. Privacy as it should be!\n\u2714 Easy Task Entry \u2013 Quick add tasks via shortcuts, persistent notification, or share from other apps. Making task entry simple and efficient.\n\nIf you ever need any help w",
+    "icon": "/icons/com.tasks.android.png"
+  },
+  "com.yoshi.rain": {
+    "title": "Rain",
+    "package": "com.yoshi.rain",
+    "description": "This application allows you to view the weather in your city.\nThe following options are provided:\n- View current weather\n- View weather by hour\n- View the weather for the week\n- View detailed weather data\n- Localization (ru/en/it/de/fr/tr/pt/es/sk/nl/hi/ro/zh/pl)\n- Data caching\n- Choose the city yourself\n- Adding cards of other cities\n- The choice between the metric system of measures and the imperial\n- Choose between Celsius and Fahrenheit\n- Choosing between 12-hour and 24-hour time formats\n- Notifications\nWe also tried to make the design as convenient and beautiful as possible.",
+    "icon": "/icons/com.yoshi.rain.png"
+  },
+  "dev.anilbeesetti.nextplayer": {
+    "title": "Next Player",
+    "package": "dev.anilbeesetti.nextplayer",
+    "description": "Next Player is a native video player written in Kotlin and jetpack compose. It provides a simple and easy-to-use interface for users to play videos on their Android devices\n\nThis project is still in development and is expected to have bugs\n\nSupported formats:\n\n * Audio: Vorbis, Opus, FLAC, ALAC, PCM/WAVE (\u03bc-law, A-law), MP1, MP2, MP3, AMR (NB, WB), AAC (LC, ELD, HE; xHE on Android 9+), AC-3, E-AC-3, DTS, DTS-HD, TrueHD\n * Video: H.263, H.264 AVC (Baseline Profile; Main Profile on Android 6+), H.265 HEVC, MPEG-4 SP, VP8, VP9, AV1\n * Streaming: DASH, HLS, RTSP\n * Subtitles: SRT, SSA, ASS, TTML, VTT\n\nKey Features:\n\n * Native Android app with simple and easy-to-use interface\n * Completely free and open source and without any ads or excessive permissions\n * Material 3 (you) support\n * Audio/Sub",
+    "icon": "/icons/dev.anilbeesetti.nextplayer.png"
+  },
+  "eu.livesport.FlashScore_com": {
+    "title": "eu.livesport.FlashScore_com",
+    "package": "eu.livesport.FlashScore_com"
+  },
+  "io.github.giuig.auraninja": {
+    "title": "io.github.giuig.auraninja",
+    "package": "io.github.giuig.auraninja"
+  },
+  "livio.pack.lang.en_US": {
+    "title": "English Dictionary - Offline",
+    "package": "livio.pack.lang.en_US",
+    "description": "Discover the meaning of English words with our free, offline English dictionary app. Powered by the authoritative English Wiktionary, our app offers quick searches and a user-friendly interface designed for both phones and tablets. No internet connection required\u2014download once and enjoy instant access to definitions anytime, anywhere.\n\nFeatures\n\u2666 More than 594000 english definitions and large number of inflected forms\n\u2666 You can leaf through words using your finger (swipe right and left)\n\u2666 Manage your bookmarks, personal notes and search history. \"Organize bookmarks and notes using user defined categories. Create and edit your categories as needed.\n\u2666 Crossword help: the symbol ? can be used in place of single unknown letter. The symbol * can be used in place of any group of letters. The ful",
+    "icon": "/icons/livio.pack.lang.en_US.png"
+  },
+  "mobi.infolife.appbackup": {
+    "title": "Backup and Restore - APP",
+    "package": "mobi.infolife.appbackup",
+    "description": "App Backup Restore can Backup & Restore APK files of apps that are not frequently used to save storage of a phone. Easiest Backup & Restore multi versions to avoid unnecessary updates. \nTransfer & Share APK files between Android devices. \n\n\u2605 Editor's Choice\nNo.1 in \"10 best Android backup apps ... to backup Android, save storage of phone !\u201d - Android Authority\nNo.1 Easy Backup & Restore APK assistant in \u201c10 Best Android Backup Apk assistant\u201d - Tom\u2019s Guide\n\n\u25c8 Local / Cloud Backup & Restore\n\u2713 APK backup & restore\n\u2713 Photo backup & restore\n\n\u25c8 Transfer & Share in Seconds\n\u2713 APK send & receive\n\u2713 Photos send & receive\n\n\u25c8 Features\n\u2022 Batch backup, restore, transfer, share\n\u2022 Batch Backup & Restore to internal storage of phone by default\n\u2022 Batch Backup & Restore to SD card or USB\n\u2022 Upload & Download t",
+    "icon": "/icons/mobi.infolife.appbackup.png"
+  },
+  "it.ncaferra.pixelplayerpaid": {
+    "title": "Pixel+ - Music Player",
+    "package": "it.ncaferra.pixelplayerpaid",
+    "description": "Are you looking for a single app for Music, Radio & Podcast ? \nPixel is a complete Music Player, crafted with Material Design in mind and full of powerful features.\n\n\n\u272e MUSIC PLAYER \u272e\nBrowse your local music library with the powerful music player. Intuitive UI and many features.\nBrowse your music files by Folder view\n\n\u272e RADIO PLAYER \u272e\nListen to your favorite online radio stations and search them by genre or keyword.\nDon't you know what to listen ? No problem. Pixel will suggest you radio stations in line with your favorite genres/artists \n\n\u272e PODCAST PLAYER \u272e\nSearch Podcasts or explore Podcast by categories. Subscribe to your favorite Podcast; watch or listen to the entire list of episodes.\nReceive notification when your favorite podcasts publish a new episode. \n\n\u272e VIDEO PLAYER \u272e\nBrowse you",
+    "icon": "/icons/it.ncaferra.pixelplayerpaid.png"
+  },
+  "mw.co.tnm.topup.tnmsmartapp": {
+    "title": "TNM Smart App",
+    "package": "mw.co.tnm.topup.tnmsmartapp",
+    "description": "The TNM Smart App is an application that helps you manage your prepaid, postpaid and mobile money services on TNM phone numbers. Here are some of the activities you are able to do with this app:\n\u2022 Checking balances for airtime, bundles and Mpamba wallet\n\u2022 Viewing your monthly data, SMS, and airtime use\n\u2022 Recharging your numbers with airtime and bundles\n\u2022 Sharing your airtime and bundles\n\u2022 Staying up to date with in-app promotions\n\u2022 Managing your phone numbers and associated accounts\n\u2022 Accessing Yanga dynamic tariffs\n\u2022 Borrowing Pasavute airtime and bundles\n\u2022 Paying for utilities, subscriptions and other services\n\u2022 Purchasing goods and services from merchants\n\u2022 Transferring money between mobile payment services\n\u2022 Sending money to banks\n\u2022 Withdrawing cash from Mpamba agents\n\u2022 Betting and man",
+    "icon": "/icons/mw.co.tnm.topup.tnmsmartapp.jpg"
+  },
+  "org.hackesta.tweet2pic": {
+    "title": "Tweet2Pic",
+    "package": "org.hackesta.tweet2pic",
+    "description": "Tweet2Pic allows you to save a tweet as an image. The image can be downloaded to your device or can be directly shared to any app of your choice.\n\nTweet2Pic creates images that are clean and professional, perfect for sharing!\n\nHow to use?\nEither copy-paste the link of a tweet into the app or share the link to this app and it will generate the image for you. You can also choose if you want the tweet in a Dark or Light theme.\n\nIs it possible to hide media>\nIf the Tweet has images or videos in it, you can choose the option to hide media.\n\nImage of reply Tweet only?\nIf the Tweet is a reply to another Tweet, you can choose the option to hide parent, and only the reply will be converted to an image.\n\nSharing to Instagram\nTweet2Pic offers an option to save/share the image in square resolution, pe",
+    "icon": "/icons/org.hackesta.tweet2pic.png"
+  },
+  "stickermaker.stickercreater.whatsappstickers.stickermakerforwhatsapp": {
+    "title": "Sticker Maker - WASticker",
+    "package": "stickermaker.stickercreater.whatsappstickers.stickermakerforwhatsapp",
+    "description": "Looking for a free whatsapp sticker maker app? Want to turn your photos into funny whatsapp stickers quickly and easily? Want to challenge how cool and fun your whatsapp stickers can be? Well, this WhatsApp sticker maker application is exactly what you want.\n\nIt is really a cool WhatsApp sticker maker App. Download this app \u201cSticker Maker - Make Sticker for WhatsApp stickers\u201d to create whatsapp stickers now.\n\nHow to create stickers for WhatsApp?\nIt only takes 3 steps to make stickers.\nChoose a picture and cut up the cluttered background from the picture\nAdd text stickers or decorations to make your stickers look more vivid. Then Save.\nClick export to add your stickers or text sticker to whatsapp.\nDone. Now chat with your friends using your own stickers.\n\nWhat\u2019s the Top Features ?\n\ud83e\udd20 It is a",
+    "icon": "/icons/stickermaker.stickercreater.whatsappstickers.stickermakerforwhatsapp.png"
+  },
+  "sun.jyc.cwm": {
+    "title": "sun.jyc.cwm",
+    "package": "sun.jyc.cwm"
+  },
+  "tweeter.gif.twittervideodownloader": {
+    "title": "Download Twitter Videos - GIF",
+    "package": "tweeter.gif.twittervideodownloader",
+    "description": "Twitter Video Downloader app helps you to download Twitter videos and gif that you love to your device in the easy and quick way, so you can open the video anytime, anywhere you want or share it with your friends, save the internet traffic.\n\nFeatured:\n\ud83d\udcaa Download Twitter videos very easy and fast with some simple steps.\n\ud83c\udfc2 Use a database to save your query, save internet traffic, help you avoid download same Twitter videos | GIF.\n\ud83c\udfcb\ufe0f Can choose the video resolutions(if +1 video available) to download.\n\ud83d\udc9c Can show the size of the download video, easy to decide which the video you should download.\n\ud83e\udd3a Built-in share function, easy to share the actual video to other social apps such as Snapchat, Instagram, WhatsApp, Facebook...\n\u26f9\ufe0f The downloaded videos saved to external storage, help you can play o",
+    "icon": "/icons/tweeter.gif.twittervideodownloader.png"
+  },
+  "org.shiurbank.mobile": {
+    "title": "ShiurBank",
+    "package": "org.shiurbank.mobile",
+    "description": "ShiurBank \u2013 Your Rebbe\u2019s Shiurim, Organized Forever\n\nShiurBank is the easiest way to listen to, save, and organize your Rebbe\u2019s shiurim \u2014 all in one private place.\nNo more WhatsApp chats disappearing, Google Drive folders getting messy, or lost recordings. Every shiur is secure, searchable, and available anytime.\n\nKey Features\n\nPrivate Access Only\nRebbe-approved talmidim get access \u2014 no public posting like other Torah platforms.\n\nInstant Uploads\nRebbeim or gabbaim can upload new shiurim in seconds.\n\nClean, Simple Player\nListen at your own pace, track progress, and resume where you left off.\n\nOrganized By Category\nTopics, dates, series, masechtos \u2014 everything is neatly arranged.\n\nCloud Backup\nYour shiurim are always synced and never get lost.\n\nFor Every Yeshiva\nAny talmid can set up a priva",
+    "icon": "/icons/org.shiurbank.mobile.png"
+  },
+  "com.alif.ide": {
+    "title": "Code Studio",
+    "package": "com.alif.ide",
+    "description": "Code Studio is an integrated development environment(ide) for developing android apps, java console programs and web sites on your device with support for auto completion and real time error checking among others.\n\n\n Features \n\n Editor \n- Code completion for java.\n- Real Time error checking.\n- Auto backup if you leave the app without saving.\n- Undo and Redo.\n- Support for characters not normally present in the virtual keyboard like tabs and arrows.\n\n Terminal \n- Access the shell and commands that ship with android.\n- Preinstalled with basic unix command like grep and find(Missing in older android versions but newer devices already ship with them)\n- Support for tab and arrows even if the virtual keyboard lacks them.\n\n File Manager \n- Access your files without leaving the app.\n- Copy, Paste ",
+    "icon": "/icons/com.alif.ide.png"
+  },
+  "com.realvnc.viewer.android": {
+    "title": "RealVNC Viewer: Remote Desktop",
+    "package": "com.realvnc.viewer.android",
+    "description": "RealVNC Viewer remote desktop\n \n \nRealVNC\u00ae Viewer turns your phone into a remote desktop, giving you instant access to your Mac, Windows and Linux computers from anywhere in the world. You can view your computer's desktop remotely, and control its mouse and keyboard as though you were sitting down in front of it.\n \nJust visit realvnc.com and download RealVNC Connect remote access software to each computer you want to control. Then sign in to RealVNC Viewer on your device using your RealVNC account credentials. Your remote computers automatically appear; simply tap one to screen share.\n \nAlternatively, you can connect directly to RealVNC Connect with an Enterprise subscription or VNC-compatible software from third parties by entering the remote computer's IP address. Note that you may need ",
+    "icon": "/icons/com.realvnc.viewer.android.png"
+  },
+  "tech.ula": {
+    "title": "UserLAnd - Linux on Android",
+    "package": "tech.ula",
+    "description": "UserLAnd is an open-source app which allows you to run several Linux distributions like Ubuntu,\nDebian, and Kali. \n\n- No need to root your device.\n- Use a built-in terminal to access your favorite shells.\n- Easily connect to VNC sessions for a graphical experience.\n- Easy setup for several common Linux distributions, like Ubuntu and Debian.\n- Easy setup for several common Linux applications, like Octave and Firefox.\n- A way to experiment and learn Linux and other common software tools from the palm of your hand.\n\nUserLAnd was created and is being actively maintained by the folks behind the popular Android\napplication, GNURoot Debian. It is meant as a replacement for the original GNURoot Debian app.\n\nWhen UserLAnd first launches, it presents a list of common distributions and Linux applicat",
+    "icon": "/icons/tech.ula.png"
+  },
+  "com.karmaa.termix": {
+    "title": "Termix - SSH Companion",
+    "package": "com.karmaa.termix",
+    "description": "Requires a Termix server - install at https://docs.termix.site/install\n\nFull remote SSH control of your servers with Termix, the ultimate SSH server management tool. It connects to your existing Termix server to provide you with SSH server access.\n\nSSH Terminal:\nFull-featured SSH terminal with customization features and multi-session terminal support managed through tabs.\n\nSwitch between two keyboard modes: the system keyboard and a custom terminal keyboard that is optimized for terminal use. The custom keyboard is completely configurable to your preferences and also includes the snippets feature.\n\nHas support for background-keepalive, VoiceOver, dication, Bluetooth/physical keyboards, emojis, etc.\n\nSSH File Manager\nView, edit, modify, and move files and folders via SSH.\n\nSSH Server Stats\n",
+    "icon": "/icons/com.karmaa.termix.png"
+  },
+  "com.tehnomixbg.shopping": {
+    "title": "Tehnomix",
+    "package": "com.tehnomixbg.shopping",
+    "description": "Welcome to the official application of Tehnomix - the leading online store for appliances and electronics in Bulgaria! Here you will find the best offers and promotions for a wide range of products - household appliances: white goods, electronics and air conditioning.\n\nWe work with all major brands including Miele, Dyson, Smeg, Bosch, Jura, AEG, Philips, Sony, Samsung, Neff, Valera, Gaggia, Whirlpool, Liebherr, Electrolux, etc.\n\n- Quickly and conveniently browse and order products from our extensive product catalog.\n\n- Choose from a wide assortment and maximum variety of products from leading, premium brands in the industry.\n\n- Receive push notifications about new products, special discounts and promotions available only to app users.\n\n- Track the status of your orders directly from your p",
+    "icon": "/icons/com.tehnomixbg.shopping.png"
+  },
+  "com.mcanswer.sshterminal": {
+    "title": "Termux App - SSH & Terminal",
+    "package": "com.mcanswer.sshterminal",
+    "description": "Termux App: Powerful terminal, SSH, FTP & SFTP - mobile server tool for devs. \n\n\nTermux App is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, Termux App makes managing your servers and running commands easier than ever.\n\n\n\nKey Features:\n\n\n\nQuick Connect to Your Server\n\nAccess your remote servers with just a tap. Termux App makes connecting fast and simple, so you can focus on what matters.\n\n\n\nChoose a Theme for Your Terminal and Keyboard\n\nPersonalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.\n\n\n\nAccess Support and Manage Settings\n\nEasily man",
+    "icon": "/icons/com.mcanswer.sshterminal.jpg"
+  },
+  "com.shikudo.focus.google": {
+    "title": "Focus Plant: Pomodoro Forest",
+    "package": "com.shikudo.focus.google",
+    "description": "Focus Plant is not only a focus timer and study timer but also a gamified learning app. It assists in beating phone addiction, improving productivity, self-control, and concentration on learning and work, all while encouraging a 'Better Me' mindset. Stay concentrated with Focus Plant!\n\nStart your focus session and save the barren landscape by turning your focus time into raindrops and grow plants and flora. Get as many plants as you can, and turn the land into forest. \n\nUnlike other study apps, you can also sync mediation time from Google Fit and enjoy the game along with existing focus apps, or study timer like plantie, flora green focus, focus to do, timetree, calm, headspace, forest app, habitica, nox ocean, plant nanny, eggzy, flipd, flip, socratic, planty, study bunny, tomato timer, p",
+    "icon": "/icons/com.shikudo.focus.google.png"
+  },
+  "com.focusschoolsoftware.community.bps": {
+    "title": "BPS Focus",
+    "package": "com.focusschoolsoftware.community.bps",
+    "description": "Stay connected to your child's education with the Brevard Public Schools Community app. Receive real-time notifications of grades, attendance, upcoming assignments, and test scores. Conveniently view your school's Facebook, Twitter, and RSS news feeds to stay up to date on recent events and upcoming school activities. Get easy access to important links to help manage lunch payments, extracurricular activities, bus routes, and more.",
+    "icon": "/icons/com.focusschoolsoftware.community.bps.jpg"
+  },
+  "com.tellmewow.focus": {
+    "title": "Focus - Brain & Memory Games",
+    "package": "com.tellmewow.focus",
+    "description": "Do you want to keep your mind healthy and active? Looking for the best brain games to improve your logic, memory, and attention span?\n\nFocus is a complete brain training app designed by experts to boost your cognitive skills. Whether you want to improve your IQ, prevent cognitive decline, or just have fun with smart logic puzzles, we have the perfect daily workout for you.\n\nJoin thousands of users in the ultimate gym for the brain.\n\n\ud83e\udde0 COMPLETE MIND TRAINING IN 4 AREAS\nFocus is not just about memory games for adults. We offer over 25 different exercises categorized to train specific areas of your brain:\n\nLogic & Reasoning: Solve IQ puzzles, find patterns, and boost your problem-solving skills. Perfect for those who love mind focusing games.\n\nMemory Games: Train your short-term and visual me",
+    "icon": "/icons/com.tellmewow.focus.png"
+  },
+  "com.shikudo.focus.study.forest.pomodoro.productivity.hero.rpg.android": {
+    "title": "Focus Quest: Pomodoro adhd app",
+    "package": "com.shikudo.focus.study.forest.pomodoro.productivity.hero.rpg.android",
+    "description": "Focus Quest is a productivity RPG gamification. It helps you to beat phone addiction, manage ADHD, avoid distractions, stop procrastination, and improve work productivity, self-control, and concentration.\n\nFocus Quest incorporates gamification elements to provide a \"focus booster\" for users seeking to stop procrastination and stay on task. By completing challenges and earning rewards, users can feel more \"centered\" and in control of their daily routines and long-term goals. Overall, Focus Quest's unique blend of gamification and productivity tools offers users an engaging and effective way to boost their productivity and stay \"centered\" on their goals.\n\nFEATURES:\n\n* A unique game to beat phone addiction, help with ADHD,  avoid distractions, stop procrastination, improve productivity and wo",
+    "icon": "/icons/com.shikudo.focus.study.forest.pomodoro.productivity.hero.rpg.android.png"
+  },
+  "hot.fiery.browser": {
+    "title": "Fiery Browser - Fast & Private",
+    "package": "hot.fiery.browser",
+    "description": "\ud83c\udfc6 Firey Browser is fast, safe and private! It is the best free web browser for Android devices, with fast video download function and powerful ad blocker, with incognito browsing and data saving functions. It is also a full-featured dedicated browser downloader and fast video downloader.  \n\n\ud83c\udf3bThe free internet explorer browser downloader app is a full-featured private browser downloader & HD video downloader app, You can download all-format videos and social media content at a lightning speed.\n\n\u272aMain features\u272a\n\n\u2605Fast Browsing and Downloads: Access websites, download multiple files (videos, audio, documents and more) with the speed of light. Download online videos easily from lots of websites: Facebook\u3001Instagram and etc.\n\n\u2605Smart Video Downloader and Video Player: Automatically detects videos",
+    "icon": "/icons/hot.fiery.browser.webp"
+  },
+  "nu.tommie.inbrowser": {
+    "title": "InBrowser - Incognito Browsing",
+    "package": "nu.tommie.inbrowser",
+    "description": "InBrowser is an incognito/private browser for Android with TOR and video support. Each time you exit InBrowser, everything you\u2019ve done in the app will be erased, including history, cookies, and sessions. InBrowser is a feature rich browser, and it\u2019s in permanent private mode.\n\n\u2606 This is the optimal browser if you want to visit adult websites, dating sites, medical sites, check Facebook on a friends device, watch a video or anything else without anyone finding out! \u2606 \n\nFeatures:\n\n\u2713 Absolutely no data is saved.\nWhen you exit the app, all data and history is removed. Everything that goes on in the browser is removed when you hit Home, Exit, or Close.\n\n\u2713 The Onion Router (TOR) support via Orbot.\nBrowse the Internet anonymously and encrypted through the TOR network and access content that has b",
+    "icon": "/icons/nu.tommie.inbrowser.png"
+  },
+  "org.mozilla.focus": {
+    "title": "Firefox Focus: No Fuss Browser",
+    "package": "org.mozilla.focus",
+    "description": "Use Firefox Focus for everything you want to keep separate from your main browser \u2014 for all those get in get out and forget about it moments. No tabs, no fuss, no muss. Block online trackers too. One tap, and your browsing history is completely destroyed. \n \nFirefox Focus is the perfect get in/get out, search and destroy, I\u2019m on a mission that\u2019s none-of-your-business \u2014 web browser. \n\nNEW DISTRACTION-FREE DESIGN\nWhen you open Focus, you just get the awesome bar and the keyboard for super quick searching. That\u2019s it. No recent history, no past sites, no open tabs, no ads trackers, no distractions. Just a simple, minimal design with menus that make sense.  \n\nONE TAP TO DELETE HISTORY\nErase your history, passwords and cookies with just a tap of the trash button. \n\nCREATE SHORTCUTS\nPin up to fou",
+    "icon": "/icons/org.mozilla.focus.webp"
+  },
+  "com.cosmicapps.astrogold": {
+    "title": "Astro Gold",
+    "package": "com.cosmicapps.astrogold",
+    "description": "Astro Gold is the professional-level astrology Android app that you have been waiting for!\n\nYou asked for, and we have delivered, professional software on a mobile device. Along with high precision calculations you can also read professional astrological interpretations. Astro Gold v2 features Natal, Transit, Progression and Synastry interpretations, making astrology on-the-go even easier. \n\nThe app is clean, clear and precise, and uses the latest Swiss Ephemeris and ACS Atlas files.\n\nIf you love astrology and want a professional astrology app then look no further.\u00a0If you are a user of the Solar Fire PC program then you can exchange chart files between this app and your Solar Fire program via email import and export.\n\nCharts\n\u2022 Cast new Natal charts\n\u2022 Cast Solar Return charts\n\u2022 Cast Seconda",
+    "icon": "/icons/com.cosmicapps.astrogold.png"
+  },
+  "com.astro.astroview": {
+    "title": "My Astro",
+    "package": "com.astro.astroview",
+    "description": "Whether you\u2019re on a mission to pay bills, looking to redeem exclusive rewards, or needing support around the clock, My Astro App makes it all easier for all our customers. \n\nWith My Astro app, now you can get:\u202f \n\n1) Guest Mode: Curious about what our app can do? With Guest Mode, you can dive in and discover key features\u2013no sign-up or login required. Experience the app, explore its benefits, and see the value for yourself before making a commitment. \n\n2) Pay Bills: With just a click of a button, you can pay bills from anywhere. It's that easy! \n\n3) Easy Access to Agent Support: Whenever you need help with anything Astro-related, don\u2019t worry, our live agents are ready to support you. \n\n4) Exclusive Rewards: Looking for the best rewards in town? Browse our Astro rewards and redeem tickets to ",
+    "icon": "/icons/com.astro.astroview.png"
+  },
+  "com.astro.fast": {
+    "title": "Astro Fast",
+    "package": "com.astro.fast",
+    "description": "AstroFast is a Cameroon bus booking system,  connecting the major agencies in Cameroon together,  and making it possible for people to book their bus tickets from the comfort of their homes,  and even select their seats of choice in the bus.. facilitated with easy payment methods like MTN Mobile money and Orange Money payments. With instant e-tickets generated after your booking which serves as your booking confirmation and accepted at all our partner agencies. With a system that gives you remindals of your departure time and dates so you never miss your bus.",
+    "icon": "/icons/com.astro.fast.png"
+  },
+  "com.dci.dev.androidtwelvewidgets": {
+    "title": "Android Widgets (Material U)",
+    "package": "com.dci.dev.androidtwelvewidgets",
+    "description": "\ud83d\udcf1 Beautiful, Adaptive Widgets for Every Home Screen\n\ud83c\udf1f Revolutionize Your Home Screen with Material U Widgets! \ud83c\udf1f\n\nBring the modern, sleek look of Android's Material U widgets to your phone, no matter what device you use! With Android Widgets (Material U), you can customize your home screen with beautifully designed, adaptive widgets that seamlessly change colors to match your wallpaper. It's the ultimate way to personalize your device and make it truly yours!\n\n\ud83d\udee0\ufe0f Widgets Included:\n\ud83d\udd52 Clock Widgets \u2013 Minimal analog & digital clocks for any style.\n\ud83c\udf26\ufe0f Weather & Forecast \u2013 Stay updated with real-time weather and future predictions.\n\ud83d\udcc5 Calendar & Events \u2013 Track your schedule with a modern agenda widget.\n\ud83d\udd0b Battery & Device Info \u2013 Monitor battery life and system performance at a glance.\n\ud83d\udd14 Notificati",
+    "icon": "/icons/com.dci.dev.androidtwelvewidgets.png"
+  },
+  "de.box601.achsboxcaster": {
+    "title": "AchsBoxCaster - Caster and KPI",
+    "package": "de.box601.achsboxcaster",
+    "description": "This app is only intended for users who have specialist knowledge in the field of wheel alignment and automotive technology.\nThe operation of the app and the adjustment work on the vehicle require vehicle and chassis knowledge as well as a corresponding qualification.\nThe user must have specialist knowledge (wheel alignment and vehicle technology)!\n\nAchsBoxCaster uses the smartphone's gyroscope and acceleration sensors to calculate caster and SAI.\nIn order to be able to use the complete range of functions (*) of the app, your device should have a gyroscope sensor.\n\nThe device is fixed on top of the tire tread or on the outside of the rim. The instructions are issued via TTS voice output and as on-screen text.\nSimple sliding plates (e.g. 4 pieces ABS plastic plates) or turntables are recomm"
+  },
+  "com.google.android.apps.photo": {
+    "title": "com.google.android.apps.photo",
+    "package": "com.google.android.apps.photo",
+    "icon": "/icons/com.google.android.apps.photo.png"
+  },
+  "com.arabiait.sunna": {
+    "title": "\u062c\u0627\u0645\u0639 \u0627\u0644\u0643\u062a\u0628 \u0627\u0644\u062a\u0633\u0639\u0629",
+    "package": "com.arabiait.sunna",
+    "description": "\u062c\u0627\u0645\u0639 \u0627\u0644\u0643\u062a\u0628 \u0627\u0644\u062a\u0633\u0639\u0629 \u0623\u062f\u0642 \u0648\u0623\u0634\u0645\u0644 \u062a\u0637\u0628\u064a\u0642 \u0625\u0633\u0644\u0627\u0645\u064a  \u062e\u0627\u0635 \u0628\u0639\u0644\u0645 \u0627\u0644\u062d\u062f\u064a\u062b \u0627\u0644\u0646\u0628\u0648\u064a \u0627\u0644\u0634\u0631\u064a\u0641 \u064a\u0634\u062a\u0645\u0644 \u0639\u0644\u0649 \u0643\u062a\u0628 \u0627\u0644\u062d\u062f\u064a\u062b \u0627\u0644\u062a\u0633\u0639\u0629 \u0627\u0644\u0645\u0634\u0647\u0648\u0631\u0629 \u0644\u062f\u0649 \u0639\u0644\u0645\u0627\u0621 \u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0646\u0628\u0648\u064a\u0629 \u0627\u0644\u0634\u0631\u064a\u0641\u0629 \u0648\u0627\u0644\u062a\u064a \u062a\u0639\u062a\u0628\u0631 \u0623\u0647\u0645 \u0627\u0644\u0645\u0631\u0627\u062c\u0639 \u0648\u0623\u0648\u0641\u0627\u0647\u0627 \u0648\u0623\u0634\u0645\u0644\u0647\u0627 \u0644\u0644\u062d\u062f\u064a\u062b \u0627\u0644\u0634\u0631\u064a\u0641 \u0648\u0627\u0644\u062a\u064a \u062a\u062a\u0636\u0645\u0646 \u0641\u062a\u062d \u0627\u0644\u0628\u0627\u0631\u064a \u0634\u0631\u062d \u0635\u062d\u064a\u062d \u0627\u0644\u0628\u062e\u0627\u0631\u064a \u0648 \u0643\u062a\u0627\u0628 \u0635\u062d\u064a\u062d \u0645\u0633\u0644\u0645 \u0628\u0634\u0631\u062d \u0627\u0644\u0646\u0648\u0648\u064a \u0648\u0643\u0630\u0644\u0643  \u0627\u0644\u0633\u0646\u0646 \u0627\u0644\u0623\u0631\u0628\u0639\u0629 \u0648\u0647\u064a  \u060c\u0639\u0648\u0646 \u0627\u0644\u0645\u0639\u0628\u0648\u062f \u0634\u0631\u062d \u0633\u0646\u0646 \u0623\u0628\u064a \u062f\u0627\u0648\u062f \u0648\u062a\u062d\u0641\u0629 \u0627\u0644\u0623\u062d\u0648\u0630\u064a \u0634\u0631\u062d \u0633\u0646\u0646 \u0627\u0644\u062a\u0631\u0645\u0630\u064a \u0648\u062d\u0627\u0634\u064a\u0629 \u0627\u0644\u0633\u0646\u062f\u064a \u0639\u0644\u0649 \u0643\u0644 \u0645\u0646  \u0633\u0646\u0646 \u0627\u0644\u0646\u0633\u0627\u0626\u064a \u060c\u0633\u0646\u0646 \u0628\u0646 \u0645\u0627\u062c\u0629 \u060c \u0633\u0646\u0646 \u0627\u0644\u062f\u0627\u0631\u0645\u064a \u0648 \u0645\u0633\u0646\u062f \u0627\u0644\u0625\u0645\u0627\u0645 \u0623\u062d\u0645\u062f \u0628\u0646 \u062d\u0646\u0628\u0644 \u0648\u0644\u0627 \u064a\u0641\u0648\u062a\u0646\u0627 \u0630\u0643\u0631 \u0627\u0644\u0645\u0646\u062a\u0642\u0649 \u0634\u0631\u062d \u0645\u0648\u0637\u0623 \u0627\u0644\u0625\u0645\u0627\u0645 \u0645\u0627\u0644\u0643\u060c \u0644\u064a\u0643\u0648\u0646 \u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0645\u0648\u0633\u0648\u0639\u0629 \u0627\u0644\u062d\u062f\u064a\u062b \u0627\u0644\u0634\u0631\u064a\u0641 \u0644\u0643\u0644 \u0637\u0627\u0644\u0628 \u0639\u0644\u0645 \u0641\u064a \u0627\u0644\u062d\u062f\u064a\u062b \u0644\u0627\u0643\u062a\u0634\u0627\u0641 \u0627\u0644\u062f\u0631\u0631 \u0627\u0644\u0633\u0646\u064a\u0629  \u0641\u064a \u0647\u062f\u064a \u0627\u0644\u0646\u0628\u064a \u0635\u0644\u0649 \u0627\u0644\u0644\u0647 \u0639\u0644\u064a\u0647 \u0648\u0633\u0644\u0645.\n\u0645\u0632\u0627\u064a\u0627 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\n* \u0643\u062a\u0628 \u0627\u0644\u062d\u062f\u064a\u062b \u0627\u0644\u062a\u0633\u0639\u0629 *\n\u0639\u0631\u0636 \u0644\u062c\u0645\u064a\u0639 \u0627\u0644\u0643\u062a\u0628 \u0627\u0644\u062a\u0633\u0639\u0629 \u0628\u0634\u0631\u0648\u062d\u0647\u0627 \u0648\u0641\u0642\u0627 \u0644\u0623\u062f\u0642 \u0627\u0644\u0646\u0633\u062e \u062a\u062d\u0642\u064a\u0642\u0627.\n* \u0631\u0648\u0627\u0629 \u0627\u0644\u062d\u062f\u064a\u062b *\n \u0627\u0644\u062a\u0639\u0631\u064a\u0641 \u0628\u0631\u0648\u0627\u0629 \u0627\u0644\u0623\u062d\u0627\u062f\u064a\u062b \u0627\u0644\u0634\u0631\u064a\u0641\u0629 \u0627\u0644\u062d\u062f\u064a\u062b \u0633\u0646\u062f \u0627\u0644\u0643\u062a\u0628 \u0627\u0644\u062a\u0633\u0639.\n* \u0627\u0644\u0628\u062d\u062b *\n\u0628\u062d\u062b \u0645\u062a\u0642\u062f\u0645 \u0628\u0643\u0644\u0645\u0629 \u060c \u062c\u0632\u0626 \u0645\u0646 \u062d\u062f\u064a",
+    "icon": "/icons/com.arabiait.sunna.png"
+  },
+  "com.eqrra.mtoun": {
+    "title": "\u0645\u062a\u0648\u0646: \u062d\u0641\u0638 \u0648\u0645\u062c\u0627\u0644\u0633 \u0633\u0645\u0627\u0639 \u0634\u0631\u0639\u064a\u0629",
+    "package": "com.eqrra.mtoun",
+    "description": "At Mutun, we believe that seeking knowledge is a journey that deserves the best tools. That's why we created Mutun to be your constant companion, from the first text you memorize to earning your accredited certificate. It's the leading educational platform designed specifically for students and researchers seeking to master Islamic texts through an environment that combines authenticity and innovation.\n\nMutun Features:\n\n- Live Islamic Text Sessions: Enjoy a unique experience attending live sessions of recitation under the supervision of leading scholars specializing in Islamic texts, anywhere in the world.\n\n- Accredited Certificates: Document your academic achievement! Receive an accredited certificate in Islamic texts after completing the sessions and fulfilling the required conditions.\n\n",
+    "icon": "/icons/com.eqrra.mtoun.png"
+  },
+  "com.unicode.mttonstudent": {
+    "title": "\u0645\u062a\u0648\u0646 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645",
+    "package": "com.unicode.mttonstudent",
+    "description": "\u0645\u0634\u0631\u0648\u0639 \u0645\u062a\u0643\u0627\u0645\u0644 \u064a\u0647\u062f\u0641 \u0625\u0644\u0649 \u062d\u0641\u0638 \u0648\u062a\u0648\u062b\u064a\u0642 \u0627\u0644\u0645\u062a\u0648\u0646 \u0627\u0644\u062f\u064a\u0646\u064a\u0629 \u0648\u0627\u0644\u0623\u062f\u0628\u064a\u0629 \u0648\u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a\u0629\u060c \u0648\u0630\u0644\u0643 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062a\u062c\u0645\u064a\u0639 \u0648\u062a\u062d\u0644\u064a\u0644 \u0648\u062a\u062f\u0648\u064a\u0646 \u0647\u0630\u0647 \u0627\u0644\u0645\u062a\u0648\u0646 \u0628\u0634\u0643\u0644 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0641\u064a \u0642\u0627\u0639\u062f\u0629 \u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0631\u062a\u0628\u0629 \u0648\u0645\u0641\u0647\u0631\u0633\u0629 \u0628\u062f\u0642\u0629",
+    "icon": "/icons/com.unicode.mttonstudent.png"
+  },
+  "com.tamayyuzcenter.huffazulquran": {
+    "title": "\u062d\u0641\u0627\u0638 \u0627\u0644\u0642\u0631\u0622\u0646",
+    "package": "com.tamayyuzcenter.huffazulquran",
+    "description": "Memorization of the Qur\u2019an is an interactive Qur\u2019an application that helps you memorize the Holy Qur\u2019an by developing a plan suitable for your time. It provides you with tests that help you confirm your memorization with the possibility of correcting the answer. It also shows you the interpretation of verses of the Holy Qur\u2019an from approved books, and provides you with the most important technical features and scientific services, such as creating... Groups for collective memorization and determining the appropriate plan for memorization, with the possibility of reciting the Holy Qur\u2019an without the Internet, as well as listening to the most beautiful recitations in the voice of the most famous reciters, in addition to a system of motivation and encouragement. In the end, the application he",
+    "icon": "/icons/com.tamayyuzcenter.huffazulquran.png"
+  },
+  "com.mmmoussa.iqra": {
+    "title": "Tarteel: AI Quran Memorization",
+    "package": "com.mmmoussa.iqra",
+    "description": "Full Description:\n\nJoin 15+ million Muslims strengthening their relationship with the Quran.\n\n\n\nTarteel is the leading AI-powered Quran companion designed to help you memorize, read, and review with confidence. Whether you are a student of Hifz or someone looking to improve their daily recitation, Tarteel adapts to your journey.\n\n\n\nTHE #1 AI QURAN COMPANION\n\nSimply hide the verses and recite; Tarteel uses industry-leading recognition accuracy to track your voice and reveal the words on the screen as you recite them. It\u2019s not just about reading\u2014it\u2019s about verifying your memorization instantly.\n\n\n\nREINFORCE YOUR MEMORIZATION\n\n\u2022 Memorization Mistake Detection: Hide the verses on the mushaf and recite from memory. Tarteel\u2019s AI listens to your recitation and flags word-level errors, skipped wor",
+    "icon": "/icons/com.mmmoussa.iqra.png"
+  },
+  "com.pigcellstudio.pushyboxes": {
+    "title": "Pushy Boxes - Pushing Puzzles",
+    "package": "com.pigcellstudio.pushyboxes",
+    "description": "\"Pushy Boxes\" is a simple addictive puzzle game, keep you playing it!\n\nCan you solve this puzzle Sokoban game by pushing all the boxes/crates into desired locations? Sound simple? Try it yourself with \"Pushy Boxes\" and think again! Hundreds of challenging sokoban puzzles are waiting and you will become the master mind of this very difficult but highly addictive game.\n\nFEATURES:\n\n- Hundreds of sokoban puzzles in total for you to enjoy, it will be a long saga to complete all the addictive puzzles\n- Ranking system to keep you more challenged and up to find the best solution\n- Keep track of all the puzzles you've solved\n- Hint system that will guide you through the puzzle\n- In-App purchase so you can buy more hints when you need them\n- Undo system\n- Many characters and environments",
+    "icon": "/icons/com.pigcellstudio.pushyboxes.png"
+  },
+  "com.iuri.pushups_alarm": {
+    "title": "Pushy - Push Ups Alarm",
+    "package": "com.iuri.pushups_alarm",
+    "description": "ALARM THAT WON\u2019T STOP UNTIL YOU DO PUSH-UPS\n\nNormal alarms don't get you out of bed, they are too easy to snooze and ignore. You tap, roll over, and wake up 40 minutes late again.\n\nPush-Ups Alarm (Pushy) only turns off after you do real push-ups in front of the camera. No fake taps, no cheating, no endless snoozing.\n\nThe last alarm clock you\u2019ll need if you oversleep, sleep through alarms, or feel dead tired in the morning. Simple idea. Brutally effective.\n\n\ud83d\udcaa PUSH-UP TO DISMISS ALARM\nOther alarm clocks rely on sound. Your brain learns to ignore them.\n\nPush-Ups Alarm adds movement. When the alarm rings, you must:\n\n1. Put the phone on the floor facing you\n2. Do your set of push-ups in front of the camera\n3. Let the app count each rep automatically\n\nOnly when you finish your reps does the alar",
+    "icon": "/icons/com.iuri.pushups_alarm.png"
+  },
+  "com.lygame.tlpusher.gp": {
+    "title": "Pushy Pusher Puzzle",
+    "package": "com.lygame.tlpusher.gp",
+    "description": "Get ready to experience this heart-pounding coin-pusher game with non-stop thrilling challenges! With just a tap to drop your coins, instantly trigger a crazy chain reaction and watch rewards cascade like a waterfall. With dazzling visual effects, unexpected surprise rewards, and an endless upgrade system, every precise coin drop will bring you closer to the next super jackpot!",
+    "icon": "/icons/com.lygame.tlpusher.gp.png"
+  },
+  "de.box601.achsboxcasterdemo": {
+    "title": "AchsBoxCaster Demo Caster &KPI",
+    "package": "de.box601.achsboxcasterdemo",
+    "description": "THIS IS A FREE DOME VERSION\nYou can use it to get an idea of the function/handling and test your device to see whether it can handle the \"AchsBoxCaster castor measurement\".\nYou will soon find the full version of this app in this app store.\n\nLIMITATIONS IN THE DEMO VERSION:\n- Results are displayed and announced without decimal places\n- the log function (recording of measurement results) is deactivated\n\nThis app is only intended for users who have specialist knowledge in the field of wheel alignment and automotive technology.\nThe operation of the app and the adjustment work on the vehicle require vehicle and chassis knowledge as well as a corresponding qualification.\nThe user must have specialist knowledge (wheel alignment and vehicle technology)!\n\nAchsBoxCaster uses the smartphone's gyrosco"
+  },
+  "com.IPTVPlayer.player": {
+    "title": "IPTV Player: Smart Online TV",
+    "package": "com.IPTVPlayer.player",
+    "description": "IPTV Player Smart Online TV \u2013 Your ultimate TV streaming companion, designed to elevate your entertainment experience on Android devices! With this app, you can easily watch videos, movies, TV shows, and more using streaming URLs. Plus, you can play media files stored locally on your device, all in one user-friendly and powerful IPTV app.\n\nWhether you're using a phone or tablet, IPTV Smart Player makes it simple and enjoyable to watch IPTV player content anytime, anywhere.\n\n\ud83c\udf1f Key Features:\n\n\u25b6\ufe0f Add Unlimited M3U/M3U8 playlists\nAdd as many IPTV channel playlists as you like. Just enter the playlist URL into the player smart M3U M3U8 interface and start watching channels, movies, and shows from all over the world.\n\n\u25b6\ufe0f Media Player for Local Files\nThe smart IPTV app supports direct playback fr",
+    "icon": "/icons/com.IPTVPlayer.player.png"
+  },
+  "com.xxfalcoonx.iptv_smart_cast": {
+    "title": "IPTV Smart Cast",
+    "package": "com.xxfalcoonx.iptv_smart_cast",
+    "description": "Take your streaming experience to the next level. IPTV Smart Cast combines an elegant interface with advanced technical tools to ensure the best playback, free from buffering and restrictions, transforming your device into a personal cinema.\n\nExclusive Features:\n\ud83d\udcfa Chromecast Support: Watch your Movies and Series on the big screen! Stream VOD content directly to your Google Chromecast device with a single click.\n\ud83d\ude80 Maximum Performance: Unleash the full power of your device with Hardware Acceleration decoding, ensuring smooth playback even at high resolutions (4K).\n\ud83d\udee1\ufe0f Integrated DNS Selector: Is your ISP limiting your connection? Change DNS settings directly in the app (Google, Cloudflare, AdGuard, or Default) to improve stability and privacy.\n\ud83c\udfac Premium VOD Experience: Organize your Movies an",
+    "icon": "/icons/com.xxfalcoonx.iptv_smart_cast.png"
+  },
+  "com.lucidsws.xtreamdownloader": {
+    "title": "X iPTV Play & Download",
+    "package": "com.lucidsws.xtreamdownloader",
+    "description": "Note: This app only play and download content from the User Generated M3U Playlists and does not offer any movie/tv channel/series episode\n\nThis powerful X iPTV Play & Download can play and download M3U Playlists generated by Xtream Codes APIs\n\nWith X iPTV Play & Download you can watch and Download Live TV, Movies, Series from IPTV Service Provider on Android Phone, Tablet, TV Boxes, Fire TV Sticks, Nvidia Shield TV.\n\nAPP FEATURES:\n\n- Supports: Add Playlist from Xtream API Login details.\n- Supports: Add Playlist from URL.\n- Supports: Built-in powerful OTT/ IPTV Media Player.\n- Supports: Attractive & impressive layout and user-friendly design.\n- Supports: TV, Movies and Series\n- Supports: Advanced Subtitle, Audio & Video Tracks.\n- Supports: Resume the video from where you stopped for movies",
+    "icon": "/icons/com.lucidsws.xtreamdownloader.png"
+  },
+  "com.levantera.iptv.player": {
+    "title": "IPTV Player",
+    "package": "com.levantera.iptv.player",
+    "description": "A simple working IPTV Player app with EPG and Recording support. Contains very little non-intrusive ads. Supports Xtream and m3u lists.",
+    "icon": "/icons/com.levantera.iptv.player.png"
+  },
+  "com.holafly.holafly": {
+    "title": "Holafly eSIM: Unlimited Data",
+    "package": "com.holafly.holafly",
+    "description": "Holafly is your best travel companion. Stay connected wherever you go with Holafly's prepaid eSIM cards and enjoy Unlimited Mobile Internet Data plans worldwide.\n\nWhat is an eSIM card for travel?\n\nAn eSIM card provides mobile data like a regular SIM card but is digital and international, eliminating expensive roaming fees. You can use a prepaid eSIM alongside your local SIM card to receive calls or WhatsApp messages with your regular number.\n\nWhy Choose Holafly?\n\nHolafly is your go-to international prepaid eSIM provider, offering Unlimited phone Data with quick, easy connectivity and a hotspot.\n\nWith Holafly\u2019s eSIM card, you get:\n\n\ud83c\udf0e Connection Anywhere, Anytime \nEnjoy fast, reliable mobile Internet access during your international travels in over 200 destinations, with multiple plan option",
+    "icon": "/icons/com.holafly.holafly.jpg"
+  },
+  "com.lotusflare.nomad.mobile.android": {
+    "title": "Nomad eSIM: Prepaid Data Plan",
+    "package": "com.lotusflare.nomad.mobile.android",
+    "description": "\ud83c\udf0e Stay connected wherever you go with Nomad's easy-to-use eSIM!\n\nYour Best Travel Companion | Affordable | Convenience | Choice\n\nForget traditional SIM cards \u2013 connect quickly and easily with Nomad's eSIM in just 5 minutes! \n\n\u2022 With Nomad, you can access eSIM services in over 200+ destinations.\n\n\u2022 Enjoy affordable international data plans at near-local rates in Europe, North America, Asia, Africa, and many more. \n\n\u2022 Choose from regional and country-specific eSIM plans designed for every traveler.\n\nExclusive for New Users. Try Nomad for free!\n\nNew to Nomad or unsure about eSIM? No problem! Redeem and install your free 1GB eSIM in 48 destinations. Stay connected easily upon arrival. Every new user gets 1 free trial eSIM!\n\nFor more details, visit: https://www.getnomad.app/documents/landing-tr",
+    "icon": "/icons/com.lotusflare.nomad.mobile.android.png"
+  },
+  "com.mobillium.airalo": {
+    "title": "Airalo: eSIM Travel & Internet",
+    "package": "com.mobillium.airalo",
+    "description": "Stay connected wherever you travel. With an Airalo eSIM (digital SIM), you can connect like a local in 200+ countries and regions worldwide. Install an eSIM and get online in minutes. No roaming fees \u2014 just easy, affordable, global connectivity.\n\nWhat is an eSIM?\nAn eSIM is an embedded SIM card. It's built into your phone's hardware and functions like a physical SIM. But it works 100% digitally.\n\nInstead of dealing with a physical SIM card, you can purchase an eSIM, install it on your device, and instantly connect to a mobile network at your destination.\n\nWhat is an Airalo eSIM plan?\nAn Airalo eSIM plan gives you access to mobile data, call, and text services. You can choose a prepaid local, regional, or global eSIM plan to get online in 200+ countries and regions worldwide. Simply downloa",
+    "icon": "/icons/com.mobillium.airalo.png"
+  },
+  "com.affinityclick.alosim": {
+    "title": "aloSIM - eSIM Travel Sim Card",
+    "package": "com.affinityclick.alosim",
+    "description": "Need mobile data for your next trip? Stay connected wherever you travel with aloSIM, your one-stop shop for international mobile plans!\n\naloSIM is an eSIM provider offering budget-friendly travel data plans in over 200 countries.\n\nA Must-Have for Nomads and Frequent Travellers \u2708\ufe0f\n\nIf you\u2019re looking to stay connected on your next international getaway, aloSIM is the eSIM provider you\u2019ve been looking for. \n\naloSIM makes it easy for digital nomads to buy a prepaid plan before travelling. Those living the nomad lifestyle know that having reliable nomad internet on the go is essential!\n\nWith aloSIM, you can install an eSIM (a.k.a. mobile WiFi for your device) before you leave for your trip, and connect directly to local networks for reliable mobile internet the moment you land.\n\nWhether you\u2019re ",
+    "icon": "/icons/com.affinityclick.alosim.png"
+  },
+  "com.keepcalling.mobile_sim_app": {
+    "title": "MobileSIM: Travel eSIM Data",
+    "package": "com.keepcalling.mobile_sim_app",
+    "description": "Stay connected worldwide with a  travel eSIM from MobileSIM!\n\n\u2708\ufe0f Traveling abroad? MobileSIM is your ultimate solution for affordable, hassle-free internet connectivity. Our app provides instant access to prepaid eSIM data packs in over 190 countries, ensuring you stay connected wherever you go:\n\neSIM USA \ud83c\uddfa\ud83c\uddf8\neSIM Japan \ud83c\uddef\ud83c\uddf5\neSIM Mexico \ud83c\uddf2\ud83c\uddfd\neSIM Spain \ud83c\uddea\ud83c\uddf8\neSIM Canada \ud83c\udde8\ud83c\udde6\neSIM United Kingdom \ud83c\uddec\ud83c\udde7\neSIM Thailand \ud83c\uddf9\ud83c\udded\neSIM France \ud83c\uddeb\ud83c\uddf7\neSIM Ireland \ud83c\uddee\ud83c\uddea\neSIM Germany \ud83c\udde9\ud83c\uddea\neSIM Lebanon \ud83c\uddf1\ud83c\udde7\neSIM Mauritius \ud83c\uddf2\ud83c\uddfa\neSIM Zimbabwe \ud83c\uddff\ud83c\uddfc\neSIM Aruba \ud83c\udde6\ud83c\uddfc\neSIM Peru \ud83c\uddf5\ud83c\uddea\neSIM Montenegro \ud83c\uddf2\ud83c\uddea\neSIM Tanzania \ud83c\uddf9\ud83c\uddff\neSIM Turkey \ud83c\uddf9\ud83c\uddf7\neSIM Hong Kong \ud83c\udded\ud83c\uddf0\nAnd many more \ud83c\udf0e\n\nVisiting multiple countries? We\u2019ve got you covered with regional eSIMs or global eSIMs:\n\nEurope eSIM\nAsia eSIM\nAfrica eSIM\nCaribbean eSIM\nLatin America eSIM\nNorth America eSIM\n\nDown",
+    "icon": "/icons/com.keepcalling.mobile_sim_app.png"
+  },
+  "com.sims22.app.sims_apps": {
+    "title": "22SIM Global Travel eSIM Calls",
+    "package": "com.sims22.app.sims_apps",
+    "description": "22SIM - Simplifying Global Connectivity\n\n\u2708\ufe0f Stay Connected Anywhere with 22SIM \u2014 Global Travel eSIM from Just $2\nTraveling abroad? Stay online without the hassle. With 22SIM, you can buy and activate a travel eSIM directly from your phone in minutes. Enjoy fast, reliable mobile data in over 150 countries \u2014 no physical SIM card needed, no roaming surprises, and no waiting in airport lines.\n\ud83d\udcb0 Affordable Plans Starting from Just $2\nWe believe staying connected shouldn't break the bank. 22SIM offers flexible data packages starting from as low as $2, making it the most affordable way to get online while traveling. Choose the plan that fits your trip \u2014 whether it's a weekend getaway or a month-long adventure.\n\n\u26a1 Why Travelers Choose 22SIM\nInstant eSIM Activation \u2013 Buy and activate your eSIM in m",
+    "icon": "/icons/com.sims22.app.sims_apps.png"
+  },
+  "dev.dev7.bee": {
+    "title": "Bee Plus V2ray",
+    "package": "dev.dev7.bee",
+    "description": "Using Bee Plus V2ray VPN for tunneling your internet connection does not for increase your internet speed it only rely on your network.\na vpn which stands for virtual private network, establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.\n\n\ud83d\udd30what does Bee Plus V2ray  tunnel support?\n\n\u2705\ufe0fSSH\n\u2705\ufe0fSSL\n\u2705\ufe0fHTTP\n\u2705\ufe0fUDP\n\u2705\ufe0fV2RAY\n\u2705\ufe0fWEBSOCKET\n\u2705\ufe0fDNSTT(SLOW DNS)\n\n\ud83d\udd30Feature :\n\n\u2705\ufe0fFREE SERVERS\n\u2705\ufe0fDNS CHANGER\n\u2705\ufe0fUDP CHANGER\n\u2705\ufe0fWIFI SHARE\n\u2705\ufe0fFREE PAYLOADS\n\u2705\ufe0fDATA COMPRESSION\n\u2705\ufe0fAUTO PING\n\u2705\ufe0fNO ROOT NEEDED",
+    "icon": "/icons/dev.dev7.bee.png"
+  },
+  "com.hydro2max.lionvpn": {
+    "title": "Lion VPN : Super VPN",
+    "package": "com.hydro2max.lionvpn",
+    "description": "Lion VPN is your trusted companion for unlocking the full potential of the internet. Whether you want to browse privately, access geo-restricted content, or enjoy fast and stable connections, Lion VPN is designed to meet all your VPN needs. Protect your data and enjoy unrestricted access to the web, no matter where you are.\n\nKey Features:\n\nFast & Stable Connection: Experience lightning-fast browsing and streaming speeds with Lion VPN\u2019s global server network, including USA VPN, Singapore VPN, Dubai VPN Server, UK VPN, Germany VPN, Canada VPN, India VPN, Australia VPN, and many more. No more buffering or interruptions.\n\nUnlimited Bandwidth: Use Lion VPN without any limits. Browse, stream, and download as much as you like without worrying about data restrictions.\n\nStrong Privacy & Security: L",
+    "icon": "/icons/com.hydro2max.lionvpn.jpg"
+  },
+  "com.smsoftjr.lionvpnpro": {
+    "title": "Lion VPN Pro - Fast Secure VPN",
+    "package": "com.smsoftjr.lionvpnpro",
+    "description": "\u200bExperience ultimate online freedom with Lion VPN Pro, your reliable solution for high-speed internet and advanced privacy protection\n\n\n\u200bLion VPN Pro is a cutting-edge networking app that combines the power of V2ray (VMESS & VLESS) and OpenVPN protocols. Whether you want to bypass geo-restrictions, secure your public Wi-Fi connection, or need a low ping gaming VPN, our app provides a seamless and encrypted experience.  \n\u200bUnlock the true potential of the internet with our advanced VPN service. Powered by industry-leading technologies, Lion VPN Pro ensures robust encryption and high-speed performance\u2014all packaged into one intuitive application.  \n\n\n\n\u200b\u200b\ud83d\ude80 Advanced Key Features:\n\n\n\u200bMulti-Protocol Support: Switch seamlessly between V2ray and OpenVPN. Our app offers diverse protocol options to en",
+    "icon": "/icons/com.smsoftjr.lionvpnpro.png"
+  },
+  "com.lion_vpn": {
+    "title": "Lion VPN",
+    "package": "com.lion_vpn",
+    "description": "LION VPN \u2013 Secure. Fast. Limitless.\n\nLION VPN is your trusted gateway to a truly open and secure internet experience. Access any website or app, bypass restrictions, and protect your digital privacy\u2014all for free.\nKey Features:\nFree & Unlimited: Connect to the internet securely and anonymously at no cost.\n\n\nSuper-Fast Global Servers: Choose from high-speed servers around the world, powered by advanced VLESS protocol for maximum performance and reliability.\n\n\nPowered by VLESS Protocol: LION VPN uses the latest VLESS protocol, which is faster, more secure, and more stable than traditional VPN and proxy solutions. Enjoy safer connections\u2014especially on public Wi-Fi and untrusted networks.\n\n\nTop-Grade Security: Your data is protected with AES-256 encryption\u2014one of the world\u2019s most secure standar",
+    "icon": "/icons/com.lion_vpn.png"
+  },
+  "com.vpn.peervpn": {
+    "title": "LionVPN -  master security vpn",
+    "package": "com.vpn.peervpn",
+    "description": "Stay private, fast, and connected\u2014anywhere.\nLionVPN helps protect your connection on Wi-Fi and mobile networks with simple one-tap VPN. Enjoy stable speed, smart routing, and wide device support.\n\nWhy choose LionVPN\n\nOne-tap connect \u2013 Simple, clean, and quick to start.\n\nReliable speed \u2013 Smart routing chooses low-latency servers.\n\nHelps protect privacy \u2013 Encrypts traffic to help keep data safe on public Wi-Fi.\n\nCross-device support \u2013 Works on phones, tablets, and desktop platforms.\n\nMalicious site alerts \u2013 Warns about risky domains and helps you stay safer.\n\nFriendly support \u2013 Tell us which sites you care about and we\u2019ll optimize access paths.\n\nWhat you can do\n\nBrowse your favorite sites, watch videos and live streams, use social apps, and work securely on the go\u2014at home, at school, or on p",
+    "icon": "/icons/com.vpn.peervpn.png"
+  },
+  "com.lymow.app": {
+    "title": "Lymow",
+    "package": "com.lymow.app",
+    "description": "With an intuitive design and advanced features, our App ensures seamless connectivity with your robot, revolutionizing your lawn care experience.\n\n\n\nSMART MAPPING AND CONTROL\n\n\u2022 Effortlessly create and manage go zones, no-go zones, and pathways using easy on-screen joysticks. Advanced localization technology ensures the robot generates precise and reliable maps for your lawn.\n\n\u2022 Manage multiple maps for different lawns\u2014switch between them effortlessly to match your mowing needs.\n\n\u2022 Customize mowing preferences for each zone, including cutting height, speed, path mode, and spacing, offering unparalleled flexibility.\n\n\u2022 Enjoy full control by designating specific zones or dividing your lawn into sections with a few taps for tailored mowing.\n\n\n\nTAILORED SCHEDULING\n\n\u2022 Keep your lawn pristine wi",
+    "icon": "/icons/com.lymow.app.jpg"
+  },
+  "com.lynen.app": {
+    "title": "Lynen",
+    "package": "com.lynen.app",
+    "description": "Lynen helps you decide what to wear for any event with the power of AI.\nUpload a photo of your outfit or describe what you\u2019re planning to wear, and Lynen gives you personalized suggestions, improvements and style ratings based on the occasion.\n\nWhat you can do with Lynen:\n\n\u2022 Get outfit ideas tailored to the event and your style\n\u2022 Refine your look with smart recommendations for shoes, layers and accessories\n\u2022 Receive a style rating to know if your outfit matches the dress code\n\u2022 Join friendly competitions and compare looks with your friends\n\u2022 Build your own private outfit history to track and improve your style\n\nDesigned for real-life moments:\n\nDates, work meetings, parties, weekend trips, weddings or casual plans \u2014 Lynen helps you choose the right outfit with confidence.\n\nThis is an early ",
+    "icon": "/icons/com.lynen.app.png"
+  },
+  "com.whereweup.memories": {
+    "title": "Leemo",
+    "package": "com.whereweup.memories",
+    "description": "With Leemo, you can turn every location into a story. Snap a photo or record a video, and leave it for others to discover.",
+    "icon": "/icons/com.whereweup.memories.png"
+  },
+  "com.lyte.charging": {
+    "title": "Lyte - Stay charged anywhere",
+    "package": "com.lyte.charging",
+    "description": "Ever go out having fun but nervous about phone almost dying? Ever travel to a different city but forgot your charger? With Lyte, you won't ever have to worry about this again! Lyte allows you to rent a portable charger and return from any charging stations in the city.\n\nWhat is Lyte?\n\nLyte provides a network of stations where you can rent and return a portable phone charger anywhere in the city. These chargers come with 5000mAh of power and cables for Android devices.\n\nHow does Lyte work?\n\n1. Open Lyte app and find charging stations close to you.\n2. Scan QR code on charging station to release a portable charger.\n3. Use the right cable to charge your phone.\n4. Push the portable charger back into an open slot on any charging station across the map.\n\nWhere can I find Lyte?\n\nYou can find Lyte ",
+    "icon": "/icons/com.lyte.charging.png"
+  },
+  "com.innovatise.ljmusport": {
+    "title": "LJMU Move",
+    "package": "com.innovatise.ljmusport",
+    "description": "LJMU Move is your all-in-one app for staying active, connected, and in control of your fitness and wellbeing at Liverpool John Moores University. Whether you\u2019re hitting the gym, booking a class, or hiring a court, LJMU Move makes it simple to plan and manage your activity in just a few taps.\n\nWhat You Can Do with LJMU Move:\n\nJoin the Gym & Book Workouts: Choose the membership that suits you, sign up instantly, and manage your gym sessions with ease.\n\nCheck Class Timetables & Book On the Go: Explore live class schedules, read descriptions, and reserve your spot straight from your phone.\n\nHire Sports Spaces: Need a hall, court, or studio? Find availability and book in seconds.\n\nStay Informed: Get the latest offers, news, and updates sent directly to your device with instant notifications.\n\nC",
+    "icon": "/icons/com.innovatise.ljmusport.png"
   }
 }
