@@ -8796,12 +8796,6 @@
     "description": "Discover, Charge, and Go with Ease\nUniversal EV Chargers is the ultimate companion for electric vehicle drivers, simplifying every aspect of the charging experience. Here's how we're revolutionizing the way you power up:\nFind Nearby Charging Stations with Ease\nEffortlessly locate the nearest charging stations wherever you are, from urban centers to remote highways.\nPlan your route confidently with our comprehensive charging station map at your fingertips.\nReal-Time Availability and Pricing\nCheck the real-time availability status of charging stations to avoid unnecessary detours and delays.\nGet upfront pricing information and details on compatible connector types before you even arrive.\nStreamlined Payment Process\nSay goodbye to fumbling for cash or dealing with multiple payment methods. Ou",
     "icon": "/icons/com.universalev.android.png"
   },
-  "com.starhub.itv": {
-    "title": "StarHub TV+",
-    "package": "com.starhub.itv",
-    "description": "From movies, dramas, variety programs, to kids TV shows and Live sports, there is something for everyone in the family. Simply select any of our packs to subscribe and start streaming.\n\n\u2022 On Demand - Binge watch your favorite movies and TV shows on demand.\n\u2022 Live TV - Check TV schedule and watch Live channels on the go.\n\u2022 Multi-device access - Available across mobile, tablet and popular web browsers (PC & Mac), so you can watch and resume across all devices.\n\u2022 No data charges - StarHub Mobile postpaid customers will enjoy no data charges when you stream on StarHub TV+ app.\n\u2022 Companion app - Existing StarHub TV customers can watch your subscribed channels on StarHub TV+ wherever you go.\n \n\nFor supported devices and FAQs, please refer to www.starhub.com/tvplus-faq.",
-    "icon": "/icons/com.starhub.itv.jpg"
-  },
   "com.kpn.epg": {
     "title": "KPN TV+ App",
     "package": "com.kpn.epg",
@@ -24829,7 +24823,8 @@
   "com.mahmoudzadah.app.glassifypro": {
     "title": "Glassify Glass Icons",
     "package": "com.mahmoudzadah.app.glassifypro",
-    "icon": "/icons/com.mahmoudzadah.app.glassifypro.png"
+    "icon": "/icons/com.mahmoudzadah.app.glassifypro.png",
+    "description": "Glassify \u2013 Glass Icon Pack is the largest crystal-clear glass icon pack on Android. Featuring a translucent, glassmorphism-inspired design, each handcrafted icon delivers a sleek, sophisticated visual upgrade to your home screen. The transparent glass finish pairs perfectly with dark and AMOLED wallpapers for a premium, futuristic look.\n\nWhat's Inside\n\u2022 The biggest glass icon collection available \u2014 no other transparent icon pack comes close.\n\u2022 Elegant, minimal design with a crystal-clear liquid glass finish on every icon.\n\u2022 Handcrafted wallpapers designed to complement the translucent glass style.\n\u2022 Native widgets to match your glass-themed setup.\n\u2022 Works natively on Samsung One UI, Nothing OS, OxygenOS, ColorOS, and Realme UI \u2014 no launcher required.\n\u2022 Also supports Nova, Smart Launcher, A"
   },
   "com.appslab.glass.iconpack": {
     "title": "Glass Icon Pack",
@@ -25741,5 +25736,532 @@
     "package": "com.innovatise.ljmusport",
     "description": "LJMU Move is your all-in-one app for staying active, connected, and in control of your fitness and wellbeing at Liverpool John Moores University. Whether you\u2019re hitting the gym, booking a class, or hiring a court, LJMU Move makes it simple to plan and manage your activity in just a few taps.\n\nWhat You Can Do with LJMU Move:\n\nJoin the Gym & Book Workouts: Choose the membership that suits you, sign up instantly, and manage your gym sessions with ease.\n\nCheck Class Timetables & Book On the Go: Explore live class schedules, read descriptions, and reserve your spot straight from your phone.\n\nHire Sports Spaces: Need a hall, court, or studio? Find availability and book in seconds.\n\nStay Informed: Get the latest offers, news, and updates sent directly to your device with instant notifications.\n\nC",
     "icon": "/icons/com.innovatise.ljmusport.png"
+  },
+  "com.fp.are_you_a_banana": {
+    "title": "Are you a banana?",
+    "package": "com.fp.are_you_a_banana",
+    "description": "Have you ever felt like the people around you aren't quite what they seem? Like they might be hiding something...like being a banana, perhaps? You're not alone. The truth is, bananas hide among us, disguised as regular people, and it's hard to tell who's who.\n\nBut fear not, because I've got the solution: the \"Are you a banana?\" app. With this fun and addictive trivia game, you can finally find out if you're a hidden banana yourself, or if the people around you might be secretly made of fruit.\n\nThe banana game is simple to use - you'll be asked a series of nonsensical questions in trivia style word, that only a human could answer correctly. If you pass the test, you can breathe easy knowing that you're not actually a banana in disguise. But if you fail...well, it might be time to reconsider",
+    "icon": "/icons/com.fp.are_you_a_banana.png"
+  },
+  "com.FDGEntertainment.BananaKong2.gp": {
+    "title": "Banana Kong 2",
+    "package": "com.FDGEntertainment.BananaKong2.gp",
+    "description": "Celebrate with us the return of Banana Kong!\nWe worked hard to create a fun sequel for both fans and new players.\n\nRun, jump, bounce and swing on vines while traversing *new* forests, caves, treetops, lagoons and even the north pole!\n\nAll your animal friends are back and there's so much more:\nHow about hopping onto a penguin to slide on snowy slopes or riding ocean waves on a surfboard? It's a whole new world full of fun and surprises. Even with many new features, the game remains simple to control as you know and love Banana Kong. Banana Kong 2 builds up on the original endless runner concept and adds entirely new challenges and ideas! \n\nSolve all-new missions, collect bananas and win golden Kong Coins to buy upgrades, hats and many other items in the crazy jungle shop! Become the King of",
+    "icon": "/icons/com.FDGEntertainment.BananaKong2.gp.png"
+  },
+  "com.drawpuzzle.toiletrush.bananarush": {
+    "title": "Banana Rush Race: Draw Puzzle",
+    "package": "com.drawpuzzle.toiletrush.bananarush",
+    "description": "\ud83c\udf4c Banana is rushing to go to the toilet but encountered a maze or any that trouble you on the way like Shiba dog, Skibidi, Cameraman preventing?\n\n\u2764\ufe0f In Banana Rush Race: Draw Puzzle, your quest is to find the way to reach Toilet. Draw a line to connect the Banana and the toilet - but How fastest you can go to help banana release the pressure\n\n\ud83c\udfaeHow to Play\nIt's time for using your creative:\n1. Click on the Banana Cat to start drawing lines;\n2. Draw a line to toilet monster but avoid obstacles\n3. Fine a fastest path to reach toilet\n4. The banana cat run to the toilet along the line, and the game is successful.\n\n\ud83c\udf08 Download Banana Rush Race: Draw Puzzle now to overcome the challenges and find the fastest way to help banana to the toilet run",
+    "icon": "/icons/com.drawpuzzle.toiletrush.bananarush.png"
+  },
+  "com.thekmobile.actionfigure": {
+    "title": "Banana Art - AI Photo Editor",
+    "package": "com.thekmobile.actionfigure",
+    "description": "Turn Any Photo Into a Viral AI Video, Instantly.\nBanana Art is your all-in-one AI creative studio for AI video generation, AI photo editing, and cinematic photo transformations, right from your phone. Use our ready-to-use filters or simply type a prompt. Use our ready-to-use filters or simply type a prompt.\nBuilt for TikTok, Reels, Instagram, and Shorts.\n\nUnleash your creativity with our cutting-edge AI Photo Editor engine that understands complex, natural language instructions. Perfect for social media content, marketing, artists, and anyone looking to create stunning ai photos effortlessly. \n\n\ud83e\ude84  AI PHOTO EDITOR \u2014 EDIT ANYTHING WITH AI  \nTransform your photos with powerful AI Photo Editor tools.\n\u2022 Replace objects with simple text\n\u2022 Change backgrounds instantly\n\u2022 Enhance portraits & genera",
+    "icon": "/icons/com.thekmobile.actionfigure.png"
+  },
+  "com.mcommerce.tray.kuk": {
+    "title": "k\u00fck",
+    "package": "com.mcommerce.tray.kuk",
+    "description": "Practical, healthy and delicious haute cuisine that will save your day!\n\nDownload the k\u00fck app now and guarantee 15% DISCOUNT on your first purchase using the APPKUK coupon.\n\nk\u00fck is perfect for you who need practical and healthy meals in your day-to-day life without sacrificing flavor! Our portions were carefully designed by our nurture and prepared by our chef to fit your routine.\n\nHave a complete and high nutritional quality meal in up to 6 minutes.\nK\u00fck is the food that accompanies your lifestyle.\n\nWe deliver to several cities in PR, SC and RS.\nCome and save your day with k\u00fck!\n#letskuk\n\nFollow us on our social networks!\nInstagram: www.instagram.com/lets.kuk/\nTikTok: www.tiktok.com/@letskuk\nLinkedin: www.linkedin.com/company/letskuk",
+    "icon": "/icons/com.mcommerce.tray.kuk.png"
+  },
+  "com.ludo.king": {
+    "title": "Ludo King\u00ae",
+    "package": "com.ludo.king",
+    "description": "*THIS IS OFFICIAL LUDO KING\u00ae GAME\n\n1.75 Billion Downloads!\n\nAdda (Club) is live! Create your own or join others to chat and hang out.\n\nLudo King\u00ae is board game played between friends, family & kids. \n* 2/3/4/5/6 Players online Ludo game mode available\n* 2/3/4 Players Snakes and Ladders game mode available\n* 8 Players tournament available\n* New Ludo season released each month\n* Play daily goals and get free dice, coins and diamonds\n\nLudo King\u00ae is a classic board game played between friends and family. Play the dice game of kings! Recall your childhood! In some places, Ludo is also known as Parchisi, Pachisi, parcheesi or Parchisi game.\n\nLudo King is a cross platform multiplayer game that supports Desktop, Android, iOS, HTML5 and Windows mobile platform at same time. This game also support o",
+    "icon": "/icons/com.ludo.king.png"
+  },
+  "com.angames.android.google.avatarbendingtheworld": {
+    "title": "Avatar: Realms Collide",
+    "package": "com.angames.android.google.avatarbendingtheworld",
+    "description": "Winner of Pocket Gamer\u2019s 2026 Best Strategy Game of the Year!\n\nA New Story Set in the Avatar Universe\nThe harmony of the Four Nations is threatened. A powerful cult from the Spirit World rises, spreading chaos and threatening everything the Avatars once protected.\n\nAs chaos looms, you must rise as a leader, gathering heroes from across generations to stand against the growing darkness and restore balance to the world. Classic heroes. New faces. One epic story.\n\nAward Winning 4X Strategy Game \nStep into the world of Avatar: The Last Airbender and The Legend of Korra in this epic 4X strategy mobile game. Explore iconic locations, expand your city, exploit resources, and exterminate powerful enemies as you fight to restore balance to the Four Nations.\n\nBuild, Expand, and Rule\n\u00b7 Choose your el",
+    "icon": "/icons/com.angames.android.google.avatarbendingtheworld.jpg"
+  },
+  "com.tfgco.games.sports.free.tennis.clash": {
+    "title": "Tennis Clash: Multiplayer Game",
+    "package": "com.tfgco.games.sports.free.tennis.clash",
+    "description": "\ud83c\udfbe Welcome to Tennis Clash: The Ultimate Online Multiplayer Tennis Game \ud83c\udfbe\n\nGet ready to experience the thrill of the court like never before with Tennis Clash, the ultimate multiplayer online tennis game that's taking the sports gaming world by storm! Dive into the action with breathtaking graphics, realistic gameplay, and fierce competition \u2013 all from the palm of your hand. It's time to show off your racket skills and become the ultimate tennis champion!\n\n\ud83c\udf1f Main Features \ud83c\udf1f\n\n\ud83c\udfbe Tennis Clash: Experience intense tennis matches with players from around the world in a fast-paced, competitive environment.\n\ud83c\udfae Multiplayer Online: Challenge friends and rivals in real-time tennis duels, or compete in online leagues to reach the top.\n\ud83c\udff8 Racket Customization: Upgrade and personalize your racket with a wi",
+    "icon": "/icons/com.tfgco.games.sports.free.tennis.clash.jpg"
+  },
+  "com.ndyuiklui": {
+    "title": "Astro: Astrology & Horoscope",
+    "package": "com.ndyuiklui",
+    "description": "Astro is an astrology app that combines traditional astrology with data-informed insights to help you better understand yourself and your emotional connections.\n\nThere are no bad zodiac signs\u2013only complex dynamics. By combining precise astrological calculations with intelligent analysis, Astro delivers personalized insights powered by smart astrology.\n\nHOW WE CAN HELP IMPROVE YOUR LIFE\n\nAstrological Compatibility and Relationship Guidance: Explore how compatible you are with others based on zodiac signs and natal chart placements, and learn more about your partner. Understanding the characteristics of astrological signs and exploring zodiac compatibility gives you deeper insights into relationships and personal connections. Check your compatibility and get your love life sorted!\n\nBirth Cha",
+    "icon": "/icons/com.ndyuiklui.png"
+  },
+  "com.vedicrishiastro.kundli": {
+    "title": "Kundli - Astrology & Horoscope",
+    "package": "com.vedicrishiastro.kundli",
+    "description": "Kundli by Vedic Rishi is your one-stop app for all queries related to astrology.\n\nKundli is available in Hindi, English and Telugu language.\n\nThe app provides personalized daily horoscope predictions, multiple kundli creation, horoscope predictions, dosha analysis, astrological remedies, match-making analysis, numerology, varshphal, and consultation with a reputed and experienced astrologer, Pt. Rishiraj Tiwari.\n\nThe world of astrology is interesting and mystifying. And, with so much information out there, finding the right answers to your queries can be quite a task! \n\nWhat can Kundli Offer You? \n\nLots of interesting and fun stuff all related to Vedic Astrology to help you decipher the story the stars are writing for you: \n\nPersonalized daily readings: Our daily horoscope prediction is ba",
+    "icon": "/icons/com.vedicrishiastro.kundli.png"
+  },
+  "com.vedicrishiastro.upastrology": {
+    "title": "Up Astrology - Astrology Coach",
+    "package": "com.vedicrishiastro.upastrology",
+    "description": "Discover how astrology can guide you toward a more meaningful life with UpAstrology \u2013 the app that combines ancient insights with modern technology for a truly personalized experience.\n\nWhy UpAstrology Stands Out\n\n1. Personalized Daily Guidance: Begin each day with an accurate daily horoscope tailored just for you, offering actionable advice on career, finances, health, and relationships. Want more insights? Our tarot feature connects you with your intuition, providing deeper perspectives for better decisions.\n\n2. In-Depth Birth Chart Analysis: Your birth chart is a blueprint of your unique personality and strengths. With UpAstrology, dive into your chart to understand what drives you, uncover your strengths, and gain insights into potential growth areas. Use these insights for love, caree",
+    "icon": "/icons/com.vedicrishiastro.upastrology.png"
+  },
+  "com.feelweel.astro": {
+    "title": "Astroscope: Astrology Guide",
+    "package": "com.feelweel.astro",
+    "description": "Astroscope is your all-in-one astrology app - horoscope, tarot, numerology & full compatibility for daily guidance and personal growth.\n\nFree Features:\n\u2022 Daily Horoscope - Get accurate today\u2019s, tomorrow\u2019s, and weekly horoscopes tailored to your zodiac sign.\n\u2022 Tarot Readings (Daily/Weekly) - Receive a detailed daily or weekly tarot guide to help you navigate life\u2019s challenges and opportunities.\n\u2022 Compatibility Insights - Free access to general compatibility, strengths, and weaknesses to better understand your relationships.\n\u2022 Lunar Calendar & Moon Phases - Get daily guidance on what\u2019s best to do and what to avoid, based on the Moon\u2019s energy for the day.\n\u2022 Fortune Cookie - Receive daily wisdom messages and spiritual guidance from the universe.\n\nPremium Features:\n\u2022 AI Astrologer (24/7 Chat) -",
+    "icon": "/icons/com.feelweel.astro.png"
+  },
+  "com.viz.wsj.android": {
+    "title": "Shonen Jump Manga & Comics",
+    "package": "com.viz.wsj.android",
+    "description": "Your OFFICIAL source to read the world\u2019s most popular manga, straight from Japan.\n\nALL YOUR FAVORITE SERIES IN ONE PLACE! My Hero Academia, Jujutsu Kaisen, One Piece, Chainsaw Man, Demon Slayer, One-Punch Man, Naruto, Bleach, Death Note, Dragon Ball, Boruto, Kaiju No. 8, JoJo's Bizarre Adventure, Spy x Family, and so much more!\n\nREAD MANGA FREE! New chapters weekly, with brand new series added regularly! Latest chapters are always free!\n\nSHONEN JUMP ON-THE-GO! Stream your favorite series anywhere, anytime on our advanced manga reader! Use landscape mode to view awe-inspiring 2-page spreads as they were drawn. Download to read offline! Create an account to sync your reading progress across any device and pick up where you left off! Light and dark modes available!\n\nMEMBERS GET MORE! Unlock t",
+    "icon": "/icons/com.viz.wsj.android.png"
+  },
+  "com.lima.doodlejump": {
+    "title": "Doodle Jump",
+    "package": "com.lima.doodlejump",
+    "description": "Named Best of 2015 by Google Play editors! Thank you for all of your support.\n\nOne of the hottest mobile games of all time! Easy to pick up and play. Wildly addictive.\n \nSee for yourself why Touch Arcade called Doodle Jump \u201cpossibly the best [mobile] game ever created\u201d and Macworld called it \u201ca perfect micro-game, insanely addictive, and deliciously replayable.\u201d\n \nHow high can you get?\nJourney up a sheet of graph paper, perpetually jumping from one platform to the next, picking up jet packs, avoiding black holes, and blasting baddies with nose balls along the way. Laugh with delight as you blow past other players' actual score markers scribbled in the margins. And be warned: this game is insanely addictive!\n \nFeatures:\n-\tMany fantastical worlds to play in - Ninja, Space, Jungle, Soccer, Un",
+    "icon": "/icons/com.lima.doodlejump.png"
+  },
+  "com.shaverma.lazyjump": {
+    "title": "Lazy Jump",
+    "package": "com.shaverma.lazyjump",
+    "description": "FLAIL UPWARDS\ud83d\udd74\ufe0f\ud83e\udd0f\n\n\ud83d\ude43 Slide, stumble, flip and flail your way through endless levels in this hyper-casual, hyper-entertaining physics-based puzzle game. When your character has all the strength and coordination of a wet rag, you\u2019ll need really quick thinking and a firm grasp of the laws of physics to get them to complete even the simplest of tasks. Add to that a smattering of fiendish obstacles and unexpected mechanics, and it\u2019ll take all of your wits to keep your cute ragdoll character from constantly falling flat on their fanny and get them to reach the level goal \u2013 whether that\u2019s scoring a real goal with a soccer ball \u26bd or something as simple as answering the telephone. \n\n\ud83d\udca1 THE PHYSICS OF INERTIA \ud83d\udca1\n\n\ud83c\udfaf Once you flop, you can\u2019t stop: Over 300 levels of crazy ragdoll action, with over 20 dif",
+    "icon": "/icons/com.shaverma.lazyjump.png"
+  },
+  "com.limasky.doodlejump2": {
+    "title": "Doodle Jump 2",
+    "package": "com.limasky.doodlejump2",
+    "description": "The most addictive game on the Google Play Store is all new with delightful new environments, the cutest new characters, fun new platform challenges and some silly new monsters.\n\nJump up on platforms and collect stars to unlock cool new characters and exciting new environments. \n\nUnlock all the levels and collect all the characters! Beat your friends\u2019 high scores and become the new Doodle Jump King!\n\nFEATURES\n\n- Cavemen world with T-rex, triceratops, falling stones, prehistoric turtles\u2026\n\n- Desert world with quicksand, genie, scorpions, desert monsters\u2026\n\n- Sleepy world with ba-ba sheep monsters, pillow monsters, fireflies, pillow platforms\u2026\n\n- Aviator world with helicopters, jet platforms, propeller platforms\u2026\n\n- Space world with moon cheese platforms, platform eating monsters, starships, r",
+    "icon": "/icons/com.limasky.doodlejump2.png"
+  },
+  "com.jumpapp.mobile": {
+    "title": "Jump AI",
+    "package": "com.jumpapp.mobile",
+    "description": "Jump is an AI-powered assistant that redefines how wealth advisors manage their client interactions and compliance tasks. Created to turn conversations into actionable tasks, comprehensive notes, and compliance records, Jump offers a cutting-edge solution for advisors seeking efficiency and accuracy in their daily operations.\n\nJump\u2019s ultra-powerful customization features allow it to take notes in exactly the voice and style you would. Jump will even detect the type of meeting you\u2019re having and change its note-taking style to match. You can record voice memos after meetings and get your voice memo transcribed and summarized.\n\nWith the Jump Android app, you can:\n- Record in-person meetings with one tap\n- Upload and process meetings to get notes summarized in your style\n- Review upcoming meet",
+    "icon": "/icons/com.jumpapp.mobile.png"
+  },
+  "app.jumpjumpvpn.jumpjumpvpn": {
+    "title": "JumpJumpVPN: Fast & Secure",
+    "package": "app.jumpjumpvpn.jumpjumpvpn",
+    "description": "JumpJumpVPN - Fast & Stable VPN Proxy\nJumpJumpVPN helps you enjoy a smooth and reliable internet connection anywhere.\nWith a clean design and easy operation, simply tap \u201cConnect\u201d to reach our global server network for fast and stable performance.\nWhy Choose JumpJumpVPN?\n\nJumpJumpVPN provides a simple, user-friendly experience with consistent connection quality and flexible server options.\nKey Features:\n\n\u2022 Free to Use: Connect through free global servers with no data limits.\n\n\u2022 High-Speed Network: Optimized routing ensures fast and stable connection.\n\n\u2022 Reliable Performance: Keep your network connection smooth at all times.\n\n\u2022 Easy to Use: One-tap connection, no complicated setup.\nAuto-Renewal Details:\n\n\u2022 Payment will be charged to your Google Account upon purchase confirmation.\n\n\u2022 Subscrip",
+    "icon": "/icons/app.jumpjumpvpn.jumpjumpvpn.jpg"
+  },
+  "com.h8games.helixjump": {
+    "title": "Helix Jump",
+    "package": "com.h8games.helixjump",
+    "description": "Helix Jump is the ultimate 3D arcade game that will keep you on the edge of your seat! Smash, bump, and bounce your way through the revolving helix platforms to reach the end. But be warned, it's not as easy as it sounds!\n\nAs you drop like a ball through the colorful helix platforms, you'll encounter traps and obstacles that will test your skills and strategy. One wrong move and it's game over! Your ball shatters into pieces and you have to start from the beginning.\n\nLuckily, there's a way to unleash your inner fireball and conquer the game. Speed up like a madman or wait for the perfect moment to play, roll and jump your way to victory. The choice is yours!\n\nHelix Jump is designed with addictive gameplay mechanics that will keep you coming back for more. With crazy fast speed and high bou",
+    "icon": "/icons/com.h8games.helixjump.png"
+  },
+  "net.onecook.browser": {
+    "title": "Stargon Browser",
+    "package": "net.onecook.browser",
+    "description": "Stargon Browser is a small, fast and lightweight web browser with powerful Ad Blocker, Video Download and Custom fonts.\n\nWe will repay you with continuous updates.\n\n\ud83d\udc4d Key features\n\n\u2b50 Gesture\n\u2b50 Ad Blocker\n\u2b50 Video Download\n\u2b50 Image Download\n\u2b50 Dark mode\n\u2b50 Reader mode\n\u2b50 Custom fonts\n\u2b50 DNS VPN\n\u2b50 Capture\n\u2b50 Video player\n\u2b50 Background Play\n\u2b50 Brightness control\n\u2b50 Image blocker\n\n\u2605 QR Code Scanner\n\u2605 File manager\n\u2605 Full screen \n\u2605 PC mode\n\u2605 Shortcuts\n\u2605 Safe Browsing\n\u2605 Secret mode\n\u2605 Bookmark\n\u2605 History\n\u2605 Translate\n\n\nAll basic functions are included. It also includes a number of convenience features.\n\nStargon Browser is a secure browser that does not collect personal information.\n\n\u25a0 Required permissions\n-none\n\n\u25a0 Optional Permissions\n\nLocation: To provide location-based content requested by the user or to su",
+    "icon": "/icons/net.onecook.browser.png"
+  },
+  "age.of.history2.definitive.lukasz.jakowski": {
+    "title": "Age of History 2: Definitive",
+    "package": "age.of.history2.definitive.lukasz.jakowski",
+    "description": "The Definitive Edition of a grand strategy classic, now featuring improved gameplay, a new map with 13,892 provinces, expanded diplomacy, wartime capitulation, faster army recruitment and movement, 32 new religions, new civilizations, new scenarios, atomic weapons, additional government types, new wonders, enhanced graphics, numerous quality-of-life improvements, improved AI behavior, new notifications, improved province border visuals, province names displayed directly on the map, modernized menus, a simplified and responsive UI for better usability, engine updates, performance improvements, and much more.\n\nNew Diplomacy Actions\nEnforce Peace, Intervene in War, Join War, AI Army Control (On/Off)\nSend Volunteer Army, Regroup All Armies, Provoke Rebels\nHost Diplomatic Summit, Spread Propaga",
+    "icon": "/icons/age.of.history2.definitive.lukasz.jakowski.png"
+  },
+  "com.metadisk.drivinglicensecar": {
+    "title": "Driving Theory Test Kit 2026",
+    "package": "com.metadisk.drivinglicensecar",
+    "description": "\ud83d\ude97 Driving Theory Test 2026 Kit \u2013 Complete DVSA Theory Prep\n\n\n    Driving Theory Test 2026 Kit is your complete companion for passing the UK DVSA theory test with confidence. \n    Updated for 2026, this app provides the latest learning materials, realistic mock exams, hazard perception training, \n    and full coverage for Car, Motorcycle, HGV/LGV and ADI candidates.\n\n\n\n    Whether you are a new learner or preparing for advanced driving qualifications, this all-in-one toolkit helps you study smarter, \n    improve faster and get fully exam-ready.\n\n\n\ud83d\udea6 DVSA-Based Learning Content\n\n    \u2714 Covers the official DVSA syllabus for 2026\n    \u2714 Includes Car, Motorcycle, HGV/LGV and ADI theory test categories\n    \u2714 Learn UK road rules, driving laws and essential safety regulations\n\nNote: This app is not a",
+    "icon": "/icons/com.metadisk.drivinglicensecar.png"
+  },
+  "com.deepriverdev.car": {
+    "title": "Driving Theory Test Kit",
+    "package": "com.deepriverdev.car",
+    "description": "Join 5 million drivers who learnt using our apps. Driving theory test 2025 UK includes all DVSA theory test 2025 revision questions & hazard perception videos. Everything needed to pass your DVSA theory test 1st time!\n\n2025 Ready. Free updates whenever the DVSA changes driving theory questions or hazards\n\nDVSA Revision Questions. All 700+ questions & explanations. No App, CD or book has more theory test 2025 questions!\n\nHazard Perception. 52 videos with interactive scoring including all DVSA theory test 2025 clips\n\nLatest Hazard Videos. DVSA driving theory exam now includes bad weather, accidents, motorways, night driving & vulnerable road users\n\nVideo Case Studies. Every car theory test now includes a video case study\n\nMock Tests. Unlimited mock tests to see when you\u2019re ready to pass\n\nHig",
+    "icon": "/icons/com.deepriverdev.car.png"
+  },
+  "uk.co.focusmm.DTSCombo": {
+    "title": "Driving Theory Test 4 in 1 Kit",
+    "package": "uk.co.focusmm.DTSCombo",
+    "description": "**PASS GUARANTEE** Join the 19 MILLION learners we've helped pass their UK Driving Theory Test! \n\n97% of learners pass their Theory Test using just the 4 in 1 AWARD-WINNING app*! Revise with full confidence knowing you have EVERYTHING you need to pass your 2026 Theory Test 1st time... getting you 1 step closer to your full DVLA licence, or we\u2019ll give you your test fee back.\n\nGB and NI:\n\ud83d\ude97 Car Drivers\n\ud83c\udfcd Motorcyclists\n\ud83d\ude99 Trainee ADI's\n\ud83d\ude9b\ud83d\ude8c HGV/LGV & PCV Drivers taking Module 1a and 1b Tests\n\n\ud83d\udc4d\u2705 FREE PASS GUARANTEE\nWe\u2019re so confident that our Driving Test Success 4 in 1 app will help you pass your Driving Theory Test, we'll give you your \u00a323 car or motorcycle theory test fee back if you complete the Learner Plan in full. T&C\u2019s apply**.\n\n\ud83d\udcddDRIVING THEORY TEST 2026\nPractise DVSA revision questions, ",
+    "icon": "/icons/uk.co.focusmm.DTSCombo.png"
+  },
+  "com.tvizledev.canlitv": {
+    "title": "Canl\u0131 TV \u0130zle - Mobil Canl\u0131 TV",
+    "package": "com.tvizledev.canlitv",
+    "description": "With our live TV service, you can watch television uninterrupted and without buffering 24/7. Download this application now and enjoy the convenience of watching TV from anywhere on your mobile device.\n\nMobile users who want to watch live television frequently search for reliable applications. Considering these needs, we have developed a perfect live TV app that brings together all television channels in one place. With just a single tap, you can instantly access and watch your desired channel.\n\nAndroid users can easily find our application by searching for \u201cwatch TV\u201d and start watching hundreds of TV channels without freezing or interruptions.\n\nThanks to this application, which you can access by searching \"inat tv\", you can watch live broadcasts instantly and quickly on all channels.\n\n\ud83c\udf1fFea",
+    "icon": "/icons/com.tvizledev.canlitv.png"
+  },
+  "com.tripadvisor.tripadvisor": {
+    "title": "Tripadvisor: Plan & Book Trips",
+    "package": "com.tripadvisor.tripadvisor",
+    "description": "One app, so many places to discover. Get guidance from millions of travelers and earn rewards for more trips by doing what you love: planning, booking, and sharing. For a limited time only, get $30 off Things to Do when you join in the app (it\u2019s free!).\n\nScore last-minute tour tickets in a few quick taps. Book a hotel your entire family will love at a great rate. Create an itinerary in seconds with top recs from travelers like you. All while earning Trip Cash to fuel even more vacays. You bring the fun, the Tripadvisor app brings the rewards.\n\nTripadvisor Rewards: Plan, book, share, earn rewards\n- Book from over 400,000 experiences and 600,000 hotels, and get 5% back in Trip Cash to save on future trips\n- Earn beyond booking: Planning and sharing can net you Trip Cash too\n- Join for free i",
+    "icon": "/icons/com.tripadvisor.tripadvisor.png"
+  },
+  "com.relayrides.android.relayrides": {
+    "title": "Turo \u2014 Car rental marketplace",
+    "package": "com.relayrides.android.relayrides",
+    "description": "Turo is the world\u2019s largest car sharing marketplace, where you can rent the perfect car for wherever you\u2019re going from a vibrant international community of trusted hosts across the US, UK, Canada, Australia, and France.\n\nWhether you\u2019re flying in from afar or looking for a car down the street, you can skip the rental car counter, choose from an extraordinary selection of vehicles shared by local hosts, and rent the best car for your trip, then you can pick it up at a convenient location near you or your destination.\n\nEntrepreneurs can take the wheel of their futures by becoming hosts and building car sharing businesses on Turo, leveraging an established platform to scale their businesses and meet their goals.\n\nWith Turo, everyone has the power to get in the driver\u2019s seat.\n\nNeed a car for a ",
+    "icon": "/icons/com.relayrides.android.relayrides.png"
+  },
+  "com.formonic.touriy": {
+    "title": "Touriy",
+    "package": "com.formonic.touriy",
+    "description": "Touriy is a smart travel companion designed to help travelers easily navigate new countries. When visiting a new destination, it can be difficult to know which local apps to use, where to eat, or which places are worth visiting. Touriy brings everything together in one simple platform.\n\nThe app helps travelers discover essential local apps used in each country, explore restaurants and attractions, and organize their trips using an AI-powered travel planner.\n\nInstead of searching multiple websites and apps, Touriy provides curated recommendations and smart tools to help travelers quickly adapt to their destination and enjoy the best experiences each place has to offer.\n\nKey Features\n\nDiscover Essential Local Apps\nFind the most useful apps used in each country, including transportation, paym",
+    "icon": "/icons/com.formonic.touriy.png"
+  },
+  "com.boualba.touri": {
+    "title": "Touri: Prendre un rendez-vous,",
+    "package": "com.boualba.touri",
+    "description": "Touri, the application that won the international telemedicine prize in December 2019, allows you to:\n- Easily find a good doctor, a good dentist or a good laboratory near you.\n- Make an appointment in the simplest way in the world;\n- Being able to be alerted and know the approach of his turn remotely, via his smartphone and without having to make the waiting girl to monitor his turn;\n- Have his patient file in digital form;",
+    "icon": "/icons/com.boualba.touri.png"
+  },
+  "OCTech.Mobile.Applications.OBDLink": {
+    "title": "OBDLink (OBD car diagnostics)",
+    "package": "OCTech.Mobile.Applications.OBDLink",
+    "description": "***The OBDLink app exclusively works with these adapters***\n- OBDLink MX+\n- OBDLink EX USB (with Android 3.1 or newer)\n- OBDLink CX\n- OBDLink LX Bluetooth\n- OBDLink SX USB (with Android 3.1 or newer)\n- OBDLink Bluetooth\n- OBDLink MX Bluetooth\n- OBDLink MX Wi-Fi\n- OBDLink WiFi\n***The app will NOT work with any other brand of OBD adapter.***\n\nTurn your phone or tablet into a full-fledged diagnostic scan tool: read diagnostic trouble codes, clear the \"Check Engine\" light, check emissions readiness, estimate fuel economy and much more!\n\nKey features:\n\n- Check and clear diagnostic trouble codes\n- Read freeze frame data\n- Display real-time data (over 90 parameters!)\n- Customizable dashboards\n- Emissions readiness for each US state\n- Fuel economy MPG, l/100km or km/l calculation\n- Multiple trip m",
+    "icon": "/icons/OCTech.Mobile.Applications.OBDLink.png"
+  },
+  "com.elm.elm327.obd2.eobd.obd.car.scanner.diagnostics.tool.dashboard.doctor.check.engine.torque.speed.trouble.codes.mary": {
+    "title": "Obd Mary \u2013 Car Scanner for ELM",
+    "package": "com.elm.elm327.obd2.eobd.obd.car.scanner.diagnostics.tool.dashboard.doctor.check.engine.torque.speed.trouble.codes.mary",
+    "description": "Obd Mary is a  EOBD \\ OBD-2 car diagnostic scanner, gauge dashboard and trip computer with a number of cool features.\n\nWith our OBD2 Car Scanner OBD Mary it is possible not only read and clear OBD-2 Trouble Codes but also make diagnostics for different vehicle ECU like: ABS, SRS, Airbag, HVAC and etc. \n\nOur Car Scanner OBD Mary supports brands like: Acura, Alfa Romeo, Alpina, Audi, BMW, BYD, Buick, Cadillac, Changan, Chery, Chevrolet, Chrysler, Citroen, Dacia, Daewoo, Daihatsu, Daimler, Datsun, Dodge, DS, Exeed, Fiat, Ford, Geely, General Motors, Genesis, GMC, Great Wall,  Haval, Holden, Honda, Hummer, Hyundai, Infiniti, ISUZU, JAC, Jaguar, Jeep, JMC, Kia, KTM, Lada, , Lancia, Land Rover, Lexus, Lifan, Lincoln, Lotus, Mahindra, Mazda, McLaren, Mercedes-Benz, Mercury, MG, Mini, Mitsubishi, ",
+    "icon": "/icons/com.elm.elm327.obd2.eobd.obd.car.scanner.diagnostics.tool.dashboard.doctor.check.engine.torque.speed.trouble.codes.mary.png"
+  },
+  "com.zymbia.carpm_mechanic": {
+    "title": "OBD Scanner ELM327: GaragePro",
+    "package": "com.zymbia.carpm_mechanic",
+    "description": "GaragePro is the perfect app for vehicle owners, repair shops and DIYers who want access to comprehensive OBD coverage (reading codes from all ECUs- Engine, Airbag, ABS, BCM and more), as well as special functions such as Injector coding, DPF regeneration, Throttle Reset, ABS (Brake) bleeding, Steering angle reset etc. \nGaragePro offers you 200+ diagnostics functions in cars, bikes and heavy vehicles and can be used with any common OBD2 scanner like ELM327 scanners and others.\n\nKey Features:\n\nAdvanced OBD Scanning: Scan and retrieve real-time data, trouble codes, and vehicle information directly from multiple systems such as Engine, ABS, SRS, EPS, BCM, Transmission, HVAC, Instrument cluster and many more.\n\nComprehensive explanations: Gain insights into a vehicle's health and identify poten",
+    "icon": "/icons/com.zymbia.carpm_mechanic.png"
+  },
+  "com.fundoshiparade.majinmansion": {
+    "title": "Mystic Mansion",
+    "package": "com.fundoshiparade.majinmansion",
+    "description": "Welcome to the mansion!\n\nPlay through a fun story filled with cute characters, creating stylish, unique rooms!\n\n\u25c6 Story\n\nYou're unexpectedly approached by a mysterious cat-like figure called Meowlin, who asks about your worries and then declares you would definitely benefit from spending time in his (her?) Mystic Mansion.\n\nYou are shown to a strange, dilapidated building. Waiting for you there is the mansion's manager, Purrcy, with his disarmingly adorable kitten looks.\n\n\"Your job is to clean up the mansion. Make it beautiful again. If you don't fix up every room, you can't go back alive. Think you can make it back with your life? I'm looking forward to your results. Hehehe.\"\n\nYou have no clue what's going, but your work sure is cut out for you! Unravel the mystery of the ruined mansion as",
+    "icon": "/icons/com.fundoshiparade.majinmansion.png"
+  },
+  "com.Cheritz.MysticMessenger": {
+    "title": "Mystic Messenger",
+    "package": "com.Cheritz.MysticMessenger",
+    "description": "You stumbled upon an app called \"Mystic Messenger\" and downloaded it. Once you opened it up the app is  connected to a mystic group chat with attractive guys. You are asked to join their secret party planning association called and the story begins...\n\n\u25c7 Mystic Messenger Official Website : http://msg.cheritz.com/\n\u25c7 Customer Service Center : https://helpdesk.qroad.net/?n=mysmeEN\n\u25c7 Twitter : https://twitter.com/Cheritz_DL\n\u25c7 Instagram : https://www.instagram.com/mysticmessenger_official_e/\n\nContact the developers :\nAddress - 14 Gyungheegung-gil, Sa-jik dong, Jong-ro gu, Seoul, Korea\nPhone number - (+82) 2-332-2524\nE-mail - support@cheritz.com",
+    "icon": "/icons/com.Cheritz.MysticMessenger.webp"
+  },
+  "com.superpunch.sidhe": {
+    "title": "Mystic Realms",
+    "package": "com.superpunch.sidhe",
+    "description": "Tired of predatory microtransactions and pay-to-win loot boxes? Mystic Realms is different. Built by a solo developer as a community-funded passion project, this is the only truly free card game on mobile. There are zero premium currencies, no hidden paywalls, and absolutely no ads. Every single card is unlocked simply by playing the game. Built for players, not profit.\n\nStep into the ultimate mythology CCG! Portals are tearing open across ancient realms, bringing legendary heroes, mythical beasts, and ancient gods face-to-face in an all-out card-battling duel. Build powerful decks, master devastating synergies, and outsmart players worldwide in fast-paced, strategic PvP duels. Whether you're a hardcore Trading Card Game (TCG) veteran or looking for a quick deckbuilder to play on the go, t",
+    "icon": "/icons/com.superpunch.sidhe.png"
+  },
+  "com.rubyseven.mysticslots": {
+    "title": "Mystic Slots\u00ae - Casino Games",
+    "package": "com.rubyseven.mysticslots",
+    "description": "Mystic Slots \u2013 Your All-New Casino App\n\nWelcome to Mystic Slots by Mystic Lake Casino, the ultimate casino experience where you can play 100+ exciting slot machines, video poker, blackjack, roulette, keno, bingo, and more. Play anytime, anywhere and enjoy Las Vegas-style gaming right in the palm of your hand. Download Mystic Slots now and claim all your COIN welcome bonus!\nWhy Play Mystic Slots?\n\nPlay Over 100+ Slots from Real Mystic Casino Slots Floors\n\nSpin exciting titles from Gaming Arts like Pinatas Ole, Rakin\u2019 Bacon from AGS, Konami\u2019s China Shores, and more from fan-favorites like 100x RA and Flaming Chilies!\nNew Mystic slots games are added every week, so there\u2019s always something new to play!\n\n50+ Video Poker Games\n\nDiscover all your classic favorites like Jokers Wild, Jacks or Bett",
+    "icon": "/icons/com.rubyseven.mysticslots.png"
+  },
+  "com.mystic.mystic_mobile": {
+    "title": "Mystic App",
+    "package": "com.mystic.mystic_mobile",
+    "description": "Discover the mysteries of the universe with Mystic. Learn through dynamic content, engage with cutting-edge AI, and connect with expert astrologers on demand.\n\n- Expert Astrologers: Book live sessions with top astrologers for tailored advice.\n\n- Explore Universal Concepts: Dive into astrology basics and advanced topics with interactive lessons.\n\n- Mystic AI: Chat with our intelligent AI to get personalized insights and answers.\n\n- Compatibility Reports: Generate detailed compatibility reports with friends, partners, siblings, or children.\n\n- Key Date Calculator: Find the best dates for life events based on astrological alignments.\n\n- Podcasts & Readings: Listen to engaging podcasts and read comprehensive articles about the cosmos.",
+    "icon": "/icons/com.mystic.mystic_mobile.png"
+  },
+  "com.app.shopeegallery": {
+    "title": "ShopeeGallery",
+    "package": "com.app.shopeegallery",
+    "description": "ShopeeGallery.com ensures that our customers receive the best products out there at affordable prices and with no drop in the quality of the product.\nEach product is individually handpicked and checked for any malfunctions, if there are to be any. Also, at 100% guaranteed satisfaction, we promise to deliver the best and the trimmer that you use shall be second to none.\n\nHassle Free Replacement & COD\nCash on Delivery available on all products. No question Replacement available for our customer on all items for details read product description.\n---------------------------------------------------------------\nShopeeGalllery Online Shopping Store\n\nPhone Accessories\nSmartwatches\nEar Buds\nBluetooth Speaker\nFitness Band\nComing soon - Shoes\n------------------------------------------\nShopeegallery A",
+    "icon": "/icons/com.app.shopeegallery.png"
+  },
+  "com.app.shopee365": {
+    "title": "SHOPEE 365",
+    "package": "com.app.shopee365",
+    "description": "Shopee 365: Your Ultimate Automotive Parts Hub\nWelcome to Shopee 365, the leading mobile app for car enthusiasts, mechanics, and everyday drivers who demand quality and reliability in automotive parts. Whether you're a seasoned professional or a car owner looking to perform simple maintenance tasks, Shopee 365 is your go-to platform for all things automotive. Designed with the user in mind, our app provides a seamless, intuitive shopping experience that puts thousands of vehicle parts right at your fingertips.\n\nWhy Choose Shopee 365?\nIn today's fast-paced world, convenience and efficiency are paramount. Shopee 365 is tailored to meet these needs, offering a vast array of car parts for virtually every make and model. Our commitment to quality, affordability, and customer satisfaction sets u",
+    "icon": "/icons/com.app.shopee365.png"
+  },
+  "com.windflow.spt": {
+    "title": "Shopee PriceTool",
+    "package": "com.windflow.spt",
+    "description": "It was designed to reduce the hassle of opening and calculating each country's Excel sheet one by one.\nIf you are a seller selling to Singapore, Taiwan, Thailand, Malaysia, Vietnam, Philippines, Brazil, or Mexico, I think you can save a little bit of time when uploading products.\n\n\n- Calculated based on Shopee Korea's price tool Excel\n- Apply real-time exchange rate\n- Overseas shipping cost (before discount applied) is calculated as the average value of the zone.\n\n\n9,900 won per month applies to the first subscription after the trial period ends, and 29,000 won thereafter.\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\nYou can manage your app subscriptions in your iTunes account settings. Any remaining trial period ",
+    "icon": "/icons/com.windflow.spt.png"
+  },
+  "com.devay.rps": {
+    "title": "RPS Shopee",
+    "package": "com.devay.rps",
+    "description": "RPS Stationery is your trusted destination for high-quality stationery products designed for everyday use.\nWe focus on delivering reliable quality, practical designs, and affordable pricing to meet the needs of students, offices, and businesses.\n\n\u2728 What we offer:\n\nPremium-quality stationery products\n\nDurable and reliable materials\n\nProducts suitable for school, office, and professional use\n\nSimple ordering and smooth app experience\n\nOur goal is to provide good quality products you can trust, every time you order.\n\n\ud83d\udce6 Download the app and explore quality stationery with confidence.",
+    "icon": "/icons/com.devay.rps.jpg"
+  },
+  "com.lwsipl.ionmatrix.launcher": {
+    "title": "Ionmatrix Launcher",
+    "package": "com.lwsipl.ionmatrix.launcher",
+    "description": "Transform your Android device's home screen with the Ionmatrix Launcher and experience the allure of the hi-tech theme like never before! Dive into a world of sdi-fi and customizable widgets that will elevate your smartphone experience to a whole new futuristic level.\n\n\ud83c\udf0c Key Features \ud83c\udf0c\n\n1. **Futuristic Wallpapers**: Choose from Space-age Design wallpapers within the launcher. Plus, you have the freedom to apply wallpapers from your gallery to create a unique look.\n\n2. **Unique Color Themes and Widgets**: Explore 20 meticulously crafted color themes, each designed with modern sci-fi wallpapers and widgets that perfectly complement your style.\n\n3. **Icon Pack Variety**: Tailor your device's look with ease by switching between 35 unique icon packs. Customize the color and padding of select pa",
+    "icon": "/icons/com.lwsipl.ionmatrix.launcher.png"
+  },
+  "pl.polityka.fiszkipolityki": {
+    "title": "Fiszki Polityki",
+    "package": "pl.polityka.fiszkipolityki",
+    "description": "Do you subscribe to the digital POLICY? Use Flashcards at no extra charge. All you have to do is log in to Fiszki with the same e-mail address as on Polityka.pl\n\nWHAT ARE FICHES?\n\nThese are interesting and valuable articles: Poland, the world, psychology, ecology, technologies, market, culture, health.\n\nAll this in the form of pleasant to the eye (and thumb) virtual flashcards. No ads and no information noise.\n\nHOW MUCH IS IT?\n\nThe flashcards are available as part of the POLITYKA digital subscription.\n\nYou can also buy access to Flashcards only:\n30 days free trial | PLN 9 per month | PLN 25 per quarter | PLN 87 per year.",
+    "icon": "/icons/pl.polityka.fiszkipolityki.png"
+  },
+  "com.sega.pjsekai": {
+    "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30bb\u30ab\u30a4 \u30ab\u30e9\u30d5\u30eb\u30b9\u30c6\u30fc\u30b8\uff01 feat. \u521d\u97f3\u30df\u30af",
+    "package": "com.sega.pjsekai",
+    "description": "\"Vampire\", \"KING\", \"Loki\", \"Charles\", \"Tell Your World\" etc.\nFrom the latest popular songs to famous songs that everyone knows, there are many included with 3DMV!\nA rhythm game that anyone can easily enjoy, brought to you by SEGA x Colorful Palette.\n\n\u25a0\u25a0Contains a large number of songs, from the latest popular songs to famous songs that everyone knows\u25a0\u25a0\nPhonii (Lyrics: Tsumiki, Composition: Tsumiki)\nSenbonzakura (lyrics: Kurousa, music: Kurousa)\nDramaturgy (lyrics: Eve, music: Eve)\nTell Your World (Lyrics: kz (livetune) Composition: kz (livetune))\nKING (Lyrics: Kanaria, Composition: Kanaria)\nHated by life (Lyrics: Iori Kanzaki, Composition: Iori Kanzaki)\nVampire (Lyrics: DECO*27 Composition: DECO*27)\nCharles (lyrics: Balloon, composition: Balloon)\nLoki (lyrics: Mikito P, composition: Mikito"
+  },
+  "com.regions.mobbanking": {
+    "title": "Regions Bank",
+    "package": "com.regions.mobbanking",
+    "description": "The Regions Mobile app offers:\nAccount management\n\u2022 Check your account balances anywhere\n\u2022 Search up to 18 months of transactions\n\u2022 Manage your cards and set alerts\n\nMoney movement\n\u2022 Transfer funds between your accounts\n\u2022 Make mobile deposits\n\u2022 Setup direct deposit\n\u2022 Send money with Zelle\u00ae\n\nSecurity\n\u2022 Log in securely with biometric ID\n\u2022 Protect your cards with LockIt\u00ae\n\nMoney management tools\n\u2022 Access budget & planning tools\n\u2022 Pay bills with Regions Bill pay\n\u2022 Check your FICO\u00ae Score\n\nConvenience\n\u2022 Use the app in English or Spanish*\n\u2022 Schedule appointments with a Regions banker\n\u2022 Locate a Regions branch or ATM near you\n\nTo contact us, email MobileApps@Regions.com.\n\nCopyright 2026 Regions Bank. All Rights Reserved.\n\nMember FDIC. Equal Housing Lender.\n\nRegions, the Regions logo and the LifeGre",
+    "icon": "/icons/com.regions.mobbanking.png"
+  },
+  "com.mabank.grip": {
+    "title": "MA Bank Mobile",
+    "package": "com.mabank.grip",
+    "description": "The MA Bank Mobile App is a free mobile support tool that gives you the ability to aggregate all of your financial accounts, including accounts from other financial institutions, into a single, up-to-the-minute view so you can stay organized and make smarter financial decisions. It is fast, secure and makes life easier by empowering you with the tools you need to manage your personal finances.\n\nManage Your Accounts:\n\u00b7 View accounts, balances, and history\n\u00b7 Search transaction history\n\u00b7 View images of checks and deposits\n\u00b7 Setup alerts by text, email, or push notification\n\u00b7 View electronic statements\n\u00b7 Temporarily turn your card off or back on, or quickly report it lost or stolen.\n\nDeposit Funds:\n\u00b7 Deposit checks with Mobile Deposit\n\nMake Payments & Transfer Funds:\n\u00b7 Pay bills\n\u00b7 Transfers be",
+    "icon": "/icons/com.mabank.grip.png"
+  },
+  "com.walmart.moneytransfer": {
+    "title": "Walmart2Walmart powered by Ria",
+    "package": "com.walmart.moneytransfer",
+    "description": "Walmart2Walmart Powered by Ria is the best way to send money from the United States to participating locations within the United States, Puerto Rico, or Mexico. Make your first remittance today to see why millions of customers trust Ria for fast, safe, and convenient international money transfers. \n\nWith over 4,500 Walmart locations in the US and Puerto Rico, with another 2,500+ Bodega Aurrera\u202fand Walmart locations in Mexico, you can get money to where it matters most.\u202f Send money for cash pickup safely and quickly with Walmart2Walmart Powered by Ria. \n\nSPEED + CONVENIENCE \nSay bye to checks or wiring money. Say hello to digital payment options. With the Walmart2Walmart Money Transfer Powered by Ria app, you can send money within the US and Puerto Rico, and from the US to Mexico.\u202f Plus, ou",
+    "icon": "/icons/com.walmart.moneytransfer.png"
+  },
+  "com.merrickbank.smartclient.prod": {
+    "title": "Merrick Bank Mobile",
+    "package": "com.merrickbank.smartclient.prod",
+    "description": "Easily and securely manage your Merrick Bank credit card anytime, anywhere.\n\nStay in control of your account with Merrick Bank Mobile. Quickly check balances, track spending, make\npayments, and monitor your FICO\u00ae Score \u2014 all from one simple, secure app.\n\nKey Features\n\u2022 Check balances & transactions in real time\n\u2022 Set and schedule payments with flexible options\n\u2022 View your FICO\u00ae Score to stay on top of your credit\n\u2022 Set custom alerts for payments, activity, and more\n\u2022 Access monthly billing statements at a glance\n\u2022 Fast sign in with Fingerprint ID\n\nGet Started\nSign in using your existing Merrick Bank username and password.\nNew to Merrick Bank? Enroll at merrickbank.com/enroll\n\nSecure & Reliable\nYour data is safeguarded with encrypted banking technology, device recognition, and multiple secu",
+    "icon": "/icons/com.merrickbank.smartclient.prod.png"
+  },
+  "com.syf.mysynchrony": {
+    "title": "MySynchrony",
+    "package": "com.syf.mysynchrony",
+    "description": "Download the MySynchrony App today to securely manage your credit card accounts* all in one place.\nWith this mobile app you will be able to:\n \n\u2022 Manage your Synchrony issued credit cards in one place\n\u2022 Log in securely using Biometric Authentication\n\u2022 Schedule and manage payments for your accounts\n\u2022 Check your balance and credit limit anytime, anywhere\n\u2022 Review your transaction and payment history\n\u2022 View your statements and manage your statement delivery preference\n\u2022 Securely add or delete multiple bank accounts that you'd like to use to pay your bill\n\u2022 Explore the Synchrony Marketplace for savings, deals, and offers from our partners nationwide, online, or right in your neighborhood\n\u2022 Access the Finance 101 blog to stay in the know on tips to better manage your finances\n\u2022 Discover answers ",
+    "icon": "/icons/com.syf.mysynchrony.png"
+  },
+  "apps.crdbbank.com.mobapp": {
+    "title": "CRDB BANK SimBanking",
+    "package": "apps.crdbbank.com.mobapp",
+    "description": "Benki ni SimBanking! Our new CRDB Bank SimBanking App gives you full visibility of your accounts and total control over your money. It\u2019s more secure, simpler and faster! Open a fully KYC account, buy insurance, block or apply for TemboCard. Plus, you can make the App personal by selecting exciting features that suit your personal taste and many more features we think you\u2019ll love\u2026\n\nSimple day-to-day banking \n\n\u2022\tOpen a full KYC account\n\u2022\tEase payments and transfers including bulk payments \n\u2022\tBuy airtime and send money without the selecting the mobile company\n\u2022\tEasier way to withdraw cash from CRDB ATM or Wakala without a TemboCard\n\u2022\tPay for your shopping and services conveniently through merchant CRDB Lipa Namba\n\u2022\tGet your LUKU token instantly on your App screen\n\nTake control of your money\n\n",
+    "icon": "/icons/apps.crdbbank.com.mobapp.png"
+  },
+  "com.wsandroid.suite.tmobile": {
+    "title": "McAfee\u00ae Security for T-Mobile",
+    "package": "com.wsandroid.suite.tmobile",
+    "description": "So much protection for your privacy, identity, and devices.\n\nWith McAfee Security for T-Mobile, you can secure multiple devices, including your smartphones, tablets, Chromebooks, Macs, and PCs. Our powerful privacy and identity protection give you the confidence to explore freely online\u2014anywhere, anytime.\n\nHere\u2019s just how much security you can expect:\n\nSAFE BROWSING\n-Block malicious websites automatically so you can browse safely\n-Stop online threats like malware, spyware, viruses, and more\n-Protect yourself from phishing and data leaks with Safe Browsing alerts.\n\nWI-Fl & SYSTEM SCANNER\n-Receive alerts when connecting to an unsecured Wi-Fi network or hotspot\n-Ensure safer online and network connections with Wi-Fi Scan.\n\nANTIVIRUS & VIRUS SCANNER*\n-Anti-malware & spyware detection with our ",
+    "icon": "/icons/com.wsandroid.suite.tmobile.png"
+  },
+  "com.virtru.email": {
+    "title": "Virtru Email Protection",
+    "package": "com.virtru.email",
+    "description": "Easily protect email messages and attachments sent from your Android device and maintain control everywhere they\u2019re shared to unlock the power of your data. Virtru Email Protection protects email directly in the mobile client with end-to-end encryption and enables persistent visibility and control, governing access throughout their lifecycle and ensuring privacy and compliance.\n\n      \u2022   Encrypt messages and attachments directly within the Android client, before they reach Google, to prevent unauthorized access and ensure privacy.\n      \u2022   Add expiration dates and disable forwarding for granular control.\n      \u2022   Revoke access to emails sent in error immediately, right from your Sent folder.\n      \u2022   View Virtru-protected emails on-the-go for secure, mobile collaboration.\n      \u2022   Giv",
+    "icon": "/icons/com.virtru.email.png"
+  },
+  "com.contactoffice.mailfence": {
+    "title": "Mailfence secure private email",
+    "package": "com.contactoffice.mailfence",
+    "description": "Mailfence is an encrypted email service that offers a secure and private Email suite with Drive and Workspaces.\n\nRestore Privacy says :\n\"Mailfence is a fully-featured alternative to Gmail. Whether you are a regular privacy-conscious user or managing a business team, Mailfence can cater to your needs.\"\n\nThe Mailfence app consists of different tools all integrated in an easy to use interface.\n\nMessages :\n\n\u2022 Create a @mailfence.com or @mf.me email address\n\u2022 Send and receive emails\n\u2022 Send and receive OpenPGP encrypted emails\n\u2022 Send Password-protected Emails to anyone\n\u2022 Switch between multiple mailboxes\n\u2022 Keep your inbox tidy and clean with folders, labels and swipes\n\u2022 Receive new email notifications\n\u2022 Your Mailfence email account can also be accessed in POP, IMAP & SMTP via third party email c",
+    "icon": "/icons/com.contactoffice.mailfence.png"
+  },
+  "com.usdirectexpress.mobileapp": {
+    "title": "Direct Express\u00ae Mobile",
+    "package": "com.usdirectexpress.mobileapp",
+    "description": "With the new mobile application for your Direct Express\u00ae Debit MasterCard\u00ae card, you can manage your money conveniently and securely from your mobile device. The mobile application is free to download for the cardholders whose card number starts with 533248. You need to register again with your card details prior to logging in the first time.\n\nPlease Note: If your card begins with 511563 DO NOT download this app. Please look for the yellow Direct Express\u00ae logo with a description stating that the app is for cards which start with the numbers 511563.\n\nWhen you sign up to receive your federal benefits on the Direct Express\u00ae card, you will receive your payment every month without having to worry about cashing your check or having it lost or stolen. Instead of receiving a check, your money will",
+    "icon": "/icons/com.usdirectexpress.mobileapp.png"
+  },
+  "com.comerica.mobilebanking": {
+    "title": "Comerica Mobile Banking\u00ae",
+    "package": "com.comerica.mobilebanking",
+    "description": "With the Comerica Mobile Banking\u00ae app, you can stay on top of your finances while keeping up with your busy life. Everything you need to bank is at your fingertips. (1)\n\n\u00b7 Check Balances \u2013 easily see your balances and transaction history and view checks that have cleared\n\u00b7 Fingerprint Login\n\u00b7 Transfer Funds \u2013 easily move money or schedule and view future transfers between your Comerica accounts\n\u00b7 Deposit checks with Click&Capture Deposit\u00ae - just take a picture of your check and have it deposited into your account (2)\n\u00b7 Pay Bills and eBills \u2013 view payments that are in a pending/processing status, add a new biller or find current billers with Bill Discovery\n\u00b7 Send Money with Zelle\u00ae - send and receive money from friends, family, and businesses quickly as well as import contacts from your devi",
+    "icon": "/icons/com.comerica.mobilebanking.webp"
+  },
+  "com.citizensbank.androidapp": {
+    "title": "Citizens Bank Mobile Banking",
+    "package": "com.citizensbank.androidapp",
+    "description": "Get ready to manage your money \u2013 anytime, anywhere \u2013 from the convenience of your mobile device.\n\nManage Accounts\n\n- See up-to-date balances and account activity\n- Freeze and unfreeze debit cards\n\nDeposit Checks\n\n- Snap photos of your checks for easy deposit\n- Get same-business day credit on deposits made by 10 pm ET\n\nTransfer Money \n\n- Make transfers between Citizens accounts and to non-Citizens accounts\n- Send money securely with Zelle\u00ae\n\nPay Bills\n\n- Manage all your bills in one place\n- See payment history\n- Add and pay any company\n\nPlus, your finances are protected with the Citizens Bank Online Guarantee.\u00ae\n\nDISCLOSURES: \n\nTo send or receive money with Zelle\u00ae, both parties must have an eligible checking or savings account. Transactions between enrolled users typically occur in minutes. D",
+    "icon": "/icons/com.citizensbank.androidapp.png"
+  },
+  "com.comerica.financialadvisors": {
+    "title": "Comerica Financial Advisors",
+    "package": "com.comerica.financialadvisors",
+    "description": "Get anytime, anywhere access to the information you need to help you make smart, informed financial decisions.\n\nAt Comerica Financial Advisors, (a financial advisory practice of Ameriprise Financial Services, LLC) we provide a personalized financial advice strategy based on your goals and needs. \n\nWith the Comerica Financial Advisors app, you can connect with your accounts and your financial advisor:\n\nTrack your progress\n\u2022\tView a snapshot of your total asset value and account summary\n\u2022\tCheck account information including balances, positions, and recent activity\n\u2022\tView portfolio allocation and performance\n\nGet a more complete financial picture\n\u2022\tView accounts you add to Total View \u2013 no matter where they are held\n\u2022\tView your financial goals, including tracking your progress\n\nCollaborate secu",
+    "icon": "/icons/com.comerica.financialadvisors.png"
+  },
+  "com.comerica.tmconnectmobile": {
+    "title": "Comerica Treasury Mobile\u00ae",
+    "package": "com.comerica.tmconnectmobile",
+    "description": "Enjoy one more way for your organization to quickly and conveniently access your company\u2019s account information and approve payments through Comerica Treasury Mobile\u00ae. Our easy-to-use mobile app for businesses includes these abilities and features: \n\nYour organization\u2019s administrator manages which employees are given access to the mobile app through the Customer Administration Tool in Comerica Business Connect\u00ae\n\nView current-day information reporting- Both summary and detailed information is available for your Comerica depository accounts and Controlled Disbursement accounts\n\nView prior-day information reporting- See up to five business days of prior-day summary and detailed information reporting, including check images, for your Comerica depository accounts, Controlled Disbursement account",
+    "icon": "/icons/com.comerica.tmconnectmobile.png"
+  },
+  "com.zable.us": {
+    "title": "Zable Credit Card",
+    "package": "com.zable.us",
+    "description": "The Zable app which allows you to manage repayments, transactions and account operations for your Zable credit card",
+    "icon": "/icons/com.zable.us.png"
+  },
+  "com.capitalservices.blaze": {
+    "title": "Blaze Mastercard Mobile",
+    "package": "com.capitalservices.blaze",
+    "description": "Access your Blaze Mastercard\u00ae account virtually anywhere with the Blaze mobile app.  You can check your account balance, pay your bill, view transactions and more.\n\nFAST AND EASY ACCOUNT ACCESS\n\u2022 Biometrics for a safe and secure sign in\n\nSTAY IN-THE-KNOW WHEN YOU\u2019RE ON THE GO\n\u2022 Opt-in to Account Alerts and set your notification preferences so you can keep tabs on your account activity\n\u2022 Set up and manage notifications when your payment is due or a payment has posted\n\nMANAGE YOUR BLAZE CREDIT CARD ACCOUNT\t\n\u2022 Check your balance and available credit, and view or download monthly statements\n\u2022 View payment due date and make payments\n\u2022 Manage Autopay by enrolling, editing or cancelling\n\u2022 Update account information (address and phone number)",
+    "icon": "/icons/com.capitalservices.blaze.png"
+  },
+  "org.genesis.fs.prod.MobileApplication": {
+    "title": "Concora Credit",
+    "package": "org.genesis.fs.prod.MobileApplication",
+    "description": "See all of your accounts serviced by Concora Credit with one login. Manage your account with the Concora Credit App. With the app, you can activate your card, make payments, stay up to date with your transactions, and manage your account information 24/7. The Concora Credit App works with the Milestone Mastercard, Destiny Mastercard, Indigo Mastercard, Earniva Mastercard, Kay Jewelers Account, GEM (Zales) Account, Jared The Galleria Of Jewelry Account, The Sterling Family of Jewelers Account, Helzberg Diamonds Private Account, Fred Meyer Jewelers Gold Preferred Account, Littman Jewelers Gold Preferred Account, Mor Furniture for Less Silver Account, Ashley Advantage Gold Account, and Concora Credit Account.",
+    "icon": "/icons/org.genesis.fs.prod.MobileApplication.png"
+  },
+  "com.stash.stashinvest": {
+    "title": "Stash: Investing made easy",
+    "package": "com.stash.stashinvest",
+    "description": "Invest with confidence\u2014expert-built portfolios, guidance, and automation\n\nStash is the investing app that helps everyday Americans make their money work harder. Whether you're planning for retirement, building a safety net for the future, or investing for the first time, Stash combines expert-managed portfolios with powerful automation and personalized guidance to help you stay on track.\n\nAs a Registered Investment Advisor (RIA), we act in your best interest\u2014like the financial pros wealthy people hire, but built for real working people. With Stash, you\u2019ll invest smarter, not harder, using the same long-term strategies professionals trust.\n\nAutomated investing, managed by experts\nSmart Portfolio takes the guesswork out of investing with expert advice. Stash builds and manages a diversified ",
+    "icon": "/icons/com.stash.stashinvest.png"
+  },
+  "com.discovery.discoverygo": {
+    "title": "Discovery GO",
+    "package": "com.discovery.discoverygo",
+    "description": "\"Catch up with your favorite Discovery shows anytime, anywhere with the all-new Discovery GO app - and now get access to up to 14 additional networks including TLC, HGTV, Food Network and more - all in one app. It\u2019s FREE with your pay TV subscription. \n\nLink your pay TV provider (cable, satellite, telco, live TV streaming service) to access Discovery favorites like Gold Rush, Moonshiners, Bering Sea Gold, Deadliest Catch, Battle Bots, Street Outlaws, Naked and Afraid, Naked and Afraid XL, Expedition Unknown, Alaska: The Last Frontier and many more - plus top shows from other networks including Home Town (HGTV), Diners, Drive-Ins and Dives (Food Network), Dr. Pimple Popper (TLC), Evil Lives Here (ID), Ghost Adventures (Travel Channel) and more. New episodes are available the same day as the",
+    "icon": "/icons/com.discovery.discoverygo.png"
+  },
+  "com.discovery.discoveryplus.mobile": {
+    "title": "discovery+ | Stream TV Shows",
+    "package": "com.discovery.discoveryplus.mobile",
+    "description": "discovery+ is the streaming home of Food, Home, Travel, True Crime, Paranormal and so much more. Watch exciting, can\u2019t miss Original series plus all your favorite shows from the best TV brands. There's something for everyone!\n\nHere's what else discovery+ offers you:\n\u2022 Enjoy all your favorites from the best TV brands including: HGTV, Food Network, TLC, ID, Animal Planet, Travel Channel, Discovery Channel and more. Channel availability varies by region.\n\u2022 Must-see 90 Day Fianc\u00e9 series and other incredible reality moments.\n\u2022 Award-winning collection of the best natural history series and breath-taking documentaries.\n\u2022 An ever-growing catalog of new TV series and episodes.\n\u2022 Full access to watch anytime, anywhere across compatible devices.\n\u2022 Browse or search with ease across the best in: Lifes",
+    "icon": "/icons/com.discovery.discoveryplus.mobile.png"
+  },
+  "com.experian.android": {
+    "title": "Experian\u00ae",
+    "package": "com.experian.android",
+    "description": "Financial Power to All\u2122. Get your Experian credit report and FICO\u00ae Score* with a free Experian\u00ae membership\u2014no credit card needed! Apply with confidence for credit cards labeled \u201cNo Ding Decline\u2122\u201d that won\u2019t ding your FICO\u00ae Score if you\u2019re not initially approved^^. You could save big on car insurance and even get notified about changes to your credit profile. With a paid membership, you could save an average of $631/year on bills and subscriptions with Bill Negotiation & Subscription Cancellation**, get started today.\n\nGET STARTED FOR FREE\n\n\u25a0Experian credit report and FICO\u00ae Score*\nCheck your FICO\u00ae Score and credit report anytime, anywhere\u2014it won't hurt your credit. Get every 30 days. See what factors help or hurt your FICO\u00ae Score, and actions to take for better credit.\n\n\u25a0Experian Boost\u00ae\u00f8\nRa",
+    "icon": "/icons/com.experian.android.webp"
+  },
+  "com.intuit.turbotax.mobile": {
+    "title": "TurboTax: File Your Tax Return",
+    "package": "com.intuit.turbotax.mobile",
+    "description": "TWO WAYS TO FILE YOUR TAXES FOR $0\nLIMITED TIME OFFER! All tax situations. All free in the app. Switch to TurboTax by 2/28 and file free in the app. \n\u2022 Offer is valid only if you didn\u2019t file with TurboTax last year.\n\u2022 To qualify, you must start and file your taxes using Do It Yourself in the TurboTax mobile app.\n\u2022 To redeem offer, taxes must be filed by 2/28/2026 at 11:59pm ET.\n\u2022 TurboTax Experts products are excluded.\nTurboTax Free Edition: $0 federal returns + $0 state returns = $0 to file. ~37% of taxpayers qualify. Simple Form 1040 returns only (no schedules except for Earned Income Tax Credit, Child Tax Credit, and Student Loan Interest, and Schedule 1-A). (1)\n\nCHOOSE HOW MUCH EXPERT HELP YOU WANT\n\u2022 TurboTax Expert Full Service - Let an expert do your taxes start to finish. Get matche",
+    "icon": "/icons/com.intuit.turbotax.mobile.png"
+  },
+  "com.atm.atm.prod": {
+    "title": "ATM Cash Advance\u30fbInstant Money",
+    "package": "com.atm.atm.prod",
+    "description": "ATM Instant Cash\u2122 helps you get an instant cash advance and earn real cash rewards. Handle emergencies, avoid overdraft fees, and access money fast \u2014 no credit check, no interest, no late fees. Earn cash with surveys, games, cashback, and bonus offers. All-in-one cash advance, cashback, surveys, games, budgeting.\n\nWhy people use ATM.com\n\nInstant cash advance / instant money for unexpected expenses\nReal cash rewards (not points): withdraw earnings to your bank account\nSurveys + games to earn extra cash\nCashback from 500+ partners to save on everyday spending\nPersonal finance tools: spend tracking, budgeting, bills, and subscriptions\n\nATM.com helps you earn from your data, games, surveys, cashback, and bonus offers\u2014while providing personal finance tools and access to cash. Earn rewards and c",
+    "icon": "/icons/com.atm.atm.prod.png"
+  },
+  "com.petco.mobile": {
+    "title": "Petco: The Pet Parents Partner",
+    "package": "com.petco.mobile",
+    "description": "The Petco app is the Pet Parent's Partner. Use it to expertly pamper your pet both online and in our stores.\n\nGET IT TODAY\n\nYou can buy in the app then pick it up at over 1,000 locations across the US. Leverage our Curbside Pickup option to help protect your health and safety while minimizing social exposure by ordering online and getting your items hand-delivered to your car.\n\nPERSONALIZED TO YOUR PETS\n\nSet up your pet and the app becomes your partner, helping you find and access all that you need for your pet.\n\nManage and track your pet\u2019s complete health and needs. Look across your purchase history online and in-store to make sure your pets are covered in all care categories so they can live a happy and healthy life.\n\nBOOK GROOMING APPOINTMENTS AND GET REWARDED\n\nDid you know grooming is ",
+    "icon": "/icons/com.petco.mobile.png"
+  },
+  "com.petsmart.consumermobile": {
+    "title": "PetSmart",
+    "package": "com.petsmart.consumermobile",
+    "description": "At PetSmart, we know being a pet parent is one of life\u2019s most rewarding experiences. It also raises many questions. So, we\u2019ve built our app to be a valued resource for every step of your pet parent journey. You\u2019ll find essential products, in-store services, helpful articles, plus you can shop everything your pet needs in one place.\n\n\u2022 In-App Shopping: Get all your pet essentials in one place. In a rush? Get your order in 2 hrs. or less with Curbside or In-Store Pickup.\n\n\u2022 Treats Rewards Loyalty Program: Sign up to earn points on every merchandise purchase, services appointment & PetSmart Charities\u00ae donation. Plus, manage your Treats Rewards account & tier status.\n\n\u2022 Grooming Salon Services: Does your pet need a haircut or ear cleaning? Book an in-app appointment & manage their reservation.",
+    "icon": "/icons/com.petsmart.consumermobile.png"
+  },
+  "com.chowhound": {
+    "title": "Chow Hound Pet Supplies",
+    "package": "com.chowhound",
+    "description": "At Chow Hound Pet Supplies, your pet is at the heart of everything we do! As your neighborhood pet store, we carry over 10,000 products and over 250 industry-leading brands, including Pro Plan, Hill's Science Diet, Blue Buffalo, Royal Canin, Fromm, Merrick, Taste of the Wild, Wellness, Stella & Chewy's, and Orijen. \nWe understand how it feels to be pet parents, because we\u2019re also ones! In fact, being pet parents is what inspired us to build an app to help our fellow pet parents find information, shop our products, ask questions, set up recurring AutoOrders, same day home delivery, or in-store pickup.\n\u00b7         Within this app you can enroll in our AutoOrder program. Save 35% off your first AutoOrder, and 8% off recurring orders.\n\u00b7         Receive FREE home delivery when you spend $39 or mo",
+    "icon": "/icons/com.chowhound.png"
+  },
+  "com.chewy.android": {
+    "title": "Chewy: Pet Shopping & Delivery",
+    "package": "com.chewy.android",
+    "description": "App Exclusive Deal: Get $5 off your first app purchase. Use code: APP during checkout. Limited time, terms apply.\n\nThis one\u2019s for pet\u2019s health and wellness. Shop for all the things that keep your pet happy and healthy with Chewy, the trusted destination for pet parents. With 3000+ brands of food and supplies, and 24/7 help from pet experts, our priority is your pet\u2019s wellness. Unlock high quality and low priced products, Autoship delivery, free 365-day returns and more. Food shop and pharmacy \u2014 Chewy has you covered.\n\nDiscover something for every pet. Dog, cat, fish, reptile, or horse. Find everything your pet needs today.\n\nSHOPPING FOR EVERY PET\nSkip a trip to the store! Enjoy Pharmacy and pet food delivery. Make your pet parenting life easier with our shopping app. Shop top brands and ex",
+    "icon": "/icons/com.chewy.android.png"
+  },
+  "com.customizedinc.cciscanplay": {
+    "title": "CCI Scan + Play",
+    "package": "com.customizedinc.cciscanplay",
+    "description": "Want instant access to birth and baby videos? It's easy. Download the free CCI Scan +\nPlay app today. Scan any icon in a Customized Communications childbirth education\nbook and voila! You're watching an informative video on y\nour smartphone or tablet.",
+    "icon": "/icons/com.customizedinc.cciscanplay.jpg"
+  },
+  "com.ccimobile": {
+    "title": "CCI Mobile",
+    "package": "com.ccimobile",
+    "description": "Discover CCI Stock Exchange: Your digital ally in the financial world \ud83d\ude80\n\nWith our application, opening your account and managing your portfolio of financial products at CCI is faster, easier and safer than ever.\n\nOpen your investment account in minutes\nExperience an agile process designed to suit you: open your investment account directly from your cell phone, without complications and with all the guidance you need to take your first steps in the world of finance. \ud83d\udcbc\n\nConsult and analyze your portfolio in real time\n\n   * Visualize the total value of your portfolio clearly.\n   * Know the composition of your investments and follow the historical evolution \n     from your wallet.\n   * Access the details of each product, with precise information both in  \n      Dominican pesos and dollars. \ud83d\udcca\n\n",
+    "icon": "/icons/com.ccimobile.png"
+  },
+  "com.easy.cci": {
+    "title": "Easy CCI (20)",
+    "package": "com.easy.cci",
+    "description": "The commodity channel index (CCI) is an oscillator originally introduced by Donald Lambert in 1980. Since its introduction, the indicator has grown in popularity and is now a very common tool for traders in identifying cyclical trends not only in commodities, but also equities and currencies.\n\nCCI fits into the momentum category of oscillators. Like most oscillators, the CCI was developed to determine overbought and oversold levels. The CCI does this by measuring the relation between price and a moving average (MA), or, more specifically, normal deviations from that average. The CCI typically oscillates above and below a zero line. Normal oscillations will occur within the range of +100 and \u2212100. Readings above +100 usually imply an overbought condition, while readings below \u2212100 imply an ",
+    "icon": "/icons/com.easy.cci.png"
+  },
+  "com.xie.tpowerBluetooth": {
+    "title": "CCS2 GBT Converter",
+    "package": "com.xie.tpowerBluetooth",
+    "description": "With this app, you can: \n1.Bluetooth Upgrade: Connect your phone to the CCS2\u2013GBT converter and update firmware wirelessly. \n2.Firmware Management: Download the latest firmware package from the cloud and install it in just a few steps. \n3.Log Handling: Easily download and upload logs to assist with troubleshooting and technical support. \n4.Real-time Data: Monitor live operational status of the converter for safe and reliable performance.",
+    "icon": "/icons/com.xie.tpowerBluetooth.jpg"
+  },
+  "com.cindicator": {
+    "title": "Cindicator: Become an Analyst",
+    "package": "com.cindicator",
+    "description": "Make accurate forecasts on the stock market, cryptocurrency and other crypto assets, and win real money every month!\nMore than $100,000 has already been paid out. Compete with traders and investment analysts from around the world without investing your own money or trading Bitcoin and cryptocurrency.\nWith Cindicator you can:\n1. Win money from your intellectual work.\nMake financial market forecast, bitcoin price and crypto market forecasts on a regular basis, and do it more accurately than others.\n2. Enhance your analytical and trading skills.\nYou will receive constant feedback about the accuracy of your financial market forecasts, allowing you to test different online trading ideas and improve your understanding of finance, bitcoin, and stock charts.\n3. Public recognition of your analytica",
+    "icon": "/icons/com.cindicator.png"
+  },
+  "cci.usage": {
+    "title": "My Consumer Cellular",
+    "package": "cci.usage",
+    "description": "Here\u2019s yet another way Consumer Cellular makes wireless service easy. With the MY CC app, you can conveniently manage your Consumer Cellular account right from your smartphone. Track your usage, pay your bill, upgrade your plan or even manage your monthly plans if you need to. You can enable or disable select service functions. Plus, you can access our award-winning customer support with the touch of a button!\n\nBy using the free Consumer Cellular app on your Android device, you\u2019ve got control of your wireless needs in the palm of your hand.",
+    "icon": "/icons/cci.usage.png"
+  },
+  "com.consumerapp_v1": {
+    "title": "Tractor Supply Company",
+    "package": "com.consumerapp_v1",
+    "description": "Get all your Life Out Here needs in one spot \u2013 your phone. Download the TSC app for quick shopping, order tracking, scheduling deliveries and check your Neighbor\u2019s Club points.  \n\nFeatures include: \n\nNEW TO THE TSC APP \u2013 Get the most out of your Neighbor\u2019s Club membership with our newest App features. \n\n \n\nACCESS REWARDS & MORE THROUGH YOUR WALLET  \n\nFind reward certificates, Market redemptions and member benefits in your wallet. \n\n \n\nREDEEM YOUR POINTS IN THE MARKET \n\nExchange your Neighbor\u2019s Club points for rewards, services and more.  \n\n \n\nTRACK YOUR PROGRESS ON THE DASHBOARD \n\nCheck your points balance and see how close you are to the next member level using the dashboard.  \n\n \n\nACCESS ORDER HISTORY & RE-ORDER \n\nSee previous orders and easily re-order products again and again. \n\n \n\nSUB",
+    "icon": "/icons/com.consumerapp_v1.png"
+  },
+  "com.qvc": {
+    "title": "QVC Mobile Shopping (US)",
+    "package": "com.qvc",
+    "description": "* The minimum version supported by QVC is v5.x and above for optimal usage.\n\nMORE NEW FEATURES\n\u2022 PayPal and PayPal Express payment methods.\n\u2022 Predictive Search recognizes popular brands and keywords to help you get to your favorites faster. \n\u2022 Template-Driven Pages offer a sort and refine feature so users can filter results.\n\u2022 Pinch & zoom on the product detail page to get a closer look at details.\n\u2022 Voice Search\u2014just tap on the microphone in the search bar and say the keyword or item number you\u2019re looking for. You can even speak to launch Live TV, Program Guide, Item On Air, Items Recently On Air, and My Account.\n\u2022 Persistent Login\u2014added based on customer feedback! If you are signed in once, your sign-in credentials will be carried over to other screens within the app.\n\u2022 Items in your car",
+    "icon": "/icons/com.qvc.png"
+  },
+  "com.softek.ofxclmobile.macu": {
+    "title": "Mountain America CU",
+    "package": "com.softek.ofxclmobile.macu",
+    "description": "TRANSFERS\n\t\u25aa\tMove money between your Mountain America accounts.\n\t\u25aa\tMake loan payments or set up recurring payments.\n\t\u25aa\tMove funds between your Mountain America accounts and those at other financial institutions.\n\t\u25aa\tSecurely send and receive money with Zelle\u00ae using a U.S. mobile number or email address.\u00b9\nMOBILE DEPOSIT\n\t\u25aa\tDeposit checks by taking a picture with your device.\nMOBILE LOANS\n\t\u25aa\tApply for credit card, auto, RV, ATV, motorcycle and personal loans.\nBILL PAY\n\t\u25aa\tSchedule, edit and cancel bill payments.\nSECURITY\n\t\u25aa\tSet up text and email alerts based on balances, approvals, transactions and more.\n\t\u25aa\tUse your fingerprint or face scan to log in with supported devices.\nDEBIT & CREDIT CARDS\n\t\u25aa\tFreeze and unfreeze your card.\n\t\u25aa\tChange or reset your PIN.\n\t\u25aa\tRequest a new or replacement card.",
+    "icon": "/icons/com.softek.ofxclmobile.macu.png"
+  },
+  "org.alliant.mobile": {
+    "title": "Alliant Mobile Banking",
+    "package": "org.alliant.mobile",
+    "description": "The Alliant Mobile Banking App makes it easy for you to manage your finances on the go, with only the tap of a finger. It\u2019s quick, convenient and all-around smarter banking! \n\n\nUse your existing Alliant Online Banking login to get started or, if you\u2019re a first time user, create your login credentials right from the mobile banking app.\n\nUse the Alliant Mobile Banking App to:\n\u2022 Deposit checks instantly\n\u2022 Securely check account balances and view recent banking activity\n\u2022 See transaction history, including credit card transactions\n\u2022 Transfer money between accounts and set up external accounts\n\u2022 Report cards lost or stolen with our tap-to-call feature\n\u2022 Pay monthly bills and set up new payees\n\u2022 Find ATMs in our 80,000+ fee-free network as well as ATMs that accept deposits\n\u2022 Create, receive and ",
+    "icon": "/icons/org.alliant.mobile.png"
+  },
+  "com.applefcu.applefcu": {
+    "title": "Apple Federal Credit Union",
+    "package": "com.applefcu.applefcu",
+    "description": "Apple FCU\u2019s FREE Mobile App provides secure anywhere, anytime access to personal and business accounts.\n\n\u2022Enable Snapshot to view your Apple FCU balances without logging in \n\u2022Check balances, transfer funds and make loan payments\n\u2022See joint accounts from one login\n\u2022Deposit checks\n\u2022Pay bills from your Apple FCU account with one login\n\u2022Apply for a loan or add new accounts\n\u2022Manage your Credit/Debit Cards (block usage, travel notices, report lost/stolen)\n\u2022Set up text/email alerts for balances, transactions and more\n\u2022Send secure messages or chat with an Apple FCU representative\n\u2022And more!\n\n*Requires internet access from your mobile device; airtime and carrier fees per your contract/plan may apply.",
+    "icon": "/icons/com.applefcu.applefcu.png"
+  },
+  "com.akusafcu.mobile": {
+    "title": "Global CU",
+    "package": "com.akusafcu.mobile",
+    "description": "Global CU\n\nTake your finances on the move! Featuring digital tools that allow you to connect all your financial accounts into an easy to manage one-stop shop.\n\n\u2022 Monitor your whole financial life in one app\n\u2022 Card security\u2014lock and unlock your Global credit and debit cards\n\u2022 Pay bills and move funds between financial institutions\n\u2022 Send money to friends\n\u2022 Track spending\n\u2022 Budget based on your spending, income, debt, and expense history\n\u2022 Locate a branch, surcharge-free ATM, or shared branching partner credit union\n\u2022 Categorize transactions automatically\n\u2022 Get customizable alerts and notifications\n\u2022 Sign in with face and fingerprint unlock\n\nSupport\nContact the Member Service Center 24/7/365\n800-525-9094\nGlobalCUMSC@globalcu.org\n\nInsured by NCUA.\n\u00a9 2025 Global Federal Credit Union. All Right",
+    "icon": "/icons/com.akusafcu.mobile.png"
+  },
+  "com.iptvtvsmartguide.app": {
+    "title": "IPTV Player Stream & M3U Pro",
+    "package": "com.iptvtvsmartguide.app",
+    "description": "PTV player is a convenient media player which enables users to easily watch videos, live TV streams, movies and series with its built-in powerful smarter player by adding online or local M3U & M3U8 files or Xtream Code Api. You can install this smart IPTV stream player on the phone, tablet to enjoy your ultimate IPTV xtream player experience!\n\nMain Features:\n- Support adding unlimited M3U/M3U8 streaming playlists. \n- Support adding Xtream Code Api.\n- Support analyzing M3U/M3U8 formats with EPG information.\n- Easily add M3U/M3U8 files from online websites & the local folders of your device.\n- Watch IPTV live streams with built-in powerful IPTV Player.\n- Cast to smart TVs enabled with Chromcast and get rid of small screens' limitations.\n- Adjust playback ratio, volume and brightness per your",
+    "icon": "/icons/com.iptvtvsmartguide.app.png"
+  },
+  "com.livecast.cast.iptv": {
+    "title": "IPTV Live Cast \u2013 IPTV Player",
+    "package": "com.livecast.cast.iptv",
+    "description": "IPTV Live Cast (ILC) \u2013 IPTV Player for Android\n\nIPTV Live Cast (ILC) is a Smart, modern, fast, and stable IPTV Player for Android, designed to play your personal IPTV playlists and stream content to your Smart TV using Google Chromecast.\nThe app works strictly as an IPTV media player and requires users to provide their own IPTV sources.\n\n\ud83c\udfaf Key Features\n\n\u2022 Fast and stable IPTV player\n\u2022 Support for M3U / M3U8 playlists\n\u2022 Login via Xtream Codes API (XC)\n\u2022 EPG (Electronic Program Guide) support\n\u2022 Cast IPTV content to Smart TV with Google Chromecast\n\u2022 Play live TV, movies, and series\n\u2022 Organize channels with categories and favorites\n\u2022 Automatically play the last watched Stream channel\n\u2022 Built-in and native video player\n\u2022 Picture-in-Picture (PIP) mode\n\u2022 Background playback\n\u2022 Video zoom with doub",
+    "icon": "/icons/com.livecast.cast.iptv.jpg"
+  },
+  "ru.iptvremote.android.iptv.pro": {
+    "title": "IPTV Pro",
+    "package": "ru.iptvremote.android.iptv.pro",
+    "description": "This is the paid version of IPTV app. \n\nPro features (comparing with free version):\n \u2714 Ad free\n \u2714 Start app on device boot option, useful for set-top boxes.\n \u2714 Auto-play last channel option\n \u2714 Extended playlists history\n\nWatch IPTV from your Internet service provider or free live TV channels from any other source in the web.\n\nFeatures:\n \u2714 M3U and XSPF playlists support\n \u2714 Playlists history\n \u2714 Playing multicast streams with UDP proxy (proxy need to be installed in your LAN)\n \u2714 Grid, list or tile view of TV channels\n \u2714 EPG support in XMLTV and JTV formats\n \u2714 Internal and external video players\n \u2714 Parental control\n\nThis app doesn't contain any built-in channels, you should have your playlist with TV channels to use this app.\n\nFor multicast streams it's recommended to use UDP proxy:\n * for Win",
+    "icon": "/icons/ru.iptvremote.android.iptv.pro.png"
+  },
+  "com.hebrewtime.app": {
+    "title": "Hebrew Time",
+    "package": "com.hebrewtime.app",
+    "description": "Hebrew Time brings a beautiful counter-clockwise analog clock with Hebrew numerals (Gematria) to your Android home screen.\n\n\u2721\ufe0f FEATURES:\n\u2022 Elegant analog clock widget with Hebrew numerals\n\u2022 Counter-clockwise movement honoring Hebrew tradition\n\u2022 Jewish calendar date displayed on the clock face\n\u2022 Complete zemanim (halachic times) for your location\n\u2022 Shabbat candle lighting and havdalah times\n\u2022 Holiday notifications (24h and 30min before)\n\u2022 5 beautiful clock skins to match your style\n\u2022 Works offline - no internet required for core features\n\n\ud83d\udcc5 JEWISH CALENDAR:\n\u2022 Full Hebrew date with month, day, and year\n\u2022 Weekly parasha display\n\u2022 All major Jewish holidays highlighted\n\u2022 Rosh Chodesh, fast days, and minor holidays\n\n\ud83d\udd50 ZEMANIM INCLUDE:\n\u2022 Alot HaShachar, Misheyakir, HaNetz\n\u2022 Sof Zman Shema (GRA/MA",
+    "icon": "/icons/com.hebrewtime.app.png"
+  },
+  "com.megogo.application": {
+    "title": "MEGOGO: Live TV & movies",
+    "package": "com.megogo.application",
+    "description": "MEGOGO   is a content universe where everything is just the way you like it. Watch 100s of live TV channels, all streaming free, movies, series, sports, and audiobooks. \n\nSwitch on the good \u2014 switch on your favorites:\n\n\ud83c\udd93Free channels. Try MEGOGO TV free, it\u2019s always with you. Watch MEGOGO TV channels online on your smartphone, tablet, or Smart TV. There is something for everybody: TV shows and movies, traveling, kids, sports, music, news and more. When downloading the MEGOGO TV app, you can unlock free access to 100+ TV channels with no subscription required. Download MEGOGO to start watching free TV today.\n\n\ud83c\udf9e\ufe0fPopular movies and series. Watch movies, series, new releases, and top-rated Hollywood premiers without advertising on a streaming TV and movie service. Everyone will find their favo",
+    "icon": "/icons/com.megogo.application.png"
   }
 }
