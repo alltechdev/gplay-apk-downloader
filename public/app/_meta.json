@@ -24766,12 +24766,6 @@
     "description": "Download the official Rakuten event app for an enhanced networking experience. Plan your agenda, connect with other attendees, and schedule meetings. During the event, the app will help to maximize your interactions with the other marketers you meet at Rakuten events.\n\u00a0\nAccess the event app to:\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 Schedule meetings\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 Engage in 1:1 conversations\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 Access event agenda and bookmark sessions\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 View venue map\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 Receive event notifications in real-time\u00a0\n\u00a0\u2028You must be registered for each event to access the app.\u00a0\u00a0\n\u00a0\nQuestions? Email events@rakuten.com",
     "icon": "/icons/com.swapcard.apps.android.rakutenevents.png"
   },
-  "mr.bpm.digitalbanking.consumer": {
-    "title": "Bankily",
-    "package": "mr.bpm.digitalbanking.consumer",
-    "description": "The product BANKILY is a mobile banking product of Banque Populaire de Mauritanie.\n\nWith a banking rate around 18%, Banque Populaire de Mauritanie is moving towards Mobile Banking to encourage financial inclusion in Mauritania. The advent of this mobile product supports the measures taken by the Central Bank as part of the demonetization and modernization of payment methods. BPM's Mobile Banking was designed and developed by an expert company and leader in the international market.\nBankily, trademark, inspires the action of \"bankrupt\" money, \"send\" money or pay with your mobile phone, smartphone or basic. The product is accessible via the BANKILY application developed by the Banque Populaire de Mauritanie or via the USSD codes of the partner operators. The Bankily Product offers the possib",
-    "icon": "/icons/mr.bpm.digitalbanking.consumer.png"
-  },
   "mr.digi.sedad": {
     "title": "Sedad - \u0627\u0644\u0633\u062f\u0627\u062f",
     "package": "mr.digi.sedad",
@@ -26919,5 +26913,51 @@
     "package": "com.theoremreach.wizardbucks",
     "description": "Introducing the Playful Way to Earn Gift Cards!\n\nWith Playful Rewards, you can download and play a variety of fun games and earn gift cards. It's that easy. \n\nWhy You'll Love Our App:\n\n\ud83c\udfae Endless Fun: Choose from a wide selection of fan-favorite games that you'll love.\n\n\ud83d\udcb0 Earn Real Rewards: As you play, you'll earn coins that can be redeemed for gift cards. \n\n\ud83d\udcc8 Track Your Progress: Easily monitor your earnings and see how close you are to your next reward. \n\n\ud83c\udf1f User-Friendly Interface: Our app is designed with you in mind. You can start playing and earning in no time.\n\nHow It Works:\n\n1. Download the App\n2. Play Fun Games\n3. Earn Coins\n4. Redeem for Gift Cards\n\nDon't miss out on this exciting opportunity to play games and earn real rewards. Download now and start earning today!",
     "icon": "/icons/com.theoremreach.wizardbucks.png"
+  },
+  "com.amtelco.secure": {
+    "title": "Amtelco Secure Messages",
+    "package": "com.amtelco.secure",
+    "description": "Amtelco Secure Messages (formally known as miSecureMessages or MSM) is a robust, encrypted, two-way instant messaging application which enables messages to be sent securely from device to device. Amtelco offers a secure cloud-based or on-site directory solution. When you receive a notification from Amtelco Secure Messages, a Persistent Alert notifies you until you acknowledge the message. You can view messages and quickly send a secure reply. Amtelco Secure Messages protects sensitive information such as PHI and streamlines team collaboration, offering industries secure business messaging. Amtelco offers an easy implementation process in contact centers, enterprises, and healthcare. Users will appreciate a secure messaging solution which prioritizes speed and is user-friendly. Amtelco Secu",
+    "icon": "/icons/com.amtelco.secure.png"
+  },
+  "com.android.google": {
+    "title": "com.android.google",
+    "package": "com.android.google"
+  },
+  "com.sony.songpal.mdr": {
+    "title": "Sony | Sound Connect",
+    "package": "com.sony.songpal.mdr",
+    "description": "Sony | Sound Connect is an app that helps you get the most out of your Sony headphones and Bluetooth speakers. Use the app to change the equalizer and noise cancellation settings and enjoy sound tailored to your personal preferences.\n\nMain Features\n\u2022 Personalize the sound : Adjust the sound quality to your taste with the customizable equalizer.\n\u2022 Enjoy your music in any environment : You can have the ideal listening environment by switching between noise cancellation modes and by setting the detailed level of ambient sound filtered in.*1\n\u2022 Even easier : Automatically switch noise cancellation settings, playback music and audio notifications corresponding to your situation.*1\n\u2022 Look back at your listening style : Enjoy usage logs of your devices and a list of songs you have listened to.\n\u2022 F",
+    "icon": "/icons/com.sony.songpal.mdr.png"
+  },
+  "com.sonyericsson.music": {
+    "title": "Music",
+    "package": "com.sonyericsson.music",
+    "description": "The Music application from Sony makes listening to your music files a wonderful experience. Import your music, arrange in playlists and just listen and enjoy. We optimize the sound and restrict the power used, so you can listen for as long as you want.\n\nThe Music application is only compatible with Xperia devices.\n\n[Notice of discontinuation of the music metadata acquisition function powered by Gracenote (R)].\nThe music metadata (song title/artist/album name/album art) acquisition function powered by Gracenote (R) services and provided with the Music app will be discontinued (as of version 9.4.7). Previously acquired music metadata will still be displayed as usual.",
+    "icon": "/icons/com.sonyericsson.music.png"
+  },
+  "com.sony.songpal": {
+    "title": "Sony | Music Center",
+    "package": "com.sony.songpal",
+    "description": "- The center for all music lovers -\nDo you want to fully enjoy music whether at home or out and about?\nThen this Sony app is exactly what you've been waiting for.\nThe Sony l Music Center app will singlehandedly enable you \nto listen to Hi-Res sound sources in the excellent audio quality.\nYou can also connect to other Sony audio devices to play music in the \nbest possible sound field, with the settings optimized for each individual device.\n\nTo use the control function of audio devices, an audio device compatible with Sony | Music Center is required.\nPlease check if your audio products are compatible with Sony | Music Center from our support site.\nDevices that were compatible with SongPal are compatible with Sony | Music Center as well.\n\nMain Feature\nYou can playback music including Hi-Res t",
+    "icon": "/icons/com.sony.songpal.png"
+  },
+  "com.sony.songpal.dj": {
+    "title": "Fiestable",
+    "package": "com.sony.songpal.dj",
+    "description": "Fiestable is an app which controls the party features of Sony\u2019s Home Audio System with intuitive and fancy user interface.\n\nTo operate compatible Sony speakers, \"Sony | Music Center\" is required. Prepare the compatible device, be sure to install the latest \"Sony | Music Center\" app, and use Fiestable from Music Center.\nDownload the \"Sony | Music Center\" app (free) here.\n\n\n\nMain Feature:*\n- DJ Control\nControl DJ Effect (Isolator/Flanger/Wah/Pan), Sampler (Drums, Voice, etc.) and EQ of your audio system.\n- Illumination\n\nChange the color and flashing speed of your audio system.\n\nChange the color of your audio system.\n- Voice Playback\nRecord your voice through the microphone on this device. After the recording, you can preset your voice and play over and over again.\n- Party Light via Fiestable",
+    "icon": "/icons/com.sony.songpal.dj.png"
+  },
+  "com.fastemulator.gba": {
+    "title": "My Boy! - GBA Emulator",
+    "package": "com.fastemulator.gba",
+    "description": "My Boy! is a super fast and full-featured emulator to run GameBoy Advance games on Android devices, from very low-end phones to modern tablets. It emulates nearly all aspects of the real hardware, including linking devices for multiplayer games.\n\nHighlights:\n\u2022 Super fast emulation, thanks to the JIT recompiler.\n\u2022 Very high game compatibility. Run nearly all games without a problem.\n\u2022 Link cable emulation either on the same device, or across devices over Bluetooth or Wi-Fi.\n\u2022 Gyroscope/tilt/solar sensor and rumble emulation through your Android's hardware sensors and vibrator!\n\u2022 Enter multilined GameShark/ActionReplay/CodeBreaker cheat codes and enable/disable them on the fly while the game is running.\n\u2022 High-level BIOS emulation. No BIOS file needed.\n\u2022 IPS/UPS ROM patching\n\u2022 OpenGL renderi",
+    "icon": "/icons/com.fastemulator.gba.jpg"
+  },
+  "com.rolemiaster.emulaitor": {
+    "title": "Emulaitor \u2013 Retro emulator",
+    "package": "com.rolemiaster.emulaitor",
+    "description": "Relive the golden age of video games with Emulaitor! \ud83d\ude80\n\nTurn your Android device into the ultimate console, whether it's an Android TV, tablet, or smartphone. Emulaitor is not just another emulator; it's a polished, powerful retro entertainment hub designed with you in mind.\n\n\ud83c\udfae WHY CHOOSE EMULAITOR?\n\n\u2728 A Truly Premium Experience: Enjoy your games without interruptions. Zero ads. Zero hidden purchases. A one-time payment for a professional experience.\n\n\u2601\ufe0f Cloud Synchronization (Cloud Save): Playing on the bus? Continue at home on your Android TV. Automatically sync your saved games via Google Drive.\n\n\ud83d\udcfa Multi-Device Support: Different user interfaces (UIs) to adapt to each type of device: tablets, smartphones, or Android TVs. Forget about awkward touch interfaces on your television. Our inte",
+    "icon": "/icons/com.rolemiaster.emulaitor.png"
   }
 }
