@@ -24766,12 +24766,6 @@
     "description": "Download the official Rakuten event app for an enhanced networking experience. Plan your agenda, connect with other attendees, and schedule meetings. During the event, the app will help to maximize your interactions with the other marketers you meet at Rakuten events.\n\u00a0\nAccess the event app to:\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 Schedule meetings\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 Engage in 1:1 conversations\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 Access event agenda and bookmark sessions\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 View venue map\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 Receive event notifications in real-time\u00a0\n\u00a0\u2028You must be registered for each event to access the app.\u00a0\u00a0\n\u00a0\nQuestions? Email events@rakuten.com",
     "icon": "/icons/com.swapcard.apps.android.rakutenevents.png"
   },
-  "mr.digi.sedad": {
-    "title": "Sedad - \u0627\u0644\u0633\u062f\u0627\u062f",
-    "package": "mr.digi.sedad",
-    "description": "The Mauritanian Investment Bank (BMI) is a public limited company under Mauritanian law created in 2016. Its head office is located in Nouakchott. A 100% Islamic bank, the BMI operates only in accordance with the precepts of the Sharia. Its activities began in June 2017 with the opening of 15 branches spread between Nouakchott and the main cities of Mauritania",
-    "icon": "/icons/mr.digi.sedad.png"
-  },
   "com.outerdawn.grimguard": {
     "title": "Grimguard Tactics: Fantasy RPG",
     "package": "com.outerdawn.grimguard",
@@ -26959,5 +26953,191 @@
     "package": "com.rolemiaster.emulaitor",
     "description": "Relive the golden age of video games with Emulaitor! \ud83d\ude80\n\nTurn your Android device into the ultimate console, whether it's an Android TV, tablet, or smartphone. Emulaitor is not just another emulator; it's a polished, powerful retro entertainment hub designed with you in mind.\n\n\ud83c\udfae WHY CHOOSE EMULAITOR?\n\n\u2728 A Truly Premium Experience: Enjoy your games without interruptions. Zero ads. Zero hidden purchases. A one-time payment for a professional experience.\n\n\u2601\ufe0f Cloud Synchronization (Cloud Save): Playing on the bus? Continue at home on your Android TV. Automatically sync your saved games via Google Drive.\n\n\ud83d\udcfa Multi-Device Support: Different user interfaces (UIs) to adapt to each type of device: tablets, smartphones, or Android TVs. Forget about awkward touch interfaces on your television. Our inte",
     "icon": "/icons/com.rolemiaster.emulaitor.png"
+  },
+  "net.quetta.browser": {
+    "title": "Quetta - Video Adblock Browser",
+    "package": "net.quetta.browser",
+    "description": "Quetta Browser is designed to be a powerful mobile web browser that delivers fast loading speeds, smooth navigation, and a cleaner browsing environment compared to traditional browsers. Quetta Browser offers full support for the Chrome Web Store and Edge Add-ons Store, along with built-in ad blockers. Based on Chromium, Quetta provides a wide variety of extensions to enhance your browsing experience.Whether you're a casual user or a tech-savvy explorer, Quetta empowers you with advanced tools, seamless performance, and full extension support.\n\nEnhance your browsing experience with extensions. Quetta Browser is a great alternative to Kiwi Browser. You can now personalize your experience in Quetta with extensions such as cookie management, speed control for videos and audios, and manage your",
+    "icon": "/icons/net.quetta.browser.webp"
+  },
+  "com.zoho.primeum.stable": {
+    "title": "Ulaa Browser",
+    "package": "com.zoho.primeum.stable",
+    "description": "Ulaa is built to make your web experience faster, safer, private and more secure. We have a Zero-Tolerance policy towards shady back door entries for advertisers and our commitment towards data protection and transparency steer us to be a responsible browser.\n \nWe give complete control to you and let you decide the best that suits your needs.\nWith Sync, you can keep all your data handy and access anything from anywhere across your devices. You can pick up where you left off by enabling the sync feature powered by Zoho Account.\n \nWe protect your online identity with Adblocker, incognito browsing and much more. With Ulaa you can keep all your passwords and browsing history safe. \n \nManaging work and life is never easier. For the multiple roles you play in your life, we have multiple modes th",
+    "icon": "/icons/com.zoho.primeum.stable.png"
+  },
+  "com.mycompany.app.soulbrowser": {
+    "title": "Soul Browser",
+    "package": "com.mycompany.app.soulbrowser",
+    "description": "\ud83c\udfc6 Powerful Ad Blocker\n\ud83c\udfc6 Powerful Video Download\n\ud83c\udfc6 Powerful Customization\n\nEverything is there.\nEverything is powerful.\nEverything is simple.\n\nStylish browser with all features\nA more advanced browser\n\n\nMain Features\n\u2b50 Automatic translation\n\u2b50 Image translation\n\u2b50 Go back without refresh\n\u2b50 Data Saving\n\u2b50 Clean mode\n\u2b50 Block area\n\u2b50 Fast download\n\u2b50 Layout editing\n\u2b50 Menu editing\n\u2b50 Search bar editing\n\u2b50 Tab bar editing\n\u2b50 Gesture editing\n\u2b50 One-handed mode\n\u2b50 Dark theme\n\u2b50 Screen filter\n\u2b50 Reader mode\n\u2b50 Enlarge text\n\u2b50 Change font\n\u2b50 Text to Speech\n\u2b50 TV cast\n\u2b50 Keyboard security\n\u2b50 Lock screen\n\u2b50 Incognito mode\n\u2b50 Scrolling screenshot\n\u2b50 View only images\n\u2b50 Save all images\n\u2b50 Download video\n\u2b50 QR code\n\u2b50 PDF viewer\n\u2b50 Photo editor\n\u2b50 DNS change function (using Android \"VpnService\")\n\nAnd so many more features\n\n\nRequir",
+    "icon": "/icons/com.mycompany.app.soulbrowser.png"
+  },
+  "com.zoho.invoice": {
+    "title": "Zoho Invoice - Invoice Maker",
+    "package": "com.zoho.invoice",
+    "description": "Zoho Invoice is an online invoicing software packed with all the essentials a small business needs to make their invoicing process a breeze. From raising estimates and striking deals to sending invoices and getting paid, this user-friendly invoicing app comes with all the capabilities your business needs.\n\nEverything you need and more!\n\n\nSwift invoicing\nCut down your invoicing time and focus on your business. Quickly create professional invoices in just a click. Add your customer's information to the invoice, apply taxes, and email them or send them as a PDF instantly.\n\nVersatile templates\nNeed an invoice template that fits your business? Fine tune your invoices to match the rhythm of your brand. Choose an invoice template, add your organization logo and signature to enhance authenticity, ",
+    "icon": "/icons/com.zoho.invoice.webp"
+  },
+  "com.zoho.daybook": {
+    "title": "Zoho Daybook - Ledger Book",
+    "package": "com.zoho.daybook",
+    "description": "Zoho Daybook now introduces the Cash Book feature, allowing you to record every income and expense, along with credit and debit transactions. This gives you complete control over your cash flow, helping you grow your business effortlessly. \nGenerate detailed reports for credit book and cashbook transactions. \nSimplify your finances with Zoho Daybook, your free digital ledger app. \n\n(1) Dashboard Overview\nStreamline your cash flow & grow your business easily.\n\n2) Manage Cash Transactions\nEasily add and manage all your income and expenses from start to finish.\n\n3) All Transactions\nA comprehensive overview of credit book transactions is available across all contacts.\n\n(4) Transaction Records by Contacts\nView the complete credit transaction history for all your contacts in one place.\n\n(6) Repo",
+    "icon": "/icons/com.zoho.daybook.webp"
+  },
+  "com.zoho.contracts": {
+    "title": "Zoho Contracts \u2014 CLM Platform",
+    "package": "com.zoho.contracts",
+    "description": "Typical contract lifecycle stages include authoring, approvals, negotiations, signatures, obligations, renewals, amendments, and terminations. Zoho Contracts is an all-in-one contract management solution that empowers you to manage all contract stages without toggling between multiple applications.\n\nOur vision with Zoho Contracts is to build a holistic platform that improves efficiencies in legal operations and helps achieve better business outcomes. Our approach to simplifying contract management focuses on addressing the following aspects:\n\n\u2022 Streamlining the entire contract lifecycle\n\u2022 Improving compliance and governance\n\u2022 Mitigating business risks\n\u2022 Promoting cross-functional collaborations\n\nWith this mobile companion app of Zoho Contracts, you can:\n\n\u2022 Complete your contract drafts and",
+    "icon": "/icons/com.zoho.contracts.jpg"
+  },
+  "com.zoho.books": {
+    "title": "Zoho Books - Accounting App",
+    "package": "com.zoho.books",
+    "description": "Zoho Books is your one-stop accounting app to manage your business's finances. Keep track of your cash flow, reconcile your bank statements, monitor your spending, keep tabs on your projects, and put your tax compliance on autopilot.\n\nDownload Zoho Books now to customize your accounting, understand your financial well-being, and everything in between.\n\nHighlights of the app\n\n\u2605 Accounts receivable\n\nHandling your accounts receivable doesn't have to be a source of stress. Send automated invoices and email reminders, receive online payments, and much more in a click of a button. Get paid faster and bring stability to your cash flow.\n\n\u2605 Accounts payable\n\nKeep an eye on your expenses and bills, record customer credits and capture expenses automatically with Zoho Books.\n\n\u2605 Client connection\n\nNo m",
+    "icon": "/icons/com.zoho.books.webp"
+  },
+  "com.zoho.inventory": {
+    "title": "Inventory Management App -Zoho",
+    "package": "com.zoho.inventory",
+    "description": "Zoho Inventory is a powerful and easy-to-use inventory and order management app designed for businesses of all sizes to meet their end-to-end inventory management needs. Keep track of your inventory, manage your orders, track your shipments, and much more with the mobile inventory app. \n\nHere's a complete walkthrough of how Zoho Inventory is the best fit for handling your inventory operations:\n\nDashboard - Get a complete overview of your inventory management, right from sales to item quantity in a single place.\n\nInventory management - Create and manage your items along with their images. You can categorize items into groups and keep track of your bundles right from the inventory app.\n\nBarcode scanning - Simplify your order processing using the built-in barcode scanning option. Use your pho",
+    "icon": "/icons/com.zoho.inventory.png"
+  },
+  "com.zoho.crm": {
+    "title": "Zoho CRM - Sales & Marketing",
+    "package": "com.zoho.crm",
+    "description": "Zoho CRM empowers over 300,000 businesses across the world businesses in over 180 countries. It helps businesses engage with customers, convert more leads, and grow their revenue by closing more deals. \n\nOversee your sales on the move with the Zoho CRM mobile app.  \n \nWhether you're a sales rep making calls, a sales manager monitoring the sales pipeline, or a business owner nurturing your business, approach your workday efficiently with a state-of-the-art mobile CRM system.   \n \nYour mobile CRM app not only covers your CRM software requirements on the go but also helps boost mobile sales productivity with features like search, call, email, check-in, near-me, and notifications. With a highly fluid, interactive interface, offline access, and the ability to sync data across all your devices a",
+    "icon": "/icons/com.zoho.crm.png"
+  },
+  "com.zoho.teaminbox": {
+    "title": "Zoho TeamInbox",
+    "package": "com.zoho.teaminbox",
+    "description": "Make business conversations better and transparent within a team with Zoho TeamInbox. Receive your emails here, chat on them with the team, assign owners for threads, co-author responses, and efficiently manage the team and inbox. Archive conversations that you are done with, or snooze lesser important threads, and therefore attain Inbox Zero with ease.\n\nYou can now have other communication channels (like WhatsApp, and Telegram) right next to your emails, and enjoy all of the above said capabilities for these channels as well. No more juggling between apps and managing all your communication from a single platform.\n\nAs shared inboxes ensure transparency around group email conversations, organizations can avoid work duplication, keep important emails from falling through the cracks, distrib",
+    "icon": "/icons/com.zoho.teaminbox.png"
+  },
+  "com.zoho.android.calendar": {
+    "title": "Zoho Calendar",
+    "package": "com.zoho.android.calendar",
+    "description": "Zoho Calendar is a collaborative online calendar that lets you organize your day\u2014both personal and professional\u2014with ease. Create events, invite users, set permissions, add reminders, and see your events through from start to finish.\n \nZoho Calendar prioritizes privacy, ease of use, and collaboration while offering powerful features.\n \n\u2022 Multiple views, one goal: Easily switch views such as day, 3-day, Week, Work, Month, and Agenda views to customize how you organize and focus.\n \n\u2022 Big on collaboration: Makes collaboration easy with handy features such as group calendars, checking participants and room availability, managing invitations, and more.\n \n\u2022 Always in control: Get more control over inviting participants, creating events, and sharing your calendars.\n \n\u2022 Stay in the know: Get a gis",
+    "icon": "/icons/com.zoho.android.calendar.png"
+  },
+  "com.zoho.bookings.a": {
+    "title": "Zoho Bookings",
+    "package": "com.zoho.bookings.a",
+    "description": "The Zoho Bookings app is an easy-to-use scheduler for professionals seeking efficient appointment management. Its simple and intuitive interface enables you to effortlessly book, reschedule, and cancel appointments online, while automated reminders and flexible time slot options ensure a smooth booking experience. \n\nSmart scheduling and hassle-free management at your fingertips \n\nManage with ease: Access and schedule appointments, mark time off, and view your assigned event types in one place.\n\nStay on top of your workload: Review and update details for upcoming and completed bookings.\n\nProfessional scheduling: Book appointments on behalf of your customers, add key notes, and keep track of important details.\n\nExpand your reach: Share your booking pages via social media, email, or messaging",
+    "icon": "/icons/com.zoho.bookings.a.webp"
+  },
+  "com.zoho.zohosocial": {
+    "title": "Zoho Social",
+    "package": "com.zoho.zohosocial",
+    "description": "Zoho Social - an all-in-one social media management tool for businesses. \n\nZoho Social helps businesses manage multiple social channels, and grow an active social media presence, from one platform. \n\n- Capture your favorite moments, edit your best pictures, and instantly publish posts across social channels while on-the-move \n- Add posts to a publishing queue, reach out to the right audience at optimal times, and do more, with powerful scheduling features \n- Work on new posts while you're disconnected from the internet. Your saved drafts will be automatically synced once you are back online\n- Monitor hashtags and keywords, discover new leads and engage with your audience in real-time\n- Measure your social media performance with insights about every post\n\nReady to take the Zoho Social mobil",
+    "icon": "/icons/com.zoho.zohosocial.png"
+  },
+  "com.allinc.bagfight": {
+    "title": "Bag Fight",
+    "package": "com.allinc.bagfight",
+    "description": "A new type of puzzle-adventure game!\n\nOrganize on the Fly: \nQuickly arrange weapons in your backpack during intense battles.\n\nStrategic Combat: \nMake split-second decisions on the right weapon for each wave of enemies.\n\nVersatile Arsenal: \nChoose from melee to long-range weapons for diverse combat scenarios.\n\nReal-Time Shuffle: \nExperience the thrill of managing your backpack in the midst of chaos.\n\nUpgrade and Unlock: \nEarn rewards to enhance weapons and unlock new tools.\n\nCustomization Galore: \nFine-tune your loadout for endless combat possibilities.\n\nAccessible Fun: \nPerfect for both seasoned gamers and casual players seeking a challenge.\n\nEndless Challenges: \nEvery skirmish tests your organizational skills and combat strategy.\n\nMaster the Chaos: \nBecome the ultimate Bag Fight champion ",
+    "icon": "/icons/com.allinc.bagfight.jpg"
+  },
+  "com.readygo.barrel.gp": {
+    "title": "Last Z: Survival Shooter",
+    "package": "com.readygo.barrel.gp",
+    "description": "In an apocalyptic world overrun by the undead, where the fate of humanity hangs in the balance amid diminishing living spaces, will you rise as the hero we need to reshape the destiny of humankind? Uncover the adventure of Last Z: Survival Shooter \u2013 your destiny awaits!\n\nDodge & Shoot\nIn the heart of the zombie-infested apocalypse, survival is not just a choice but an exhilarating stage, challenging the prowess of dodging and shooting skills. Navigate through waves of relentless undead, strategically evading their onslaught while honing your precision shooting. Each dodge and shoot propel you closer to victory, earning you abundant rewards in this thrilling game of wits and reflexes. \n\nExplore & Expand\nBrace yourself for an adrenaline-fueled journey where the apocalypse is your playground ",
+    "icon": "/icons/com.readygo.barrel.gp.jpg"
+  },
+  "com.and.games505.humanfallflat": {
+    "title": "Human Fall Flat",
+    "package": "com.and.games505.humanfallflat",
+    "description": "Human Fall Flat is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded. \n\nMORE HUMANS, MORE MAYHEM - Need a hand getting that boulder on to a catapult, or need someone to break that wall? Online multiplayer for up to 4 players transforms the way Human Fall Flat is played.\n\nMIND BENDING PUZZLES - Explore open-ended levels full of challenging puzzles and hilarious distractions. Try new paths and di",
+    "icon": "/icons/com.and.games505.humanfallflat.png"
+  },
+  "com.fitbod.fitbod": {
+    "title": "Fitbod: Workout & Gym Planner",
+    "package": "com.fitbod.fitbod",
+    "description": "Build muscle, gain strength and lose weight with optimized weight lifting routines. You won\u2019t just get stronger\u2014you\u2019ll do it on your terms, with a little help from AI. Fitbod is a personalized workout planner that uses AI to help you make progress. Each training session is custom-built for your fitness level, goals and home or gym workout equipment. Make lasting progress with your own AI trainer guiding you to be stronger and healthier\n\nWhether you're focused on a gym workout or prefer the convenience of a home workout, Fitbod\u2019s AI adapts to your fitness journey. The app learns from your preferences and past performance to build personalized workout plans. Plus, the built-in fitness and health tracker monitors your progress, making sure you hit your goals with the right exercises for your ",
+    "icon": "/icons/com.fitbod.fitbod.png"
+  },
+  "com.benfinityonline.cda": {
+    "title": "BASIC benefits app",
+    "package": "com.benfinityonline.cda",
+    "description": "The BASIC benefits mobile app makes using your benefits easy and keeps you connected 24/7. Save time and hassles while making the most of your benefit accounts by quickly checking your balances and details. Our secure app makes managing your health benefits easy through real-time access and intuitive navigation to all your important account information on the go! The BASIC mobile app offers powerful features like:\n\nThe ability to check your balances and submit requests - anytime, anywhere.\n\nAccess important information such as insurance or loyalty cards easily. Snap a picture for handy access when you need it.\n\nPay bills easily. Just snap a photo, submit in the app and BASIC will pay it from your benefit account.\n\nSuspend the use of a misplaced BASIC Card and reestablish use when ready.\n\nS",
+    "icon": "/icons/com.benfinityonline.cda.png"
+  },
+  "com.basicfit.trainingApp": {
+    "title": "Basic-Fit",
+    "package": "com.basicfit.trainingApp",
+    "description": "The Basic-Fit App is there to complete your personal fitness journey (and it is free for all members)! Find everything you need in one app; explore personalized workouts and inspiration, while accessing guidance and support. Easily build your own fitness habits and reach your goals by keeping track of your progress, getting health and nutrition tips, doing audio-guided workouts, and so much more! Making fitness your basic is not a journey you have to do alone. Let\u2019s make fitness a basic together: anywhere, anytime, and Go For It!\n\nFEATURES:\n\u2022 QR code entry pass\n\u2022 Club & Home workouts\n\u2022 Training plans\n\u2022 Mind & Recovery\n\u2022 Audio coach workouts\n\u2022 Workout builder\n\u2022 Equipment tutorials\n\u2022 Workout reminder\n\u2022 Nutrition & Lifestyle\n\u2022 Personal profile page\n\u2022 Achievements (badges & streaks)\n\u2022 Progress",
+    "icon": "/icons/com.basicfit.trainingApp.png"
+  },
+  "com.johnemulators.johnness": {
+    "title": "John NESS",
+    "package": "com.johnemulators.johnness",
+    "description": "John NESS is NESS multi emulator for android 6.0+.\nThis app does not work without your own game files.\n\nFeatures\n- Original engine\n- High quality rendering\n- Search game files in SDCard & Internal Storage\n- Virtual On-screen keypad\n- Zipped file support\n- Save States (with previews)\n- Fully customizable layout\n- Customizable keys\n- Turbo buttons\n- Screenshot\n- Fast forward / Slow down (x0.25 - x16)\n- Bluetooth/MOGA controller support\n- Dropbox support (requires John DataSync)\n\nTo remove ads, please purchase \"remove ads\".",
+    "icon": "/icons/com.johnemulators.johnness.png"
+  },
+  "com.pentawire.emusnesxl": {
+    "title": "EmuSNES XL",
+    "package": "com.pentawire.emusnesxl",
+    "description": "EmuSNES XL is an emulator of the famous 16 bit console SNES (Super NES).\nThe app emulates graphics, sounds and peripherals to perfection.\n\nThis SNES emulator is fullscreen, fast and very easy to use. Simply load your roms, play and have fun!!!\n\nNo games ROMs file are included in the application!\nScreenshoots are from various Open Source / Free games by Portabledev (https://www.portabledev.com)\n\nApp features:\n\n- High quality graphics emulation\n- High quality sounds emulation (with stereo features)\n- Easy to use ROMs find interface with deep scan (place your ROMs in your device \"Download\" folder)\n- Load \"smc\", \"sfc\" files and \".zip\" files\n- Supports hardware peripherals such as gamepads, joysticks, keyboards and more\n- On screen controllers with various device emulation (joypad and more)\n- S",
+    "icon": "/icons/com.pentawire.emusnesxl.png"
+  },
+  "com.avid.cue": {
+    "title": "Cards, Universe & Everything",
+    "package": "com.avid.cue",
+    "description": "Cards, the Universe and Everything (CUE) is the ultimate CCG where you collect and trade thousands of cards and battle them in epic games. \n\nIt\u2019s about everything!\n- Card duels: Pug vs Loki, who would win that fight?\n- Strategy: Would the legendary T-Rex outwit the magic of Houdini?\n- Collect & fight: Napoleon vs the iconic Sphinx!\n\nPlay cards, build decks, trade and battle in a turn based strategy combat card game where abilities, strategic decks and combos will help you become a champion.\n\nCUE is a totally unique trading card game. Collect and trade to build the ultimate battle decks with almost limitless things: Bears, Dinosaurs, Nebulae, Zeus, Houdini, Samurai, Pika, the Sun, legend Isaac Newton, Volcanoes, Kings & Queens, Calculus and so much more! Collect cards with historical charac",
+    "icon": "/icons/com.avid.cue.png"
+  },
+  "com.thelysts.app": {
+    "title": "TheLysts: Create & Share Lists",
+    "package": "com.thelysts.app",
+    "description": "LIST IT, LIVE IT! LIST MAKER & LIST SHARING APP\nTheLysts is a list maker and social recommendation platform that turns your favorite spots, tips, and experiences into shareable lists. \n\nFrom hidden-gem restaurants and travel escapes to recipes and cultural picks, TheLysts helps you create and explore authentic recs from people you trust \u2014 not algorithms.\n\nEvery list on TheLysts is created by people, for people.\n\nFrom movie and book lists, to food places and must-have items, TheLysts organizes and improves your quality of life.\n\nTry now for free to easily create, save, share, and monetize personalized lists!\n\nMAKE YOUR OWN LISTS, SHARE THEM WITH FRIENDS/FAMILY\n\ud83d\udccb TheLysts is more than just a private list maker\u2014it\u2019s your ultimate recommendation app for organizing life\u2019s chaos into beautiful, ",
+    "icon": "/icons/com.thelysts.app.png"
+  },
+  "com.lydul.punch.lists.audit": {
+    "title": "Punchlist & Schedules by Lydul",
+    "package": "com.lydul.punch.lists.audit",
+    "description": "Lydul is the #1 app to manage jobs, crews, tasks, and to organize your service business. \n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nWHO USES LYDUL:\n \nLydul is perfect for residential and commercial service businesses in the following industries: \n- Landscaping\n- Cleaning\n- HVAC\n- Tree care\n- Lawn care\n- General contracting\n- Handyman services\n- Plumbing\n- Pool services\n- Electrical\n- Mechanical\n- Flooring\n- Siding\n- Drywallers\n- Pest control\n- And more!\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nIN-APP FEATURES: \n\n- Coworker channels. Lydul serves as a Ticketing System with your clients, employees, and contractors. Establish a Ticket Channel in 3 clicks with anyone, submit & receive requests, get notifications, track completion effortlessly.\n- Projects & sub-folder organization. Lydul helps you structure your work and keep track of everything on y",
+    "icon": "/icons/com.lydul.punch.lists.audit.png"
+  },
+  "com.myscript.nebo": {
+    "title": "MyScript Notes: AI Note Taking",
+    "package": "com.myscript.nebo",
+    "description": "Create stunning notes and professional documents effortlessly by hand, brainstorm ideas on an infinite canvas, and annotate PDFs seamlessly. Powered by the world's leading AI handwriting recognition technology, MyScript Notes offers a dynamic platform where handwriting, text, drawings, diagrams, and images seamlessly coexist on an expandable canvas. Enhance your note-taking experience with intuitive pen gestures, effortlessly converting handwriting and shapes into typed text and precise forms.\n\nMyScript Notes understands every word you write in your choice of 66 languages, and works on mobile platforms \u2014 so you can access and search your notes from any compatible device.\n\nEnjoy 4 powerful experiences in one app:\n\n\u25fc\ufe0e Create unlimited notebooks and fixed-size pages for your daily notes.\n\u25fc\ufe0e T",
+    "icon": "/icons/com.myscript.nebo.png"
+  },
+  "com.fluidtouch.noteshelf3": {
+    "title": "Noteshelf 3: Digital Notes",
+    "package": "com.fluidtouch.noteshelf3",
+    "description": "\"Introducing the all new Noteshelf 3 - the perfect note-taking app for students, teachers, professionals, artists and bullet journal enthusiasts to create & organize digital notes. Download for free and embark on a journey of seamless organization, productivity and creativity.\n\nPERSONALIZE YOUR NOTE-TAKING EXPERIENCE\n- Craft beautiful handwritten notes with a range of lifelike pens and highlighters. Try our fountain pen for an aesthetic touch to your handwriting.\n- Take notes on lined, dotted, or grid papers in any color or line spacing.\n- Personalize your digital notebooks with multiple cover options - from classic designs to custom ones of your own images or artwork.\n- Enjoy a fully customizable toolbar! Add, remove, or re-arrange tools according to your unique workflow.\n- Choose from a ",
+    "icon": "/icons/com.fluidtouch.noteshelf3.png"
+  },
+  "com.fluidtouch.noteshelf2": {
+    "title": "Noteshelf - Notes, Annotations",
+    "package": "com.fluidtouch.noteshelf2",
+    "description": "A new version of Noteshelf is available on the Play Store as a free download. Search for \"Noteshelf 3\" on the Play Store to find it. We\u2019ll continue to support \u201cNoteshelf 2\" (this app). However, if you are a new user, we recommend \"Noteshelf 3\". It has the latest features to enhance your note-taking experience.\n\nTake beautiful handwritten notes, annotate & markup PDFs, record audio notes, and more with Noteshelf for Android- a note-taking app designed for students, teachers, and professionals to create and organize their digital notes. \n\n\u270d\ufe0f NATURAL HANDWRITING\n- Experience handwriting that feels just right with our range of realistic pens and highlighters. \n- Play around with colors, shapes, and images to create your own notes. So, taking your best class notes or meeting memos is now colorf",
+    "icon": "/icons/com.fluidtouch.noteshelf2.png"
+  },
+  "com.orgzly": {
+    "title": "Orgzly: Notes & To-Do Lists",
+    "package": "com.orgzly",
+    "description": "Orgzly is an outliner for taking notes and managing to-do lists.\n\nYou can keep notebooks stored in plain-text and have them synchronized with a directory on your mobile device, SD card, Dropbox, or over WebDAV.\n\nNotebooks are saved in Org mode's file format. \u201cOrg mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.\u201d See https://orgmode.org for more information.",
+    "icon": "/icons/com.orgzly.png"
+  },
+  "com.workflowy.android": {
+    "title": "Workflowy |Note, List, Outline",
+    "package": "com.workflowy.android",
+    "description": "Workflowy is a clean and distraction-free app that helps you quickly capture notes, plan your to-do's, and get organized.\nSimple to use, but incredibly powerful, Workflowy can help you manage all the information in your life.\n\nWith Workflowy you can:\n\u26a1\ufe0f Capture notes and ideas in an instant\n\ud83c\udff7  #Tag and @assign items for easy access\n\u2705  Mark to-do tasks with one-swipe completion\n\ud83d\udcf7  Upload photos and files from your device\n\ud83e\ude86 Organize complex ideas with infinite nesting\n\ud83c\udfc4  Manage your activities using kanban boards\n\ud83c\udf0e  Share notes and collaborate in real-time\n\ud83d\udd0d  Filter your entire Workflowy in seconds\n\ud83d\udd17  Embed YouTube videos and tweets\n\nWorkflowy automatically syncs across all your devices\ud83d\udcf1\ud83d\udda5 and auto-saves all your data \ud83d\udcbe . No more missing notes or lost files\n\nWorkflowy is used by \ud83d\udde3\n\n\u279c Mike Can",
+    "icon": "/icons/com.workflowy.android.png"
+  },
+  "com.bbdstudio.outline": {
+    "title": "Outline -Draw lines & notes",
+    "package": "com.bbdstudio.outline",
+    "description": "Outline is a measurement assistant tool that lets you draw measured lengths directly as lines on the screen,\nrecord them quickly with one hand, and save them like notes.\nSketch dimensions as if on paper,\nthen review them later or export them as DXF files for further organization.\nDesigned for fast-paced architectural and interior job sites,\nOutline provides a simple yet precise digital measurement workspace.\n\nKey Features\n\u2022 Easily record line lengths using number input + dial drag\n\u2022 Supports mm and ft-inch unit systems\n\u2022 Export measurement results as DXF files\n\u2022 Line notes, pen drawing, and text input for record support\n\u2022 Angle adjustment, compass, and other measurement assist tools\n\u2022 Create components and place them inside drawn spaces (rooms)\n\u2022 Measure real-world lengths using a digital ",
+    "icon": "/icons/com.bbdstudio.outline.png"
+  },
+  "com.goodnotes.android.app": {
+    "title": "Goodnotes: AI Notes, Docs, PDF",
+    "package": "com.goodnotes.android.app",
+    "description": "Goodnotes \u2013 Take Notes, Organize Docs, and Boost Productivity. \nGoodnotes is a powerful note taking app designed to help you capture ideas, organize your notes, and manage your docs and documents across Android, Windows, Chromebooks. Whether you\u2019re in class, at work, or planning your day, Goodnotes gives you all the tools you need to create, edit, and organize your notes and docs in one place for seamless note taking and document management.\n\n\ud83c\udfc6 Awarded Google Play Best of 2025 \u2014 Best App for Large Screens.\n\nNow with Goodnotes AI: Type, think, and ship faster.\n\u25aa Summarize, rewrite, and edit your notes with tone suggestions and smart corrections\n\u25aa Create first drafts in seconds instead of starting from scratch\n\u25aa Ask questions about your notes and get instant insights\n\nOrganize Notes, Docs, a",
+    "icon": "/icons/com.goodnotes.android.app.webp"
   }
 }
