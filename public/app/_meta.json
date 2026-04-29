@@ -26263,5 +26263,661 @@
     "package": "com.megogo.application",
     "description": "MEGOGO   is a content universe where everything is just the way you like it. Watch 100s of live TV channels, all streaming free, movies, series, sports, and audiobooks. \n\nSwitch on the good \u2014 switch on your favorites:\n\n\ud83c\udd93Free channels. Try MEGOGO TV free, it\u2019s always with you. Watch MEGOGO TV channels online on your smartphone, tablet, or Smart TV. There is something for everybody: TV shows and movies, traveling, kids, sports, music, news and more. When downloading the MEGOGO TV app, you can unlock free access to 100+ TV channels with no subscription required. Download MEGOGO to start watching free TV today.\n\n\ud83c\udf9e\ufe0fPopular movies and series. Watch movies, series, new releases, and top-rated Hollywood premiers without advertising on a streaming TV and movie service. Everyone will find their favo",
     "icon": "/icons/com.megogo.application.png"
+  },
+  "com.uber.restaurantmanager": {
+    "title": "Uber Eats Manager",
+    "package": "com.uber.restaurantmanager",
+    "description": "Manage your restaurant or store anytime, anywhere.\n\nUber Eats Manager is a trusted business partner in your pocket. Access live data for all your retail locations and act quickly to resolve issues and respond to customers. It\u2019s the innovation you need to reach new customers and keep them coming back.\n\n\u2022 Monitor all locations at a glance\n\n\u2022 Get instant alerts when problems need your attention\n\n\u2022 Connect with your customers, staff, and business partners at the tap of a button\n\n\u2022 Receive insights and recommendations customized to your business\n\nRun your restaurants or stores from the palm of your hand. Uber Eats Manager empowers you to operate your business anywhere you have a signal or internet connection.",
+    "icon": "/icons/com.uber.restaurantmanager.webp"
+  },
+  "com.chickfila.cfaflagship": {
+    "title": "Chick-fil-A\u00ae",
+    "package": "com.chickfila.cfaflagship",
+    "description": "FEATURES\n Welcome to the Chick-fil-A\u00ae App. Find a restaurant near you and order ahead.\n Chick-fil-A One\u00ae Members can receive points with qualifying purchases, redeem\n available rewards of your choice and reach new tiers with increasing benefits.\n 1. Find restaurants - Find Chick-fil-A\u00ae restaurants near you while searching from home\n or out and about.\n 2. Order Ahead \u2013 Place your order through your phone and pay, choose your preferred\n pick-up method, and let us know when you arrive.\n 3. Receive points \u2013 Receive points with every qualifying purchase by scanning your QR\n code in the Chick-fil-A\u00ae App, paying with your Chick-fil-A One digital gift card, or placing\n mobile orders at participating Chick-fil-A\u00ae restaurants.\n 4. Redeem rewards \u2013 Use your points to redeem available rewards of your ",
+    "icon": "/icons/com.chickfila.cfaflagship.png"
+  },
+  "com.bamnetworks.mobile.android.gameday.milb": {
+    "title": "MiLB",
+    "package": "com.bamnetworks.mobile.android.gameday.milb",
+    "description": "The MiLB app is your official companion for Minor League Baseball, including all 120 clubs, from Triple-A to Single-A. \n\n\u2022 Follow your local team and never miss a game or event.\n\u2022 Buy tickets, browse merchandise, and find promotions from your team tab.\n\u2022 Enjoy a seamless ballpark experience with digital tickets and check-ins.\n\u2022 Explore MiLB news and highlights, catch the latest on top prospects, or search teams and players across the league.\n\u2022 Personalize your app experience with live game updates and breaking news.\n\u2022 Follow the action with pitch-by-pitch updates on Gameday, along with live scores, stats, video highlights and notifications for all 120 teams.\n\nSUBSCRIBE & GET EVEN MORE\n\nMore than 7,000 live MiLB games and complete archives are available with your MLB+ subscription. Your MLB",
+    "icon": "/icons/com.bamnetworks.mobile.android.gameday.milb.png"
+  },
+  "tz.co.crdbbank.tool_box": {
+    "title": "CRDB Smartbranch",
+    "package": "tz.co.crdbbank.tool_box",
+    "description": "CRDB SmartBranch is an assisted-service digital branch offering banking services via mobile phone.",
+    "icon": "/icons/tz.co.crdbbank.tool_box.png"
+  },
+  "com.amtrak.rider": {
+    "title": "Amtrak",
+    "package": "com.amtrak.rider",
+    "description": "Discover the convenience of traveling with Amtrak. With the Amtrak app you can get simple and intuitive access to all the travel information you need, whenever you need it.\n\n\u2022 Show your eTicket while onboard, including multi-ride and monthly passes - no need to print\n\u2022 Purchase one-way, roundtrip, multi-ride and monthly tickets with dollars or Amtrak Guest Rewards points\n\u2022 Check train status\n\u2022 Find station information\n\u2022 Edit and manage your account profile\n\u2022 Save credit cards for quick checkout\n\u2022 And so much more...\n\nWith the Amtrak app, you can do it all right from your smart device.",
+    "icon": "/icons/com.amtrak.rider.png"
+  },
+  "be.sncbnmbs.b2cmobapp": {
+    "title": "SNCB/NMBS: Timetable & tickets",
+    "package": "be.sncbnmbs.b2cmobapp",
+    "description": "Like more than a million passengers every month, use the SNCB app to make travelling in Belgium easier! It offers simplified navigation and new features for planning your journeys by train and with other public transports (STIB/MIVB, TEC and De Lijn).\n\nThe app lets you calculate the best route to more than 500 rail stations, follow the trains in real time, find and purchase the cheapest ticket and much more.\n\nJOURNEY PLANNING\n\u2022\tCalculate the best route from door to door and make your journeys faster thanks to geolocation.\n\u2022\tSave your recurring journeys as favourites and create shortcuts to your favourite places (home, work, nearby stations, etc.) for even more convenience.\n\u2022\tCheck train, bus, tram and metro timetables (now also in real time) and never miss a connection.\n\u2022\tView the occupanc",
+    "icon": "/icons/be.sncbnmbs.b2cmobapp.png"
+  },
+  "com.nmbs": {
+    "title": "SNCB International",
+    "package": "com.nmbs",
+    "description": "Book your Eurostar, TGV, ICE and IC train tickets on your smartphone.\n\u00a0\nBook your international train tickets to thousands of European destinations such as London, Paris, Amsterdam and Cologne easily via the SNCB International app. You can now travel with your mobile train tickets on your smartphone.\n\u00a0\nBOOK YOUR INTERNATIONAL TICKETS\n\u00a0\n\t\u2022\tBook tickets for Eurostar, TGV, ICE and IC trains.\n\t\u2022\tWith your mobile train ticket, you can travel to thousands of European destinations such as London, Paris, Amsterdam and Cologne.\n\t\u2022\tSecure payment by credit card and with the Bancontact app.\n\u00a0\nYOUR MOBILE TICKET\n\u00a0\n\t\u2022\tGet your mobile train tickets sent straight to your smartphone in barcode form.\n\t\u2022\tView or scan your mobile train tickets (no internet connection needed).\n\t\u2022\tDownload a PDF version of you",
+    "icon": "/icons/com.nmbs.png"
+  },
+  "com.sadellie.unitto": {
+    "title": "Unitto \u2014 calculator, converter",
+    "package": "com.sadellie.unitto",
+    "description": "Calculator, converter and more.\n\nLook for Calculator on your home screen after installing the app.\n\n\u2022 Deep customization: themes, number formatter and etc.\n\u2022 No ads, in-app purchases or asking for donations\n\u2022 Open source\n\nCalculator\n\u2022 Home screen widget\n\u2022 Copy, paste, save and share expression results\n\u2022 Trigonometric functions\n\u2022 Fractional output\n\u2022 Optional Indian numbering system\n\nUnit converter\n\u2022 601 units\n\u2022 Home screen widget\n\u2022 Currency converter (uses internet)\n\u2022 Favorite units\n\u2022 Organize unit groups\n\u2022 Smart search algorithm\n\nDate calculator\n\u2022 Add and subtract dates\n\u2022 Calculate difference\n\u2022 Create events in calendar\n\nTime converter\n\u2022 Add to favorites\n\u2022 Add labels to time zones\n\nBody mass index\n\u2022 Get instant and accurate results\n\nPermissions\nINTERNET (\"full network access\")\nUsed in Unit",
+    "icon": "/icons/com.sadellie.unitto.png"
+  },
+  "tz.co.mwangahakikabank.mhbapp": {
+    "title": "PesaHakika",
+    "package": "tz.co.mwangahakikabank.mhbapp",
+    "description": "Banking made easy, secure, and right at your fingertips. With PesaHakika, you can manage your money anytime, anywhere.\n\n1. Open new accounts in minutes\n2. Check balances and view full or mini statements\n3. Send money anytime, anywhere\n4. View and manage your loans\n5. Control your cards on the go\n6. Explore investment opportunities\n7. Pay bills & government services effortlessly\n\nSimple. Secure. Smart Banking \u2014 Right from your phone.",
+    "icon": "/icons/tz.co.mwangahakikabank.mhbapp.png"
+  },
+  "com.offshore.picasso": {
+    "title": "Picasso: Live TV, Movie & Show",
+    "package": "com.offshore.picasso",
+    "description": "Watch OTT - Web Series & Movie, Live TV\n\nPicasso is currently the #1 app for Stream OTT content. Stream 2000+ movies and Web series, shows or Live TV channels instantly without a subscription.\n\nYou can now watch thousands of free movies and TV shows without a paid subscription. Streaming services for movies and Web Series like or similar to Netflix, Amazon Prime, Hulu, HBO Go, HBO Now movies, hotstar in just one place!\n\nFeatures of Picasso Live TV\n\n\u2022 Enjoy Unlimited Critically Acclaimed Movies.\n\u2022 Choose from many categories.\n\u2022 Choose movies based on your region.\n\u2022 Personalized recommendations which will improve with your use.\n\nWhy Picasso TV ?\n\n\u2022 Watch Latest movies and shows.\n\u2022 It has simple classic UI interface, it's easy to use.\n\u2022 No more ads! countless video contents including movies, ",
+    "icon": "/icons/com.offshore.picasso.webp"
+  },
+  "com.balaji.alt": {
+    "title": "ALTT : Web Series, Short Drama",
+    "package": "com.balaji.alt",
+    "description": "Welcome to ALTT \u2013 the ultimate app and OTT platform with Kutingg (micro drama) India, where storytelling meets convenience. Whether you're into short videos, one minute episodes, or binge-worthy Hindi web series, ALTT brings a world of limitless stories right to your screen.\n\nKutingg - Your Go-To micro drama and short format video App:\n\u2022 Welcome to a decentralized OTT experience that delivers snackable stories in just under 2 minutes. Designed for today\u2019s fast-paced    \n  audience, Kutingg serves a powerful punch of raw, regional, and real storytelling \u2014 anytime, anywhere.\n\u2022 Kutingg by ALTT is reimagining the way India watches stories \u2014 quick, bold, and hyper-relevant.\n\u2022 Stream micro dramas, short videos, and one minute episodes\n\u2022 Explore vertical videos and reel short content from the bes",
+    "icon": "/icons/com.balaji.alt.png"
+  },
+  "com.viva.vivamax": {
+    "title": "Vivamax (VMX)",
+    "package": "com.viva.vivamax",
+    "description": "The leading Filipino content streaming service worldwide for Filiipino produced movies, TV series, concerts and special interest titles. Available in over 80 countires on your phone, laptops and home devices.\n\nOnly from VMX\n\nHere's what you can do with VMX:\n1. Stream all you want. Browse your favorite Pinoy content and stream them straight on your device.\n2. Add titles to your Watchlist and binge on.\n3. Save your data. Download Pinoy titles on your device and watch them offline anytime, anywhere.\n4. Watch new titles and proudly Filipino made Originals, exclusive on VMX.",
+    "icon": "/icons/com.viva.vivamax.png"
+  },
+  "jp.dena.showroom": {
+    "title": "SHOWROOM-video live streaming",
+    "package": "jp.dena.showroom",
+    "description": "SHOWROOM is one of the largest live streaming platforms in Japan!*\n\nEnjoying live streaming has never been easier.\n\nInteract with and view streams from all the popular idols, artists, models, voice actors, comedians, celebrities, and more!!\n\nUsers can enjoy the many steams on the platform everyday or even start your own stream and start interacting and amassing a fanbase of followers.\n\n(*) According to AppAnnie, including web and smartphone app.\n\n\u25c6How to Enjoy SHOWROOM\u25c6\n\n\u25a0Watch Live Streams!\n-------------------------------------\nWatch your favorite streamers and interact with them through commenting and send gifts. Streamers love to chat with their fans, so jump in to watch a stream and make sure to say \"hello\" in the comments!\n\n\u25a0Start Stremaing\n-------------------------------------\nAll yo",
+    "icon": "/icons/jp.dena.showroom.png"
+  },
+  "com.softwarecave.alertify": {
+    "title": "Alertify",
+    "package": "com.softwarecave.alertify",
+    "description": "Have you ever wished you could allow a notification from a specific app act as an alarm and bypass silent mode and do not disturb (DND)? Now you can.\n\nAlertify allows you the choose any app on your device, and turn it's notifications into alerts.  Users can also setup conditions around these alerts, like an alert time window (one or more), and key words (one or more) being present in the content of a notification.  \n\nAlertify uses the same system permissions as you alarm clock does, so you will not miss an alert notification, even with your device on silent or DND mode.\n\nThe original use case was for home security.  I wanted to be woken up if any of my Ring camera's detected a person during the night.  For this I needed a specific time window for when the alarm should trigger and to be abl",
+    "icon": "/icons/com.softwarecave.alertify.png"
+  },
+  "com.rayark.pluto": {
+    "title": "Deemo",
+    "package": "com.rayark.pluto",
+    "description": "\"Never Left Without Saying Goodbye.\"\n\nThe world acclaimed, mobile rhythm game that's touched over 10 million players. Created by the team that brought you Cytus, the original Rayark team has created a whole new texture to the piano rhythm game DEEMO.\n\nA girl who fell from the skies and lost her past;\nDeemo, who plays the piano all alone in the world of the treehouse;\nan accidental encounter between the two.\nThe music flows as the fingers hit the piano keys.\nThe start of a fairytale journey has begun...\n\nGame Features:\n-60+ free songs in story mode, including more than 220 songs \n-Unlock more tracks as the game progresses, experience a story that will move you\n-Accompany Deemo and engage with this stunning, modern fairytale\n-Plenty of original piano songs in various music genres, many compo",
+    "icon": "/icons/com.rayark.pluto.png"
+  },
+  "com.PigeonGames.Phigros": {
+    "title": "Phigros",
+    "package": "com.PigeonGames.Phigros",
+    "description": "A Truly Novel Gameplay\n\nPhigros is a \"laneless\" music game with dynamic judgement lines and four different types of notes, bringing you a refreshing rhythm experience like never before!\n\nA Curated Music Library\n\nWith more than 200 high-quality tracks of various genres licensed from musicians around the world, Phigros will immerse you in aural delight.\n\nBeautiful Illustrations\n\nEach track comes with a beautiful cover art drawn by our talented artists which fits and enhances the song's mood. Also a feast for the eyes!",
+    "icon": "/icons/com.PigeonGames.Phigros.png"
+  },
+  "com.PigeonGames.Rizline": {
+    "title": "Rizline",
+    "package": "com.PigeonGames.Rizline",
+    "description": "Rhythm connects!\nPresenting Pigeon Games' second enchanting music rhythm game, following the success of \"Phigros\"!\nDive into a mesmerizing journey where points and lines dance in harmony, weaving an extraordinary geometric tapestry set to the innermost beat of your heart!\n\nGame Features:\n\n- Unleash Limitless Freedom\nEmbrace full-screen track judgement, and feel the pulsating rhythm resonate at your fingertips! Dynamic charts ensure endless musical delight for all!\n\n- Immerse in Serene Rhythm\nDiscover the unique Riztime design, where emotions and charts ebb and flow with the cadence. Watch your HP and scores soar to the symphony of sound!\n\n- Forge Unbreakable Bonds\nThe internet brings the world closer, yet distances many people.\nWith Rizline, our mission is to reconnect and unite the hearts",
+    "icon": "/icons/com.PigeonGames.Rizline.png"
+  },
+  "com.rayark.cytus2": {
+    "title": "Cytus II",
+    "package": "com.rayark.cytus2",
+    "description": "\"Cytus II\" is a music rhythm game created by Rayark Games. It's our fourth rhythm game title, following the footsteps of three global successes, \"Cytus\", \"DEEMO\" and \"VOEZ\". This sequel to \"Cytus\" brings back the original staff and is a product of hardwork and devotion. \n\nIn the future, humans have redefined internet development and connections. We can now easily sync the real world with the internet world, changing life as we have known for thousands of years. \n\nIn the mega virtual internet space cyTus, there exists a mysterious DJ legend \u00c6sir. His music has an irresistible charm; people fall madly in love with his music. Rumor has it that every note and beat of his music hits the audiences in \nthe depths of their souls. \n\nOne day, \u00c6sir, who had never shown his face before, suddenly annou",
+    "icon": "/icons/com.rayark.cytus2.png"
+  },
+  "com.rayark.deemo2": {
+    "title": "DEEMO II",
+    "package": "com.rayark.deemo2",
+    "description": "Just in time for Rayark's 10th anniversary comes a sequel to their classic IP, DEEMO.\n\nA kingdom created through music faces an uncertain future after a monster called 'The Ancestor' plagues the land with a destructive 'Hollow Rain'. This dangerous rain causes anyone it touches to 'bloom', turning into a flurry of white flower petals and ultimately vanishing from existence.\nDEEMO II follows Echo, a girl who has bloomed but mysteriously re-appeared, and Deemo, an enigmatic station Guardian, as they journey through this rain-soaked world in hopes of finding a way to save it.\n\nFeatures:\n\n\u25b2A Mysterious and Emotional Story:\nWhy did 'The Composer', the elusive being who created this world, suddenly abandon it? Why and how did Echo bloom and then come back to life? Accompany Echo as she uncovers ",
+    "icon": "/icons/com.rayark.deemo2.png"
+  },
+  "net.ivpn.client": {
+    "title": "IVPN",
+    "package": "net.ivpn.client",
+    "description": "IVPN is a privacy-first VPN service that offers WireGuard, multi-hop connections and a built-in ad/tracker blocker.\n\nWhat makes our customers trust us:\n\n- Regular third-party audits since 2019.\n- Open-source apps without trackers.\n- Privacy friendly account creation - no email address required.\n- Transparent ownership, team.\n- Clear privacy policy and strong ethical guidelines.\n\nWhat can you expect when using IVPN for Android:\n\n- Fast servers in more than 50 locations.\n- OpenVPN and WireGuard protocol support.\n- Improved security for Wi-Fi/LTE/3G/4G.\n- Use on up to 7 devices (Pro plan).\n- AntiTracker to block ads, web and app trackers.\n- Automatic Kill Switch.\n- Set trusted networks and use custom DNS.\n- Multi-hop connections for improved privacy.\n- 24/7 customer service assistance.\n \nWhat",
+    "icon": "/icons/net.ivpn.client.png"
+  },
+  "mega.vpn.android.app": {
+    "title": "MEGA VPN - Privacy Online",
+    "package": "mega.vpn.android.app",
+    "description": "Start your 7-day free trial today for fast, anonymous browsing. Available on a low-cost, standalone plan, or free with any MEGA pro plan.\n\nBrowse in confidence with an encrypted internet connection that masks your IP address and eliminates throttling for a faster, safer, easier online life.\n\nAd blocker for uninterrupted browsing\nStop annoying ads and invisible trackers to enjoy faster, cleaner, and more private browsing.\n\nUnlimited VPN traffic, full-speed access\nStream, browse, and download as much as you like. No slowdowns, no data caps, just fast, uninterrupted access.\n\nAround the globe access \nChoose from multiple servers in locations around the world, including in North America, Europe, Asia, and New Zealand.\n\nSmart auto-connect\nMEGA VPN can activate automatically on risky networks to ",
+    "icon": "/icons/mega.vpn.android.app.png"
+  },
+  "eu.faircode.netguard": {
+    "title": "NetGuard - no-root firewall",
+    "package": "eu.faircode.netguard",
+    "description": "NetGuard is an internet security app, which offers simple and advanced ways to restrict apps' access to the internet.\n\nApplications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection. Root permissions are not required.\n\nBlocking access to the internet can help:\n\n\u2022 reduce your data usage\n\u2022 save your battery\n\u2022 increase your privacy\n\nFeatures:\n\n\u2022 Simple to use\n\u2022 No root required\n\u2022 100% open source\n\u2022 No calling home\n\u2022 No tracking or analytics\n\u2022 No advertisements\n\u2022 Actively developed and supported\n\u2022 Android 5.1 and later supported\n\u2022 IPv4/IPv6 TCP/UDP supported\n\u2022 Tethering supported\n\u2022 Optionally allow when screen on\n\u2022 Optionally block when roaming\n\u2022 Optionally block system applications\n\u2022 Optionally notify when an application accesses the internet\n\u2022 ",
+    "icon": "/icons/eu.faircode.netguard.png"
+  },
+  "cn.adonet.proxyevery": {
+    "title": "Android Proxy Server",
+    "package": "cn.adonet.proxyevery",
+    "description": "Run your own proxy server on your Android device. Share the special network connection of your Android device to your family,friends or your other devices.\n\nThe application handles the following protocols:\nHttp/Https\nSocks5\nShadowsocks\nTCP relay function (can share Orbot app connection, can also be used as TCP protocol relay)\nAuthentication is enabled for both the HTTP/HTTPS/Socks/Shadowsocks proxies.Make the proxies more secure.\n\nNo root permissions are necessary.\n\nUse your Android network connection from another device that connected to the hotspot or in the Local Area Network. This is useful if you have a VPN connection on your Android device that you would like to share.Can provide proxy services for your Telegram or other software in other devices\n\nIf your phone is connected to wifi, ",
+    "icon": "/icons/cn.adonet.proxyevery.png"
+  },
+  "com.frostnerd.dnschanger": {
+    "title": "DNSChanger for IPv4/IPv6",
+    "package": "com.frostnerd.dnschanger",
+    "description": "This app is a dns changer which supports WIFI, mobile connections, Ethernet and IPv6\nHighly customizable, lots of features\nBrazilian and German translation\nFor a full list of features scroll down\n\nThis app uses the Device Administrator permission.\nThis is in no way required any only used to prevent uninstallation if wanted by the user. No system settings are modified. \n\nThis app uses the VpnService. Usage of the VpnService is required to change the DNS servers for all types of networks (otherwise it would work for Wifi only), as well as offer advanced security features. No actual VPN connection is established and no data leaves the device via VPN.\n-----------------------------\n\nWhilst it is fairly easy to adjust the DNS servers used by your device when using wifi, android offers no option ",
+    "icon": "/icons/com.frostnerd.dnschanger.png"
+  },
+  "com.oasisfeng.greenify": {
+    "title": "Greenify",
+    "package": "com.oasisfeng.greenify",
+    "description": "Featured as Lifehacker's Top 1 Utility in 2013 Best Android Apps (http://goo.gl/1VMwnE), Android Authority's Top 3 Best Root Apps (http://goo.gl/g0L0qZ).\n\n\"Aggressive Doze\" and \"Doze on the Go\" to maximize the battery saving on Android 6+, even without root! (details explained in settings)\n\nNever should your phone or tablet become slower and battery hungrier after lots of apps installed. With Greenify, your device can run almost as smoothly and lastingly as it did the first day you had it!\n\nGreenify help you identify and put the misbehaving apps into hibernation when you are not actively using them, to stop them from lagging your device or leeching the battery, in a unique way! They can do nothing without explicit launch by you or other apps, while still preserving full functionality when ",
+    "icon": "/icons/com.oasisfeng.greenify.png"
+  },
+  "dev.km.android.chargemeter": {
+    "title": "Charge Meter",
+    "package": "dev.km.android.chargemeter",
+    "description": "Measure the charging current (in mA) to find out!\n \nHIGHLIGHTS\n\n- Measure real battery capacity (in mAh).\n- Look up the discharge speed and battery consumption per app.\n- Remaining charge time - know how long it takes before your battery is charged.\n- Remaining use time - know when you will run out of battery.\n- Measure the battery temperature.\n- Track Live charge usage of Apps\n\n\ud83d\udd0c CHARGING SPEED\n \nUse Charge Meter to find the fastest charger and USB cable for your device. Measure the charging current (in mA) to find out!\n \n- Check how fast your device is charging with Different Apps.\n- Know how long it takes to charge your phone and when it\u2019s finished.\n\n\ud83c\udfc6 PREMIUM FEATURES\n \n- Use Dark themes and Dark Mode.\n- PICTURE-IN-PICTURE mode for Minimised viewing.\n- Home Screen Widgets\n- No ads\n\nWe'",
+    "icon": "/icons/dev.km.android.chargemeter.jpg"
+  },
+  "com.wetaan.greenify": {
+    "title": "Greenify",
+    "package": "com.wetaan.greenify",
+    "description": "Greenify: Making Communities Greener Together\n\nGreenify connects enthusiastic volunteers with pre-approved tree planting opportunities in their local area. Our mission is simple: make it easy for people to contribute to a greener environment by planting trees where they're needed most.\n\n\u2705 FIND LOCAL OPPORTUNITIES\nBrowse our interactive map to discover tree planting events near you. Each location shows detailed information about the number of trees needed, volunteer count, and exact location.\n\n\u2705 EASY PARTICIPATION\nSign up for planting events with just one tap. Receive calendar reminders so you never miss an opportunity to make a difference.\n\n\u2705CONNECT WITH NURSERIES\nAccess our network of partner nurseries offering plants specifically for Greenify events. Many partners provide special discoun",
+    "icon": "/icons/com.wetaan.greenify.png"
+  },
+  "com.symantec.mobilesecurity": {
+    "title": "Norton360 Antivirus & Security",
+    "package": "com.symantec.mobilesecurity",
+    "description": "\u200b\u200bNorton 360 ensures robust mobile security with antivirus features, including AI-powered malware protection, virus scanner and cleaner, and VPN for privacy online. Built-in scam protection helps keep you safe while browsing, shopping, or texting. \n\n\u2714 New: Scam Protection Pro\nAI-powered protection against sophisticated scams. Provides holistic coverage across email, web, phone calls, and SMS.\n\n - Norton Genie - AI assistant \n - Safe SMS: AI scam protection against spam calls\n - Safe Web: AI helps protect you from scams when browsing online.   \n - Safe Call: Proactively blocks scam and junk calls \n - Safe Email: 24/7 AI scam protection for your email inbox  \n\n\u2714 App Security: Real-time virus scanner & cleaner alerts you if there is malware so you can remove the app\ud83d\udcf1 \n\n\u2714 Norton Genie: Can ans",
+    "icon": "/icons/com.symantec.mobilesecurity.jpg"
+  },
+  "com.oasisfeng.greenify.pro": {
+    "title": "Greenify (Donation Package)",
+    "package": "com.oasisfeng.greenify.pro",
+    "description": "This is just a donation package which activates some experimental features in the Greenify app. These features can be enabled in settings of Greenify.\n\n=== Disclaimer ===\n\nSome of these experimental features are still in early stage. They may not work on all devices & ROMs. They are included only for advanced users with sufficient knowledge about what they really mean and how to correctly use them. These features may cause malfunction or crash in apps. In rarely extreme case, you might need to factory reset your device to recover. I will try my best to avoid those situations, but take no responsibility for the possible consequences.\n\nIt is safe to purchase and install, since nothing is affected until any of the experimental features is enabled explicitly.\n\n=== Experimental Features ===\n\n\u25c6 ",
+    "icon": "/icons/com.oasisfeng.greenify.pro.png"
+  },
+  "com.eg.mimicry.horror.online": {
+    "title": "Mimicry: Online Horror Action",
+    "package": "com.eg.mimicry.horror.online",
+    "description": "Mimicry is a battle royale (8 vs 1) and online horror action game in the horror genre: one monster hunts eight survivors who want to avoid a terrible death.\n\nUnpredictable matches, cool character customization, voice chat during battle, various locations and scary monsters are waiting for you in this online horror game!\n\nPLAY WITH FRIENDS \ud83d\ude4f\nSurvive with friends, communicate with them in voice chat during the battle, complete tasks and escape from the killer! In this asymmetric survival horror game, 1 monster and 8 players try to destroy each other. You can play scary hide and seek online, loot your enemies, help your friends or find a weapon and start hunting the monster. Do whatever you want to stay alive! Lead your team to victory!\n\nBECOME A TERRIFYING MONSTER \ud83d\ude08\nPlay as a terrifying mons",
+    "icon": "/icons/com.eg.mimicry.horror.online.jpg"
+  },
+  "com.devolverdigital.carrion": {
+    "title": "Carrion",
+    "package": "com.devolverdigital.carrion",
+    "description": "Try Carrion for FREE - with NO ADS! Then unlock the full game + DLC with a single in app purchase. No gems, hearts or virtual currency required!\n\nCARRION is a reverse horror game in which you assume the role of an amorphous creature of unknown origin. Stalk and consume those that imprisoned you to spread fear and panic throughout the facility. Grow and evolve as you tear down this prison and acquire more and more devastating abilities on the path to retribution.",
+    "icon": "/icons/com.devolverdigital.carrion.webp"
+  },
+  "com.eyesthegame.eyes": {
+    "title": "Eyes Horror & Coop Multiplayer",
+    "package": "com.eyesthegame.eyes",
+    "description": "You break into the mansion at night.\nIt\u2019s huge and built like a maze.\nYou're trying to escape, but the monster is after you!\nThe chase begins.\n\nRUN!!\n\nThis free multiplayer horror game will test your survival skills like never before. With the addition of multiplayer, the fear and thrills are taken to a whole new level. Experience the terror together!\n\nEscape ghosts and endure evil jumpscare in this free yet terrifying survival horror game.\n \nDiscover heart-thumping terror, chase and scary creatures in this free atmospheric horror game. But no matter what, never play alone in the dark. The fate of your survival rests in your hands.\n \nAs you explore decaying rooms in search of riches, an eerie wail shudders through the dead air and fills your heart with horror. And the chase begins.\n\nLights",
+    "icon": "/icons/com.eyesthegame.eyes.png"
+  },
+  "com.SnowBat.OnlineImposter3D": {
+    "title": "Imposter 3D: online horror",
+    "package": "com.SnowBat.OnlineImposter3D",
+    "description": "Join the online 3D horror game and save mini astronauts from the deadly Imposter in various game modes, solo or online multiplayer, with up to 13 players!\n\nIn each mode look for the babies and complete tasks to win! Complete a variety of interesting tasks, such as setting up your ship, pointing guns, getting oxygen, mopping the floor, and more.\n\nThe game has 7 game modes:\n- PvE - play with friends against an imposter controlled by the AI.\n- PvP - spacemen against the imposter in an online multiplayer mode, players play for the imposter\n- Zombie - infection mode, anyone caught by the imposter also becomes an imposter.\n- Hide and Seek (Hide n Seek)\n- Hunt - find most babies in time\n- Rescue - survive a certain amount of time\n- Mafia - up to 13 players, among these players is an imposter who ",
+    "icon": "/icons/com.SnowBat.OnlineImposter3D.png"
+  },
+  "com.ndemiccreations.afterinc": {
+    "title": "After Inc.",
+    "package": "com.ndemiccreations.afterinc",
+    "description": "Can you rebuild civilization after a zombie apocalypse? From the creator of Plague Inc. comes a unique blend of strategic simulation, survival city builder and \u2018mini 4X\u2019.\n\nDecades after the Necroa Virus ravaged humanity, a few survivors emerge. Build a settlement, explore, scavenge resources and expand as you shape your post-apocalyptic society. The world is green and beautiful but danger lurks in the ruins!\n\nAfter Inc. is the brand new game from the creator of \u2018Plague Inc.\u2019 - one of the most popular games ever with over 190 million players. Brilliantly executed with beautiful graphics and critically acclaimed gameplay - After Inc. is engaging and easy to learn. Build multiple settlements and gain abilities in a persistent campaign to lead humanity out of the darkness.\n\nPublic Service Anno",
+    "icon": "/icons/com.ndemiccreations.afterinc.png"
+  },
+  "com.kleientertainment.doNotStarvePocket": {
+    "title": "Don't Starve: Pocket Edition",
+    "package": "com.kleientertainment.doNotStarvePocket",
+    "description": "Don\u2019t Starve: Pocket Edition, brings the hit PC game enjoyed by over 6 million players to Android. \n\nNow you can experience the uncompromising wilderness survival game full of science and magic on the go! Play as Wilson, an intrepid Gentleman Scientist who has been trapped and transported to a mysterious wilderness world. Wilson must learn to exploit his environment and its inhabitants if he ever hopes to escape and find his way back home. \n\nEnter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style. Play your way as you unravel the mysteries of this strange land.",
+    "icon": "/icons/com.kleientertainment.doNotStarvePocket.png"
+  },
+  "com.kleientertainment.doNotStarveShipwrecked": {
+    "title": "Don't Starve: Shipwrecked",
+    "package": "com.kleientertainment.doNotStarveShipwrecked",
+    "description": "Klei Entertainment has partnered with our friends at CAPY, creators of Superbrothers: Sword and Sworcery, Super Time Force and Below; to bring fans of Don\u2019t Starve the latest single-player expansion: Don\u2019t Starve: Shipwrecked!\n\nIn Don't Starve: Shipwrecked, Wilson finds himself stranded in a tropical archipelago. He must learn to survive all over again in this new environment filled with new biomes, seasons, and creatures.\n\nDon\u2019t let the tropical breeze lull you into a false sense of security - the world might be different, but it is still equal parts unforgiving and uncompromising. You will quickly find these islands are full to the brim with things that want to kill you.\n\nKey Features:\n\nNavigate the Open Ocean: Craft a boat and set sail for adventure! \n\nExplore an Entirely New World: The",
+    "icon": "/icons/com.kleientertainment.doNotStarveShipwrecked.png"
+  },
+  "com.creditgenie.app": {
+    "title": "Credit Genie: Get Cash Advance",
+    "package": "com.creditgenie.app",
+    "description": "Credit Genie helps you manage your money with spending insights, overdraft alerts, and (if eligible) access to a cash boost.\n\n\u2705 CASH BOOST* (IF ELIGIBLE) up to $150\n- No minimum or maximum time for repayment (Typical repayments between 9 - 120 days) \n- No interest (Max APR: 0%)\n- No credit checks\n- No late fees\n- No direct deposit required\n\nA Cash Advance/Cash Boost (Earned Wage Access) is NOT a personal loan or a loan of any kind! Credit Genie is an Earned Wage Access app. There are no maximum annual percentage rate (APR) as there are no mandatory fees associated Credit Genie's cash Boost. \n\nBelow is a Representative Example of a Cash Boost:\n\nRepresentative Example (With ALL Optional fees):\nAdvance Amount: $40.00\nOptional instant delivery fee: $0.99\nOptional Membership: $9.99\nTotal repaym",
+    "icon": "/icons/com.creditgenie.app.png"
+  },
+  "com.genibee.app": {
+    "title": "Genibee",
+    "package": "com.genibee.app",
+    "description": "Genibee is inspired by right-brain development and early learning techniques described in the works of pioneers of early childhood education. These methods emphasize nurturing the whole brain \u2014 imagination, memory, empathy, and intuition \u2014 through gentle, age-appropriate play. We translate these principles into simple daily experiences that any parent can do \u2014 no equipment, no pressure, only love and play.",
+    "icon": "/icons/com.genibee.app.png"
+  },
+  "com.merkuryinnovations.geeni": {
+    "title": "Geeni",
+    "package": "com.merkuryinnovations.geeni",
+    "description": "Meet Geeni. Your wish is Geeni's command. \nControl all Geeni smart home devices in one easy app, or by voice using Amazon Echo, from ANYWHERE in the world. Geeni is easy enough for anyone to use and combines the SIMPLICITY of an on/off switch with PREMIUM features such as: \n- Easy, powerful control of each device. Choose a color or mood of our Color bulbs, perfectly Dim a white bulb, track energy usage of a plug, all from the same app!\n- Group devices and control by room\n- Set smart scenes for automated actions\n- Schedule when devices turn on and off to allow more control and security\n- Choose which devices your friends, guests, roommates, or your family can control thanks to account sharing\n- Cloud based services so you can log in and control your home from any phone\n- and more. \n\nCompati",
+    "icon": "/icons/com.merkuryinnovations.geeni.png"
+  },
+  "com.key.connect.servicegeeni": {
+    "title": "Service Geeni",
+    "package": "com.key.connect.servicegeeni",
+    "description": "Making service management easy. \nPlanning, managing and scheduling work for mobile operatives and engineers. Connecting service personnel with back office teams and customers.  Reduce admin, save time, work smarter. \nSimply manage your mobile workforce better, access real time scheduling and reporting, track operative locations, amend, and update schedules, view and submit job and equipment information in the field \u2013keeping all your teams and your customers in sync.\nCompatible with your iPhone and iPad /smart phone or tablet device.  Mobile workers can receive jobs, amend schedules, access full contract and job information, allocate / reserve stock required for each job, update data in the field and more \u2013 totally minimising admin and maximising accuracy.  Plus, you will never miss invoici",
+    "icon": "/icons/com.key.connect.servicegeeni.jpg"
+  },
+  "com.jb.gosms": {
+    "title": "GO SMS Pro - Messenger, Free T",
+    "package": "com.jb.gosms",
+    "description": "GO SMS Pro - Nearly 100 Million users' choice, all time #1 messaging app to replace the stock! \n\nThe brand new messaging app is simple, intuitive, personalizing and fun!\n\nGO SMS Pro comes with beautiful themes, lovely stickers, private box, pop up windows, GO chat (send free SMS & MMS), dual sim support, and much more. We are committed to making GO SMS Pro faster, safer and tons of great features - messaging has never been so fun and efficient!\n----------------------------------------------\nFree Features:\n\u25ba Hundreds of personalized themes and lovely stickers (keep increasing) \n\u25ba Private box to encrypt messages & protect your privacy\n\u25ba Sticky conversations help you focus on important contacts by sticking them at the top\n\u25ba Pop up new messages for quick viewing and replying\n\u25ba Dual SIM matchin",
+    "icon": "/icons/com.jb.gosms.png"
+  },
+  "com.gooezy.messengerapp": {
+    "title": "Go Messenger app: Chat & Msg",
+    "package": "com.gooezy.messengerapp",
+    "description": "This Go Messenger App Help People to Send Messages , Chat to any Mobile Number without Saving the Number in Contact list of Mobile Phone.\n\nHow it works?\n1. Enter a number to which you are going to send message.\n2. Type your text message and tap on send button.\n3. This will take you to the a official Chatting App then a chat window is created on Chatting App with given number.\n\nKey Features:\n\n- Instant Messaging Without Saving Contacts: No more adding unnecessary numbers to your contact list. Just input the number, type your message, and send it right away.\n- Seamless Integration: Once you enter the number and type your message, Go messenger  will instantly open the official chat app with a pre-created chat window.\n- User-Friendly Interface: Go Messenger is designed for simplicity and ease ",
+    "icon": "/icons/com.gooezy.messengerapp.png"
+  },
+  "com.poshmark.app": {
+    "title": "Poshmark: Shop & Sell Fashion",
+    "package": "com.poshmark.app",
+    "description": "Poshmark is the perfect shopping app to buy and sell clothes online. Make Poshmark your own personal shopper with the leading fashion marketplace for sales on new and secondhand clothing for women, men, kids, home, and more.\n\nShop from over 9,000 brands fit for any size and style. Buy your next activewear fit from Under Armour or shop trending styles from Urban Outfitters \u2013 Poshmark has you covered. Buy designer shoes and clothing with options for everyone \u2014 from plus size and petite, to juniors. Save up to 70% off retail on vintage clothing, designer styles, streetwear, and more on Poshmark!\n\nDeclutter your closet and sell used clothing and accessories seamlessly. Connect with a shopper near you on the marketplace that makes online selling easy. List everything from designer shoes and jew",
+    "icon": "/icons/com.poshmark.app.webp"
+  },
+  "com.mercadolibre.android.mplay_tv": {
+    "title": "Mercado Play",
+    "package": "com.mercadolibre.android.mplay_tv",
+    "description": "Mercado Play: thousands of free series and movies!\n\nAre you ready to dive into a world full of series and movies without a subscription? Mercado Play is the answer!\n\nFree content for everyone.\n\nOur wide selection of content guarantees fun for all members of the family. From beloved classics to the latest releases. You can enjoy series and movies that have won over critics and the hearts of viewers. Action, comedy, anime, drama, horror or magical adventures, we have it all!\n\nFor the whole family: the little ones also have their place in Mercado Play. We offer a selection of safe and fun family content, so they can entertain themselves without worries.\n\nStart exploring our entertainment universe. It's totally free and is designed to keep you entertained without limits!",
+    "icon": "/icons/com.mercadolibre.android.mplay_tv.png"
+  },
+  "com.ironhand.mercadomainapp": {
+    "title": "Mercado",
+    "package": "com.ironhand.mercadomainapp",
+    "description": "The Mercado App connects users with their local mercados and vendors. Explore and purchase fresh fruits, vegetables, snacks, clothing, home essentials, and more\u2014all directly from neighborhood stands. Enjoy real-time tracking, easy payments, and safe delivery while supporting your community and local economy.",
+    "icon": "/icons/com.ironhand.mercadomainapp.jpg"
+  },
+  "com.app.mercadolt": {
+    "title": "Mercado",
+    "package": "com.app.mercadolt",
+    "description": "At Mercado La Terminal, we're the best option for buying fresh fruits and vegetables at the best prices. We do the shopping for you, and now you can easily do it from the comfort of your home. No risks or complications, all through this app.\n\nWe're a startup that began in August 2020 as a result of the pandemic. We saw an opportunity to serve the Guatemalan population and help families save money, and we're here to stay.\n\nThanks to the understanding and support of many people, we're still here today. We also want to thank you for being here and making our dream a reality.\n\nMercado La Terminal Online Team",
+    "icon": "/icons/com.app.mercadolt.png"
+  },
+  "com.mercarue.styleekclient": {
+    "title": "Styleek",
+    "package": "com.mercarue.styleekclient",
+    "description": "Styleek.tn is a 100% Tunisian marketplace whose mission is to connect local merchants, designers, and professionals with buyers throughout Tunisia.\nWe offer a simple, modern, and efficient platform for selling a wide range of products.",
+    "icon": "/icons/com.mercarue.styleekclient.png"
+  },
+  "com.centrocuestanacional.merca2": {
+    "title": "Merca",
+    "package": "com.centrocuestanacional.merca2",
+    "description": "Designed to make your shopping experience fast, convenient, and comfortable, with quality products from our own brand and other brands on the market, at the best prices every day.\n\nYour friendly neighbor, now with delivery, brings your purchases reliably and hassle-free, in the shortest time and with the best service.\n\nWhat can you do with Merca?\n\n- Access the complete Merca Jumbo selection.\n\n- Pay securely with your debit or credit card.\n\n- Receive your products in less than 90 minutes.\n\n- Save your purchases to your cart indefinitely.\n\n- Easily repeat your usual purchases with just one click.\n\nMerca Jumbo, the best prices every day.",
+    "icon": "/icons/com.centrocuestanacional.merca2.png"
+  },
+  "dif.tech.plata": {
+    "title": "Banco Plata",
+    "package": "dif.tech.plata",
+    "description": "Banco Plata tiene la mejor app financiera para su tarjeta. Una tarjeta pensada en los consumidores del hoy, que ofrece entrega personalizada el mismo d\u00eda, una tarjeta digital para que hagas compras en l\u00ednea m\u00e1s seguras y cashback que se paga en dinero real. Plata es la soluci\u00f3n para hacer una mejor relaci\u00f3n con tus finanzas. \n\n\u00bfQu\u00e9 te da la tarjeta de cr\u00e9dito Plata?\n \nNuestro cashback es dinero real\n \nEn Banco Plata, vemos el cashback como una forma de hacer dinero f\u00e1cil y r\u00e1pido, ya que nuestro cashback te lo damos en pesos reales que puedes usar para realizar tus pagos  mensuales, hacer compras o para retirar dinero en efectivo. Adem\u00e1s, te damos la oportunidad de escoger tus   categor\u00edas de compra para ganar cashback en ellas.\n \nD\u00edas adicionales para pagar tu tarjeta de cr\u00e9dito\n \nCon Ban",
+    "icon": "/icons/dif.tech.plata.jpg"
+  },
+  "it.rortos.realflightsimulator": {
+    "title": "RFS - Real Flight Simulator",
+    "package": "it.rortos.realflightsimulator",
+    "description": "Your Ultimate Flight Simulation Experience on Mobile!\n\nDiscover the thrill of aviation with RFS - Real Flight Simulator, the most advanced flight simulation for mobile. \nPilot iconic aircraft, access global flights in real time, and explore ultra-realistic airports with live weather and advanced flight systems.\n\nFly Anywhere in the World!\n\n60+ Aircraft Models \u2013 Take control of commercial, cargo, and military jets with working instruments, and realistic lighting. New models arriving soon!\n1900+ HD Airports \u2013 Land at highly detailed 3D airports with jetways, ground services, and authentic taxiway procedures. More airports coming soon!\nRealistic Satellite Terrain & Height Maps \u2013 Fly over high-fidelity global landscapes with accurate topography and elevation data.\nGround Services \u2013 Interact wi",
+    "icon": "/icons/it.rortos.realflightsimulator.png"
+  },
+  "com.omnispay.app": {
+    "title": "omnispay",
+    "package": "com.omnispay.app",
+    "description": "omnispay is designed to simplify business payments for small enterprises. The app offers a seamless solution for creating payment links, generating QR codes, and auto-creating invoices. By simplifying the process of collecting payments from customers, omnispay provides an efficient and smooth experience for both merchants and their customers.\n \nAbility to Generate Payment Links: omnispay allows businesses to effortlessly create secure payment links that can be shared with customers. Merchants can generate payment links for various purposes, including one-time payments, or specific invoices, making it easier to handle diverse payment scenarios.\n \nAbility to Generate QR Codes: Our platform also supports the generation of QR codes for payments. This feature provides a modern and contactless p",
+    "icon": "/icons/com.omnispay.app.jpg"
+  },
+  "com.twelve.kwgt.widgets.materialyou.pro": {
+    "title": "Material You KWGT Widgets",
+    "package": "com.twelve.kwgt.widgets.materialyou.pro",
+    "description": "Andro 12 KWGT is a widget pack designed for KWGT that brings Android 12 style Material You widgets to your home screen. With more than 100 modern and minimal widgets, it is perfect for users who love colorful, clean setups and deep customization.\n\nFeatures\n\nOver 100 carefully designed widgets inspired by Android 12 and Material You design.\n\nClock, weather, music, system info and card style widgets for different types of setups.\n\nClean typography, rounded shapes and Material-style layouts for a polished look.\n\nWorks well with dynamic color, pastel and AMOLED friendly wallpapers.\n\nOptimized for different grid sizes so widgets fit nicely on most home screens.\n\nRequirements\nThis is not a standalone application.\nTo use these widgets you must have:\nKWGT (Kustom Widget Maker) installed.\nKWGT Pro ",
+    "icon": "/icons/com.twelve.kwgt.widgets.materialyou.pro.png"
+  },
+  "com.kole.kolor": {
+    "title": "Kolor - Material You Widgets",
+    "package": "com.kole.kolor",
+    "description": "\u2b50 - Handcrafted collection of Material You based Kustom widgets to add your phone's theme.\n\n\u26a0\ufe0f - Requirements\n- KWGT: https://play.google.com/store/apps/details?id=org.kustom.widget\n- KWGT Pro Key: https://play.google.com/store/apps/details?id=org.kustom.widget.pro\n- Android 12+ for best color support (otherwise will default to monochrome)\n\n\u2705 - Features\n- 20 beautiful widgets\n- Android 12+ Material You automatic theming\n- Automatic light/dark theme support\n- Perfectly accurate to real Material You colors\n- Kuper dashboard makes the app more fluid and easier to use\n- Functional widgets with working buttons, text, links and more\n\n\u2b07\ufe0f - Installation\n- Download and install Kolor from the Google Play Store\n- Open the widgets menu on your home screen and select KWGT\u2014select the grid size you want ",
+    "icon": "/icons/com.kole.kolor.png"
+  },
+  "com.samsung.android.spay": {
+    "title": "Samsung Wallet (Samsung Pay)",
+    "package": "com.samsung.android.spay",
+    "description": "Samsung Pay got even better. Meet Samsung Wallet!\n \nSamsung Pay is now part of Samsung Wallet. With Wallet, you get the features and benefits of Samsung Pay, plus Samsung Pass, digital home and car keys, digital asset management, and more. \n\nAll this comes in a simplified in-app experience, so you\u2019ll get more and find it with ease. Just swipe up to launch Samsung Wallet with Quick Access.\n\nPayment Transactions\nCarry your popular credit, debit, gift and membership cards on your phone. To check out, just tap, pay, and go. Get additional savings at top merchants with Cash Back Awards.\n\nDigital Keys\nAdd your eligible keys to Samsung Wallet so that you have a spare set right in your phone. \nUnlock your home, your car, and even start your car remotely.\n\nDigital Asset Management\nCheck your crypto",
+    "icon": "/icons/com.samsung.android.spay.png"
+  },
+  "com.google.android.apps.nbu.paisa.user": {
+    "title": "Google Pay: Save and Pay",
+    "package": "com.google.android.apps.nbu.paisa.user",
+    "description": "Important update:\nThe U.S. version of the standalone Google Pay app is no longer available for use. Please download the Google Wallet app to tap and pay with Google Pay.\n\nGoogle Payment Corporation's Customer Service and Error Resolution Policy and applicable processes still apply to report unauthorized transactions related to Google Pay. If you have any further questions about your balance in the app, you can learn more about your Google Pay balance.\n\nStill have questions? Head over to https://support.google.com/googlepay\n\n\n*Payments processed by Google Payment Corp., a licensed money transmitter (NMLS ID: 911607). Licensed as a money transmitter by the NY State Dept. of Financial Services and to Transmit Money By Check, Draft or Money Order By The Department of Banking and Securities, Co"
+  },
+  "com.crema.instant": {
+    "title": "Instant Buttons Soundboard App",
+    "package": "com.crema.instant",
+    "description": "Instant Buttons is a unique sound effects collection for your mobile phone. This app will offer you many fun sound effects. You can use them at any time!\n\n\ud83d\udd34INSTANT BUTTON APP\ud83d\udd34\n\nThere are up to 400 different instant sound effects! From the most famous memes of the social networks to the dialogues of your favourite series, through mythical video game sound or any funny sound like laughs. Instant Buttons classifies your funny sound effects into different categories. Find your preferred sound effects apps and save them in your favorites tab. Surprise your friends and family with the most original and innovative instant sound effects on the Internet. Any sound of applause, meme, noise, voice, romantics, mythical movie soundtracks, etc.\n\nAre you a fan of anime games? Instant Buttons offers you s",
+    "icon": "/icons/com.crema.instant.png"
+  },
+  "com.localhostlimited.memeinstants": {
+    "title": "Meme Instant Buttons",
+    "package": "com.localhostlimited.memeinstants",
+    "description": "\ud83d\udd34 Bring instant fun to any moment with a meme soundboard full of viral sounds, meme sounds, instant buttons, funny sound effects, and prank clips made for quick reactions. Tap your favorite sound buttons, open the fart soundboard, explore the meme board, and enjoy funny sounds anytime. Start the fun now and keep the best reactions just one tap away!\n\nThe app loads fast, feels smooth, and brings meme sound buttons to life with clean categories, loud reactions, realistic fart effects, and nonstop funny noises. You can scroll through meme sounds, unlock viral hits, save your favorites, and hit every moment with the perfect reaction. Try the funniest soundboard meme experience today and enjoy instant entertainment every time you tap!\n\n\u2b50 Viral Meme Sounds and Funny Reactions\n\nYou can browse a h",
+    "icon": "/icons/com.localhostlimited.memeinstants.png"
+  },
+  "com.soundinstants.app": {
+    "title": "Sound Instants: Soundboards",
+    "package": "com.soundinstants.app",
+    "description": "Title: SoundInstants - The largest free collection of meme soundboard effects\n\nLooking for the perfect sound to prank your friends? Want to make your videos more hilarious or just need a good laugh? SoundInstants is your go-to app for every viral moment!\n\nWith SoundInstants, you get instant access to a massive library of the world\u2019s most iconic meme sounds, legendary movie quotes, and trending audio clips from social media.\n\nKey Features:\n\nInstant Play: Tap to play any sound immediately with zero lag.\n\nMassive Library: Thousands of trending meme sounds from all over the internet.\n\nSmart Search: Find your favorite \"OOF\", \"Airhorn\", or \"Emotional Damage\" in seconds.\n\nFavorites List: Save your top-tier sounds for quick access anytime, anywhere.\n\nShare the Fun: Easily send sounds to your frien",
+    "icon": "/icons/com.soundinstants.app.png"
+  },
+  "com.bri1.soundbored.reborn": {
+    "title": "Instant Sound Effects",
+    "package": "com.bri1.soundbored.reborn",
+    "description": "Make your friends laugh with four great free sound effects! Includes rimshot (ba-dum-tss), sad trombone (wah-wah-wah), crickets, and \"nope\".\n\nThis app has been originally written by Brian Nezvadovitz and published on GitHub.\n\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program; if not, w",
+    "icon": "/icons/com.bri1.soundbored.reborn.png"
+  },
+  "com.instagram.moonshot": {
+    "title": "Instants, from Instagram",
+    "package": "com.instagram.moonshot",
+    "description": "Introducing Instants, a new app from Instagram. Share the realest moments from your day (not just the highlights) with your favorite people.\n\n-Real life, real quick.\nJump straight to the camera and share with a tap\u2014no edits, no overthinking.\n\n-Here and now.\nInstants can\u2019t be viewed again once they\u2019re gone, and can\u2019t be viewed after 24 hours.\n\n-Use either app.\nShare and view instants from here or on Instagram.\n\nMeta Privacy Policy: https://www.facebook.com/privacy/policy/\nMeta Community Standards: https://transparency.meta.com/policies/community-standards/"
+  },
+  "com.greentech.sadiq": {
+    "title": "Sadiq: Prayer, Quran, Qibla",
+    "package": "com.greentech.sadiq",
+    "description": "Sadiq is a beautifully designed app trusted by Muslims worldwide to make every Ibadah more meaningful. Stay connected to Allah and maximise your worship. Completely free & no ads.\n\n\ud83d\udd70\ufe0f Get precise prayer times - Accurate timings for all five daily prayers and voluntary prayers like Dhuha and Tahajjud, based on your location. Receive timely notifications so you never miss a Salah.\n\n\ud83e\udded Track fasting times - Get exact Suhur and Iftar timings. Never miss a fast with accurate schedules and reminders.\n\n\ud83d\udcd6 Connect deeper with the Quran - Read with translations in multiple languages, listen to famous Qaris, and access word-by-word meanings. Recite in Mushaf mode for distraction free tilawah.\n\n\ud83d\udcff Learn authentic Dua & Adhkar - Sunnah Duas in 15+ categories with audio and translations.\n\n\ud83d\udcc5 Islamic Calend",
+    "icon": "/icons/com.greentech.sadiq.png"
+  },
+  "com.mathani": {
+    "title": "Mathani \u0645\u062b\u0627\u0646\u064a - Prayer & Alarm",
+    "package": "com.mathani",
+    "description": "Mathani: Prayer Times & Qibla is a complete Islamic solution designed for Muslims who want a reliable Quran app, accurate Prayer Time app, and smart Qibla finder in one place. This powerful Islamic app helps you read, listen, understand, and memorize the Holy Quran while also staying consistent with your daily Namaz time and correct Qibla direction. \n\nWhether you are looking for a Quran reading app, a Quran memorization app, or a Kaaba direction app with an accurate Qibla compass, Mathani provides everything you need for your daily Islamic routine. \n\n\ud83d\udd4c Accurate Prayer Times & Namaz Schedule \nStay punctual with your daily Salah using the built-in Prayer time app feature. \nAccurate Namaz time based on your location \nComplete daily Prayer schedule (Fajr, Dhuhr, Asr, Maghrib, Isha) \nTimely pra",
+    "icon": "/icons/com.mathani.png"
+  },
+  "com.parfield.prayers.lite": {
+    "title": "Al-Moazin Lite (Prayer Times)",
+    "package": "com.parfield.prayers.lite",
+    "description": "Al-Moazin prayer times application, is a must have companion for all Muslims. With Al-Moazin, you will not miss Salat again even if you traveled to a totally new country.\n\nGPS integration feature will help you get accurate prayer times wherever you are on earth!\n\nYou don't need to ask anyone for Qibla direction anymore. with digital compass integration feature, Al-Moazin will show you the exact direction accurately.\n\nApplication is equipped with a Hijri Calendar to be able to display and check dates in Hijri or  convert Hijri to Gregorian dates and vise versa.\n\nFollow Me feature will initiate an automatic location update when you travel or change location.\n\nMultiple set of notifications related to Prayer times to plan whatever actions you need related to Prayer times before or after. (Full",
+    "icon": "/icons/com.parfield.prayers.lite.png"
+  },
+  "com.mahmoud.android.Adani": {
+    "title": "Moatheni: Muslim Prayer Times",
+    "package": "com.mahmoud.android.Adani",
+    "description": "Prayer times and Qibla wherever you are. Quran and Muslim's athkar. Totally free and without ads.\n\n\u2022 Qibla\nAccurately determine the direction of Qibla anywhere with the feature of determining the Qibla on the map.\n\n\u2022 Athkar\nMuslim supplications during the day and night such as morning and evening supplications, sleep and waking up from it and others with legal ruqyah and supplications from the Qur\u2019an and Sunnah.\n\n\u2022 Quran\nBrowse the entire Holy Quran with Hafs narration without an internet connection with an easy and smooth browsing method with the prayer counter feature\n\n\u2022 Alerts\nWith many preoccupations, a Muslim may not notice the beginning of prayer time, so a great focus was placed on alerts. When the time of the call to prayer approaches, you will receive an alert to prepare for the n",
+    "icon": "/icons/com.mahmoud.android.Adani.png"
+  },
+  "com.anshintech.muazzin": {
+    "title": "Muazzin \u2013 Mosque, Qibla, Salah",
+    "package": "com.anshintech.muazzin",
+    "description": "\ud83d\udd4c Muazzin / Muezzin \u2013 Mosque Finder, Qibla, Prayer Times, Azan, Quran, Hadith, Zakat & Fitra Calculator \ud83c\udf19\n\nMuazzin / Muezzin is the complete Islamic app for Muslims worldwide. Easily find nearby mosques, get accurate prayer times with Azan alerts, use Qibla compass, read Quran, Hadith, daily Doa, Hijri calendar, Sehri & Iftar time, Zakat & Fitra calculator, Tasbih counter and more in one app.\n\nWhether you are at home, traveling, working, or visiting a new city, Muazzin / Muezzin helps you stay connected with your Deen, Salah and daily Islamic lifestyle.\n\nIf you are searching for Islamic app, Prayer Time app, Azan app, Mosque Finder, Qibla Compass, Quran app, Muslim app or Ramadan app, Muazzin / Muezzin / Muezzin is the perfect choice.\n\n\ud83c\udf0d Mosque Finder \u2013 Find Nearby Mosques Instantly\nNever ",
+    "icon": "/icons/com.anshintech.muazzin.png"
+  },
+  "org.muslimtechnisian.muajjin": {
+    "title": "org.muslimtechnisian.muajjin",
+    "package": "org.muslimtechnisian.muajjin"
+  },
+  "com.phuongpn.wifisignalstrengthmeterpro": {
+    "title": "Net Signal Pro:WiFi & 5G Meter",
+    "package": "com.phuongpn.wifisignalstrengthmeterpro",
+    "description": "This app is a useful tool that allows you to check WiFi Signal Strength and cellular signal strength anywhere with your mobile device. It helps finding good areas of WiFi or cellular connectivity to set up smart home devices.\n\nFeatures:\n- Cellular signal information\n- WiFi signal information\n- Accurate WiFi and Cellular signal strength\n- WiFi roaming\n- Ping tool\n\nIn Cellular signal:\nView 2G, 3G, 4G, 5G cellular signal, network operators, sim operator, phone type, network type, network strength in dBm, IP address,...\n\nIn WiFi signal:\nWi-Fi-Name (SSID), BSSID, maximum Wi-Fi speed, IP address, public IP address, net capability, net channel, subnet mask, Gateway IP address, DHCP server address, DNS1 and DNS2 address,...\n\nIn WiFi roaming:\nYou can finding out which Wi-Fi AP the device used to ac",
+    "icon": "/icons/com.phuongpn.wifisignalstrengthmeterpro.png"
+  },
+  "com.appselsyn.signal": {
+    "title": "Signal",
+    "package": "com.appselsyn.signal",
+    "description": "Complete and easy to use, using the most sophisticated development technologies, SIGNAL offers:\n\n- Complete list of traceable in real time, with address of the location and speed. Totaled and separated by status, allowing to identify which ones are onLine, offLine, in movement or stopped, with ignition on or off.\n- Direction to StreetView of the location in real time.\n- Creation of routes, redirecting the location to googleMaps, iOS Maps or WAZE.\n- Anchor creation (secure parking), allowing you to receive alerts if the trackable leaves a 30 meter virtual fence.\n- Trackable lock and unlock.\n- Live map showing all of your trackable or individually, with custom icons identifying the status and direction of the trackable. Various information of the trackable in real time, such as: speed, batte",
+    "icon": "/icons/com.appselsyn.signal.png"
+  },
+  "com.farmers.mobile.android": {
+    "title": "Signal\u00ae by Farmers\u00ae",
+    "package": "com.farmers.mobile.android",
+    "description": "The Signal by Farmers app can help you drive safer and offers the potential for discounts and rewards. Signal is a program available to eligible Farmers auto insurance customers.1\nFeatures:\n\u2022\tReceive an initial discount for signing up and a potential renewal discount\n\u2022\tReview your driving behaviors and receive tips to help improve\n\u2022\tEarn achievement badges\n\u2022\tDrive with the CrashAssist feature, which can help detect if you\u2019ve been in a crash and send help, if needed\n\u2022\tAccess roadside assistance\n\nContact a local agent today to enroll in the Signal program, then download the app, and start driving!\nNote: After successfully registering in the app, trips automatically begin when you start driving, so there is no need to manually start your app.\n1Signal is not available in all states or with all",
+    "icon": "/icons/com.farmers.mobile.android.png"
+  },
+  "com.cryptoo.signals.ultimate": {
+    "title": "Crypto Signals Ultimate",
+    "package": "com.cryptoo.signals.ultimate",
+    "description": "Empower your Cryptocurrency trading journey with Crypto Signals Ultimate. Our app provides unparalleled access to expert signals curated by seasoned professionals in the Crypto Market. Never miss a profitable opportunity again as our signals notify you of the optimal times to buy and sell cryptocurrencies for maximizing profits. With real-time updates and in-depth analysis, Crypto Signals Ultimate is your ultimate companion for navigating the ever-changing Crypto landscape.\nDownload now and elevate your altcoin trading experience\u00a0to\u00a0new\u00a0heights.",
+    "icon": "/icons/com.cryptoo.signals.ultimate.png"
+  },
+  "com.omairtechdesigns.canadamosquesfinder": {
+    "title": "Masjid Finder: Prayer & Qibla",
+    "package": "com.omairtechdesigns.canadamosquesfinder",
+    "description": "Masjid Finder is your trusted companion for discovering nearby Masjids and staying connected to your local Muslim community wherever you are.\n\nWhether you are at home, traveling, or in a new city, Masjid Finder helps you find prayer locations quickly and reliably.\n\nFind Nearby Masjids\nLocate Masjids around you instantly with an easy to use interactive map.\n\nPrayer Times with DST Support\nAccurate prayer times for multiple cities around the world, with automatic Daylight Saving Time adjustments.\n\nFull Year Prayer Timetable\nAccess a complete yearly prayer schedule at your fingertips.\n\nQibla Direction\nFind the direction of Qibla from your current location\n\nIslamic Calendar\nView the full Islamic Hijri calendar for the entire year.\n\nIslamic Events\nStay updated with upcoming and past Islamic even",
+    "icon": "/icons/com.omairtechdesigns.canadamosquesfinder.png"
+  },
+  "com.muslimramadantech.quranpro.prayertimes": {
+    "title": "Islamic Muna Prayer Time Quran",
+    "package": "com.muslimramadantech.quranpro.prayertimes",
+    "description": "Al- Quran:\nThe \"Holy Quran\" feature with a unique and immersive experience of reading the Quran, mimicking the feel of a real Quran in their hands. This feature is designed for those who seek the authentic Arabic text of the Quran, with the sensation of turning real pages .\n\nApp with a page-turning effect resembling a physical Quran in hand.\nAppearance of actual printed pages, original Arabic text of the Quran without translation, words for accessing the Quran in its Arabic script, a digital version of the Quran that replicates the physical Quran's feel, Quran in Arabic without any translation.\n\nPrayer times with Athan:\nThe \"Prayer Times with Athan\" is designed to help users adhere to their daily prayer schedules by providing accurate prayer times and sending Azan notifications as a remind",
+    "icon": "/icons/com.muslimramadantech.quranpro.prayertimes.png"
+  },
+  "com.nelu.salamly": {
+    "title": "Muslim: Azan Quran Qibla 2026",
+    "package": "com.nelu.salamly",
+    "description": "\u2605\u2605\u2605\u2605\u2605 Rated 5 Stars by 40+ Muslims \u2014 Trusted by the Muslim Ummah Worldwide!\n\nSalamly is your complete Islamic app with Adhan Notification, accurate Prayer Time, Quran Reader, Qibla direction & daily Duas \u2014 all in one reliable app.\n\nSupports 20+ languages. Looking for the best prayer time app or a Quran app no ads? Salamly is built for you. With Fajr Alarm, Morning and Evening Dua & a beautiful Quran Reader \u2014 Salamly covers your daily Islamic routine.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcd6 Quran Reader \u2013 Read & Listen Offline\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u2022 Read Quran in Arabic with Bangla, Urdu & English translations\n\u2022 Simple Quran Reader \u2014 clean reading experience\n\u2022 Offline Quran \u2014 read without internet anytime\n\u2022 Quran audio recitation with auto-scroll\n\u2022 Surah Yaseen, Surah Rahman & more\n\u2022 Khatam Quran tracking & word by word tran",
+    "icon": "/icons/com.nelu.salamly.png"
+  },
+  "com.muslimramadantech.holyquran": {
+    "title": "Muslim Muna Adhan Prayer Quran",
+    "package": "com.muslimramadantech.holyquran",
+    "description": "Muslim Muna a comprehensive Islamic educational app designed to enrich your understanding of faith of Allah. With features like Quranic teachings, Hadith collections, prayer times, Duas / supplications with translations, whether you\u2019re looking to deepen your knowledge, enhance your daily practices so please use this app.\n\n\ud83d\udcd6 Holy Quran & Quran Majeed:\nfull Holy Quran with audio recitations, multiple translations, open any Juz or Surah directly from index or save any ayah in bookmark or in notes & many useful features for better readability.\n\n\ud83d\udd4c Prayer Times & Salah: \nAccurate Prayer Times based on your location, complete with an auto athan alarm. This feature reminds you when it's time to pray, never miss a prayer again! Insha Allah.\n\n\ud83e\udd32 Supplications - Duas:\nDaily duas with audio recitation ",
+    "icon": "/icons/com.muslimramadantech.holyquran.png"
+  },
+  "com.islam.muslim.life360.quran": {
+    "title": "Islamic Prayer Guide Pro",
+    "package": "com.islam.muslim.life360.quran",
+    "description": "As-sal\u0101mu'alaykum. \n\nWelcome to Muslim Quran Pro \u2013 Prayer Times , Qibla Compass Direction app that connect and unite Muslims community worldwide, providing access to Holy Quran, Prayer Time (Salat Timing), Azan (athan notification) Qibla Direction, Azkar and Duas, Darood Pak Shareef, 4 Qull, Rabbani Duas, Blessing Duas, Hadiths Of Prophet Muhammad (PBUH \ufdfa)\n\nMuslim Pro Quran, Prayer Time Main Features :\n\n\u2022\tAdhan/Azan\nThe Azan, also known as Adhan, is the Islamic call to prayer that is recited five times a day all over the world by Muslims. The Azan is an integral part of Islamic tradition and serves as a reminder of the importance of prayer and worship in the daily lives of Muslims.\n\n\u2022\tPrayer Timings\nMuslim Quran Pro, Prayer time, Azan time gives  accurate prayer (namaz) times for salah (pr",
+    "icon": "/icons/com.islam.muslim.life360.quran.png"
+  },
+  "com.muslimprayer.qibladirection.quran": {
+    "title": "Muslim Prayer - Qibla - Quran",
+    "package": "com.muslimprayer.qibladirection.quran",
+    "description": "Welcome to your all-in-one guide for spiritual fulfillment \u2013 introducing our \"Muslim Prayer - Qibla - Quran\" app! \ud83d\udd4c\ud83d\udcd6\n\n\ud83d\udd4b Qibla direction: Never lose your direction again with our accurate Qibla compass, guiding you towards the sacred Kaaba no matter where you are in the world.\n\n\ud83d\udcc5 Prayer Times: Stay connected to your faith with precise prayer timings calculated based on your location, ensuring you never miss a prayer time.\n\n\ud83c\udfb7 Athan: Receive the Athan at the designated times for Fajr, Dhuhr, Asr, Maghrib, and Isha, ensuring you never miss a prayer.\n\n\ud83d\udcd6 The Holy Quran: Dive into the divine teachings of the Quran with easy access to verses, and audio recitations, enriching your spiritual journey wherever you go. The Quran translations is available in 80+ languages.\n\n\ud83c\udfa8 App Themes: Helps you dive ",
+    "icon": "/icons/com.muslimprayer.qibladirection.quran.png"
+  },
+  "org.muslimtechnician.muajjin": {
+    "title": "Muajjin - prayer times",
+    "package": "org.muslimtechnician.muajjin",
+    "description": "Overview\nMuajjin is a lightweight, privacy-friendly Islamic Salat & Saum times app built with modern web technologies and packaged as a native Android application using Capacitor.\n\nTimes are calculated locally on the device\u2014no tracking, no remote APIs required.\n\nPhilosophy\nThis app is designed with a minimal feature philosophy. The focus is intentionally narrow:\n\n\u2705 Salat times\n\u2705 Saum times (Suhoor/Iftar)\nAny additional features beyond these core functions will not be implemented. The goal is to keep the app simple, lightweight, and focused on its essential purpose.\n\nFeatures\n\ud83d\udd4c Accurate Salat time calculation based on location\n\ud83d\udccd Automatic GPS location with IP-based fallback\n\u23f0 Current Salat highlighting and next Salat countdown\n\ud83c\udf19 Suhoor and Iftar times for Saum\n\ud83d\udcc5 Hijri date display\n\ud83c\udfa8 Automat",
+    "icon": "/icons/org.muslimtechnician.muajjin.png"
+  },
+  "org.telegram.plus": {
+    "title": "Plus Messenger",
+    "package": "org.telegram.plus",
+    "description": "Plus Messenger is an unofficial messaging app that uses Telegram's API.\n\n# One of the best rated messaging apps on Play Store #\n# More than 50 million downloads #\n# Translated into more than 20 languages #\n# Many support groups in different languages #\n\nPlus Messenger adds some extra features to official Telegram app: \n\n\u2022 Separated tabs for chats: users, groups, channels, bots, favorites, unread, admin/creator.\n\u2022 Many options to cutomize tabs.\n\u2022 Multi-account (up to 10).\n\u2022 Categories. Create custom groups of chats (family, work, sports...).\n\u2022 Categories can be saved and restored.\n\u2022 Change default app folder.\n\u2022 Different sorting methods for chats.\n\u2022 Increased limit of pinned chats to 100.\n\u2022 Increased favorite stickers limit to 20.\n\u2022 Show floating notifications when users are online/writing.",
+    "icon": "/icons/org.telegram.plus.png"
+  },
+  "com.sunborn.neuralcloud.en": {
+    "title": "Neural Cloud",
+    "package": "com.sunborn.neuralcloud.en",
+    "description": "New event now available! Participate to acquire rich rewards and new Dolls!\n\n------------------------------\n\"Warning! Fatal Error: System integrity severely compromised...\"\nThis is an unprecedented threat to the existence of Dolls. In face of formidable enemies and a future filled with uncertainties, the scattered Dolls grit their teeth and steel themselves as they travel in search of the slim hope of salvation.\nHumankind may have abandoned them, but as the person in charge of \"Project Neural Cloud\", you have steadfastly set foot in this unknown land and founded the \"Exiles\" as you take in meandering Dolls. With you as their leader, the Exiles shall explore the secrets of the world, find a way out of this desperate situation, and uncover the truth...\n\n\u300cUnique and intricate characters\u300d\nNext",
+    "icon": "/icons/com.sunborn.neuralcloud.en.png"
+  },
+  "com.mvizlab.lucy.android.en": {
+    "title": "Lucy -TheEternitySheWishedFor-",
+    "package": "com.mvizlab.lucy.android.en",
+    "description": "\u25b6 Please remove external SD card if you're having trouble installing the app.\n\u25b6 If you have any inquiries please contact us at mvizlab@gmail.com\n\n\n\u25bc About this game\n\nLucy -The Eternity She Wished For- is a Visual Novel, about a boy and an android. You play as the boy, who faces decisions and moral dilemmas in this near-future world. This is a story that has touched many hearts and continues to have a strong impact on those who partake in this compelling journey.\n\n\n\n\u25bc Features\n\n\u25a0 'Overwhelmingly Positive' user reviews\n\n\u25a0 Beautiful Graphic Arts\n\n\u25a0 Heroine fully voiced in Korean and Japanese\n\n\u25a0 EXTRA epilogue scenario\n\n\n\n\u25bc Synopsis\n\nIn the near future, androids have become the way of the norm. Emotionless husks of metal have become a part of human society, much to the dismay of the boy. The r",
+    "icon": "/icons/com.mvizlab.lucy.android.en.png"
+  },
+  "com.hottagames.nte": {
+    "title": "NTE: Neverness to Everness",
+    "package": "com.hottagames.nte",
+    "description": "NTE is a supernatural open-world RPG developed by Hotta Studio. The story begins in the city of Hethereau, where you play as its first \"unlicensed\" Anomaly Hunter. You'll join the crew at Eibon, a rundown antique shop that keeps the lights on by taking Anomaly commissions from anyone willing to pay. Alongside a diverse cast of extraordinary companions, you'll unravel urban mysteries, ride out adventures full of laughs and heartbreak, and write your own stories in the neon-lit streets.\n\n\u25c6 Strange City, Strange Adventures\n\nWelcome to the first stop in your appraisal career\u2014Hethereau, a sprawling and vibrant metropolis!\n\nIn the crowded halls of the Bureau of Anomaly Control, hopeful Oddities queue up for resident permits, while over at the train station, an Esper commuter snaps his fingers to",
+    "icon": "/icons/com.hottagames.nte.png"
+  },
+  "com.YoStarEN.HBR": {
+    "title": "HeavenBurnsRed",
+    "package": "com.YoStarEN.HBR",
+    "description": "Heaven Burns Red, from the mind of Key's very own Jun Maeda, is a tale of the girls bearing humanity's last hope.\nExperience every unforgettable moment as you fight with your life on the line in this heart-pounding, tear-jerking RPG!\n\n\u25c6 ABOUT HEAVEN BURNS RED\nHeaven Burns Red is a joint effort between Jun Maeda of Key\u2014the creative genius behind masterpieces such as Air, Clannad, Little Busters!, and Angel Beats!\u2014and Wright Flyer Studios, the team behind Another Eden and Afterlost.\nMaeda's first original game in 15 years, Heaven Burns Red tells the story of the group of girls set to save humanity from destruction.\nFeaturing:\n \u30fbA fully-voiced story as presented by more than 50 Japanese voice actors\n \u30fbImmersive, visually-stunning environments\n \u30fbA simple-yet-addictive command-based combat syst",
+    "icon": "/icons/com.YoStarEN.HBR.png"
+  },
+  "kemco.waterphoenix.togetherwelive": {
+    "title": "Together We Live",
+    "package": "kemco.waterphoenix.togetherwelive",
+    "description": "This is a visual novel game without player selections.\n\nStory:\n\"\"Awakening\"\"\nKyoya awakens in a dimly lit room.\nAccording to the girl who happened to pass by, the world has perished.\nReluctant to believe, Kyoya sets off with the girl to search for other living beings,\njourneying through the ruined world together.\n\nHowever, the girl had a purpose.\n\n\"\"The Girl's Purpose\"\"\nTo atone for the sins of humanity,\nshe must continue to die.\nAgain and again, dozens of times, hundreds of times, thousands of times, tens of thousands of times.\n\nShe dies and then comes back to life.\nAs he watches her, who knows only suffering,\nKyoya starts to desire to teach her about happiness.\n\n[IMPORTANT NOTICE]\nYour use of the application requires your agreement to the following EULA and 'Privacy Policy and Notice'. I",
+    "icon": "/icons/kemco.waterphoenix.togetherwelive.png"
+  },
+  "uy.com.adinet.adinettv": {
+    "title": "AntelTV",
+    "package": "uy.com.adinet.adinettv",
+    "description": "Plataforma audiovisual con una variada oferta de se\u00f1ales nacionales e internacionales, transmisiones de eventos en vivo, c\u00e1maras exclusivas ubicadas en distintos puntos del pa\u00eds y mucho m\u00e1s. Contiene una variada oferta de pel\u00edculas y series para todo p\u00fablico, que pueden contratarse mediante diferentes suscripciones mensuales, as\u00ed como contenidos premium para alquilar de forma espec\u00edfica.",
+    "icon": "/icons/uy.com.adinet.adinettv.png"
+  },
+  "com.net.proxy.vpn.client": {
+    "title": "Free VPN Client - NetProxy",
+    "package": "com.net.proxy.vpn.client",
+    "description": "NetProxy - 100% Free VPN Client!\n\nNetProxy, the free, secure, and reliable VPN Client service, is now available on Google Play!\n\nWhat is a VPN Client?\nNetProxy is NOT a VPN provider; it is a client application designed to connect to any existing personal VPN configuration. With NetProxy, you can securely connect to the VPN provider of your choice by uploading a configuration file. Net Proxy creates a safe and encrypted tunnel for your data, ensuring your online activities remain private and protected from unauthorised access.\n\n How to Use NetProxy Free VPN Client\n1. Download the VPN Client app for your device: Get the Net Proxy app from Google Play and install it on your device.\n2. Upload the configuration to your VPN Client: Use the configuration file provided by your VPN service provider",
+    "icon": "/icons/com.net.proxy.vpn.client.png"
+  },
+  "com.fanjv.netproxy": {
+    "title": "NetProxy",
+    "package": "com.fanjv.netproxy",
+    "description": "An Android proxy tool based on the Xray kernel, supporting one-click start/stop of transparent proxy, suitable for Android devices.",
+    "icon": "/icons/com.fanjv.netproxy.png"
+  },
+  "com.smart.net.secure": {
+    "title": "NET SECURE - Smooth Proxy",
+    "package": "com.smart.net.secure",
+    "description": "Net Secure is a VPN proxy, offering you a secure VPN connection and stable VPN servers. Download Net Secure now to enjoy private and safe internet.\n\nInstall Net Secure now:\n\n\u2714Smooth connection by Net Secure\nNet Secure protects your network under WiFi hotspot or any network condition. You can browse securely without being tracked. Military-grade AES 128-bit encryption to secure WiFi hotspot. IPsec protocols and OpenVPN protocols(UDP / TCP) to secure your online surfing. Secure your internet connection and guard your sensitive data wherever you are.\n\nOne tap to connect to a VPN proxy server. Net Secure works with WiFi, LTE, 3G, and all mobile data carriers.\n\nAs an Net Secure user you will enjoy\n*Smooth and secure internet\n*Military-grade encryption\n\nDownload the secure Net Secure! Secure you",
+    "icon": "/icons/com.smart.net.secure.png"
+  },
+  "com.superking.ludo.star": {
+    "title": "Ludo STAR: Online Dice Game",
+    "package": "com.superking.ludo.star",
+    "description": "Our multiplayer board game is better and smarter than ever before!  Connect with friends and challenge them to one of the oldest, most popular dice games in the world. Play multiple games online at the same time, track your moves and improve your stats.\nShow off your dice rolling skills as you search for the highest score in our beloved classic board game.\n\n\ud83d\udccbFEATURES:\n\n\ud83c\udfafCHALLENGE YOUR FRIENDS\ud83c\udfaf\n\ud83c\udfb2 The multiplayer board game showdown starts here. Keep up your brain training by challenging your friends and family members who love the thrill of this classic dice game, or use random match to find your perfect opponent. Prove you have what it takes to become the ludo king or queen in this entertaining board game.\n\n\ud83c\udfafCOMPLETE GOALS AND GET REWARDED\ud83c\udfaf\n\ud83c\udfb2 Roll the perfect dice to complete levels and un",
+    "icon": "/icons/com.superking.ludo.star.png"
+  },
+  "com.blacklightsw.ludo": {
+    "title": "Ludo Superstar - Fun Game",
+    "package": "com.blacklightsw.ludo",
+    "description": "Ludo SuperStar offers an ultimate online Ludo Game experience, bringing the classic Ludo board game to new heights. Challenge your friends and family in exciting dice game matches and become the ultimate Ludo King. \n\n\ud83d\udc49 Game Features:\n\n\u2726 Live Match : Experience the thrill of live matches with global players - anytime, anywhere!\n\u2726 Voice Chat : Enjoy Free voice chat feature with Friends. \n\u2726 Multiplayer Fun: Connect with friends and family and enjoy real-time Ludo game matches.\n\u2726 Customise your gaming experience with premium Assets and change the look and feel of the game.\n\u2726 Explore various game modes: Classic, Fast, Team, and more!\n\u2726 Social Connectivity: Link your Facebook account to play across multiple devices effortlessly and save your game progress and levels.\n\u2726 Data-Friendly: Optimised f",
+    "icon": "/icons/com.blacklightsw.ludo.png"
+  },
+  "com.ludo.king.tv": {
+    "title": "Ludo King\u00ae TV",
+    "package": "com.ludo.king.tv",
+    "description": "*THIS IS OFFICIAL LUDO KING\u2122 GAME for Android TV.\n\nLudo King\u2122 is a classic board game played between friends and family. Play the royal game of kings! Recall your childhood!\n\nLudo King is a cross platform multiplayer game that supports Desktop, Android, Android TV, iOS and Windows mobile platform at same time. This game also support offline mode, where player can play with Computer or, Local multiplayer (play and pass mode). Ludo King is also a favorite game of Bollywood superstar.\n\nWhat's new:\n* Auto move system (No cheating allowed now!)\n* Make buddies worldwide\n* Challenge buddies\n* Improved online connectivity\n* Save/Load Ludo game option\n* Player statistics with XP and level up system\n* More user-friendly UI\n* Bug fixes & improvements\n\nLudo King is the modern version of the royal game",
+    "icon": "/icons/com.ludo.king.tv.png"
+  },
+  "com.moonfrog.ludo.club": {
+    "title": "Ludo Club - Fun Dice Game",
+    "package": "com.moonfrog.ludo.club",
+    "description": "Play Ludo online with friends and be a star - play LUDO CLUB!\n\nThis is the online multiplayer version of the epic hit board game Ludo! Join an exclusive club of star players in this premium dice game - be the best player, climb the ladders, collect all the special dice and become the KING OF LUDO!\n\nLearn how to move your red, yellow, green or blue pieces with strategy and luck on best looking games board. Be the king of Ludo and become a star! Compete against other players and reach the top of the leaderboard! This is a fun game, a quick game, and a dice based board game that you can download and install for hours of fun and enjoyment!\n\nLudo Club has several exciting features. You can play this dice game with friends and family by sending Facebook and Whatsapp invites. Ludo CLub uses very ",
+    "icon": "/icons/com.moonfrog.ludo.club.png"
+  },
+  "com.Beauchamp.Messenger.external": {
+    "title": "Chai: Chat AI Platform",
+    "package": "com.Beauchamp.Messenger.external",
+    "description": "Our app revolutionizes the way we interact with AI chatbots. With our advanced technology, our chatbots think and reply like real characters, complete with authentic voices. You can choose from a massive selection of characters, each with their own unique voice and personality. Whether you're chatting with your favorite celebrity, a beloved character from a movie or TV show, or a historical figure, you'll feel like you're talking to a real person.\n\n\nCharacter creation - Character creation now open to everyone! Ignite your imagination and bring any character to life here, whether they exist in reality or flourish in the realm of imagination! Unleash your creativity and craft a character that can be kept entirely private or shared for everyone to engage with. But the excitement doesn't end t",
+    "icon": "/icons/com.Beauchamp.Messenger.external.png"
+  },
+  "pl.orange.boxlesstv": {
+    "title": "Orange TV",
+    "package": "pl.orange.boxlesstv",
+    "description": "Application for Orange TV customers"
+  },
+  "com.hornet.android": {
+    "title": "Hornet - Gay Dating & Chat",
+    "package": "com.hornet.android",
+    "description": "Hornet is a free gay dating app trusted by over 100 million gay, bi, trans, and queer men worldwide. Built for real connections, Hornet lets you chat, meet, and express yourself with guys who share your interests - whether you\u2019re looking for dating, new friends, meaningful conversations, or a casual hookup. \n\nLooking for a date with a hot gay guy? Want to chat with someone nearby? Searching for friends, love or just living in the moment? Hornet makes it easier to connect with gay men who want the same.\n\nDesigned with authenticity, safety, and self-expression at its core, Hornet gives you a welcoming space to connect with your local gay community anytime, anywhere.\n\n\ud83c\udf0d FIND GUYS NEARBY OR EXPLORE THE WORLD\n\u2713 See who\u2019s online nearby with Hornet\u2019s guys grid\n\u2713 Explore and connect with gay, bi, ",
+    "icon": "/icons/com.hornet.android.webp"
+  },
+  "com.blued.international.qy": {
+    "title": "Walla: Live & Social",
+    "package": "com.blued.international.qy",
+    "description": "Step into the vibrant world of Walla, the pinnacle of modern gay social and dating platforms, combining the best of live streaming, voice chat, and gay matchmaking into an inclusive environment.  Whether you're seeking an engaging chat, an instant match with someone who understands you, or a lively broadcast from across the globe, Walla stands out as your ultimate choice.\n\n\ud83c\udf08 Elevate Your Gay Social Experience with Walla \ud83c\udf08\nWalla, the ultimate evolution in gay social and dating apps, seamlessly integrates the essence of Romeo, Growlr, Taimi, Hornet, Bleu, and Scruff with cutting-edge features like live streaming, voice chat, engaging gay chats, and precision gay matchmaking.\n\nA Fusion of Voice Chat, Live Streaming, and Gay Matchmaking:\n\ud83c\udfa4 Voice Chat Revolution: Beyond the chat functionalities"
+  },
+  "Jp.naver.line.android": {
+    "title": "Jp.naver.line.android",
+    "package": "Jp.naver.line.android"
+  },
+  "com.linecorp.lineoa": {
+    "title": "LINE Official Account",
+    "package": "com.linecorp.lineoa",
+    "description": "\u25c6LINE Official Account\n- Use business account to communicate with clients via broadcast messages, chat, and Timeline posts. \n- Any LINE users can create an account for free. \n\n\u25c6Communication \n- Send messages to all LINE users who added Official Account as friend. \n- Use chat with clients and Auto Reply when you're unavailable. \n- You can post on Official Account Timeline. \n- Account page is provided to promote detailed business info.\n\n\u25c6Other features\n- You can specify a Sub Admin for management. \n- Statistics is provided.",
+    "icon": "/icons/com.linecorp.lineoa.png"
+  },
+  "jp.naver.line.android": {
+    "title": "LINE: Calls & Messages",
+    "package": "jp.naver.line.android",
+    "description": "LINE is transforming the way people communicate, closing the distance between family, friends, and loved ones\u2014for free. With voice and video calls, messages, and a limitless variety of exciting stickers, you\u2019ll be able to express yourself in ways that you never thought possible. Available all around the world on mobile, desktop, and Wear OS, the LINE platform continues to grow, always offering new services and features that make your life more fun and convenient.\n\n\u25c6 Messages, Voice calls, Video calls\nEnjoy voice and video calls and exchanging messages with your LINE friends.\n\n\u25c6 LINE stickers, emojis, and themes\nExpress yourself just the way you want with stickers and emojis. Also, find your favorite themes to customize your LINE app.\n\n\u25c6 Home\nGives you easy access to your friends list, birt",
+    "icon": "/icons/jp.naver.line.android.png"
+  },
+  "com.linecorp.usersticker": {
+    "title": "LINE Sticker Maker",
+    "package": "com.linecorp.usersticker",
+    "description": "LINE Sticker Maker is a free app from LINE that allows you to turn your pics and videos into LINE stickers.\n\nTurn your lovely pets, friends' funny faces, or kids' smiles into LINE stickers! These personalized stickers are a great way to add some fun to your chats with friends and family.\n\n\nWhat's possible with LINE Sticker Maker\n- Create your own original LINE stickers from photos and videos taken with your camera.\n- Customize your stickers for free with cropping, text additions, adorable frames and decals, and more.\n- Get the stickers you create reviewed and released all from within the app.\n- Sell your stickers on LINE STORE or the in-app Sticker Shop and you can receive revenue shares on your sales. Stickers that don't go on sale can only be downloaded for free by the creator.\n- By chan",
+    "icon": "/icons/com.linecorp.usersticker.png"
+  },
+  "com.linecorp.LGRGS": {
+    "title": "LINE Rangers: Brown-Cony Wars!",
+    "package": "com.linecorp.LGRGS",
+    "description": "In order to bring back Sally from the Alien army who took her, Brown, Cony, Moon, James, and all the other LINE characters transform into Rangers and set out on an adventure to rescue her!\n\nMore than 400 characters you know and love such as Brown and Cony appear in unique outfits!\nMake your very own team and beat oncoming enemies with simple taps!\n\n\u25c6 Battle\nTap and dispatch Rangers such as Brown, Cony, Moon, and James from your Tower and reduce the enemy Tower to 0 HP to rescue Sally!\nMake full use of Skills and Items by simply tapping them to get an advantage in battles!\nThis tower defense RPG game is easy to play, so anyone can join in and have fun!\n\n\u25c6 PVP Battle\nLINE Rangers also has PVP! Battle with other players and rise to the top of various leagues!\nDeploy your favorite Rangers in i",
+    "icon": "/icons/com.linecorp.LGRGS.png"
+  },
+  "com.axs.android": {
+    "title": "AXS Tickets",
+    "package": "com.axs.android",
+    "description": "Tap for tickets to see the artists and teams you love. With the AXS app, you can find great events near you, buy 100% official tickets, sell your seats if you can\u2019t go, and more. It\u2019s all a fan needs, all in one app.\n \nBUY THE PERFECT TICKETS\nFront row or on the aisle? Pick your exact seats on interactive maps, get more ticket options with AXS Official Resale, and go in style with AXS Premium or VIP offers.\n \nEASILY SELL YOUR TICKETS\nPlans can change. If you have seats from AXS but can\u2019t make it, quickly list the tickets for sale from your account and reach tons of potential buyers.\n \nUSE TICKETS WITH THE APP\nNo paper required. Just pull up your tickets in the AXS app, get them scanned at the gate, and head into your event.\n \nTRANSFER TO FRIENDS\nIt\u2019s super easy. Stop hand-delivering ticket",
+    "icon": "/icons/com.axs.android.webp"
+  },
+  "com.axis.mobile": {
+    "title": "Axis Mobile: Pay, Invest & UPI",
+    "package": "com.axis.mobile",
+    "description": "Open by Axis Bank is a safe, secure and user friendly mobile banking application with 250+ cutting edge features and services satisfying more than just your regular banking queries.\n\nOnline Digital Savings Account\n\nNow open a savings account online at your convenience! The latest version of open by Axis Bank allows you to get your digital savings account up and running from anywhere, with services such as video based KYC that can be set up at your convenience. You will also be instantly issued a Virtual Debit Card linked to your Digital Savings Account!\nWhat\u2019s more, you can enjoy various offers on your Digital Savings Account with Grab Deals, Axis Bank\u2019s shopping portal.\n\nBanking Transactions Simplified\n\nBanking needs are often subjective to individuals, some prefer to get a comprehensive ",
+    "icon": "/icons/com.axis.mobile.webp"
+  },
+  "com.axisdirect.invest": {
+    "title": "Axis Direct Investor",
+    "package": "com.axisdirect.invest",
+    "description": "Ready to simplify your investment journey? \ud83d\ude80 The Axis Direct Investor App is designed for modern investors who value ease, efficiency, and growth. With just one click or one swipe, you\u2019re one step ahead in managing your wealth. \ud83d\udcbc\u2728\n\nWhy Choose Axis Direct?\nOur app streamlines investing, allowing you to stay focused on long-term growth. \ud83d\udcc8 Whether you\u2019re checking your portfolio, exploring new opportunities, or following expert recommendations, we\u2019ve created a simple, intuitive experience that aligns with your goals. \ud83c\udfaf\n\nKey Features:\n\n\ud83c\udf1f Invest with One Click, One Swipe: From placing orders to tracking your portfolio, everything is just a click or swipe away.\n\ud83c\udf1f Stay One Step Ahead: Access expert research and recommendations tailored to long-term growth, helping you make confident, informed deci",
+    "icon": "/icons/com.axisdirect.invest.png"
+  },
+  "com.axis.acs": {
+    "title": "AXIS Camera Station Pro & 5",
+    "package": "com.axis.acs",
+    "description": "Mobile app for AXIS Camera Station Pro & 5 - Powerful and flexible video management and access control.\n\nMain features:\n\u2022 Mobile access to multiple systems\n\u2022 Quickly find and view recorded events with timeline visualization\n\u2022 Export of recordings\n\u2022 Notifications to take immediate actions\n\u2022 Live view with selectable streaming profiles\n\u2022 Two-way audio from camera in live view\n\u2022 Respond to calls from Axis network intercoms\n\u2022 Support for action buttons to play pre-recorded audio messages, control I/O, etc.\n\u2022 Mechanical and digital PTZ pre-sets for fast navigation\n\u2022 360 camera dewarping\n\u2022 Custom views with support for camera, split and folder views\n\u2022 Scheduling of notifications from local and port-mapped systems\n\nSetup:\nRequires AXIS Camera Station version 5.38 or later.\nSetup information at ww",
+    "icon": "/icons/com.axis.acs.png"
+  },
+  "com.axis.login": {
+    "title": "Axis Direct Trader",
+    "package": "com.axis.login",
+    "description": "Welcome to Axis Direct \u2013 your trusted digital companion for seamless trading and investing. Dive into a user-friendly app meticulously crafted for both novice and seasoned traders, offering a plethora of robust features to elevate your trading experience. \ud83d\udcc8\ud83d\udcbc\n\nUnlock a World of Investment Opportunities: Discover a diverse range of investment options including Stocks, ETFs, SGBs, SIPs, and Mutual Funds. Join millions on the Axis Direct app, effortlessly tracking market investments and staying updated on real-time values of Stocks, F&O positions, and Currencies. \ud83d\udcb0\ud83d\udcca\n\nKey Features for Smart Trading:\n\nSeamless Investing: Trade effortlessly across Stocks, ETFs, SGBs, SIPs, and Mutual Funds.\nGTD (Good Till Date): Streamline your orders with hassle-free scheduling.\nDiverse Trading Options: Seamless",
+    "icon": "/icons/com.axis.login.png"
+  },
+  "com.android.google.dialer": {
+    "title": "com.android.google.dialer",
+    "package": "com.android.google.dialer"
+  },
+  "com.zap.surveys": {
+    "title": "Zap Surveys: Earn Easy Rewards",
+    "package": "com.zap.surveys",
+    "description": "\ud83e\udd11 Share your opinion and get paid cash today \ud83e\udd11\n\nCompanies all over the world need advice, and we will pay you to share your thoughts through easy, daily surveys! Download Zap Surveys today and earn $2.00 on your first survey!\n\n\u2b50 Over $51,670,187 rewarded to Zap Surveys members \u2b50\n\nNew surveys with cash rewards are available every day. Our paid surveys allow you to contribute and share your opinion with companies looking for feedback. Each survey you take rewards you with real cash. Get rewarded once you reach an account balance of $10.00. We offer multiple cash out options including gift cards with PayPal, Visa, Amazon, Starbucks and others. Join our community of Zappers and start earning money online today!\n\n\ud83e\udd11 Invite your friends and earn more together \ud83e\udd11\n\nEarn more by inviting your friends",
+    "icon": "/icons/com.zap.surveys.png"
+  },
+  "com.prodege.swagbucksmobile": {
+    "title": "Swagbucks Play Games + Surveys",
+    "package": "com.prodege.swagbucksmobile",
+    "description": "Swagbucks is the place to get paid for your opinion. Take thousands of paid surveys for money on the go, wherever you are. Choose ideal survey length and reward amount from hundreds of available opportunities on your schedule. Make a difference with your opinion with paid surveys. Whether you're reviewing upcoming super bowl ads, sharing political beliefs, testing new products, being a mystery shopper or helping a company decide on a new slogan, your opinion is worth something on the Swagbucks App. Join Swagbucks Now for free and get a $10 Welcome Bonus**\n\nTAKE PAID SURVEYS\nSwagbucks is the place for paid surveys with easy, fun quizzes and great payouts on every survey completed. The Swagbucks App allows you to get paid for giving your opinion and make money on the go or at home with your ",
+    "icon": "/icons/com.prodege.swagbucksmobile.jpg"
+  },
+  "com.google.android.apps.paidtasks": {
+    "title": "Google Opinion Rewards",
+    "package": "com.google.android.apps.paidtasks",
+    "description": "Answer quick surveys and earn Google Play credit with Google Opinion Rewards, an app created by the Google Surveys team.\n\nGetting started is easy. Download the app and answer basic questions about yourself. We'll then send you surveys around once a week, although it may be more or less frequent. You'll get a notification on your phone when a short and relevant survey is ready for you, and can receive up to $1.00 in Play credit for completing it. Questions can range from, \"Which logo is best?\" and \"Which promotion is most compelling?\" to \"When do you plan on traveling next?\"",
+    "icon": "/icons/com.google.android.apps.paidtasks.png"
+  },
+  "com.pogotech.pogocash": {
+    "title": "Pogo: Earn Cash & Rewards",
+    "package": "com.pogotech.pogocash",
+    "description": "Play rewarded games, scan receipts, and fill out surveys to unlock cash rewards and savings effortlessly. Transform everyday actions into earning real money with Pogo.\n\nCASH BACK ON EVERYTHING\n\u25a0 Earn Cash Back Rewards: Connect your bank account and start earning cash back on everything you buy, including groceries, gas, rent, and more. Get even more cash rewards on purchases from Amazon, Target, Walmart, UberEats, and all your favorite brands. Love using coupons? You\u2019ll love Pogo\u2014it\u2019s a brand-new way to make money on top of the coupons you\u2019re already using.\n\nSCAN AND EARN MONEY\n\u25a0 Receipt Rewards: Turn your receipts into instant cashback using our simple receipt scanner. Every purchase becomes more rewarding with extra rewards.\n\nPLAY GAMES FOR CASH\n\u25a0 Play to Earn: Play mobile games where le",
+    "icon": "/icons/com.pogotech.pogocash.webp"
+  },
+  "com.theoremreach.wizardbucks": {
+    "title": "Playful Rewards: Play & Earn",
+    "package": "com.theoremreach.wizardbucks",
+    "description": "Introducing the Playful Way to Earn Gift Cards!\n\nWith Playful Rewards, you can download and play a variety of fun games and earn gift cards. It's that easy. \n\nWhy You'll Love Our App:\n\n\ud83c\udfae Endless Fun: Choose from a wide selection of fan-favorite games that you'll love.\n\n\ud83d\udcb0 Earn Real Rewards: As you play, you'll earn coins that can be redeemed for gift cards. \n\n\ud83d\udcc8 Track Your Progress: Easily monitor your earnings and see how close you are to your next reward. \n\n\ud83c\udf1f User-Friendly Interface: Our app is designed with you in mind. You can start playing and earning in no time.\n\nHow It Works:\n\n1. Download the App\n2. Play Fun Games\n3. Earn Coins\n4. Redeem for Gift Cards\n\nDon't miss out on this exciting opportunity to play games and earn real rewards. Download now and start earning today!",
+    "icon": "/icons/com.theoremreach.wizardbucks.png"
   }
 }
