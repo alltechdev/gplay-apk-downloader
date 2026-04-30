@@ -27139,5 +27139,651 @@
     "package": "com.goodnotes.android.app",
     "description": "Goodnotes \u2013 Take Notes, Organize Docs, and Boost Productivity. \nGoodnotes is a powerful note taking app designed to help you capture ideas, organize your notes, and manage your docs and documents across Android, Windows, Chromebooks. Whether you\u2019re in class, at work, or planning your day, Goodnotes gives you all the tools you need to create, edit, and organize your notes and docs in one place for seamless note taking and document management.\n\n\ud83c\udfc6 Awarded Google Play Best of 2025 \u2014 Best App for Large Screens.\n\nNow with Goodnotes AI: Type, think, and ship faster.\n\u25aa Summarize, rewrite, and edit your notes with tone suggestions and smart corrections\n\u25aa Create first drafts in seconds instead of starting from scratch\n\u25aa Ask questions about your notes and get instant insights\n\nOrganize Notes, Docs, a",
     "icon": "/icons/com.goodnotes.android.app.webp"
+  },
+  "video.mojo": {
+    "title": "Mojo: Reels and Video Captions",
+    "package": "video.mojo",
+    "description": "Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\n\nTo use Mojo, simply download the app and start exploring one of our 700+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\n\nWhile editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending so",
+    "icon": "/icons/video.mojo.jpg"
+  },
+  "com.copilot.app.release": {
+    "title": "CoPilot shop/buy/sell used car",
+    "package": "com.copilot.app.release",
+    "description": "Shop with confidence with CoPilot\u2019s AI-Assisted car shopping app for new and used cars, trucks, minivans, SUVs, EVs & hybrids. CoPilot searches every car at every dealer, every day, pulls together all the information in one place, analyzes every car in seconds, and ranks them based on what matters to you.\n\nCar shopping can be overwhelming, but AI is a game changer. Let CoPilot AI do the hard work to find you the best car AND the best price. CoPilot is always on your side, and always 100% free.\n\nBuy with Confidence, with AI-Assisted Car Shopping\n- Never miss out on the best car\n- Never overpay\n- Never get taken advantage of\n\nAs featured in Bloomberg, CNN, CNBC, MarketWatch, NPR, New York Times, Forbes, TechCrunch, and Newsweek.\n\nHow Does CoPilot AI Assist?\n- All in one place: searches virtu",
+    "icon": "/icons/com.copilot.app.release.png"
+  },
+  "com.microsoft.dragoncopilot": {
+    "title": "Microsoft Dragon Copilot",
+    "package": "com.microsoft.dragoncopilot",
+    "description": "Microsoft Dragon Copilot,\u00a0your AI\u00a0clinical\u00a0assistant,\u00a0brings together the trusted voice dictation capabilities of Dragon Medical One and ambient listening capabilities of DAX Copilot with fine-tuned generative AI and healthcare-adapted safeguards. This unified experience integrates with EHRs and supports clinicians across all stages of their workflow. Part of\u00a0Microsoft for Healthcare,\u00a0it\u2019s\u00a0an extensible\u00a0AI workspace\u00a0that\u2019s\u00a0built on a secure\u00a0modern architecture and helps promote clinician wellbeing,\u00a0increased\u00a0efficiency\u00a0and\u00a0enhanced\u00a0patient experiences\u00a0that\u00a0drive meaningful\u00a0financial impact.",
+    "icon": "/icons/com.microsoft.dragoncopilot.png"
+  },
+  "com.zing.learn": {
+    "title": "Zing Learn",
+    "package": "com.zing.learn",
+    "description": "Zing learning management system is a software application for the administration, documentation, tracking, reporting, and delivery of educational courses, training programs, or learning and development programs. The learning management system concept emerged directly from e-Learning.",
+    "icon": "/icons/com.zing.learn.png"
+  },
+  "com.hornblower.poseidonferry": {
+    "title": "Poseidon Ferry",
+    "package": "com.hornblower.poseidonferry",
+    "description": "Poseidon Ferry offers commute, adventure, and fun on the water in Miami. Affordable, convenient, and upscale waterborne transportation.\n\nPoseidon Ferry's non-guided sightseeing cruise offers guests a truly unique way to see Miami!\n\nWhile underway, guests will see the Miami River, Intercontinental Hotel Running Man, Bayfront Park, Bayside Marketplace, Miami Skyline, Port of Miami, Fisher Island, and the Miami Beach Skyline.\n\nBasic, VIP drink, and VIP dinner packages are available. Please contact customer service for more info.",
+    "icon": "/icons/com.hornblower.poseidonferry.png"
+  },
+  "co.bytemark.nycf": {
+    "title": "NYC Ferry",
+    "package": "co.bytemark.nycf",
+    "description": "Commuting made comfortable with NYC Ferry. Come see just how easy (and enjoyable) your journey can be.\n\u00a0\nHere are 5 great things you can expect from the NYC Ferry app:\n* \u00a0\u00a0\u00a0Help NYC \u201cgo green\u201d with paperless ticketing! Buy and use tickets directly from your phone.\n* \u00a0\u00a0\u00a0Take the stress out of your commute with live scheduling and real-time updates.\n* \u00a0\u00a0\u00a0Get ready for an adventure! Explore NYC with our end-to-end trip planner.\n* \u00a0\u00a0\u00a0Stay ahead of the game with push notifications for the routes that matter to YOU.\n* \u00a0\u00a0\u00a0Love to ride? Take advantage of our 30-day Unlimited Pass! Available in-app only.\n\u00a0\nNYC Ferry (operated by Hornblower) proudly serves New Yorkers in Manhattan, Brooklyn, Queens and The Bronx along the East River. Our state-of-the-art vessels offer you a better commuting experien",
+    "icon": "/icons/co.bytemark.nycf.jpg"
+  },
+  "com.hornblower.guemes": {
+    "title": "Guemes Island Ferry",
+    "package": "com.hornblower.guemes",
+    "description": "Discover the ease of navigating Skagit County's picturesque waterways with the Skagit County Ferry app! Whether you're a local commuter or a visitor exploring the stunning Puget Sound region, this app is your ultimate companion for hassle-free ferry travel.\n\nKey Features:\n\n1. Plan Your Journey: Seamlessly browse ferry schedules to plan your trips with precision. With real-time updates, you'll always stay informed about departure times, route changes, and any service alerts.\n\n2. Purchase Tickets: Skip the lines and purchase ferry tickets directly from your phone. With secure payment options, booking your ride is now easier than ever. Simply select your desired route, choose your ticket type, and you're ready to sail!\n\n3. Route Information: Explore detailed information about each ferry route",
+    "icon": "/icons/com.hornblower.guemes.jpg"
+  },
+  "com.hornblower.baldheadisland": {
+    "title": "Bald Head Island Ferry",
+    "package": "com.hornblower.baldheadisland",
+    "description": "We hope you find this app useful for making tram reservations, viewing ferry schedules, checking the ferry on-time status and getting information about arriving and departing Bald Head Island, to help make your trip smooth and enjoyable.\nOn February 25, 2022, Bald Head Island Transportation, Inc. (BHIT) provided initial public notification as required by law of a change in checked-baggage policies ordered by the North Carolina Utilities Commission (NCUC). The NCUC order becomes effective April 1, 2022. However, please note that well in advance of formal implementation of the new baggage policies and prior to strict enforcement, BHIT will communicate any process changes affecting passengers. During the 2022-2023 timeframe, BHIT anticipates implementing numerous process changes necessary to ",
+    "icon": "/icons/com.hornblower.baldheadisland.jpg"
+  },
+  "com.truecourse.FerryFriend": {
+    "title": "FerryFriend",
+    "package": "com.truecourse.FerryFriend",
+    "description": "FerryFriend is the ultimate tool for ferry riders in the Puget Sound! Includes schedules and so much more for Washington State Ferries, Kitsap Transit Fast Ferries, and King County Water Taxi.\n\nFeatures:\n\n\u2022 Real-time delay predictions and demand forecasts so you know when sailings will be delayed and how full they'll be.\n\u2022 Sailing notifications for delays, departures, arrivals, loading, and reservation availability.\n\u2022 Cached schedules available offline \u2014 even when the WSF servers are down.\n\u2022 Inline reservation availability with quick booking from the app.\n\u2022 Drive-up space availability with historical filling trends.\n\u2022 Live vessel map with detailed status, departure/arrival times, and vessel specs.\n\u2022 Ferry line cameras on a map so you can check the line before you arrive.\n\u2022 Travel alerts wi",
+    "icon": "/icons/com.truecourse.FerryFriend.png"
+  },
+  "com.payfare.lyft": {
+    "title": "Lyft Direct powered by Payfare",
+    "package": "com.payfare.lyft",
+    "description": "Grow the money you earn on Lyft with cashback and other perks\n\nDesigned exclusively for drivers on the Lyft platform, the Lyft Direct app gives you access to financial tools that help you manage your money.\n\nInstant Payouts: Get your earnings immediately after each ride directly into a business bank account.\n\nEarn cash back: Receive 1-10% cash back on gas when you pay at the pump, 1-12% on public EV charging and additional rewards on groceries, dining, and more.\n\nWellness Perks by Avibra: Active drivers unlock free life and accident insurance, support for your well-being, and more.\n\nGrow Your Savings: Set up automatic savings with a high-yield savings account that earns you interest.*\n\nBalance Protection: Eligible drivers can access $50-$200 to cover unexpected expenses when you need it mo",
+    "icon": "/icons/com.payfare.lyft.png"
+  },
+  "ru.andr7e.deviceinfohw": {
+    "title": "Device Info HW",
+    "package": "ru.andr7e.deviceinfohw",
+    "description": "Device Info HW is a hardware and software information app for Android devices.\n\nApp trying detect components of your smartphone to provide complete information about device's hardware.\nNow detection is supported for lcd, touchscreen, cameras, sensors, memory, flash, audio, nfc, charger, wi-fi and battery; if that possible for your device.\n\nI think app is interesting and useful for users and developers who build kernels or android.\n\nApp has a quick navigation, fresh design. Also supports dark, black theme (in PRO version or 2 week in free)\nYou can switch by tab or use navigation panel. Many items are clickable and you can go to another tab or menu.\n\nOn recent devices reading some information is blocked.\nApp trying provide maximum information as possible. If you have root, app can read more ",
+    "icon": "/icons/ru.andr7e.deviceinfohw.png"
+  },
+  "com.javiersantos.mlmanagerpro": {
+    "title": "ML Manager Pro: APK Extractor",
+    "package": "com.javiersantos.mlmanagerpro",
+    "description": "ML Manager Pro is a customizable APK manager for Android with Root access: extract any installed app, mark them as favorites, easily share .apk files and much more.\n\nMeet the easiest app manager and extractor with Material Design on Android.\n\nFeatures:\n\u2022 Extract any installed & system apps and save them as APK.\n\u2022 Batch mode to extract multiple APKs at the same time.\n\u2022 Share any APK with other apps: Telegram, Dropbox, Email, etc.\n\u2022 Organize your apps by marking them as favorites for easier access.\n\u2022 Upload your latest APKs to APKMirror.\n\u2022 Uninstall any installed app.\n\u2022 Customizations available in settings, including a dark mode, custom main colors and more.\n\u2022 No root access required.\n\nNeed more features? Check out the Pro version with root access:\n\u2022 Uninstall system apps. - Requires Root -\n",
+    "icon": "/icons/com.javiersantos.mlmanagerpro.png"
+  },
+  "com.jiaqifeng.hacki": {
+    "title": "Hacki for Hacker News",
+    "package": "com.jiaqifeng.hacki",
+    "description": "Features:\n- Hacker News account login\n- Favorites sync\n- Hacker News Search\n- In-thread search\n- Ancestor lookup so you don't have to scroll back up to regain context\n- In-thread notification for new comments since your last visit\n- In-app notification for new replies to your comments or stories\n- Offline mode\n- Favorites import and export\n- Open Hacker News link in Hacki via system share dialog\n- Share story or comment as image\n- Reply, vote, filter, block\n- Polls\n- True dark mode\n- Tablet support\n- Accent color and font customization\n- And more...",
+    "icon": "/icons/com.jiaqifeng.hacki.png"
+  },
+  "com.pranapps.hack": {
+    "title": "HACK for Hacker News Tech",
+    "package": "com.pranapps.hack",
+    "icon": "/icons/com.pranapps.hack.png"
+  },
+  "com.TheLonelyDeveloper.TheLonelyHacker": {
+    "title": "The Lonely Hacker",
+    "package": "com.TheLonelyDeveloper.TheLonelyHacker",
+    "icon": "/icons/com.TheLonelyDeveloper.TheLonelyHacker.png"
+  },
+  "com.tricksterarts.hackers": {
+    "title": "Hackers",
+    "package": "com.tricksterarts.hackers",
+    "icon": "/icons/com.tricksterarts.hackers.png"
+  },
+  "com.berranova.hacklens": {
+    "title": "HackLens \u2013 Hacker News Reader",
+    "package": "com.berranova.hacklens",
+    "description": "HackLens is a modern and efficient way to browse, read, and follow Hacker News on mobile.\nEnjoy a clean, modern, and fast interface built for reading and discovering the latest in tech.\n\nKey Features:\n\n\ud83c\udfa8 Clean and modern UI\n\n\ud83e\udd16 Read full stories or generate AI-powered summaries\n\n\ud83d\udd25 View trending stories from the last 1h, 6h, or 24h\n\n\ud83d\udd16 Bookmark stories to read later\n\n\ud83c\udf13 Appearance settings: light/dark mode + adjustable font size\n\n\ud83e\udde9 Follow topics you care about\n\n\ud83d\udd14 Get notifications when your topics have new stories\n\n\u2601\ufe0f Sync bookmarks, topics, and appearance settings across devices\n\nWhether you're a developer, creator, designer, or tech enthusiast, HackLens keeps you updated with the stories that matter.\n\nA better way to explore Hacker News \u2014 wherever you are.",
+    "icon": "/icons/com.berranova.hacklens.png"
+  },
+  "com.mercantec.mercanteckollegieapp": {
+    "title": "Mercantec Kollegie App",
+    "package": "com.mercantec.mercanteckollegieapp",
+    "description": "Keep up to date with what is happening at the college, you can see events and news."
+  },
+  "com.hualai": {
+    "title": "Wyze - Never Wonder",
+    "package": "com.hualai",
+    "description": "Wyze, based in Seattle, WA, offers smart tech at accessible prices, trusted by a community of over 5 million users.\n\n\ud835\udde7\ud835\uddf5\ud835\uddf6\ud835\ude00 \ud835\uddf6\ud835\ude00 \ud835\ude04\ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2 \ud835\uddf6\ud835\ude01 \ud835\uddee\ud835\uddf9\ud835\uddf9 \ud835\uddf9\ud835\uddf6\ud835\ude03\ud835\uddf2\ud835\ude00.\nShop, set up, and control your smart home ecosystem. Tie your devices together in one simple app to craft the ideal high-quality smart home for your family.\n\n\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddf0\ud835\uddee\ud835\uddfa\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddff\ud835\ude01\ud835\uddf2\ud835\uddf1 \ud835\uddf6\ud835\ude01 \ud835\uddee\ud835\uddf9\ud835\uddf9.\nFrom the original Wyze Cam to our full wired and wireless lineup, we help you keep an eye on what matters most. Use them as baby monitors, garden security, or pet cams. Enhance them further with an optional Cam Plus subscription.\n\u2022 Wyze Cam \n\u2022 Wyze Cam Pan\n\u2022 Wyze Cam Outdoor\n\u2022 Wyze Video Doorbell\n\n\ud835\udde6\ud835\uddee\ud835\uddf3\ud835\uddf2\ud835\ude01\ud835\ude06 \ud835\ude00\ud835\uddf5\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1\ud835\uddfb'\ud835\ude01 \ud835\uddef\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf8 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddef\ud835\uddee\ud835\uddfb\ud835\uddf8.\nProtect your home with the award-winning Wyze Home Monitoring, powered by Noonlight. It\u2019s straightforward and affordable security. Pref",
+    "icon": "/icons/com.hualai.png"
+  },
+  "com.google.android.wearable.assistant": {
+    "title": "Google Gemini on Wear OS",
+    "package": "com.google.android.wearable.assistant",
+    "description": "Google Gemini on Wear OS \u2013 your helpful AI assistant on your wrist\n\nGemini on Wear OS is our truly helpful AI assistant on your watch. Just speak naturally to get more done while you're on the go. Gemini can handle tasks across apps, answer questions and recall important details for you. \n\nTry asking Gemini to:\nStay connected: 'Send a message to Nadia telling her sorry I'm late'\nGet info: 'Where's the restaurant Emily emailed about for dinner tonight?'\nControl music: 'Create a playlist for a 10-minute-mile run'\nRemember details: 'Remember I parked on level 2, space 403'\n\nGemini app available on selected devices, languages and countries. Requires compatible Wear OS watch to be connected to a compatible device. Check responses for accuracy. Internet connection and setup may be required. Resu",
+    "icon": "/icons/com.google.android.wearable.assistant.png"
+  },
+  "com.taskrabbit.droid.consumer": {
+    "title": "Taskrabbit - Handyman, Errands",
+    "package": "com.taskrabbit.droid.consumer",
+    "description": "Taskrabbit is the easy way to find skilled and trusted local Taskers to handle all your home improvements and home repairs, from Furniture Assembly and Mounting to Help Moving and house Cleaning - all with just a few taps! \u2028\n\nHow it works:\n- Tell us what you need: Share your task details. \n- Get instant options: Browse Taskers.\n- Choose your Tasker: Compare prices, reviews, and schedules.\n- Stay connected: Chat, pay, tip, and review - all in one app. \n- Save favorites: Rebook your favorite Taskers easily.\n\nWhy use Taskrabbit?\n- Book home improvement in minutes\n- Transparent pricing\n- Same-day availability for home repairs and more \n- Trusted local Taskers\n- Convenient in-app communication \n- Secure payment processing\n- Backed by Happiness Pledge \n- Dedicated support every day of the week\n-",
+    "icon": "/icons/com.taskrabbit.droid.consumer.png"
+  },
+  "com.taskrabbit.droid.rabbit": {
+    "title": "Tasker by Taskrabbit",
+    "package": "com.taskrabbit.droid.rabbit",
+    "description": "Tasker by Taskrabbit is the easy way to find local clients and earn money by offering your skills across a wide range of categories like Home Repairs, Cleaning, Help Moving, and more - all managed simply within the app!\n\nHow it Works:\n  \u2022 Set your availability: You decide when and where you want to work.\n  \u2022 Receive task invitations: Clients send you requests based on your skills and schedule.\n  \u2022 Accept and complete tasks: Chat with clients, get the job done, and get paid.\n  \u2022 Manage everything in-app: Seamlessly handle communication, scheduling, and payments.\n  \u2022 Build your reputation: Get reviews and save favorite clients for future tasks.\n\nWhy Task on Taskrabbit?\n  \u2022 Flexible earning options: Work when it suits you, around your life.\n  \u2022 Access local clients: We connect you with people",
+    "icon": "/icons/com.taskrabbit.droid.rabbit.png"
+  },
+  "net.dinglisch.android.taskerm": {
+    "title": "Tasker",
+    "package": "net.dinglisch.android.taskerm",
+    "description": "\u2699No repetitive tasks for you, let your Android device handle it!\u2699 Total Automation, From Settings to SMS.\n\nHere are only some of the things you could do with Tasker. Its real power is the flexibility to combine contexts and tasks however you wish: https://tasker.joaoapps.com/exampleuses.html\n\n\u2611 Automations\nMake your phone a true smart phone! Why remember to change the volume every day when you leave home when your phone can do it for you?\nAutomate stuff based on the app you're in, the time of day, your location, your Wi-Fi network, Received SMS or Calls, the currently playing song and many other (130+) states and events!\nCheck out how easy it is to create an automation: https://www.youtube.com/watch?v=s6EAbLW5WSk\n\n\u2611 Actions\n350+ actions allow you to truly customize your phone like never be",
+    "icon": "/icons/net.dinglisch.android.taskerm.webp"
+  },
+  "com.taskerbel.tasker": {
+    "title": "Tasker: Todo list for business",
+    "package": "com.taskerbel.tasker",
+    "description": "Tasker - Application for setting tasks, task manager\nOur To Do list is different from other problem books.\nMain features and differences:\n  - Easy interface, everything on one screen\n  - Grouping tasks into folders\n  - Ability to assign tasks to other users\n  - Ability to track habits using recurring tasks\n  - Reminders and repeats\n  - Deadline\n  - Discussion of the problem in the comments\n  - Adding subtasks\n  - Adding users from global search by ID\n\nThe application can be used as a to-do, organize, planner, habit tracker, water tracker, notes, reminders. Just like the analogue of ToDoist, google tasks, To do, Any do, etc.\n\nWe will be glad to receive your feedback in order to improve our service for you. taskerchat@gmail.com\n\nThank you",
+    "icon": "/icons/com.taskerbel.tasker.png"
+  },
+  "com.artesfast.tasker": {
+    "title": "Tasker for Engineers",
+    "package": "com.artesfast.tasker",
+    "description": "Tasker helps technical freelancers to get interesting tasks in the high-tech industry. No more 9-to-5: We match you with companies looking for your skills\n\nFlexibility and independence\nYou decide when, how and from where you want to work. \n\nTasks that matter\nWork on tangible challenges and opportunities to enhance your skills and expertise and contribute to realizing a company\u2019s vision and goals. \n\nNo CV\nWe\u2019re interested in your skills, knowledge and expertise, not your CV.  \n\nNever a dull moment\nWork on different challenging tasks and projects for a wide variety of global clients to keep your work interesting. \n\nGain valuable experience\nFrom graduate to seasoned professional. Wherever you are in your career, there are tasks for you.\n\nGrow your income\nGet paid per task or project. No need ",
+    "icon": "/icons/com.artesfast.tasker.png"
+  },
+  "com.flavionet.android.cinema.pro": {
+    "title": "Cinema FV-5",
+    "package": "com.flavionet.android.cinema.pro",
+    "description": "Cinema FV-5 is a professional video camera application for mobile devices, that puts professional manual controls in your fingertips. Tailored to enthusiast and professional videographers and filmmakers, with this video camera application you can capture the best footage with top-of-the-line controls for perfect postproduction purposes. The only limit is your imagination and creativity!\n\n\nMajor features:\n\n\u25cf Adjust all the image sensor parameters that you only thought pro-videocameras had: exposure compensation, ISO, light metering mode (matrix/center/spot), focus mode and white balance.\n\u25cf Change sensor parameters (like ISO, exposure compensation or white balance) also during recording.\n\u25cf Focus adjustments during recording: lock focus on your subject before recording and change focus planes",
+    "icon": "/icons/com.flavionet.android.cinema.pro.png"
+  },
+  "com.flavionet.android.cinema.lite": {
+    "title": "Cinema FV-5 Lite",
+    "package": "com.flavionet.android.cinema.lite",
+    "description": "Cinema FV-5 is a professional video camera application for mobile devices, that puts professional manual controls in your fingertips. Tailored to enthusiast and professional videographers and filmmakers, with this video camera application you can capture the best footage with top-of-the-line controls for perfect postproduction purposes. The only limit is your imagination and creativity!\n\n\nMajor features:\n\n\u25cf Adjust all the image sensor parameters that you only thought pro-videocameras had: exposure compensation, ISO, light metering mode (matrix/center/spot), focus mode and white balance.\n\u25cf Change sensor parameters (like ISO, exposure compensation or white balance) also during recording.\n\u25cf Focus adjustments during recording: lock focus on your subject before recording and change focus planes",
+    "icon": "/icons/com.flavionet.android.cinema.lite.png"
+  },
+  "com.mycompany.ek1mini2app": {
+    "title": "EK1 Mobile",
+    "package": "com.mycompany.ek1mini2app",
+    "description": "EK1 Mobile is a enhanced scan tool and manager software of tuning maps with EK1Pro and EK1Mini2\n\n1. Management tuning files on cloud service\n2. Create data log with EK1 device\n3. Easy install tuning maps\n4. Easy making logs and sharing",
+    "icon": "/icons/com.mycompany.ek1mini2app.png"
+  },
+  "com.hotmail.mmendelow.t1d1": {
+    "title": "T1D1",
+    "package": "com.hotmail.mmendelow.t1d1",
+    "description": "T1D1 (Type 1 Diabetes from Day 1), all the essentials you need to get started from day 1 of diagnosis.\n100% free - No subscription and no in-app purchases!\n\nWho is it for? People with Type 1 Diabetes who\u2026 \n-Need help calculating insulin!\n-Are newly diagnosed with Type 1 Diabetes\n-Use multiple daily injections (MDI) of short-acting insulin\n-Work with School nurses \n-Have caregivers who assist in diabetes management\n-Want to send their data to healthcare providers  \nAre taking a break from using a pump\nCount carbs but are NOT on a sliding scale\n\nT1D1 is intended for people with Type 1 Diabetes aged 2 years and older who use multiple daily injections (MDI) of rapid-acting insulin. The user can calculate insulin doses based on user-entered data, track glucose, insulin, and carb intake, and sha",
+    "icon": "/icons/com.hotmail.mmendelow.t1d1.png"
+  },
+  "com.noisolation.av1": {
+    "title": "AV1",
+    "package": "com.noisolation.av1",
+    "description": "AV1 is the app that belongs to a personal robot. The robot works as a stand-in for children who are unable to attend school. For longer hospitalisation and chronic illness, the robot can help the child stay in contact with their class and friends.\n\nWhen the app is opened, AV1 is switched on and your child will see and hear whatever the robot sees and hears. The child can talk to anyone near the AV1 through the speakers. The child can move the robot by swiping on the mobile or tablet touchscreen.",
+    "icon": "/icons/com.noisolation.av1.png"
+  },
+  "com.jbl.oneapp": {
+    "title": "JBL One",
+    "package": "com.jbl.oneapp",
+    "description": "The official app for setting up and controlling JBL Wi-Fi speakers, soundbars and PartyBox products.\n \nConnect to Wi-Fi, customize EQ and control your compatible device with a single convenient app. The JBL One app helps you to easily set up the devices, personalize settings, and use the integrated music services to enjoy your favorite songs. \n \nFeatures:  \n- Breeze through setup with step-by-step guidance. \n- Customize speaker and soundbar EQ setting. \n- Manage all your devices and check their connection status, battery level, playback content all at a glance. \n- Stereo pair or group your speakers into a multi-channel system for elevated listening experience.* \n- Personalize your music experience, save favorite ambient audio or playlists for quick and easy access. \n- Control music playbac",
+    "icon": "/icons/com.jbl.oneapp.webp"
+  },
+  "com.go401.app": {
+    "title": "401GO",
+    "package": "com.go401.app",
+    "description": "Our mobile app puts the GO in 401GO by placing simple, secure and convenient management of the full 401(k) retirement savings lifecycle in your pocket -- from set-up to withdrawal and everything in between, including:\n\n* View your retirement account balance and total gains or (hopefully not) losses. \n\n* Review and adjust investment allocations from a single, consolidated page. \n\n* Generate detailed savings projections based on such variables as your current age, expected retirement age, income, contribution amount and anticipated investment returns.\n\n* Change your per-paycheck deferral amount, informed by estimates showing the effect of potential changes and how adjustments will impact future balances.\n\n* Get personalized recommendations, powered by a registered investment advisor, based o",
+    "icon": "/icons/com.go401.app.png"
+  },
+  "com.localaiapp.scoops": {
+    "title": "Scoopz: Real Life, Real Videos",
+    "package": "com.localaiapp.scoops",
+    "description": "Your people. Your videos.\n\nScoopz is the short-video app where your feed is built from communities you choose \u2014 so every video feels like it belongs.\n\nJoin Circles (video communities) around your passions, your place, and real life.\n\nWhether it\u2019s authentic moments or content about what you care most about, Scoopz keeps your feed relevant and meaningful.\n\nWhy Scoopz feels different:\n- Communities, not chaos: Follow Circles to keep your feed focused on what you love.\n- Real stays hero: Authentic, unfiltered stories are still our most celebrated videos.\n- The right audience: Post directly into your Circle so the right people see it first.\n- Easy creation: No studio, no script \u2014 just open your phone and share.\n\nWhat you can do in Scoopz:\n- Capture life as it happens \u2014 moments big or small.\n- J",
+    "icon": "/icons/com.localaiapp.scoops.webp"
+  },
+  "com.open.web.ai.browser": {
+    "title": "Open Browser - Smart & Safe",
+    "package": "com.open.web.ai.browser",
+    "description": "Open Browser \u2013 Fast, Private, and Smart Web Surfing\n\nOpen Browser is your all-in-one solution for fast, secure, and convenient browsing on mobile. Whether you're reading the news, downloading videos, checking the weather, or managing your files, everything is built right in\u2014no need to switch between apps.\n\n\ud83c\udf10 Fast & Smooth Browsing\nExperience a lightweight browser that loads pages quickly and runs smoothly, even on slower networks. Enjoy faster search, efficient navigation, and less waiting time.\n\n\ud83d\udd10 Private Browsing Mode\nYour privacy is protected with built-in Incognito Mode. Browse without saving your history, cookies, or cache. It\u2019s perfect for private searches or secure website visits.\n\n\ud83c\udfa5 Watch & Download Videos\nEasily play videos online or download them for offline use. Open Browser sup",
+    "icon": "/icons/com.open.web.ai.browser.png"
+  },
+  "com.sevensynco.jewtube": {
+    "title": "JewTube",
+    "package": "com.sevensynco.jewtube",
+    "description": "Discover, share, and celebrate Jewish culture through video content created by and for the Jewish community worldwide. JewTube is the premier video platform dedicated to preserving, sharing, and enriching Jewish life through digital media.",
+    "icon": "/icons/com.sevensynco.jewtube.jpg"
+  },
+  "com.enjoy.aichat.chatbot.mindchat": {
+    "title": "AI Chat bot build on GPT MChat",
+    "package": "com.enjoy.aichat.chatbot.mindchat",
+    "description": "Introducing Mind Chat, the ultimate AI chatbot powered by ChatGPT & GPT-3 & GPT-4, Gemini & Claude Technology, designed to provide a wide range of professional consulting services. \n\n\u3010Expert Interaction on any topic\u3011\nWith Mind Chat driven by ChatGPT, you can access expert advice on various topics, including psychological counseling, legal consulting, writing assistance, coding support, travel recommendations, fitness coaching, language expertise, and lifestyle tips.\n\n\u3010Voice Chat & Multilingual Communication\u3011\nWith its user-friendly interface and cutting-edge technology, Mind Chat powered by ChatGPT makes accessing expert advice easier than ever before. And with the added convenience of voice chat and support for multiple languages, you can get the help need in a way that feels natural and c",
+    "icon": "/icons/com.enjoy.aichat.chatbot.mindchat.png"
+  },
+  "com.offlinegpt.app": {
+    "title": "OfflineGPT",
+    "package": "com.offlinegpt.app",
+    "description": "OfflineGPT brings powerful AI directly to your device \u2014 no internet, no cloud, no account required. Chat with state-of-the-art language models, generate images locally, and keep full control over your data.\n\nWhy OfflineGPT:\n- Full privacy: your data never leaves your device\n- Works completely offline (travel, flights, restricted networks)\n- One-time purchase, optional Pro upgrade\n- No subscriptions\n\nImportant to know:\n- OfflineGPT is not a cloud AI replacement\n- Responses are slower than cloud AI (device-dependent)\n- Performance depends heavily on device hardware\n- Best experience on modern phones\n- If you expect instant cloud-level responses, this app is not for you\n\nUse cases:\n- Offline notes and writing\n- Brainstorming and drafts\n- Private AI without internet access\n\nDevice requirements",
+    "icon": "/icons/com.offlinegpt.app.jpg"
+  },
+  "com.nzersun.project.android.ttube": {
+    "title": "TTube: Trending Videos",
+    "package": "com.nzersun.project.android.ttube",
+    "description": "TTube helps you discover what the world is watching right now. It analyzes all trends to provide you key insights.\nStay ahead of video trends with a powerful tool designed for creators and trend followers. Also look statistical numbers and visual graphics from trends to understand key points.\n\nTTube delivers up-to-date trending videos, featured channels, and critical keywords from 35 countries and 13 categories in real time. Whether you're tracking entertainment or gaming trends, TTube keeps you informed.\n\nFeatures\nAnalytical insights to explore world trends,\nReal-time trending videos by country,\nChannels gaining popularity,\nSearched video-related keywords,\nSupport for 35 countries,\nExplore content from 13 categories including Music, News, Sports, Gaming, Technology and more,\nIdeal for any",
+    "icon": "/icons/com.nzersun.project.android.ttube.png"
+  },
+  "com.youtubesubscriptionmanager": {
+    "title": "PocketTube: YouTube Groups",
+    "package": "com.youtubesubscriptionmanager",
+    "description": "This app helps you group YouTube subscriptions, organize channels into a collection list, and track the latest videos \u2014 all in a clean, customizable layout designed for power users and casual viewers alike.\n\nUsing this simple app, you can create collections that seamlessly fit into YouTube's layout.\n\n\ud83d\udd27 Key Features:\n\n1. Group YouTube channels by topic, mood, or genre\n2. Organize YouTube subscriptions into folders with custom icons\n3. Filter videos by group\n4. Auto-sync your setup with Google Drive\n5. Track new content using collection-based video feeds\n\n\u2705 Smart YouTube Subscription Management\nSay goodbye to endless scrolling. With our advanced YouTube subscriptions manager, you can:\n\n- Create collections like News, Tech, Music, or Education\n- Add channels to multiple groups\n- Assign icons ",
+    "icon": "/icons/com.youtubesubscriptionmanager.png"
+  },
+  "com.James.TubeTrackr": {
+    "title": "Tube Trackr",
+    "package": "com.James.TubeTrackr",
+    "description": "From Baker Street to Barking, Tube Trackr helps you map your London Underground conquests, one station at a time. It\u2019s the must-have app for anyone who\u2019s ever thought: \u201cI wonder how many stations I\u2019ve been to\u2026\u201d\nFeatures:\n\u2022 \u2705\u00a0Track Your Progress\u00a0\u2013 Mark which stations you\u2019ve visited across the entire London Underground.\n\u2022 \u2b50\u00a0Choose Your Favourites\u00a0\u2013 Highlight the stations that mean something to you.\n\u2022 \ud83d\udcca\u00a0Line Stats\u00a0\u2013 See how many stations you\u2019ve completed on each line or across the full network.\n\u2022 \ud83d\uddfa\ufe0f\u00a0Clean, Visual Interface\u00a0\u2013 Designed to feel like a proper transport app \u2013 smooth, simple, and satisfying.\nWhether you're a casual explorer or a full-on Tube fanatic, Tube Trackr keeps your stats beautifully organised.",
+    "icon": "/icons/com.James.TubeTrackr.png"
+  },
+  "com.lifesolutions.tubemusic": {
+    "title": "Tube Music",
+    "package": "com.lifesolutions.tubemusic",
+    "description": "Tube Music \u2013 Audio is a simple and powerful app for streaming music and audio content online.\n\nWhether you want to relax, focus, learn, or fall asleep, Tube Music offers a wide range of listening experiences in one place.\n\n\ud83c\udfb6 Music \u2013 Stream a large collection of songs from different genres and artists.\n\ud83c\udfa7 Podcasts \u2013 Explore podcasts about education, lifestyle, technology, and entertainment.\n\ud83e\uddd8 Meditation & Relaxation \u2013 Listen to calming audio designed to reduce stress and help you focus or sleep better.\n\ud83d\udcd6 Audiobooks \u2013 Enjoy stories, knowledge, and inspiration anytime.\n\u2728 Smart Recommendations \u2013 Discover audio content tailored to your listening preferences.\n\ud83d\udd12 No Login Required \u2013 Start listening instantly without creating an account.\n\nTube Music makes it easy to enjoy music, podcasts, meditation",
+    "icon": "/icons/com.lifesolutions.tubemusic.png"
+  },
+  "com.poptubepremium.advancedtuber": {
+    "title": "POPTube: Music Video, Podcast",
+    "package": "com.poptubepremium.advancedtuber",
+    "description": "Make your watching experience more interesting with POPTube - a music video skip ads. POPTube provides game-changing features for your videos, such as no ads and popups, Picture-in picture mode, and other fun video interactions.\n\nLet\u2019s explore what makes POPTube is a must-have online music player no ads app in terms of video and music player:\n\n\ud83c\udfb5  Trending Music Player No ads Free Online Made For You:\n\n- Find your favorite genres of music video watch and catch up new released and trending songs on \u201cLove It\u201d.\n- This music player no ads for android offers you millions of songs customized based on your taste of music, countries, and Global top songs.\n\n\ud83d\udd12 Play Video No Ads:\n\n- If you value uninterrupted viewing experience, just enjoy this online music app no ads on POPTube.\n- Focus solely on the",
+    "icon": "/icons/com.poptubepremium.advancedtuber.png"
+  },
+  "com.yourentertainment.app.musicplayer": {
+    "title": "Tube Music - Music Downloader",
+    "package": "com.yourentertainment.app.musicplayer",
+    "description": "Tube Music - Music Downloader: Your Complete Music Hub\n\nTake control of your music experience. Tube Music - Music Downloader is more than just a player\u2014it's your all-in-one hub for discovering, saving, and enjoying music and videos, anytime, anywhere.\n\n\ud83c\udfb5 Build Your Personal Music Library\nEasily save your favorite tracks and albums directly to your device. Create a permanent collection that\u2019s yours to keep. Enjoy your music offline, without needing an internet connection.\n\n\ud83d\udd0d Unlimited Search & Discovery\nFind any song, artist, or album instantly. Explore new and trending music from around the world through our smart discovery features. Keep your playlists fresh and never run out of great music to listen to.\n\n\ud83d\udcfa Watch & Listen, Your Way\nSeamlessly switch between audio and video. Stream videos ",
+    "icon": "/icons/com.yourentertainment.app.musicplayer.png"
+  },
+  "com.smithsfoodanddrug.mobile": {
+    "title": "Smith's",
+    "package": "com.smithsfoodanddrug.mobile",
+    "description": "Looking for an easier way to grocery shop, save money and manage your weekly grocery list? The Smiths app makes grocery shopping simple with Delivery, Pickup and In-store options, digital coupons, weekly ads and personalized savings.\n\nDownload the Smiths grocery app to shop groceries online and find the best deals all in one place.\n\nShop Groceries Your Way\n\n\u00b7 Order groceries with Pickup or Delivery\n\n\u00b7 Shop thousands of additional grocery and household items\n\nSave More on Groceries\n\n\u00b7 Browse weekly ads and sales\n\n\u00b7 Clip digital coupons and apply them at checkout\n\n\u00b7 Discover personalized deals, bonus rewards and Cash Back offers\n\n\u00b7 Track and redeem fuel points for gas savings\n\nFast, Convenient Checkout\n\n\u00b7 Use Kroger Pay for fast checkout in-store\n\n\u00b7 View purchase history and quickly reorder ",
+    "icon": "/icons/com.smithsfoodanddrug.mobile.png"
+  },
+  "com.reezyp.pit": {
+    "title": "Breezy Pitch",
+    "package": "com.reezyp.pit",
+    "description": "Breezy Pitch is a performance-focused interview coach designed to sharpen your professional dialogue. The app mirrors a genuine meeting environment by generating relevant questions, tracking your response speed, and accepting text inputs. This allows you to practice both the substance of your answers and your composure under pressure.\n\nEvery session concludes with a comprehensive performance audit. The system scrutinizes your logical flow, the depth of your answers, and your mastery of industry-specific jargon. Instead of receiving vague pointers, you get a tangible candidate score and a transparent breakdown of your mistakes.",
+    "icon": "/icons/com.reezyp.pit.jpg"
+  },
+  "com.breezyTech.breezyNetwork": {
+    "title": "Breezy",
+    "package": "com.breezyTech.breezyNetwork",
+    "description": "Breezy is a real-time weather and outdoor community app built on real-world data collected by physical devices.\n\nInstead of relying solely on centralized forecasts or simulations, Breezy connects you to weather conditions measured and shared by a distributed network of real hardware devices.  This creates a more transparent, location-specific, and trustworthy view of what\u2019s actually happening outdoors\u2014right now.\n\nBy combining decentralized weather data with community-shared experiences, Breezy bridges the physical and digital worlds to help you make smarter outdoor decisions.\n\nWhether you\u2019re hiking, camping, cycling, skiing, flying drones, fishing, or simply heading out for the day, Breezy delivers weather insights grounded in real conditions on the ground\u2014not just predictions.\n\nWeather Po",
+    "icon": "/icons/com.breezyTech.breezyNetwork.png"
+  },
+  "com.breezyhr.breezy": {
+    "title": "Breezy HR",
+    "package": "com.breezyhr.breezy",
+    "description": "Breezy is a simple, collaborative recruiting platform designed to help you create, publish and advertise your open jobs, manage and organize your candidates and streamline all of your internal team and external candidate communication.\n\nWith Breezy HR for Android you can:\n\n- View and manage all of your conversations with your team and candidates. \n- Respond faster to important messages with push notifications for new candidates, candidate messages, team @mentions. \n- Save time with candidate communications by using your existing Message Templates.\n- Quickly move candidates through the stages of your hiring pipeline.",
+    "icon": "/icons/com.breezyhr.breezy.png"
+  },
+  "com.socraticSystems.breezy": {
+    "title": "Breezy AI Phone",
+    "package": "com.socraticSystems.breezy",
+    "description": "Breezy \u2013 AI Phone and Receptionist\n\nYour AI-powered phone system that handles all your business communication. Make and receive calls, send texts, and get smart summaries of every interaction \u2013 all managed by AI, 24/7.\n\n\u2728 WHAT BREEZY DOES\n\u2022 Handles incoming & outgoing calls\n\u2022 Manages two-way text conversations\n\u2022 Creates smart summaries of every interaction\n\u2022 Transcribes all communications\n\u2022 Schedules meetings instantly\n\u2022 Gives you a local business number\n\u2022 Organizes customer info automatically\n\n\ud83d\ude80 WHY YOU'LL LOVE IT\n\u2022 Complete communication control\n\u2022 Professional presence 24/7\n\u2022 Never miss context with smart summaries\n\u2022 Local number credibility\n\u2022 More time for real work\n\nPerfect for solo professionals, freelancers, and small business owners who want to look professional without hiring a rec",
+    "icon": "/icons/com.socraticSystems.breezy.png"
+  },
+  "com.breezymobile": {
+    "title": "Breezy - Your Real Estate OS",
+    "package": "com.breezymobile",
+    "description": "Built by agents, for agents. Breezy is the real estate agent\u2019s unfair advantage that thinks like a top agent, works like your invisible partner and turns weeks of grind into seconds.",
+    "icon": "/icons/com.breezymobile.png"
+  },
+  "com.breez.client": {
+    "title": "Breez: Lightning Client & POS",
+    "package": "com.breez.client",
+    "description": "Breez is a Lightning Network client which makes paying in bitcoin a seamless experience. With Breez, anyone can send or receive small payments in bitcoin. It's simple, fast and safe. Breez is a non-custodial service that uses lnd and Neutrino under the hood. \nBreez also includes a Point-of-Sale mode which transforms the app from a Lightning wallet into a Lightning cash register with the slide of a finger, allowing everyone to become a merchant and accept Lightning payments.\nFor more technical information, please go to: https://github.com/breez/breezmobile. \n\nWarning: the app is still in beta and there is a chance your money will be lost. Use this app only if you are willing to take this risk.",
+    "icon": "/icons/com.breez.client.png"
+  },
+  "com.breezy.word.search": {
+    "title": "Breezy Word Search",
+    "package": "com.breezy.word.search",
+    "description": "Play relaxing word games and discover beautiful destinations on a breezy holiday trip around the world! \n\nBreezy Word Search is the perfect word search game for anyone who loves word games, crosswords, brain puzzles, and peaceful adventure. Whether you\u2019re a fan of relaxing puzzle games, daily crosswords, or simply want to train your brain during downtime, Breezy Word Search is designed to help you unwind. \nFind words, solve fun puzzles, and take a calming journey through stunning global locations in this easy, breezy mobile word game. Download now and start your relaxing travel adventure through the world of word puzzles!\n\n\ud83e\uddd8 Relaxing Word Puzzles with Exploration \u2013 Key Features\n\n\u2022 Easy Word Search Puzzles in Stunning Locations: Solve fun, relaxing crossword puzzles that gently train your b",
+    "icon": "/icons/com.breezy.word.search.png"
+  },
+  "com.windyty.android": {
+    "title": "Windy.com - Weather Forecast",
+    "package": "com.windyty.android",
+    "description": "Windy.com is an extraordinary tool for weather forecast visualization. It\u2019s fast, intuitive, detailed and most accurate weather app trusted by professional pilots, paragliders, skydivers, kiters, surfers, boaters, fishermen, storm chasers and weather geeks, and even by governments, army staffs and rescue teams.\n\nWhether you are tracking a tropical storm or potential severe weather, planning a trip, pursuing your favourite outdoor sport, or you just need to know if it will rain this weekend, Windy provides you with the most up-to-date weather forecast around.\n\nThe uniqueness of Windy lies in the fact that it brings you better quality information than the other weather apps\u2019 pro-features, while our product is absolutely free and even without ads.\n\nPowerful, smooth and fluid presentation make",
+    "icon": "/icons/com.windyty.android.webp"
+  },
+  "com.weawow": {
+    "title": "Weather & Widget - Weawow",
+    "package": "com.weawow",
+    "description": "Weawow is a free weather app with comparable multiple weather providers, animated weather map and radar, highly customizable layout and widgets, and beautiful weather photos from around the world.\nThere are no ads and no tracking. Weawow delivers only the weather information you need, in the most comfortable way.\n\n\nWOW WEATHER EXPERIENCE\n\nThe weather photos reflect the actual weather conditions of each location, allowing you to visually understand whether it is sunny, cloudy, rainy, or snowy.\nA golden sunset, a quiet snowy landscape, moving clouds\u2014these scenes bring a sense of calm.\nThrough this WOW experience, Weawow aims to connect people and contribute to a more peaceful world.\n\n\nCOMPARE WEATHER FORECASTS\n\nModern forecasting technology has improved significantly, especially for short-te",
+    "icon": "/icons/com.weawow.webp"
+  },
+  "com.acmeaom.android.myradar": {
+    "title": "MyRadar Weather Radar",
+    "package": "com.acmeaom.android.myradar",
+    "description": "MyRadar is a fast, easy-to-use, yet powerful weather app that displays animated weather radar around your current location, allowing you to quickly see what weather is coming your way. Just start the app, and your location pops up with animated live radar, with radar loop lengths of up to two hours.  This basic functionality provides the quickest way to get a fast snapshot of the weather on-the-go, and it's what has made MyRadar so successful over the years.  Check your phone and get an instant assessment of the weather that will impact your day.\n\nIn addition to the live radar, MyRadar has an ever-increasing list of weather and environmentally-related data layers that you can overlay on top of the map;  our animated winds layer shows a breathtaking visual representation of both surface win",
+    "icon": "/icons/com.acmeaom.android.myradar.png"
+  },
+  "com.drilon1.breezeewrapper": {
+    "title": "Breezee Weather",
+    "package": "com.drilon1.breezeewrapper",
+    "description": "Breezee is a modern weather forecast app that delivers accurate local weather updates, real-time conditions, and detailed forecasts in a clean and intuitive interface.\n\nWhether you're planning your day, traveling, or simply checking the temperature outside, Breezee helps you stay informed with reliable weather data and easy-to-read forecasts.\n\nMonitor current weather conditions, check hourly forecasts, and view extended outlooks for the coming days \u2014 all in one seamless weather monitoring experience.\n\nKey Features\nAccurate Weather Forecast\n\nGet precise hourly and daily weather forecasts powered by reliable weather data sources. Know what to expect before you step outside.\n\nReal-Time Weather Conditions\n\nStay updated with live weather information including:\n\nHourly & 7-Day Forecast\n\nPlan ahe",
+    "icon": "/icons/com.drilon1.breezeewrapper.png"
+  },
+  "com.CPLLabs.weathery": {
+    "title": "Weathery - Weather & Widget",
+    "package": "com.CPLLabs.weathery",
+    "description": "\ud83c\udf26 A Smarter, Simpler Way to Check the Weather\nMeet Weathery \u2014 your clean, clutter-free live weather and outfit companion. No distractions. No complicated screens. Just the weather information, forecast, and personal style advice you actually need, delivered clearly and instantly.\n\nWeathery helps you stay prepared with quick, accurate live weather updates and useful insights \u2014 so you always know whether to carry an umbrella, wear a mask, or which clothes to put on to stay comfortable.\n\n\u2728 Designed to Be Effortless & Intelligent\nWeathery focuses on clarity and simplicity, giving you a minimal weather app UI that\u2019s easy to read at a glance, now powered by Gemini AI for deeper insights.\n\nHere\u2019s what you\u2019ll find inside:\n\n\ud83d\udccd Current Weather & Location\n\n\ud83c\udf21\ufe0f Temperature & Live Conditions\n\n\ud83c\udf2b\ufe0f AQI With",
+    "icon": "/icons/com.CPLLabs.weathery.png"
+  },
+  "com.flocbit.sonuby": {
+    "title": "Custom Weather App: Sonuby",
+    "package": "com.flocbit.sonuby",
+    "description": "Sonuby is a fully customizable weather app with widgets, forecasts, and detailed reports \u2014 tailored to your daily life and activities. Whether you need a simple daily forecast or specialized conditions for sailing, drone flying, or skiing, Sonuby adapts to how you use weather.\n\nDRONE & UAV FORECAST WITH THE DRONE FLYING REPORT\nDrone & UAV flying requires precise wind, cloud and visibility forecasts. The Drone Flying Report provides comprehensive views of all UAV-relevant variables including altitude weather and air quality conditions.\n\nSAILING FORECAST WITH THE SAILING REPORT\nThe Sailing Report delivers marine weather forecasts for sailors and boating enthusiasts. Wind, swell, visibility, tide and current forecasts provide accurate marine conditions worldwide.\n\nSKI & SNOWBOARD FORECASTS WI",
+    "icon": "/icons/com.flocbit.sonuby.png"
+  },
+  "com.aws.android.elite": {
+    "title": "Weather Elite by WeatherBug",
+    "package": "com.aws.android.elite",
+    "description": "Download advertisement free WeatherBug\u00ae, winner of the 2019 \u201cBest Weather App\u201d by Appy Awards.\n\nGet the most accurate weather app that provides environmental intelligence for all aspects of people\u2019s lives, free! This live weather app provides the fastest weather alerts, real-time weather conditions, accurate hourly & 10-day forecasts & more.\n\nExplore 20 weather maps, including Doppler radar, UV index, satellite map, lightning alerts, precipitation, local temperature, wind chill, and more! From heat index to pollen count, WeatherBug gives you everything you need to know. Our weather widgets let you set alerts and information you want to see on your home screen.\n\nRadar weather apps have never been this easy or convenient. Join WeatherBug's millions of users and Know Before\u2122 any weather condi",
+    "icon": "/icons/com.aws.android.elite.png"
+  },
+  "ru.bpc.mobilebank.bpc": {
+    "title": "BaridiMob",
+    "package": "ru.bpc.mobilebank.bpc",
+    "description": "What is Baridi Mob?\n\nThis is a mobile application that offers a range of electronic banking and postal financial services of Algeria Post. It helps to optimize your time, manage your PPC account and your self-service operations, from anywhere and at any time.\n\nHow can access the services of Baridi Mob?\n\n- Adhering to the service https://edcarte.poste.dz/adhesion_mobile.php\n- Launch the Baridi Mob application.\n- Enter your mobile phone number already registered in Algeria Post.\n- Enter the number of your cash card.\n- Enter the expiration date of your card and press Continue.\n- You will receive a confirmation of membership.\n- Insert the single-use code (OTP) received by SMS and press Continue.\n- Insert a user and a password account.\n\nWarning: The WBS code received via SMS must be introduced ",
+    "icon": "/icons/ru.bpc.mobilebank.bpc.png"
+  },
+  "dz.poste.eccp": {
+    "title": "ECCP - Alg\u00e9rie Poste",
+    "package": "dz.poste.eccp",
+    "description": "Discover the services of Alg\u00e9rie Poste:\n- Consultation of the CCP balance in real time.\n- Detailed statement of CCP operations\n- SMS notification for each deposit, transfer, withdrawal, etc.\n- Order and follow-up of the EDAHABIA card.\n- Order and follow-up of check books",
+    "icon": "/icons/dz.poste.eccp.png"
+  },
+  "cz.zdenekhorak.mibandtools": {
+    "title": "Tools & Mi Band",
+    "package": "cz.zdenekhorak.mibandtools",
+    "description": "Get the most out of your Mi Band smart bracelet with Mi Band Tools! Set up your own, individual and fully customizable notifications for incoming calls and applications. Energize your brain during a hard day using the power nap feature, configure multi-color custom patterns for each single notification, fine-tune custom content filters and a lot more!\n\n\nThis application works very well with original Zepp Life / Mi Fit / Amazfit application (but is no way associated with Xiaomi). This means that you can always have the latest Zepp Life / Mi Fit / Amazfit version and the latest Mi Band firmware in addition to great and powerful notification features.\n\n\nFeatures:\n\u2022 Display Text Support (see caller contact names & contents of notifications on your Mi Band)\n\u2022 Application notifications (configur",
+    "icon": "/icons/cz.zdenekhorak.mibandtools.png"
+  },
+  "com.quicken.acme": {
+    "title": "Quicken: Intelligent Money",
+    "package": "com.quicken.acme",
+    "description": "Quicken gives you the tools to plan and manage your money. Whether budgeting your personal or household finances or running a small business and preparing for taxes\u2014get access to all your data in one app. Quicken gives you a clear, real-time view of your money\u2014so you can make smarter financial decisions and achieve your goals. Join the over 20 million users who've used Quicken to stay organized and in control of their finances.\n\nPersonal Finance Features:\nWith Quicken, managing your personal finances is easy. Track your spending, save for goals, identify subscriptions, manage debt, and plan for the future\u2014all in one app.\n\nConnect and Track Financial Accounts:\n\u2022 Track income, expenses, and spending by connecting your bank accounts, credit cards, investments, and retirement accounts\n\u2022 Get re",
+    "icon": "/icons/com.quicken.acme.png"
+  },
+  "com.ternitup.spendrapp": {
+    "title": "Spendr",
+    "package": "com.ternitup.spendrapp",
+    "description": "Spendr App combines payments & rewards in a simple and rewarding way. Use the app to make contactless payments and earn rewards on every purchase.\nMOBILE PAYMENT\nLoad funds into a mobile wallet at participating merchants by simply scanning a QR code. The fastest and most rewarding way to pay.\nREWARDS\nEarn rewards for buying what you love. Have fun while spending and get rewarded on every purchase. Cash back and other incentives coming soon.\nSTORE LOCATOR\nDiscover nearby locations that accept Spendr. Find store hours, contact numbers, and more information on your favorite stores.\nDOCUMENT BOOK\nStore your purchasing documents like medical card and driver\u2019s license in the app to make your experience easier and more convenient.",
+    "icon": "/icons/com.ternitup.spendrapp.png"
+  },
+  "com.mobile.DuquenseLight": {
+    "title": "DLC Mobile",
+    "package": "com.mobile.DuquenseLight",
+    "description": "With the DLC mobile app, you can securely access your account, make a payment, or view and report outages in your area - all from the convenience of your mobile device!\n\n\u2022 Easily schedule payments, make same-day payments through debit/credit card, manage Paperless, AutoPay, or Budget Billing.\n\u2022 View a map of outages in your area, or report an outage at the touch of a button. \n\u2022 Track your usage to stay up-to-date on your energy consumption. \n\u2022 Sign up for My Alerts and choose what communications and reminders you would like to receive and how you would like to receive them (voice, text, or email).",
+    "icon": "/icons/com.mobile.DuquenseLight.png"
+  },
+  "com.ssr.nrt": {
+    "title": "Naruto NRT Anime Wallpapers 4K",
+    "package": "com.ssr.nrt",
+    "description": "Welcome to Naruto NRT Anime Wallpapers 4K, a wallpaper app made for fans of the legendary ninja anime Naruto.\n\nDiscover a high-quality collection of HD and 4K NRT anime wallpapers featuring popular characters like Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno, Kakashi Hatake, Hinata Hyuga, and many more. From intense battle scenes to clean and aesthetic ninja artwork, every wallpaper is optimized for AMOLED and modern displays.\n\nThe app offers a smooth and simple browsing experience, allowing you to quickly find and apply your favorite wallpapers without distractions.\n\n\u2728 How to Use:\nOpen the app\nScroll through NRTwallpapers\nSelect your favorite image\nDownload or set it instantly as Home or Lock Screen\n\n\n\ud83c\udf1f Key Features:\nHD & 4K Naruto anime wallpapers\nClassic & Shippuden character art\nDark, ",
+    "icon": "/icons/com.ssr.nrt.png"
+  },
+  "com.bandainamcoent.ultimateninjastorm": {
+    "title": "NARUTO: Ultimate Ninja STORM",
+    "package": "com.bandainamcoent.ultimateninjastorm",
+    "description": "[Warning] Please Read Before Purchasing\n- We have confirmed a display issue that causes a glowing effect to appear on the screen of some devices. This does not affect gameplay.\n- Certain specific actions can cause the app to crash on some devices. Please see the app's Contact page for more details.\n- No refunds (including exchanges for other products, services, etc.) are available after purchase, regardless of the reason.\nPlease ensure that your device is compatible via the app's Contact page (link below).\nhttps://bnfaq.channel.or.jp/title/3153\n\nYou are purchasing a license for digital goods. For full terms and conditions, please see the License Agreement below.\n\n[Game Summary]\nA Naruto game full of 3D competitive action!\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\nE",
+    "icon": "/icons/com.bandainamcoent.ultimateninjastorm.png"
+  },
+  "com.mana.stickman.warrios.shinobi.fight": {
+    "title": "Stickman Shinobi: Ninja Fight",
+    "package": "com.mana.stickman.warrios.shinobi.fight",
+    "description": "\ud83d\udd25 Stickman Shinobi: Ninja Fight \u2013 Become a Ninja Legend!\n\nEnter the world of stickman shinobi where powerful ninja warriors fight in epic battles. Train your hero, master skills, and become the ultimate ninja fighter.\n\nIf you love stickman fighting games and ninja battles, this game is for you!\n\n\u2694\ufe0f INTENSE STICKMAN SHINOBI BATTLES\nExperience fast-paced combat in an exciting stickman fighting game. Use combos, dodge attacks, and defeat enemies in intense ninja fights.\n\n\ud83e\udd77 BECOME A POWERFUL NINJA WARRIOR\nUnlock strong characters and upgrade your abilities. Each fighter brings unique skills to help you dominate every battle.\n\n\ud83d\udd25 GAME FEATURES\n\n* \u26a1 300+ challenging levels\n* \ud83e\udd77 Epic boss fights\n* \ud83c\udfae Smooth and easy controls\n* \ud83d\udca5 Powerful ninja skills\n* \ud83c\udd93 Offline stickman fighting game\n\n\ud83c\udf0d PLAY ANYTIM",
+    "icon": "/icons/com.mana.stickman.warrios.shinobi.fight.png"
+  },
+  "com.laendaen.mobileapp": {
+    "title": "Laen Daen",
+    "package": "com.laendaen.mobileapp",
+    "description": "Laen Daen is a modern way to manage every give-and-take transaction in life\u2014whether it\u2019s personal expenses, shared bills, business invoices, or day-to-day shop interactions.\n\nBuilt for individuals, friends, families, and businesses, Laen Daen brings real-time transparency, approval-based invoices, and clean financial tracking into one place.\nNo more forgotten payments, missing bills, or managing everything over chats.\n\nKey Features\n\nCreate & Share Invoices Instantly\nRecord any transaction\u2014expenses, income, splits, credits, or repayments\u2014and share with others in real time.\n\nApproval-Based System\nRecipients can accept or reject invoices, ensuring both sides stay aligned and nothing gets lost.\n\nSmart Splits\nSplit bills among people or groups with customizable amounts or percentages.\n\nPersonal",
+    "icon": "/icons/com.laendaen.mobileapp.png"
+  },
+  "com.keb.axa": {
+    "title": "Dein KEB",
+    "package": "com.keb.axa",
+    "description": "With the Dein KEB app, many things at Kranzler Eck will become more digital and sustainable, simpler, and better. These features await you as a KEB employee in the app:\n\nConcierge services that you can book directly through the app.\n\nAccess to the barrier-free access systems in the new lobbies.\n\nGuides and challenges focused on sustainability and social issues.\n\nCoins and rewards as a thank you for participating in challenges.\n\nKEB Maps, which finds the green route to and from KEB for you.\n\nResource savings at the individual, company, and KEB levels.\n\nSurveys on various KEB topics for open, anonymous feedback.\n\nThe digital bulletin board, which encourages sharing and exchange.\n\nNews and blogs about events and innovations at KEB.\n\nWarnings when caution is advised at KEB.\n\nWe will be expandi",
+    "icon": "/icons/com.keb.axa.jpg"
+  },
+  "com.marianatek.thedennew": {
+    "title": "THE DEN",
+    "package": "com.marianatek.thedennew",
+    "description": "The official app of The Den. Download today to\nbegin booking classes. From here you can view\nthe schedule, book childcare, learn about our\n\"den leaders\", view your upcoming schedule, see\nyour milestones and more. The Den's high\nintensity strength and conditioning classes are\nfor everybody and thoughtfully designed to\nguarantee results.\nLearn more and get connected to The Den at\n@thedenbarrington on Instagram",
+    "icon": "/icons/com.marianatek.thedennew.png"
+  },
+  "com.KaizenSolutions.DigiLEAN": {
+    "title": "DigiLEAN",
+    "package": "com.KaizenSolutions.DigiLEAN",
+    "description": "Everyone involved in making improvements. As the preferred enterprise lean tool, DigiLEAN helps customers organise tasks and inspire to register improvement suggestions.",
+    "icon": "/icons/com.KaizenSolutions.DigiLEAN.png"
+  },
+  "com.deanbank.mobile": {
+    "title": "Dean Bank - Mobile Banking",
+    "package": "com.deanbank.mobile",
+    "description": "Bank any time, any place.  Use our mobile app and access your accounts at any time, pay bills and even deposit checks.  Benefits include:  \n\nAccount Access\n\u2022 View your account balances and transaction activity.  \nTransfer Funds\n\u2022 Transfer money between your Dean Bank accounts.  \nPay Bills\n\u2022 Pay your bills and view your recent payments.  \nDeposit A Check\n\u2022 Use your mobile device\u2019s camera to deposit a check, saving a trip to the branch!  \nFind Branches / ATMs.  \n\nDean Bank\u2019s Mobile Banking is SECURE.  Security includes the latest in encryption and is backed by Dean Bank\u2019s Online Banking secure sign-on.",
+    "icon": "/icons/com.deanbank.mobile.png"
+  },
+  "com.photoroom.app": {
+    "title": "Photoroom: AI Photo Editor",
+    "package": "com.photoroom.app",
+    "description": "Create pro images that sell with Photoroom AI.\n\nPhotoroom\u2019s AI technology makes it easy to design, edit, and erase any background from your photos. Create professional-quality images that elevate your brand, boost engagement, and drive sales\u2014all with the help of an intuitive editor that simplifies every step of the design process.\n\nWhy choose Photoroom?\n\nAI-POWERED DESIGN\nNo design experience needed! Simply describe your idea, and Photoroom AI creates professional designs\u2014product listings, videos, backgrounds, social assets, logos, and more. Enhance your photos with smart AI editing and produce professional visuals that match your brand design style.\n\nREMOVE AND REPLACE BACKGROUNDS\nEnhance your product photos effortlessly with AI backgrounds. Use the smart eraser to clean up details or qui",
+    "icon": "/icons/com.photoroom.app.png"
+  },
+  "com.goodluck.team": {
+    "title": "Goodluck",
+    "package": "com.goodluck.team",
+    "description": "Goodluck VPN using OpenVPN service for unblock social media app.\n\nGoodluck VPN is your trusted companion for Android, to secure your online privacy while guaranteeing that your data is never collected or monitored. With Goodluck VPN, you can enjoy a secure and private browsing experience without compromise",
+    "icon": "/icons/com.goodluck.team.jpg"
+  },
+  "com.samsung.android.goodlock": {
+    "title": "Good Lock",
+    "package": "com.samsung.android.goodlock",
+    "description": "Good Lock is an app that helps Samsung smartphone users use their smartphones more conveniently.\n\nWith Good Lock\u2019s plugins, users can customize the UI of the status bar, Quick Panel, lock screen, keyboard, and more, and use features such as Multi Window, audio, and Routine more conveniently.\n\nGood Lock\u2019s main plugins\n\n  - LockStar: Create new lock screens and AOD styles.\n  - ClockFace: Set various clock styles for the lock screen and AOD.\n  - NavStar: Conveniently organize navigation bar buttons and swipe gestures.\n  - Home Up: It provides an improved One UI Home experience.\n  - QuickStar: Organize a simple and unique top bar and Quick panel. \n  - Wonderland: Create backgrounds that move based on how your device moves. \n\nThere are many other plugins with various features.\nInstall Good Lock",
+    "icon": "/icons/com.samsung.android.goodlock.png"
+  },
+  "com.picklebet": {
+    "title": "com.picklebet",
+    "package": "com.picklebet"
+  },
+  "jp.konami.masterdue": {
+    "title": "jp.konami.masterdue",
+    "package": "jp.konami.masterdue",
+    "icon": "/icons/jp.konami.masterdue.webp"
+  },
+  "jp.konami.masterduel": {
+    "title": "Yu-Gi-Oh! Master Duel",
+    "package": "jp.konami.masterduel",
+    "description": "Finally, the \"Yu-Gi-Oh!\" digital card game you've been waiting for!\n\nThe definitive edition of the competitive card game that has been evolving for over 25 years!\nDuel at the highest level against Duelists from all over the world.\n\nGet ready: it's time to Duel!\n\n---------------------------------------------------------------\n\n[About \"Yu-Gi-Oh! MASTER DUEL\"]\nFast-paced Duels with stunning HD graphics and a new, dynamic soundtrack! Get ready to challenge Duelists around the world!\n\n\u25c7Play Duels at Any Level!\nThe full Yu-Gi-Oh! experience is available for anyone at any Skill Level. Don't worry if you're a new player or if you haven't Dueled in a while, the in-game tutorials will teach you the basics on how to play the Yu-Gi-Oh! TRADING CARD GAME. You'll be given a Deck when you finish to help ",
+    "icon": "/icons/jp.konami.masterduel.png"
+  },
+  "vn.vtv.vtvgotv": {
+    "title": "VTV Go for Smart TV",
+    "package": "vn.vtv.vtvgotv",
+    "description": "VTVgo TV is the official online TV system of Vietnam Television. This app allows millions of viewers to watch live TVs, replays or themed-watch programs as well as enjoy the largest exclusive videos store on multiple fields such as News, Economics, Culture, Entertainment, Sports, International or Featured Films. VTVgo Free \u2013 Anytime \u2013 Anywhere \u2013 Any Devices With the new interface available, you can be able to search and enjoy your most favorite programs in a simple way, also quicker than ever before. VTVgo TV main functions include: \n\n1. Online TV: \u2022 Online channels VTV1, VTV2, VTV3, VTV4, VTV5, VTV6, VTV7, VTV8, VtV9. \u2022 Review all of the programs aired in less than a month. \n\u2022 Set appointment to watch future programs up to 7 days based on broadcast schedule. \n\n2. General News: \u2022 Update da",
+    "icon": "/icons/vn.vtv.vtvgotv.png"
+  },
+  "com.djit.equalizerplusforandroidpro": {
+    "title": "com.djit.equalizerplusforandroidpro",
+    "package": "com.djit.equalizerplusforandroidpro"
+  },
+  "kha.prog.mikrotik": {
+    "title": "NetShare - no-root-tethering",
+    "package": "kha.prog.mikrotik",
+    "description": "Create WiFi Hotspot to share cellular data or extend your existing WiFi connection just as a WiFi Repeater. NO TETHERING PLAN OR Tether fees required. \nSupport android 6 and above\n\nWork in android 6 and above in which hotspot / tethering features are blocked. \n\nBypass tethering / hotspot block.\n\nYour tethering is completely hidden & undetectable. \n\nCreate portable WiFi Hotspot while connected to WiFi network to share WiFi connection from your device to other devices as a WiFi Repeater. \n\n\nUsing WiFi Tether which is more faster than Bluetooth, and C libraries to make WiFi Tether faster than ever. \n\nExtend weak WiFi signal Using your phone.\nFacebook page https://Facebook.com/NetShareApp\n\nNetShare use VPN in the connected device service for routing ip packets to NetShare to provide full inter",
+    "icon": "/icons/kha.prog.mikrotik.png"
+  },
+  "com.mercusys.halo": {
+    "title": "MERCUSYS",
+    "package": "com.mercusys.halo",
+    "description": "Currently supports all Halo Mesh devices and some compatible routers (such as MR70X and MR30G). With MERCUSYS, you can monitor your home Wi-Fi from anywhere, and make changes right from your smartphone or tablet.\n\n\nWith Mercusys Mesh Technology, a set of three Halo units covers most homes (up to3000 square feet). The units work together to create fast, reliable and seamless Wi-Fi. At last, you can stream, game and browse in any room-even your basement or attic!\n\n\nMERCUSYS features:\n- Easy setup\n- Parental controls\n- QoS\n- Guest network\n- Monthly reporting\n- Remote network management\n\n\nTo set up your Halo network, simply plug one of your Halo units into your modem and follow the instructions in the MERCUSYS app. The app also helps you find the best spots in your home to place additional Hal",
+    "icon": "/icons/com.mercusys.halo.png"
+  },
+  "com.cisco.connect.cloud": {
+    "title": "Linksys",
+    "package": "com.cisco.connect.cloud",
+    "description": "This app is the command center for your Velop system and Linksys Smart WiFi routers. Use the Linksys app anywhere you have an internet connection to check connected devices, set up guest access, or keep your kids off the internet when they should be doing homework.\n\nKEY FEATURES\n\u2022 Remote Access \u2013 All you need is the internet.\n\u2022 Dashboard \u2013 Your WiFi's vital stats on one page.\n\u2022 Guest Access \u2013 Give friends internet access, but keep personal data secure.\n\u2022 Device Prioritization \u2013 Improve streaming and online gaming by giving WiFi priority to favored devices.\n\u2022 Network Security - Be proactive against network threats and malicious sites with Linksys Shield.\n\u2022 Parental Controls \u2013 Encourage kids' healthy internet behavior by pausing internet access.\n\nPrivacy Policy: https://www.linksys.com/embed",
+    "icon": "/icons/com.cisco.connect.cloud.png"
+  },
+  "com.udagrastudios.qrandbarcodescanner": {
+    "title": "QR Code Scanner - Barcode Scan",
+    "package": "com.udagrastudios.qrandbarcodescanner",
+    "description": "Want to generate QR codes with beautiful templates? \nWant to have a QR generator that can generate QR codes in your own style and add logos to QR code for attracting more scanners?\nWant to generate QR code for website links, contacts, text, Wifi, business card or social accounts?\nThen this QR code generator and QR code maker is definitely what you want!\n\nQR code reader, barcode scanner app focuses on the core functionality to scan and read the most common types of QR codes and barcodes with super fast speed and delightful user experience, designed for all Android devices.\n\nQR code reader, barcode scanner app is extremely easy to use. It simply uses the Android phone's camera to scan and read QR code and barcode in a second then allows you to do appropriate actions effectively.\n\nWHY CHOOSE ",
+    "icon": "/icons/com.udagrastudios.qrandbarcodescanner.png"
+  },
+  "netshare.wifihotspot": {
+    "title": "NetShare+  Wifi Tether",
+    "package": "netshare.wifihotspot",
+    "description": "NetShare + is a lite version of NetShare but the main difference is that NetShare + work on rooted devices to support devices not supported in the original NetShare app like ps4, xbox.. and also provide full internet access to non-android devices like iPhone, iPad, pc.. so streaming apps can access the internet.\n   Why NetShare?\nunlike other apps NetShare doesn't use the native hotspots which is now blocked in android 6 and above, instead it uses Wifi Direct in a new and elegant way to make your device act as a wifi hotspot and wifi extender in the same time using WiFi Direct.\n\n \n\ncreate wifi hotspot to share wifi and internet connection with  Android, pc, tablet, iphone ,ipad, mac, chrombook and more devices via wifi hotspot running over wifi direct\nvery easly and without root.\nNetShare i",
+    "icon": "/icons/netshare.wifihotspot.png"
+  },
+  "com.mbmobile": {
+    "title": "MB Bank",
+    "package": "com.mbmobile",
+    "description": "MBBank - Smart Financial Management\n\nEnjoy the perfect digital banking experience with APP MBBank! Our advanced banking app, smart interface, and user-friendly features bring you all the financial management utilities right at your fingertips.\n\nKey Features:\n- Smart Account and Asset Management: Check balances, track transactions, manage your accounts and assets within the MB Group anytime, anywhere.\n- Fast Money Transfers: Easily and securely transfer money 24/7, both domestically and internationally.\n- Bill Payments: Pay your electricity, water, internet bills, and other services within a few clicks.\n- Intelligent Savings: Automatically open savings accounts with attractive interest rates. Monitor and manage your savings effortlessly.\n- MB Membership: Affirm your status and enjoy interes",
+    "icon": "/icons/com.mbmobile.png"
+  },
+  "com.nttdocomo.android.msg": {
+    "title": "\uff0b\u30e1\u30c3\u30bb\u30fc\u30b8\uff08\u30d7\u30e9\u30b9\u30e1\u30c3\u30bb\u30fc\u30b8\uff09",
+    "package": "com.nttdocomo.android.msg",
+    "description": "This messaging app lets you communicate using just your mobile phone number. Enjoy group messaging, stamps, photos, and videos, as well as sending and receiving SMS.\n\nFeatures of \"+Message\"\n\u25c7Easy & Secure\n\u30fbGet started right away without registering!\n\u30fbMessages from people you don't have in your contacts are marked \"Not Registered,\" so you can easily identify them.\n\n\u25c7Convenient\n\u30fbCan be used with contacts whose icons appear in your \"Contacts\" app.\n\u30fbExchange photos and videos up to 100MB in size.\n\u30fbThe \"Read\" feature lets you know when the other person has opened the message screen.\n\n\u25c7Fun\n\u30fbUse stamps for expressive communication.\n\n\u25c7Connect\n\u30fbMessage with official company accounts. Receive important company announcements, complete procedures, and make inquiries!\n\u30fbOfficial company accounts are mar",
+    "icon": "/icons/com.nttdocomo.android.msg.png"
+  },
+  "com.pointsculture.storymorph": {
+    "title": "StoryMorph-Novels to Dramas",
+    "package": "com.pointsculture.storymorph",
+    "description": "\ud83d\udcd6 StoryMorph: Bring Every Story to Life\nSay goodbye to dull imagination--experience a feast for your eyes and ears! Ever stay up over a heart-wrenching plot twist? Longing to see your favorite characters come to life?\n\nWelcome to StoryMorph--a short drama platform for story lovers. Live performance and in-depth commentary condense the essence of long novels, delivering an unprecedented audiovisual experience.\n\n\u3010Core Features: Why Choose StoryMorph?\u3011\n\ud83d\ude80 Popular Novels, Real-Life Adaptations\nLive performances with professional commentary bring your beloved novels to high-quality short dramas. Say goodbye to plain reading--every line's emotion is vividly portrayed by expert actors.\n\n\ud83d\udd04 Dual Mode: Drama & Book in Sync\nWatch Short Dramas: 2-3 minutes per episode--fast-paced, twist-filled, with pr",
+    "icon": "/icons/com.pointsculture.storymorph.jpg"
+  },
+  "com.bitcs.desitalent": {
+    "title": "Changa - Made in India | Short",
+    "package": "com.bitcs.desitalent",
+    "description": "Tik Tok India: TikTok \u0915\u093e \u092d\u093e\u0930\u0924\u0940\u092f \u0935\u093f\u0915\u0932\u094d\u092a \n\n\u0921\u093e\u0909\u0928\u0932\u094b\u0921 \u0915\u0930\u0947 \u0935\u094d\u0939\u093e\u091f\u094d\u0938\u092a\u094d\u092a \u0938\u094d\u091f\u0947\u091f\u0938, \u0917\u0941\u0921\u092e\u0949\u0930\u094d\u0928\u093f\u0902\u0917 \u092a\u094b\u0938\u094d\u091f\u094d\u0938, \u0917\u0941\u0921 \u0928\u093e\u0908\u091f \u092a\u094b\u0938\u094d\u091f\u094d\u0938 \u0914\u0930 \u0926\u0947\u0916\u0947 \u092e\u0928\u094b\u0930\u0902\u091c\u0915 \u0935\u0940\u0921\u093f\u092f\u094b\u0938. \u092c\u0938 \u090f\u0915 \u0939\u0940 \u092c\u091f\u0928 \u092e\u0947\u0902 \u0936\u0947\u092f\u0930 \u0915\u0930\u0947 \u0905\u092a\u0928\u0947 \u0938\u092d\u0940 \u092e\u093f\u0924\u094d\u0930\u094b \u0938\u0947 \u0938\u093e\u0925\n\nChanga App is one of the fastest-growing short video & Live broadcasting platforms in India. Changa ne video ke duniya me chingari laga rakhi hai.\nChanga app is one of the best app for watching snack video app and for sharing videos on social media. download Changa.\n\nChanga app bharat ka apna app - latest social app hai\nShow our your talent In India & win prizes for making videos gain millions of followers \n\nUsing changa app you can:-\n1. Enjoy exciting videos.\n2. Use advance video editing features.\n3. Share videos with your families and friends.\n4. Earn fame and become a Changa star.\n5. Create Whatsapp statu",
+    "icon": "/icons/com.bitcs.desitalent.png"
+  },
+  "de.dvse.teccat": {
+    "title": "TecCat",
+    "package": "de.dvse.teccat",
+    "description": "The TecCat app: a product of the TOPMOTIVE group for the mobile use of the familiar parts catalog TecCat.\n\nThe TecCat app is based on the comprehensive TecDoc and DVSE Data Pool data representing the original data of the parts manufacturers and parts information for all passenger cars, light trucks or trucks. \n\nFor each item in the app, all the relevant information such as technical characteristics and product images are displayed. You will also find the articles linked to OE numbers and information to what vehicles these parts are built into. The application is suitable for use in workshops, trade and industry. \n\nUser can quickly and effectively search via part number or vehicle, and determine in which vehicles the part fit or which parts are required for the vehicle. The search is also p",
+    "icon": "/icons/de.dvse.teccat.png"
+  },
+  "com.att.dh": {
+    "title": "AT&T Device Help",
+    "package": "com.att.dh",
+    "description": "\u2022 Learn, Optimize and Diagnose your smartphone with the Device Help app from AT&T\n\u2022 Master your device with step-by-step guides and expert tips\n\u2022 Be alerted to needed updates that can improve device performance\n\u2022 Instantly pinpoint issues with your mobile device for quick and efficient troubleshooting\n\u2022 AT&T Device Help uses the Google Accessibility API as an optional component to the Guide Me function, and when enabled helps guide you through the steps physically on your device to help resolve common issues",
+    "icon": "/icons/com.att.dh.png"
+  },
+  "com.maxelus.livewallpaper.betta": {
+    "title": "Betta Fish",
+    "package": "com.maxelus.livewallpaper.betta",
+    "description": "Betta Fish (Fighter fish) is a 3D Live Walppaper free. If you like aquarium fishes or beautiful colors this is wallpaper for YOU. \n\nNEW version,  BETTA 120HZ is avaiable now : \n+ for display 90-120Hz\n+ Android 12+\n\nlink : https://play.google.com/store/apps/details?id=com.maxelus.livewallpaper.betta120\n\nBetta fishes have many types of shape, colors, details. This wallpaper have many options (in full version) to change fish colors, details, lights, background colors. \n\nI create it because I can't have live aquarium :( . I like see beautiful betta fish colors, shapes and move.\n\nFish swim to color dot. If you tap and move finger on screen, you may 'block' fish. \n\nThis wallpaper is for phones, but works on tablets too.\n\nPlease comments! Thanks!",
+    "icon": "/icons/com.maxelus.livewallpaper.betta.png"
+  },
+  "com.mynameringtonemaker.DJringtonemaker.ringtonemaker": {
+    "title": "My Name Ringtone - name ringto",
+    "package": "com.mynameringtonemaker.DJringtonemaker.ringtonemaker",
+    "description": "My Name Ringtone - name ringtone maker using this app you can create any name's awesome ringtone with variety of langauges like English,Chinese,French, German, Italian, Japanese, Korean.\n\nMy Name Ringtone - name ringtone maker app provide to create your name ringtone.Then this you can use with name caller.\n\nThis app also provides your device battery percentage & flash light on/off feature.\n\nHow to Use:\nUsing this app you can create name ringtone in 6 simple steps.\n1) Enter your favourite name in the textbox.\n2) Now Select or Enter Text You Want add after Your Name.\n3) Then Select Langauge of Voice.\n4) Then Play ringtone to listen.\n5) Now you can save the ringtone \n6) Set As Ringtone To set default ringtone\n\nFeatures:\n- See list of all created ringtones in app My Name Ringtone - name ringto",
+    "icon": "/icons/com.mynameringtonemaker.DJringtonemaker.ringtonemaker.png"
+  },
+  "om.mynameringtonemaker.DJringtonemaker.ringtonemaker": {
+    "title": "om.mynameringtonemaker.DJringtonemaker.ringtonemaker",
+    "package": "om.mynameringtonemaker.DJringtonemaker.ringtonemaker"
+  },
+  "com.samsung.memorysaver": {
+    "title": "Storage Saver",
+    "package": "com.samsung.memorysaver",
+    "description": "1.S Clean:\nCreate available space on your phone by automatically periodic deleting useless data. No user data will be deleted.\nIdentifying background processes/Services responsible for CPU hogging& excess memory usage\n\nThe data below will be automatically deleted according to the schedule you set.\nUnnecessary files\nCache files\nLog files\nUnnecessary folders\n\n2. Duplicate Remover:\nAuto recognize & prompt removal of unnecessary duplicate content. Current days duplicate images are not included for removal to avoid unnecessary scanning of files every time picture is clicked or saved.\n\n\n3. S Zip\nZip apps to optimize storage. Background Services for Unused Apps. User will not receive any notification from zipped apps. zipped apps can be restored with user data by unzipping from zipped folder or z"
+  },
+  "com.behringer.android.control.app.xair": {
+    "title": "X AIR",
+    "package": "com.behringer.android.control.app.xair",
+    "description": "The X AIR Android\u00ae App allows you to control all mixing, processing and effects functions of BEHRINGER's X AIR digital mixer series right from your Android\u00ae tablet or smartphone.\n\nX AIR for Android\u00ae delivers comprehensive control for the X18, XR18, XR16, and XR12 mixers. The user interface is configurable for either simplified access or expert level editing (S/E), for mixing 18 input channels to 12 buses. Control is also provided for the 4 internal stereo effects processors \u2013 all of which feature the critically-acclaimed BEHRINGER X32 audio processing engine.\n\nThe X AIR app provides the mobility to go where you need to get the most out of your system, enabling you to adjust your house mix from any seat or fine-tune monitor mixes from on-stage. Since all BEHRINGER's X AIR mixers feature int",
+    "icon": "/icons/com.behringer.android.control.app.xair.png"
+  },
+  "com.ezviz.hd": {
+    "title": "EZVIZ hd",
+    "package": "com.ezviz.hd",
+    "description": "EZVIZ \u2013 Security Video For Smart Life\n\nThe EZVIZ app is designed to work with our series of security NVRs, DVRs and cloud cameras. By using this app, it is so easy to manage your camera and other smart home devices remotely from across the globe any time.\n\nYou can get full access and remote control of all devices functions at fingertips, and take necessary actions to ensure the safety of your homes, businesses and loved ones when receiving immediate motion detection alerts on your phone.\n\nKey features:\n-View high-definition live stream from anywhere\n-See in the dark with IR light on\n-Playback recorded videos with CloudPlay, an SD card or NVR/DVR\n-Talk via Two-Way Audio\n-Get instant alerts when motion is detected\n-Customize detection zones and sensitivity\n-Set schedules to record the moment",
+    "icon": "/icons/com.ezviz.hd.png"
+  },
+  "com.globalfun.adventuretime.free": {
+    "title": "Adventure Time: Heroes of Ooo",
+    "package": "com.globalfun.adventuretime.free",
+    "description": "The Land of Ooo is in great peril!  Four princesses have been kidnapped by nefarious villains and are being held captive in dangerous dungeons spread across the land.  Join Finn and Jake on a mission to rescue the princesses.  Defeat the wicked villains to restore order in the Land of Ooo.  Get Ready!  It's Adventure Time!\n\n*************\n\u2605 Explore four radical dungeons.\n\u2605 Find maps to help you scope out the joint.\n\u2605 Gather amazing tools and wacky weapons.\n\u2605 Slay ugly monsters and collect awesome treasure.\n\u2605 It\u2019s freakin\u2019 Algebraic!\n*************\n\nHINT #1 - In the first dungeon, defeat the giant hamburger by smashing the tomato inside the hamburger with your mallet.\n\nHINT #2 - A weapon used to destroy the black rocks can be found in the second dungeon.\n\n-------------------------------------"
+  },
+  "com.coloros.filemanager": {
+    "title": "My Files",
+    "package": "com.coloros.filemanager",
+    "description": "My Files is OPPO's official file management app.\n\nSmart categorization\nOrganize your files into photos, videos, audio, documents, APKs, and archives. Documents and files can be filtered by the file format.\n\nEfficient search\nFilter your search results by date, source, type, category, and file format.\n\nAdditional features\nEasily manage your files in one place: View recent files, free up storage, compress files, back up files, add tags, and more.",
+    "icon": "/icons/com.coloros.filemanager.png"
+  },
+  "com.coloros.pictorial": {
+    "title": "ColorOS Pictorial",
+    "package": "com.coloros.pictorial",
+    "description": "Lock Screen Magazine provides high-quality wallpapers and allows users to customize their lock screens. Every time you wake your screen, the wallpaper automatically changes.",
+    "icon": "/icons/com.coloros.pictorial.png"
+  },
+  "com.theonegames.gunshipbattle": {
+    "title": "GUNSHIP BATTLE: Helicopter 3D",
+    "package": "com.theonegames.gunshipbattle",
+    "description": "The world's most powerful combat helicopters are at your fingertips.\n\n\u2605\u2605\u2605 70 million downloads!!! \u2605\u2605\u2605\nBecome a helicopter pilot and engage in combat missions across the world.\nSelect from a variety of rotary and fixed-wing VTOL aircraft to complete your missions.\n\n\u300eGUNSHIP BATTLE\u300f  is a helicopter action game that combines stunning 3D graphics with flight control simulation and engaging military scenarios to pull you into an immersive combat experience the moment you start the game. \n  \n\u3010 Features \u3011\n\n\u2605 Enjoy controls optimized for 3D flight.\n\n\u2605 Select from a wide range of helicopters, each with unique characteristics.\n\n\u2605 Arm your chopper with a variety of weapons and equipment.\n\n\u2605 Complete missions in Episode mode inspired by real-life conflicts.\n\n\u2605 Challenge yourself with the next mission",
+    "icon": "/icons/com.theonegames.gunshipbattle.png"
+  },
+  "com.adi.remote.phone": {
+    "title": "Smart TV Remote",
+    "package": "com.adi.remote.phone",
+    "description": "Smart TV Remote is with over 23 million downloads one of the most popular universal TV remote apps in Google Play!\n\nDefine your favourite channels and control your TV simply via channel logos. No annoying channel sorting is needed anymore. By using widges, notifications, and the Smart Action Bar, this app is always available, even if the app is not running in foreground.\n\nWith the new Smart TV Remote Alexa Skill you can control your TV by just using your voice! The skills are are available in German, English, and shortly in Italian!\n\nControl your home cinema over built in infrared blaster, WiFi network or external infrared sender:\n\nSmart TV Remote as network tv remote for Samsung TVs(2011-2013, 2016, 2017, 2018):\n\u2606Control the newest Samsung TVs over network: K, M, N and Q Series are now su",
+    "icon": "/icons/com.adi.remote.phone.png"
+  },
+  "com.wakdev.nfctools.pro": {
+    "title": "NFC Tools - Pro Edition",
+    "package": "com.wakdev.nfctools.pro",
+    "description": "NFC Tools - Pro Edition unlocks all the possibilities of the app NFC Tools.\n\nRead, write and program tasks on your NFC tags and other compatible NFC chips with a simple and lightweight user interface.\n\nGet access to all the tasks available in NFC Tools without any limitations and unleash the power of your imagination to create fun and useful routines.\n\nNFC Tools - Pro Edition includes additional and exclusive features such as:\n- A profile management system to save profiles (records and tasks) and reuse them later.\n- Import from existing NFC tags, to edit your records or tasks very quickly.\n- Executing tasks without NFC tags, using a shortcut on your home screen.\n- Emulate an NFC tag with your records (NDEF) using your device.\n- Conditional blocks to create complex actions with conditions.\n",
+    "icon": "/icons/com.wakdev.nfctools.pro.webp"
+  },
+  "com.wakdev.wdnfc": {
+    "title": "NFC Tools",
+    "package": "com.wakdev.wdnfc",
+    "description": "NFC Tools is an app which allows you to read, write and program tasks on your NFC tags and other compatible NFC chips.\n\nSimple and intuitive, NFC Tools can record standard information on your NFC tags which will be compatible with any NFC device. For instance, you can easily store your contact details, an URL, a phone number, your social profile or even a location.\n\nBut the app goes further and allows you to program tasks on your NFC tags in order to automate actions that were once boringly repetitive. Turn on the Bluetooth, set an alarm, control the volume, share a WiFi network configuration and more.\n\nA simple motion with your phone in front of your NFC tag before going to sleep, and your phone will switch to silence and your alarm will be set for the next morning, all by itself. Very co",
+    "icon": "/icons/com.wakdev.wdnfc.png"
+  },
+  "com.wakdev.nfctasks": {
+    "title": "NFC Tasks",
+    "package": "com.wakdev.nfctasks",
+    "description": "NFC Tasks is a companion app for NFC Tools.\n\nHaving the proper permissions, NFC Tasks will be in charge of the execution of all the tasks that have been previously recorded on your NFC tags.\n\nTo write and configure tasks on your NFC tag, you can search and download the app NFC Tools. Once your tasks have been configured correctly, simply pass your phone over your NFC tag to perform actions.\n\nIn addition to executing your tasks, the app allows you to configure a few several settings, like user variables, the permissions, the security and notification options, and more.\n\nExecuting tasks requires a lot more rights than the simple use of NFC on your phone, this is why we decided to separate this functionality from the main NFC Tools app. Having a companion app is also quite practical : it allo",
+    "icon": "/icons/com.wakdev.nfctasks.png"
+  },
+  "com.anonymous.SeritagEncoderApp": {
+    "title": "Seritag NFC Encoder",
+    "package": "com.anonymous.SeritagEncoderApp",
+    "description": "Seritag Encoder is an NFC app capable of reading, writing and locking a range of NFC tags. \n\nRead:\n- Scan an NFC tag to get the URL, text or other encoded data. \n- Get the Unique ID of an NFC chip.\n- Tell whether an NFC chip is locked or writable. \n- Identify the type of NFC chip you've scanned.\n\nEncode:\n- Write Text or a URL onto the NTAG2** family of NFC chips. \n\nLock:\n- Secure the NTAG2** family of NFC chip's against future data changes by locking it permenantly.\n\nThis app is produced and supported by Seritag, a trusted professional supplier of NFC tags, based in the UK.",
+    "icon": "/icons/com.anonymous.SeritagEncoderApp.png"
+  },
+  "com.nxp.taginfolite": {
+    "title": "NFC TagInfo by NXP",
+    "package": "com.nxp.taginfolite",
+    "description": "Did you ever wonder what value remains on your contactless public transport card?\nAre you interested to see which technology is driving the contactless cards in your hand?\nDo you want to look behind the scenes and explore which NFC-enabled items you and your friends have? Right here you can find the answer. Scan it using TagInfo.\n\nTagInfo is the second application provided to you by NXP Semiconductors that utilizes the Near Field Communication technology. NXP Semiconductors is the co-inventor of NFC and we do not only provide services to professionals but we like to provide utilities and apps for the masses as well. We are keen to help you explore NFC features of your devices and to make you enjoy the technology.\n\nMain features:\n- Value checker function for a selected range of public trans",
+    "icon": "/icons/com.nxp.taginfolite.png"
+  },
+  "com.kdanmobile.android.animationdeskcloud": {
+    "title": "Animation Desk\u2013Cartoon & GIF",
+    "package": "com.kdanmobile.android.animationdeskcloud",
+    "description": "** New Feature: Create Your Animated NFTs and Sell on OpenSea, Right in Animation Desk! **\nAnimation Desk provides versatile tools for creating frame-by-frame animation. Animation Desk is a perfect tool for animating, storyboarding and drawing your ideas. It\u2019s an app loved by professional and amateur animators, and many art enthusiasts.\n\nAWARDS\n- Featured by Yahoo Tech\n- Featured by TechCrunch\n- Recommended by EdTech Impact, edshelf, EducationalAppStore.com, All about apps in YOUR classroom\n\nCREATE ANIMATION \n\u2022 Onion skin\n\u2022 Frame viewers/ Frame timeline\n\u2022 Copy and paste tool\n\u2022 Layers\n\n[NEW] MAKE ANIMATED NFT\n\u2022 Mint NFTs, generate BNS verification proof, and list your NFTs on OpenSea\n\nDRAWING TOOLS\n\u2022 Brushes and erasers\n\u2022 Color palettes for developing and managing color schemes\n\u2022 Zoom in an",
+    "icon": "/icons/com.kdanmobile.android.animationdeskcloud.png"
+  },
+  "org.populistech": {
+    "title": "Guarani Ayvu",
+    "package": "org.populistech",
+    "description": "The Secretary of Language Policy, the Guarani Language Academy, the Institute of Modern Languages at the National University of Asuncion, PopulisTech, and the Recordings in Guarani Group formed a multidisciplinary workgroup to create the Android App \u201cGuarani Ayvu\u201d. Guarani Ayvu has a trilingual translator (Guarani/Spanish/English) and aims to be a language reference tool for the Paraguayan domestic audience as well as interested individuals abroad to proliferate Guarani understanding and language learning.   The focus of this App is to promote bilingualism between Paraguay\u2019s two official languages (Guarani and Spanish) as well as English. \n\nGuarani Ayvu is a free app for Android phones and tablets with 3,200 Guarani words translated to Spanish and English with Guarani audio pronunciations.",
+    "icon": "/icons/org.populistech.png"
+  },
+  "com.deishelon.lab.huaweithememanager": {
+    "title": "Theme Manager for Huawei/Honor",
+    "package": "com.deishelon.lab.huaweithememanager",
+    "description": "Themes / Fonts / Icons / Wallpapers / Emojis (beta) for your Huawei / Honor EMUI phone!\n\nNo launcher!\nNo root!\n\nSupported emui versions:\nEMUI 11\nEMUI 10\nEMUI 9 / EMUI 9.1\nEMUI 8\nEMUI 5\nEMUI 4\nEMUI 3\n\nSupported devises:\nAll Huawei / Honor devises running EMUI"
   }
 }
