@@ -28301,5 +28301,663 @@
     "package": "com.arc.normanmd.patient",
     "description": "Get on-demand urgent care right away from anywhere in Texas via messaging, audio or video chat, and image sharing. The NormanMD app allows you to quickly communicate with adult medicine and pediatric doctors or advanced practice clinicians (APCs) 24/7/365 about your immediate medical concerns.  All of our providers are local and part of our communities in Central Texas.\n\nOur experienced, board-certified adult medicine and pediatric providers can:\n\u2022\tanswer your medical questions\n\u2022\tdiagnose minor illnesses\n\u2022\ttreat common ailments\n\u2022\tprescribe medications as needed\n\u2022\tdirect you to the most appropriate place to address your healthcare needs\n\nInstant Message\nWant to know if there is an over-the-counter medication you can take?  Not sure if you need an office visit?  Start with a direct message a",
     "icon": "/icons/com.arc.normanmd.patient.jpg"
+  },
+  "com.rsa.customer": {
+    "title": "Ride Skipper: On-Demand Driver",
+    "package": "com.rsa.customer",
+    "description": "Skip the Drive, Enjoy the Ride with Ride Skipper - an on-demand chauffeur business, taking you anywhere you want to go, any time, in your own car. Our mobile application enables you to hire highly vetted, very safe, well-presented drivers in just a few clicks. We charge on a flat rate basis, so you know exactly what you\u2019re paying before you travel, regardless of traffic or diversion delays.\n\nOur clients love us for our commitment to driver training and safety, cleanliness and how well our drivers communicate in English. Try Ride Skipper now and see how easy we make: \n\u2022\tGetting home safely after a night out \n\u2022\tGetting your kids to school in the comfort and familiarity of their own car and car seat\n\u2022\tStarting your travels off right with safe and reliable airport runs and meet and greet servi",
+    "icon": "/icons/com.rsa.customer.png"
+  },
+  "com.customchurchapps.connect": {
+    "title": "Connect with Skip Heitzig",
+    "package": "com.customchurchapps.connect",
+    "description": "Connect with Skip Heitzig is the teaching ministry of Bible teacher Skip Heitzig, senior pastor at Calvary Church Albuquerque.\n\nConnect with Skip Heitzig equips believers to live according to God's principles with powerful and engaging teachings that will captivate, encourage, and excite you. With topical studies and verse-by-verse exposition through the entire Bible, Connect presents the Word of God in a format that is contemporary, relaxed, and relevant.\n\nMobile app version: 6.20.2",
+    "icon": "/icons/com.customchurchapps.connect.png"
+  },
+  "com.triadicsoftware.accident": {
+    "title": "Skipr - Mobile Ordering",
+    "package": "com.triadicsoftware.accident",
+    "description": "Placing orders really should be \"that simple\"\n\nLet's be honest, saving time is great, but so is making more money. We make your orders simple, and efficient! \n\nWe made it easier for you to manage your orders, so if you're already part of the family, login below! \n\nIf you're not, keep scrolling to find out why you should!",
+    "icon": "/icons/com.triadicsoftware.accident.png"
+  },
+  "com.whitestork.skip.admin": {
+    "title": "SKIP: From invite to event.",
+    "package": "com.whitestork.skip.admin",
+    "description": "Why Choose SKIP?\nPersonalized Recommendations: Explore events that match your interests and preferences, and make sure you never miss out on the shows you'll love.\nGet Tickets Worldwide: Secure tickets to shows in your city and around the world, allowing you to immerse yourself in unforgettable experiences.\nStay Updated with Favorites: Follow your favorite artists and venues to be the first to hear about new shows and exclusive offers.\nConnect with Friends: Invite friends and receive suggestions for shows you can enjoy together, creating lasting memories.\nPlan: Save events for later and check ticket availability so you never miss an opportunity.\nShare the Joy: Send tickets to a friend as a gift or if you have a spare, spreading the excitement and making someone's day.\n\nDownload SKIP now to",
+    "icon": "/icons/com.whitestork.skip.admin.png"
+  },
+  "com.mindway.skipsolitaireclassiccards": {
+    "title": "Skip Solitaire classic cards",
+    "package": "com.mindway.skipsolitaireclassiccards",
+    "description": "Forget slow solitaire!** Skip Solitaire Classic Cards takes the classic card game to lightning speed with thrilling sequence building and strategic Skip card action.\n\n\u23eb Blitz through solo rounds in minutes.  It's the perfect pocket-sized brain challenge for anytime, anywhere. \u23f1\ufe0f\n\n\ud83c\udccf Here's what makes Skip Solitaire your new obsession:\n\n\u26a1 Fast-Paced Sequencing: Build ascending card sequences (1, 2, 3...) across four discard piles, but use those special Skip cards to jump ahead and outsmart your rivals!\n\u23f1\ufe0f Quick Rounds, Big Fun: Games take just minutes to play, making it perfect for short bursts of brain-teasing excitement. Squeeze in a quick round on your commute, lunch break, or even in between tasks!\n** Classic Charm:** Immerse yourself in a beautifully crafted world with familiar solitair",
+    "icon": "/icons/com.mindway.skipsolitaireclassiccards.png"
+  },
+  "be.bmid.itsme": {
+    "title": "itsme",
+    "package": "be.bmid.itsme",
+    "description": "ITSME\u00ae, YOUR DIGITAL ID\n\nSecure log in, data sharing or signing documents, all you need is your itsme\u00ae app. Just like almost 7 million users, with the itsme\u00ae app you no longer need a card reader or a litany of passwords.\n\nYOU ARE IN CONTROL\n\nYou can easily share your data across more than 800 government platforms and companies, without revealing everything. With itsme\u00ae you know exactly what data you share and when.\n\nWHAT MAKES ITSME\u00ae STAND OUT?\n\nIn addition to the ease of use and clear overview of what you share with whom, thanks to a state-of-the-art security measures, you can rest assured that your personal data is always protected.\n\nitsme\u00ae is available for each citizen in Belgium, the Netherlands, Luxembourg and France (with more countries being added soon).\n\nVisit itsme-id.com for more",
+    "icon": "/icons/be.bmid.itsme.png"
+  },
+  "site.mises.browser_stable": {
+    "title": "Mises Browser",
+    "package": "site.mises.browser_stable",
+    "description": "Mises browser is a fast secured and extension supported web3 mobile browser, our mission is to let our users' web3 experience on mobile is as good as on PC.\n\nRight now Mises Browser has 4 major features\n\n1.Extension\n\nMises Browser supports a lot of Chrome extensions on mobile phones. Users can install and run web3 extensions on Mises. \n\n2.Security\n\nMises browser allows users to use web3 products quickly and safely and prevent phishing through a whitelist system and partnership with security companies.\n\n3.web3 domain name resolution\n\nMises browser supports web3 domain name resolution, the first batch of supported domain names include: ens, unstoppable domain and .bit.\n\n4.web3 dapp aggregation\n\nmises browser aggregates more than 400 mainstream web3 dapp in the market, which is convenient for",
+    "icon": "/icons/site.mises.browser_stable.png"
+  },
+  "com.gumtree.android": {
+    "title": "Gumtree \u2013 Buy & Sell",
+    "package": "com.gumtree.android",
+    "description": "Gumtree\nBuy & Sell\n\nWith the Gumtree app, getting your home sorted is a breeze! Whether you're clearing out to make space, selling to earn some extra cash, or searching for trusted local services - we've got everything you need, all in one place.\n\nSell with ease\nPre-loved, replaced it, or just no longer need it? Snap a pic, post your ad - it\u2019s quick, simple, and free. More than 27 million replies exchanged annually, your item gets the visibility it needs to find the right buyer, fast.\n\nBuy, find what you need\nDiscover thousands of second-hand items and essential services, from furniture and tools to cars and plumbers - and with 17.5 million new Ads listed annually, there\u2019s always new options waiting for you.\n\nChat with confidence\nOur improved in-app messaging makes it easy to stay connecte",
+    "icon": "/icons/com.gumtree.android.png"
+  },
+  "com.ebay.gumtree.za": {
+    "title": "Gumtree SA | Buy. Sell. Save.",
+    "package": "com.ebay.gumtree.za",
+    "description": "Join the more than one million happy folk who buy and sell their new and used items on South Africa's largest online marketplace. Now you can Buy and Sell with confidence using Gumtree\u2019s Pay & Ship feature.\n\n- Buy online: Pay for your item securely on Gumtree and have it shipped to anywhere in SA. You are protected if the item doesn\u2019t arrive, arrives damaged or differs significantly from its description.\n\n- Sell with Confidence: Get paid securely and reach more buyers by selling nationwide! With Gumtree you can sell your goods without having to meet your buyer in person.\n\n- Keep in contact: Interact with the buyer or seller using the in-app messaging feature for quick, easy, and secure correspondence.\n\n- Stay safe: Our smart ID verification system is designed with your safety in mind.\n\n- P",
+    "icon": "/icons/com.ebay.gumtree.za.png"
+  },
+  "com.ebay.gumtree.au": {
+    "title": "Gumtree: Shop & resell local",
+    "package": "com.ebay.gumtree.au",
+    "description": "Buy and sell, find jobs, make money, & save\u2014all within Gumtree, Australia's local classifieds marketplace. Shop a range of second-hand items, from cars to fitness and sports to fashion, furniture, second-hand clothes, TVs and more; search among more than 2 million listings to find the perfect deals. Whether you want to find furniture, resell clothes, shop for the right car, or if you\u2019re in the market for real estate or fancy switching your current job for a new one, join the classifieds platform for those who are buying and selling locally. Discover all the listings and private ads that are selling in your neighbourhood. Local shopping made simple\u2014let's make money!\n\nGumtree is the local classifieds marketplace that lets you browse and buy anything you wish on the go, from workout gear to t",
+    "icon": "/icons/com.ebay.gumtree.au.png"
+  },
+  "com.musicapp.lyra": {
+    "title": "Lyra - Music, Radio & Podcasts",
+    "package": "com.musicapp.lyra",
+    "description": "Meet Lyra \u2013 the music streaming app designed for those who live for sound.\n\n\nStream millions of tracks, create your own playlists, and vibe with a beautiful, lightning-fast interface. Lyra is your companion for every mood, workout, party, and moment of calm.\n\n\nKey features:\n\n\n\u2022 Unlimited music streaming\n\n\u2022 Listen to trending podcasts across every genre\n\n\u2022 Live radio stations from around the world\n\n\u2022 Curated playlists for every vibe\n\n\u2022 Save your favorite tracks and listen again anytime\n\n\u2022 Sleek, minimal design with dark & light mode\n\n\u2022 Discover new artists and top charts\n\n\u2022 Lightweight, fast, and privacy-focused\n\n\u2022 No account required\n\n\nWhether you're chilling at home, driving, or working out \u2014 Lyra makes every beat count.",
+    "icon": "/icons/com.musicapp.lyra.png"
+  },
+  "com.lyra.lyrawebmobile": {
+    "title": "Lyra Health",
+    "package": "com.lyra.lyrawebmobile",
+    "description": "Whether you're coping with sadness or anxiety, a loss in your family, stress at work, living in a new country or raising your kids, Lyra can get you back on your feet. Lyra Health is a mental health and well-being benefit. You can use the Lyra Health app if your organization or health plan offers Lyra and has enabled the app.\n\nEasily find confidential care for your emotional and mental health how, when, and where you need it. Access self-care resources or schedule an appointment with a provider personalized to your needs and preferences right from the app.\n\nWith the Lyra Health app, you can:\n\u2023 Access well-being resources through the Lyra mobile app anytime, anywhere\n\u2023 Meet with providers personalized to you and share how you are feeling\n\u2023 Complete video lessons, exercises, and meditations ",
+    "icon": "/icons/com.lyra.lyrawebmobile.png"
+  },
+  "com.lyra.lyracollect": {
+    "title": "Lyra Collect",
+    "package": "com.lyra.lyracollect",
+    "description": "Application for e-commerce professionals. Warning! To use it, you need to have a contract with Lyra Collect: https://www.lyra.com/contact/\n\nUse the Lyra Collect Back Office to securely access your account and manage your payments.\n\nThis user-friendly mobile application contains all the Lyra Collect Back Office features allowing you to easily manage your e-commerce payments:\n\n  \u2022 Real-time transaction tracking\n  \u2022 Viewing transaction details\n  \u2022 Validation, refund, cancellation, modification or duplication of a transaction\n  \u2022 Manual review: Ability to validate or cancel pending transactions\n  \u2022 User settings: Change your settings\n\nWith your Lyra Collect offering, enjoy and offer more than 150 payment methods, ranging from the most essential to the most specific. This extensive range of pay",
+    "icon": "/icons/com.lyra.lyracollect.png"
+  },
+  "com.ColdHours.Lyra2": {
+    "title": "Lyra 2",
+    "package": "com.ColdHours.Lyra2",
+    "description": "Lyra 2 is the sequel to a simple, relaxing, minimalist puzzle game that offers endless levels. The only goal is to clear the level, there are no timers, no achievements, no distractions, just the number of cleared levels going up.\n\nAre you looking for a game that you can just relax and play without thinking too much, a game that you can play anytime, anywhere?\nLyra 2 is here for you.\n\nFeatures:\n\n- No Ads\n- Play Offline\n- All levels are free\n- Multiple Game modes\n- Dynamic Backgrounds\n- Cloud Saves\n- Leaderboards\n\nHave fun :)",
+    "icon": "/icons/com.ColdHours.Lyra2.png"
+  },
+  "com.yangdai.opennote": {
+    "title": "Open Note: Markdown Notepad",
+    "package": "com.yangdai.opennote",
+    "description": "Welcome to our convenient note-taking app! Whether you're struck with inspiration at a caf\u00e9 or receive an important task while commuting on the subway, this app will be your faithful companion for capturing life's moments. Let's explore how it helps you better organize and manage the bits and pieces of your life:\n\n- Basic Notepad: Picture yourself lounging on your living room couch, suddenly struck with a brilliant idea. No worries\u2014open the app, tap away, and ensure that idea doesn't slip away from your mind.\n\n- Markdown Editor: You're crafting a blog post and wish to make it look more professional and visually appealing. With our Markdown editor, you can effortlessly add headings, lists, links, and more, making your blog content clearer and more readable.\n\n- Folder Categorization: Recentl",
+    "icon": "/icons/com.yangdai.opennote.png"
+  },
+  "com.wbrawner.simplemarkdown": {
+    "title": "Simple Markdown",
+    "package": "com.wbrawner.simplemarkdown",
+    "description": "Simple Markdown is an open source markdown editor that (surprise) allows you to quickly and easily edit markdown files, and then share them as you please. \n\nIf you find any bugs, you can submit them here: \nhttps://github.com/wbrawner/SimpleMarkdown/issues\n\nIf you'd like to contribute to the code, you can find it here:\nhttps://github.com/wbrawner/SimpleMarkdown\n\nAlso feel free to contact me directly if you have any questions or concerns :)",
+    "icon": "/icons/com.wbrawner.simplemarkdown.png"
+  },
+  "com.nithishgajula.easymarkdown": {
+    "title": "Easy Markdown",
+    "package": "com.nithishgajula.easymarkdown",
+    "description": "Easy Markdown is a\u00a0simple and easy-to-use\u00a0app for writing Markdown files on your Android device! \ud83d\udcdd\u2728\n\n\u270d\ufe0f\ud83d\udcc2 Create new markdown files or open existing ones quickly.\n\n\ud83d\udc40 See your markdown text\u00a0come alive\u00a0with a beautiful live preview.\n\n\ud83d\udd24\ud83d\udd17 Use handy tools to add\u00a0headings, lists, bold/italic text, and links\u00a0with just a tap.\n\n\u2795\u2797Write and view\u00a0math formulas\u00a0with KaTeX support\u2014great for students and anyone who loves math!\n\n\ud83d\udd12\ud83d\udcf1 Keep all your files safe and private\u2014everything is saved locally on your device. \n\n\u267b\ufe0f Clear your text to start fresh anytime!\n\n\ud83d\udcda\ud83d\ude0a A helpful guide is included to teach you how to use Markdown easily.\n\nPerfect for beginners and pros alike!\n\nEasy Markdown makes writing fun, fast, and\u00a0beautiful. Try it now! \ud83c\udf89",
+    "icon": "/icons/com.nithishgajula.easymarkdown.png"
+  },
+  "com.adeeteya.markdown_editor": {
+    "title": "Markdown Editor",
+    "package": "com.adeeteya.markdown_editor",
+    "description": "Introducing the Markdown Editor app, the perfect tool for anyone who needs to create and edit markdown files with ease. With the ability to open \".md\" files directly from the explorer, you can easily access your files and start working on them right away.\n\nThe app also offers a convenient way to style your text with options such as bold, italics, headings, and more. Adding links is also a breeze with the simple interface.\n\nIn addition, you can preview JPEG, PNG, GIF, WebP, BMP, and WBMP image formats right within the app. You can easily open links from the preview, making it easy to navigate between different files and sources.\n\nChoose between Light and Dark Theme Modes, and use the Dual View Mode to simultaneously view both the preview and editing views. Alternatively, you can use Single ",
+    "icon": "/icons/com.adeeteya.markdown_editor.png"
+  },
+  "com.ZetaDev.PocketMark": {
+    "title": "Markdown editor - PocketMark",
+    "package": "com.ZetaDev.PocketMark",
+    "description": "PocketMark is the editor for Markdown (.md) files you've been searching for all this time, it's feature include, but are not limited to:\n\n\ud83d\udcdd Find Your Files at a Glance: Markdown files are elegantly displayed in a dynamic grid, making it a breeze to manage your notes. Say goodbye to cluttered interfaces!\n\n\ud83c\udfa8 Sleek Minimalist Design, Maximum Impact: PocketMark has a sleek UI with delightful non-intrusive animations ensures a distraction-free writing experience maintaining yet eye-pleasing.\n\n\u270f\ufe0f Smart Markdown Editor: Enjoy real-time syntax highlighting as you write, making writing .md files much more enjoyable.\n\n\ud83d\udcd6\u200b Full Markdown Syntax Support: PocketMark supports the full markdown catalog, you will have all the tools you need at your disposal.\n\n\ud83d\udcd0 LaTeX Formula Support: Add and render LaTeX ma",
+    "icon": "/icons/com.ZetaDev.PocketMark.png"
+  },
+  "com.metv.metvandroid": {
+    "title": "MeTV",
+    "package": "com.metv.metvandroid",
+    "description": "MeTV - America's #1 Classic Television Network - read about your favorite shows and nostalgia on your phone and tablet. \n\nYour feedback can help make the MeTV app better for everyone. Share your app feedback with android-feedback@metv.com.",
+    "icon": "/icons/com.metv.metvandroid.png"
+  },
+  "com.google.android.tv": {
+    "title": "Live Channels",
+    "package": "com.google.android.tv",
+    "description": "Live Channels app is for watching Live TV.  Watch your favorite news, sports, movies and TV shows from various channel sources such as  built-in tuner, IP-based tuners, and more and show them instantly on your Android TV.\n  Permissions Notice:\n  * Location: Needed to provide a complete program guide for the TV channels.\n  * Storage: Needed to load poster arts of programs.\n  * TV listings: Needed to show a program guide and a channel banner.",
+    "icon": "/icons/com.google.android.tv.png"
+  },
+  "com.tvslines.tvlistings": {
+    "title": "TV Listings USA",
+    "package": "com.tvslines.tvlistings",
+    "description": "TV Listings USA is FREE and allows you to find out what's on television now and next seven days schedules in the USA.\n\nGet the latest tv listings for all the major TV channels, networks and providers in the USA, with modern, beautiful and smart interface.\n\nIntelligent synchronizing and caching make ability to work offline in case of temporary internet connection loss, save bandwidth... Help you easy to get TV schedules every time.\n\nTV Listings app also provides basic guide information about shows, episodes, series,...\nReminder feature helps you never miss any favorite TV programs.\nFollow series, build a personalized tv guide help you never miss any new episodes.\n\nDownload the TV Listings for free and get everything you need to make watching TV simple!\n\nTHIS APP ISN'T FOR WATCHING TV SHOWS,",
+    "icon": "/icons/com.tvslines.tvlistings.png"
+  },
+  "com.onlinetvone.onlinetviptvbox": {
+    "title": "Online TV",
+    "package": "com.onlinetvone.onlinetviptvbox",
+    "description": "\u06a9\u06c6\u0645\u067e\u0627\u0646\u06cc\u0627\u06cc \u0626\u06c6\u0646\u0644\u0627\u06cc\u0646 \u0628\u06c6 \u062a\u06d5\u06a9\u0646\u06d5\u0644\u06c6\u062c\u06cc\u0627\u06cc\u06cc \u0632\u0627\u0646\u06cc\u0627\u0631\u06cc \u0648 \u067e\u06ce\u062f\u0627\u0648\u06cc\u0633\u062a\u06cc \u0626\u06d5\u0644\u06cc\u06a9\u062a\u0631\u06c6\u0646\u06cc \u0648 \u062f\u0627\u0628\u06cc\u0646\u06a9\u0631\u062f\u0646\u06cc \u062e\u0632\u0645\u06d5\u062a\u06af\u0648\u0632\u0627\u0631\u06cc \u0626\u06cc\u0646\u062a\u06d5\u0631\u0646\u06ce\u062a\u06d5 \u0644\u06d5 \u0647\u06d5\u0631\u06ce\u0645\u06cc \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646 \n\n\u0644\u06d5 \u06a9\u06c6\u0645\u067e\u0627\u0646\u06cc\u0627\u06cc \u0626\u06c6\u0646\u0644\u0627\u06cc\u0646 \u0633\u06d5\u0631\u062c\u06d5\u0645 \u067e\u06ce\u062f\u0627\u0648\u06cc\u0633\u062a\u06cc\u06d5\u06a9\u0627\u0646\u06cc \u062f\u0627\u0645\u06d5\u0632\u0631\u0627\u0646\u062f\u0646\u06cc \u0647\u06ce\u06b5\u06cc \u0626\u06cc\u0646\u062a\u06d5\u0631\u0646\u06ce\u062a \u0628\u06d5\u0631\u062f\u06d5\u0633\u062a\u06d5 \u0648 \u0626\u06c6\u0641\u06d5\u0631\u06cc \u062a\u0627\u06cc\u0628\u06d5\u062a\u0645\u0627\u0646 \u0647\u06d5\u06cc\u06d5 \u0628\u06c6 \u062f\u0627\u0645\u06d5\u0632\u0631\u0627\u0648\u06d5 \u062d\u06a9\u0648\u0645\u06cc\u06d5\u06a9\u0627\u0646 \u0648 \u067e\u0695\u06c6\u0698\u06d5 \u0648 \u06a9\u06d5\u0631\u062a\u06d5 \u062a\u0627\u06cc\u0628\u06d5\u062a\u06d5\u06a9\u0627\u0646 .\n\n\u0626\u06ce\u0645\u06d5 \u062e\u0627\u0648\u06d5\u0646 \u062a\u06cc\u0645\u06ce\u06a9\u06cc \u067e\u06ce\u0634\u06d5\u0646\u06af\u06cc\u0646 \u0628\u06c6 \u062f\u0627\u0645\u06d5\u0632\u0631\u0627\u0646\u062f\u0646 \u0648 \u06af\u06d5\u06cc\u0627\u0646\u062f\u0646\u06cc \u0626\u06cc\u0646\u062a\u06d5\u0631\u0646\u06ce\u062a \u0628\u06d5 \u0626\u06ce\u0648\u06d5\u06cc \u0628\u06d5\u0695\u06ce\u0632 \u0648 \u0628\u06d5\u0631\u062f\u06d5\u0648\u0627\u0645\u06cc\u0646 \u0644\u06d5 \u062e\u0632\u0645\u06d5\u062a\u06a9\u0631\u062f\u0646 \u0648 \u062c\u06ce\u0628\u06d5\u062c\u06ce \u06a9\u0631\u062f\u0646\u06cc \u062f\u0627\u0648\u0627\u06a9\u0627\u0631\u06cc \u06a9\u0695\u06cc\u0627\u0631\u0627\u0646 \u0648 \u0628\u06d5\u0698\u062f\u0627\u0631\u0628\u0648\u0627\u0646\u0645\u0627\u0646 .\n\n\u0626\u06d5\u0645 \u0628\u06d5\u0631\u0647\u06d5\u0645\u06d5\u0645\u0627\u0646 \u062e\u0632\u0645\u06d5\u062a\u06af\u0648\u0632\u0627\u0631\u06cc ( \u0626\u0627\u06cc \u067e\u06cc \u062a\u06cc\u06a4\u06cc\u06d5 ) \u0628\u06c6 \u0628\u06d5\u0698\u062f\u0627\u0631\u0628\u0648\u0627\u0646\u0645\u0627\u0646\u06cc \u0647\u06ce\u06b5\u06d5\u06a9\u06d5\u0645\u0627\u0646 \u060c  \u0626\u06d5\u067e\u06d5\u06a9\u06d5\u06cc \u0633\u06d5\u0631\u06d5\u0648\u06d5 \u0628\u06c6 \u0633\u06cc\u0633\u062a\u0645\u06cc \u0626\u06d5\u0646\u062f\u0631\u06c6\u06cc\u062f \u0648 \u062a\u06cc\u06a4\u06cc \u0633\u0645\u0627\u0631\u062a\u06d5 \u06a9\u06d5 \u0633\u06cc\u0633\u062a\u0645\u06cc \u0626\u06d5\u0646\u062f\u0631\u06c6\u06cc\u062f\u06cc \u0644\u06d5\u0633\u06d5\u0631 \u0628\u06ce\u062a",
+    "icon": "/icons/com.onlinetvone.onlinetviptvbox.png"
+  },
+  "com.navi.mobilenext": {
+    "title": "Navi: AI Travel & Safety Guide",
+    "package": "com.navi.mobilenext",
+    "description": "Explore smarter. Plan faster. Discover better.\n\nFrom the folks who brought you Waze for Cities, Navi is your personal AI city guide built to help you discover the best places, plan your day effortlessly, and move through your surroundings with confidence.\n\nInstead of searching endlessly through reviews, maps, and social feeds, simply ask Navi what you\u2019re in the mood for\u2014and it instantly curates personalized recommendations, routes, and guides tailored just for you.\n\nWhether you\u2019re exploring a new city or rediscovering your own neighborhood, Navi brings everything together in one seamless experience.\n\nDISCOVER THROUGH CONVERSATION\n\nAsk natural questions like:\n\n\u2022 \u201cWhat\u2019s a great coffee walk near me?\u201d\n\u2022 \u201cPlan a date night downtown.\u201d\n\u2022 \u201cFind a chill bar with outdoor seating.\u201d\n\u2022 \u201cWhat\u2019s fun wit",
+    "icon": "/icons/com.navi.mobilenext.png"
+  },
+  "com.alja.navi": {
+    "title": "Navi - Marine Navigation",
+    "package": "com.alja.navi",
+    "description": "Navi is your perfect companion for outdoor adventure. Designed for maritime navigation, trekking, hiking, cycling, skiing and much more, it combines high-quality maps with the essential tools every adventurer needs.\nKEY FEATURES\nReal-time GPS\n\nSpeed (SPD) in knots, km/h or mph\nCourse over ground (COG)\nAccurate GPS position with satellite indicator\nAdaptive display in portrait and landscape\n\nUnlimited offline maps\n\nDownload unlimited areas FREE\nNavigate without internet connection\n6 map styles: Ocean, Streets, Outdoor, Hybrid, Satellite, Basic\nOpenSeaMap nautical marks (buoys, lighthouses, beacons)\n\nWaypoints and navigation\n\nCreate waypoints with long-press\nPoint-to-point navigation\nDistance (DST) in km, nautical miles or statute miles\nReal-time bearing (BRG)\nComplete management of saved po",
+    "icon": "/icons/com.alja.navi.png"
+  },
+  "com.gpstuner.navie": {
+    "title": "Navie",
+    "package": "com.gpstuner.navie",
+    "description": "Plan, ride, and explore with confidence. \nNavie gives you accurate, reliable navigation made especially for eBikes.\n\nEnjoy seamless route planning, real-time guidance, and precise range prediction \u2014 everything you need for a smarter ride.\nNavie helps you get the most out of every journey.\n\n\nPRECISE RANGE PREDICTION\nSmart Range, Powered by Real-Time Data\n\nSee exactly how far you can ride before your battery runs out. \nThe app uses real-time eBike data and your riding habits to calculate your remaining range. \nPlan your trips smarter and enjoy every ride without worry.\n\n\nNAVIGATION\nSmart Navigation for Every Ride\n\nIn addition to this, the app includes a 3D map function, allowing you to view your route with a dynamic, tilted perspective for easier navigation and better orientation. \nYou can a",
+    "icon": "/icons/com.gpstuner.navie.png"
+  },
+  "com.mt.sound.funny": {
+    "title": "Giggle",
+    "package": "com.mt.sound.funny",
+    "description": "Discover a world of hilarious memes and entertaining content curated just for you.",
+    "icon": "/icons/com.mt.sound.funny.png"
+  },
+  "com.tagmango.giggles": {
+    "title": "Giggles Program",
+    "package": "com.tagmango.giggles",
+    "description": "You Are Your Baby\u2019s First Playmate\n\nA mother\u2019s love is instinctive, but knowing how to support your baby\u2019s growth through meaningful play is something we can all learn. In those early months, play is not just fun... it is your baby\u2019s way of discovering the world. And you are their first, most important partner in that journey.\n\nFrom your growing bump to your baby\u2019s first steps, each phase can be filled with joyful, mindful play that supports development in gentle, loving ways. With just your voice, touch, and time, you can build a connection that lasts a lifetime.\n\nPlay That Nurtures, Feels Like Home\n\nIn an age of endless parenting advice, this program offers something different: simple, relevant, expert-backed guidance rooted in Indian culture. It has been created by specialists in early ",
+    "icon": "/icons/com.tagmango.giggles.png"
+  },
+  "com.stanwell.dreamstair": {
+    "title": "Giggles",
+    "package": "com.stanwell.dreamstair",
+    "description": "We are passionate ELEGANT Publisher Pvt Ltd.  app provides the complete \nsolution for E-learning.\nHere, you will find animated videos, comprehensive smart e-books, and a test generator.\nDay by day we are adding more E-content and providing the best.\n\nTop Features:\n1. Focused on best.\n2. Complete course smart E-Books. \n3. Animated Videos for all Subjects.\n4. Regular Updates of books and animation.\n5. Teacher's help book",
+    "icon": "/icons/com.stanwell.dreamstair.png"
+  },
+  "com.giggleacademy.app": {
+    "title": "Giggle Academy: Learn and Play",
+    "package": "com.giggleacademy.app",
+    "description": "Want your child to learn languages like English, Spanish independently through play?\nGiggle Academy is a free, AI-driven language learning app for children. It includes language courses, interactive games, children's stories, and learning activities, aiming to cultivate kid's reading, writing, speaking,creativity, imagination, and social-emotional skills.\nWhy Choose Us?\n- An English learning app that truly gets kids to speak: our AI-guided animated lessons achieve over 95% speaking participation.\n- Gamified learning solves attention problems and keeps children motivated, helping them build long-term study habits.\n- Completely free \u2014 our mission is to provide equal educational opportunities and resources to every child worldwide.\n- Personalized learning: adaptive learning paths adjust to yo",
+    "icon": "/icons/com.giggleacademy.app.png"
+  },
+  "com.tutotoons.app.gigglebabies": {
+    "title": "Giggle Babies - Toddler Care",
+    "package": "com.tutotoons.app.gigglebabies",
+    "description": "Have you ever wondered what it would be like to run a toddler daycare & be a babysitter? Have you ever wanted to look after cute and funny babies and toddlers or play fun baby games with Giggle Babies? Become a babysitter in this cute baby daycare game Giggle Babies - Toddler Care - the ultimate destination for fun and educational baby games! Run a super cute babies' daycare, take care of the toddlers, play baby games, feed the babies, dress them up and most importantly - have fun!\n\nTake care of cute babies in daycare\nGive them food to calm their hungry tummies, bathe them so they smell clean and sweet, train cute toddlers to go potty, play baby games with them, and be the best virtual daycare babysitter in the world! The babies will thank you for all the care!\n\nPlay fun baby games & mini-",
+    "icon": "/icons/com.tutotoons.app.gigglebabies.png"
+  },
+  "com.jostleme.jostletv": {
+    "title": "Jostle TV",
+    "package": "com.jostleme.jostletv",
+    "description": "JostleTV broadcasts company news to TV screens in lunch rooms, meeting rooms, and factory floors. It\u2019s a great way to engage everyone across your organization, wherever they are in your office!\n\nTo use this app, your organization must have a Jostle account.",
+    "icon": "/icons/com.jostleme.jostletv.png"
+  },
+  "com.grandeurnoire.gntv": {
+    "title": "GNTV",
+    "package": "com.grandeurnoire.gntv",
+    "description": "Short, immersive videos that tell the history, cultures, travel and entrepreneurship in Africa and its diaspora. An application to entertain while learning!",
+    "icon": "/icons/com.grandeurnoire.gntv.png"
+  },
+  "com.snowprintstudios.tacticus": {
+    "title": "Warhammer 40,000: Tacticus \u2122",
+    "package": "com.snowprintstudios.tacticus",
+    "description": "Warhammer 40,000: Tacticus \u2122 is a turn-based tactical strategy game set in the eternal conflict of Games Workshop's Warhammer 40,000 Universe. Experience the intense battles of the Space Marine, Imperial, Chaos, and Xenos on the go!\n\nIn Warhammer 40,000: Tacticus \u2122, you bring some of the universe\u2019s most powerful warriors to lightning-fast tactical skirmishes where you are in full control and only superior tactics can deliver victory. Expand your collection across multiple factions to find new tactical possibilities as you bring your troops to battle and sweep the galaxy clear of all resistance!\n\nNew players and grizzled fans of the Warhammer universe alike will find challenge in Tacticus, as they progress and compete in various game modes, including PvE Campaigns, PvP, live events, Guild R",
+    "icon": "/icons/com.snowprintstudios.tacticus.png"
+  },
+  "com.burakgon.dnschanger": {
+    "title": "DNS Changer",
+    "package": "com.burakgon.dnschanger",
+    "description": "DNS Changer is the easiest way to change your DNS and test the speed of DNS servers. Works without root and works for both WiFi and Mobile Network Data Connection.\n\nThe DNS Changer change\u2019s your device\u2019s DNS address, not affecting your connection speed in any way. So, it is faster than a regular VPN. Install DNS Changer for Android and try it yourself!\n\nWhy to change DNS?\n\n\u2022\tExplore freely on your favorite sites & apps\n\u2022\tBrowse privately\n\u2022\tStay secure on public Wi-Fi\n\u2022\tEnjoy the best net browsing performance\n\u2022\tBetter online gaming experience\n\u2022\tEasy one tap to connect \u2013 no registration, login or password required\n\nHow does it improve my internet connection?\nIf you have a high-speed Internet connection but notice that your web browsing speed isn\u2019t all that it\u2019s cracked up to be, then your pr",
+    "icon": "/icons/com.burakgon.dnschanger.png"
+  },
+  "com.zonarmr.dnsify": {
+    "title": "FlameDNS - DNS Changer",
+    "package": "com.zonarmr.dnsify",
+    "description": "****  FlameDNS is a DNS changer that uses VPN technology to establish DNS servers on your device locally  ****\n\nFlameDNS groups the most popular and recommended servers in the world. Giving you the speed and security they offer.\n\n What is DNS and how does it work? \nThe Domain Name System (DNS) resolves the names of Internet sites with their underlying IP addresses, adding efficiency and even security to the process.\n\n Why use third party DNS? \nOur Internet provider (ISP) offers us a preconfigured DNS server and when a government forces them to block access to certain pages, this is done by limiting access to DNS.\n\nAnd it is precisely here that the use of alternative DNS comes into play. FlameDNS allows you to change your preconfigured DNS by a third party, and doing so can improve your pri",
+    "icon": "/icons/com.zonarmr.dnsify.png"
+  },
+  "com.adguard.dnsclient": {
+    "title": "AdGuard DNS",
+    "package": "com.adguard.dnsclient",
+    "description": "This app works in tandem with AdGuard DNS. To use it, you need an AdGuard DNS account. Sign up or log in at https://adguard-dns.io.\n\nAdGuard DNS lets you connect to a secure, privacy-oriented DNS server that protects you from online threats. It works on all devices \u2014 phones, tablets, laptops, and routers \u2014 with no restrictions.\n\nIt is perfect for protecting your home network and convenient for schools, universities, or companies that need to manage multiple devices consistently.\n\nPrivacy first: we do not track users, collect personal data, or embed third-party analytics or advertising SDKs. Learn more in our Privacy policy: https://adguard-dns.io/privacy.html.\n\nNeed help or have questions? Visit our support center: https://adguard-dns.io/support.html.",
+    "icon": "/icons/com.adguard.dnsclient.png"
+  },
+  "com.appplanex.dnschanger": {
+    "title": "DNS Changer - IPv4 & IPv6",
+    "package": "com.appplanex.dnschanger",
+    "description": "What is DNS Changer for Android?\n\nDNS Changer is the simplest way to change your DNS server and find fastest DNS server with DNS server speed test. It works for both Mobile network data and Wi-Fi connection without root and support IPv4 and IPv6 DNS servers. You can simply choose from a list of preconfigured public DNS Servers or add your own custom DNS Server.\n\nDNS Changer change\u2019s your device\u2019s DNS address without affecting your connection speed and help keep your web browsing fast, more secure and private. it also allow you to access websites region-blocked by your ISP and may speed up your internet connection and improve online gaming experience with reduce of latency ping time which give faster response.\n\n\nHow does DNS Changer app improve my internet browsing?\n\nWhen you have high spee",
+    "icon": "/icons/com.appplanex.dnschanger.png"
+  },
+  "com.erepubliklabs.warandpeace": {
+    "title": "War and Peace: Civil War",
+    "package": "com.erepubliklabs.warandpeace",
+    "description": "Join the ultimate display of strength and strategy that could alter the course of history. As the American Civil War rages on, we require your leadership to direct an army on the battlefield in this strategic, combat-based war game.\n\nPrepare to lead your army to victory in War and Peace: Civil War Clash. As a commander in the American Civil War, you will need to use real-time strategy to construct your base, train troops, and conquer your enemies. With a variety of military weapons and artillery from 1861 available to you, you must think strategically and act swiftly to outsmart your opponents. Begin your journey to glory on the battlefield.\n\nUse base building to create your camp, customize your army with infantry, cavalry or cannon units and crush your enemies.\n\nTake on the challenge of a",
+    "icon": "/icons/com.erepubliklabs.warandpeace.png"
+  },
+  "com.doubleangels.nextdnsmanagement": {
+    "title": "NextDNS Manager",
+    "package": "com.doubleangels.nextdnsmanagement",
+    "description": "NextDNS Manager is an Android application that simplifies managing your NextDNS configuration. NextDNS is a cloud-based DNS filter and firewall designed to protect your home, family, and online privacy. With NextDNS Manager, you can effortlessly control your NextDNS settings to ensure a safer, more secure digital experience. NextDNS Manager is compatible with any Android device running Android 12L or later.\n\nFeatures:\n- Intuitive Interface: Enjoy a user-friendly experience enhanced with dark mode, dynamic/themed icons, and support for 14 languages.\n- Comprehensive Configuration Management: Easily manage your NextDNS settings including filtering modes, blocklists, and whitelists.\n- Real-Time Statistics: Monitor DNS queries, blocked requests, and security events as they happen.\n- Enhanced Se",
+    "icon": "/icons/com.doubleangels.nextdnsmanagement.png"
+  },
+  "app.sundnsguard": {
+    "title": "G\u00fcne\u015f Dns Koruma-De\u011fi\u015ftirme",
+    "package": "app.sundnsguard",
+    "description": "DNS Protection for a Secure, Fast, and Free Internet Experience\n\nThis application is a DNS protection and modification app developed to make your internet traffic more secure and help you overcome DNS-based blocks. It is developed based on the open-source Intra project.\n\n\ud83d\udd10 What it Offers?\n\n\u2022 Provides access to websites and applications that are inaccessible due to DNS manipulation\n\u2022 Works without slowing down your internet speed; there are no quotas or limits on data usage\n\u2022 Protects your privacy; \u2022 It does not track or record the sites you visit or the applications you use.\n\u2022 You can freely choose your DNS provider.\n\u2013 You can use your own DNS server.\n\u2013 You can choose from popular and reliable DNS providers.\n\n\ud83d\udcfa TV and Remote Control Support\n\n\u2022 Full support for Android TV devices.\n\u2022 Fully c",
+    "icon": "/icons/app.sundnsguard.png"
+  },
+  "com.frostnerd.smokescreen": {
+    "title": "Nebulo - DNS Changer DoH/DoT",
+    "package": "com.frostnerd.smokescreen",
+    "description": "This app uses the VpnService. Usage of the VpnService is required to change the DNS servers for all types of networks (otherwise it would work for Wifi only), as well as offer advanced security features. No actual VPN connection is established and no data leaves the device via VPN.\n------\n\nWhen navigating to a website known by it's name, say example.com, your device ask specific servers - DNS servers - how to address the website. DNS is an old protocol which, except for smaller changes, hasn't been touched since its creation in 1987. Naturally the Internet changed a lot in this time, rendering the protocol outdated in some of its core aspects.\n\nThis app tackles one of the bigger problems with DNS: Encryption.\nWhilst nearly all traffic on the Internet is encrypted now, DNS requests (i.e. qu",
+    "icon": "/icons/com.frostnerd.smokescreen.png"
+  },
+  "com.motioncam.pro": {
+    "title": "MotionCam Pro: RAW Video",
+    "package": "com.motioncam.pro",
+    "description": "MotionCam brings professional tools for photography and videography to smartphones. It is the first app to allow RAW video capture on a smartphone.\n\nMotionCam also replaces your smartphone camera software with its own computational photography algorithms to create beautiful photos.\n\nFor more you can find us here:\n\n\ud83d\udce2MotionCam Community:\nhttps://discord.gg/Vy4gQNEdNS",
+    "icon": "/icons/com.motioncam.pro.jpg"
+  },
+  "com.ypt.tsmobile": {
+    "title": "DIGITS",
+    "package": "com.ypt.tsmobile",
+    "description": "DIGITS is an integrated academic super app designed specifically for Telkom Schools, offering easy management and monitoring of all educational activities, from class schedules and attendance to student achievement and progress. With a real-time, integrated one-stop service, DIGITS makes it easy for students and parents to access academic and school administration information quickly, practically, and transparently within a single app."
+  },
+  "com.digitslatest.app": {
+    "title": "Digits",
+    "package": "com.digitslatest.app",
+    "description": "Shop the latest Apple products and premium electronics with Digits, Kuwait\u2019s Apple Authorized Reseller. Discover iPhone, iPad, Mac, Apple Watch, AirPods, and a wide range of mobiles, accessories, audio, gaming, TVs, and smart-home devices\u2014backed by genuine warranty and trusted local support.",
+    "icon": "/icons/com.digitslatest.app.png"
+  },
+  "com.tmobile.digits": {
+    "title": "T-Mobile DIGITS",
+    "package": "com.tmobile.digits",
+    "description": "T-Mobile DIGITS is an application that grants T-Mobile customers the power to leverage your phone number on all your devices, including your smartphone, tablet, laptop and desktop computers, plus wearable devices. DIGITS also empowers T-Mobile customers to utilize up to five phone numbers on a single device so that you can receive calls from work, home, and more, all in one place.\n\nDIGITS is ideal for:\n\u2022\tSmall businesses \u2013 keep work and personal separate, plus share your work line\n\u2022\tHome phone replacement \u2013 contact all family members anytime, anywhere\n\u2022\tTeams & clubs \u2013 Contact your coaches, leaders, and teammates at the touch of a button\n\u2022\tPrivacy shield \u2013 use for online shopping or social apps\n\nUse DIGITS to:\n\u2022\tMake and receive voice calls\n\u2022\tSend and receive text messages\n\u2022\tCheck voicemai",
+    "icon": "/icons/com.tmobile.digits.png"
+  },
+  "com.godigit.digit": {
+    "title": "Digit Insurance",
+    "package": "com.godigit.digit",
+    "description": "At Digit Insurance, we aim to make Life & General insurance simple. \n\nNow, you can check premiums, buy/renew your policy, access policy documents, and make claims instantly right here on our app. And the best part? No paperwork required! \n\nWhy Choose Digit Insurance?  \n\n\u2713Pocket Friendly Premiums - We try our best to give you the best possible and most affordable premiums because we know that there\u2019s a lot at stake.   \n\n\u2713Digital Everything - We\u2019re tech savvy and we understand that time is precious. That\u2019s why, all our processes are tech enabled, quick and paperless. \n\n\u2713Super-Fast Claims - Anytime and every time, we\u2019ll be there for you. With our 24x7 Support and quick, technology enabled claim processes, all your claims will be settled as soon as possible! \n\n\u2713Simplicity, Above All - No compl",
+    "icon": "/icons/com.godigit.digit.png"
+  },
+  "com.sopivasti.number_nexus": {
+    "title": "Digits: Countdown Numbers Game",
+    "package": "com.sopivasti.number_nexus",
+    "description": "Combine six numbers to reach a target using addition, subtraction, multiplication, and division. Sounds simple? The best puzzles will have you thinking for minutes\u2014or celebrating when you spot an elegant solution in seconds.\n\nInspired by the beloved Countdown TV show, Digits presents you with a target number (1-500) and six numbers to work with. Use basic math operations to hit the target exactly.\n\nGAME MODES\n\u2022 Free Play (Practice)\nGenerate random puzzles at your chosen difficulty. No pressure, no timer\u2014just pure puzzle-solving satisfaction.\n\u2022 Daily Puzzle\nFive fresh puzzles every day! Earn up to 3 stars per puzzle based on how efficiently you solve them (15 stars maximum daily). Share your results with friends using our visual grid\u2014just like your favorite daily word games.\n\u2022 Time Challeng",
+    "icon": "/icons/com.sopivasti.number_nexus.png"
+  },
+  "com.digitduel.game": {
+    "title": "Digit Duel",
+    "package": "com.digitduel.game",
+    "description": "Digit Duel is a fast-paced 1v1 number deduction game where logic and reasoning matter more than luck.\n\nEach duel challenges you to uncover a secret 4-digit number using a clever clue-based system. Analyze feedback, eliminate possibilities, and think ahead before time runs out.\n\nWhether you enjoy brain games, logic puzzles, or competitive challenges, Digit Duel offers a clean, modern experience built around smart decision-making.\n\n\ud83d\udd25 Game Highlights\n\u2022 Online 1v1 matches against real players\n\u2022 AI practice mode for solo strategy play\n\u2022 Quick 60-second rounds for fast sessions\n\u2022 Clue-based deduction system using +, \u2212, and 0 feedback\n\u2022 Strategy Bar to track digits and narrow possibilities\n\u2022 Smooth animations and modern neon-inspired design\n\u2022 Personal game history and progress tracking\n\n\ud83e\udde0 How the",
+    "icon": "/icons/com.digitduel.game.png"
+  },
+  "com.bsport_81__173_3984": {
+    "title": "YTTP",
+    "package": "com.bsport_81__173_3984",
+    "description": "Download our YTTP app. So you can always have your favorite studio in your pocket!\nWith our app, you can schedule your classes, view class schedules, register, and much more!\nMaximize your time and never miss the latest information, always at your fingertips. Don't wait any longer and download YTTP now.",
+    "icon": "/icons/com.bsport_81__173_3984.png"
+  },
+  "com.ypt.pay": {
+    "title": "YPT: Crypto Card & Pay",
+    "package": "com.ypt.pay",
+    "description": "Unlock the Power of Your Digital Assets with the YPT Crypto Card\nExperience a new way to pay with crypto \u2014 fast, secure, and globally accessible.\nYPT combines innovative technology with financial compliance to bring you both virtual and physical crypto cards, seamlessly connecting your digital assets to everyday life. Whether you're topping up, transferring, spending, or withdrawing, YPT offers real-time processing and worldwide usability. Join millions of users across 130+ countries and start your crypto payments now.\nWhy Choose YPT for Crypto Payments?\n- Multi-Chain Top-Ups:\n Supports major blockchain networks including BTC(Bitcoin)\u3001ETH\uff08Ethereum ERC20\uff09\u3001TRX\uff08TRON TRC20\uff09\u3001BNB\uff08Binance Coin BEP20\uff09\u3001MATIC(Polygon PRC20) top up USDT, BTC, ETH, and more \u2014 manage your portfolio flexibly and efficie",
+    "icon": "/icons/com.ypt.pay.png"
+  },
+  "com.yaapt.haul": {
+    "title": "Yaapt",
+    "package": "com.yaapt.haul",
+    "description": "Yaapt brings a new social experience by focusing on You.  In today's social, we tend to forget about ourselves and be what the social platform expect us to be.\n\nAt Yaapt, we enable you towards journey of self discovery. We let you explore your personas and build social connections for each of them.\n\nGet Yaapt and start with a new social experience with Nooks. You can create a Nook for each of your personas (fun, art, family, travel, music, opinions, hobbies...).\nThis empowers you to be who You are. - Privacy choices:  Nook can be public, protected and private.\nEach persona gets it's own privacy: Public, Protected and Private.\nNow you can post to your Persona/Nook.\n\nUnlike other social platforms, Yaapt enables you to subscribe to a persona. A specific persona of  person that is of interest ",
+    "icon": "/icons/com.yaapt.haul.png"
+  },
+  "com.pallo.passiontimerscoped": {
+    "title": "YPT - Yeolpumta",
+    "package": "com.pallo.passiontimerscoped",
+    "description": "Study along with 5 million people all over the world. \nIt is the most beloved study stopwatch YPT\n \nStudying is a marathon. Study together on YPT \nRecord your study time and share it with friends. Get motivated with your friends and study together remotely.\n\n1. Time tracking and todo\nTracking study time for each subject.\n\n2. Block distractive apps\nOn focus session, block other apps to boost focus.\n\n3. 10 minutes planner\nReview your daily study logs. Check To-do for the day. \n\n4. Study groups\nCreate groups to check out friends' status and study activities. \n\n5. Realtime ranking \nGet to know your rank in the same study category. \n\n6. Study stats\nColor gets deeper as you study more. Visualize your day/week/month study records.\n\n7. Track study time with Wear OS\nMeasure online/offline time on y",
+    "icon": "/icons/com.pallo.passiontimerscoped.png"
+  },
+  "com.trainerize.ypt": {
+    "title": "YPT",
+    "package": "com.trainerize.ypt",
+    "description": "With this fitness app, you can start tracking your workouts and meals, measuring results, and achieving your fitness goals, all with the help of your personal trainer. Download the app today!",
+    "icon": "/icons/com.trainerize.ypt.png"
+  },
+  "com.tkashapp": {
+    "title": "T-kash",
+    "package": "com.tkashapp",
+    "description": "T-kash is a secure and affordable mobile money platform that enables Telkom subscribers to :Send & Receive money, Buy Goods and services, Pay Bills, Save & Keep track of transactions.\n \nThe new T-kash APP has been launched, so as to give the Telkom subscriber a safer, convenient and more affordable way to transact\n \nWith the T-Kash APP you can:\n \nSEND MONEY- Send & Receive money safely across other networks.\n \nBUY GOODS & SERVICES \u2013 Shop and pay your bills with ease at your popular billers.\n \nTOP UP \u2013 Recharge your account as well as buy for others.\n \nVIEW STATEMENTS - View your account balances for Voice, Data or  Airtime.",
+    "icon": "/icons/com.tkashapp.png"
+  },
+  "com.telkomsel.telkomselcm": {
+    "title": "MyTelkomsel \u2013 Buy Internet",
+    "package": "com.telkomsel.telkomselcm",
+    "description": "DOING THIS AND THAT HAS BECOME EASIER\nNow it\u2019s easier and faster to check everything, from credit, info, even validity, on the new MyTelkomsel Dashboard! All in one screen, all done in a snap.\n\nWant to switch accounts? Fret not, just swipe!\nWhether it\u2019s your Telkomsel, IndiHome, or Orbit account, you can access them all in one app. Plus, it\u2019s now even easier to find exciting promos and explore your favorite features. \n\nMyTelkomsel is now faster to use and understand you even better!\n\nBUYING PACKAGES IS HASSLE-FREE\nYou can now get personalized data plan recommendations based on your needs. Want to repurchase your favorite data plan or find the perfect roaming plan for your trip abroad? You just need one tap away!\n\nFind the right data plan faster and hassle-free with clearer categories and s",
+    "icon": "/icons/com.telkomsel.telkomselcm.png"
+  },
+  "com.telkombillcheck.android": {
+    "title": "Cek Tagihan Telepon",
+    "package": "com.telkombillcheck.android",
+    "description": "Application to check monthly Telkom phone bill with monthly reminder.\n\nFeatures:\n- Monthly Telkom phone bill check.\n- Monthly reminder with notification.\n- Favorite\n- Share bill information to email or other sharing method",
+    "icon": "/icons/com.telkombillcheck.android.png"
+  },
+  "com.skool.skoolcommunities": {
+    "title": "Skool",
+    "package": "com.skool.skoolcommunities",
+    "description": "The official Skool app. Stay connected to your communities on the go. All Skool's features + push notifications.\n\n\u2022 Community - group discussion with posts and comments\n\u2022 Courses - learn with video and text-based lessons\n\u2022 Calendar - see what community events are happening \n\u2022 Chat - DM anybody in your communities",
+    "icon": "/icons/com.skool.skoolcommunities.png"
+  },
+  "com.schoolcafe.app": {
+    "title": "SchoolCaf\u00e9",
+    "package": "com.schoolcafe.app",
+    "description": "SchoolCaf\u00e9 is powered by PrimeroEdge, the leading school nutrition management software for K-12 school districts and food service providers in the United States.\n\nParents: Manage your child's cafeteria account. Apply for free or reduced meals. Make payments, view purchase history, receive low balance alerts, and view school menus containing nutritional and allergen information for items. For convenience, setup automatic payments to replenish your child's cafeteria funds. Know what is on the menu at the school cafeteria and provide feedback by rating and sharing items. Favorite your child's favorite items and SchoolCaf\u00e9 will send you a push notification to let you know when it's on the menu.\n\nStudents and Staff: Use SchoolCaf\u00e9 to check out what's available on the cafeteria menu each day. Vi",
+    "icon": "/icons/com.schoolcafe.app.png"
+  },
+  "com.ebay.kleinanzeigen": {
+    "title": "Kleinanzeigen - without eBay",
+    "package": "com.ebay.kleinanzeigen",
+    "description": "eBay Kleinanzeigen is now Kleinanzeigen!\n\nKleinanzeigen - you can buy and sell on Germany's No. 1 online marketplace, easily and conveniently with the app for your smartphone!\nFind great deals, from household goods to clothing, garden tools, electronics and second-hand items, to apartments and houses, and even jobs. Kleinanzeigen is the flea market app with the best deals in your neighborhood.\n\nYour advantages: \n\u2714 Perfect for searching and posting free classified ads in your neighborhood\n\u2714 Find cheap offers - favorite things at a fair price\n\u2714 Place an ad quickly and easily: take a photo, write a description, add a price - your classified ad is ready!\n\u2714 Over 36 million monthly users and 50 million offers in various categories\n\u2714 Communicate with sellers and buyers directly via the app\n\nOver ",
+    "icon": "/icons/com.ebay.kleinanzeigen.png"
+  },
+  "com.alibaba.intl.android.apps.poseidon": {
+    "title": "Alibaba.com - B2B marketplace",
+    "package": "com.alibaba.intl.android.apps.poseidon",
+    "description": "What is Alibaba.com?\nAlibaba.com is one of the world\u2019s leading B2B ecommerce marketplaces. Our app allows you to source products from global suppliers, all from the convenience of your mobile device.\n\nPurchase with confidence\nOur Trade Assurance service protects your orders and payments on the platform, letting you purchase securely and conveniently with extended support.\n\nCustomizable products\nMeet suppliers with years of customization and order fulfillment experience for sellers on Shopify, Amazon, Walmart, Tiktok Shop, Whatnot, eBay, Shopee, Wish, Etsy, Mercado Libre, Lazada, Temu and more.\n\nEasy sourcing\nDiscover millions of ready-to-ship products in every industry category. Tell suppliers what you need and get quotes quickly with Request for Quotation services.\n\nFast shipping\nAlibaba.",
+    "icon": "/icons/com.alibaba.intl.android.apps.poseidon.png"
+  },
+  "net.one97.paytm": {
+    "title": "Paytm: Secure UPI Payments",
+    "package": "net.one97.paytm",
+    "description": "Paytm (\u092a\u0947\u091f\u0940\u090f\u092e) - Built for India. Trusted by 50 Crore+ Indians.\nWe pioneered mobile payments, QR codes, Soundbox, and in-store devices in India - and we continue to lead with innovation. In the BHIM UPI ecosystem, Paytm is the only UPI app that builds features based on real user needs. From personalised UPI IDs and privacy-first controls to widgets, bank balance visibility, and Excel UPI statements, we innovate to make digital payments smarter, safer, and more private - only on Paytm.\n\nPaytm UPI now works internationally in UAE, Singapore, France, Mauritius, Bhutan, Sri Lanka, and Nepal - making it easy for Indian travellers to send money or pay abroad instantly.\n\n\ud83d\udd10 Why Paytm?\n\u25cf India\u2019s safest, most secure UPI money transfer app\n\u25cf Powered by top Indian banks\n\u25cf Built-in privacy: hide/unhide",
+    "icon": "/icons/net.one97.paytm.png"
+  },
+  "com.paytmmoney": {
+    "title": "Paytm Money Stocks, MF, IPO",
+    "package": "com.paytmmoney",
+    "description": "The Paytm Money app is built for anyone who wants to invest or trade in Indian markets with confidence. Whether you\u2019re starting out or trading actively, Paytm Money brings it all together in one app \u2014 secure, seamless and SEBI-registered.\nOpen your free demat & trading account online and start investing today.\n\nOne Account. Multiple Ways to Invest\n\u2705 Stocks & ETFs on NSE & BSE\n\u2705 Direct mutual funds with zero commission\n\u2705 Futures & Options (F&O) trading\n\u2705 IPO investing including Apply for SME IPOs\n\u2705 Bonds, SGBs & fixed-income products\n\u2705 Margin Trading Facility (MTF)\n\nWhy millions use the Paytm Money App\n\n\u2022 Free demat & trading account\n  Zero AMC. Zero platform fee.\n\u2022 Hassle-free account opening\n  100% digital onboarding with paperless KYC.\n\u2022 Fast reliable and secure\n  Smooth execution, real-",
+    "icon": "/icons/com.paytmmoney.png"
+  },
+  "com.joinbloom.bloomapp": {
+    "title": "Bloom: Learn to Invest",
+    "package": "com.joinbloom.bloomapp",
+    "description": "Introducing Bloom, the investing app that TEACHES you how to invest!\n\n\nWhether you\u2019re a young adult striving for financial freedom or a teen looking to get a head start on your financial journey, Bloom is your destination to learn, earn, and invest to grow your wealth and knowledge. Join our community of 1 MILLION+ Bloomers learning & investing on Bloom, and take control of your financial future today.\n\n\nLEARN\n\n\n- 300+ bite-sized, interactive financial lessons on critical topics like investing, stocks, credit & more!\n\n- Start out with \u201cinvesting basics\u201d, then build your knowledge through more advanced lessons on concepts like diversification, dollar cost averaging, fundamental analysis, financial metrics and more!\n\n- Learn how to evaluate stocks, read financial numbers, construct your port",
+    "icon": "/icons/com.joinbloom.bloomapp.png"
+  },
+  "com.iptv.smart.xtream.iptvremote": {
+    "title": "IPTV Player Smart Xtream TVify",
+    "package": "com.iptv.smart.xtream.iptvremote",
+    "description": "\ud83d\udcfa Smart IPTV Player delivers flawless streaming of live IPTV channels and online playlists\u2014anytime, anywhere. Sit back with your favorite drink and immerse yourself in one of the most captivating IPTV experiences on mobile.\n\n*** NEW \ud83d\udd25\ud83d\udd25\ud83d\udd25 Xtreme Play is Now Available - Access Premier IPTV Service with over 20,000 Live Channels, VOD, EPG, and more.\n*** Watch Live in style with high compatibility for video quality, including SD, HD, and 4K, as well as high resolutions like 720p and 1080p.\n\n\u2705 Key Highlights:\n\t\ud83d\udd25\tIntuitive, user\u2011friendly interface with a step\u2011by\u2011step playlist import guide and online search tutorials. As for available formats, the IPTV Smart Player Pro is a powerhouse of compatibility, supporting extensions such as mqv, pls, aifc, m4r, wav, 3gp, 3g2, flac, avi, m2a, aac, mpa, xhe,",
+    "icon": "/icons/com.iptv.smart.xtream.iptvremote.png"
+  },
+  "com.smart.iptv.player.m3u": {
+    "title": "IPTV Smart - Live TV Player",
+    "package": "com.smart.iptv.player.m3u",
+    "description": "Introducing IPTV Player M3U \u2013 your ultimate companion for seamless media streaming, offering a high-quality experience on Android devices. Transform your entertainment journey with this advanced IPTV smarters player, designed for effortless media streaming anytime, anywhere.\n\nKey Features of IPTV Player M3U:\n- M3U and M3U8 Compatibility: Enjoy smooth playback of popular formats like M3U and M3U8, making it simple to play your favorite content.\n- Pro-Level Performance: Experience a powerful IPTV stream player with crystal-clear visuals, minimal buffering, and fast loading times \u2013 even on slower internet connections.\n- User-Friendly Interface: Navigate effortlessly through channels, playlists, and media items with a highly intuitive design.\n- Favorites: Add IPTV channels to your favorites an",
+    "icon": "/icons/com.smart.iptv.player.m3u.png"
+  },
+  "com.tvgsoft.iptv.smart.player.live.chromecast": {
+    "title": "IPTV Player, Live TV",
+    "package": "com.tvgsoft.iptv.smart.player.live.chromecast",
+    "description": "IPTV player is a convenient media player which enables users to play M3U & M3U8 files. And it can work perfectly on all devices. You can add your interested video source M3U & M3U8 files from online or your local folders and play with its built-in player to enjoy your ultimate IPTV stream player experience! IPTV player allow users to play there own IPTV playlist and play Live TV Channel, Movies, Series, and TV Catchup.\n\nMain Features:\n- Support adding unlimited M3U streaming playlists.\n- EPG support in XMLTV and JTV formats\n- Favorite collection, channel history & lock channel with passcode.\n- Easily add M3U files from online websites & the local folders of your device.\n- Create reminders and notification for your favorite shows.\n- With built-in powerful IPTV Player.\n- Cast to smart TVs en",
+    "icon": "/icons/com.tvgsoft.iptv.smart.player.live.chromecast.png"
+  },
+  "com.iptv.player.smart.live.stream.m3u": {
+    "title": "IPTV Player Pro - Smart TV M3U",
+    "package": "com.iptv.player.smart.live.stream.m3u",
+    "description": "IPTV Player Pro - Smart TV M3U is a modern tool for organizing and playing your personal online video playlists. The app is designed for users who work with video links, network-based media sources, and custom playlist files in formats like M3U, M3U8, and XSPF.\n\nThe player focuses on delivering a smooth and stable video playback experience, making it suitable for various TV & Video use cases - from managing personal video archives to accessing online video streams that users legally own or have permission to use.\n\n\ud83c\udfa5 Core Features\n\u2714 High-quality video playback (supports SD, HD, 4K formats)\n\u2714 Fast built-in video engine optimized for network video\n\u2714 Support for popular online video playlist formats\n\u2714 Convenient playlist creation and organization tools\n\u2714 Casting support for playing personal vi",
+    "icon": "/icons/com.iptv.player.smart.live.stream.m3u.png"
+  },
+  "com.ipoji.app": {
+    "title": "IPO Ji - IPO Info News & Apply",
+    "package": "com.ipoji.app",
+    "description": "\ud83c\uddee\ud83c\uddf3 India's most trusted IPO app with 27+ lakh downloads. \nAccess complete IPO details for Mainboard & SME IPOs. Apply for IPOs directly, check allotment status instantly, and track live subscription data.\n\n\ud83d\udcca KEY FEATURES:\n\n\u2705 Complete IPO Details - Current, Upcoming & Listed IPOs\nGet comprehensive IPO information for all mainboard IPO and SME IPO. Track current IPO, upcoming IPO, and listed IPO performance with complete details.\n\n\ud83d\udcc5 IPO Calendar - Never Miss Important Dates\nComplete IPO calendar with all upcoming IPO dates, open dates, close dates, allotment dates, and listing dates. Plan your IPO investments with detailed schedules.\n\n\ud83d\udcb3 Apply IPO via UPI - Direct Application\nApply for IPO directly using UPI. Easy IPO application for mainboard IPO and SME IPO. Apply IPO for yourself, family, ",
+    "icon": "/icons/com.ipoji.app.png"
+  },
+  "com.google.android.gm.lite": {
+    "title": "Gmail Go",
+    "package": "com.google.android.gm.lite",
+    "description": "The Gmail you love, now lighter and just as fast. Enjoy a smart inbox that keeps your messages safe and you organized. Receive notifications when mail arrives, then read and respond both online & offline. Gmail Go also makes attaching and sharing files simple and intuitive. Plus, find messages quickly with powerful search and lots more.\n\nWith Gmail Go, you'll enjoy:\n\u2022 A smarter inbox - Focus on messages from friends and family first, while social and promotional emails are categorized neatly for when you have time.\n\u2022 Less spam - Your account stays safe and clutter free because Gmail Go blocks spam before it hits your inbox.\n\u2022 15GB of free storage - Forget about deleting messages to save space.\n\u2022 Multiple account support - Set up both Gmail and non-Gmail addresses (Outlook.com, Yahoo Mail, ",
+    "icon": "/icons/com.google.android.gm.lite.png"
+  },
+  "com.smatecvn.gms": {
+    "title": "GMS",
+    "package": "com.smatecvn.gms",
+    "description": "General Management System",
+    "icon": "/icons/com.smatecvn.gms.png"
+  },
+  "com.myetherwallet.mewwallet": {
+    "title": "MEW crypto wallet: DeFi Web3",
+    "package": "com.myetherwallet.mewwallet",
+    "description": "This is an official mobile app for MyEtherWallet, Ethereum's original and most trusted web3 wallet & crypto wallet.\n\nNon-custodial wallet \u2014 you control your keys and assets. We never hold or control your funds.\n\nGet from zero to crypto. Fast and safe.\ud83d\udee1\ufe0f\n\ud83d\udcb0With Mew wallet you can \ud83d\ude80:\n\u2728 Buy cryptocurrency like Ethereum (ETH) and BTC with a few taps using your bank card.\n\u2728 Create an Ethereum wallet.\n\u2728 Create a web3 wallet.\n\u2728 Hold and send BTC, Ether, Tether (USDT), USDC & NFT.\n\u2728 Swap, Exchange, and Trade Ether, and ERC-20 tokens using this defi wallet.\n\u2728 Ethereum 2.0 staking: stake Ether on the Eth2 chain.\n\u2728 Learn about Ethereum, Blockchain, safety, and security.\n\u2728 Send and receive Ether and ERC-20 tokens.\n\u2728 Easily interact with multiple accounts for privacy and convenience.\n\u2728 Connect to MEW we",
+    "icon": "/icons/com.myetherwallet.mewwallet.webp"
+  },
+  "com.transsion.filemanagerx": {
+    "title": "File Manager",
+    "package": "com.transsion.filemanagerx",
+    "description": "TRANSSION File Manager is a powerful, simple interface file manager that supports multiple routine operations. Supports the exclusive file classification of Whatsapp, Messenger, Facebook and Instagram, as well as music, video, images, documents, etc, to help you manage your phone. At the same time, we support professional cleaning functions that can help you free up your phone space. We regularly update our app to give you the best experience, and you can use it to easily manage your Android phones and files.\n\nThe main function:\nCategory: Sort by music, video, image, document, zip, apk, others\nClean up: Clean your phone with one click and free up your phone space\nGlobal search: Quickly find files with keywords\nMultiple selection: support multiple selection operations and batch processing o",
+    "icon": "/icons/com.transsion.filemanagerx.png"
+  },
+  "com.netease.yysls": {
+    "title": "Where Winds Meet",
+    "package": "com.netease.yysls",
+    "description": "Step into an open-world action-adventure RPG set in ancient China. Uncover the secrets of your own identity as you rise from a humble village wanderer to the sword master of the imperial capital. Learn martial arts and build your reputation as a hero or a bringer of chaos in this free wuxia world.\n\nJianghu knows no bounds. Play free across PS5, PC, and mobile with full cross-play and cross-progression. No pay-to-win.\nGameplay content is entirely free, with monetization limited to cosmetic items.\nIn Where Winds Meet, Chinese martial arts meet a seamless open world. Roam vast landscapes, uncover hidden ruins, and descend into layered underground catacombs. Steal techniques from martial sects, wield an arsenal of classic wuxia weaponry, and master over 30 mystic arts \u2013 from the flowing balanc",
+    "icon": "/icons/com.netease.yysls.jpg"
+  },
+  "com.google.android.apps.pixel.nowplaying": {
+    "title": "Now Playing",
+    "package": "com.google.android.apps.pixel.nowplaying",
+    "description": "Now Playing automatically identifies music playing around you from your lock screen.\n\nSee all the music you've discovered in one place, listen on your preferred music service, and more.\n\nNote: this app is compatible with Pixel6+ phones with the March '26 Pixel Drop update or later. \nPlease check for the latest system update first if the download option is unavailable.",
+    "icon": "/icons/com.google.android.apps.pixel.nowplaying.png"
+  },
+  "com.appsbybirbeck.android.nowplayinghistory": {
+    "title": "Now Playing: Stats & Scrobble",
+    "package": "com.appsbybirbeck.android.nowplayinghistory",
+    "description": "What if you could save every song you discover, forever?\n\nNow Playing is the ultimate music tracker, Last.fm scrobbler, and personal stats journal. Whether you're identifying tracks with Shazam or streaming your daily mixes on Spotify, this app acts as a universal music logger, capturing your listening history across your favorite platforms. Stop letting your music memories fade and build a permanent, searchable soundtrack of your life!\n\nSupported Integrations:\n  \u2022 Scrobbling: Full, seamless integration as a Last.fm scrobbler.\n  \u2022 Streaming Stats: Track your Spotify stats, YouTube Music, Apple Music, Tidal, Deezer, and more.\n  \u2022 Recognition: Pixel Now Playing(*), Shazam, Auto Shazam, and Ambient Music Mod.\n\nKey Features:\n  \u2022 Universal Music Tracker & Scrobbler: Automatically track active p",
+    "icon": "/icons/com.appsbybirbeck.android.nowplayinghistory.png"
+  },
+  "com.justride.mmtco": {
+    "title": "RideMMT",
+    "package": "com.justride.mmtco",
+    "description": "RideMMT lets you bypass the line and vending machines by purchasing your Mountain Metro Transit tickets right from your phone. There are never additional fees to purchase MMT products through your RideMMT app \u2013 it\u2019s the best way to ride around the City of Colorado Springs!\n\nBenefits\n\nNo more worries about having exact change or misplacing your pass when using Mountain Metro Transit.\n\nUse Visa, and/or Mastercard for purchases and set up an optional account to make future visits faster. \n\nStore multiple tickets on your phone for future activation. \n\nTouchless payment is safe and quick.\n\nQuick links to trip planning and Next Bus information at your fingertips, anytime, any place!",
+    "icon": "/icons/com.justride.mmtco.png"
+  },
+  "com.ridemetro.houstontrip": {
+    "title": "RideMETRO",
+    "package": "com.ridemetro.houstontrip",
+    "description": "The official RideMETRO app allows you to plan trips and pay for rides on bus and rail services operated by METRO public transit in Houston, Texas.\n\nBy allowing the app to access your location, you\u2019ll see:\n\u2022 Nearby bus and rail routes\n\u2022 Real-time arrival estimates for nearby buses\n\u2022 Scheduled arrival times for nearby trains\n\nYou can even choose to receive onscreen notifications or pulse vibrations at key points during your trip.\n\nFor further assistance, please call or text METRO Customer Service at 713-635-4000, or visit our website at RideMETRO.org",
+    "icon": "/icons/com.ridemetro.houstontrip.png"
+  },
+  "com.tripspark.myride.cityutilitiesofspringfield": {
+    "title": "MyRide SGF",
+    "package": "com.tripspark.myride.cityutilitiesofspringfield",
+    "description": "MyRide SGF is the official bus tracker app of City Utilities Transit in Springfield, MO.\nTired of guessing when your bus will arrive? MyRide SGF provides real-time bus arrival updates for every route and stop, adjusting for traffic conditions so you always know when to expect your ride. The app also offers easy access to the full bus schedule, planned detours, and even the amenities available at each stop.\nBy creating an account, you can personalize your experience\u2014save your most-used routes and stops under the \u2018Favorites\u2019 tab, and sign up for alerts to stay informed on service changes.\nWhether you're commuting or exploring a new destination, the 'Plan a Trip' feature helps you find the best routes and schedules that match your needs. MyRide SGF makes navigating Springfield easier and more",
+    "icon": "/icons/com.tripspark.myride.cityutilitiesofspringfield.png"
+  },
+  "com.usda.fmsc.twotrails": {
+    "title": "TwoTrails",
+    "package": "com.usda.fmsc.twotrails",
+    "description": "TwoTrails is a timber cruising and timber sales admin surveying package. It is maintained and developed by the Forest Management Service Center. Though it is specifically written for USDA forestry personal, it is freely available to anyone. Many of the program capabilities are shared below:\n\n\u2022\tManages all surveying methods approved by USDA Forest Service Handbook, FSH 2409.12, Chapter 50, Area Determination.\n\u2022\tReal-time GPS surveys:\n    \u2022\tGPS Walk (Breadcrumb)\n    \u2022\tGPS Angle Point (Take5)\n\u2022\tReal-time surveys:\n    \u2022\tDirection Distance Traversing\n    \u2022\tRadial (example: Island Exclusions)\n    \u2022\tCorridors (example: Hazard Tree)\n\u2022\tCombined use of multiple survey types:\n    \u2022\tGPS surveys\n    \u2022\tDigitized Information (Shape Files, KML/KMZ, GPX, CSV)\n    \u2022\tRemote sensing information\n\u2022\tCreate Grid ",
+    "icon": "/icons/com.usda.fmsc.twotrails.png"
+  },
+  "com.monseytrails.app": {
+    "title": "Monseytrail",
+    "package": "com.monseytrails.app",
+    "description": "The Monseytrail app provides these great features to connect you to multiple locations.\n - Plan trips, view schedules and get route itineraries all on your phone or tablet.\n - Track bus departures. Get updates on stops in real time.\n - Our service operates from more than just Park and rides. Find information about our local stops.\n\nFor over 40 years, Monseytrail has been a trusted New York bus service, connecting Rockland County, New York City, Lakewood, and Monroe with a dependable fleet, proudly serving families, business professionals, and students who count on us for safe, reliable long-distance travel.",
+    "icon": "/icons/com.monseytrails.app.png"
+  },
+  "com.nantucket.acktrails.android": {
+    "title": "ACKTrails",
+    "package": "com.nantucket.acktrails.android",
+    "description": "View trail maps to find that kid or dog-friendly trails that you've been searching for. You will see our trails organized in a beautiful interface with our different properties on the island.\n\nOur App is completely free and by using it you will support our mission to help us preserve the island for everyone.\n\n50+ Hiking Trails & Local events:\n\nExplore Nantucket Island\nExplore all its properties guided by a beautiful interface\nWe have created dozens of trails for each one of our properties\nFilter the trails by length, difficulty, type of terrain and activity\nWe guide you through Nantucket and show you the most interesting places\nCheck out the latest events in Nantucket\n\nHike across the beautiful parks, barrier beaches and dunes, salt marshes, ponds and bogs, grasslands, hardwood forests, an",
+    "icon": "/icons/com.nantucket.acktrails.android.png"
+  },
+  "com.zirak.easytrails": {
+    "title": "EasyTrails GPS",
+    "package": "com.zirak.easytrails",
+    "description": "EasyTrails GPS is the GPS tracker application for your device.\nThe perfect application for those who are passionate about OUTDOOR ACTIVITIES and TRAVELING, everybody who likes outdoor sports, and not only.\n\nAre you going for a bike or motorcycle ride? Well, EasyTrails GPS will tell you how many miles you traveled, how much time you spent, how high you climbed and many other details. In real-time it will show you the course on a map, comparing it with downloaded tracks and points of interest.\n\nExport your tracks in standard formats, so you can review them on Google Earth, SportTracks and TrailsRunner. Or simply upload them to online services like Garmin Connect, or many others.\n\nCalculate routes and let EasyTrails guide you with turn directions. You can also let it guide you through previou",
+    "icon": "/icons/com.zirak.easytrails.png"
+  },
+  "com.ambicalabs.vaidyaplus": {
+    "title": "Vaidya Plus",
+    "package": "com.ambicalabs.vaidyaplus",
+    "description": "VaidyaPlus is a simple and reliable patient appointment booking app designed especially for Ayurvedic doctors and Ayurvedic clinics.\n\nManaging patient appointments manually can lead to confusion, missed visits, and double bookings. VaidyaPlus helps Ayurvedic practitioners organize appointments digitally and focus more on patient care.\n\nKey Appointment Booking Features for Ayurvedic Doctors:\n\n\u2022 Quick and easy patient appointment scheduling\n\u2022 View today\u2019s, upcoming, and past appointments\n\u2022 Avoid overlapping and double bookings\n\u2022 Reschedule or cancel appointments in one click\n\u2022 Track patient visit history\n\u2022 Support for single or multiple Ayurvedic doctors\n\u2022 Receptionist and doctor role-based access\n\u2022 Secure login and protected data\n\nVaidyaPlus is suitable for OPD consultations, follow-ups, an"
+  },
+  "com.usps.id45833": {
+    "title": "Informed Delivery\u00ae Mobile",
+    "package": "com.usps.id45833",
+    "description": "The Informed Delivery\u00ae Mobile application allows you to start your mornings with a preview of your day\u2019s USPS mail and packages. This free app lets you see photos of your mail before it arrives and receive USPS tracking updates. \n\nYou can use the app to:\u200b\n\n\u2022 Create your account or sign-in with an existing account. \u200b\n\u2022 Get daily digest notifications to preview your mail and packages scheduled to arrive soon. \u200b\n\u2022 See grayscale images of your mail before it arrives*.  Images are of the exterior, address side only of letter sized mail. \u200b\n\u2022 Interact with mailer-provided digital content associated with your mail (e.g. - special offers, related links). \u200b\n\u2022 Scan eligible tracking numbers or label barcodes to track the status of your inbound or outbound USPS packages.\u200b\n\u2022 Get delivery status updates",
+    "icon": "/icons/com.usps.id45833.png"
+  },
+  "com.usps.app": {
+    "title": "USPS MOBILE\u00ae",
+    "package": "com.usps.app",
+    "description": "To all USPS Mobile\u00ae app customers, we recommend downloading the updated USPS Mobile\u00ae application. This USPS Mobile\u00ae application was created to be compatible with newer Android phones. We have also fixed bugs within the app. To receive updates to your USPS Mobile\u00ae app, please download the app here.\n\nAccess popular USPS.com\u00ae tools on the go with the \u201cUSPS Mobile\u00ae\u201d app: calculate shipping prices (limitations apply), find a Post Office \u2122, look up a ZIP Code\u2122, schedule a next-day pickup, request USPS to hold your mail, access Informed Delivery\u00ae to track packages and digitally preview incoming mail, and more.\n\n\u2022 Check the status of shipments sent using Priority Mail\u00ae, Priority Mail Express\u00ae, Certified Mail\u00ae, and certain other delivery services. Nickname your shipments and sign up for text and em",
+    "icon": "/icons/com.usps.app.png"
+  },
+  "com.escrow.escrowApp": {
+    "title": "ParcelGrid-Deliver Beyond Nrbi",
+    "package": "com.escrow.escrowApp",
+    "description": "Looking for a smarter, faster, and more reliable way to send and receive packages? Our courier app is built to simplify your deliveries, whether you\u2019re an individual sending a single parcel or a business managing multiple orders every day.\n\nFrom on-demand courier services to scheduled deliveries, we\u2019ve designed a solution that puts you in control. Track every package in real-time, choose flexible payment options\u2014including Collection on Delivery (CoD)\u2014and enjoy peace of mind knowing your items are in safe hands.\n\n\ud83c\udf1f Why Choose Our Courier App?\n\nFast & Reliable Deliveries \u2013 Get your packages delivered on time, every time.\n\nCollection on Delivery (CoD) \u2013 Let couriers collect payment on your behalf.\n\nReal-Time Tracking \u2013 Monitor your courier\u2019s live location and delivery status.\n\nSecure Handling",
+    "icon": "/icons/com.escrow.escrowApp.png"
+  },
+  "com.fedex.ida.android": {
+    "title": "FedEx Mobile",
+    "package": "com.fedex.ida.android",
+    "description": "Create a domestic and international shipping label, track shipment status and manage your packages wherever you are with the FedEx Mobile app. Use the app to get quick rates, find a pickup or drop off location, scan bar codes, and view rewards. Enroll in FedEx Delivery Manager\u00ae to customize when and where you\u2019d like to receive your packages.\n\nAvailable in all regions\n\t\u2022 Track the status of all incoming or outgoing packages\n\t\u2022 Create a mobile shipment label and request a pickup**\n\t\u2022 Enable push notifications to get updates on your shipments and a sound notification on delivered shipments*\n\t\u2022 Scan a barcode for easy tracking*\n\t\u2022 Find a FedEx location near you*\n\t\u2022 View or cancel a scheduled pickup\n\t\u2022 Create a new pickup\n\t\u2022 Get shipment cost estimates and delivery times\n        \u2022 Access your s",
+    "icon": "/icons/com.fedex.ida.android.png"
+  },
+  "com.trackinglabs.parceltracker": {
+    "title": "Package Tracker",
+    "package": "com.trackinglabs.parceltracker",
+    "description": "Where is your package? Get instant, real-time tracking updates with Parcel Tracker \u2013 the ultimate solution for stress-free online shopping! \u2708\ufe0f\ud83d\udce6\n\nAre you eagerly waiting for an important delivery? Toggling between different carrier websites and dealing with confusing interfaces is now a thing of the past. Parcel Tracker is your universal, all-in-one package tracker for worldwide shipments. We bring order to your shipping experience with a parcel tracker that gets straight to the point.\n\nSimple. Clear. Fast.\nJust enter your tracking number or use our lightning-fast barcode scanner, and you\u2019re one step closer to your package. Whether you\u2019re ordering from international sellers in China, Europe, or local US retailers \u2013 we keep you updated on every single shipping status.\n\nWhy Parcel Tracker is ",
+    "icon": "/icons/com.trackinglabs.parceltracker.png"
+  },
+  "com.xiaomi.winplay": {
+    "title": "com.xiaomi.winplay",
+    "package": "com.xiaomi.winplay"
+  },
+  "com.scheler.superproxy": {
+    "title": "Super Proxy",
+    "package": "com.scheler.superproxy",
+    "description": "Super Proxy tunnnels all your apps through an HTTP or SOCKS5 proxy server (no root access required). This enables you to access the internet in every app within your company or college network. Alternatively you can use a public proxy server for example to bypass restrictions of your ISP.\n\nTechnically this is implemented by a local VPN service that tunnels all traffic through a proxy server. Super Proxy supports both SOCKS5 proxies and HTTP proxy servers using the HTTP CONNECT method.",
+    "icon": "/icons/com.scheler.superproxy.png"
+  },
+  "com.google.research.air.cosmo": {
+    "title": "com.google.research.air.cosmo",
+    "package": "com.google.research.air.cosmo"
+  },
+  "com.modhaus.cosmo": {
+    "title": "Cosmo : the Gate",
+    "package": "com.modhaus.cosmo",
+    "description": "Cosmo : the Gate\nThe closest place you\u2019ll ever meet your favorite artists.\nWelcome to Cosmo, a world of all possibilities.\nidntt officially joined the new chapter of Cosmo.\n\n\u25a0\n\n-Collect Objekt, a seasonal collection of precious moments from artists.\n-Each artist is given a unique Como through Objekt.\n-Participate in various Gravity with Como and contribute to your artist\u2019s activities.\n\n\u25a0\n\n-Follow your favorite artists and enjoy a variety of contents from the artists through the Home tab.\n-Complete your Grid with Objekt and unlock special Objekt.\n-You can also trade your Objekt with other users.\n\n\u25a0\n\n[Subscription Products]\n- Cosmo offers idntt Membership, tripleS Membership and ARTMS Membership as subscription products.\n- The subscription period is one month and will automatically renew unl",
+    "icon": "/icons/com.modhaus.cosmo.jpg"
+  },
+  "com.manlai.talk_ai": {
+    "title": "Cosmo - AI English Tutor",
+    "package": "com.manlai.talk_ai",
+    "description": "Introducing Cosmo \u2013 your AI-powered English tutor designed to make language learning engaging and effective. With Cosmo, you can:\n\n\t\u2022\tEngage in real-time English conversations with an AI, enhancing your speaking and comprehension skills.\n\t\u2022\tTurn on your microphone and talk to AI about various topics, scenarios, role-plays, and more!\n\t\u2022\tTranslate sentences you don\u2019t understand into your native language for better clarity.\n\t\u2022\tChoose topics of interest and discuss them with the AI, making learning personalized and enjoyable.\n\t\u2022\tUtilize voice input by activating your microphone, allowing for a hands-free learning experience.\n\nCosmo supports 12 languages, including Spanish, French, German, Russian, Arabic, and more, catering to a diverse range of learners.\n\nThe Cosmo AI app uses the device micr",
+    "icon": "/icons/com.manlai.talk_ai.png"
+  },
+  "com.codesignal.cosmo": {
+    "title": "Cosmo: Learn GenAI & More",
+    "package": "com.codesignal.cosmo",
+    "description": "Build real skills in just minutes a day. No videos. Just doing.\n\nCosmo is your personal AI tutor, always ready with hands-on lessons that adapt to you. Whether you're between classes, commuting, or on a break, you\u2019ll make real progress in GenAI, business, tech, and more.\n\nBuilt by CodeSignal, the AI platform 3,000+ top employers trust for hiring \u2014 including Google, Meta, Zoom, Netflix, TikTok, and Anthropic. Loved by over 1 million learners who build and prove their skills with CodeSignal.\n\n\ud83c\udfaf Why Cosmo?\n\u2022 Cosmo, your AI tutor, guides your journey and adapts to you so you learn faster.\n\u2022 Cosmo makes learning fun. With practice-based lessons, you'll build real skills in just a few minutes a day.\n\u2022 Master the most in-demand skills to grow your career.\n\u2022 Earn shareable certificates and skill b",
+    "icon": "/icons/com.codesignal.cosmo.png"
+  },
+  "com.emti.cosmo": {
+    "title": "Cosmo AI Assistant",
+    "package": "com.emti.cosmo",
+    "description": "Transform your life with Cosmo AI, the Powerhouse AI Assistant for Unmatched Productivity:\n\nIntroduction:\nSupercharge your productivity and conquer your goals effortlessly with Cosmo AI, the preeminent AI-Powered Productivity Assistant on the market. More than just an app, Cosmo is your indispensable ally, guiding you through your daily routine and seamlessly tracking your goals. Elevate your lifestyle with cutting-edge features designed to keep you organized, connected, and relentlessly focused on success.\n\nConnect Globally, Communicate Effortlessly:\nBreak language barriers with Cosmo's revolutionary multilingual chat feature, allowing you to connect with anyone, anywhere, in their preferred language. From client meetings to team collaborations or forging new connections, Cosmo's global r",
+    "icon": "/icons/com.emti.cosmo.png"
+  },
+  "com.EJ.ROvadiahYosefCalendar": {
+    "title": "\u05d6\u05de\u05e0\u05d9 \u05d9\u05d5\u05e1\u05e3 - R' Ovadia Zemanim",
+    "package": "com.EJ.ROvadiahYosefCalendar",
+    "description": "We are the platform to use whenever and wherever you'd need Halachic Times (Zemanim) according to Maran Rabbeinu Ovadia Yosef zt'l, following his practices represented in the Ohr Hachaim calendar (\u05dc\u05d5\u05d7 \u05d0\u05d5\u05e8 \u05d4\u05d7\u05d9\u05d9\u05dd). The astronomical science behind his calendar was studied and reproduced to fit as needed when extending beyond the Eretz Yisrael borders, while keeping the rulings the same in Eretz Yisrael.\n\n- Simple setup: Select your location (GPS, name/zip code or advanced) & language (Hebrew or English; translated or transliterated). No internet required for further use of the app.\n- Use our notifications to stay on top of the changing times! They are customizable to trigger when you want them to.\n- Add a home-screen widget to see immediate details (Hebrew Date, Tachanun, Special-Day - like O",
+    "icon": "/icons/com.EJ.ROvadiahYosefCalendar.png"
+  },
+  "com.google.android.trichromelibrary": {
+    "title": "com.google.android.trichromelibrary",
+    "package": "com.google.android.trichromelibrary"
+  },
+  "com.overdrive.mobile.android.libby": {
+    "title": "Libby, the Library App",
+    "package": "com.overdrive.mobile.android.libby",
+    "description": "All over the world, local libraries offer millions of ebooks and audiobooks. You can borrow them \u2014 for free, instantly \u2014 with a library card and Libby: the award-winning, much-loved app for libraries.\n\n\u2022 Browse your library\u2019s digital catalog of books \u2014 from classics to NYT best-sellers\n\u2022 Borrow and enjoy ebooks, audiobooks, and magazines\n\u2022 Download titles for offline reading, or stream them to save space\n\u2022 Send ebooks to your Kindle (U.S. libraries only)\n\u2022 Listen to audiobooks via Android Auto\n\u2022 Use tags to create your must-read list and any other book lists you want\n\u2022 Keep your reading position automatically synced on all your devices\n\nIn our beautiful, intuitive ebook reader:\n\u2022 Adjust text size, background color, and book design\n\u2022 Zoom into magazines and comic books\n\u2022 Define and search f",
+    "icon": "/icons/com.overdrive.mobile.android.libby.webp"
+  },
+  "com.txtr.android.mmm": {
+    "title": "CloudLibrary",
+    "package": "com.txtr.android.mmm",
+    "description": "A must-have app for library users! Easily borrow physical items using your mobile device, receive reminders, manage receipts and discover new digital content all within the CloudLibrary app!\n \nExtremely intuitive, all it takes is a library card to login and get started!  Designed for an enjoyable experience, users can benefit from many new features, depending on their library\u2019s subscription.\n \n-          Easily accessible library card, which conveniently displays when you\u2019re near the library\n-          Switch accounts with ease and manage multiple library cards from one mobile device\n-          Download and enjoy free eBooks and Audiobooks\n-          Keep track of your physical and digital library activity in one place\n-          Receive helpful receipts, due-date reminders and packable ch",
+    "icon": "/icons/com.txtr.android.mmm.png"
+  },
+  "com.google.android.apps.village.boond": {
+    "title": "Crowdsource",
+    "package": "com.google.android.apps.village.boond",
+    "description": "Answer fun and easy questions that drive a huge impact! Progress through levels, unlock badges, and share your achievements along the way! Your voluntary contributions make Google products better in your part of the world. Teach Google Assistant to understand meaning better, improve Google Translate for your language, and help Google Photos identify objects. These are but a few of the ever-growing and diverse types of contributions you can make to improve Google both locally and globally.\n  \n\n\n  Try some of these tasks to join Google's community of contributors:\n  \n\n\n  Phrase validation: Rate a transliterated phrase based on how natural it sounds and accurate it is. \n\n  Speed Type: Type the text you see on the screen as quickly and accurately as you can.\n\n  Cultural Image Verification: Ver",
+    "icon": "/icons/com.google.android.apps.village.boond.png"
+  },
+  "com.librarymanager.trackmylibrary": {
+    "title": "TrackMyLibrary Library Manager",
+    "package": "com.librarymanager.trackmylibrary",
+    "description": "TrackMyLibrary is a modern library management app designed to help libraries, study centers, and institutions manage their daily operations efficiently.\n\nWhether you run a small study library or a large institution, TrackMyLibrary makes it easy to manage students, seats, attendance, and payments from one simple mobile app.\n\nKEY FEATURES\n\n\u2022 Student Management  \nEasily add, edit, and manage student profiles with attendance and activity tracking.\n\n\u2022 Seat & Shift Management  \nAssign seats, manage shifts, and optimize library capacity effortlessly.\n\n\u2022 Attendance Tracking  \nTrack daily attendance with accurate records for better management.\n\n\u2022 Fee & Subscription Management  \nManage monthly, half-yearly, and yearly plans with clear payment tracking.\n\n\u2022 Smart Notifications  \nSend reminders and upd",
+    "icon": "/icons/com.librarymanager.trackmylibrary.png"
+  },
+  "com.innogames.heroesofhistory": {
+    "title": "Heroes of History: Epic Empire",
+    "package": "com.innogames.heroesofhistory",
+    "description": "The \u2694\ufe0f Heroes of History \u2694\ufe0f are ready for your command!\nForge your \ud83c\udfd9\ufe0f city through time and explore an epic story in an adventure \u2013 from the \ud83e\uddb4 ancient stone age to the \ud83d\ude80 future in this strategic city-builder. Start a legendary journey through history and ancient cultures, as you collect and lead powerful heroes like \ud83d\udcaa Hercules and \ud83c\udfa9 Napoleon from each era. Engage in thrilling \u2694\ufe0f PvE to conquer mighty foes for victory in combat or challenge your friends in \u2694\ufe0f PvP. It\u2019s time to rise your \ud83c\udfdb\ufe0f empire and become the world\u2019s greatest leader in history!\n\ud83c\udf1f MAIN FEATURES: \ud83c\udf1f\n\ud83e\uddb8 Hero Collection\nAssemble a powerful army of heroes, each with unique abilities and skills.\n\ud83c\udfd7\ufe0f City Building\nPlan the city of your dreams and manage resources to boost your cities' productivity.\n\ud83c\udffa Ancient Cultures\nExplore ancien",
+    "icon": "/icons/com.innogames.heroesofhistory.webp"
+  },
+  "com.whaleapp.blitz.rise.heroes.idle.rpg.battle": {
+    "title": "Blitz: Rise of Heroes",
+    "package": "com.whaleapp.blitz.rise.heroes.idle.rpg.battle",
+    "description": "Champion the realms in Blitz: Rise of Heroes, an immortal Action RPG experience, unlike any other RPG Games Offline. Dive into a world where legends battle and the army of darkness looms. Assemble your ideal team of heroes, setting the stage for countless hours of turn-based RPG action.\n\nIn the sprawling lands of Larnes, legends speak of five mighty factions: the Alliance, Keepers, Awakened, Ashen, and Divine. With over 100 unique characters waiting to be unlocked, from the brutish beasts of the wilderness to the arcane wizards guarding ancient secrets, the tales of heroism are endless. Every legend has a past, every hero a tale, and in this sword fantasy, your chosen champions will write their own epics.\n\nTo ensure your squad is ready for every challenge:\nHERO LEVEL: Elevate your champion",
+    "icon": "/icons/com.whaleapp.blitz.rise.heroes.idle.rpg.battle.jpg"
+  },
+  "com.choiceofgames.herofall": {
+    "title": "Heroes Rise: HeroFall",
+    "package": "com.choiceofgames.herofall",
+    "description": "Would a hero like you assassinate the president of the United States to defend the right to be Powered?\n\nAs the corrupt President Victon launches his oppressive campaign of Powered Regulation, your Legendary heroic rise transforms into something much more: you must become a political icon fighting to restore Powered rights in America. This new battle takes a twisted turn when your once-greatest enemy, Prodigal, tells you President Victon's darkest secret....\n\nNow you are faced with the biggest choices of your career: Do you trust the word of your archenemy? Will you evade President Victon's gang of criminal bounty hunters? Can you save your family and complete your rise as a Legendary hero?\n\n\"Heroes Rise: HeroFall\" completes the epic Heroes Rise trilogy by Zachary Sergi, featuring the smas",
+    "icon": "/icons/com.choiceofgames.herofall.png"
+  },
+  "com.choiceofgames.heroesrise": {
+    "title": "Heroes Rise: The Prodigy",
+    "package": "com.choiceofgames.heroesrise",
+    "description": "Do you have what it takes to become a legendary Powered hero? \n\nIn \"Heroes Rise,\" Powered heroes have become the ultimate celebrities, and you dream of joining the A-List\u2013but to get there, you'll first have to take down evil Powered gangs, compete with deadly rivals, choose a worthy sidekick, team up with famous champions, and prove to all of Millennia City that you're a true hero. \n\n\"Heroes Rise: The Prodigy\" is an interactive novel where you control the main character. In each chapter, your choices determine how the story proceeds. \n\nWill you play as male or female? Gay or straight? Crusade for justice, or gun for money? Will you work as a team with the world-famous Millennial Group, or will you steal their spotlight?\n\nHow high will your hero rise?",
+    "icon": "/icons/com.choiceofgames.heroesrise.png"
+  },
+  "com.choiceofgames.heroproject": {
+    "title": "Heroes Rise: The Hero Project",
+    "package": "com.choiceofgames.heroproject",
+    "description": "It's America's #1 reality show for heroes! As a contestant on \"The Hero Project,\" you'll battle villains and heroes alike with your newly discovered \"Infini\" powers. Will you vote to eliminate your rivals, or betray your alliance to curry favor with the celebrity judges? \n\n\"Heroes Rise: The Hero Project\" is the sequel to last year's hit \"Heroes Rise: The Prodigy,\" the epic interactive novel by Zachary Sergi, where your choices determine how the story proceeds. The game is entirely text-based--without graphics or sound effects--and driven by the vast, unstoppable power of your imagination. \n\nPlay as male or female, gay or straight; you can even start a \"showmance\" with the other contestants. What will you sacrifice to become the nation's next top hero?",
+    "icon": "/icons/com.choiceofgames.heroproject.png"
+  },
+  "com.zen.detox": {
+    "title": "Zen Detox: Minimalist launcher",
+    "package": "com.zen.detox",
+    "description": "Introducing 'Zen Detox Phone' : Minimalist Launcher \ud83d\udcf1: A Distraction-Free Digital Experience \ud83c\udf1f\n\nIn a world filled with digital noise \ud83c\udf10, 'Zen Detox Phone' stands out as a beacon of simplicity and productivity. This minimalist launcher transforms your smartphone into a sanctuary of focus, helping you reclaim your time \u23f0 and boost your productivity through a refined, distraction-free and minimalist interface. Designed for those seeking a balanced digital lifestyle \u2696\ufe0f, 'Zen Detox Phone' encourages mindfulness, enhances your daily productivity and reduces your overall screen time.\n\nWhy  'Zen Detox Phone' : Minimalist Launcher ? \ud83e\udd14\nSimplified Home Screen: 'Zen Detox Phone' launcher offers a clean and elegant home screen that eliminates clutter, focusing your attention on what truly matters. The m",
+    "icon": "/icons/com.zen.detox.png"
+  },
+  "com.devswhocare.minimalproductivitylauncher": {
+    "title": "Minimal: Detox Home Launcher",
+    "package": "com.devswhocare.minimalproductivitylauncher",
+    "description": "I always wanted to make a launcher for others which would help people improve their phone's productivity and reduce their time spent on the phone - kind of a digital detox.\n\nI have tried to derive this launcher from the concept of digital detox. This is a clean & minimal home screen launcher for you, so that you can focus on things which matter.\n\nThis launcher app has various productivity widgets to improve your focus and get more things done.\n\nFew of such productivity features are:\nYou can track your screen time using this launcher.\nYou can hide private apps.\nYou get a lot of themes and wallpapers to choose from. The wallpapers support light and dark themes.\nWork profiles are supported.\nThere are a lot of fonts which you can select for this minimal launcher.\nYou can use daily affirmation ",
+    "icon": "/icons/com.devswhocare.minimalproductivitylauncher.png"
+  },
+  "com.kevinnovation.detoxlauncher": {
+    "title": "Detox Launcher",
+    "package": "com.kevinnovation.detoxlauncher",
+    "description": "Detox Launcher is a minimalist Android home screen replacement designed to keep you focused on what matters. By removing icons and reducing distractions, it helps lower screen time and boost productivity. Customize colors and text for a look that suits you, while Swipe Gestures let you quickly launch favorite apps. Tap the date for your calendar or the clock for alarms, and enjoy a clutter-free interface. Say goodbye to endless notifications, hello to mindful usage with Detox Launcher.",
+    "icon": "/icons/com.kevinnovation.detoxlauncher.png"
+  },
+  "com.james.minimallauncher.detoxphone.reducingscreentime": {
+    "title": "Minimal Launcher: Detox Phone",
+    "package": "com.james.minimallauncher.detoxphone.reducingscreentime",
+    "description": "The Minimal Launcher app is a clean and efficient home screen replacement designed for simplicity and productivity. It helps detox phone by displaying only the essential apps and information. This minimalist launcher is perfect for those who want a functional, minimalist design and a distraction-free environment.\n\nIn addition, this minimalist android launcher allows you to add up to 8 apps on your home screen, keeping things tidy and organized. You can easily set your preferred wallpaper, align apps to your liking, reducing screen time, and open apps with convenient swipe gestures, all while enjoying a seamless, personalized experience with many customization options to suit your needs.\n\nKey features -\n\n\u2218 Minimalist design for a distraction-free, clean interface.\n\u2218 Align apps to your likin",
+    "icon": "/icons/com.james.minimallauncher.detoxphone.reducingscreentime.png"
   }
 }
