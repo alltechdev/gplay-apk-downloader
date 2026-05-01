@@ -27785,5 +27785,521 @@
     "title": "Theme Manager for Huawei/Honor",
     "package": "com.deishelon.lab.huaweithememanager",
     "description": "Themes / Fonts / Icons / Wallpapers / Emojis (beta) for your Huawei / Honor EMUI phone!\n\nNo launcher!\nNo root!\n\nSupported emui versions:\nEMUI 11\nEMUI 10\nEMUI 9 / EMUI 9.1\nEMUI 8\nEMUI 5\nEMUI 4\nEMUI 3\n\nSupported devises:\nAll Huawei / Honor devises running EMUI"
+  },
+  "com.suwoncoding.scratchprojects": {
+    "title": "Scratch 2.0 Projects",
+    "package": "com.suwoncoding.scratchprojects",
+    "description": "This program guides you how to create a variety of interesting scratch projects. It's easy to explain with pictures. This is a scratch tutorial for everyone and it's free. Thank you.",
+    "icon": "/icons/com.suwoncoding.scratchprojects.png"
+  },
+  "com.xiaomi.router": {
+    "title": "Mi Wi-Fi",
+    "package": "com.xiaomi.router",
+    "description": "You can update the Mi Wi-Fi app to version 4.0 now.\n \nYou're able to take control of your Mi Wi-Fi with this smart assistant on phone anytime and anywhere.\n \nMajor updates:\n1. Device list: You can view and manage devices connected to network, such as allow their access to network and data or not, manage QoS allocation, and set names for different devices.\n2. Storage management: As the family data center and a mobile hard disk on your phone, this app makes you be able to manage and download files easily. It supports slide gestures. You can find resources and manage download tasks here as well as access to all photos and videos in chronological order.\n3. Tools: This feature helps you to learn more about Mi Wi-Fi.\n4. Settings: You can view and change settings of Mi Wi-Fi.\n \nRecommendation:\n* ",
+    "icon": "/icons/com.xiaomi.router.png"
+  },
+  "app.le.miui10gestures": {
+    "title": "Infinity Gestures",
+    "package": "app.le.miui10gestures",
+    "description": "The app brings fluid gestures like \"Swipe to Back\" to all phones.\nIt also has \"Swipe and hold\" to switch to the last app feature.\nAll the actions are configurable. Available actions are -\n\n\u2022 Back\n\u2022 Home\n\u2022 Last app\n\u2022 Recent apps\n\u2022 Show notifications\n\u2022 Open Power Dialog\n\u2022 Launch Google Assistant\n\u2022 Launch Other Apps\n\u2022 Media Volume Control (Volume Rocker replacement, helpful for broken volume buttons)\n\u2022 Brightness Control\n\u2022 Toggle Split Screen\n\u2022 Screenshot\n\u2022 Lock Screen (Turns off the screen display)\n\u2022 Quick Settings\n\u2022 Auto rotate toggle\n\u2022 Keyboard Selector\n\u2022 Tasker Task\n\nMany more coming soon... Stay tuned!\n\n\nRequires following settings to be enabled by user -\n\n1. Accessibility settings - To perform back action programmatically\n2. Display over other apps - To display the MIUI 10 style handle\n",
+    "icon": "/icons/app.le.miui10gestures.png"
+  },
+  "com.firstdirect.bankingonthego": {
+    "title": "first direct",
+    "package": "com.firstdirect.bankingonthego",
+    "description": "Your everyday just got a whole lot easier. Even better banking has arrived.\n \nAt the coffee shop, deciding if it\u2019s a skinny soy latte or a cup of tea. In a taxi stuck in traffic, wondering how much you\u2019ve saved for your trip to Machu Picchu. On a rollercoaster, planning the decorations for your dog\u2019s third birthday party\u2026\n \nWherever you are, whatever you\u2019re doing, our new and improved mobile app makes banking even simpler.\n \nFrom checking your balances and viewing transactions to paying family and friends, mobile banking takes all the hassle out of everyday money stuff. You can now do more than ever from the comfort of your own phone - and if that\u2019s not exciting enough, this is just the start of our mini digital revolution, with loads more improvements on the way.\n \nSo go on. Get yourself ",
+    "icon": "/icons/com.firstdirect.bankingonthego.png"
+  },
+  "com.postbank.wallet": {
+    "title": "ONE wallet by Postbank",
+    "package": "com.postbank.wallet",
+    "description": "ONE wallet by Postbank is \u0430 mobile wallet that gives you the freedom, the control and inspiring comfort of the contactless payments. Now you can manage all of your cards, issued by Postbank, with your mobile device, to make fast and secure contactless payments using the NFC on your smartphone, send and receive money transfers, manage loyalty cards and many other useful features.\nYou can make contactless (NFC) payments from either a digital card you receive free of charge when you register in the app, or with any card, issued by Postbank.\n\nRegister for ONE wallet by Postbank and take advantage of all the conveniences it offers, even if you are not a customer of the Postbank yet.\n\u2022 Every registered customer automatically receives a free of charge Digital card and Digital account\n\u2022 With your ",
+    "icon": "/icons/com.postbank.wallet.png"
+  },
+  "com.web3sportnews": {
+    "title": "D1 Sports",
+    "package": "com.web3sportnews",
+    "description": "Our mobile app delivers the latest news and benefits on your favorite topics. With D1 Sports, you'll love the convenience of having all the information on sports, esports, and blockchain all in one place. The app is clean, runs smoothly, and always delivers the latest updates when I need them. For sports, esports, and blockchain enthusiasts, this app is a must-have!",
+    "icon": "/icons/com.web3sportnews.png"
+  },
+  "com.dartslive.dlsports": {
+    "title": "DARTSLIVE SPORTS",
+    "package": "com.dartslive.dlsports",
+    "description": "\u25c6Main Features \n-Notify darts tournament and league match progresses\nThe app notifies when and where the next match will take place by push notifications and alerts within the app.\n\n-Review real time tournament results\nThe app is linked with the darts boards used for tournament and league matches. \n\n-Check \"\"SPORTS Rating\"\" that shows player's true ability during matches reflecting only the results of the tournament and league match and tendency of the player. \n\nThe app let players realize their \"true ability\" by recording intense play data during matches.",
+    "icon": "/icons/com.dartslive.dlsports.png"
+  },
+  "com.blueframetech.team1sports": {
+    "title": "Team1Sports",
+    "package": "com.blueframetech.team1sports",
+    "description": "The Team1Sports apps deliver a premier OTT experience for school-generated intercollegiate sports content. Any collegiate athletic organization will now be able to easily add connected TV streaming devices to their set of fan engagement tools. Schools can use their existing workflows, or use BlueFrame Production Truck\u00ae software and vCloud\u2122 services, to easily make their live and on-demand events available across multiple streaming services. They can also use the OTT apps to watch instant replays and time-shifted live streams.",
+    "icon": "/icons/com.blueframetech.team1sports.png"
+  },
+  "com.sport2.msport2": {
+    "title": "\u05e1\u05e4\u05d5\u05e8\u05d8 1 sport1",
+    "package": "com.sport2.msport2",
+    "description": "Sport 1, the new app and Israel's leading abstracts all sports coverage and the best leagues in the world from Charlton.",
+    "icon": "/icons/com.sport2.msport2.png"
+  },
+  "com.yogeshpaliyal.deepr.pro": {
+    "title": "Deepr Pro: Read Later & Saver",
+    "package": "com.yogeshpaliyal.deepr.pro",
+    "description": "Deepr Pro: The Ultimate Link Saver & Read Later Organizer\nDo you constantly come across fascinating articles, videos, or websites but don't have the time to read them right away? Are you tired of keeping hundreds of browser tabs open or losing important links in chaotic notes?\nDeepr Pro is the essential, powerful Link Saver and Read Later tool you\u2019ve been searching for. It\u2019s the perfect way to stop losing your valuable content and start organizing it effortlessly. This app is designed to bring sanity back to your digital life by giving you a clean, centralized system for all your favorite web content.\nKey Features to Organize Your Bookmarks\nDeepr Pro transforms the way you manage your digital reading list, ensuring you can focus on enjoying the content, not finding it.\n\n\u2705 Instant Link Savi",
+    "icon": "/icons/com.yogeshpaliyal.deepr.pro.png"
+  },
+  "com.codex.torrentx": {
+    "title": "8XDL - Video Download Manager",
+    "package": "com.codex.torrentx",
+    "icon": "/icons/com.codex.torrentx.png",
+    "description": "\ud83d\ude80 8XDL \u2013 All-in-One Downloader, Torrent Client & Media Player\n\nLooking for a powerful download manager, torrent client, browser, and media player in one app?\n8XDL is a complete Android utility suite designed to simplify downloads, streaming, and file management in a single lightweight app.\n\n\u26a1 Built for speed, performance, and control \u2014 without unnecessary complexity.\n\n---\n\n\ud83d\udd25 Key Features\n\n\u26a1 Fast Download Manager (Aria2 Engine)\n\n- High-speed file downloads\n- Pause, resume & background downloading\n- Stable performance with large files\n\n\ud83d\udcc2 Smart File Manager + WiFi File Sharing\n\n- Organize files easily\n- Share files across devices over WiFi\n- Custom download locations\n\n\ud83c\udf10 Built-in Browser with Ad Blocker\n\n- Fast and lightweight browsing\n- Desktop mode support\n- Ad-blocking for cleaner experienc"
+  },
+  "gov.tak.taktracker": {
+    "title": "TAK Tracker",
+    "package": "gov.tak.taktracker",
+    "description": "What is TAK Tracker?\n\u2022 TAK Tracker is a \u201csend only\u201d version of ATAK. THERE IS NO MAP.\nHow is TAK Tracker to be used?\n\u2022 TAK Tracker is to be used for blue force tracking as an alternative to ATAK.\n\u2022 TAK Tracker supports TAK Server Enrollment for ease of configuration.\nHow is TAK Tracker different to ATAK:\n\u2022 TAK TRACKER HAS NO MAP.\n\u2022 TAK Tracker is more battery efficient than ATAK but is extremely feature limited and cannot be used to send missions, data, or files.\n\nBefore You Start\n\u2022 Make sure TAK Tracker is download and installed from Google Play.\n\u2022 Be sure the Android device's location is turned on.\n\u2022 To get to the Location icon you drag down from the top of the phone, you may have to drag down a second time to get the icon to appear.\n\u2022 Be sure you have your Trust and Client certs on your",
+    "icon": "/icons/gov.tak.taktracker.png"
+  },
+  "fr.sesamvitale.cartevitale.app": {
+    "title": "Carte Vitale",
+    "package": "fr.sesamvitale.cartevitale.app",
+    "description": "The Carte Vitale app is your Carte Vitale on your smartphone: a free digital health insurance service.\n\nIt does not replace your physical Carte Vitale but is an alternative.\n\nTO ACTIVATE YOUR CARTE VITALE APP, YOU MUST VERIFY THE FOLLOWING CONDITIONS:\n\n- Be 16 or 18 years old depending on your health insurance plan,\n- Have a valid form of identification,\n- Have a compatible smartphone.\n\nFind all the conditions for using the Carte Vitale app at www.applicartevitale.fr\n\nONCE ACTIVATED, YOUR CARTE VITALE APP ALLOWS YOU TO:\n- Identify yourself, just like with your Carte Vitale, at your pharmacy, doctor's office, dentist's office, nurse's office, optician's office, etc.,\n- View your healthcare expenses incurred with your Carte Vitale app,\n- Access your information and that of your beneficiaries",
+    "icon": "/icons/fr.sesamvitale.cartevitale.app.png"
+  },
+  "com.app.smartlearning.chromiumchemistryclasses": {
+    "title": "Chromium Chemistry Classes",
+    "package": "com.app.smartlearning.chromiumchemistryclasses",
+    "description": "Presenting our Chromium Chemistry Classes App , the go-to platform which helps you prepare and qualify for exams! Explore a comprehensive test series, navigate multiple exams using a user-friendly search and selection feature, all conveniently accessible on a single screen. Within the app, you can attempt mock tests, monitor progress, and access comprehensive reports and solutions. In the report section, you can also check leaderboard performance of toppers, to assess your level. Enjoy multilingual support for various languages, allowing you to choose your preferred language.",
+    "icon": "/icons/com.app.smartlearning.chromiumchemistryclasses.jpg"
+  },
+  "com.ghisler.android.TotalCommander": {
+    "title": "Total Commander - file manager",
+    "package": "com.ghisler.android.TotalCommander",
+    "description": "Android version of the desktop file manager Total Commander (www.ghisler.com).\n\nImportant note: This app does NOT contain any ads. However, it contains a link \"Add plugins (download)\" in the home folder. This is treated as an ad by the Play Store because it links to our other apps (plugins).\n\nMain features:\n- Copy, Move whole subfolders\n- Drag & Drop (long press on file icon, move icon)\n- In place rename, create directories\n- Delete (no recycle bin)\n- Zip and unzip, unrar\n- Properties dialog, change permissions\n- Built-in text editor\n- Search function (also for text)\n- Select/unselect groups of files\n- Select by tapping on file icons\n- Select range: Long tap+release on icon\n- Show List of installed Applications, manually backup apps (built-in plugin)\n- FTP and SFTP client (plugin)\n- WebDAV",
+    "icon": "/icons/com.ghisler.android.TotalCommander.png"
+  },
+  "com.ninjairun.android": {
+    "title": "Ninjai Run!",
+    "package": "com.ninjairun.android",
+    "description": "Join Ninjai: The Little Ninja alongside his faithful companion Little Bird, on a mysterious quest to uncover and defeat the evil forces behind the corrupted forest!\nNinjai Run! combines runner gameplay with intense combat and a captivating story. \n\nStep into a mystical world with Ninjai, the Little Ninja, where an ancient forest harbours dark secrets and a corrupting force threatens to consume all. As Ninjai, you must embark on a perilous journey along with your faithful and brave companion, Little Bird, to uncover the source of this malevolent power and restore balance to the land!\nFace thrilling challenges in beautifully crafted environments. With intuitive controls and fluid gameplay, you\u2019ll slash, slice, strike, throw darts, wall-run, flip, roll and more, as you tackle the evil hordes "
+  },
+  "com.smilegate.chaoszero.stove.google": {
+    "title": "Chaos Zero Nightmare",
+    "package": "com.smilegate.chaoszero.stove.google",
+    "description": "Zero Out All Despair\nSmilegate's new title, \"Chaos Zero Nightmare,\" is now open!\nBoard the SS Nightmare now!\n\nChaos.\n\nA cosmic disaster that struck without warning.\nThe beginning, or the end, of every story.\n\"Chaos,\" a black fog that consumes planets, distorting their environment and lifeforms.\n..\n[The Blue Pot], a Chaos located on Earth, the birthplace of humanity. There have been reports of unidentifiable creatures being discovered.\nAnd for some reason, a strange phenomenon that couldn't\u2014no, shouldn't\u2014be happening to the Captain is occurring.\n\n\u25b6 A World Drenched in Darkness, A Story Etched in Memory\nDive into a vast and haunting dark fantasy narrative!\nCrushing stress, collapsing agents... and yet, the mission continues.\nBreak through the encroaching crisis and immerse yourself in a brut",
+    "icon": "/icons/com.smilegate.chaoszero.stove.google.png"
+  },
+  "com.HoYoverse.Nap": {
+    "title": "Zenless Zone Zero",
+    "package": "com.HoYoverse.Nap",
+    "description": "Don't go into Hollows.\nI know, I know, there are Ether resources in the Hollows, bizarre creations, even ruins of the old civilization \u2014 all invaluable treasures.\nBut don't forget about the spatial disorder, the monsters, and mutants running rampant. Ultimately, this is a disaster that could swallow the world. Hollows are not where ordinary people should go.\nSo don't go into Hollows.\nOr at least, don't go in alone.\nIf you insist on getting into danger, go to New Eridu first.\nThis city full of people from all walks of life has many who need the Hollows: powerful and wealthy tycoons, gangs who rule the streets, schemers hiding in the shadows, and ruthless officials.\nMake your preparations there, find strong allies, and most importantly...\nFind a \"Proxy.\"\nOnly they can guide people out of lab",
+    "icon": "/icons/com.HoYoverse.Nap.png"
+  },
+  "com.netmarble.nanagb": {
+    "title": "The Seven Deadly Sins",
+    "package": "com.netmarble.nanagb",
+    "description": "Are you ready to enjoy dynamic combat, breathtaking animations, and a riveting story true to the original?\n\nDownload the amazing cinematic anime game, The Seven Deadly Sins: Grand Cross, right now!\n\n=====================================\nFeatures of The Seven Deadly Sins: Grand Cross \n=====================================\n\n\u25b6  6 years of adventure enjoyed by players, anime fans, and manga fans alike!\nOver 77 million downloads worldwide!\nUse events to power up fast and compete with the best!\nDownload [The Seven Deadly Sins: Grand Cross] now!\n\n\u25b6  A strategic skill card battle system!\nLine up skills of the same rank to combine them for a stronger card!\nUnleash your best skills and finish the fight with an Ultimate Move!\nEnjoy thrilling battles that raise the stakes with each turn!\n\n\u25b6 Maximum st",
+    "icon": "/icons/com.netmarble.nanagb.png"
+  },
+  "com.joytunes.simplypiano": {
+    "title": "Simply Piano: Learn Piano Fast",
+    "package": "com.joytunes.simplypiano",
+    "description": "Learn piano with songs you love! \nSimply Piano is a fast, fun & easy way to learn piano. You\u2019ll be amazed how much you can achieve with only 5-min practice per day, at your own pace and time.\nThis popular piano learning app has won Google Play's Best Apps of 2019 and others. \nJoin millions already learning to play with the Simply Piano app.\n\nOnce you download the Simply Piano app for free, you\u2019ll be introduced to some piano basics and gain access to selected songs and piano video lessons.\n\nSimply Piano is developed by Simply (formerly JoyTunes), creators of award-winning apps Piano Maestro and Piano Dust Buster. Created by music educators, the apps are used by tens of thousands of music teachers worldwide with over 1 million songs learned every week.\n\nChosen as one of the best Google apps.",
+    "icon": "/icons/com.joytunes.simplypiano.png"
+  },
+  "com.pedidosya": {
+    "title": "PedidosYa - Delivery Online",
+    "package": "com.pedidosya",
+    "description": "Today more than ever, ask me for whatever you want \n\nWhen you have a wish that can't wait, you don't ask a falling star, you ask PedidosYa.\n\nOrder online from the best restaurants, supermarket chains, pharmacies, stores, and much more! Find, order and receive what you want easily at PedidosYa.\n\nDo you want it? You got it!\n- Explore and filter the best places with delivery in your area\n- Repeat your orders easily\n- Take advantage of exclusive discounts and promotions\n- Read, comment and write opinions about businesses\n\nLet's fly!\n- Customize your order\n- Select your favorite products\n- Schedule the delivery of your order\n- Choose from a variety of payment methods\n\nWe'll take it to you wherever you are!\n- Stay updated with the status of your order\n- Follow the journey of your order live\n- Co",
+    "icon": "/icons/com.pedidosya.webp"
+  },
+  "com.taxis99": {
+    "title": "99: Rides, Food, Pay",
+    "package": "com.taxis99",
+    "description": "The 99 app now offers much more! In addition to rides with 99Pop, 99Plus, 99electric-Pro, 99Taxi, and 99Moto, you can also send packages with 99Entrega, order food with 99Food, and use 99Pay \u2014 the digital account that lets you make transfers, pay bills and grow your money. Delivery, transport, and payments \u2014 all in one app!\n\nGreat value, safety, and ride options for every moment of your day! With 99, you can travel by car or motorcycle and even send or receive items. Plus, you can count on our 24-hour assistance, so you never have to worry about unexpected situations.\n\n99 rides are monitored 24 hours a day! We also have a help channel for you inside the app. With 99, safety comes first \u2014 along with comfort and savings.\n\nCheck out our categories:\n99Pop: The affordable choice for every occas",
+    "icon": "/icons/com.taxis99.png"
+  },
+  "com.hp.printercontrol": {
+    "title": "HP",
+    "package": "com.hp.printercontrol",
+    "description": "The go-to app for your HP devices. Set up your new printer, personalize your experience, print, scan, and contact support\u2014all in one place. \n\nFormerly HP Smart, the new HP app[1] offers you more ways to get more from your HP device. \n\nEasy Setup, Wherever You Are  \nNew device? No problem. Get up and running fast with a guided setup that does the heavy lifting for you. Once you are ready to go, you can manage your HP printer and computer and stay on top of the essentials, like checking your ink levels. \n\nMake the Most of Your Device \nStay informed with top recommendations. Plus, you can adjust your device settings and discover HP products that match your needs\u2014it is all about making your tech work just the way you like it. \n\nPrint and Scan, On Your Time \nPrint a school form from the kitchen",
+    "icon": "/icons/com.hp.printercontrol.png"
+  },
+  "com.msaya.brazil.detran.sp": {
+    "title": "Simulado Detran SP",
+    "package": "com.msaya.brazil.detran.sp",
+    "description": "Prepare and train for the theoretical driving test in S\u00e3o Paulo.\nTo obtain the first license and renewal.\n\nAre you ready to get your driver's license? The \"Detran SP Simulado\" is your perfect ally to prepare for the theoretical driving test in Brazil!\n\nThis complete and easy-to-use app has been specially developed to help you master the knowledge you need to pass your driving test. Whether you are a complete beginner or just need a refresher, our app has all the features you need.\n\nMain features:\n\ud83d\udcda Updated Question Bank: Get access to a wide range of updated multiple-choice questions to familiarize yourself with driving test topics.\n\n\ud83d\ude97 Real Test Simulation: Practice with simulated exams that follow the exact format of the Detran theoretical driving test. Get ready for exam day!\n\n\ud83d\udcc8 Performa",
+    "icon": "/icons/com.msaya.brazil.detran.sp.png"
+  },
+  "br.gov.sp.detran.consultas": {
+    "title": "Detran.SP",
+    "package": "br.gov.sp.detran.consultas",
+    "description": "With the Detran.SP app for tablets and smartphones, it's now even easier to check your driver's license points and any fines registered for your vehicle. To access these queries, simply use the same password as for the Detran.SP portal. If you're not yet registered, visit www.detran.sp.gov.br.",
+    "icon": "/icons/br.gov.sp.detran.consultas.png"
+  },
+  "com.simuladododetran": {
+    "title": "Simulado Detran: Prova Te\u00f3rica",
+    "package": "com.simuladododetran",
+    "description": "DETRAN Simulation: This app helps you prepare for the CNH (Brazilian driver's license) theory test with realistic simulations, performance analysis, and an AI-powered instructor.\n\nPractice with questions in the format of the official exam and track your progress throughout your studies. The app shows statistics on correct and incorrect answers to help identify which subjects need more attention.\n\nYou can also study specific subjects, such as traffic laws, road signs, defensive driving, basic mechanics, and the environment.\n\nThe app also features an AI instructor who can help answer questions, explain errors in the questions, and create personalized study plans to improve your performance.\n\nWith a simple interface and quick simulations, you can study anytime and track your progress until ex",
+    "icon": "/icons/com.simuladododetran.png"
+  },
+  "com.george.quizz": {
+    "title": "GEORGE Quiz",
+    "package": "com.george.quizz",
+    "description": "TURN YOUR SMARTPHONE INTO A BUZZER! \u26a1\nWith George Quiz, music quizzes become a connected, fun, and accessible experience for everyone. George takes care of everything for your evenings with friends or family!\n\nWHY YOU'LL LOVE GEORGE:\n\n> Easy: Set up your music quiz in 3 clicks and start the music! \ud83d\ude80\n> 6,000+ hits: From classics to the latest hits. All genres, all eras!\n\n> More than 30 themed playlists that can be combined.\n\n> 3 game modes: Rush (speed), Focus (theme), or Classic (relax).\n\n> Custom selection: Select by playlists, genre, date, or let the algorithm mix eras by age so everyone can win.\n\n> Total control: Skip from intro to chorus in one click or get a hint if needed.\n\nSpice things up: Use the virtual dice to change the rules or the timer for added pressure! \ud83c\udfb2\n\nTHE BLIND TEST TH",
+    "icon": "/icons/com.george.quizz.png"
+  },
+  "com.mytidyapp.goodgeorgebrewing": {
+    "title": "George Rewards",
+    "package": "com.mytidyapp.goodgeorgebrewing",
+    "description": "Earn points for every purchase at George Rewards and start enjoying the benefits of our membership program today. We tailor rewards just for you. Choose when and how to make the most of our promotions. \n \nThe George Rewards app will make the most of your in-store experience, allowing you to pay through your mobile via \nPay in-store\nOrder ahead\nOrder to your table\n \nYou will have access to \nExclusive offers\nPersonalised rewards \nSurprise and delight promotions\nVouchers, saved offers, credit or item rewards\n\u2026.so much more\n \nNo more carrying a physical loyalty card. Built by a world-leading app provider, LOKE, we use PCI compliant security to ensure your transactions and privacy is of the highest standard.\n \nAll major credit cards are accepted. Join today and start enjoying our dynamic reward",
+    "icon": "/icons/com.mytidyapp.goodgeorgebrewing.png"
+  },
+  "com.stellar.stellarai.app": {
+    "title": "George",
+    "package": "com.stellar.stellarai.app",
+    "description": "George - Your AI Financial Coach Who Actually Understands Your Life.\n\nMeet George, the AI financial assistant that speaks your language and helps you make smarter money decisions without the judgment or jargon.\n\nREAL ANSWERS TO YOUR REAL MONEY QUESTIONS\nAsk George anything about your finances and get straight, actionable answers:\n\n\"Can I afford this without ruining my budget?\"\n\"Where is all my money actually going each month?\"\n\"How much am I wasting on subscriptions I never use?\"\n\"How much did I spend on my utilities so far this year?\"\n\nGeorge analyzes your spending patterns and gives you insights that actually help, not generic advice that doesn't fit your life.\n\nSMART MONEY TRACKING - See real time updates about your money and make decisions based on your financial goals\n\nSMART SPENDING ",
+    "icon": "/icons/com.stellar.stellarai.app.png"
+  },
+  "com.getoasis.stgeorge": {
+    "title": "St. George",
+    "package": "com.getoasis.stgeorge",
+    "description": "This is the official app for St. George Coptic Orthodox Church in Bellflower, CA. In this app, you'll find Church Events, Announcements, Recorded Sermons and more!",
+    "icon": "/icons/com.getoasis.stgeorge.png"
+  },
+  "at.erstebank.george": {
+    "title": "George \u00d6sterreich",
+    "package": "at.erstebank.george",
+    "description": "Make friends with your banking and upgrade your finances with George.\n\nGeorge is simple, intelligent and personal, offering you the most mobile money experience in one powerful app:\n\u2022 From quick financial overviews to instant transfers with Scan & Pay: George simplifies your everyday money matters. There\u2019s (almost) nothing George can\u2019t do.\n\u2022 Keep track of all your accounts and cards \u2013 anytime, anywhere.\n\u2022 Of course, with Google Pay support for all debit and credit cards. \n\u2022 Because context matters: Get valuable insights and personalized tips from George to improve your financial fitness.\n\u2022 Investing is for everyone: Track and trade stocks, funds, ETFs, and many more securities \u2013 easier than ever, thanks to George Invest.\n\u2022 For all financial situations: Communicate directly and securely wit",
+    "icon": "/icons/at.erstebank.george.png"
+  },
+  "com.starfinanz.smob.android.sfinanzstatus": {
+    "title": "Sparkasse Ihre mobile Filiale",
+    "package": "com.starfinanz.smob.android.sfinanzstatus",
+    "description": "Banking without opening hours, transfers from the comfort of your sofa, and always keeping track of your account activity: Enjoy intuitive, mobile banking and handle your banking transactions effortlessly.\n\nBENEFITS\n\n\u2022 Check your accounts anytime, anywhere\n\u2022 Manage any number of online accounts \u2013 from savings banks and other banks\n\u2022 Set up transfers and standing orders\n\u2022 Stay informed about all account activity with the account alert\n\u2022 Find the quickest route to the nearest ATM or branch\n\u2022 Privacy thanks to optional incognito view of account balances\n\nThe Sparkasse app is there for you. Whether you're paying a bill at the breakfast table with a photo transfer, setting up a standing order on the train, or checking your account balance and credit card transactions, the tedious task of fillin",
+    "icon": "/icons/com.starfinanz.smob.android.sfinanzstatus.png"
+  },
+  "com.isis_papyrus.bankdirekt_pay_eyewdg": {
+    "title": "Bank Direkt Mein ELBA-App",
+    "package": "com.isis_papyrus.bankdirekt_pay_eyewdg",
+    "description": "Develop with us! Use the feedback function in the app and tell us about your wishes and needs. Your feedback will be taken into account in the planning! With each app update you can use additional features - so always stay up to date!\n\nFeatures:\nThe Mein ELBA app with pushTAN is up-to-date mobile banking. You can keep an eye on your finances on the go at all times, all in a single app:\n\n\u2714 Login & transfer: now even easier, faster and more secure with pushTAN\n\u2714 Account balance and sales at a glance\n\u2714 Real-time notification of new sales\n\u2714 Revenue allocation by categories\n\u2714 Scanning of IBANs, payment slips and QR codes\n\u2714 Personal mailbox: direct and secure contact with your advisor\n\u2714 Feedback function: ongoing optimization of the app based on your suggestions\n\u2714 Online savings: simple and conv",
+    "icon": "/icons/com.isis_papyrus.bankdirekt_pay_eyewdg.png"
+  },
+  "com.isis_papyrus.hypo_pay_eyewdg": {
+    "title": "HYPO Mein ELBA-App",
+    "package": "com.isis_papyrus.hypo_pay_eyewdg",
+    "description": "The HYPO My ELBA app* with pushTAN for HYPO Upper Austria and HYPO Salzburg is state-of-the-art mobile banking. This means you have an overview of your finances anytime, anywhere.\n\nHYPO My ELBA app functions:\n\n\u2022 Very easy to transfer: Transaction approval using pushTAN using a signature code or fingerprint/Face ID. Scanning of IBANs, payment slips and QR codes, express transfers and convenient management of standing and skimming orders.\n\u2022 Keep an overview: sales and account balance at a glance, allocation by sales category, as well as search, filter and export options.\n\u2022 Everything in one app: asset overview, sales statistics, income and expenses and recording your own products.\n\u2022 Debit card management: reordering, blocking and details about your debit cards\n\u2022 Mobile payment activation: Ra",
+    "icon": "/icons/com.isis_papyrus.hypo_pay_eyewdg.png"
+  },
+  "at.rsg.pfp": {
+    "title": "Mein ELBA-App",
+    "package": "at.rsg.pfp",
+    "description": "EASIER. FASTER, BETTER. \n\nOnline banking can be so easy and clear! In the My ELBA app you have an overview of your finances anytime, anywhere. \n\nMy ELBA app functions:\n\u2022 Very easy to transfer: Transaction approval using pushTAN using a signature code or fingerprint/Face ID. Scanning of IBANs, payment slips and QR codes, express transfers and convenient management of standing and skimming orders.\n\u2022 Keep an overview: sales and account balance at a glance, allocation by sales category, as well as search and filter options.\n\u2022 Everything in one app: asset overview, sales statistics, income and expenses and recording your own products.\n\u2022 Debit card management: reordering, blocking and details about your debit cards\n\u2022 Mobile payment activation: RaiPay\n\u2022 Purchase products online and use online ser",
+    "icon": "/icons/at.rsg.pfp.png"
+  },
+  "com.noonly.rdr2": {
+    "title": "Guideco for Red Dead 2",
+    "package": "com.noonly.rdr2",
+    "description": "Guideco for Red Dead helps you to keep track of your progress throughout the game and gives you the option to check all completed missions, all the collectibles that you have found and much more.\n\nOverview of all features:\n\n\u2022 All story-missions including Walkthroughs & Videos\n\u2022 All 10 Challenges with their subtasks\n\u2022 An interactive 100% offline map\n\u2022 Maps with locations of collectibles (Cards, Dinosaur Bones, Dreamcatcher, Rock Carvings etc.)\n\u2022 A 100% Checklist\n\u2022 All Achievements\n\u2022 All currently known cheats\n\u2022 And much more\n\n\nDisclaimer:\nThis app is a third party Application that was developed by fans for fans. The developer of this software is not affiliated with Rockstar Games Inc. or Take Two Interactive in any way.\nRDR and all components are trademarks of Take Two Interactive.",
+    "icon": "/icons/com.noonly.rdr2.png"
+  },
+  "com.rockstargames.rdr": {
+    "title": "Red Dead Redemption",
+    "package": "com.rockstargames.rdr",
+    "description": "When federal agents threaten his family, former outlaw John Marston is forced to hunt down the gang of criminals he once called friends. Experience Marston\u2019s journey across the sprawling expanses of the American West and Mexico as he fights to bury his blood-stained past in the critically acclaimed predecessor to the 2018 blockbuster, Red Dead Redemption 2.\n\nAlso included is Undead Nightmare, the iconic horror story that transforms the world of Red Dead Redemption into an apocalyptic fight for survival against a zombie horde. Available on mobile for the first time, this version features the complete single-player experiences of both games and also includes bonus content from the Game of the Year Edition and more.*\n\n* Red Dead Redemption does not feature multiplayer content.\n\n\u00a9 2005-2025 Ro",
+    "icon": "/icons/com.rockstargames.rdr.png"
+  },
+  "com.netflix.NGP.Kamo": {
+    "title": "Red Dead Redemption NETFLIX",
+    "package": "com.netflix.NGP.Kamo",
+    "description": "NETFLIX MEMBERSHIP REQUIRED.\n\nWhen federal agents threaten his family, former outlaw John Marston is forced to hunt down the gang of criminals he once called friends. Experience Marston's journey across the sprawling expanses of the American West and Mexico as he fights to bury his blood-stained past in the critically acclaimed predecessor to the 2018 blockbuster \"Red Dead Redemption 2.\"\n\n\nAlso included is \"Undead Nightmare,\" the iconic horror story that transforms the world of \"Red Dead Redemption\" into an apocalyptic fight for survival against a zombie horde. Available on mobile for the first time, this version features the complete single-player experiences of both games, plus bonus content from the Game of the Year Edition and more.*\n\n\n*\"Red Dead Redemption\" does not feature multiplaye",
+    "icon": "/icons/com.netflix.NGP.Kamo.png"
+  },
+  "com.reliancegames.wwemayhem": {
+    "title": "WWE Mayhem",
+    "package": "com.reliancegames.wwemayhem",
+    "description": "WWE Mayhem is bigger & bolder than the rest, with fast-paced mobile arcade action and over-the-top moves!\n\nPlay as John Cena, The Rock, The Man- Becky Lynch, Undertaker, Goldberg and 150 + ALL of your favorite WWE Legends and Superstars in this high-flying, in the ring, arcade action game. Take your WWE Superstars to the next level in weekly WWE RAW, NXT and SmackDown Live challenges! Compete on the Road to Wrestlemania and lead your WWE Champions and Superstars to victory in WWE Universe.\n\nPlay through epic and marvel wrestling matches between WWE Legends and WWE Superstars to determine the greatest of all time, each with their own Signature Moves and Super Specials.\n\nSPECTACULAR ROSTER\nChoose from an ever-growing roster of WWE Superstars and WWE Legends, including: John Cena, The Rock, A",
+    "icon": "/icons/com.reliancegames.wwemayhem.jpg"
+  },
+  "com.netflix.NGP.WWE2K": {
+    "title": "WWE 2K25: Netflix Edition",
+    "package": "com.netflix.NGP.WWE2K",
+    "description": "NETFLIX MEMBERSHIP REQUIRED.\n\nSmack down the competition in this immersive wrestling simulation game. Step into the ring with a heavy-hitting roster of WWE Superstars and Legends.\n\nExperience action-packed WWE matches, dynamic broadcast-style gameplay, authentic arena entrances and immersive commentary from WWE announcers in the palm of your hand.\n\nCHOOSE YOUR SUPERSTAR\nThis mobile game features over 40 RAW and SmackDown Superstars. Play as champions like Roman Reigns and Rhea Ripley or WWE Legends like The Rock and Stone Cold Steve Austin.\n\nMANY MODES OF MAYHEM\nRise through the ranks with your favorite WWE Superstar in Career mode or compete in a 1-on-1 or 2-on-2 PvP showdown.\n\nBRAWL HOW YOU WANT TO\nJump into single-player Quick Play matches in classic WWE formats, with adjustable difficu",
+    "icon": "/icons/com.netflix.NGP.WWE2K.png"
+  },
+  "com.catdaddy.cat22": {
+    "title": "WWE SuperCard - Wrestling Game",
+    "package": "com.catdaddy.cat22",
+    "description": "WWE SuperCard includes optional in-game purchases (including paid random items).\n\n\u2022 Explore Road to Immortality, the new campaign mode that lets you rise from independent bouts to international renown. Play any mode to earn cards & rewards, train your cards to increase their power, level up your account for more powerful cards and better rewards, sign with WWE ID to start winning fans and work your way up from WWE ID to Evolve, NXT, RAW & Smackdown to become a WWE legen by topping the leaderboard and earning Championships.\n\u2022 Find your favorite wrestlers in EIGHT NEW RARITIES: Chaos, Ignition, Prize, Adventure, Static, Royal Rumble 26, Ember, Rewind, and WrestleMania 42.\n\u2022 A new minigame, CRACK THE CASE, has dropped with great rewards! Can you crack the code?\n\u2022 Try out PVP formats and featu",
+    "icon": "/icons/com.catdaddy.cat22.png"
+  },
+  "com.scopely.whiplash": {
+    "title": "WWE Champions: Wrestling RPG",
+    "package": "com.scopely.whiplash",
+    "description": "Play WWE Champions, the ultimate World Wrestling Entertainment mobile strategy puzzle game. Experience the best action-packed WWE puzzle play combined with hardcore RPG. Superstars can compete in contests based on NXT, Raw, SmackDown, and more. Collect over 600 Superstars \u2013 like The Rock, Cody Rhodes, and Becky Lynch. Face your opponents in real, action-packed WWE events and action puzzle combat. Superstars can play solo or team up in faction Boss Mode as they perform iconic finishing moves. Join over 35 million players and feel the excitement of WWE sports entertainment. Stay undefeated on the Road to WrestleMania when playing the top choice for action puzzle fighter RPG!\n\nDownload today to choose your Superstars, face off opponents in an action-packed RPG, and join forces in Tag Team Bat",
+    "icon": "/icons/com.scopely.whiplash.png"
+  },
+  "com.musotic_app_v2": {
+    "title": "Musotic - Social Music Reviews",
+    "package": "com.musotic_app_v2",
+    "description": "Musotic is the new home for the discussion around music. On Musotic, you can write and browse reviews on any song or album, chat directly with friends in the in-app direct messages, and view detailed stats on your music preferences.\n\nTo start, sign-up with Spotify or Apple Music, and write a lengthy review on any song or album you like. Want to customize your review? Add additional components, such as images, colors, and the time of day you best associate with the music.\n\nHead over to search, where you can browse songs, albums, playlists, and profiles. This is your hub for navigating around Musotic's expansive platform.\n\nThen, dive into your profile, where you can see your reviews, create playlists of your favorite music, and see stats on how you represent the music you review. Don't forge",
+    "icon": "/icons/com.musotic_app_v2.png"
+  },
+  "com.musaic.mp": {
+    "title": "Musaic Player",
+    "package": "com.musaic.mp",
+    "description": "Musaic Player is a premium, local-first music player for Android \u2014 built for people who want a beautiful, distraction-free listening experience with no ads, no trackers, and no cloud dependency.\n\n\ud83c\udfb5 YOUR MUSIC, YOUR DEVICE\nScan and play all audio files stored on your phone or tablet. Musaic Player supports MP3, FLAC, AAC, OGG, WAV, and more. No streaming service required \u2014 your entire library is at your fingertips, even offline.\n\n\ud83c\udfa7 LISTEN TOGETHER\n\u2022 Sync music playback with friends on your local network in real-time\n\u2022 Collaborative queue: anyone can suggest and vote on the next track\n\u2022 P2P streaming: enjoy the same track even if it's only on the host's device\n\n\ud83d\uddbc\ufe0f STUNNING WIDGETS\n\u2022 Multiple home screen widget styles including \"Metrolist\" and \"Turntable\" designs\n\u2022 Real-time playback info and",
+    "icon": "/icons/com.musaic.mp.jpg"
+  },
+  "com.muso.musicplayer": {
+    "title": "Offline Music Mp3 Player- Muso",
+    "package": "com.muso.musicplayer",
+    "description": "Try Volume Booster, Cool Mode, and Audio Equalizer Features With Muso Music Player Offline Music Mp3 Player App!\n\nAudio format not supported? Lyrics not showing? Play interrupted? Still suffering from these problems while listening to music?\nLooking for a local offline music player that supports all audio formats?\nMuso Music Player not only provides the offline music listening experience and supports offline lyrics for your favorite offline songs, and allows you to create personalized offline music playlists!\u00a0\nLook no further and try Muso Player NOW!\n\nMuso Player is a professional MP3 offline music player. It boasts a powerful offline music player, offline song lyrics personalized offline music playlists, and a sleek user interface, bringing you a new offline music auditory experience.\n\nPo",
+    "icon": "/icons/com.muso.musicplayer.png"
+  },
+  "com.musicplayer.mp3.audio.mymusic.player": {
+    "title": "Music Player & MP3 - MMusic",
+    "package": "com.musicplayer.mp3.audio.mymusic.player",
+    "description": "MMusic is a must-have offline music player for Android, combining high-definition sound quality, full format support and intelligent management altogether. Developed by a professional team, this versatile app features a powerful equalizer, lyrics display, and an intuitive user interface including retro tape and vinyl record styles.\nWith no Wi-Fi required, you can listen to offline music anytime, anywhere, enjoying an immersive ultimate music listening experience like never before.\n\n\u2b50\ufe0f  Powerful Offline Audio Player With Full Compatibility\nMMusic supports all mainstream audio formats including MP3, FLAC, WAV, MIDI, AAC, APE, etc., and excellent compatibility ensures that every song of yours can be presented in the best state, truly achieving an unlimited music experience.\n\n\u2b50\ufe0f Exceptional So",
+    "icon": "/icons/com.musicplayer.mp3.audio.mymusic.player.png"
+  },
+  "com.sivona.stormshot.e": {
+    "title": "Stormshot: Isle of Adventure",
+    "package": "com.sivona.stormshot.e",
+    "description": "Rise to the calling of lost treasures! \nReady, aim, fire! Have a blast in the 500 levels of mind-twisting shooting puzzles! Enjoy the fun with a storm of bullets and become the most skilled shooter on Skull Isle!\nBeneath your feet lies the lost treasure island filled with danger and mysteries. To survive this unforgiving world, you must wield your greatest weapons: your unmatched wit, flawless aiming and absolute focus to fend off whatever evil may come!\n\nGame Features\n\u25c6 Never the same levels\n500 challenging levels await you, use your wisdom and find the fastest way to solve every puzzle. Here\u2019s some free advice: being a top challenger requires more than making the right choice, it is being able to plan ahead, capture the right timing and most importantly, precise execution.\n\u25c6 Explore the ",
+    "icon": "/icons/com.sivona.stormshot.e.jpg"
+  },
+  "com.nexonm.dominations.adk": {
+    "title": "DomiNations",
+    "package": "com.nexonm.dominations.adk",
+    "description": "Wage war and battle for total world domination in DomiNations. Build your base into a thriving empire and command an army in epic battles. Bring your army to life in real-time strategy games that pit you against your foes across every age of history. \n\nEmpires begin as an early settlement that grows through the ages, from the dawn of history to the modern era. Strategize and study under history\u2019s greats at the University, like Leonardo Da Vinci and Catherine the Great. Build Wonders of the World and dominate battles with high-tech fighter jets from the modern era. Build your base and strengthen your defenses with the Council.\n\nEnter an age of empires as you travel through different eras of history. From the beginnings of the world to the modern age, you\u2019ll need to fight for dominance and s",
+    "icon": "/icons/com.nexonm.dominations.adk.png"
+  },
+  "com.Everguild.HorusHeresy": {
+    "title": "Warhammer Horus Heresy Legions",
+    "package": "com.Everguild.HorusHeresy",
+    "description": "Choose your Legion, build your deck and fight to become a legendary Warmaster! Collect your favourite characters from The Horus Heresy, a key setting of the Warhammer 40,000 universe, and fight in fast and brutal matches. An epic card game (TCG / CCG) with a growing collection of over 1000 cards!\n\nCreate a warrior lodge with your friends, discuss deck building, tactics and strategy, and fight in PvP card battles. Choose a side in faction-based card wars that determine which new cards are added to the game. The fate of the Galaxy is in your hands \u2013 become a legend!\n\nTHE HORUS HERESY CARD WARS: Discover The Horus Heresy, one of the richest settings in the Warhammer 40,000 universe by Games Workshop, for the first time as an online TCG / CCG card game. The legendary forces of Ultramarines, Sp",
+    "icon": "/icons/com.Everguild.HorusHeresy.png"
+  },
+  "com.bscotch.crashlands2": {
+    "title": "Crashlands 2",
+    "package": "com.bscotch.crashlands2",
+    "description": "Return to Woanope as Flux Dabes, intergalactic trucker and disgruntled corporate employee. After years away from the planet under a lucrative (if morally dubious) spokesperson contract for the Bureau of Shipping, you return to visit some old pals and recover from corporate burnout. But before your vacation can even begin, a mysterious blast from the planet's surface sends you crashing into a new land, far from friends and alone in an alien wilderness.\n\nEXPLORE A DYNAMIC ALIEN WORLD\nWoanope is alive, thrumming with ecological interactions, curious creatures, friendly alien societies, and heaps of stories to uncover. Lure a Trunkle into an explosive meadow, fish up some Pho-rays by moonlight, or help those mischievous alien kids commune with a (probably) harmless multidimensional being. What",
+    "icon": "/icons/com.bscotch.crashlands2.png"
+  },
+  "com.taymay.file.transfer": {
+    "title": "Quick Share - File Transfer",
+    "package": "com.taymay.file.transfer",
+    "description": "Looking for a fast, secure, and convenient way to share files and transfer data between devices? Quick Share - File Transfer offers the perfect all-in-one solution! Seamlessly share and transfer documents, videos, and photos with ease and speed.\n\nWith our app, file sharing has never been simpler. Share apps, send important documents, and transfer cherished memories captured in videos and photos, all in one smart and user-friendly platform.\n\nKey Features:\n\nSmart Transfer Technology: Quick Share utilizes advanced technology for lightning-fast speeds and seamless connectivity.\n\nSecure File Transfer: Protect your privacy with our secure file transfer system, ensuring the safe sharing of sensitive documents and personal media.\n\nVersatile File Support: Share and transfer various file types, from",
+    "icon": "/icons/com.taymay.file.transfer.png"
+  },
+  "com.dong.quickshare": {
+    "title": "Quick Share - File Transfer",
+    "package": "com.dong.quickshare",
+    "description": "Quick Share is a straightforward, offline file transfer tool, perfect for sharing files between nearby devices over local Wi-Fi or LAN .\n\nFully offline operation \u2013 Share files via local Wi-Fi or LAN; internet access isn\u2019t required.\n\n\ud83d\udd12 Secure local transfer \u2013 Your data stays protected within the private network, keeping confidentiality intact.\n\n\ud83d\udcf1Cross-platform compatibility \u2013 Works seamlessly on Android, iOS, Windows, macOS, and Linux.\n\n\ud83d\udd76\ufe0f Privacy-first design \u2013 No tracking , no data collection.\n\n\ud83e\udd1d User-friendly experience \u2013 Built for simple, hassle-free file sharing for individuals, families, and teams alike.",
+    "icon": "/icons/com.dong.quickshare.png"
+  },
+  "com.codingclicks.quickshare.file.sharing.transfer.share": {
+    "title": "QuickShare - File Transfer",
+    "package": "com.codingclicks.quickshare.file.sharing.transfer.share",
+    "description": "Quick Share: Effortlessly Transfer Data, Files & Media Across Devices\n\nQuick Share makes data transfer simple and efficient! Whether it\u2019s photos, videos, documents, or music, Quick Share is your ultimate app for instant file sharing. Share data between devices in just a few taps, without cables or complex setups. Perfect for anyone looking for a reliable, fast data sharing app.\n\nKey Features:\nFast Data Transfer: Transfer files quickly and easily.\nAll File Types Supported: Photos, videos, documents, and music.\nDevice Compatibility: Works seamlessly with Android and other devices.\nSecure & Reliable: Encrypted sharing for privacy and data protection.\nAdditional Benefits:\n\nOffline Sharing: No internet? No problem! Enjoy seamless offline data transfers.\nIntuitive Interface: Designed for simplic",
+    "icon": "/icons/com.codingclicks.quickshare.file.sharing.transfer.share.jpg"
+  },
+  "com.quickshare.smartdatashare.filetransfer.datatransfer.phoneclone.easyshare": {
+    "title": "Quick Share: File Transfer App",
+    "package": "com.quickshare.smartdatashare.filetransfer.datatransfer.phoneclone.easyshare",
+    "description": "Introducing Quick Share: File Transfer, Your Ultimate Phone Data Sharing & Transfer Solution \ud83d\ude80\n\nTransfer files from one phone to another Phone easily using the Fast Share, Send Anywhere File Transfer tool.Share photos, videos, and files from one phone to another with the Quick File Sharing & Transfer app.\ud83d\udcf1 File Transfer: Copy My Data for Android lets you share files quickly, safely, and effortlessly, making secure file sharing faster than ever.\n\ud83d\udce4 File Transfer app for Android comes with a smooth UX/UI design, making quick file sharing and data transfer easier than ever, send anywhere instantly and securely.\n\nQuick Share: Phone Clone lets users easily copy all data, photos, videos, contacts, and apps, from an old phone to a new one through fast and secure wireless Data transfer.\n\nQuick Shar",
+    "icon": "/icons/com.quickshare.smartdatashare.filetransfer.datatransfer.phoneclone.easyshare.png"
+  },
+  "com.tixon.quickshare": {
+    "title": "Quick Share",
+    "package": "com.tixon.quickshare",
+    "description": "Quick Share app is designed for saving text content on your device.\n\nHere you can add notes only from another apps by sharing content via system sharing dialog.\n\nYou can search over your notes, copy links from the app, edit and remove your saved notes.\n\nQuick Share does not require an Internet connection and does not use any network. Its idea is only in improving user's data safety with usage of local storage.",
+    "icon": "/icons/com.tixon.quickshare.png"
+  },
+  "com.google.android.mosey": {
+    "title": "com.google.android.mosey",
+    "package": "com.google.android.mosey"
+  },
+  "com.oneplus.gamespace": {
+    "title": "OnePlus Games",
+    "package": "com.oneplus.gamespace",
+    "description": "Store and access all your games from OnePlus Games with gaming optimization options. Installed games will automatically be launched in gaming mode for immersive gaming.",
+    "icon": "/icons/com.oneplus.gamespace.png"
+  },
+  "com.oneplus.account": {
+    "title": "OnePlus Account",
+    "package": "com.oneplus.account",
+    "description": "OnePlus Account can help you easily access OnePlus services and enjoy the convenience brought by OnePlus services.\nIt also keeps your account safe by using SMS messages or phone calls for identity authentication.",
+    "icon": "/icons/com.oneplus.account.webp"
+  },
+  "com.oneplus.opshelf": {
+    "title": "OnePlus Shelf",
+    "package": "com.oneplus.opshelf",
+    "description": "Key Improvements to Shelf:\n\nAccess Shelf from anywhere\nYou can open Shelf from the top right section of the status bar, from your home screen, or when any other app is open. This helps to open Shelf anytime and access your cards & widgets.\n\nPersonalisation with resizable cards\nWith the new Shelf, you can resize the cards to multiple sizes based on your choice and rearrange the cards within the grid. Currently Toolbox & Notes cards supports multiple sizes.\n\nA smarter Scout search\nSearch for apps, shortcuts, files, contacts, settings & more. Users in India & North America can also search for music, movies, artists, food & more.\n\nCards available on Shelf:\n1.\tScout search bar: You can search by text or voice commands. Alternatively, you can also pull down the Shelf screen to open Scout.\n2.\tWea",
+    "icon": "/icons/com.oneplus.opshelf.png"
+  },
+  "com.oneplus.brickmode": {
+    "title": "Zen Space",
+    "package": "com.oneplus.brickmode",
+    "description": "Zen Space is an app that helps you eliminate distractions so you can focus on what matters. Deep Zen and Light Zen features are here to supercharge your productivity.\nIn the Deep Zen space, the system automatically silences all notifications and disables all apps other than the Camera, so you can give your undivided attention to the task at hand. A Light Zen space allows you to choose the apps you need in different circumstances, so you can quickly find your zen and get on with things. You can create multiple Light Zen spaces and switch between them as necessary.\nWe've also provided a dashboard where you can view your zen data and share your zen achievements.\n*Zen Space is currently available only for devices running ColorOS 13.1 or a later version.\nFor devices that do not support Zen Spac",
+    "icon": "/icons/com.oneplus.brickmode.png"
+  },
+  "com.hotplay.puzzlegames": {
+    "title": "Puzzle Challenge games",
+    "package": "com.hotplay.puzzlegames",
+    "description": "When you need relaxation, diversion or just a moment of distraction enjoy this collection of toys: hear the sound of a bamboo chime, play with wooden boxes, swipe gently your finger in the water, tap buttons, draw with chalks and so on! Are you waiting for something and you need a diversion? Open Antistress app and start playing with a Newton's cradle! Are you furious with someone? Have some relaxation with the never-old fifteen game! Do you need distraction from study? Open Antistress app and choose one among dozens of toys to play!\n\nWhen you're bored, unwind your mind and do something. Take a rest!\nHundreds of designers took it upon themselves to create their own amusing toys game with some truly astounding originality. We gather more than 50 of the best fidget toys game we could find to",
+    "icon": "/icons/com.hotplay.puzzlegames.png"
+  },
+  "com.miHoYo.bh3global": {
+    "title": "Honkai Impact 3rd",
+    "package": "com.miHoYo.bh3global",
+    "description": "v8.8 \"Adrift in the Sea of Data\" is now available. Log in and complete specific event missions to claim a Deepspace Anchor: First Light Character Card.\n\n[New AstralOp] Bailu Youyun\nNew S-rank AstralOp Bailu Youyun debuts. For the first 60 AstralOp Supply drops, every 10 drops give Equipment Supply Card x2 (up to Equipment Supply Card x12).\nRecommended for World Star Astral Ring teams, she can buff the team during Stellar Surplus. Her Synergy Attack draws in nearby enemies and deals Lightning DMG.\n\nAs the doomsday countdown ticked away, the girl dried her tears, wiping away the unease in her heart along with them.\nAnd so, the people saw a tiny figure running about and calling out; they heard her answer loudly after mustering her courage:\nThe sparkle of light is never confined to a mere inst",
+    "icon": "/icons/com.miHoYo.bh3global.png"
+  },
+  "com.chatgpt": {
+    "title": "com.chatgpt",
+    "package": "com.chatgpt"
+  },
+  "com.ziraat.dinamikmobil": {
+    "title": "Ziraat Dinamik Mobil",
+    "package": "com.ziraat.dinamikmobil",
+    "description": "Ziraat Dynamic is here to help you benefit from Next-Generation Banking services!\nZiraat Dynamic Mobile is here to meet your financial needs quickly, securely, and easily.\nBecome a customer in minutes at our bank, which transcends the boundaries of traditional banking and offers a completely digital and user-friendly experience.\n\nWith Ziraat Dynamic Mobile:\n\n\u2022 You can securely carry out your transactions thanks to Digital Approval on Ziraat Dynamic Mobile.\n\u2022 With My Shortcuts, you can personalize your most frequently used banking transactions with a single touch.\n\u2022 You can personalize your app with themes and background images we've selected for you.\n\u2022 You can quickly and easily apply for loans, overdraft accounts, and cards.\n\u2022 You can spend securely with your credit card, which combines d",
+    "icon": "/icons/com.ziraat.dinamikmobil.png"
+  },
+  "com.ziraatkatilim.mobilebanking": {
+    "title": "Ziraat Kat\u0131l\u0131m",
+    "package": "com.ziraatkatilim.mobilebanking",
+    "description": "More to Share, More to Gain with Ziraat Kat\u0131l\u0131m!\nWith our renewed application, we offer a fast and seamless banking experience through our user-friendly interface and comprehensive set of features.\n\n\u2022 Thanks to the accordion structure, you can view your current status through expandable menus and complete many transactions on a single screen.\n\u2022 You can mark selected accounts as Primary or Favorite, ensuring they are listed at the top for quick access.\u2028\n\u2022 With the masking option on the home screen, you can hide your account balances and card limits.\u2028\n\u2022 Add your frequently used menus to Quick Actions for faster and easier access.\u2028\n\u2022 Perform money transfers effortlessly by scanning an IBAN with your phone camera or selecting an image from your gallery that contains an IBAN.\u2028\n\u2022 Use QR Transact",
+    "icon": "/icons/com.ziraatkatilim.mobilebanking.png"
+  },
+  "com.foreks.android.zborsa": {
+    "title": "ZBorsa (Ziraat Yat\u0131r\u0131m Borsa)",
+    "package": "com.foreks.android.zborsa",
+    "description": "Watch the capital markets through the Agricultural Investment. And it's free!\n\nIf you can watch instantly with zB market data from anywhere with Internet access, you can access your portfolio, you can do your share and V\u0130OP transactions quickly and reliably. We offer the following services and applications as if zB FREE;\n\u00a0\u00a0\nBIST, V\u0130OP, Free Markets, Parity, and you can follow the bonds data.\n\nYou can add symbols to the page you want, you can follow the data INSTANT and FREE.\n\nShare price and news you can define alarms for V\u0130OP and other symbols.\n\nAdvanced technical analysis can find opportunities.\n\nYou can watch in real time the PDP and Forex News, you can search among news. You can access the research report prepared by the Agricultural Investment.\n\nYou can reach the financial activities ",
+    "icon": "/icons/com.foreks.android.zborsa.png"
+  },
+  "com.swapcard.apps.android.pi": {
+    "title": "PI Events",
+    "package": "com.swapcard.apps.android.pi",
+    "description": "Your essential PI Apparel companion.\n\nMaximize your PI Apparel experience with the PI Apparel app. Effortlessly manage meetings, connect with fellow attendees, and stay organized with a personalized agenda. Get real-time updates, browse technology providers, and get notifications so you\u2019re always in the know. Seamlessly plan, build valuable connections, and enhance your experience, the app is here to help you make every moment count at PI Apparel events.",
+    "icon": "/icons/com.swapcard.apps.android.pi.png"
+  },
+  "com.blockchainvault": {
+    "title": "Pi Network",
+    "package": "com.blockchainvault",
+    "description": "Pi is a new digital currency. This app allows you to access and grow your Pi holdings and serves as wallet to host your digital assets. Pi is fairly distributed, eco-friendly and consumes minimal battery power.",
+    "icon": "/icons/com.blockchainvault.png"
+  },
+  "com.csam.icici.bank.imobile": {
+    "title": "iMobile: Loan, Cards & Banking",
+    "package": "com.csam.icici.bank.imobile",
+    "description": "iMobile is ICICI Bank\u2019s official Mobile Banking app that offers 400+ banking services.\n\nIt is accessible to both ICICI Bank customers & non-ICICI Bank customers for availing Loans, managing Savings Accounts, transferring funds, managing Cards, and investments. iMobile brings the power of Net Banking to your fingertips!\n\niMobile offers: \n\n\ud83d\udccdInstant Loans such as Personal Loans, Home Loans, Car Loans and more \n\ud83d\udccdOnline Digital Savings Account\n\ud83d\udccdApply for Credit Cards\n\ud83d\udccdOpen Fixed Deposits(FDs), Recurring Deposits (RDs) or iWish Deposits\n\ud83d\udccdScan QR Codes for easy UPI Payments \n\ud83d\udccdHassle- free utility & electricity bill payments\n\ud83d\udccdInstant online mobile recharge, DTH service, and FASTag recharge.\n\ud83d\udccdFlight, train, and hotels bookings\n\nWith iMobile, you can enjoy the following benefits:\n\n\u2714 Pre-approved RuP",
+    "icon": "/icons/com.csam.icici.bank.imobile.png"
+  },
+  "com.zebu.mynt": {
+    "title": "MYNT",
+    "package": "com.zebu.mynt",
+    "description": "MYNT Mobile\n\nPresenting ZEBU's MYNT App, South India's most personalized stockbroker.\n\nMYNT Mobile is an elegant, state of the art, hybrid mobile application with a host of features. Working in tandem with other applications in Zebu, this mobile app let the traders and investors go about their trading with ease. \n\nFeatures:\nFirst In-house built Hybrid mobile app for trading in India\nAll features are built with \"One click\" access\nEasy Navigations\nAll order types enabled\nOne margin for all segments (Not app specific, but we can highlight)\nFlash trade / Quick trade settings based on segment\nGlobal search\nTechnical chart features\nSingle click Square-off all position\nSingle click Cancel All orders\nEasy FNO access and option chain access\nBasket Orders\nGTT Orders\nConfigurable Index watch\nFull day",
+    "icon": "/icons/com.zebu.mynt.png"
+  },
+  "com.jncb.mobile": {
+    "title": "NCB Mobile",
+    "package": "com.jncb.mobile",
+    "description": "Bypass the lines and hours of waiting. Complete your routine banking transactions from anywhere in the world, any time you please with the bank that\u2019s in your hands!\n\nThe NCB Mobile App makes it easy to:\n\n\n-\tCheck account balances\n\u2022\tView your Saving, Chequing, Loan, Deposit or Investment account (accounts must already be enabled on the web)\n\u2022\tView the last 50 Transactions\n\n-\tTransfer funds\n\u2022\tBetween own accounts\n\u2022\tTo third-party NCB accounts\n\n-\tPay bills including credit cards\n\n-\tAdd beneficiaries and payee\n\n-\tManage Credit Cards \n\u2022\tView available and current balances\n\u2022\tView minimum balance and payment due date (to avoid those late charges)\n\u2022\tView Statement date and balances\n\u2022\tCredit Card Limit\n-       View conversion between Jamaican and Foreign exchange currencies\n-\tSend feedback and rep",
+    "icon": "/icons/com.jncb.mobile.png"
+  },
+  "co.uk.getmondo": {
+    "title": "Monzo - Mobile Banking",
+    "package": "co.uk.getmondo",
+    "description": "Monzo is the digital banking app that rewards you for being you. With one app to manage all your finances, in real time. Open an account in a few minutes.\n\n CASH BACK FOR ALL \nGet cash back on all your purchases for your first month*. 5% cash back with Preferred account. 1% cash back with free Everyday account.\n\nCash back means cash: withdraw, spend or save it.\nCash back is instant, straight into your account or Savings Jar.\n\nInstant access to cash with our network of 38,000 free ATMs across the US.\n\nReal-time notifications each time you spend on your debit card.\n\nSet a target for how much you want to spend and we\u2019ll help you stay on track.*\n\nNO STRESS SAVINGS\n\nWith a Preferred account, get our best savings rate of 3.75% APY interest. With an Everyday account, you\u2019ll receive 2.00% APY. \n\nE",
+    "icon": "/icons/co.uk.getmondo.png"
+  },
+  "com.emiratesnbd.android": {
+    "title": "ENBD X",
+    "package": "com.emiratesnbd.android",
+    "description": "Elevate your mobile banking by innovations with ENBD X; finance your needs, get 150+ instant services and invest with various digital wealth options.\n \nWith ENBD X, a new standard of excellence, embark on a groundbreaking journey to mobile banking on your phone. Seamlessly navigate through all your Emirates NBD products to gain control of your finances. This cutting-edge app empowers you to securely manage your accounts and cards with the assurance from Emirates NBD to bring you best in class banking products and services.\n \nEmirates NBD, known for its commitment to innovation, ensures your financial wellbeing and security with ENBD X.\n \nAccess over 150+ services, with majority of them being processed instantly on the app with no extra steps. Lock and unlock your Emirates NBD card effortle",
+    "icon": "/icons/com.emiratesnbd.android.png"
+  },
+  "com.threestars.keystar": {
+    "title": "KeyStar: Button Mapper",
+    "package": "com.threestars.keystar",
+    "description": "With KeyStar, you can take total command of your Samsung device's buttons to perform the exact actions you need.\n\nAdd up to 10 actions for each button. Not enough? Add contexts to perform a different set of actions based on the currently open app.\n\nStill not enough? Combine KeyStar with Tasker to create your own actions and hotswap configurations on the fly based on your own rules.\n\nRemapping works always, even with the screen and Always On Display turned off. No root needed.\n\nSoft keys, such as home, back, and recents, are also supported. KeyStar allows you to add your own actions on top of the existing functions provided by these keys.\n\nThe engine parameters can be fine tuned to your liking. You can adjust the delays for short presses, long presses, and even customise the volume change s",
+    "icon": "/icons/com.threestars.keystar.png"
+  },
+  "flar2.homebutton": {
+    "title": "Button Mapper: Remap your keys",
+    "package": "flar2.homebutton",
+    "description": "Button Mapper makes it easy to remap custom actions to your volume buttons and other hardware buttons. Remap buttons to launch any app, shortcut or custom action with a single, double press or long press.\n\nButton Mapper can remap most physical or capacitive keys and buttons, such as volume buttons, some assist buttons, and capacitive home, back and recent apps keys. Button Mapper can also remap buttons on many gamepads, remotes and other peripheral devices.\n\nRoot is not required for most actions, however some require an adb command from a connected PC if not rooted. Button Mapper does not work when the screen is off unless your device is rooted or you run an adb command.\n\nA few examples of remapping you can do with Button Mapper:\n-long press to toggle your flashlight\n-remap your TV remote ",
+    "icon": "/icons/flar2.homebutton.png"
+  },
+  "com.irishin.buttonsremapper": {
+    "title": "Buttons Remapper: Map & Combo",
+    "package": "com.irishin.buttonsremapper",
+    "description": "With Buttons Remapper, you can easily customize your device and make it work the way you want it to. Here are just a few of the amazing features you can enjoy:\n\n\u2022 Unlock a world of possibilities with the power to assign custom actions to a combination of keys\n\u2022 Remap buttons to screen taps and touch events, even for games! Say goodbye to awkward controls and hello to a more immersive gaming experience. You can even automate certain actions in games using scripts.\n\u2022 Create macros, a sequence of commands to be executed at once, making it easier to perform repetitive tasks with just one button press\n\u2022 Change the default function of buttons to call emergency contacts or open your favorite apps\n\u2022 Create custom button layouts by swapping buttons or assigning new functions to keys, so you can fin",
+    "icon": "/icons/com.irishin.buttonsremapper.png"
+  },
+  "com.mozapps.buttonmaster.free": {
+    "title": "Button Master: Assistive Touch",
+    "package": "com.mozapps.buttonmaster.free",
+    "description": "Button Master \u2013 Floating Button, Edge Gestures & Assistive Touch\nTransform your Android with powerful edge gestures, floating buttons, custom shortcuts, and assistive tools. Create iOS-style Assistive Touch menus, swipe from screen edges for fluid navigation, remap physical buttons, add home screen shortcuts, and notification bar buttons for the ultimate quick access experience.\n\n\ud83c\udf9b Multiple Ways to Control Your Phone:\n\u2b50\ufe0f Floating Buttons - Assistive Touch:\n    \u25ab Create multiple floating buttons like iOS Assistive Touch.\n    \u25ab Personalize each button with custom icons, battery, clock, or network info.\n    \u25ab Intuitive gesture controls: Supports tap, double-tap, long press, and 8-direction swipe.\n    \u25ab Smart visibility: Auto-hide or auto-show buttons based on active apps.\n\u2b50\ufe0f Edge Gestures - P",
+    "icon": "/icons/com.mozapps.buttonmaster.free.png"
+  },
+  "com.mozapps.buttonmasterpaid": {
+    "title": "Button Master: Assistive Touch",
+    "package": "com.mozapps.buttonmasterpaid",
+    "description": "\ud83d\udc51 Unlock the Full Experience: Free vs. Premium:\n    \u274c Ad-Free\n    \ud83d\udd13 Unleash All Features\n    \ud83d\ude80 Optimized Performance\n    \ud83d\udcbe Smaller Footprint\n\nButton Master \u2013 Floating Button, Edge Gestures & Assistive Touch\nTransform your Android with powerful edge gestures,floating buttons, custom shortcuts, and assistive tools. Create iOS-style Assistive Touch menus, swipe from screen edges for fluid navigation, remap physical buttons, add home screen shortcuts, and notification bar buttons for the ultimate quick access experience.\n\n\ud83c\udf9b Multiple Ways to Control Your Phone:\n\u2b50\ufe0f Floating Buttons - Assistive Touch:\n    \u25ab Create multiple floating buttons like iOS Assistive Touch.\n    \u25ab Personalize each button with custom icons, battery, clock, or network info.\n    \u25ab Intuitive gesture controls: Supports tap, dou",
+    "icon": "/icons/com.mozapps.buttonmasterpaid.png"
+  },
+  "com.azure.authenticator": {
+    "title": "Microsoft Authenticator",
+    "package": "com.azure.authenticator",
+    "description": "Use Microsoft Authenticator for easy, secure sign-ins for all your online accounts using multi-factor authentication or passwordless. You also have additional account management options for your Microsoft personal, work or school accounts.\n\nGetting started with multi-factor authentication\n\nMulti factor authentication (MFA) or two factor authentication (2FA) provides a second layer of security. When logging in with multi-factor authentication, you\u2019ll enter your password, and then you\u2019ll be asked for an additional way to prove it\u2019s really you. Either approve the notification sent to the Microsoft Authenticator, or enter the one-time password (OTP) generated by the app.\u202fThe one-time passwords (OTP codes) have a 30 second timer counting down. This timer is so you never have to use the same tim",
+    "icon": "/icons/com.azure.authenticator.png"
+  },
+  "com.k9i.ccpocket": {
+    "title": "CC Pocket: Codex & Claude",
+    "package": "com.k9i.ccpocket",
+    "description": "AI coding agents can now implement complete features. You still need to guide the work, approve actions, answer questions, and review the results. CC Pocket brings that workflow to your phone, tablet, and Mac.\n\nCC Pocket is a mobile and desktop companion for OpenAI Codex and Claude Code. Your agents run through a self-hosted Bridge Server on your own Mac or Linux machine, while you start sessions, make decisions, inspect files, and manage changes from Android, iPhone, iPad, or macOS.\n\nThis app is not affiliated with, endorsed by, or associated with Anthropic or OpenAI.\n\nSELF-HOSTED BY DESIGN\nRun the Bridge Server on your own machine. Your projects, shell access, git repository, and agent sessions stay under your control, with no telemetry or tracking.\n\nSTART AND RESUME SESSIONS\nStart new C",
+    "icon": "/icons/com.k9i.ccpocket.png"
+  },
+  "com.starblazesoft.gp": {
+    "title": "GamePlus  30+ Games in One App",
+    "package": "com.starblazesoft.gp",
+    "description": "Turn your phone into a real gaming console.\n\nFeel responsive vibrations with every collision and explosion.\nPlay a wide variety of games online or offline \u2014 no Wi-Fi required.\n\nEnjoy arcade, action, shooting, puzzle, board, and adventure games,\nall designed for quick play and smooth controls.\n\nPlay online multiplayer games and connect with friends,\nor meet new players from around the world.\n\nA clean, console-style interface makes every game easy to jump into.\nNo complicated setup. Just pick a game and start playing.\n\nWant even more games?\nExplore GameP, our browser-based gaming hub, and play instantly on the web.\n\nReady to have fun?\nPress Install and start playing now.\n\nPowered by Scratch (https://scratch.mit.edu) , Turbowarp (http://turbowarp.org)",
+    "icon": "/icons/com.starblazesoft.gp.png"
+  },
+  "com.coloros.gamespace": {
+    "title": "com.coloros.gamespace",
+    "package": "com.coloros.gamespace",
+    "icon": "/icons/com.coloros.gamespace.webp"
+  },
+  "com.elektron.mindpal": {
+    "title": "MindPal - Brain Training Games",
+    "package": "com.elektron.mindpal",
+    "description": "Join over 6 million users! MindPal is your daily brain trainer that challenges your memory, attention, language, and problem solving skills. Enjoy a personalized daily workout of entertaining games based on the skills you'd like to improve.\n\nMindPal includes 40 educational games that train 7 key cognitive areas: Memory, Attention, Language, Math, Flexibility, Speed, and Problem Solving.\n\nTrack your progress and compare your brain scores with others now!\n\nFEATURES\n\n- Over 35 games and 1000 levels to train your brain in different skills.\n- Personalized daily workout based on your training goals.\n- Expand your vocabulary and writing skills with word games.\n- Improve your memory, attention, math, and problem solving skills.\n- Track your performance and get smarter everyday!\n- Get in-depth insi",
+    "icon": "/icons/com.elektron.mindpal.webp"
+  },
+  "com.marrow": {
+    "title": "MARROW - for NEET PG & NExT",
+    "package": "com.marrow",
+    "description": "Videos\n\u00bb 810+ hours of video classes\n\u00bb Integrated conceptual content across all 19 subjects\n\u00bb New interactive videos for MCQ Discussion\n\u00bb Revision videos & Recent updates\n\u00bb Animations & real clinical scenarios for better understanding\n\nQBank\n\u00bb 18,500+ MCQs, including high-yield MCQs across all 19 subjects\n\u00bb Revamped to closely follow the latest exam pattern\n\u00bb Magic Module - curated list of MCQs that you got wrong\n\u00bb Schema - find all important and repeated asked topics at a glance\n\u00bb Includes previous years\u2019 questions\n\nTests\n\u00bb 390+ total tests (130+ Grand Tests)\n\u00bb Largest Pan-India mock tests (1 lakh+ participants)\n\u00bb Performance Analytics - know how you can improve\n\u00bb Simulates the real exam\n\n\n******************************************************\n\nIndia\u2019s biggest faculty line-up for NEET PG/",
+    "icon": "/icons/com.marrow.png"
+  },
+  "com.pre_pg": {
+    "title": "Pre PG: Clinical NEET PG NExT",
+    "package": "com.pre_pg",
+    "description": "96.8% of NEET PG 2025 Questions were from Pre-PG \n\nPrepare to ace your NEET PG 2026, INICET 2025, AIIMS PG, JIPMER, PGI, DNB CET, USMLE, and FMGE exams with confidence. Discover why Pre-PG Prep is the preferred NEET PG Preparation App for tens of thousands of aspiring doctors! \n\n\nFree Daily NEET PG Test Series: Stay ahead with our free NEET PG mock tests. We don't intend to substitute medical entrance exam courses such as DAMS & Dr. Bhatia, but practicing these tests can drastically improve your NEET PG score. \n\nExtensive NEET PG Question Bank: Practice 75,000+ MCQs from various tests, including NBE-administered NEET PG, INICET, NEET SS, FMGE, NEXT NEET PG 2026, JIPMER, PGI, NEXT MBBS Exam, National Exit Test, DNB CET & FMGE. Prepare for NEET PG 2027 and NEXT 2028.  Access NEET PG and AIIM",
+    "icon": "/icons/com.pre_pg.png"
+  },
+  "com.prepladder.learningapp": {
+    "title": "PrepLadder for NEET PG/FMGE/SS",
+    "package": "com.prepladder.learningapp",
+    "description": "The journey to cracking medical exams is overwhelming\u2014but with PrepLadder, your prep just got smarter, faster, and stress-free!\n\nTrusted by toppers and thousands of medical aspirants, PrepLadder is a leading online platform for NEET PG, INI-CET, FMGE, NEET SS, and Residency exam preparation. \n\nAnd now, Version X is designed to push medical education forward. We bring you the most advanced and high-yield study experience ever. You can now focus on what truly matters without getting affected by external distractions.\n\nBacked by India\u2019s top medical faculty, Version X promises to make learning more effective than ever before with its cutting-edge features. \n\nWhy Choose PrepLadder?\n\nOur feature-packed upgrade, Version X, ensures you study better and retain longer with:\n\n\u2022 Smarter Video Lectures",
+    "icon": "/icons/com.prepladder.learningapp.png"
+  },
+  "com.arc.normanmd.patient": {
+    "title": "NormanMD",
+    "package": "com.arc.normanmd.patient",
+    "description": "Get on-demand urgent care right away from anywhere in Texas via messaging, audio or video chat, and image sharing. The NormanMD app allows you to quickly communicate with adult medicine and pediatric doctors or advanced practice clinicians (APCs) 24/7/365 about your immediate medical concerns.  All of our providers are local and part of our communities in Central Texas.\n\nOur experienced, board-certified adult medicine and pediatric providers can:\n\u2022\tanswer your medical questions\n\u2022\tdiagnose minor illnesses\n\u2022\ttreat common ailments\n\u2022\tprescribe medications as needed\n\u2022\tdirect you to the most appropriate place to address your healthcare needs\n\nInstant Message\nWant to know if there is an over-the-counter medication you can take?  Not sure if you need an office visit?  Start with a direct message a",
+    "icon": "/icons/com.arc.normanmd.patient.jpg"
   }
 }
