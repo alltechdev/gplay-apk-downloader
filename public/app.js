@@ -87,11 +87,7 @@
       if (backupCard) backupCard.classList.add('visible');
     });
 
-    function updateCounter(count) {
-      if (count > 0) {
-        $('#stat-counter').innerHTML = '<span>' + count.toLocaleString() + '</span> APKs downloaded';
-      }
-    }
+    function updateCounter(count) {}
 
     function refreshCounter() {
       fetch('/api/stats').then(r => r.json()).then(d => {
