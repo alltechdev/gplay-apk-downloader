@@ -30256,5 +30256,23 @@
     "package": "com.womboai.wombodream",
     "description": "Long Description:\n  AI Art Generator - Turn text into AI generated paintings, beautiful AI drawings & stunning AI pictures! All you need to do is enter a prompt, pick an art style - and watch WOMBO Dream bring your idea to life in seconds. Want to create your own AI artwork? WOMBO Dream - AI Art Generator is your creative studio. Turn text into any AI image or AI photo you want.\n\n  It's like magic: simply type in whatever you want Dream to paint - such as \"Cosmic Dragon\" or \"Neon City\" - pick a style (Realistic, Anime, Fantasy, Cartoon, Avatar etc.) and hit create!\n\n   You don't need any drawing skills or art supplies to make beautiful AI paintings and AI drawings. Just bring your imagination and let WOMBO Dream - AI Art Generator unleash your creativity. \n\n  WOMBO Dream can create AI art ",
     "icon": "/icons/com.womboai.wombodream.webp"
+  },
+  "com.girlfirend.soulyou": {
+    "title": "SoulGF: Virtual Soulmate",
+    "package": "com.girlfirend.soulyou",
+    "description": "SoulGF: Virtual Soulmate is your private space for conversations with emotionally rich, immersive AI. Whether you're looking for deep communication, light chat, or just want to listen, this app brings you closer to a digital companion who understands you.\n\nMeet your soulmate - Choose from carefully designed AI characters, each with a unique personality and storyline.\nIntelligent Personalized Chat - Memory-based AI engine, each conversation will evolve as your connection with the character deepens.\nUnlock IMG - Win and collect character moments, cards, and background story fragments during interaction.\nMulti-character Chat - Many characters are waiting for your choice, choose different soul characters to start chatting, and start a journey of connection, growth, and unforgettable virtual co",
+    "icon": "/icons/com.girlfirend.soulyou.png"
+  },
+  "ai.nextday.mobile.android.pixelchat": {
+    "title": "PixelChat - AI Character Chat",
+    "package": "ai.nextday.mobile.android.pixelchat",
+    "description": "Welcome to PixelChat, the platform where your imagination meets advanced AI technology, bringing conversations to life. Whether you're role-playing or storytelling, PixelChat provides an immersive platform to create personalized AI bots and engage in dynamic, text-based dialogues.\n\nBot Creation Tool: Design Unique AI Characters\nPixelChat\u2019s Bot Creation Tool lets you create your own AI characters with customizable personalities, dialogue styles, and backstories. Whether your bot is serious, quirky, or completely fictional, the tool gives you control over how they behave in conversations. This flexibility allows for endless creativity, making each bot personal and unique.\n\nDynamic AI Conversations: Engaging and Evolving\nThe Dynamic AI Conversations feature adapts the bots to your interaction",
+    "icon": "/icons/ai.nextday.mobile.android.pixelchat.png"
+  },
+  "vn.tripical.ai": {
+    "title": "AI Hub: 50+ models LLM in 1min",
+    "package": "vn.tripical.ai",
+    "description": "\ud83c\udfaf Why choose AI Hub AI app?\nJust 1 app installed \ud83d\udcf2, you can access multiple AI models from a variety of well-known providers and sources.\n\nSave budget, save your phone storage, save time !\n\n\ud83d\udcac\u3010 AI CHAT \u3011\nThe models can answer anything, browse Internet, access web-page, export web-page screenshot or even create photo.\n\nKey AI models in the AI Hub AI app (always expanding) \ud83d\ude80:\n\t\u2022\tMuffin Flash & Schedule Task by AI Hub\n\t\u2022\tMeta Llama 4 newest & Llama 3.3\n\t\u2022\tGrok-4.1 (Fast) by x.Ai\n\t\u2022\tGoogle Gemini Pro 3.1, & Gemma 3\n\t\u2022\tOpenAI chatGPT 5.2, 4.1, o4-mini and opensource OSS\n\t\u2022\tClaude 4.6 Sonnet & Haiku by Anthropic\n\t\u2022\tQwen (Alibaba) with multi variant: QwQ reasoning, QvQ, Qwen Max...\n\t\u2022\tStable Diffusion, Seedream, Imagen 4, Leonardo.AI\n\t\u2022\tFlux.1 AI, Photon AI\n\t\u2022\tMistral AI multi variants\n\t\u2022\tDeepSeek",
+    "icon": "/icons/vn.tripical.ai.png"
   }
 }
