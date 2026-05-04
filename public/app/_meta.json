@@ -32318,5 +32318,605 @@
     "package": "com.ss.squarehome2",
     "description": "* This app uses the Device Administrator permission.\nIf Android version is lower than 9.0, you should allow the permission to make the \"screen lock\" launcher action work.\n\n* This app uses Accessibility service API for the following Launcher actions only if necessary:\n - Expand notifications\n - Expand quick settings\n - Open recent apps\n - Screen lock\n - Power dialog\n\n\nSquare Home is the ultimate launcher featuring the iconic Metro UI of Windows 10. Designed for phones, tablets, TV boxes, and especially foldable devices, it offers a user experience that is simple, beautiful, and incredibly powerful.\n\nKey Features:\n\u2022 Foldable Screen Support: Perfectly adapts to foldable displays, offering a seamless experience on devices like the Galaxy Z Fold series.\n\u2022 Vertical & Horizontal Scrolling: Effort",
     "icon": "/icons/com.ss.squarehome2.png"
+  },
+  "com.catchmobile.lume.android": {
+    "title": "Lume - AI Photo Generator",
+    "package": "com.catchmobile.lume.android",
+    "description": "Lume \u2013 AI Photo Generator \nMake Trendy AI Headshots\n\nSay goodbye to boring selfies and ordinary photos! With Lume, you can instantly create viral, trend-driven AI photos in just a few taps. From cinematic looks to aesthetic transformations you see all over social media, Powered by AI, Lume brings today\u2019s top influencer and creator styles to you\u2014effortlessly.\n\nCreate viral AI photos in seconds\nYour photo can be the next trend. Lume helps you generate AI-enhanced images inspired by the most popular looks on social media. Polished, eye-catching, and made to stand out!\n\nInfluencer-style looks, no effort\nTurn a simple selfie into a scroll-stopping photo with lighting, poses, and aesthetics commonly seen in viral content. No studio setup, no editing skills\u2014just upload and transform.\n\nTrendy port",
+    "icon": "/icons/com.catchmobile.lume.android.jpg"
+  },
+  "com.ludia.jurassicworld": {
+    "title": "Jurassic World\u2122: The Game",
+    "package": "com.ludia.jurassicworld",
+    "description": "Return to Isla Nublar with the creators of the smash hit Jurassic Park\u2122 Builder for your next adventure: Jurassic World\u2122: The Game, the official mobile game based on this summer\u2019s epic action-adventure. Bring to life more than 300 colossal dinosaurs from the new film and challenge your opponents in earth-shaking battles. Construct the theme park of tomorrow in this unrivaled build-and-battle dinosaur experience.\n\nIn order to build a winning Battle Arena team, you\u2019ll need to design the most efficient and effective park, one that will allow your dinosaurs to thrive and evolve. Discover new and amazing species of dinosaurs by acquiring surprise-filled card packs. Join Owen, Claire and your favorite characters from the film as, daily, you feed and genetically enhance your dinosaurs. Now that t",
+    "icon": "/icons/com.ludia.jurassicworld.png"
+  },
+  "com.polygon.arena": {
+    "title": "Polygun Arena: Online Shooter",
+    "package": "com.polygon.arena",
+    "description": "Are you ready for the ultimate 3D multiplayer shooter FPS experience? Join 30M+ players worldwide in Polygun Arena: free online 3D shooter where every match feels like a block buster battle royale! Download now for free and jump into the action of shooting games! \n \ud83d\udca5 FREE 3D PvP SHOOTER ON MOBILE \ud83d\udca5 \n Polygun Arena is a fast-paced 3D multiplayer FPS clash that combines shooting games mechanics with 3D stylized pixel and block graphics. This is not just another shooter game, it is a valorant display of skill and strategy. Grab your guns or snipers and overwatch the battlefield in this online PvP shooting game!\n Whether you are a tactical sniper or a solo hero shooter charging the front lines, every 3D gun game firefight is intense. Dive into thrilling PvP battles, frag enemies, and prove you",
+    "icon": "/icons/com.polygon.arena.webp"
+  },
+  "com.ludia.jw2": {
+    "title": "Jurassic World Alive",
+    "package": "com.ludia.jw2",
+    "description": "Bring dinosaurs to life in Jurassic World Alive!\n\nDinosaurs have returned to rule the Earth, and they\u2019re roaming free in your world. Explore your surrounding area to find your favorite Jurassic World dinosaurs, including new breeds that are more awe-inspiring and terrifying than ever before!\n \nDiscover your world and collect epic dinosaur DNA to level up and create hybrids in the lab. Craft the perfect strike team and take them into battle in real-time player-vs-player matches. Challenge your friends to win exclusive rewards!\n\nEXPLORE your world with location-based technology and discover dinosaurs on a map. Discover surprises around every corner \u2013 you\u2019ll never know who you\u2019ll run into!\n\nCOLLECT rare and stunning dinosaurs and maintain a full roster of thriving prehistoric animals.\n\nCREATE",
+    "icon": "/icons/com.ludia.jw2.png"
+  },
+  "ocean.nomad.survival.simulator": {
+    "title": "Raft\u00ae Survival - Ocean Nomad",
+    "package": "ocean.nomad.survival.simulator",
+    "description": "Welcome to the raft, survivor! Ready to test your survival skills in the vast expanses of the ocean?\n\nRaft Survival: Ocean Nomad \u2013 is an adventure survival game on a raft in the ocean. Fight enemies in the ocean, craft all kinds of items and weapons, explore new territories and uninhabited islands.\nMany adventures are waiting for you: survival on the island, exploration of the ocean by boat, fishing and much more. You will have to try hard to survive in the post-apocalypse: hunting for sharks and extracting resources from the ocean, building and improving the Raft and creating armor to protect against the dangers of the ocean.\n\nFeatures of our game:\n\n\u2606 Hundreds of weapons and items;\n\u2606 Open world exploration;\n\u2606 Realistic 3D HD - graphics;\n\u2606 Survival on islands;\n\u2606 Improved raft building.\n\nTi",
+    "icon": "/icons/ocean.nomad.survival.simulator.png"
+  },
+  "com.getliner.liner": {
+    "title": "Liner: AI search assistant",
+    "package": "com.getliner.liner",
+    "description": "Meet Liner AI, the accurate AI search you can rely on for anything. From daily questions to easy summaries and problem solving, you can rely on the most accurate information. With the latest AI models including GPT-5, Gemini, and Claude, you get every answer backed by reputable sources. Whatever you need, Liner gets you the best answer, rooted in facts.\n\nJoin over 13 million users incorporating Liner AI into their daily routines. With a quick question, you can prompt Liner AI to give you an answer you can trust. \n\nLiner received a score of 95.3% on OpenAI's SimpleQA benchmark, meaning a higher likelihood of producing valid answers. Ranked among the top global gen AI consumer apps by a16z, you can count on Liner for any task at hand.\n\n[SMART ASSISTANT]\nStart with a simple question. Liner AI",
+    "icon": "/icons/com.getliner.liner.png"
+  },
+  "com.circular.pixels": {
+    "title": "Pixelcut AI Photo Editor",
+    "package": "com.circular.pixels",
+    "description": "70+ million creators trust Pixelcut by Pixa \u2014 the AI photo and video editor for background removal, magic erasing, image upscaling, image and video generation, and more. Every tool you need to make your photos and videos stand out, all in seconds.\n\n\u2705 BACKGROUND REMOVER \u2014 Instantly remove the background from any photo in your camera roll. Erase the background with a perfect cutout.\n\n\u2705 MAGIC ERASER \u2014 Remove unwanted objects and cleanup pictures.\n\n\u2705 AI PHOTOSHOOT \u2014 Generate infinite product photos using AI Photo Shoot. Creating beautiful product photography for your e-commerce store has never been easier.\n\n\u2705 MAGIC WRITER \u2014 You now have an AI Copywriter at your fingertips powered by the same technology as ChatGPT! Generate product descriptions, Instagram hashtags and captions, and much more us",
+    "icon": "/icons/com.circular.pixels.png"
+  },
+  "com.wangxutech.picwish": {
+    "title": "PicWish: AI Photo Editor",
+    "package": "com.wangxutech.picwish",
+    "description": "Try the easiest AI photo editor app! Remove background and unblur photo to make your products stand out! Here is your 100% automatic background eraser, photo enhancer,photo colorizer, photo retouch, and AI background generator app. No skills required. Super easy-to-use. \n\nDiscover the fresh, eye-catching templates perfect for social media, online sales or just having fun. Want something truly unique? With Christmas around the corner, use our AI background generator to create the stunning holiday or themed backgrounds. Make your visuals shine!\n\nSee our featured AI photo editing tools:\n#1: Photo Enhancer & Photo Colorizer\n-Unblur photo, and bring clarity to the whole picture.\n-Restore old photos, and colorize your black-and-white photos.\n-Enhance photo colors by adding filters for better vis",
+    "icon": "/icons/com.wangxutech.picwish.webp"
+  },
+  "photo.editor.photoeditor.filtersforpictures": {
+    "title": "AI Photo Editor - Lumii",
+    "package": "photo.editor.photoeditor.filtersforpictures",
+    "description": "Lumii is a powerful AI Photo Editor that combines professional tools with smart AI editing features.\nEasily enhance photo quality, remove backgrounds, retouch selfies, and apply 100+ trendy photo filters and effects to edit photos.\n\nCreate artistic, high-quality photos effortlessly \u2014 no professional skills required. As one of the best photo maker and presets photography apps, Lumii makes photo editing simple, fast, and fun. No ads while editing.\n\nWhat you can do with Lumii (FREE and All-in-one Photo Editor Pro):\n\n\ud83d\udc53 Customize Photo Filters \n\u2726 Exquisitely designed filters for pictures, presets for Instagram, make your photos stand out.\n\u2726 Add custom exclusive photo filters and effects, such as Film, LOMO, Retro, etc.\n\n\u2728 100+ Photo Effects\n\u2726 Exquisitely designed effects for picture, make your ",
+    "icon": "/icons/photo.editor.photoeditor.filtersforpictures.png"
+  },
+  "com.cyberlink.photodirector": {
+    "title": "PhotoDirector: AI Photo Editor",
+    "package": "com.cyberlink.photodirector",
+    "description": "PhotoDirector is an intuitive AI-powered photo editor that allows users to create and enhance stunning images with hundreds of styles, effects, templates, and tools.\n\nWith AI Art, Image to Video, and AI Creative Studio, turning your photo into cartoonized artwork, aesthetic styles, or personalized creations is effortless and fast. \u2764\ufe0f\n\n\n\ud83d\udc7b Enhance Your Photos with AI to Show Your Creativity \ud83d\udc7b\n\u2022 Image to Video: Bring your portraits to life! Turn your photo into a wavy dance, or transform it into a warm hug for your loved one.\n\u2022 AI Art: Turn images into well-known characters, Japanese animation, sketch, or cartoon styles.\n\u2022 AI Face Swap: Mix up your style and become anyone you want.\n\u2022 AI Hairstyle: Explore your perfect style and enjoy endless hair inspiration in a virtual salon.\n\u2022 AI Try-On: D",
+    "icon": "/icons/com.cyberlink.photodirector.png"
+  },
+  "com.pixlr.express": {
+    "title": "Pixlr AI Photo & Video Editor",
+    "package": "com.pixlr.express",
+    "description": "Unleash your creativity with Pixlr AI Art Photo Editor (formerly Pixlr Express) \u2013 your go-to free photo editor powered by advanced AI technology. Join over 18 million creators worldwide who trust Pixlr to transform their images with ease and precision. Whether you're a beginner or a seasoned photographer, Pixlr provides an intuitive platform to create stunning visuals with just a few clicks.\n\nCapture any moment and let your creativity shine with over 2 million combinations of FREE effects, overlays, and filters. Seamlessly share your photos with friends or followers through email, Instagram, Facebook, TikTok, or any other social network.\n\nNew AI-Powered Features\n\n    AI Generative Fill \u2013 Highlight any area in your photo and watch as Pixlr's AI-powered generator seamlessly fills it with obj",
+    "icon": "/icons/com.pixlr.express.png"
+  },
+  "com.you.browser": {
+    "title": "You.com - Enterprise grade AI",
+    "package": "com.you.browser",
+    "description": "Unlock the power of AI with you.com, the ultimate productivity engine for work. Designed to streamline workflows and improve decision making, you.com combines cutting-edge AI with enterprise-grade security.\n\nWhy use you.com?\n\n- Get accurate answers to complex business questions. Combine web research with your company's data using the latest AI models. Our world-class platform performs computations, builds models, and reads hundreds of articles at blazing speeds\u2014transforming raw data into actionable insights.\n- ARI (Advanced Research & Insights) \u2013 the world's most intelligent deep research agent. In 76% of head-to-head tests, ARI delivers deeper insights and outperforms OpenAI's Deep Research. ARI can process 500+ sources and deliver polished, professional-grade reports in just a few minute",
+    "icon": "/icons/com.you.browser.png"
+  },
+  "com.graderun": {
+    "title": "GradeRun: AI Exam Simulator",
+    "package": "com.graderun",
+    "description": "Transform the way you study and prepare for exams with GradeRun \u2014 the ultimate AI-powered learning companion designed for students at every level.\n\nWhether you\u2019re in high school, university, or preparing for professional exams, GradeRun helps you learn smarter, faster, and more effectively.\n\n\ud83d\udcda Key Features:\n\n\u2705 AI-Powered Exam Simulation \u2014 Upload your course materials and instantly generate realistic practice exams to test your knowledge.\n\u2705 Smart Study Notes \u2014 Automatically turn your notes and documents into structured study guides.\n\u2705 Review Past Exams \u2014 Revisit previous tests, understand mistakes, and improve your performance.\n\u2705 Virtual Exam Halls \u2014 Host or join live mock sessions with classmates for collaborative learning.\n\u2705 Progress Tracking & Analytics \u2014 Get detailed insights into your ",
+    "icon": "/icons/com.graderun.png"
+  },
+  "photo.editor.photoeditor.photoeditorpro": {
+    "title": "AI Photo Editor - Polish",
+    "package": "photo.editor.photoeditor.photoeditorpro",
+    "description": "\u2728 Elevate Your Photos with Professional AI Magic! \ud83c\udf89\n\nTransform your shots instantly with the most powerful AI-driven photo editor on the market. Powered by our cutting-edge Titan-Pro vision architecture and the lightning-fast NanoBanana engine, Polish makes professional-grade editing accessible to everyone. Whether you need a high-end LinkedIn headshot, a viral TikTok aesthetic, or to rescue a cherished but blurry memory, our AI does the heavy lifting for you\u2014no design skills required.\n\nJoin millions of creators who use Polish to refine their personal brand and capture life\u2019s best moments in stunning HD.\n\n\ud83d\udca1 Next-Gen AI Tools at Your Fingertips\n\u2022 Neural-HD Enhancer: Breathe new life into old, pixelated, or blurry photos. One tap to crystal-clear HD quality.\n\u2022 Pro AI Headshots: Skip the expe",
+    "icon": "/icons/photo.editor.photoeditor.photoeditorpro.png"
+  },
+  "com.magicv.airbrush": {
+    "title": "Airbrush: Face & Photo Editor",
+    "package": "com.magicv.airbrush",
+    "description": "\ud83d\udcf8 Master Your Selfie Game with Airbrush \u2013 The Ultimate Photo and Video Editor! With our easy-to-use features, you can master your face, hair, body and backgrounds with AI-powered tools designed to enhance your natural beauty while maintaining your authentic charm.\n\n\u2728 EXCELLENCE IN EVERY SHOT \n\u2714 AI Retouch \u2013 Upgrade your portraits with AI precision automatically, refining every detail to perfection.\n\u2714 Teeth Whitening \u2013 Brighten your smile instantly.\n\u2714 Blemish Removal \u2013 Instantly erases acne & imperfections for flawless skin.\n\u2714 Smooth \u2013 Soften wrinkles and even out skin tones for a youthful glow.\n\u2714 Highlighter \u2013 Accentuate your best features with added texture & glow.\n\u2714 Reshape \u2013 Fine-tune your face & body proportions effortlessly.\n\u2714 Contouring \u2013 Enhance your facial contours to always look y",
+    "icon": "/icons/com.magicv.airbrush.png"
+  },
+  "com.background.remover.noads": {
+    "title": "AI Background Remover",
+    "package": "com.background.remover.noads",
+    "description": "Background Remover is built to be simple and free to use: no ads, no watermark, and no account required. Create transparent PNG cutouts directly on your device with a fast, clean workflow.\n\nYou can process a single image or use batch processing to work through multiple photos in one session. Each completed result is saved automatically to your gallery for a smooth and efficient workflow.\n\nProcessed images appear in a large preview feed, making it easy to review results, keep the images you want, and delete any unwanted cutouts before moving on.\n\nThe app works directly on your device, providing a simple way to create transparent images for product photos, profile pictures, social posts, thumbnails, and more.\n\nUse it for:\n\n* Product photos\n* Ecommerce images\n* Profile pictures\n* Social media",
+    "icon": "/icons/com.background.remover.noads.png"
+  },
+  "com.wildpluto.efbase": {
+    "title": "eFootBase: DB & Community",
+    "package": "com.wildpluto.efbase",
+    "description": "Your ultimate fan-made mobile companion for eFB\n\neFootBase is the best way to find the perfect player and a build for him and discuss them with the community.\n\nPLAYER DATABASE \u2013 Browse all eFB players with in-depth stats, attributes, and updates.\nADVANCED SEARCH \u2013 Find and compare players by ratings, attributes, skills, and more.\nLIVE EVENTS & UPDATES \u2013 Never miss new promos, challenges, and in-game events with our push notifications.\n\nWe\u2019re building eFootBase as the go-to platform for every eFB player, whether you\u2019re a casual gamer or a hardcore competitor.\n\nStay Connected\nFollow us on X (@eFootBase) and Instagram (@eFootBase) for updates.\nJoin our Discord (https://discord.gg/hWZ3bc2XpJ) to chat directly with our team and the community.\n\nPrivacy Policy: https://wildpluto.com/privacy-polic",
+    "icon": "/icons/com.wildpluto.efbase.png"
+  },
+  "com.playmister": {
+    "title": "Bemanager: Fantasy Football",
+    "package": "com.playmister",
+    "description": "BeManager is a free online Football Manager where you compete with friends or other users from all over the world for the league title. Sign the best official soccer players (De Bruyne, Salah, Harry Kane...), prepare your football team... and play! Based on the performance of your players in real matches, you will get points. Enter the world of Fantasy and e-sports and compete day by day to become the EPL champion. If you are a fan of football managers and sports, this game is for you! We have the best tournaments:\n\n\ud83c\uddec\ud83c\udde7 England Fantasy (English Premier League - EPL)\n\ud83c\uddea\ud83c\uddf8 Spain Fantasy (LaLiga)\n\ud83c\uddee\ud83c\uddf9 Italy Fantasy (Serie A)\n\ud83c\uddeb\ud83c\uddf7 France Fantasy (Ligue 1 UBER eats)\n\ud83c\uddea\ud83c\uddfa Champions Fantasy (Champions League)\n\ud83c\uddea\ud83c\uddfa Europe Fantasy ( Europe League)\n\n\u2705 CREATE AND MANAGE YOUR TEAM WITH OFFICIAL PLAYERS \nPlay as ",
+    "icon": "/icons/com.playmister.png"
+  },
+  "com.nova.peshub22": {
+    "title": "eFHUB\u2122 26",
+    "package": "com.nova.peshub22",
+    "description": "This app is not a game.\n \nThis application features...\n \nPLAYER DATABASE\nFeaturing a complete player database with features such as\u2026\n\u2022\tThe ability to search for players using their stats at max level, not just level 1.\n\u2022\tCalculates the dribbling skills that each player can perform and shows controller animations on how to perform them.\n\u2022\tCalculates exactly how player condition affects player stats and overall rating.\n\u2022\tPlayer cards show the top 6 key stats of each player so you can quickly see each player\u2019s strong points.\n\u2022\tKeeps track of player condition throughout the season to help you make better decisions on who to level-up.\n\nMANAGER DATABASE\nFeaturing a manager database with features such as\u2026\n\u2022\tEasily see managers that have changed formation and tactics every week.\n\u2022\tSearch for manag",
+    "icon": "/icons/com.nova.peshub22.png"
+  },
+  "com.grofers.customerapp": {
+    "title": "Blinkit: Groceries & more",
+    "package": "com.grofers.customerapp",
+    "description": "Blinkit is India\u2019s last minute app. Trusted by millions, it is your everyday online grocery shopping app that home-delivers 30,000+ products & groceries. Buy milk products, fresh fruits & vegetables, daily grocery, kitchen, home & office items by shopping for them online on Blinkit. Enjoy easy and smooth app experience with doorstep delivery.\n\n \u2705 Fresh fruits & vegetables\n \u2705 Milk, curd, bread, butter, eggs, cheese, paneer\n \u2705 Snacks, biscuits, chips, ice cream, chocolates\n \u2705 Cold drinks, ice, bottle opener\n \u2705 Atta, rice, dal, oil, masalas, noodles\n \u2705 Personal care, detergent, cleaning supplies\n \u2705 Diapers & baby care\n \u2705 Pet food\n \u2705 Bulbs, batteries, mobile chargers\n \u2705 Emergency medicines, thermometer\n \u2705 Kitchen tools like chopper, blender, grinder\n \u2705 Puja needs\n \u2705 Stationery\n \u2705 Smart watches",
+    "icon": "/icons/com.grofers.customerapp.png"
+  },
+  "com.blinkit.bistro": {
+    "title": "Bistro: Food in minutes",
+    "package": "com.blinkit.bistro",
+    "description": "Craving something delicious but short on time? Bistro is your ultimate food delivery companion, bringing a world of flavors to your doorstep in minutes! Whether it's a quick snack, a hearty meal, or a refreshing beverage, we've got you covered with an extensive menu to suit every craving and occasion.\n\nNow live in selected areas of Gurugram, Bengaluru, Noida and New Delhi! Expanding rapidly to more neighbourhoods and cities. Stay tuned for updates as we grow to serve you better!\n\nWhy choose Bistro?\n- Diverse Menu Selection: From crispy snacks to filling meals, desserts to hot and cold beverages, Bistro offers something for everyone.\n- Lightning-Fast Delivery: Delivered to your doorstep in minutes\u2014perfect for your busy lifestyle.\n- Unparalleled Convenience: Whether it's breakfast, lunch, di",
+    "icon": "/icons/com.blinkit.bistro.png"
+  },
+  "com.zeptoconsumerapp": {
+    "title": "Zepto: Groceries in minutes",
+    "package": "com.zeptoconsumerapp",
+    "description": "India's #1 Quick Commerce App \u2013 Everything delivered in minutes\n\nZepto delivers 2,00,000+ products to your doorstep in just minutes\u2014from fresh groceries to hot meals, electronics to fashion.\n\nWhy Zepto Beats Everyone Else\n\ud83d\udcb0 Everyday Lowest Prices\nSame products, better prices. No markup games. Get groceries, atta, dal, milk, bread & daily essentials cheaper than anywhere else.\n\n\ud83d\udeab Zero Fees\nWhat you see is what you pay. No delivery fees (orders \u20b999+), no handling fees, no surge fees, no rain charges. Ever.\n\n\u26a1 Quick Delivery within minutes, Every Time\nOrder now, get it now. Live track your order from our dark store to your door. No waiting. No delays.\n\nEverything You Need, Instantly\n\n\ud83c\udf4eFresh Fruits & Vegetables: Hand-picked apples, bananas, tomatoes, leafy greens, exotic fruits\n\ud83e\udd5bDairy & Breads",
+    "icon": "/icons/com.zeptoconsumerapp.png"
+  },
+  "com.bigbasket.mobileapp": {
+    "title": "bigbasket: Groceries and more",
+    "package": "com.bigbasket.mobileapp",
+    "description": "bigbasket: A TATA Enterprise\n\nIntroducing bigbasket now: One stop solution, delivering daily household needs like groceries, detergents, books, toys, appliances, gadgets, medicines, beauty, fashion and more. Choose from 20000+ grocery essentials. Available only in select cities.\n\nbigbasket is India\u2019s leading online grocery shopping app, trusted by 10 million+ happy customers and counting!\n\nInstall the bigbasket app now and get your groceries delivered in 300+ cities and towns across India. \n\nShop from a vast range of 20,000+ products including farm-fresh fruits and vegetables, groceries, fish, chicken, meat, home & household essentials, pet care needs, organic products, beauty and hygiene, imported and gourmet & more at the best prices. Enjoy hassle-free online grocery shopping and home de",
+    "icon": "/icons/com.bigbasket.mobileapp.jpg"
+  },
+  "com.upside.consumer.android": {
+    "title": "Upside: Gas & Food Cash Back",
+    "package": "com.upside.consumer.android",
+    "description": "Unlock Cash Back with the free Upside App!\n\nUpside gets you cash back on daily essentials like gas, groceries, and dining. It's designed to reward you for simply being yourself, allowing you to indulge in more of what you love. With over 100,000 participating gas stations, grocery stores, and restaurants, cash back opportunities are always around the corner. \n\nUpside users can earn an average 8% cash back on groceries and dining\u2014that\u2019s on TOP of your current credit card rewards - even on debit card purchases!\n\nThe best part? There are no confusing rewards, points, or credits. You can transfer your cash back straight to your bank account or as an e-gift card to retailers you love, like Amazon, Walmart, and so many more. \n\nWith Upside, you can earn up to 25\u00a2/gal cash back on gas, up to 45% b",
+    "icon": "/icons/com.upside.consumer.android.jpg"
+  },
+  "com.speedway.mobile": {
+    "title": "Speedway: Rewards & Shopping",
+    "package": "com.speedway.mobile",
+    "description": "Earn Points. Get rewards. The official app of Speedway and Speedy Rewards lets you start earning on the fuel and merchandise you already buy. Members can redeem those points for coupons towards their favorite items or get discounts on gas with our fuel rewards.\n\nMonthly Perks\n\u25cf    Choose your own Monthly Perk \u2013 Either a Merchandise Perk or Fuel Perk\n\u25cf    Make a qualifying purchase and your reward is automatically applied\n\u25cf    Check back each month for new Perks\n\nApp Only Speedy Deals\n\u25cf    Clip app exclusive coupons to get great deals on your favorite products like pizza, beer, wine, coffee, and many more\n\nGas Savings And Fuel Rewards\n\u25cf    Gas Price Search helps navigate to a gas station with cheap gas prices near you\n\u25cf    Select a Fuel Perk each month to accelerate your gas rewards\n\u25cf    Ea",
+    "icon": "/icons/com.speedway.mobile.png"
+  },
+  "com.excentus.frn.android": {
+    "title": "Fuel Rewards\u00ae program",
+    "package": "com.excentus.frn.android",
+    "description": "For a limited time, all Fuel Rewards members receive instant Gold Status.\n \nThe Fuel Rewards\u00ae program (aka Fuel Rewards Network or FRN), is a free loyalty program that helps you save money on fuel at over 11,000 Shell stations, nationwide. Fuel Rewards members with Gold Status save at least 5\u00a2gal on every fill-up. You can earn additional Fuel Rewards savings when you shop, dine, book travel and more. Rewards are cumulative, and there is no limit to how much you can save. Rewards apply to any fill-up, up to 20 gallons.\n\nAPP FEATURES\n\u2022 Track rewards balance and tier status\n\u2022 Activate offers\n\u2022 Find ways to earn rewards\n\u2022 Locate nearby Shell stations\n\nWAYS TO EARN REWARDS\n\nAt Shell: With Gold Status, you\u2019ll save at least 5\u00a2/gal on every fill-up at participating Shell stations. Also, you can ea",
+    "icon": "/icons/com.excentus.frn.android.png"
+  },
+  "com.shell.sitibv.motorist.america": {
+    "title": "Shell: Fuel, Charge & More",
+    "package": "com.shell.sitibv.motorist.america",
+    "description": "The Shell App is designed to help you make the most of your stop!\n\nShell\u00ae Fuel Rewards\u00ae Program\n\u2022Join the Shell\u00ae Fuel Rewards\u00ae Program to save at the pump. See full Terms & Conditions for details.\n\u2022Earn additional fuel savings by using mobile payment in the Shell App.\n\u2022The more you fill, the more you save. Platinum Status members save 10c/gallon.\n\u2022View Fuel & In-store offers as well as all loyalty transaction history\n\u2022New Shell Fuel Reward Members save 10c/gal on their 1st fill, 20c/gal on their 2nd fill, and 30c/gal on their 3rd fill\n\nFast, secure mobile payment\n\u2022Easy, convenient payment from your phone\u2014no need to swipe a credit card or enter your Fuel Rewards Alt ID.\n\u2022Use mobile payment with your Shell branded credit card, Mobile Checking, Google Pay, Samsung Pay or directly add your cre",
+    "icon": "/icons/com.shell.sitibv.motorist.america.png"
+  },
+  "com.murphy.driverewards": {
+    "title": "Murphy Drive Rewards",
+    "package": "com.murphy.driverewards",
+    "description": "Murphy USA brings you the best app for savings on the road with deals on gas, snacks, drinks and more. Rev Up, America! Here\u2019s what you can expect from your Murphy Drive Rewards app:\n\n\u2022\tRack up Drive Rewards points with games & Murphy purchases\n\u2022\tCash in your points for Rewards \u2013 like FREE snacks or up to $1 off per gallon at the pump!\n\u2022\tSave big with Drive Deals on snacks, drinks & more\n\u2022\tFind nearby Murphy stores & compare gas prices\n\u2022\tChoose your exclusive welcome reward today!\n\nHop in! We\u2019ll show you around. Download Murphy Drive Rewards and get rewarded.",
+    "icon": "/icons/com.murphy.driverewards.webp"
+  },
+  "com.shinhan.sbanking": {
+    "title": "\uc2e0\ud55c SOL\ubc45\ud06c-\uc2e0\ud55c\uc740\ud589 \uc2a4\ub9c8\ud2b8\ud3f0 \ubc45\ud0b9",
+    "package": "com.shinhan.sbanking",
+    "description": "\u25b6Easy membership registration\n   All you have to do is verify your mobile phone identity or verify your SNS without any cumbersome authentication procedures and you\u2019re done!\n\n\u25b6'New transfer' centered on the \"recipient\"\n- You can easily bookmark your favorites with a single touch and pre-set your own nickname or frequently used transfer amount.\n- Manage regularly recurring transfers, such as meeting membership fees or management fees, using [Group].\n\n \u25b6 All you need is Shinhan SOL Bank\nShinhan Bank customers and other bank customers can enjoy new products, financial transactions, and asset management all at once with Shinhan SOL Bank!\n\n \u25b6A world where everything is money, \u201cMoneyverse\u201d\nManage your assets from financial assets such as banks, cards, stocks, and various payments to real assets ",
+    "icon": "/icons/com.shinhan.sbanking.png"
+  },
+  "com.shcard.smartpay": {
+    "title": "\uc2e0\ud55c SOL\ud398\uc774 - \uc2e0\ud55c\uce74\ub4dc \ub300\ud45c\ud50c\ub7ab\ud3fc",
+    "package": "com.shcard.smartpay",
+    "description": "From Finance to Daily Life - Meet the Biggest S\n\nFrom payments to asset management and recommendations for various financial products\n\n'Shinhan SOL Pay,' reborn as a comprehensive lifestyle financial platform\n\nWhat is Shinhan SOL Pay?\n\n- Based on the 'Pay' concept, it is Shinhan Card's comprehensive lifestyle financial platform where you can enjoy not only convenient financial services\u2014including payments, open banking, certificates, and memberships\u2014but also non-financial content such as personalized content, shopping, and discount coupons, as well as smart asset management and various benefits from Shinhan Financial Group through Shinhan Super SOL, all in one place.\n\n\u25a0 It's okay if you don't have a Shinhan Card! Signing up is surprisingly simple!\n\n\u2022 You can use it even without a Shinhan Ca",
+    "icon": "/icons/com.shcard.smartpay.png"
+  },
+  "com.shinhan.sbizbank": {
+    "title": "\uc2e0\ud55c SOL Biz - \uc2e0\ud55c\uc740\ud589 \uae30\uc5c5\uc2a4\ub9c8\ud2b8\ud3f0\ubc45\ud0b9",
+    "package": "com.shinhan.sbizbank",
+    "description": "A must-have financial app for business customers!\nShinhan Bank launches \u2018New Solbiz\u2019\n- Faster speed, enhanced mobile banking performance, expanded application of various business services\n- Establishment of \u201cRepresentative Mode\u201d for the first time in the financial sector to provide fund flow monitoring and security services\n\u25a3 Features of New Sol Biz\nThe speed has been improved to be up to 3 times faster than the existing app Solbiz, and services have been significantly strengthened, including \u25b2 application of an easy-to-use UX for customers \u25b2 easy and fast membership registration \u25b2 customized home screen for each business operator \u25b2 Representative Mode, a service specialized for representatives.\nIn addition, we also provide a variety of business-specific services such as quick transfer, in",
+    "icon": "/icons/com.shinhan.sbizbank.png"
+  },
+  "com.shinhan.global.in.bank": {
+    "title": "Shinhan Bank India SOL",
+    "package": "com.shinhan.global.in.bank",
+    "description": "\u25b6 The beginning of new communication method\nWelcome to Shinhan Bank India SOL(Shinhan SOLIN) - new version of Shinhan Bank India\nLet\u2019s experience new SOL application \n(Call center: 044 61320407)\n\n* Innovative UI / UX\n\n* More convenient login methods such as fingerprints, patterns, face id, etc.\n\n* User friendly money transfer channels.\n\n* Transfer from Home screen.\n\n* Add favorite accounts to the home screen. \n\n* Shinhan internal transfer and domestic transfer channels.\n\n* Instant transfer: Instant money transfer using IMPS.\n\n* Quick Inquire transaction history\n\n* New account opening for Fixed and recurring deposit accounts.\n\n* Bill payment option to make payment to more than 140 billing merchants.\n\n* Transfer and bill payment service available 24/7.\n\n\n*Note:\nShinhan Bank does not require ",
+    "icon": "/icons/com.shinhan.global.in.bank.png"
+  },
+  "com.shinhan.smartcaremgr": {
+    "title": "\uc2e0\ud55c \uc288\ud37cSOL - \uc2e0\ud55c \uc720\ub2c8\ubc84\uc124 \uae08\uc735 \uc571",
+    "package": "com.shinhan.smartcaremgr",
+    "description": "Shinhan Group companies will come together to create the ideal financial service. \u25b6 Super Coverage\n\nFrom transfers/payments/stocks/insurance/loans,\nyou can access the core functions of five companies\u2014Shinhan Bank, credit cards, securities, insurance, and savings banks\u2014all in one app.\n\n[Transfers] Shinhan SOL Bank-level account management,\nand the same transfer limit for convenience.\n[Payments] All Shinhan credit/check card users can make online and offline payments.\n[Stocks] Trade more easily with the newly implemented Simple Investment UX.\n[Insurance] Everything from digital insurance subscriptions/inquiries to claims is available.\n[Loans] A variety of loan products from five affiliates,\nincluding one-click integrated loans that provide the optimal solution in one place.\n\n\u25b6 Super Combinat",
+    "icon": "/icons/com.shinhan.smartcaremgr.png"
+  },
+  "com.cerdillac.persetforlightroom": {
+    "title": "Presets & Filters - Koloro",
+    "package": "com.cerdillac.persetforlightroom",
+    "description": "Presets Koloro is the photo editor with perfect color filters.\n \nKoloro, your all-in-one pic editor editing apps.\n \u203b1000+ Presets and Overlays to enhance your photos & videos.\n\u203bOne-click share or import recipe with QR Code in Instagram.\n \u203b20+ premiere editing tools, HSL, split tone and more.\n\u203bSky changer & sky editor.\n\u203bEasy Batch edit for photo & video. Copy & paste your edit!\n\u203bRecommended by Bloggers on Instagram and Tiktok.\n \n\u3010Presets for adobe editing apps for pictures\u3011\n- 1000+ premium filters and presets art lab.\n- Post your preset to Instagram or Pinterest. Multiple canvas can be chosen. You can also import recipes from others or share your own recipe with Code.\n- DNG file to share preset box in adobe Mobile with perfect adjustment.\n- Camera tool with presets app made by pro filmmaker",
+    "icon": "/icons/com.cerdillac.persetforlightroom.png"
+  },
+  "com.Bearoff.CSS": {
+    "title": "Case Simulator for Standoff 2",
+    "package": "com.Bearoff.CSS",
+    "description": "Get all Standoff skins on your phone now! Cosmetics from a real game. This is just a simulator of a real game where you can create the inventory of your dreams, get the coveted skins, and most importantly, you can get knives without spending money.\n\n\nDisclaimer: This game is a simulation game, so the skins cannot be displayed in the original game in any way. The Case off Standoff Simulator app is an unofficial fan game and does not apply to the original Standoff 2.",
+    "icon": "/icons/com.Bearoff.CSS.png"
+  },
+  "com.ignates.snapreply": {
+    "title": "RPLY: Messages for Snapchat",
+    "package": "com.ignates.snapreply",
+    "description": "Ask a question in your story.\nYour friends and followers can reply anonymously.\nSee what your friends really think!\n\n\u2022Reply directly in your stories or in your snaps.\n\u2022Customize your questions.\n\u2022Anonyomus Q&A for Snapchat\n\nYour feedback is highly appreciated. Please send it to support@ignates.com\n\nYour safety and privacy is important:\n\u2022Block and report users at any time\n\u2022Positive vibes only!\n\nThis app enables you to send snapchat anonymous messages and anonymous questions. Connect with your friends and see what they really think.",
+    "icon": "/icons/com.ignates.snapreply.png"
+  },
+  "com.samsung.samsungband": {
+    "title": "Audio Remote",
+    "package": "com.samsung.samsungband",
+    "description": "Samsung Audio Remote is an exclusive, integrated audio device control app that can control the Samsung GIGA system and Soundbar through Bluetooth.\n\nCompatible Models\nSoundbar : Y15 / Y16 / Y17 / Y18 / Y19 models (HW-J / HW-K / HW-M / HW-N / HW-R)  2 / 3 / 4 / 5 / 6 series, HW-J6000(R) and HW-Q6*R Series.\n(Download \"Wireless Audio - Multiroom\" App for soundbar Wi-Fi supporting models)\n\nGIGA : Model code MX-J***, MX-JS**** series\n(excluding micro and non-bluetooth mini models : MX-J640, MM-J430D, MM-J330, MM-J320)\n\nControl Soundbar with one hand!\u00a0- \nYou can connect your mobile with Soundbar to easily use the Soundbar remote control function while watching TV. You can also easily play music from your smartphone through Soundbar.\n\nMaximize your GIGA Party - \n\nSimple music playback and playlist",
+    "icon": "/icons/com.samsung.samsungband.jpg"
+  },
+  "io.pixelbin.app": {
+    "title": "Pixelbin: AI Photo Editor",
+    "package": "io.pixelbin.app",
+    "description": "Join the PixelBin community of over 200 million creators around the world. With the PixelBin photo editing app, you can enhance your creative skills. Whether you are a seasoned photographer, a dedicated graphic designer, or a creator looking to effortlessly edit images, PixelBin offers a powerful suite of tools that refine your images to the best of quality. \n\nTransformative AI Features:\n\nBackground Remover: Our advanced AI-powered Background Remover is a game-changer for anyone looking to isolate subjects perfectly with zero manual work. It's ideal for product photography, portrait shots, and any photo where you want to focus solely on the subject without any distractions.\n\nBackground Generator: With PixelBin's AI Background Generator, create beautiful, context-appropriate backgrounds tha",
+    "icon": "/icons/io.pixelbin.app.jpg"
+  },
+  "swiftspeed.bgremoval.android": {
+    "title": "AI Image Background Remover",
+    "package": "swiftspeed.bgremoval.android",
+    "description": "Swiftspeed AI Background Remover is a free, fast, and precise background remover designed to remove background from images instantly using artificial intelligence.\n\nThis AI background remover automatically detects subjects and removes background with clean, accurate results. Whether you want to remove background, create transparent background PNG images, or use it as a cutout photo editor, the process is simple and reliable.\n\nUnlike many background remover apps, this tool focuses on accuracy and speed. You can remove background from photos in one tap and get a transparent background PNG without manual editing. The AI background remover preserves edges, handles fine details, and produces natural cutouts.\n\nThis background remover works well across different image types. You can remove backgr",
+    "icon": "/icons/swiftspeed.bgremoval.android.png"
+  },
+  "com.photizy.photoeditor": {
+    "title": "AI Photo Enhancer & Remover BG",
+    "package": "com.photizy.photoeditor",
+    "description": "\ud83c\udfaf Transform Blurry Photos into Crystal Clear Images with Photizy - Your Ultimate AI Photo Enhancement App!\n\nAll-in-one photo editing assistant, powered by AI. Easily remove backgrounds, erase unwanted objects, and enhance image quality with just one tap. Photizy helps you create clean, high-quality images in seconds as a photo perfectionist.\n\n\u26a1 INSTANT PHOTO ENHANCER\n\u2022 Fix blurry photos automatically with AI\n\u2022 AI Enhance image quality in one tap\n\u2022 Boost photo clarity and sharpness\n\u2022 Restore old and low-quality pictures\n\u2022 Improve photo resolution intelligently\n\n\ud83c\udfa8 PROFESSIONAL AI PHOTO EDITOR\n\u2022 AI cleaner - Smart object removal\n\u2022 One-click background eraser\n\u2022 Portrait enhancer\n\u2022 Face retouch\n\u2022 Color correction\n\u2022 HDR effects\n\u2022 Photo lab filters\n\u2022 Artistic effects\n\n\u2728 KEY FEATURES\n\u2022 AI Image En",
+    "icon": "/icons/com.photizy.photoeditor.png"
+  },
+  "com.backgrounderaser.pokecut": {
+    "title": "AI Background - Pokecut Studio",
+    "package": "com.backgrounderaser.pokecut",
+    "description": "Erase photo background to create a professional product image in seconds.AI Background makes your photo a professional product shot!\nWith this free photoroom & background remover app, easy to pixelcut out the background of your photo.\nPokecut is your all-in-one AI graphic designer & background eraser app that helps you run your business from your phone. Automatically remove or erase the background of photos, use templates and turn your photos into pro-quality content in seconds.\n \nNo need to be a photographer or designer: with this pocket photoroom, 100+ beautifully designed templates are available to help you easily improve your product images and boost your e-commerce business! The design has never been easier!\n \nHow we improve your product images\n\u3010AI Graphic Designer\u3011\n-Auto background e",
+    "icon": "/icons/com.backgrounderaser.pokecut.png"
+  },
+  "com.truesight.evoto": {
+    "title": "Evoto-AI Photo Editor&Retouch",
+    "package": "com.truesight.evoto",
+    "description": "Evoto: Master Editing, Anytime, Anywhere\n\nThe full-suite AI Photo Editor for on-the-go\n\nPRO-GRADE AI PHOTO EDITOR AT YOUR FINGERTIPS\n\u00b7 Skin Retouching via blemish removal, dodge & burn, and more\n\u00b7 Hair Editing: Stray Hairs Removal, Hair Part Line, Top Hair Volume, Hair Color, all done with one click, no complex operations required\n\u00b7 Facial Reshape and Liquify: Smile generation and fine-tune facial features with pixel-level accuracy, sculpting natural beauty\n\u00b7 Full Body Reshape: Using 3D bone mapping technology, adjust body shape and posture to create natural, beautiful results\n\u00b7 The best choice for Photographers and amateurs who capture Headshots, Wedding, School, Kids & Newborn, Events, Editorial, Fine Art, and more\n\u00b7 With a single slider, you can achieve pixel-level professional results\n",
+    "icon": "/icons/com.truesight.evoto.png"
+  },
+  "com.world.cup.champions.offline.game": {
+    "title": "World Cup T20 Cricket: WCCC",
+    "package": "com.world.cup.champions.offline.game",
+    "description": "Welcome to the Afterward Group in Mobile Cricket World Cup Gaming! Every world cricket lover can now consume the most forward-looking 3D mobile cricket game in the palm of their hands! You can play the extreme number of t20 cricket game bangs counting the famous scoop, the Jumbo jet shot, and the Upper-Cut! This is a world cup cricket game made for the world cricket games fan! In this new cricket game, you can modify your performers and cheerfulness to your t20 cricket game team with personalized posters! In this world cup cricket game, you can also look forward to dazzling simulations, more world cricket places, new joysticks, and new camera viewpoints! \u2018World Cup Cricket Games Champions - Cricket Games Offline \u2019 has features that make it the most dynamic and multipurpose cricket game in ",
+    "icon": "/icons/com.world.cup.champions.offline.game.png"
+  },
+  "snapedit.app.magiccut": {
+    "title": "SnapBG: Remove Background AI",
+    "package": "snapedit.app.magiccut",
+    "description": "SnapBG: Background Eraser - 1 touch to remove anything! No watermark!\n\nThe AI photo editor app captures your attention with its innovative and time-saving features. It offers an efficient solution for removing backgrounds from your images, empowering you to create captivating visuals effortlessly, remove objects.\n\nWith its advanced features and intuitive interface, this photo eraser app offers precise and seamless background removal, allowing you to create stunning visuals with ease. Just touch the area you want to erase and the auto eraser tool will do the rest of the work for you. \n\nThe main features in our background editor app:\n\u2705 Automatic Background Removal:\n- The photo background editor app utilizes powerful algorithms and machine learning technology to automatically detect and remov",
+    "icon": "/icons/snapedit.app.magiccut.png"
+  },
+  "com.bg.logomaker": {
+    "title": "Logo Maker, AI Logo Generator",
+    "package": "com.bg.logomaker",
+    "description": "Looking for a powerful logo maker or smart AI logo generator to create a professional logo in minutes? Logo Maker is an easy-to-use logo creator app that helps you design stunning logo designs without any graphic design experience.\n\nWhether you want to create a logo for your business, startup, gaming brand, or social media page, this AI logo maker generates unique and professional logo designs in just a few taps.\n\nBuild your brand identity fast with the best logo maker app.\n\nCreate Professional Logos with AI Logo Generator\n\nOur advanced AI Logo Generator makes logo design simple:\n\n1. Enter your business or company name\n2. Select your industry\n3. Choose your preferred colors and style\n\nThe AI logo maker instantly generates custom logo ideas tailored to your brand. Edit, customize, and downl",
+    "icon": "/icons/com.bg.logomaker.png"
+  },
+  "org.contentarcade.apps.logomaker": {
+    "title": "Logo Maker : AI Logo Generator",
+    "package": "org.contentarcade.apps.logomaker",
+    "description": "Logo Maker - A one-stop solution to help you design a logo and create your brand identity!\n\nLooking for an easy way to create a logo design for your business? \nIf yes, then there is no need to worry about it, you have the best logo maker app at your disposal! \n\nWhat Does This Logo Creator Offer? \nLogo maker is fully loaded with 10,000+ logo templates, logo elements, and resources that can help you create a logo design free that resonates with your brand and serves as its face value.  \n\nMake Your Own Ai Logo Without Any Experience!\nAi Logo Generator application comes with a user-friendly interface and doesn't require extensive knowledge of editing features. The simplicity of our ai logo creator provides ease to the users in the process of creating a logo design. You can create a professiona",
+    "icon": "/icons/org.contentarcade.apps.logomaker.png"
+  },
+  "com.chatgpt.ai.chat.openai": {
+    "title": "Arvin\u00ae - AI Logo Maker",
+    "package": "com.chatgpt.ai.chat.openai",
+    "description": "Ready to create a professional logo for your brand? Meet Arvin, your AI-powered logo maker that makes designing logos easier.\n\nImagine sitting at your desk, struggling to come up with a logo design idea and create a logo that captures your brand's identity. Those days are now behind you. With Arvin, your logo and icon maker buddy, you can generate quality logos quickly. No logo design experience is required.\n\nHere's why Arvin is an efficient logo maker:\nSuper Easy to Use\nWhether you're a beginner or a design pro, Arvin has your back. Just describe your logo design needs, and Arvin will turn it into a quality logo.  Need a personal avatar, product icon, or brand emblem? Arvin does it all efficiently.\n\nFull Creative control\nWant a minimalist logo design, a special icon maker or something mor",
+    "icon": "/icons/com.chatgpt.ai.chat.openai.png"
+  },
+  "artify.ai.logomaker": {
+    "title": "Logo Maker - AI Art Design",
+    "package": "artify.ai.logomaker",
+    "description": "Logo Maker AI-Powered Logo Design Made Easy\nCreate stunning, professional logos in seconds with Logo Maker\u2014the ultimate AI-driven design tool for entrepreneurs, small businesses, and creators. No design skills needed! Just describe your vision, and let our smart generator craft the perfect logo for your brand.\n\n Key Features\nAI-Powered Logo Generation \u2013 Enter your brand name and keywords, and get multiple unique logo designs instantly.\nHundreds of Customizable Templates \u2013 Choose from modern, minimalist, vintage, hand-drawn, and more.\nHigh-Quality Exports \u2013 Download logos in PNG, JPG for websites, business cards, social media, and print.\nUser-Friendly Editor \u2013 Drag, drop, and customize with ease\u2014no design experience required!\n\nPerfect For\nStartups & Small Businesses \u2013 Build a strong brand p",
+    "icon": "/icons/artify.ai.logomaker.png"
+  },
+  "com.superapplabs.logolab": {
+    "title": "AI Logo Maker, AI Design: Hexa",
+    "package": "com.superapplabs.logolab",
+    "description": "Unleash creativity with AI Logo Maker, Ai Design: Hexa!\nDiscover a world where ai design meets imagination with amazing ai product photo maker and ai logo generator app, album cover creator and ai signature maker app! Ai logo maker, ai design : Hexa AI is a wonderful creative studio that you can create your own ai room design, ai album cover, ai product photography and , ai interior design ai logo design! Turn your ideas into captivating visuals instantly with this amazing ai product photo editor, ai logo generator and album cover creator app!\n\nHexa ai logo maker, ai design app is a revolutionary ai assistant that helps anyone to create amazing tattoos ai home design, create logo and product photo shoot, ai interior design, album cover maker. Create stunning ai product photoshoot, crear lo",
+    "icon": "/icons/com.superapplabs.logolab.png"
+  },
+  "com.logomaker.logo.creator": {
+    "title": "AI Logo Maker",
+    "package": "com.logomaker.logo.creator",
+    "description": "Ready to create a professional logo for your brand? Discover an AI-powered logo maker that makes logo design fast, simple, and accessible to everyone.\n\nForget the days of struggling to come up with logo ideas that truly represent your brand identity. With this smart logo and icon maker, you can generate high-quality logos in seconds \u2014 no design experience required.\n\n### Why this AI logo maker stands out\n\n**Super Easy to Use**\nWhether you\u2019re a beginner or a design professional, creating a logo is effortless. Simply describe your logo needs, and the AI instantly turns your idea into a polished logo design. From brand logos and product icons to personal avatars, it handles it all with ease.\n\n**Full Creative Control**\nPrefer a minimalist logo, a bold brand emblem, or a detailed icon design? Cu",
+    "icon": "/icons/com.logomaker.logo.creator.png"
+  },
+  "com.fluer.logo": {
+    "title": "Fluer AI Logo Maker",
+    "package": "com.fluer.logo",
+    "description": "Design the perfect logo for your brand in minutes with Fluer AI Logo Maker, the ultimate AI-powered logo creation tool. Whether you're a startup, small business, entrepreneur, or creative professional, Fluer makes logo design simple, fast, and accessible to everyone.\n\nWhy Choose Fluer AI Logo Maker?\n\u2705 AI-Powered Logo Creation \u2013 Generate unique logos instantly.\n\u2705 Easy Customization \u2013 Edit fonts, colors, icons, and layouts with ease.\n\u2705 High-Quality Exports \u2013 Get logos in multiple formats (PNG, JPEG, PDF, and more).\n\u2705 No Design Skills Needed \u2013 Let AI handle the heavy lifting for you.\n\u2705 Thousands of Templates \u2013 Get inspiration from a vast template library.\n\u2705 Affordable & Time-Saving \u2013 Get a professional-quality logo without hiring a designer.\n\nWho is Fluer AI Logo Maker for?\n\n- Startups & entr",
+    "icon": "/icons/com.fluer.logo.jpg"
+  },
+  "com.toonailogo.aiart": {
+    "title": "AI Logo Maker: Logo Generator",
+    "package": "com.toonailogo.aiart",
+    "description": "Design smarter, faster, and bolder with the AI Logo Maker Free App \u2013 the ultimate logo maker AI tool built for startups, creators, businesses, and brands of all sizes. Whether you\u2019re looking to build a fresh brand or rebrand, our rebrand AI logo maker is your go-to solution. This powerful platform uses cutting-edge AI to help you create logos online that stand out \u2014 no design skills required.\n\nThe AI logo maker isn't just a basic logo tool \u2014 it's a full-scale logo maker design creator that combines technology with creativity. The ai logo maker free app offers a seamless way to generate and edit logos, helping users save time while creating high-quality visuals. Using ai logo generator logo maker features, you can explore countless unique designs, all powered by advanced ai logo design algo",
+    "icon": "/icons/com.toonailogo.aiart.png"
+  },
+  "com.barefeet.logomaker": {
+    "title": "AI Logo Generator Logo Maker",
+    "package": "com.barefeet.logomaker",
+    "description": "Are you looking for an easy and innovative way to create unique logo, brand logo creator? \nLook no further!  AI Logo Generator Logo Maker App - best logo maker app, a professional ai logo maker, a professional business logo maker helps you to create logo graphic design, make icon design, brand logo creator,  custom logo maker in seconds.\n\nAi Logo Generator Logo Maker is best logo maker app, our app suitable for business logo maker, brand logo creator or personal logo.  With Ai Logo Generator Logo Maker app, ai logo maker easy, ai logo creator app and icon design or best logo maker fast & easy.\n\nBesides being a ai logo maker, AI Logo Generator Logo Maker app  can also be used to design promotional, business logo maker, game logo maker, our custom logo design app is your best solution - logo",
+    "icon": "/icons/com.barefeet.logomaker.jpg"
+  },
+  "co.appnation.ailogogenerator": {
+    "title": "AI Logo Generator - Mark",
+    "package": "co.appnation.ailogogenerator",
+    "description": "Mark - AI Logo Generator\n\nNo design skills? No problem. Mark lets anyone design a logo in seconds to their brand with their vision\u2014powered by AI.\n\nMark is not just a logo maker\u2014it\u2019s your intelligent partner in building a powerful visual identity. Whether you're starting a business, launching a product, or need a custom avatar, Mark empowers you to create a logo that speaks volumes, effortlessly and professionally.\n\nFast, Smart & Intuitive Logo Generation\nMark is the all-in-one ai logo generator that transforms your ideas into professional-grade visuals. In just a few taps, generate unique and customized logos tailored to your brand. With our powerful logo generator engine and intelligent design logic, you\u2019ll make a logo that\u2019s not only beautiful but also meaningful.\n\nEndless Styles, One Po",
+    "icon": "/icons/co.appnation.ailogogenerator.png"
+  },
+  "co.pixo.apps.logoshop.androidApp": {
+    "title": "Logo Maker Design AI Generator",
+    "package": "co.pixo.apps.logoshop.androidApp",
+    "description": "Logo Maker Shop & AI Generator app lets you design and create a stunning logo for your business or company in seconds, directly from your smartphone. Make your own logo easily. Design your business logo templates with an AI based logo creator.\n\nWith over 2,000 customizable logo templates and 6,000 design resources created by professional designers, logo maker design has never been easier. You don't need design skills or experience, just pick a logo template, get creative editing your chosen logo design using more than 6,000 fonts, and create a new logo in just a few steps.\n\nEffortlessly craft stunning logos with our user-friendly interface. Whether it's making a logo for your business or personal brand, our company logo maker empowers you to create your own unique designs.\n\n\u2022 2,000+ PRE-MA",
+    "icon": "/icons/co.pixo.apps.logoshop.androidApp.png"
+  },
+  "hubx.logo.ai": {
+    "title": "Rebrand - AI Logo Maker",
+    "package": "hubx.logo.ai",
+    "description": "Rebrand: Your AI-Powered Logo Design Studio\n\nUnleash your creativity with Rebrand, the ultimate AI-powered logo maker and graphic design app! Whether you\u2019re starting a new business, creating a personal brand, or just experimenting with ideas, Rebrand brings your vision to life with ease.\n\nAI Logo Generator: Enter custom prompts to design unique and professional logos tailored to your needs.\n\nLogo Maker Tools: Get started without any cost and explore a wide range of features.\n\nLogo Designer & Customizable: Personalize every element of your logo, from colors to typography.\n\nRealistic Mockups: See your designs come alive on objects like mugs, business cards, and T-shirts.\n\nGaming Logo Maker: Design custom logos and monograms specifically for gaming communities.\n\nBrand Identity in Seconds: Tra",
+    "icon": "/icons/hubx.logo.ai.jpg"
+  },
+  "ai.logo.generator.maker": {
+    "title": "AI Logo Designer & Maker",
+    "package": "ai.logo.generator.maker",
+    "description": "Transform your business vision into stunning professional logos within seconds using our intelligent AI logo designer. Whether you're launching a startup, rebranding your company, or creating personal brand identity, our logo generator delivers custom designs that capture your unique essence without requiring any design experience.\n\nStop spending thousands on graphic designers or struggling with complicated design software. Our AI logo maker analyzes your business concept and generates multiple unique variations tailored to your industry and style preferences. Simply describe your vision, choose your colors, and watch as artificial intelligence creates logos that rival expensive agency work.\n\nPerfect timing for entrepreneurs launching ventures during back-to-school season or businesses pre",
+    "icon": "/icons/ai.logo.generator.maker.png"
+  },
+  "com.leifhacks.logo_designer_app": {
+    "title": "Super-Fast AI Logo Generator",
+    "package": "com.leifhacks.logo_designer_app",
+    "description": "\"Super-Fast AI Logo Generator\" lets you logo designs in a heartbeat with the power of AI! Start with our Lite version, providing a limited amount of free generations. Upgrade to Premium for unlimited capacity.\n\nPerfect Your Logo with our AI Logo Generator!\n\nThis app is an advanced logo generator app powered by AI, perfect for anyone looking to create a standout brand identity in seconds. As a state-of-the-art logo generator, \"Super-Fast AI Logo Generator\" allows users to enter a style and a brief description of their ideal logo\u2014specifying colors, symbols, and themes\u2014and instantly transforms those ideas into a professional, high-quality logo. \n\nThis AI-powered logo generator is perfect for startups, entrepreneurs, and businesses of any size, providing a variety of customization options to m",
+    "icon": "/icons/com.leifhacks.logo_designer_app.png"
+  },
+  "logoai.logo.maker.creator.logomaker.ai": {
+    "title": "AI Logo Maker: LogoAI",
+    "package": "logoai.logo.maker.creator.logomaker.ai",
+    "description": "Design Stunning Logos in Minutes with LogoAI\n\nLooking for a professional logo to represent your brand? LogoAI makes it easy to create unique, high-quality logos in just a few minutes. Powered by AI technology, the app offers endless possibilities to help you achieve your perfect design \u2014 no graphic design skills needed!\n\n\ud83d\udd25 Why Choose LogoAI?\n\n\u2714\ufe0f AI-Powered Logo Creation\nGenerate professional logos effortlessly. Just input your idea, and the AI creates personalized logo concepts for you.\n\n\u2714\ufe0f Unlimited Designs\nDiscover endless logo ideas and download high-resolution designs without any limits.\n\n\u2714\ufe0f Multiple Styles to Choose From\nExplore various logo styles, from minimalist to playful, and select one that fits your brand\u2019s personality.\n\n\u2714\ufe0f Instant Downloads\nOnce your logo is ready, download it",
+    "icon": "/icons/logoai.logo.maker.creator.logomaker.ai.png"
+  },
+  "com.codespaceapps.aiartapp": {
+    "title": "AI Art, Image & Logo Generator",
+    "package": "com.codespaceapps.aiartapp",
+    "description": "Unleash Your Creative Genius with AI Art, Image & Logo Generator - The Revolutionary AI Art Experience\n\nStep into the future of art with AI Image Generator. Our AI transforms your ideas into visually stunning masterpieces in seconds. Just provide a prompt, select a style, and watch your vision materialize.\n\nAI Art, Image & Logo Generator is an advanced AI Photo Generator app that uses cutting-edge technology to turn your descriptions into unique artworks, photos, and images.\n\nImagine What AI Art, Image & Logo Generator Can Create:\nSpellbinding digital art\nInnovative tattoo designs\nOne-of-a-kind logos\nUltra-realistic photos\nAnd so much more!\nKey Features:\n\u25ba AI Art Generator\nTurn simple text or images into captivating art pieces. Input your idea, and let AI Art, Image & Logo Generator\u2019s AI w",
+    "icon": "/icons/com.codespaceapps.aiartapp.png"
+  },
+  "tech.blowy.logoart": {
+    "title": "AI Logo Maker, Brand Designer",
+    "package": "tech.blowy.logoart",
+    "description": "AI Logo Maker & Brand Designer helps you turn your idea into a professional logo in just a few taps.\n\nWhether you\u2019re launching a startup, building a personal brand, or refreshing your business identity, our AI creates unique, modern logos tailored to your vision.\n\n\u2728 What you can do:\n\n\u2022 Generate original logos using AI\n\u2022 Choose from multiple modern design styles\n\u2022 Create logos from text or reference images\n\u2022 Export high-quality PNG files\n\u2022 Download scalable SVG logos for professional use\n\n\ud83d\ude80 Perfect for:\n\n\u2022 Startups & entrepreneurs\n\u2022 Small businesses\n\u2022 Content creators & designers\n\u2022 Personal and side projects\n\nNo design skills required. Just describe your idea and let AI handle the creativity.\n\nWe\u2019re continuously improving the app with new styles, smarter AI, and powerful branding features.\n",
+    "icon": "/icons/tech.blowy.logoart.png"
+  },
+  "com.nadartech.leo": {
+    "title": "AI Logo Maker - Generator",
+    "package": "com.nadartech.leo",
+    "description": "AI Logo Maker, Generator - Leo is your all-in-one logo design studio for creating stunning brand visuals in seconds. Whether you need a custom logo, a professional poster, or an eye-catching flyer, Leo makes it fast and easy with powerful AI logo generator tools and smart templates. No design skills? No problem \u2014 Leo is your personal AI Logo Designer and graphic creator, built to help anyone create professional designs effortlessly.\n\nWith AI Logo Maker and Generator, you can design your own brand identity from scratch. Create logos, edit icons, generate posters, or design business flyers \u2014 everything you need in one simple app. Leo gives you a complete graphic design studio experience right on your phone.\n\n\ud83c\udf1f Key Features of AI Logo Maker, Generator - Leo\n\n\u2728 AI-Powered Logo Creation\nLet AI ",
+    "icon": "/icons/com.nadartech.leo.png"
+  },
+  "wordswag.stylishfont.gwyn": {
+    "title": "Text Swag: Logo, AI Text Maker",
+    "package": "wordswag.stylishfont.gwyn",
+    "description": "Text Swag is a powerful text-on-photo, logo design, and AI art tool built for creators, entrepreneurs, and marketers. Whether you're designing social media content, creating a logo, or generating unique AI artwork, Text Swag combines simplicity with professional-grade results.\n\nThis all-in-one editor helps you create standout visuals in seconds with 40+ text styles, 100+ backgrounds, and complete photo editing tools.\n\nCore Features of Text Swag:\n\nAI Text Generator\n\u2022 Instantly generate design-ready AI artwork from a simple text prompt\n\u2022 Great for posters, story backgrounds, or creative exploration\n\nLogo Maker and Branding Tool\n\u2022 Create professional logos with transparent or custom backgrounds\n\u2022 Ideal for small businesses, content creators, and freelancers\n\u2022 Export in high-resolution formats",
+    "icon": "/icons/wordswag.stylishfont.gwyn.png"
+  },
+  "com.logo.signature.art.creator": {
+    "title": "Logo Maker, AI Generator",
+    "package": "com.logo.signature.art.creator",
+    "description": "Explore your creativity with Logo Maker, AI Generator. This versatile tool is designed to help you visualize artistic concepts, discover modern design trends, and generate unique lettering styles for your personal projects.\n\nCore Features:\n\n- Trend Radar: Stay updated with the latest artistic movements. Discover what is popular in the creative world and find inspiration for your next design.\n- Ink-Pulse AI: A smart creative assistant that helps you generate unique visual concepts and artistic ideas based on your preferences.\n- Logo-Brand: Visualize minimalist branding elements and modern icons. A great starting point for brainstorming professional or personal identity projects.\n- Cursive & Signature: Explore various calligraphy styles and elegant handwritten fonts. Perfect for creating uni",
+    "icon": "/icons/com.logo.signature.art.creator.jpg"
+  },
+  "com.ai.logo.generator.logo.maker.ailogo": {
+    "title": "AI Logo Generator: Logo Maker",
+    "package": "com.ai.logo.generator.logo.maker.ailogo",
+    "description": "Create a logo instantly with the AI logo generator. It's quick & easy to use, no logo design skills are needed.\n\nIf you want a custom logo and you are tired of finding the right graphic designer or logo shop for this job, then it\u2019s time to take the game into your own hands! The AI Logo Generator is your all-in-one solution to design a logo that stands out.\n\nOur custom logo maker lets you craft both graphic and text logos. Just like generative AI models, this logo creator app also asks you to provide a prompt and generate a\u0131 logo of your choice. However, it still gives you the option to choose logo style and color scheme that you can utilize to match your brand\u2019s identity.\n\nWe know that coming up with the right prompt to create a custom logo can sometimes be tricky. That\u2019s why the AI logo g",
+    "icon": "/icons/com.ai.logo.generator.logo.maker.ailogo.png"
+  },
+  "com.logo.maker.ai": {
+    "title": "Logo Maker & AI Logo Generator",
+    "package": "com.logo.maker.ai",
+    "description": "Create Your Perfect Logo with AI \u2013 Trusted by 500,000+ Users!\nNow create professional logos effortlessly with advanced AI prompts tailored specifically for your business industry.\nLooking for a powerful and unique logo design for your brand? With Logo Maker & AI Logo Generator, you can create professional, eye-catching logos in seconds. No design experience needed. Whether you\u2019re building a new brand or upgrading an existing one, Logo Creator is built to deliver high-quality, customizable logo designs tailored to your industry.\n\nDescribe Your Logo, and Let AI Do the Magic\nSimply describe your dream logo, and advanced AI logo maker will turn your words into a stunning logo design. This smart tool understands your vision and transforms it into a unique brand identity fast and effortlessly.\n\n",
+    "icon": "/icons/com.logo.maker.ai.png"
+  },
+  "com.leifhacks.tattoo_designer_app": {
+    "title": "TattooInk: AI Tattoo Generator",
+    "package": "com.leifhacks.tattoo_designer_app",
+    "description": "\"TattooInk - AI Tattoo Generator\" lets you generate tattoo designs and stencils in a heartbeat with the power of AI! Start with our Lite version, providing a limited amount of free generations. Upgrade to Premium for unlimited capacity and exclusive features like the AR try-out.\n\nPerfect Your Ink with Our Tattoo Stencil App!\n\nUnleash your creativity and bring your tattoo ideas to life with TattooInk, the revolutionary tattoo stencil app designed for tattoo enthusiasts and artists alike. Whether you\u2019re a seasoned tattoo lover or a first-timer, TattooInk makes it easier than ever to design and visualize your perfect tattoo.\n\nTattooInk stands out among other AI tattoo design apps by harnessing the power of advanced technology to help you create custom tattoo designs that are as unique as you ",
+    "icon": "/icons/com.leifhacks.tattoo_designer_app.jpg"
+  },
+  "com.hubx.tattoo": {
+    "title": "Tattoo AI - Tattoo Design",
+    "package": "com.hubx.tattoo",
+    "description": "Tattoo AI: Your Go-To App for Creating Unique Tattoos Effortlessly! Whether you\u2019re a tattoo enthusiast, a first-timer considering getting inked, or a tattoo artist looking for inspiration, Tattoo AI has everything you need. With its cutting-edge AI tattoo generator and a range of styles from black & white to Japanese and tribal, you can create stunning tattoo designs for any part of your body in just a few taps. \n\n\ud83d\udd25 Key Features:\n\n\ud83e\udd16 AI Tattoo Generator:\nOur AI tattoo generator is at the heart of Tattoo AI. Simply enter your ideas or themes, and our advanced AI will generate unique tattoo designs tailored to your preferences. It\u2019s like having a personal tattoo artist in your pocket!\n\n\ud83c\udfa8 Diverse Style Options:\nTattoo AI offers a wide variety of styles to suit any taste. Whether you prefer the",
+    "icon": "/icons/com.hubx.tattoo.png"
+  },
+  "ai.tattoo.ink.generator": {
+    "title": "Tattooist: AI Tattoo Generator",
+    "package": "ai.tattoo.ink.generator",
+    "description": "Tattoo AI: Transform your ideas into stunning body art with the power of AI! \u2728\n\nTattooist is your ultimate AI tattoo generator and tattoo maker\u2014perfect for exploring tattoo ideas, creating custom concepts, and visualizing designs before getting inked.\n\nWhether you're choosing your next piece, testing placement before committing, or looking for fresh inspiration as a tattoo artist, Tattooist helps you generate high-quality tattoo designs in minutes. Start from a text prompt, reference image, sketch, or template, then refine your concept, preview it on different body parts, and even try it on with AR.\n\n\n\u25c9 USEFUL FEATURES:\n\n\ud83e\udd16 AI TATTOO GENERATOR\nDescribe your idea and generate detailed tattoo artwork in seconds. Explore styles like minimalist, tribal, blackwork, fine-line, realism, watercolor",
+    "icon": "/icons/ai.tattoo.ink.generator.png"
+  },
+  "com.inkpulseai.app": {
+    "title": "InkPulse AI - Tattoo Generator",
+    "package": "com.inkpulseai.app",
+    "description": "Design Tattoos, Logos & Artwork with AI. Then Try Them On, Edit & Export\n\nInkPulse AI is a powerful AI design studio built for tattoo ideas, logos, merch, and creative artwork\u2014all in one app.\n\nTurn your ideas into high-quality designs in seconds, refine them with advanced tools, and even preview them on your body or mockups before committing.\n\n\ud83d\ude80 WHAT MAKES INKPULSE DIFFERENT\n\n\u2022 Precision Text Mode (NEW)\nGenerate clean, stylized text for tattoos, logos, and merch\nChoose from Script, Gothic, Graffiti, Chrome, Neon, Flame styles and more\nBuilt for accuracy, readability, and real-world design use\n\n\u2022 Style-Aware AI Generation\nCreate tattoos and artwork in multiple styles\nRealistic, Black & Grey, Sketch, Anime, Cyberpunk, and more\nConsistent, high-quality outputs with improved detail and depth\n\n",
+    "icon": "/icons/com.inkpulseai.app.png"
+  },
+  "com.feraset.ink": {
+    "title": "AI Tattoo Maker - Ink",
+    "package": "com.feraset.ink",
+    "description": "If you have a tattoo idea but can\u2019t find the perfect design, let Ink AI generate one in seconds. Download Ink AI today and start designing your next masterpiece.\n\nSay goodbye to searching for tattoo ideas on social media. Ink AI Tattoo Generator revolutionizes your tattoo experience, allowing you to create personalized designs with ease. Input your ideas, and Ink will produce professional-grade sketches. Plus, with our virtual try-on feature, you can see exactly how the design will look on your body.\n\nHow to use?\nGot a tattoo idea but can\u2019t find the right design? Ink AI is here to help. Start by choosing your preferred style\u2014realistic, minimalistic, surrealistic, or anything unique. Describe your idea, and our AI will craft a custom sketch.\n\nWhat Makes Ink Special:\n\nPersonalized Designs: C",
+    "icon": "/icons/com.feraset.ink.png"
+  },
+  "co.appnation.aitattoogenerator": {
+    "title": "AI Tattoo Generator - InkLab",
+    "package": "co.appnation.aitattoogenerator",
+    "description": "AI Tattoo Generator - InkLab: Turn Your Imagination Into Ink\n\nExplore your creativity with AI Tattoo Generator - InkLab, the most advanced tattoo design app for generating personalized, high-quality tattoo designs. Whether you're a tattoo lover, a first-timer looking for unique tattoo ideas, or a professional tattoo designer, Ink AI gives you the power to create stunning tattoos effortlessly.\n\nWith our powerful ai tattoo generator, you can turn any thought, phrase, or aesthetic into a unique piece of body art. From minimalist ink to elaborate sleeve concepts, from symbolic text to traditional motifs, Ink AI brings your vision to life with style and precision.\n\nKey Features of AI Tattoo Generator - InkLab:\n\nAI Tattoo Generator\nAt the core of Ink AI is our smart ai tattoo generator. Just des",
+    "icon": "/icons/co.appnation.aitattoogenerator.png"
+  },
+  "com.metacortext.tattoo.ai": {
+    "title": "Ink AI \u2013 Tattoo design maker",
+    "package": "com.metacortext.tattoo.ai",
+    "description": "Ink AI: Your Personal Tattoo Designs app and Virtual Try-On\n\nAI Tattoo maker\nCreate personalized ai tattoo design easily with just a few taps, and then see how they look on your body with our virtual try-on feature. Get ready for a new and exciting way to explore and visualize tattoos with Ink AI.\n\nCreate Your Unique Tattoo Stencil\n\nStart by choosing your favorite tattoo style, whether it's realistic, minimalistic, surrealistic, or something completely unique. Then, just type out what you're imagining for your tattoo design. Our AI tattoo generator will use your description and style selection to create tattoo stencil just for you.\n\nVirtual Tattoo Try-On\n\nFor the try-on feature, upload a high-quality, clear photo of the area you want to tattoo. Make sure the view is unobstructed. Next, sel",
+    "icon": "/icons/com.metacortext.tattoo.ai.png"
+  },
+  "tattoo.ai.bodyeditor": {
+    "title": "Tattoo AI - Tattoo Designs App",
+    "package": "tattoo.ai.bodyeditor",
+    "description": "PicInk is your go-to app for AI tattoo design, realistic tattoo try-on, and advanced body editing. Whether you\u2019re a tattoo artist or a first-timer, PicInk (AI Tattoo Design & Body Editor) gives you full creative control before your next ink.\n\nWith our AI Tattoo Generator, AR body try-on, unique styles for patterns and fonts, and body editor, it\u2019s easy to find tattoo designs that truly fit your body.\n\n\ud83d\udd25Key Features:\n\u25cf Turn ideas into unique tattoo designs with AI Tattoo Generator\n\u25cf Try tattoos on your body with AR or photo try-on\n\u25cf 30+ tattoo styles & lettering fonts\n\u25cf Adjust tattoo opacity, lightness & redness\n\u25cf Body Fit makes tattoos follow real curves naturally\n\u25cf Stretch, resize & reshape tattoos with simple controls\n\u25cf Remove unwanted details with tattoo eraser\n\u25cf Sculpt and reshape body ",
+    "icon": "/icons/tattoo.ai.bodyeditor.png"
+  },
+  "com.indise.tattoos_app": {
+    "title": "Ta2 - AI Tattoo Generator",
+    "package": "com.indise.tattoos_app",
+    "description": "Welcome to Ta2 - Your Ultimate Guide to Tattoo Art!\n\nTa2 is an innovative application that unveils a world of endless possibilities in the realm of tattoos. You no longer have to dream about your perfect tattoo because Ta2 allows you to turn your dreams into reality right on your mobile device.\n\nPersonalization:\n- Ability to craft unique tattoos that reflect your style and personality.\n- Choose from a vast assortment of styles, from classic black and grey tattoos to vibrant watercolor illustrations.\n\nPreview on Live Skin:\n- Switch between different body parts for an accurate representation of how your tattoo will appear in real life.\n- Allows you to see how your tattoo will look on the chosen body part, using cutting-edge augmented reality technology.",
+    "icon": "/icons/com.indise.tattoos_app.png"
+  },
+  "com.tattooai.inkart.aiimage.designgenerator.free.app.android": {
+    "title": "Tattoo AI Design Generator INK",
+    "package": "com.tattooai.inkart.aiimage.designgenerator.free.app.android",
+    "description": "\ud83c\udfa8 Turn Your Ideas into Ink. The Ultimate AI Tattoo Generator.\n\nStop scrolling endlessly through social media looking for tattoo ideas. Take control of your body art with Tattoo AI Design Generator INK, the most advanced AI art tool designed to create unique, custom, and realistic tattoo designs in seconds.\n\nWhether you are a tattoo enthusiast planning your first piece, or a professional artist looking for a quick stencil maker, our app is your 24/7 digital creative partner.\n\n\ud83d\udd25 WHY TATTOO AI DESIGN GENERATOR INK?\n\nTattoos are permanent, so your design should be perfect. Unlike other apps that just offer a gallery of recycled images or simple fonts, we use state-of-the-art Artificial Intelligence to generate completely original ink design concepts based on your words.\n\n\u2728 MAIN FEATURES\n\n\ud83e\udd16 Tex",
+    "icon": "/icons/com.tattooai.inkart.aiimage.designgenerator.free.app.android.png"
+  },
+  "com.deepvision.aitattoo": {
+    "title": "AI Tattoo Maker & Generator",
+    "package": "com.deepvision.aitattoo",
+    "description": "Welcome to AI Tattoo world! Design your tattoos & see them on your body before they're inked\u2014AI-powered creativity at your fingertips!\n\nAI Tattoo is your personal tattoo artist in your pocket, powered by cutting-edge artificial intelligence and augmented reality (AR). Whether you're dreaming of your first tattoo or looking to add to your collection, AI Tattoo offers endless possibilities for creating stunning, personalized designs. With just a few taps, you can generate unique tattoo concepts based on your preferences\u2014whether it\u2019s traditional, abstract, or something entirely new.\n\nThe app goes beyond just design. You can take a photo of your body and use the built-in AR technology to virtually apply the tattoo directly onto your skin. This allows you to see exactly how the design will look",
+    "icon": "/icons/com.deepvision.aitattoo.png"
+  },
+  "com.zw.tattoo": {
+    "title": "AI Tattoo Design",
+    "package": "com.zw.tattoo",
+    "description": "AI Tattoo Artist\nEasily create personalized AI tattoo designs with just a few clicks, then see how they look on you through our virtual try-on feature. Get ready to explore and visualize Ink AI tattoos in an exciting new way.\n\nCreate Your Unique Tattoo Template\nChoose your favorite tattoo style, whether realistic, minimalist, surreal, or completely unique. Then, simply enter your vision for the tattoo design. Our AI tattoo generator will use your description and style selection to create a tattoo template for you.\n\nVirtual Tattoo Try on\nFor the try-on feature, upload a high-quality, clear photo of the area you want tattooed. Select the tattoo design you create, and the tattoo will be applied to your photo, showing you how it will look on your skin.",
+    "icon": "/icons/com.zw.tattoo.png"
+  },
+  "com.inkforge.ai": {
+    "title": "InkForge \u2013 AI Tattoo Generator",
+    "package": "com.inkforge.ai",
+    "description": "Describe your dream tattoo in words \u2014 AI generates professional designs in seconds.\n\nInkForge is an AI-powered tattoo design app. Explore how your tattoo will look before getting inked, try different styles, and find the perfect design.\n\n\u2022 Write a prompt, get unique tattoo designs in seconds\n\u2022 Minimalist, traditional, Japanese, tribal, watercolor and more styles\n\u2022 Edit and refine your design \u2014 adjust every detail to your liking\n\u2022 All designs saved to the cloud, accessible anytime\n\u2022 Voice input lets you describe your tattoo idea by speaking\n\u2022 Explore cool tattoos created by other users, copy the prompt, customize it to your style, and regenerate.\n\nWhether you're planning your first tattoo or adding a new piece to your collection \u2014 use InkForge to finalize your design before visiting the stu",
+    "icon": "/icons/com.inkforge.ai.png"
+  },
+  "com.rocketdigitals.aitattoogenerator": {
+    "title": "INK: AI Tattoo Generator & Art",
+    "package": "com.rocketdigitals.aitattoogenerator",
+    "description": "Create your next tattoo idea in minutes with INK \u2013 AI Tattoo Generator. Turn simple words into amazing tattoos within seconds. Easy to use and perfect for finding your dream tattoo design.\n\nIf you\u2019re looking for fresh AI Tattoo Ideas, a clean AI Tattoo Design, or a simple way to explore AI Tattoos before you go to a tattoo studio, INK is made for you. You don\u2019t need drawing skills. You don\u2019t need special tools. Just type what you want, pick a style, and the AI Tattoo Generator helps you create designs you can save and share.\n\nTurn your idea into an AI Tattoo Design\n\nEveryone starts with a thought: \u201cI want a rose,\u201d \u201ca dragon,\u201d \u201ca small tattoo,\u201d or \u201csomething meaningful.\u201d INK helps you turn that thought into a real AI Tattoo Design. Tell the app what you want to see, and your AI Tattoo Maker",
+    "icon": "/icons/com.rocketdigitals.aitattoogenerator.png"
+  },
+  "com.ai.tattoo.generator.maker": {
+    "title": "AI Tattoo Generator & Maker",
+    "package": "com.ai.tattoo.generator.maker",
+    "description": "Unleash Your Creative Tattoo with AI Tattoo Generator app\nTurn words into Tattoo!\n\nAre you in pursuit of the perfect tattoo design that will define your unique style? Are you tired of scouring endless tattoo stickers and stencils? Look no further than AI Tattoo Design apps AI Tattoo Maker app, your gateway to becoming a true tattoo virtuoso. Each tattoo creation is an unparalleled masterpiece, where the boundaries of imagination are boundless. Whether you\u2019re designing for yourself or clients, tattoo ai generator ink tattoo offers a wide array of styles to suit every taste. With tattoo ai generator ink tattoo, watch your ideas transform into a work of art, bringing your tattoo vision to life. Prepare to be awed as you embark on a journey of self-expression like never before, only at AI Tatt",
+    "icon": "/icons/com.ai.tattoo.generator.maker.png"
+  },
+  "com.alhaiSofts.tattooai": {
+    "title": "Tattoo AI: AI Tattoo Generator",
+    "package": "com.alhaiSofts.tattooai",
+    "description": "Are you looking to find the perfect AI tattoo design? \n\nAi Tattoo Generator: Tattoodo is a modern AI Tattoo Maker that transforms your ideas into stunning AI art. It's like having a personal artist in your Pocket! Whether you love bold sleeves, a delicate floral piece, fine lines or custom lettering with AI touch.\n\nTattoo ai brings you tattoos for every style, from classic black and white designs to detailed Japanese art and bold gaming-inspired ink. Whatever your taste, you\u2019ll find something that fits your vibe.\n\nWith the AI tattoo generator, you\u2019re not just scrolling through designs. You can explore and create your own. Create, preview and design tattoos as a professional using AI Tattoo Creator. \n\n\u25b6 Key Features of Tattoo AI - AI Tattoo Maker\n\n\u25fe Ai Tattoo Generator \nTurn your ideas into",
+    "icon": "/icons/com.alhaiSofts.tattooai.png"
+  },
+  "com.tattoocc.app": {
+    "title": "Tattoo AI: Tattoo Design Ideas",
+    "package": "com.tattoocc.app",
+    "description": "Tattoo AI: Tattoo Design Ideas  is an AI tattoo generator and tattoo design app for anyone who wants better tattoo ideas before getting ink. Whether you are planning your first tattoo, building a sleeve, testing a name tattoo, or looking for fresh tattoo designs, this tattoo maker helps you create, customize, and preview tattoo ideas more easily.\nUse Tattoo AI to turn simple prompts, styles, symbols, and themes into custom tattoo design ideas. Instead of scrolling through endless generic photos, you can explore tattoo ideas that feel more personal to your style, placement, and creative direction. From minimal designs to bold ink concepts, Tattoo AI makes tattoo design faster, easier, and more inspiring.\nWhy users choose Tattoo AI: Tattoo Design Ideas \nAI Tattoo Generator\nCreate original ta",
+    "icon": "/icons/com.tattoocc.app.png"
+  },
+  "com.novopic.creatorapp": {
+    "title": "Ai Tattoo ldeas-Art Generator",
+    "package": "com.novopic.creatorapp",
+    "description": "Welcome to the Tatto AI-Tattoo Generator, your professional artificial intelligence tattoo generation tool!\nTatto AI-Tattoo Generator is a comprehensive artificial intelligence Tattoo generation software designed to help you easily create personalized tattoos using cutting-edge artificial intelligence technology. The following are the main features of the application:\n1. Generating tattoo patterns using artificial intelligence: Using our various style templates, the app automatically generates your personalized tattoo design so that you can easily obtain unique patterns.\n2. Upload avatars to create exclusive avatars. Whether it is your lover, relatives or dog, you can easily create interesting and beautiful tattoos.\n3. Select the location to apply to generate a tattoo: Users can upload the",
+    "icon": "/icons/com.novopic.creatorapp.png"
+  },
+  "artify.ai.tattoomaker": {
+    "title": "ArtReel: AI Tattoo Design",
+    "package": "artify.ai.tattoomaker",
+    "description": "AI Tattoo Design \u2014 AI-Powered Tattoo Ideas Made Easy\n\nCreate unique, personalized tattoo designs in seconds with AI Tattoo Design \u2014 the ultimate AI-driven inspiration tool for tattoo enthusiasts, first-timers, and collectors. No drawing skills needed! Just describe your vision, and let our smart generator turn your ideas into stunning, wearable art.\n\nKey Features\n\nAI-Powered Tattoo Generation \u2013 Enter your idea, choose a style, and get multiple unique tattoo designs instantly. From minimalist symbols to intricate sleeves \u2014 the possibilities are endless.\n\nText-to-Image & Image-to-Image \u2013 Describe your dream tattoo in words, or upload a reference photo to generate a fresh design inspired by your original image.\n\nMultiple Tattoo Templates \u2013 Explore our curated collection of popular tattoo styl",
+    "icon": "/icons/artify.ai.tattoomaker.png"
+  },
+  "com.tattoo.aigenerator": {
+    "title": "AI Tattoo Generator: Tattoo AI",
+    "package": "com.tattoo.aigenerator",
+    "description": "AI Tattoo Generator: Tattoo AI \u2013 Create your personalized design easily with just a few clicks, and then see how it looks on your body by clicking the \u201cTry on Body\u201d button. Get ready for a new and innovative way to explore and visualize tattoo designs with Ink AI.\n\nAI Tattoo design apps customization \u2013 Design in your own style, like having your own mini tattoo studio that helps you craft your tattoo ideas into reality using different templates and fonts. You can design a stencil using AI Tattoo Maker and try it on your own body before you get inked.\n\nVirtual Try on Body \u2013 For the \u201cTry on Body\u201d feature, upload a high-quality, clear photo of the body part you want to get inked. Next, select a tattoo you\u2019ve created. Our AI Tattoo Design Apps will accurately apply it to your photo, showing you",
+    "icon": "/icons/com.tattoo.aigenerator.png"
+  },
+  "co.wiserapps.tattooai": {
+    "title": "Tattoo AI - Design & Generator",
+    "package": "co.wiserapps.tattooai",
+    "description": "Tattoo AI \u2013 Design & Generator: A New Era of Body Art with Artificial Intelligence\n\nAre you looking for the perfect tattoo design or seeking fresh inspiration for your next ink? Tattoo AI \u2013 Design & Generator leverages powerful AI (Artificial Intelligence) to help you create the most original, creative, and personalized tattoo ideas. Whether you prefer traditional, minimal, tribal, geometric, watercolor, realistic, line art, or abstract styles, get ready to bring your vision to life in just a few taps. Explore a vast library of designs, see how it looks on your body via 3D previews, and tailor every aspect to your unique taste.\n\nKey Features:\n\nAI-Powered Tattoo Generator\nSimply enter your desired theme, keywords, or symbols, and let our AI tattoo design tool generate custom sketches.\nDisco",
+    "icon": "/icons/co.wiserapps.tattooai.png"
+  },
+  "com.laskari.ai.tattoo.generator.tattoo.tryon.tattoo.design": {
+    "title": "Inkzy - AI Tattoo Generator",
+    "package": "com.laskari.ai.tattoo.generator.tattoo.tryon.tattoo.design",
+    "description": "Inkzy - AI Tattoo Generator is a powerful tool designed to help you create stunning and personalized tattoo designs using artificial intelligence. Whether you are exploring new ideas or preparing for your next tattoo, this app makes the process simple and creative.\n\nCreate Tattoos Effortlessly\nWith an advanced AI tattoo generator, you can turn your ideas into high-quality tattoo designs in seconds. Just enter your concept or style preference and let the AI generate unique results.\n\nTry Before You Ink\nThe AI tattoo try on feature allows you to preview how a design will look on your body. This helps you make better decisions before committing to a tattoo.\n\nEndless Design Possibilities\nExplore a wide range of tattoo styles. The AI tattoo maker adapts to your input and produces detailed AI tat",
+    "icon": "/icons/com.laskari.ai.tattoo.generator.tattoo.tryon.tattoo.design.png"
+  },
+  "monga.AITattooGenerator": {
+    "title": "InkForge: AI Tattoo Generator",
+    "package": "monga.AITattooGenerator",
+    "description": "InkForge: AI Tattoo Generator is your personal tattoo studio \u2014 built to turn a simple idea into a design you\u2019d actually show a tattoo artist.\n\nCreate original AI tattoo designs from text prompts, transform images into ink-style concepts, explore trending styles, and preview designs on popular placements before you commit.\n\nCreate tattoos with AI (fast)\n\n- Text to tattoo: describe your idea and generate multiple variations instantly\n- Image to tattoo: turn a reference image into tattoo-style artwork\n- Generate tattoo ideas for first tattoos, matching tattoos, or a full sleeve plan\n\nExplore styles you actually search for\n\nFind your look in seconds with popular tattoo aesthetics:\nfine line, minimal, tribal, blackwork, dotwork, geometric, lettering, Japanese / irezumi, neo traditional, old sch",
+    "icon": "/icons/monga.AITattooGenerator.png"
+  },
+  "com.tattoo_discovery.design": {
+    "title": "InkAI: Tattoo Stencil Designer",
+    "package": "com.tattoo_discovery.design",
+    "description": "3000+ TATTOO DESIGNS, SKIN TONE TATTOO SIMULATOR & ART TATTOO STENCIL MAKER\nAre you looking for tattoo design apps free to find tattoo inspiration?\nOr do you need an ink and stencil tattoo ideas app that also allows you to try different tattoos on your skin tone?\nHow about seeing real tattoo drawings and tattoo lettering from real tattoo artists?\n\nFor that, and a lot more, there is the Tattoo Discovery App. Browse our enormous collection of tattoo designs and real ink tattoo photos from tattoo artists. With state-of-the-art Artificial Intelligence, you can try, edit and find the best designs for your next tattoo.\n\nMake the best tattoo decisions based on your taste, life, and tattoo meaning with 3K+ Tatoo Designs Stencil Ink!\n\nFIND, KEEP & TRY TATTOO IDEAS\n\ud83d\udd0e Browse our growing collection of",
+    "icon": "/icons/com.tattoo_discovery.design.png"
+  },
+  "com.ai.tattoo.generator.app": {
+    "title": "AI Tattoo Generator & Maker",
+    "package": "com.ai.tattoo.generator.app",
+    "description": "AI Tattoo Generator - Creator & Maker\n\nTurn your tattoo ideas into real designs using AI. Whether you want a small tattoo or a full sleeve, this app helps you try, generate and create unique tattoos that match your style. Find new more styles, try different designs, and create a tattoo that tells your story.\n\nKey Features\nAI Tattoo Designs: Generate original and personalized tattoo ideas quickly based on your style or theme.\nCreative Options: Explore categories like tribal, geometric, floral, abstract, and more. Combine different elements to make your design unique.\nEasy Customization: Change colors, shapes, sizes, and styles with simple editing tools. Compare multiple versions to find the right one.\nTrend Discovery: See popular tattoo ideas and adapt them to your style.\nSharing Made Simpl",
+    "icon": "/icons/com.ai.tattoo.generator.app.jpg"
+  },
+  "com.tattootrysm.app": {
+    "title": "Tattoo Try: AI Design & Try On",
+    "package": "com.tattootrysm.app",
+    "description": "Tattoo Try is an AI tattoo generator that helps you design tattoos and try them on your body before you ink. Create custom tattoo designs and preview them with realistic try-on, so you know exactly how your tattoo will look on you.\u200b\n\nGetting a tattoo is permanent, but choosing your design doesn\u2019t have to feel uncertain. Tattoo Try lets you explore tattoo ideas, generate unique designs with AI, and preview tattoos on your real skin before you commit.\n\nWhether you are planning your first tattoo, refining an idea, or just exploring styles, Tattoo Try gives you confidence before you step into the studio.\n\n\nAI TATTOO GENERATOR\nTattoo Try uses AI to generate custom tattoo designs based on your ideas. Simply describe what you want, choose a style, and let the tattoo generator create designs that ",
+    "icon": "/icons/com.tattootrysm.app.png"
+  },
+  "com.inkverse.aitattoogenerator": {
+    "title": "InkVerse : AI Tattoo Generator",
+    "package": "com.inkverse.aitattoogenerator",
+    "description": "Create custom, artist-ready tattoo designs powered by advanced AI.\n\nInkVerse - AI Tattoo Generator transforms your ideas into professional-quality tattoo concepts in seconds. Whether you\u2019re planning your first tattoo, designing a sleeve, refining lettering, or speeding up a studio workflow, InkVerse helps you generate clean, stencil-ready tattoo designs built specifically for real tattooing.\n\nUnlike generic AI art apps, InkVerse - AI Tattoo Generator is designed for tattoo ,  focusing on line clarity, composition balance, placement awareness, and stencil precision.\n\n\ud83c\udfa8 What You Can Do with InkVerse - AI Tattoo Generator\n\n\ud83e\udd16 AI-Powered Tattoo Design Generator\nType your idea, theme, mood, symbolism, size, or placement, and generate multiple unique tattoo concepts instantly.\nExplore unlimited c",
+    "icon": "/icons/com.inkverse.aitattoogenerator.png"
+  },
+  "com.hyperignitionsystems.tattoocreator": {
+    "title": "Tattoo Creator: AI Design",
+    "package": "com.hyperignitionsystems.tattoocreator",
+    "description": "Welcome to Tattoo Creator, the ultimate AI tattoo generator and custom tattoo maker designed to bring your dream ink to life. Whether you are looking for inspiration for your next piece or want to finalize a specific concept, our tattoo design app is here to help you visualize your ideas before you ever sit in the artist's chair.\n\nHave a unique idea but can't draw it? No problem. As a powerful AI tattoo generator, this app allows you to type simple text prompts and watch as artificial intelligence turns your words into stunning visual art. Explore different styles, from traditional and minimalist to watercolor and geometric, all within the best custom tattoo maker available.\n\nIf you already have a basic drawing or an outline, our tattoo design app takes your creativity to the next level. S",
+    "icon": "/icons/com.hyperignitionsystems.tattoocreator.jpg"
+  },
+  "com.tapuniverse.aianimegenerator": {
+    "title": "AI Anime Generator: AI Anime",
+    "package": "com.tapuniverse.aianimegenerator",
+    "description": "AI Anime Generator provides all the anime editor tools you need, designed to craft and enhance mesmerizing anime picture. This anime art maker is also the perfect anime character creator, you can even create unique anime wallpaper and scenarios for the anime character you design.\n\nTurn Text into Anime Art\n- Experience the thrill of transforming words into vibrant anime picture with our anime AI generator. Simply describe what you want, select an anime style, and watch as the AI Anime Generator weaves your prompts into intricate artworks brimming with emotion and wonder. From dynamic anime character to breathtaking landscapes, every creation is ready to adorn your device as stunning anime wallpaper.\n\nAnime Character Creator\n- Dive into a world of endless possibilities with our anime charact",
+    "icon": "/icons/com.tapuniverse.aianimegenerator.jpg"
+  },
+  "ai.notmagic.magic_anime_character_generator_nekoai_app": {
+    "title": "Neko AI - Anime Art Generator",
+    "package": "ai.notmagic.magic_anime_character_generator_nekoai_app",
+    "description": "\ud83c\udfa8Bring Your Imagination to Life with the Power of AI Anime Art!\nUnleash your creativity and transform simple text or photos into stunning anime-style artwork in seconds. Whether you're a die-hard anime fan, a gamer looking for a unique avatar, a VTuber building your online persona, or someone who just loves creative tools \u2014 this app is made for you.\n\n\ud83e\udde0AI Anime Generator \u2013 Powered by Advanced AI Technology\nSay goodbye to drawing skills and expensive software! Our app uses state-of-the-art AI to turn your ideas into high-quality anime images instantly. Just type a few words \u2014 like \u201ccyberpunk girl with purple hair\u201d or \u201csamurai warrior in the rain\u201d \u2014 and the AI draws it for you. You can also upload a selfie to generate anime versions of yourself or friends with custom filters and styles.\n\n\u2728Mai",
+    "icon": "/icons/ai.notmagic.magic_anime_character_generator_nekoai_app.png"
+  },
+  "com.tapuniverse.animefilter": {
+    "title": "AI Anime Filter - Anime AI",
+    "package": "com.tapuniverse.animefilter",
+    "description": "AI Anime Filter - Anime AI turns selfies into anime photo. An amazing anime face changer to transform yourself into an anime character.\n\n\ud83c\udfa8 Immerse yourself into the captivating world of anime where AI Anime Filter makes your dream comes true, turn you into your favorite comic or anime character. Personalize your appearance by describing details that you want to add to your anime photo.\n\n\u2728 AI Anime Filter - Anime AI helps you create a unique anime avatar based on your photos. Simply upload your image and this anime face changer will turn you into anime character in seconds. Whether it's your friend, your pet or an object, in just one click and it will turn your photo into anime stylized.\n\n\ud83c\udf8e Creates anime photo with AI Anime Filter. Select a picture and use anime face changer to anime yourse",
+    "icon": "/icons/com.tapuniverse.animefilter.jpg"
+  },
+  "com.measify.mangii": {
+    "title": "Mangii - AI Manga Generator",
+    "package": "com.measify.mangii",
+    "description": "Turn Your Imagination Into Manga with AI!\n\nJust type what you imagine \u2014 Mangii generates manga and anime art in seconds. No drawing skills needed. Just your imagination!\n\n\n\nMangii is the AI manga generator and anime art creator that turns your words into art. You type. AI draws. It's that simple.\n\n\n\n\ud83c\udfa8 12 Manga & Anime Art Styles\n\nPick your favorite and create!\n\n\u2022 Shonen \u2014 epic battles and action\n\n\u2022 Shojo Romance \u2014 beautiful love stories\n\n\u2022 Horror Manga \u2014 dark and scary thrills\n\n\u2022 Chibi Cute \u2014 adorable characters\n\n\u2022 Watercolor Anime \u2014 soft, painterly look\n\n\u2022 Mecha Sci-Fi \u2014 robots and futuristic worlds\n\n\u2022 Seinen Mature \u2014 detailed, realistic art\n\n\u2022 Manhwa \u2014 Korean digital webtoon style\n\n\u2022 Manhua Wuxia \u2014 Chinese martial arts\n\n\u2022 American Superhero \u2014 bold comic art\n\n\u2022 Ligne Claire \u2014 clean Europe",
+    "icon": "/icons/com.measify.mangii.png"
+  },
+  "ai.photo.generator.editor.fotos.ai.image.app.free": {
+    "title": "AI Photo Generator: Muselab AI",
+    "package": "ai.photo.generator.editor.fotos.ai.image.app.free",
+    "description": "AI Photo Generator: Muselab AI \u2013 AI Image Generator for Stunning Photos\n\nLooking for a AI photo generator that transforms your selfies into viral, realistic, and creative images in seconds? AI Photo Generator: Muselab AI is your all-in-one ai image generator and ai picture generator to create eye-catching social media photos with ease.\n\n\n\u2728 TURN YOUR SELFIE INTO STUNNING AI PHOTO\n\nWith our powerful AI photo generator & AI image generator, simply upload a selfie and watch it transform into high-quality, realistic image. Whether you want a professional avatar or a fun creative style, this AI picture generator delivers amazing results instantly.\n* Upload your photo \u2192 generate unique AI picture styles\n* Create lifelike AI portrait and AI photoshoot results\n* Try advanced AI filter and AI photo ",
+    "icon": "/icons/ai.photo.generator.editor.fotos.ai.image.app.free.jpg"
+  },
+  "com.upname.animeup": {
+    "title": "Anime AI: Photo Edit Style Art",
+    "package": "com.upname.animeup",
+    "description": "Change your photos into works of art with Artify AI, the ultimate AI-powered photo and video editor! Choose from hundreds of unique art filters, including manga, Pixar, comic, neon, LEGO, Simpsons, graffiti, zombie, watercolor, sumi-e, and more.\n\nWith Artify AI, you can: \n\n\ud83c\udfa8 Apply AI filters to create cartoons, paintings, sketches, or digital art.\n\n\ud83d\udd8c\ufe0f Explore famous art styles like Impressionism, Picasso, watercolor, and sumi-e.\n\n\ud83d\udc57 Edit characters: change hairstyles, clothing, facial expressions, and more.\n\n\ud83c\udf04 Swap or edit backgrounds with ease.\n\n\ud83c\udfac Animate photos into stunning videos and motion art.\n\n\ud83e\udddf\u200d\u2642\ufe0f Try unique styles like zombie horror or neon cyberpunk!\n\nWhether you want to create viral social media content, design your profile pictures, or simply explore your artistic side, Artify A",
+    "icon": "/icons/com.upname.animeup.png"
   }
 }
