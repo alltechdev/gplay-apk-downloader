@@ -31702,5 +31702,621 @@
     "package": "com.ai.summarizer",
     "description": "Unlock the power of instant knowledge with AI Summarizer! Tired of spending hours reading lengthy articles and blog posts? AI Summarizer delivers concise summaries in seconds, helping you grasp essential information quickly and efficiently.\n\nKey Features:\n\nInstant Article Summarization: Simply paste a URL or text, and our intelligent AI Summarizer will generate a clear, accurate summary. Get instant summaries of news, research papers, and more!\n\nPowerful Text Summarizer: Effortlessly summarize text from any source. Our advanced algorithms extract key insights, providing you with time-saving summaries you can rely on.\n\nURL Summarizer: Quickly summarize articles and blog posts directly from their URLs.\n\nComprehensive & Concise Summaries: Our summary generator delivers summaries that are both",
     "icon": "/icons/com.ai.summarizer.png"
+  },
+  "com.eightify": {
+    "title": "Eightify\u30fbAI Video Summarizer",
+    "package": "com.eightify",
+    "description": "Eightify: The Ultimate Video Summary Tool \ud83c\udfac\nTransform the way you engage with video content using Eightify, a cutting-edge summary tool designed to streamline your viewing experience. Eightify provides smart, AI-driven summaries so you can quickly grasp key insights from videos without watching them in full. For those who use videos as a source of information, Eightify is a real game-changer and time-saver, especially when you're uncertain if a video is worth your time. Over 100,000 users from 30+ countries use Eightify every day.\n Discover how Eightify can elevate your experience:\nKey Features \u2699\ufe0f:\n\n\u2002\u2022\u2002AI-Driven Summaries: Receive succinct and clear summaries of a video through our advanced AI technology, allowing you to grasp essential points swiftly.\n\n\u2002\u2022\u2002Instant TLDR Access: Obtain quick",
+    "icon": "/icons/com.eightify.webp"
+  },
+  "com.ai.summaryapp": {
+    "title": "AI Summary: Text & PDF Notes",
+    "package": "com.ai.summaryapp",
+    "description": "\ud83d\udcd8 AI Summary Notes \u2013 Summarize Anything, Instantly\nTurn long text, PDFs, and articles into clear, concise summaries using powerful AI \u2014 in seconds.\n\nAI Summary Notes is the smart text summarizer for students, professionals, and lifelong learners who want to understand information faster and save time on note-taking.\n\n\u2728 What You Can Summarize\nTextbook chapters & study notes\nPDF documents & research papers\nArticles, blog posts & web content\nMeeting notes & work documents\nAny long-form text you paste in\n\n\ud83e\udde0 AI-Powered Summarization\nOur AI summarizer instantly condenses long content into short, easy-to-read notes \u2014 no rewriting required.\n\ud83d\udcc2 Organize by Subject\nSave and sort your summaries by topic so you can find them instantly before exams or meetings.\n\ud83d\udcf1 Access Anytime, Offline\nYour summaries a",
+    "icon": "/icons/com.ai.summaryapp.png"
+  },
+  "com.tubeonai.app": {
+    "title": "TubeOnAI - Summarize Anything",
+    "package": "com.tubeonai.app",
+    "description": "TubeOnAI: The Ultimate YouTube & Podcast Summarizer \nOverwhelmed by the endless YouTube videos, podcasts, and articles created daily? \n\nAfraid of missing out on trending content or essential insights? \ud83e\udd72\n\nTubeOnAI is the solution you\u2019ve been waiting for! \n\n\u23f3Summarize anything with AI and get insights from your desired content in minutes. \nWhy TubeOnAI Stands Out\n\n\u25b6\ufe0f Summarize YouTube in Seconds \n\nGet quick summaries of YouTube videos and save hundreds of hours.\n\u2705 Learn a skill or prepare for exams without watching content for hours.\n\n\ud83c\udf99\ufe0f Smarter Podcast Consumption\n\nSummarize podcasts and get the core insights in just a few minutes.\n\u26a1 Stay updated on industry trends or personal topics effortlessly.\n\n\ud83c\udf0d Insights from Any Web Content\n\nSummarize Google Drive files, PDFs, and online articles with",
+    "icon": "/icons/com.tubeonai.app.png"
+  },
+  "com.innovapp.meeting.ai.note.taker": {
+    "title": "AI Note Taker & Summarizer",
+    "package": "com.innovapp.meeting.ai.note.taker",
+    "description": "AI Note Taker & Summarizer APP\nTransform your notes with AI Note Taker, the ultimate app that uses artificial intelligence to transcribe and summarize content from voice, videos, and audio recordings. Whether managing meeting minutes \ud83d\udd52, summarizing lectures \ud83d\udcda, or converting speech into text \ud83c\udf99\ufe0f, AI Note Taker has got you covered. Stay productive with features like AI meeting note-taking, voice-to-text transcription, and video transcribing to text. \ud83d\ude80\u2728\n\nWhy Choose AI Note Taker?\nAI Note Taker combines powerful AI capabilities \ud83d\udca1 with advanced speech-to-text technology \ud83c\udfa4, saving you time and boosting productivity \ud83d\udcc8. Convert audio into accurate transcriptions \ud83d\udcdc and concise summaries \u2705\u2014perfect for personal, academic, or professional use.\n\nKey Features\n\nAI-Powered Voice Recording & Live Transcript",
+    "icon": "/icons/com.innovapp.meeting.ai.note.taker.png"
+  },
+  "com.document.ai.documentai": {
+    "title": "PDF AI: Document Summarizer",
+    "package": "com.document.ai.documentai",
+    "description": "Combine PDF, Excel, Word, PowerPoint, webpages, video links and audio files into one AI conversation. Resource AI creates a single, source-grounded summary, answers questions across all your materials, and turns overload into clear notes you can share.\n\nWhat you can do\n\u2022 Ask one question and get an answer that draws from every source you added.\n\u2022 Generate concise summaries, highlights and action items.\n\u2022 Create smart notes with citations; copy as text/Markdown.\n\u2022 Keep context: add more files or links later, continue the same chat.\n\u2022 Multilingual Q&A and summaries.\n\nWorks with these sources\n\u2022 Documents: PDF, Word, PowerPoint, Excel/CSV.\n\u2022 Media & web: video links (with transcripts), audio files, webpages and articles.\n\nWhy Resource AI\n\u2022 Unified, multi-source workflow \u2014 no tab hopping. Bring",
+    "icon": "/icons/com.document.ai.documentai.png"
+  },
+  "ai.text.summarizer.summary.analysis": {
+    "title": "AI Summarizer: Text Analysis",
+    "package": "ai.text.summarizer.summary.analysis",
+    "description": "Transform hours of reading into minutes with an AI-powered text summarizer that extracts key insights from any document. Our intelligent summarization technology combines advanced text analysis with sentiment detection to help you make faster, better-informed decisions during busy workdays.\n\nIntelligent Document Summarization\nCondense lengthy articles, business reports, and research papers in seconds while preserving critical meaning. Our AI summarizer captures key points with contextual understanding, helping you absorb information without reading every word. Process multiple documents quickly and reclaim valuable time for strategic work.\n\nAdvanced Sentiment Analysis Technology\nUncover the emotional tone behind any text instantly. Analyze customer feedback, news articles, team communicati",
+    "icon": "/icons/ai.text.summarizer.summary.analysis.png"
+  },
+  "com.codespaceapps.meetingtranscriber": {
+    "title": "Smart Noter - AI Note Taker",
+    "package": "com.codespaceapps.meetingtranscriber",
+    "description": "Smart Noter is a professional AI-powered meeting notes app that records, transcribes, and summarizes conversations with a single tap. Designed for teams, professionals, and students who need accurate speech-to-text conversion from any voice recording, Smart Noter removes manual note-taking and delivers structured, actionable results instantly. Capture lecture notes, transcribe business meetings, or document interviews \u2014 your AI note taker handles the details so you can stay focused on the conversation.\n\n\u2714\ufe0f Record & transcribe with precision\n\nTurn any conversation into searchable, speaker-labeled text with Smart Noter\u2019s advanced transcription engine. Use it as a voice recorder for meetings, a lecture recorder for academic sessions, or an audio recorder for interviews and podcasts. The speec",
+    "icon": "/icons/com.codespaceapps.meetingtranscriber.png"
+  },
+  "com.editpad.essay_writer_app": {
+    "title": "AI Essay Writer",
+    "package": "com.editpad.essay_writer_app",
+    "description": "AI Essay Writer app allows you to generate unique and informative essays quickly in a matter of seconds. You can make different types of essays online in various lengths according to your needs and requirements.\n\nThe Essay Generator app has many helpful features that you can use for free without any Signup or paid subscription.\n\nHow to Use AI Essay Writer App?\nHere is how you can use our AI essay writer application:\n\u2714 Download the app and launch it\n\u2714 Enter the topic of the essay in the provided space\n\u2714 Select the length of the essay as per your requirements\n\u2714 Select the type of essay you want to have written (Basic, Persuasive, etc.)\n\u2714 Enable the \u201cAdd Reference\u201d or \u201cBypass AI\u201d features if needed\n\u2714 Tap on the \u201cWrite My Essay\u201d button to start the essay generation process\n\nFeatures of our Ess",
+    "icon": "/icons/com.editpad.essay_writer_app.png"
+  },
+  "com.instabridge.android": {
+    "title": "Instabridge: WiFi Hotspot Map",
+    "package": "com.instabridge.android",
+    "description": "The WiFi Hunt is Over! Fast and Secure Public WiFi Hotspot Map \n\nTired of searching for WiFi everywhere you go? Instabridge\u2019s WiFi Hotspot map connects you instantly, saving you the hassle of asking for passwords or hunting for networks. With an offline WiFi Hotspot map, it\u2019s the perfect travel companion\u2014fast, secure, and easy to use.\n\nInstabridge is more than a WiFi app\u2014it\u2019s your all-in-one connectivity and communication tool. With millions of secure WiFi hotspots worldwide, Instabridge keeps you connected wherever you go. Its integrated Caller ID helps you identify calls, block spam, and stay in control of your communication\u2014no more answering unknown numbers.\n\nJoin a global community sharing WiFi access across 20+ million networks and growing daily! Instabridge helps you connect for free",
+    "icon": "/icons/com.instabridge.android.png"
+  },
+  "com.anz.android.gomoney": {
+    "title": "ANZ Australia",
+    "package": "com.anz.android.gomoney",
+    "description": "See your statements anytime, temporarily block your card if it\u2019s misplaced and more.\n\nJoin over 4 million users using the ANZ App.\n\nTake care of the day to day\n\u2022 Pay people and bills on the move with Pay Anyone, PayID and BPAY\u00ae.\n\u2022 Update your mobile number, email, address and more in Profile.\n\u2022 If you're an existing customer, you can apply for an ANZ Access Advantage or ANZ Progress Saver account in minutes (1).\n\u2022 If you\u2019re looking to open an everyday transaction account and a savings account, you can download the new ANZ Plus app. Search for ANZ Plus in the Play Store (2).\n\nGet down to business\nIf you\u2019re a sole trader or run a single director company you can open a business account in the ANZ App in just a few minutes (1). Plus get paid quickly with PayID\u00ae (3), schedule payments, and stay"
+  },
+  "com.essay.writer.ai.pro": {
+    "title": "AI Essay Writer",
+    "package": "com.essay.writer.ai.pro",
+    "description": "AI Essay Generator \u2013 Free AI Essay Writer for Fast, Clear & Original Essays\n\nAI Essay Writer app allows you to generate unique and informative essays quickly in a seconds. With our ia Essay writer app & AI Assignment Writer you can make different types of essays online in various lengths according to your needs and requirements\n\nThis is where the AI Essay Writer Android app comes into play, revolutionizing the ai writing process with its advanced AI-powered features, including the AI Essay Writing app free and AI Essay Generator.\n\nAI Assignment writer - ai Essay Generator app has many helpful features that you can use for free without any Signup or paid subscription.\n\n How you can use our AI essay writer free app: \n\u2714Launch the app First ia Essay Writer free\n\u2714 Enter the topic provided space",
+    "icon": "/icons/com.essay.writer.ai.pro.jpg"
+  },
+  "com.app.essaywriter": {
+    "title": "AI Essay Writer",
+    "package": "com.app.essaywriter",
+    "description": "The AI essay writer is an online app built for essay writers to help them quickly generate essays of different types and lengths. It uses advanced AI models to write essays that are compelling, and clear.\n\nHow to Use the Essay AI Writer App?\n\nBelow are a few simple steps to use this essay writer free app:\n\u25c9 Enter your essay topic in the input box of the app.\n\u25c9 Select the type and length of your essay.\n\u25c9 Now, enable one of the advanced features that are; \u201cBypass AI\u201d or \u201cAdd Reference\u201d.\n\u25c9 Press the \u201cGenerate Essay\u201d button of the essay writing app.\n\u25c9 Our essay generator app will write the essay within a few seconds.\n\u25c9 Now, you can either \u201cDownload\u201d your essay or \u201cCopy to Clipboard\u201d.\n\nKey Features of Our AI Essay Writer Free App\nHere are the advanced features of our AI essay writer app:\n\n\u25c9 Lat",
+    "icon": "/icons/com.app.essaywriter.png"
+  },
+  "com.app.ai.essay.writer": {
+    "title": "AI Essay Writing-Essay Writer",
+    "package": "com.app.ai.essay.writer",
+    "description": "Title: AI Essay Writer: Unlocking Boundless Writing Potential with the Power of Artificial Intelligence\n\nIn today's fast-paced world, the ability to effectively communicate ideas through writing has become an indispensable skill. Whether it's for academic purposes, professional endeavors, or personal expression, the demand for well-crafted essays is ever-present. However, not everyone possesses the natural talent or the luxury of time to produce high-quality essays consistently. This is where the AI Essay Writer Android app comes into play, revolutionizing the writing process with its advanced AI-powered features, including the AI Essay Writer and Essay Generator.\n\nSome Quick Features & Benefits - \n\nUnleashing the AI Essay Writer:\nThe AI Essay Writer feature of the Android app is a game-ch",
+    "icon": "/icons/com.app.ai.essay.writer.png"
+  },
+  "com.essayness.essay_writer": {
+    "title": "AI Essay Writer & Humanizer",
+    "package": "com.essayness.essay_writer",
+    "description": "Essayness AI Essay Writer is an innovative online app designed to help you automatically generate academic, narrative, descriptive, comparative, and other types of essays. It uses cutting-edge AI technology and Natural Language Processing to precisely interpret users\u2019 prompts and generate relevant essays.\n\nWhether you\u2019re a student or teacher, the essay writer free app is a go-to solution for getting perfect essays.\nHow to Use the Essayness: AI Essay Writer Free App?\nHere are some simple steps to use the AI essay writing application:\nDownload the Essayness app and install it.\nInput your essay topic into the essay writing app.\nSpecify the Essay Type and Length, as per your requirements.\nOptionally, enable the advanced features of our essaytyper i.e., Bypass AI & Add References.\nClick the \u201cWr",
+    "icon": "/icons/com.essayness.essay_writer.jpg"
+  },
+  "net.cleanapps.writer": {
+    "title": "Essay Writer: AI Paragraph",
+    "package": "net.cleanapps.writer",
+    "description": "Welcome to Essay Writer, the cutting-edge mobile application designed to assist students, professionals, and anyone in between with their writing needs. Offering a minimalistic design combined with powerful functionality, Essay Writer provides an unlimited number of essays, abstracts, and much more. Whether you need help with homework, college application essays, or work correspondence, Essay Writer is your go-to solution. \n\nExperience AI-Powered Excellence with Essay Writer\n\nAt the heart of Essay Writer is our advanced ai writer technology, specifically tailored to generate high-quality content across various topics. Our AI essay writer is not just a simple essay helper; it's a comprehensive ai writing assistant designed to produce structured, coherent, and engaging content. Whether you'r",
+    "icon": "/icons/net.cleanapps.writer.png"
+  },
+  "com.alhaiSofts.essayWrtiter.paraphraser.summarizer": {
+    "title": "AI Essay Writer",
+    "package": "com.alhaiSofts.essayWrtiter.paraphraser.summarizer",
+    "description": "AI Essay Writer: Essay Typer & Generator App : Unlock the power of intelligent writing with AI Essay Writer \u2013 your ultimate essay generator, essay maker and writing assistant!\n\nWhether you're a student, researcher, or professional, this all-in-one AI Essay Writer app helps you write smarter, faster, and better. From generating full essays to paraphrasing and summarizing academic content, this essay generator app is your intelligent writing companion.\n\n\ud83d\ude80 Boundless Writing Potential:\nUnlock the power of AI to generate essays faster than ever. Just input your topic, select your essay type, tone, length, level, and keywords\u2014and let our AI Essay Writer App do the rest. Choose from High School, College, University, or Professional levels and customize your essay with AI creativity percentage, ci",
+    "icon": "/icons/com.alhaiSofts.essayWrtiter.paraphraser.summarizer.png"
+  },
+  "com.editpad.paragraph_generator": {
+    "title": "AI Paragraph - Essay Writer",
+    "package": "com.editpad.paragraph_generator",
+    "description": "AI Paragraph Writer, AI Essay Writer, AI Story Generator, & AI Text Rewriter\nEnjoy high quality writing experience using our AI paragraph Generator, Essay Writer, Story Generator, and Text Rewriter tools. Our app can enhance your creativity and writing productivity.\n\nAI Paragraph Generator & Writer\u2728\nThe AI paragraph writer is an online app that is developed to help users write customized paragraphs around any topic. This AI text generation writing app uses the latest natural language processing technology and neural network AI to generate well-structured, clear, and plagiarism-free paragraphs.\n\u21aa Key features of AI Paragraph Generator;\nAI Writing: It uses advanced AI technology to accurately understand prompts and write relevant paragraphs.\n\u2714 Highly Creative: It generates creative paragraph",
+    "icon": "/icons/com.editpad.paragraph_generator.png"
+  },
+  "com.aiessaywriter.essaywritefreeai": {
+    "title": "AI Essay Writer",
+    "package": "com.aiessaywriter.essaywritefreeai",
+    "description": "AI Essay Writer application helps to write professional, Students, assignment and more, solving with their writing requirements. With powerful AI and a smooth interface, it's become so useful app for globally. So AI Essay Writer is the best solution for homework, job assignments, College assignment with unlimited essays and writing jobs. To generate high-value content like various subject not only essays. This AI Essay writer, write any kind of content withthe best heading, outline, paragraph, concept, reference, and more.  \n\nTo write a quick paragraph or also need a long-term essay, our AI Essay Generator has an excellent capacity to done any hard work easily. You can generate and write an AI essay for short, medium, and long texts. So users can choose any kind of word length to write the",
+    "icon": "/icons/com.aiessaywriter.essaywritefreeai.png"
+  },
+  "com.ai.essaygenerator.novel": {
+    "title": "AI Essay Writer",
+    "package": "com.ai.essaygenerator.novel",
+    "description": "Write Smarter with the AI Essay Writing app.\n\nUnleash the power of artificial intelligence and transform your writing experience with the AI Essay Writer and Novel AI Generator. Whether you're a student looking for a reliable AI Essay Writing App, an aspiring author crafting your next story using a Book Writing AI, or a content creator in need of structured content, this all-in-one writing assistant is built to help you create high-quality, original, and structured text in seconds.\n\nThis app functions as both an AI Essay Generator combining advanced natural language processing with user-friendly customization to give you complete control over your writing.\n\n\u270d\ufe0f How It Works \u2013 Simple Steps to Generate Content:\nEnter Your Prompt: Start by typing your idea, topic, or question. The app will use",
+    "icon": "/icons/com.ai.essaygenerator.novel.png"
+  },
+  "com.eminent.aiwriter": {
+    "title": "AI Essay Writer",
+    "package": "com.eminent.aiwriter",
+    "description": "The AI Essay Writer Android app is a solution for people who struggle with essay writing.  In today's world, strong writing skills are essential, but not everyone has the time to produce high-quality essays. This app uses AI to help users create well-written essays for academic, professional, or personal use.\n\nSome Quick Features & Benefits -\n \nUsing State of the art AI software:\nStruggling with your essay? Let the AI Essay Writer take the lead. It uses powerful AI to quickly generate a detailed outline, saving you time and effort.\n\nQuick Essay Writing App:\nWatch your ideas come to life. Our AI Essay Writer crafts eloquent essays from your details.\n\nMultilingual Essay Writing App:\nWrite impressive essays in English, Spanish, Filipino, French, Portuguese and more languages with language-spe",
+    "icon": "/icons/com.eminent.aiwriter.png"
+  },
+  "com.bds.chat_gpt_app": {
+    "title": "AI Essay Writer",
+    "package": "com.bds.chat_gpt_app",
+    "description": "Introducing the ultimate essay writing tool that takes your academic writing to a whole new level! With a simple and user-friendly interface, our app offers a range of features to help you craft high-quality essays in no time. Simply input your topic and let our Most Advanced AI create a unique and original piece of content for you.  Our app is perfect for students, writers, and professionals who want to save time and produce the highest quality content. \n\nThis revolutionary AI-powered essay writer is the perfect solution for anyone struggling with writing assignments. Our cutting-edge tool is designed to help students and professionals alike produce exceptional essays effortlessly. With its sophisticated AI technology, our essay writer can generate high-quality essays on a wide range of t",
+    "icon": "/icons/com.bds.chat_gpt_app.png"
+  },
+  "live.safecalls.essay": {
+    "title": "AI Writing: Essay",
+    "package": "live.safecalls.essay",
+    "description": "Introducing our innovative essay writing AI tool for students, professionals, and anyone in need of high-quality, well-written essays. This app is designed to make the essay writing process easier, faster, and more efficient than ever before.\n\nThe process is simple: all you have to do is input your topic, select the type of essay you need, and let our app to do the rest. Our AI algorithms will analyze your topic and generate a comprehensive essay that is tailored to your specific needs.\n\nWhether you're working on a research paper, a college application essay, or a business proposal, our AI-powered app can help you produce a polished and professional piece of writing.\n\nWith features such as a built-in grammar checker and plagiarism detector, our app makes it easy to ensure that your essay i",
+    "icon": "/icons/live.safecalls.essay.png"
+  },
+  "io.sp.ai.writer": {
+    "title": "AI Essay Writing Assistant",
+    "package": "io.sp.ai.writer",
+    "description": "Looking for a smarter way to handle Essay Writing? AI Essay Writer is your personal writing assistant, built to make Essay Writing faster, easier, and less stressful. Whether you need help with school assignments, research papers, university work, or professional reports, this AI Essay app helps you create clear, high-quality content in minutes.\n\nWith powerful AI Essay Writing technology, you can brainstorm ideas, build strong outlines, generate full drafts, and improve your final version with ease. Instead of struggling with writer\u2019s block, let AI Essay Writer guide your Essay Writing process from start to finish.\n\nWhy Choose AI Essay Writer?\n\nEssay Writing can take a lot of time, especially when deadlines are close. AI Essay Writer is designed to solve that problem by giving you instant ",
+    "icon": "/icons/io.sp.ai.writer.jpg"
+  },
+  "com.fullstack.aiessaywriterapp": {
+    "title": "AI Essay Writer",
+    "package": "com.fullstack.aiessaywriterapp",
+    "description": "\"AI Essay Writer\" helps you to effortlessly compose coherent, well phrased, academic type essays. If you are a learner, a scholar, or a working class, this app writes captivating essays on any given topic in a span of seconds. Change the way you want the content - tone, style, length, and let the AI complete it.\n\nKey Features:\n\nAI-Written Essays On Any Topic: With the help of the \"AI Essay Writer\" which is your personal AI Essay Generator, you can compose complete essays on any topic.\n\nFlexible Indicies: Pick a tone (neutral, formal, etc.), style, and length that you may require.\n\nEasy to Use: Type a topic and use the app to get a completed essay on that topic\n\nCross Cutting Projects: Best suited for students, researchers, writers, and all professionals looking for essays with structures.\n",
+    "icon": "/icons/com.fullstack.aiessaywriterapp.png"
+  },
+  "com.gonext.aiessaywriter": {
+    "title": "AI Article & Essay Writer",
+    "package": "com.gonext.aiessaywriter",
+    "description": "\u270d\ufe0f Write, rewrite, and improve content with ease\nAI Article & Essay Writer Pro helps Write essays, rewrite articles, and improve texts easily. It is useful for everyday writing tasks, whether you are helping someone with learning, working on content, or managing written work more efficiently.\n\nFrom assignments and notes to emails and documents, you can generate, rephrase, and summarize text in a simple and clear way without needing advanced writing skills.\n\n\ud83d\udccc Features\n\u2022 AI Essay Writer\nGenerate essays on any topic with adjustable length and writing levels from basic to advanced. Supports multiple formats like analytical, descriptive, and persuasive writing.\n\n\u2022 Article Rewriter\nRewrite existing content with improved clarity while preserving the original meaning. Adjust tone, level, and leng",
+    "icon": "/icons/com.gonext.aiessaywriter.jpg"
+  },
+  "com.smartwriter.smart_writer": {
+    "title": "Smart Writer: AI Writer",
+    "package": "com.smartwriter.smart_writer",
+    "description": "Smart Writer Ai can help you be more productive and write smarter. Whether crafting the perfect tweet or writing an email or blog post, Smart Writer can assist you in every aspect of content creation. Powered by artificial intelligence, Smart Writer provides support with spelling, grammar, and word choice, offering valuable insights into your writing assignments' structure and phrasing. Additionally, it helps create intelligent social media posts, attention-grabbing headlines, and convincing arguments.\n\nDiscover the amazing Smart Chat+ feature in Smart Writer AI, an incredible chatbot that's as good as or even better than ChatGPT Plus! Smart Chat+ is designed to make chatting a breeze, giving you lifelike conversations, understanding context, and offering natural, flowing responses. You ca",
+    "icon": "/icons/com.smartwriter.smart_writer.png"
+  },
+  "com.ai.essay.writer.app": {
+    "title": "AI Essay Writer - AI Chatbot",
+    "package": "com.ai.essay.writer.app",
+    "description": "Are you struggling to create high-quality content for your website, social media profiles, or to write Essays?\n\nAI Essay Writer app allows you to generate unique and informative essays quickly in a matter of seconds. \n\nYou can make different types of essays online in various lengths according to your needs and requirements",
+    "icon": "/icons/com.ai.essay.writer.app.png"
+  },
+  "com.codingguruji.smartessay": {
+    "title": "AI Essay Writer - Smart Essay",
+    "package": "com.codingguruji.smartessay",
+    "description": "Transform your writing experience with Smart Essay - the ultimate AI Essay Generator that crafts perfect essays in seconds!\n\nWhether you're a student, researcher, or professional, our advanced AI Writer is here to help you create outstanding academic content. Our intelligent Essay AI technology understands your requirements and delivers exceptional results every time.\n\n\ud83d\udcdd Key Features of our AI Essay Writer:\n\n    Multi-Language Support: Generate essays in 14 languages including English, Spanish, Chinese, and more\n    Academic Excellence: Covers all academic levels from High School to Doctoral\n    Versatile Writing Styles: Choose from Analytical, Argumentative, Descriptive, Narrative, and more\n    Professional References: Support for multiple citation styles including APA, MLA, Chicago, and ",
+    "icon": "/icons/com.codingguruji.smartessay.png"
+  },
+  "com.kuemiin.claim": {
+    "title": "Payout: Claim & Class Action",
+    "package": "com.kuemiin.claim",
+    "description": "Get Your Payout - Claim Cash from Class Action!\nWith Payout: Claim & Class Action, you receive cash from claim settlements you qualify for \u2013 claim make them pay without lawyers or fees.\nBillions in payout payments remain unclaimed each year. You might have a claim cash waiting from data breaches, false advertising, or defective products. You only need a minute to get started. You find the case in the claims hub, submit a claim, and track your payout easily. \nKey Features:\nSearch class action cases quickly inside claims center\nSubmit a claim in just seconds with no paperwork or proof needed\nTrack payout from estimated to payout payment\nGet smart alerts when new class action opens so you never miss claim cash\nClaim make them pay and collect extra money\nYou can claim make them pay right now -",
+    "icon": "/icons/com.kuemiin.claim.png"
+  },
+  "com.myvirtualmission.android": {
+    "title": "My Virtual Mission",
+    "package": "com.myvirtualmission.android",
+    "description": "\u201cThe visual representation will help keep you motivated and focused as well as giving you some bragging rights with your friends.\u201d - The Running Bug\n\n\"Guaranteed to motivate even the most cynical of cyclists, My Virtual Mission, enables you to work towards one massive goal.\" - The Cycling Bug\n\n\"This app allows you to set an ultimate goal and then you can work towards it. You set up a virtual journey on the app and every mile you cycle, run, walk or swim is plotted on the virtual journey. This is fun and motivational.\u201d - Techfeast\n\nWant to get fit, stay healthy, lose weight and STAY MOTIVATED for running, walking, cycling, swimming, rowing etc?\n\nMap out a long distance virtual mission and then make every exercise session count towards completing it. Every mile/km you exercise counts as a mi",
+    "icon": "/icons/com.myvirtualmission.android.png"
+  },
+  "com.verily.me": {
+    "title": "Verily Me",
+    "package": "com.verily.me",
+    "description": "Say hello to Verily Me - the app that unlocks your health. \n\n**If your employer or health insurance offers Lightpath or Onduo, see the directions below.  \n\nVerily Me is a free healthcare app that helps you make sense of your health. If you\u2019re 18 or older, you can use Verily Me to get personalized, preventive health recommendations from our team of licensed providers, based on a holistic view of your medical history from multiple providers and networks. One app. One login. It\u2019s that easy. Periodically request a free care review, where licensed providers review your latest records to provide updated preventive screening recommendations. Ask Violet, your private AI companion, questions about your health record, symptoms, general health education, and support for overall well-being.  Unlike ge",
+    "icon": "/icons/com.verily.me.png"
+  },
+  "com.dreamlab.aiessaywriter": {
+    "title": "EssayMate: AI Essay Writer",
+    "package": "com.dreamlab.aiessaywriter",
+    "description": "Struggling to write essays, assignments, or reports? EssayMate: AI Essay Writer is a powerful AI writing assistant that helps you generate well-structured essays, paragraphs, and academic content in seconds.\nSimply enter your topic, choose the essay type, and let the AI generate a clear, organized, and easy-to-read essay instantly. Whether you are a student, blogger, researcher, or professional, EssayMate helps you save time and improve productivity.\n\nPerfect for writing school essays, argumentative essays, persuasive essays, research summaries, and general writing tasks.\nSmart AI Essay Generation\nGenerate complete essays from any topic in seconds. The AI creates clear introductions, well-organized body paragraphs, and strong conclusions.\nJust type your topic and let the app handle the wri",
+    "icon": "/icons/com.dreamlab.aiessaywriter.png"
+  },
+  "com.app.writecream": {
+    "title": "Writecream - AI Content Writer",
+    "package": "com.app.writecream",
+    "description": "Whether you are a wannabe writer or a professional one, Writecream can help you save hours by using AI to generate any form of written content in minutes.\n\nHere are the main features of the app:\n\n\ud83d\udca5 It's FREE! \ud83d\udca5\n\u2b50\ufe0f AI will automatically write content for you that is unique and free of plagiarism\n\u2b50\ufe0f Generate intro/opening paragraphs, conclusion/ending paragraphs and outline (outline is a\nlist of sections and sub-sections in an article/book)\n\u2b50\ufe0f Automatically generate written content for all sections and sub-sections\n\u2b50\ufe0f Put together all the generated outputs to complete your book/article/script.\n\ud83d\udcad Skip writer's block with automated content ideas for scripts, blog articles, and more.\n\u2b50\ufe0f Expand on existing piece of written content\n\u2b50\ufe0f Create custom A.I tools for your own use case\n\u2b50\ufe0f Step by step ",
+    "icon": "/icons/com.app.writecream.png"
+  },
+  "com.bitburst.ai_essay_writer": {
+    "title": "AI Essay Writer",
+    "package": "com.bitburst.ai_essay_writer",
+    "description": "Welcome to \"AI essay writer\" - your ultimate companion for crafting flawless essays effortlessly! \ud83d\ude80\n\nStruggling with essay writing? Fear not! Our advanced AI technology is here to simplify the process for you. Simply input your essay topic, choose from a variety of tones such as informative, narrative, or analytical, and select your desired length and academic level. Our app will generate a tailored essay that meets your specifications in seconds! \ud83d\udca1\n\nWith \"AI essay writer,\" you can say goodbye to writer's block and hello to top-notch compositions. Whether you're a student in need of academic assistance or a professional seeking polished content, our app has you covered. \u270d\ufe0f\n\nKey Features:\n\ud83e\udd16 AI-Powered Essay Generation: Instantly generate essays on any topic with our cutting-edge AI technolo",
+    "icon": "/icons/com.bitburst.ai_essay_writer.png"
+  },
+  "com.brb.ai.writing.tools.mr": {
+    "title": "AI Write: All Writing Tools",
+    "package": "com.brb.ai.writing.tools.mr",
+    "description": "AI Write: All Writing Tools helps you write better and faster using AI. You can create essays, articles, stories, summaries, paraphrased text, conclusions and fix grammar using AI writing tools. It is useful for students, professionals, writers and anyone who wants clear, organized and well-written text for study, work or content.\n\n\u2b50 MAIN AI WRITING TOOLS\n\n\u270d Essay Writer\nCreate structured essays from a given topic with options for length & writing level.\n\ud83d\udd39 Features: References, human-like writing, copy, share & download (.txt / .pdf)\n\n\ud83d\udcdd Text Summarizer\nConvert long paragraphs into short and clear summaries for study & notes.\n\ud83d\udd39 Options: Summary length control, paste, sample text, import (.txt)\n\n\ud83d\udcf0 Article Writer\nGenerate articles with adjustable tone, rewriting style & complexity.\n\ud83d\udd39 Result v",
+    "icon": "/icons/com.brb.ai.writing.tools.mr.png"
+  },
+  "com.editpad.prompt.generator": {
+    "title": "AI Prompt Generator App",
+    "package": "com.editpad.prompt.generator",
+    "description": "Generate creative, custom, and journal prompts with our AI prompt generator app. Our prompt AI maker can ignite your imagination and open new doors of writing.\n\nOur AI Prompt Generator is an AI-powered app that is developed to help users automatically generate creative, imprinting, and personalized prompts. Whether you\u2019re a poet, blogger, student, or journal writer,  the prompt generator app can adapt to your writing needs.\n\nOur prompt AI writing app can help you overcome writer\u2019s block and communication barriers with AI. Plus, it is a perfect solution to unlock inspiration and creativity for writers at any level.\n\nHow to Use the AI Prompts Generator App?\nFollow the below listed simple steps for writing prompts using our AI prompt generator;\n1. Download and install our AI prompt generator ",
+    "icon": "/icons/com.editpad.prompt.generator.png"
+  },
+  "com.prompt_generator.ai_prompt_generator": {
+    "title": "AI Prompt Generator",
+    "package": "com.prompt_generator.ai_prompt_generator",
+    "description": "Looking for the best AI Prompt Generator? This app turns any image into a perfect, detailed and structured prompt instantly.\n\nWhether you create AI art, edit photos, or design creative content, this tool generates high-quality prompts with one tap.\n\n Key Features\n\u2022 Image to Prompt Converter (Photo \u2192 Text Prompt)\n\u2022 Generate detailed AI art prompts\n\u2022 Works with AI tools like Gemini, Stable Diffusion, Midjourney and more\n\u2022 One-Tap prompt creation\n\u2022 Clean and fast user interface\n\u2022 Accurate and descriptive results\n\n Why Use This App?\nStop struggling to write prompts. This AI analyzes your image and builds a clear, creative, and high-quality prompt that improves the AI output quality.\n\nBest For\n\u2022 Artists & Designers \ud83c\udfa8\n\u2022 Content Creators \u2728\n\u2022 Photographers & AI Enthusiasts \ud83d\udcf8\n\nSimple. Fast. Accurat",
+    "icon": "/icons/com.prompt_generator.ai_prompt_generator.png"
+  },
+  "com.aiimage.prompts.aiimageprompts": {
+    "title": "Inspix - AI Prompt Generator",
+    "package": "com.aiimage.prompts.aiimageprompts",
+    "description": "Transform your creativity with Inspix - AI Prompt Generator, your all-in-one app for powerful, ready-to-use prompts designed for the latest AI tools like ChatGPT, Gemini, Midjourney, DALL\u00b7E, Stable Diffusion, Leonardo AI, and Claude. Whether you're creating stunning AI photos, realistic portraits, aesthetic images, or unique digital art, Inspix - AI Prompt Generator gives you the perfect prompts to generate high-quality outputs instantly.\n\nFrom trendy concepts to artistic portraits, Inspix - AI Prompt Generator helps beginners, creators, and professionals explore endless AI-generated possibilities with just one tap. No need to learn complicated prompt-writing, simply copy the prompt and paste it into your favorite AI Tool.\n\n\u26a1 What You Can Do With Inspix - AI Prompt Generator\n\u2794 Create reali",
+    "icon": "/icons/com.aiimage.prompts.aiimageprompts.png"
+  },
+  "com.nightowl.aiprompt": {
+    "title": "Pic Prompt - AI Image Prompt",
+    "package": "com.nightowl.aiprompt",
+    "description": "Image Prompt Generator \u2013 Smart AI Prompts for Images, Art & Photography\nImage Prompt Generator is a clean, modern AI prompt app that gives you high-quality prompts for creating stunning photos, artwork, logos, stickers, and digital visuals.\nDesigned for ChatGPT, Gemini AI, Midjourney, DALL\u00b7E, Stable Diffusion, and more \u2014 it helps you generate the exact style you want with clear, detailed text prompts.\nIf you're searching for an AI prompt generator for photos, an AI prompt generator for images, or even an AI prompt generator free alternative, this app delivers a complete library of ready-made prompts crafted for creativity and professional results.\nThis is a prompt-only tool \u2014 it does not generate images.\nIt gives you the perfect text prompt to paste into your favorite AI model.\n\ud83c\udf1f Why Image",
+    "icon": "/icons/com.nightowl.aiprompt.png"
+  },
+  "com.creativeapp.vidprompt": {
+    "title": "PromptKey: AI Prompt Generator",
+    "package": "com.creativeapp.vidprompt",
+    "description": "Want to make the kind of AI videos that go viral on social media?\n\nPromptKey makes it easy for anyone to create stunning, viral-ready AI videos. Whether you want to join the latest trend or bring a wild idea to life, PromptKey helps you get great results every time.\n\nKey Features\n\u2022 Explore & Recreate Viral Trends: Browse an extensive library of 600+ trending video templates and reveal the underlying \"recipe\" to recreate it instantly.\n\u2022 Smart Prompt Helper: Turn simple ideas (like \u201ca cat in space\u201d) into detailed, polished scripts that AI understands and follows perfectly.\n\u2022 Instant Enhancement: Automatically add the cinematic touches\u2014lighting, cinematography, visual styles\u2014to ensure high-quality results every time.\n\nPrivacy Policy: https://www.promptkey.io/privacy-policy\nTerms of Service: h",
+    "icon": "/icons/com.creativeapp.vidprompt.png"
+  },
+  "app.aipromptslibrary.com": {
+    "title": "Ai Prompts- Prompt Engineering",
+    "package": "app.aipromptslibrary.com",
+    "description": "\ud83e\udde0 Master AI with Courses, Templates & Prompt Agent\n\nUnlock the full potential of Artificial Intelligence with Ai Prompts, the all-in-one platform for learning Prompt Engineering and leveraging the best AI tools. Whether you're a developer, a teacher, a marketer, or a project manager, our app provides the training and templates you need to become an AI master.\n\n\ud83d\udcda Comprehensive AI Mastery Courses\nOur expert-led courses transform beginners into advanced AI users, covering everything from foundational concepts to specialized applications:\n\nPrompt Engineering Mastery: Learn the core techniques to get precise, high-quality outputs from any large language model (LLM).\n\nVibe Coding Mastery: Discover how to use AI for creative, artistic, and unique code generation.\n\nAI Agents Mastery: Build, manage",
+    "icon": "/icons/app.aipromptslibrary.com.png"
+  },
+  "com.promzy.app": {
+    "title": "Promzy \u2013 AI Prompt Generator",
+    "package": "com.promzy.app",
+    "description": "Unlock your creativity with Promzy, the all-in-one AI Prompt Generator and Saver for ChatGPT, Midjourney, DALL\u00b7E, and other AI tools.\n\nEasily discover, organize, and save your favorite prompts \u2014 all in one place. Whether you're creating art, writing, coding, or generating ideas, Promzy helps you find inspiration instantly.\n\n\ud83d\udca1 What You Can Do\n\n\ud83e\udde0 Discover AI Prompts \u2014 Explore a growing library of high-quality prompts across dozens of categories, updated regularly.\n\ud83c\udfa8 Image Prompts \u2014 Perfect for Midjourney, DALL\u00b7E, Leonardo AI, and more.\n\ud83d\udcac Text Prompts \u2014 Ready for ChatGPT, Gemini, Claude, and more.\n\u2b50 Save Your Own Prompts \u2014 Never lose your best ideas again!\n\ud83d\udd25 Trending Section \u2014 Stay ahead with the latest viral AI prompt styles.\n\u2764\ufe0f Favorites & Collections \u2014 Organize and access your prompts anyt",
+    "icon": "/icons/com.promzy.app.png"
+  },
+  "com.aipromptgenerator": {
+    "title": "AI Prompt Generator: Writer",
+    "package": "com.aipromptgenerator",
+    "description": "Artificial intelligence is transforming the world, but the quality of your output depends entirely on your input. To get the best results, you need the perfect artificial intelligence prompt. Our comprehensive AI prompt generator is designed to be your ultimate prompt writer and assistant. Whether you are looking for an AI image prompt generator to create stunning visuals or an AI story generator based on prompt inputs for your next novel, this application provides everything you need to succeed.\n\nMASTER PROMPT ENGINEERING AND GET EXPERT GUIDANCE\nPrompt engineering is an essential skill in the modern tech landscape. Our application is not just a basic prompt generator AI tool; it is a comprehensive learning platform. We offer extensive, prompt engineering examples, focusing deeply on promp",
+    "icon": "/icons/com.aipromptgenerator.png"
+  },
+  "com.akansh.promptvault": {
+    "title": "PromptVault AI Prompt Manager",
+    "package": "com.akansh.promptvault",
+    "description": "PromptVault is your all-in-one AI prompt workspace \u2014 now with Cloud models, Web access, and built-in Chat.  \nBuilt for creators, developers, and AI power users, it keeps your prompts organized while letting you generate, test, and refine them instantly.\n\n\u2728 What\u2019s New:\n\u2022 Ollama Cloud Support \u2013 Connect your Ollama Cloud API key and use powerful models directly inside the app.  \n\u2022 Built-in Chat Screen \u2013 Test prompts instantly with a clean chat interface.  \n\u2022 Image Upload Support \u2013 Send images in chat when supported by the selected model.  \n\u2022 PromptVault Web \u2013 Access your prompt library from the web with sync support.  \n\n\u2728 Core Features:\n\u2022 On-device AI \u2013 Generate titles, descriptions, and prompts privately on your device.  \n\u2022 Google Sign-In \u2013 Secure and seamless access.  \n\u2022 Create & Edit Promp",
+    "icon": "/icons/com.akansh.promptvault.png"
+  },
+  "com.techrabbit.arix": {
+    "title": "Arix - Ai Prompt Generator",
+    "package": "com.techrabbit.arix",
+    "description": "\ud83c\udfa8 Arix - Your AI Prompt Companion\n\nTransform ideas into stunning AI art! Choose from beautiful prompt templates, add images, and share with ChatGPT, Grok, or Gemini.\n\n\u2728 KEY FEATURES\n\n\ud83d\udcdd Pre-Crafted Prompts\n- Ghibli Studio Style\n- Cartoon & Anime\n- Realistic Photos\n- Abstract Art\n- Many more!\n\n\ud83d\udcf8 Easy Image Upload\n- Camera integration\n- Gallery selection\n- Instant preview\n\n\ud83e\udd16 AI Model Support\n- ChatGPT (OpenAI)\n- Grok (X)\n- Gemini (Google)\n- One-tap sharing\n\n\ud83d\ude80 HOW IT WORKS\n1. Browse prompt styles\n2. Select your favorite\n3. Upload/capture image\n4. Choose AI model\n5. Share instantly!\n\n\ud83d\udd12 PRIVACY-FIRST\n- No account needed\n- Local storage only\n- No image uploads\n- Minimal permissions\n\n\ud83d\udca1 PERFECT FOR\n- AI Artists\n- Content Creators\n- Social Media\n- Digital Designers",
+    "icon": "/icons/com.techrabbit.arix.png"
+  },
+  "com.promptguru.ai": {
+    "title": "Prompt Guru: AI Prompts",
+    "package": "com.promptguru.ai",
+    "description": "Unlock the true power of Artificial Intelligence with Prompt Guru: AI Prompts Library \ud83d\ude80\n\nGetting boring or inaccurate results from AI tools? The secret to powerful AI output is not the AI itself it\u2019s the prompt. Prompt Guru helps you write better prompts and generate smarter results from modern AI tools.\n\nPrompt Guru is an AI prompt library and prompt generator designed for creators, developers, marketers, students and professionals who want to get the best results from AI.\n\nInstead of guessing what to type, simply choose a category, customize the prompt using Smart Fill, and copy it instantly.\n\n\ud83d\ude80 Works With Popular AI Tools\n\nPrompt Guru provides prompts designed for many popular AI tools including:\n\nText AI\n\u2022 ChatGPT\n\u2022 Google Gemini\n\u2022 Claude AI\n\u2022 Microsoft Copilot\n\u2022 Grok\n\u2022 Llama AI\n\nAI Im",
+    "icon": "/icons/com.promptguru.ai.png"
+  },
+  "com.promptsera.ai": {
+    "title": "Promptsera: AI Prompt Builder",
+    "package": "com.promptsera.ai",
+    "description": "Tired of your AI art looking generic? Can't get ChatGPT to write what you actually mean? The problem isn't the AI\u2014it's the prompt.\nWelcome to Promptsera, your secret weapon for prompt engineering. We turn your basic ideas into high-octane, expert-level prompts that unlock the true power of AI. Go from simple concepts to stunning, professional-quality results in seconds.\nJust type your idea, let our smart prompt builder work its magic, and copy-paste the result into your favorite AI tool. It's that simple.\n\ud83d\ude80 COMPATIBLE WITH EVERY MAJOR AI PLATFORM\nUnlock your creativity anywhere. Promptsera is your co-pilot for writing flawless prompts tailored for the world's best AI models:\n\u2022 For AI Image Generators: Create breathtaking images with prompts optimized for Midjourney, DALL-E 3, and Stable Di",
+    "icon": "/icons/com.promptsera.ai.png"
+  },
+  "com.omsachi.promptgeneratoraiassistant": {
+    "title": "AI Chatbot Prompt Generator",
+    "package": "com.omsachi.promptgeneratoraiassistant",
+    "description": "\ud83d\ude80 AI Prompt Generator \u2013 Smarter Questions, Better Answers\n\nMost people don\u2019t struggle with AI answers \u2014 they struggle with AI questions.\n\nWhether you\u2019re using GPT AI chat, or any chatbot app, the result always depends on the quality of your prompt. That\u2019s exactly why **AI Prompt Generator** exists. This app is your **personal prompt engineer**, guiding you step by step to create powerful, clear, and creative prompts that get the best responses every time.\n\nWith one tap, you\u2019ll never have to worry about \u201chow do I ask the AI?\u201d again. Just answer a few simple questions, and the app builds **3 unique prompt variants** for you to choose from, copy, or save.\n\n\u2728 What Makes AI Prompt Generator Different?\nUnlike normal AI chat apps that simply give answers, this tool focuses on making you **ask bet",
+    "icon": "/icons/com.omsachi.promptgeneratoraiassistant.png"
+  },
+  "com.sicomdev.promptlyai": {
+    "title": "Promptly AI: Prompt Generator",
+    "package": "com.sicomdev.promptlyai",
+    "description": "Promptly AI \u2013 Powerful AI Prompt Generator\n\nPromptly AI is a powerful AI prompt generator designed to help you instantly create high-quality prompts for modern AI tools, including chat assistants and image generators.\n\nWhether you are a creator, developer, marketer or entrepreneur, Promptly AI gives you inspiration and ready-to-use prompts to boost creativity and productivity.\n\n\ud83d\ude80 Generate Powerful AI Prompts\n\nWith Promptly AI you can instantly generate prompts for multiple categories including:\n\n\u2022 AI chat prompts\n\u2022 AI image prompts\n\u2022 Marketing prompts\n\u2022 Business prompts\n\u2022 Coding prompts\n\u2022 Social media prompts\n\u2022 YouTube content prompts\n\u2022 Productivity prompts\n\nNo need to spend hours thinking about the perfect prompt \u2014 Promptly AI does it for you.\n\n\u2b50 Save Your Favorite Prompts\n\nFound a great ",
+    "icon": "/icons/com.sicomdev.promptlyai.png"
+  },
+  "com.aipromptcollection.app": {
+    "title": "AI Prompts: AI Image Generator",
+    "package": "com.aipromptcollection.app",
+    "description": "AI Prompts: AI Image Generator is the ultimate app for creating stunning AI images using powerful and ready-made AI Image prompts.\n\nGenerate high-quality AI images, AI photos, and creative visuals using the best AI prompt generator. This app is perfect for Nano Banana prompts, Midjourney prompts, ChatGPT prompts, DALL\u00b7E prompts, and Stable Diffusion prompts.\n\nBrowse through organized categories like \ud83d\udc67 Girl, \ud83e\uddd4 Men, \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67 Couple, and \ud83d\udc76 Baby to quickly find the perfect AI photo prompt. Whether you\u2019re creating portraits, fashion shots, or artistic visuals, you\u2019ll always have fresh AI image prompt ideas.\n\nWith 2000+ AI image prompts, you can easily create AI art, AI photos, portraits, and creative designs in seconds. Whether you are looking for AI photo prompts, AI art prompts, or AI image gene",
+    "icon": "/icons/com.aipromptcollection.app.png"
+  },
+  "com.telestra.promptcraft": {
+    "title": "AI Prompt Generator \u2013 ChatGPT",
+    "package": "com.telestra.promptcraft",
+    "description": "PromptCraft AI \u2013 AI Prompt Generator\n\nCreate powerful prompts for AI tools with PromptCraft AI, a smart AI prompt generator designed for ChatGPT, Midjourney, Stable Diffusion, and other AI platforms.\n\nPromptCraft AI helps you generate structured prompts for text generation, AI image creation, coding tasks, marketing content, and creative writing.\n\nWhether you are a content creator, developer, designer, or marketer, this app helps you create better prompts and get better results from AI tools.\n\n\u2728 Generate Prompts for Popular AI Tools\n\nPromptCraft AI supports prompt creation for tools like:\n\n\u2022 ChatGPT prompts\n\u2022 Midjourney image prompts\n\u2022 Stable Diffusion prompts\n\u2022 AI writing prompts\n\u2022 Coding prompts for developers\n\nGenerate prompts faster and improve your AI results.\n\n\ud83d\ude80 Smart Prompt Template",
+    "icon": "/icons/com.telestra.promptcraft.png"
+  },
+  "com.sajjadit.goprompt": {
+    "title": "GoPrompt - Ai Image Prompt",
+    "package": "com.sajjadit.goprompt",
+    "description": "easily copy any prompt from the Go Prompt app with one click and paste it into your favorite AI tool. There are more than 1000+ prompts here. The best prompts are uploaded here every day. So everyone will stay with the GoPrompt app",
+    "icon": "/icons/com.sajjadit.goprompt.jpg"
+  },
+  "com.airesearchgroup.promptapp": {
+    "title": "PromptApp: AI Image Generator",
+    "package": "com.airesearchgroup.promptapp",
+    "description": "Turn words into your perfect AI character with PromptApp!\n\nJust enter a prompt and generate any AI image you can imagine. Enjoy free AI image creation in a range of different high-quality styles, from AI Anime and AI Cinematic to AI Art. PromptApp features the most advanced models for AI character creation and AI companion chat. It allows you to design your perfect AI character with the best results.\n\nAI Character Creation\nType in any situation or setting, and watch as it generates a lifelike AI-generated companion. Choose from Realistic, Anime, or Artistic art styles.\n\nAI Character Roleplay\nRoleplay with your AI-generated characters with real-time chat. Type in any scenario or conversation, and watch as your AI characters come to life with dynamic and interactive dialogue, even sharing se",
+    "icon": "/icons/com.airesearchgroup.promptapp.png"
+  },
+  "com.aiprompt.aiphotoprompt.promptgen": {
+    "title": "AI Prompt Generator: PromptGen",
+    "package": "com.aiprompt.aiphotoprompt.promptgen",
+    "description": "Unlock your creativity with PromptGen \u2013 the ultimate AI Prompt Generator app. Create stunning AI images, photos, artwork, and digital art using 1000+ professionally crafted, ready-to-use AI prompts designed for ChatGPT, Gemini, Midjourney, DALL\u00b7E, Stable Diffusion, Leonardo AI, and all popular AI image generators.\n\nPromptGen is the smartest AI prompt generator for images, photos, art, logos, stickers, and creative content. Whether you're a beginner exploring AI art or a professional designer, our AI prompt generator app gives you instant access to trending, high-quality prompts that produce jaw-dropping results every single time.\n\n\u26a1 KEY FEATURES\n\u2705 1000+ Ready-to-Use AI Prompts\nBrowse a massive library of professionally written AI image prompts and AI photo prompts across 20+ creative categ",
+    "icon": "/icons/com.aiprompt.aiphotoprompt.promptgen.png"
+  },
+  "com.pixaura.app": {
+    "title": "PixAura - AI Prompt Generator",
+    "package": "com.pixaura.app",
+    "description": "PixAura \u2013 AI Photo Editing Prompt Generator\n\nTurn your imagination into beautiful AI art with PixAura, your intelligent companion for crafting photo editing prompts. Whether you\u2019re a digital artist, content creator, or love experimenting with AI tools like Midjourney, DALL\u00b7E, or Stable Diffusion \u2014 PixAura helps you design the perfect prompts for stunning visual results.\n\n\ud83c\udf1f Key Features\n\nAI-Powered Prompt Creation\nGenerate professional-quality prompts instantly for AI image generators, photo editors, and art creation tools. PixAura analyzes context to deliver smarter and more creative ideas.\n\nDiverse Prompt Categories\nDiscover prompts for portraits, landscapes, fantasy, sci-fi, and nature. Ideal for artists, photographers, designers, and social media creators who want endless creative inspi",
+    "icon": "/icons/com.pixaura.app.png"
+  },
+  "com.technifysoft.promptai": {
+    "title": "PromptAi - AI Prompt Generator",
+    "package": "com.technifysoft.promptai",
+    "description": "\u2728 Prompt AI is your ultimate creative companion! Discover a massive library of AI prompts specifically designed to elevate your photos and product shots. Whether you're hunting for inspiration for a stunning photoshoot or need to generate professional-grade product imagery, Prompt AI has exactly what you need to spark your creativity. \ud83d\ude80\n\n\ud83e\udd14 Why Choose Prompt AI?\n- \ud83c\udf1f High-Quality Prompts: Masterfully crafted prompts to help you generate and edit photos or products with ease.\n- \ud83d\udcf8 Categorized Photo Prompts: Quickly find the perfect style, mood, or aesthetic for any image.\n- \ud83d\udecd\ufe0f Categorized Product Prompts: Create compelling, commercial-ready visuals for your store or brand.\n- \ud83d\uddbc\ufe0f Visual Previews: Check out a sample image for every prompt so you know exactly what to expect before you create.\n- \u2764\ufe0f",
+    "icon": "/icons/com.technifysoft.promptai.png"
+  },
+  "com.nkmetaverse.promptsaver": {
+    "title": "Prompt Saver: AI Image Prompts",
+    "package": "com.nkmetaverse.promptsaver",
+    "description": "Unlock 1000+ AI prompts designed for image generation and creative projects.\nThis app is a complete prompt library that lets you copy and paste the right AI prompt, photo prompt, or image idea to create realistic, cinematic, and trending AI images.\n\nIf you want ready-to-use prompts for photos, images, or creative AI visuals, this app helps you generate stunning results faster without writing prompts manually.\n\n\u2728 What This App Offers\n-> 1000+ ready-made prompts for AI image creation\n-> High-quality prompts designed for visual clarity\n-> Well-structured photo and image prompt collections\n-> Prompts for portraits, profiles, and creative visuals\n-> Prompts for boys, girls, and couple images\n-> Cinematic, professional, colorful, natural, and modern styles\n-> Beginner-friendly interface for easy",
+    "icon": "/icons/com.nkmetaverse.promptsaver.jpg"
+  },
+  "in.jfs.jiofinance": {
+    "title": "JioFinance: For your life!",
+    "package": "in.jfs.jiofinance",
+    "description": "JioFinance is an all-in-one app to manage your money smartly. From secure UPI and bill payments to mutual fund investing and digital gold to loans, insurance, and savings accounts, JioFinance handles all your financial needs with one trusted app.\n\nApply for credit cards online: \nChoose from 50+ credit cards tailored to your lifestyle and needs.\n\u25cf\tDiscover cards with lifetime free benefits and zero joining fees.\n\u25cf\tCheck your eligibility in 3 simple steps and enjoy a seamless journey from discovery and application to approval.\n\u25cf\tAccess Cashback, Travel, Shopping, Lifestyle and RuPay UPI credit cards.\n\u25cf\tGet pre-qualified offers from India\u2019s leading banks with completely digital process.\n\nApply for a personal loan*:\n\u25cf\tGet online personal loan from partners (IDFC First Bank, EarlySalary (Fibe))"
+  },
+  "com.bharatdev.aisetu": {
+    "title": "AI Setu\u2013No Prompt AI Assistant",
+    "package": "com.bharatdev.aisetu",
+    "description": "\ud83e\udd16 AI Setu \u2013 Smart AI Writer & AI Tools (No Prompt Needed)\n\nAI Setu is a powerful AI Writer, AI Assistant and AI Tools app designed to make AI simple for everyone. Unlike other AI apps, AI Setu does not require complicated prompts.\n\nJust choose a tool, type a simple idea and AI Setu automatically generates the result for you.\n\nWhether you want an AI Email Writer, Instagram Caption Generator, AI Text Summarizer, AI Translator or AI Travel Planner, everything works with simple input \u2013 no prompt writing required.\n\nAI Setu makes AI accessible for students, professionals, creators and everyday users.\n\n\ud83d\ude80 No Prompt AI \u2013 Just Choose a Tool\n\nMost AI apps require long prompts and technical instructions.\n\nAI Setu removes that complexity.\n\nSimply select a tool and AI Setu will automatically generate:\n\n",
+    "icon": "/icons/com.bharatdev.aisetu.png"
+  },
+  "com.miniclip.minifootball": {
+    "title": "Mini Football - Soccer Games",
+    "package": "com.miniclip.minifootball",
+    "description": "Team Up, Compete, and Become a Football Super Star!\nGrab your boots and step onto the pitch in Mini Football, the ultimate arcade-style football game where you can score amazing goals and compete with friends! Join or create a club, challenge rival teams, and climb the league leaderboards to prove you\u2019re the best soccer player in your country.\n\nPlay With Friends and Dominate the Leaderboards!\nForm a club with your friends and take on teams from around the world. Work together to earn rewards, dominate the competition, and show off your skills. The higher your club ranks, the bigger the prizes! Do you have what it takes to be the ultimate football champion?\n\nFast-Paced Arcade Football Action\nNo complex mechanics\u2014just pure football fun! Mini Football brings a soccer experience that\u2019s easy to",
+    "icon": "/icons/com.miniclip.minifootball.webp"
+  },
+  "com.jndapp.dove.iconpack": {
+    "title": "Dove Icon Pack",
+    "package": "com.jndapp.dove.iconpack",
+    "description": "Dove Icon Pack \u00a0is an icon pack  with High Quality icons and Shape styled Inspired by Apple Design. \n\nIn this Iconpack We are focusing on simplicity and perfect shapes with rounded corners, and applying our own creative touch! Every icon is a real masterpiece and crafted with lots of time and attention to smallest details. Dove Icon Pack have been designed with a Perfect blend of creativity with simplicity enhancing your mobile experience.\n\nThere's always something new:\nDove Icon pack is still new with 3200+ Icons . And I can assure you to add lot more icons in every update.\n\nWhy  Choose Dove Icon Pack over other Packs?\n\u2022 3200+ ICONS WITH TOP NOTCH QUALITY. \n\u2022 Frequent Updates with new icons and Updated activities\n\u2022 Work on any android device.\n\u2022 Lots of alternative icons to make customizat",
+    "icon": "/icons/com.jndapp.dove.iconpack.png"
+  },
+  "com.jndapp.dove.light.iconpack": {
+    "title": "Dove Light : Icon Pack",
+    "package": "com.jndapp.dove.light.iconpack",
+    "description": "Dove Light Icon Pack is a White Version of Dove Iconpack with High Quality icons and Shape styled Inspired by Apple Design. \n\nIn this Iconpack We are focusing on simplicity and perfect shapes with rounded corners, and applying our own creative touch! Every icon is a real masterpiece and crafted with lots of time and attention to smallest details. Dove White Icon Pack have been designed with a Perfect blend of creativity with simplicity enhancing your mobile experience.\n\n\nThere's always something new:\nDove White Icon pack is still new with 3100+ Icons . And I can assure you to add lot more icons in every update.\n\nWhy  Choose Dove White Icon Pack over other Packs?\n\u2022 3100+ ICONS WITH TOP NOTCH QUALITY. \n\u2022 Frequent Updates with new icons and Updated activities\n\u2022 Work on any android device.\n\u2022 L",
+    "icon": "/icons/com.jndapp.dove.light.iconpack.png"
+  },
+  "com.tbs.promptstudio": {
+    "title": "Prompt Studio: AI Prompt",
+    "package": "com.tbs.promptstudio",
+    "description": "Create powerful AI prompts instantly with Prompt Studio.\nPrompt Studio is an all-in-one AI prompt generator designed for creators who want better results from AI tools.\nWith Prompt Studio you can generate, enhance, remix, and organize prompts for AI image, video, and content generation.\n\ud83d\ude80 Key Features\n-AI Prompt Generator\n-Create detailed prompts instantly using our AI prompt engine.\n-Prompt Enhancer\n-Transform simple prompts into cinematic, high-quality prompts.\n\nExample:\ndragon flying\n\u2193\nEpic cinematic dragon flying above mountains at sunset\n\nQuick Prompt Templates\nStart instantly with built-in templates:\nAnime characters\nCyberpunk cities\nFantasy warriors\nProduct ads\nYouTube scripts\nPrompt Remix\nGenerate multiple variations of any prompt with one tap.\nTrending Prompts\nExplore a curated li",
+    "icon": "/icons/com.tbs.promptstudio.png"
+  },
+  "com.apptrends.ai.prompt.art.image.generator.ai.prompts.photo.editor": {
+    "title": "AI Prompt Generator",
+    "package": "com.apptrends.ai.prompt.art.image.generator.ai.prompts.photo.editor",
+    "description": "AI Prompt Generator \u2013 Trending Prompts for Gemini & ChatGPT\n\nBoost your creativity with the ultimate AI Prompt Generator!\nCreate stunning AI photos, artwork, captions, social media posts, stories, and more using powerful, ready-to-use prompts for Gemini, ChatGPT, and all AI image creators.\n\nWhether you are a beginner or a pro, our app gives you 1000+ high-quality prompts, organized into smart categories and updated trending ideas every day.\n\n\u2b50 Why Use AI Prompt Generator?\n\n\u2714\ufe0f Get professionally crafted prompts for Gemini & ChatGPT\n\u2714\ufe0f Generate beautiful AI photos instantly\n\u2714\ufe0f Find prompts for AI art, photography, reels, captions, writing & more\n\u2714\ufe0f Stay ahead with daily trending prompts\n\u2714\ufe0f Easy copy-paste prompts for any AI tool\n\u2714\ufe0f Save your favorite prompts & share instantly\n\n\ud83c\udfa8 AI Image & P",
+    "icon": "/icons/com.apptrends.ai.prompt.art.image.generator.ai.prompts.photo.editor.jpg"
+  },
+  "com.app.ai.prompts": {
+    "title": "AI Prompt Generator, Engineer",
+    "package": "com.app.ai.prompts",
+    "description": "AI Prompt Generator for Engineers**\n\n\nUnlock the full potential of GPT-powered tasks with AI Prompt Generator for Engineers! Elevate your writing game and streamline your workflow with intelligently crafted prompts that inspire creativity and precision.\n\n\ud83d\ude80 **Boost Productivity:**\nSay goodbye to writer's block! Our AI Prompt Generator ensures a constant flow of fresh and engaging ideas, allowing you to focus on what you do best \u2013 engineering excellence.\n\n\ud83e\udd16 **Tailored for GPT:**\nSpecifically designed for GPT models, our app generates prompts that resonate with the AI, resulting in more accurate and contextually relevant responses. Maximize the capabilities of your language model effortlessly.\n\n\u2728 **Precision Crafting:**\nCraft prompts that hit the mark! Fine-tune your tasks with our precision ",
+    "icon": "/icons/com.app.ai.prompts.png"
+  },
+  "com.promptgpt.mobile": {
+    "title": "AI Prompt Generator\u2013 PromptGPT",
+    "package": "com.promptgpt.mobile",
+    "description": "AI Prompt Generator \u2013 PromptGPT is your all-in-one tool to create powerful, high-quality prompts for ChatGPT, Midjourney, Stable Diffusion, DALL-E and more.\n\nStruggling to get accurate AI results? Our AI Prompt Generator instantly turns your simple ideas into structured, professional prompts that deliver better responses every time.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u2728 MAIN FEATURES\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83c\udfa8 AI Image Prompt Generator  \nCreate detailed prompts for Midjourney, Stable Diffusion & DALL-E. Just describe your idea and PromptGPT generates optimized AI art prompts for stunning visuals.\n\n\ud83e\udd16 ChatGPT Prompt Generator  \nGenerate smart prompts for writing blogs, emails, captions, essays, scripts and more. Get better AI responses with structured queries.\n\n\ud83d\udcbb AI Code Prompt Maker  \nNeed Python, JavaScript, C++ or ",
+    "icon": "/icons/com.promptgpt.mobile.jpg"
+  },
+  "com.promptpixel.app": {
+    "title": "Prompt Pixel - AI Prompts",
+    "package": "com.promptpixel.app",
+    "description": "Prompt Pixel \u2013 AI Prompt Generator\n\nPrompt Pixel is a simple app that provides ready-to-use AI image and video prompts for creating images,  videos, logos, profile pictures (DPs), stickers, and more.\n\nThe app does not generate or edit images. It only gives well-written text prompts that you can copy and use in any AI image generator of your choice.\n\n Key Features\n\n\u2022 One-tap copy prompts\n\u2022 Works with most AI image tools\n\u2022 Regular prompt updates\n\u2022 Clean and lightweight app\n\u2022 Easy to use interface\n\u2022 Simple navigation\n\u2022 Ready-to-use prompts\n\u2022 Multiple categories available\n\u2022 No login required\n\n\nPrompt Categories\n\n\u2022 \u2764\ufe0f Love\n\u2022 \ud83d\udc91 Couple\n\u2022 \ud83e\uddd1 Boys\n\u2022 \ud83d\udc69 Girls\n\u2022 \ud83d\uddbc\ufe0f Couple DP\n\u2022 \ud83c\udfac Cinematic Prompts\n\u2022 \ud83d\udc51 Master Prompts (High Quality)\n\u2022 \ud83d\udcd6 Story-Based Prompts\n\u2022 \ud83d\udd25 Trending Prompts\n\u2022 \ud83d\ude02 Funny Prompts\n\u2022 \ud83c\udf82 Birthd",
+    "icon": "/icons/com.promptpixel.app.png"
+  },
+  "kallossoft.avatar": {
+    "title": "Avatarro: AI Avatar Maker",
+    "package": "kallossoft.avatar",
+    "description": "Avatarro is the ultimate ai avatar maker and a character creator that combines the power of artificial intelligence with art. With Avatarro, you can easily create a new profile pic and get a realistic ai portrait that truly reflects your personality and style.\n\nThe simple user interface of Avatarro makes it easy and fast to create ai portraits. In just a matter of minutes, you can have a new profile pic that is truly unique to you. And with the unlimited number of avatars you can create, the possibilities for self-expression are endless.\n\nThanks to the advanced artificial intelligence algorithms that power Avatarro, you can create ai portraits that are not just simple characters, but realistic representations of you. Whether you're looking for a fun and playful avatar or a professional and",
+    "icon": "/icons/kallossoft.avatar.png"
+  },
+  "ai.avatar.generator.maker": {
+    "title": "AI Avatar Maker: Create Avatar",
+    "package": "ai.avatar.generator.maker",
+    "description": "Create professional-quality avatars using cutting-edge artificial intelligence. Our photo avatar maker converts personal images into artistic masterpieces across multiple styles and formats.\n\nPowerful Capabilities:\n\u2022 Instant photo-to-avatar transformation\n\u2022 Anime avatar creation with authentic styling\n\u2022 3D character generation and customization\n\u2022 Portrait enhancement with AI precision\n\u2022 Digital art creation from text descriptions\n\u2022 Profile picture maker for social media\n\u2022 Holiday-themed avatar templates\n\u2022 Character design tools for gaming\n\nIdeal for updating profiles during holiday seasons, creating memorable gifts, or expressing creativity through digital art. Generate avatars for LinkedIn, Instagram, gaming platforms, or personal projects.\n\nThe app offers seamless avatar creation - uploa",
+    "icon": "/icons/ai.avatar.generator.maker.jpg"
+  },
+  "com.prequelapp.oji": {
+    "title": "Oji: AI Avatar Photo Generator",
+    "package": "com.prequelapp.oji",
+    "description": "Welcome to OJI: your new favorite app for AI-powered art, avatars, and custom sticker creation. With the latest AI technology at your fingertips, you can effortlessly explore and redefine yourself to be anything your heart desires. Looking for a new profile pic? Exploring some new vibes? Want a custom sticker pack for any messenger? Look no further. With dozens of styles and features to choose from, the possibilities are as limitless as your imagination.\n\nWhat makes OJI stand out?\n\u25ba Create and share sticker packs for any messenger: Turn your photos into fun, expressive cartoon stickers in various styles. Make personalized sticker packs to quickly add a unique touch to your conversations across all messengers, and what\u2019s more, they\u2019re so easy to export!\n\n\u25ba AI-powered realistic edits: Ever w",
+    "icon": "/icons/com.prequelapp.oji.png"
+  },
+  "com.dreamapp.dubhe": {
+    "title": "DreamFace: AI Video Generator",
+    "package": "com.dreamapp.dubhe",
+    "description": "DreamFace \u2013 AI Video & Avatar Generator\n\nCreate talking avatars, AI dance videos, lip-sync animations, and voice-powered content with AI.\nTurn photos, text, and voices into stunning HD videos and audio in seconds.\n\nWith DreamFace, you can animate faces, make avatars speak or sing, clone voices, convert singing voices, enhance images, remove backgrounds, and more \u2014 no editing or technical skills required.\n\nWhat\u2019s New & Highlights\n\nVoice Clone (Zero-Shot AI Voice Cloning)\nGenerate speech in a target voice instantly \u2014 no voice training or fine-tuning required.\nSimply provide a short reference or prompt, and AI automatically handles tone, pitch, and cadence.\n\nVoice Clone supports the following 19 languages:\nEnglish, Mandarin Chinese, Arabic, German, Greek, Spanish, French, Hindi, Indonesian, I",
+    "icon": "/icons/com.dreamapp.dubhe.png"
+  },
+  "com.luckycatarts.glo": {
+    "title": "Glo: AI Avatar Photo Generator",
+    "package": "com.luckycatarts.glo",
+    "description": "Introducing GLO, the app that brings your photos to life with AI! GLO lets you create stunning AI avatar portraits, transform into characters or superheroes, cartoon yourself, generate headshots, and explore limitless themes to create unique photos. Let your imagination soar with GLO and unleash your inner artist!\n\nGLO isn\u2019t just another AI photo editing app or headshot generator \u2013 it\u2019s a world of artistic possibilities. Create one-of-a-kind AI-generated avatars that capture your essence. Our advanced AI technology lets you experiment with over 100 themes and styles to make striking images that will captivate your social media followers. With GLO you can create anime or manga avatars, headshots, portraits, cartoon yourself. You can even become a puppet or voxel art!\n\nKey Features:\n\n\t1.\tAI ",
+    "icon": "/icons/com.luckycatarts.glo.png"
+  },
+  "com.cyberlink.vividai": {
+    "title": "MyEdit: AI Image Generator",
+    "package": "com.cyberlink.vividai",
+    "description": "MyEdit \u2014 Step into a world of limitless imagination! \n\nGet ready for some serious fun with MyEdit, the most powerful AI Art Generator and Photo Editor App on the market. Whether you're an aspiring artist or simply looking to add a touch of magic to your digital content, you can easily make your photos truly amazing with our AI powered editing features \u2014 the possibilities are limitless. With incredible features such as Magic Avatar, AI Fashion, Sky Transformer, and Background Editor, MyEdit empowers you to effortlessly bring your wildest artistic visions to life!\n\nOur AI generator turns your photos into stunning portraits with thousands of possible styles. Just upload your pictures, and let our AI generator do the rest!\n\nMyEdit Features: \n\nFUN WITH AI TOOLS\n\u2022 Explore endless styles, content",
+    "icon": "/icons/com.cyberlink.vividai.png"
+  },
+  "com.starryai": {
+    "title": "starryai - AI Art Generator",
+    "package": "com.starryai",
+    "description": "Introducing starryai: The Ultimate AI Art Generator \ud83c\udfa8\n\nWelcome to starryai, where creativity meets cutting-edge technology! Our state-of-the-art AI art generator empowers you to unleash your imagination and create breathtaking visuals effortlessly. Whether you're an experienced artist or just starting your creative journey, starryai is your go-to tool for crafting stunning photos in minutes.\n\n AI ART GENERATOR - Quick Sneak Peek\n\ud83c\udfa8 Transform your words and ideas into stunning artworks with prompt and style selection.\n\ud83c\udfa8 Master your craft with diverse art maker tools.\n\ud83c\udfa8 Turn ordinary photos into exceptional artworks with AI photo generator.\n\ud83c\udfa8 Explore limitless possibilities with AI image generator.\n\ud83c\udfa8 Immerse yourself in anime with anime AI.\n\ud83c\udfa8 Capture subjects' essence with AI portrait generat",
+    "icon": "/icons/com.starryai.png"
+  },
+  "com.virtual.video.i18n": {
+    "title": "AI Video Generator - Virbo",
+    "package": "com.virtual.video.i18n",
+    "description": "Bye camera, clone yourself, select a Virbo\u2019s stock avatar or generate a new avatar with your photo or AI portrait. Create a stunning talking video with just a single photo! Virbo is the easiest and most powerful AI video maker, offering a variety of effects and styles to bring your images to life. Whether for fun, business, E-commercial or social media, Virbo turns your ideas into captivating videos in seconds.\n\n\nKEY FEATURES\n\n[NEW]  Quick Avatar Customization \u2013 Just upload a 10-second video\n- Visual Appearance 100% Similarity: Custom AI avatars closely mirror your physical appearance or craft imaginative personas, ensuring high-fidelity replication of your appearance.\n- AI Voice: Easily create a synthetic version of your voice or that of a voice actor by simply recording a few sentences a",
+    "icon": "/icons/com.virtual.video.i18n.png"
+  },
+  "com.ai.avatar.vortex": {
+    "title": "A2V - AI AVATAR Vortex",
+    "package": "com.ai.avatar.vortex",
+    "description": "Welcome to A2V \u2013 Your Gateway to the ArtVerse\n\nA2V is a unique digital art hub in the world where creativity, movement, and technology come together. Whether you're an art lover, collector, or simply looking for a new way to stay active, A2V brings digital masterpieces to life in an interactive and rewarding way.\n\nWhat you can do in A2V app:\n- Discover story behind every Art: Every digital masterpiece has a unique meaning, uncovering the inspiration, emotions, and creativity behind each piece.\n- Admire exclusive digital Art: Immerse yourself in our exclusive Art Collection, featuring breathtaking digital artworks from talented creators. Discover unique pieces, collect your favorites, and be part of an ever-evolving digital art revolution.\n- Art Walking: Stay active, improve your health, an",
+    "icon": "/icons/com.ai.avatar.vortex.png"
+  },
+  "com.spherum.spherumVolume": {
+    "title": "AVAT.Ai-3D Avatar Creator",
+    "package": "com.spherum.spherumVolume",
+    "description": "AVAT.Ai-3D: Create, Play, Connect & Revolutionise Your Reality with Character Design\n\nStep into a world where imagination knows no bounds. AVAT.Ai-3D, a state-of-the-art mobile app with the groundbreaking Spatial reconstruction AI, allows you to play mobile games after you create a personal avatar. Welcome to the future of digital interaction and personalised gaming.\n\nThe Power of Spatial Character Design\nPowered by proprietary Spatial reconstruction AI, AVAT.Ai-3D transforms your 2D self into an immersive, lifelike personal avatar. Our groundbreaking gaming technology allows you to play selected games as yourself and use our avatar chat! Character creation and personalised gaming happen across different platforms, from smartphones to tablets and the Web.\n\nCreating Extraordinary Experience",
+    "icon": "/icons/com.spherum.spherumVolume.png"
+  },
+  "com.app.fotosai": {
+    "title": "Fotos AI - Avatar Yourself",
+    "package": "com.app.fotosai",
+    "description": "\ud83c\udf1f Transform Your Photos with our Advanced AI Technology\n\nFotos AI is the ultimate AI photo editor and photo enhancer that brings professional-grade photo editing to your fingertips. Create stunning AI avatars, fix blurry photos, remove backgrounds instantly, and enhance every detail with our powerful artificial intelligence tools.\n\n\u2728 Key Features:\n1: AI Avatar Generator - Transform yourself into unique AI avatars with stunning artistic styles\n2: Photo Enhancement - Fix blurry photos, enhance image quality, and restore old pictures automatically\n3: Background Remover - Remove background from photos with one tap using AI precision\n4: AI Photo Retouching - Professional face enhancement, skin smoothing, and beauty filters\n5: HD Photo Quality - Upscale images and improve resolution with AI-powe",
+    "icon": "/icons/com.app.fotosai.png"
+  },
+  "ai.photo.enhancer.photoclear": {
+    "title": "UpFoto - AI Photo Enhancer",
+    "package": "ai.photo.enhancer.photoclear",
+    "description": "Want to enhance blurry, pixelated, and damaged photos to amazing HD quality? Try AI Photo Enhancer, and refresh your precious memories with just one click! \n\nBased on cutting-edge AI technology, AI Photo Enhancer boasts its incredible effects that instantly turn your 10 years even 20 years old photos into HD selfies as if they were taken with the latest phone, with incredible eye detail and perfect skin texture.\n\nWith this amazing photo enhancer, you can easily restore, deblur, enhance any photos you want, revitalize your old family photos, and reminisce those old times together. \ud83e\udd70\n\n\ud83c\udf1fFEATURE HIGHLIGHTS\n\nOptimize portrait details\nAuto recognize faces in selfies or group photos, and enhance facial details with one tap.\n\nRestore photos \nRepair damaged and scratched photos and give your old ph",
+    "icon": "/icons/ai.photo.enhancer.photoclear.png"
+  },
+  "tap.photo.boost.restoration": {
+    "title": "PhotoBoost - AI Photo Enhancer",
+    "package": "tap.photo.boost.restoration",
+    "description": "PhotoBoost: Revive, Enhance, and Transform Your Memories\n\nBring your photos to life with PhotoBoost, the ultimate photo enhancement and creativity app. From sharpening blurry photos to creating stunning AI-generated avatars, PhotoBoost uses cutting-edge AI technology to deliver incredible results in seconds.\n\n\n\nBlurry images become sharp, pixelated photos are revived, and cherished moments are restored\u2014all with the power of state-of-the-art AI technology. Plus, our newest AI Avatars feature offers the largest selection of styles and themes, turning your selfies into magical creations instantly!\n\nNEW: AI Avatars with Endless Possibilities\n\nUnleash your creativity with AI Avatars, offering the widest selection of themes on the market. Transform your selfies into entirely new creations in und",
+    "icon": "/icons/tap.photo.boost.restoration.jpg"
+  },
+  "com.pixelbin.upscale.media": {
+    "title": "AI Photo Enhancer UpscaleMedia",
+    "package": "com.pixelbin.upscale.media",
+    "description": "Transform blurry, pixelated, and low-quality images into stunning high-resolution photos in seconds with Upscale.media \u2014 the fastest and most intuitive AI image enhancer.\n\nWhether it\u2019s an old memory, a low-res download, or a compressed image, Upscale.media uses advanced AI to sharpen details, remove noise, and upscale images up to 4x without losing quality.\n\n\u2728 Why Choose Upscale.media?\n\n\u26a1 Instant AI Upscaling (2x & 4x)\nEnhance image resolution in one tap \u2014 no skills required. Turn low-quality images into crisp HD instantly.\n\n\ud83e\udde0 Smart AI Enhancement\nOur powerful AI automatically improves clarity, sharpness, and textures while keeping images natural and realistic.\n\n\ud83d\uddbc Fix Blurry & Pixelated Photos\nRestore lost details, remove blur, and make your photos look clean and professional.\n\n\ud83d\udd27 Remove JP",
+    "icon": "/icons/com.pixelbin.upscale.media.jpg"
+  },
+  "com.scaleup.photofx": {
+    "title": "PhotoApp - AI Photo Enhancer",
+    "package": "com.scaleup.photofx",
+    "description": "Turn your old, blurry photos into high resolution using the most advanced AI photo enhancer with just one tap!\n\nPhotoApp uses state-of-the-art Artificial Intelligence to unblur, restore, and enhance any photo you want. \n\nMore than 200 million photos have been enhanced using PhotoApp\u2019s photo enhancer. Recognized as one of the most popular and beloved image enhancer apps worldwide, it can instantly transform photos that are 10 or even 20 years old into HD-quality images, as if they were captured with the latest phone, with incredible eye detail and flawless skin texture.\n\nWith this advanced photo enhancer, you can easily enhance photo quality, unblur & sharpen images, restore old photos to crystal-clear HD, and explore stylish polaroid filters.\n\n\u2728Key Features \n\u25ba Enhance Photo Quality\nMany pe",
+    "icon": "/icons/com.scaleup.photofx.png"
+  },
+  "com.codeway.pixelup": {
+    "title": "Pixelup - AI Photo Enhancer",
+    "package": "com.codeway.pixelup",
+    "description": "Turn your old, blurry photos into high definition with Pixelup's AI photo enhancer!\n\nWith Pixelup's enhanced Artificial Intelligence (AI), you can enhance photo quality instantly. Colorize and unblur old, pixelated, damaged pictures and turn them into crystal clear HD photos and get revitalized.\n\nPixelup helps you to:\n\nENHANCE PHOTO QUALITY\nEither upload your best selfie or take a photo of an old picture with the camera, Pixelup\u2019s photo enhance feature will make your photos brand new and in HD resolution. Enhanced AI algorithms will give you a flawless face even when zoomed in. You can easily restore old photos now.\n\nCOLORIZE BLACK AND WHITE PICS \nColorize your nostalgic, old, black & white family photos and make them new again. Bring color to any photo with only one tap. Unblur your video",
+    "icon": "/icons/com.codeway.pixelup.webp"
+  },
+  "com.wangdao.wd_cutout": {
+    "title": "Vivid - AI Photo Enhancer",
+    "package": "com.wangdao.wd_cutout",
+    "description": "Welcome to Vivid (formerly Vividit)!\n*Years past, memories fade. Highlight every vivid moment from today. \n*The Best memories with the Blurriest photo? Let\u2019s bring it to crystal clarity! \n*Enjoy your family memories brought back to life by the animer. \n*Surprise your friends with gorgeous clear HD highlights every time.\n*Delight your parents by revamping their vintage photo albums.\n\nVivid offers incredible movie-grade AI technology which can automatically enhance photo quality into high-definitionin for you even when zoomed in, with editing features including photo enhancer, magic eraser, color correction, cartoon selfie, portrait animer, black and white photo colorizer, background blur, etc. Download and enjoy the convenience of cutting-edge AI technology for everyday life!\n\nAmazing featu",
+    "icon": "/icons/com.wangdao.wd_cutout.jpg"
+  },
+  "ai.photo.editor.appixa.photoenhancer": {
+    "title": "AI Photo Enhancer - Appixa",
+    "package": "ai.photo.editor.appixa.photoenhancer",
+    "description": "Appixa is an AI photo enhancer built for image editing, photo transformation, and smart AI enhancement. Edit and enhance your images using advanced AI photo editing and ready-to-use templates. Upload a photo, choose a style, and generate high-quality results in seconds - or take full control with custom prompts for more advanced editing.\n\nAppixa works in two powerful ways. The main experience is template-based AI editing, where you simply upload your image, select a template, and generate a transformed version instantly. Each template is designed to apply realistic edits while preserving identity and image quality. For advanced uses, Appixa also allows custom prompts and editing of existing template prompts, giving complete creative control over the final result.\n\nTemplates are organized i",
+    "icon": "/icons/ai.photo.editor.appixa.photoenhancer.png"
+  },
+  "com.nero.image_upscaler": {
+    "title": "AI Photo Enhancer & Upscaler",
+    "package": "com.nero.image_upscaler",
+    "description": "\u2728 Nero Lens is the #1 AI photo enhancement app that instantly fixes blurry photos, restores old memories, removes backgrounds, and upscales images to 4K quality.\n\n\ud83c\udfac [NEW] AI Video: Turn any photo into a dynamic AI video with lifelike motion and effects. Bring your still photos to life!\n\ud83e\udd16 [NEW] AI Photo Agent: Your intelligent editing assistant! Drop a photo or describe what you need \u2014 the AI handles everything instantly.\n\n\ud83d\udc8e Fix Blur & Enhance Photos\n- Unblur (New): Magically clear up motion blur and out-of-focus shots\n- Enhance: Upscale resolution up to 4x \u2014 make photos larger and clearer\n- Sharpen: Improve image sharpness and clarity\n- Denoise: Remove grain and noise for smoother images\n- Descratch: Repair scratched and damaged old photos\n- Colorize: Add color to black & white photos\n- Re",
+    "icon": "/icons/com.nero.image_upscaler.png"
+  },
+  "ai.photo.enhancer.ig.tiktok.editor.remini.pixelup.hd.free": {
+    "title": "AI Photo Enhancer - Evoke",
+    "package": "ai.photo.enhancer.ig.tiktok.editor.remini.pixelup.hd.free",
+    "description": "Revive your old photos with the best AI photo enhancer: Evoke - AI Photo Enhancer! \ud83e\udd70 Inspired by the latest breakthroughs like GPT Image 2 and powered by Google's Nano Banana 2 (Gemini 3.1 Flash Image), our app delivers high-quality image generation with consistent details and reliable character preservation.\n\nNo matter whether your photos are black-and-white, yellowed, faded, scratched, blurred, or wrinkled, this AI photo enhancer app, will instantly fix them to be clearer than ever! \u2728\n\nBeyond bringing old photos back to life, we also support AI video generation. With advanced models like Veo 3.1, Sora 2 setting new benchmarks, we make photo-to-video creation effortless, fun, and uniquely personal.\n\nPlease rest assured, we are not exaggerating. Your enhanced photos will instantly become h",
+    "icon": "/icons/ai.photo.enhancer.ig.tiktok.editor.remini.pixelup.hd.free.png"
+  },
+  "com.face26Mobile.app": {
+    "title": "Face26 - AI Photo Enhancer",
+    "package": "com.face26Mobile.app",
+    "description": "Turn your old, blurry photos into high quality definition with Face26 Memory enhancer. \n\nWith Face26's enhanced Artificial Intelligence (AI); any old, blurry, pixelated, damaged pictures turn into crystal clear HD photos and revitalized. \n\nFace26 help you to;\n\nFACE ZOOM --- Create HD portrait photos from your favorite family photos, class photos or childhood photos. \n\nENHANCE YOUR PHOTOS --- Revamp your blurry photos with Face26's powerful photo enhance feature. Restore damaged, compressed, or yellowed images and get a flawless face with the enhanced AI algorithm. Upload your best selfie or snap a picture of an old photo to enjoy high-definition results.\n\nPHOTOREALISTIC PHOTOS --- Transform your sketches, cartoons, or AI-generated profile photos into photo-realistic portraits with Face26's",
+    "icon": "/icons/com.face26Mobile.app.png"
+  },
+  "com.everimaging.goart": {
+    "title": "GoArt - AI Art Image Generator",
+    "package": "com.everimaging.goart",
+    "description": "GoArt is an excellent AI image generator owned by Fotor, helping you easily create amazing artworks from text and photos. Use the Photo Cartoonizer to turn your photos into cartoon avatars in one click. Apply the Japanese Anime Filter to transform your photos into stunning anime art effortlessly. Embrace the magic of anime art! Get Japanese Anime Style images and anime portraits instantly! Take the AI Art Generator From Text to convert your ideas into unique paintings and drawings in seconds. You can even turn your photos into artworks in the style of Van Gogh, Monet, Picasso, and other masters with Big Painter\u2019s AI art filters in a snap.\n\n\u3010PHOTO CARTOONIZER\u3011\nJust upload your selfie, GoArt's AI avatar maker can help you cartoon yourself into cartoon avatar easily. The anime filters are rea",
+    "icon": "/icons/com.everimaging.goart.png"
+  },
+  "com.superapplabs.aura": {
+    "title": "AI Photo Generator - AURA AI",
+    "package": "com.superapplabs.aura",
+    "description": "Get ready to meet extraordinary AI Photo Generator - AURA AI, AI portrait generator and AI dance video generator! Transform your selfies into wonderful AI professional headshots with AI photo to video maker, ai selfie generator, headshots ai couple photo editor and ai portrait generator! Create AI dance video with dance ai video generator and try bw filter with black and white photo editor, get studio quality ai professional headshot, with amazing professional ai headshot maker, and create couple ai dream wedding ai wedding photo generator! \nCreate luxury photoshoots as if you\u2019re on a yacht, shopping a high fashion boulevard with ai portrait generator, dining at a five star restaurant, or cruising in a private jet. Aura AI Photo Generator is here for you to transform into different styles ",
+    "icon": "/icons/com.superapplabs.aura.jpg"
+  },
+  "com.scotts.lawnapp": {
+    "title": "My Lawn: A Guide to Lawn Care",
+    "package": "com.scotts.lawnapp",
+    "description": "The My Lawn app from Scotts simplifies lawn care by creating an easy-to-follow lawn maintenance plan so you know the right products to use at the right time.\n\nKEY FEATURES:\n\nWHAT PRODUCTS TO BUY\nCreate a lawn care plan for product recommendations. My Lawn will generate a personalized lawn care plan based on your grass type, location, lawn size, and lawn conditions.\n\nWHEN TO APPLY PRODUCTS\nBased on product specifications and weather conditions, My Lawn will notify you when it is the perfect time to apply. Make sure you have push notifications enabled to get the notifications.\n\nPURCHASE PRODUCTS\nDuring the growing season, conveniently purchase all the Scotts products needed to care for your lawn for the rest of the season. Products will be delivered straight to your home with free shipping.\n",
+    "icon": "/icons/com.scotts.lawnapp.png"
+  },
+  "com.lawnlove.customers": {
+    "title": "Lawn Love",
+    "package": "com.lawnlove.customers",
+    "description": "Managing your yard shouldn\u2019t feel like a second job. Lawn Love makes it painless. Book a trusted local pro near you for mowing, leaf removal, bush trimming, and dozens of other outdoor services in just a few taps. You get fast scheduling, clear pricing, and pros who actually show up.\n\nWhat you can book:\n\u2022 Mowing and recurring lawn care\n\u2022 Leaf removal & fall cleanups\n\u2022 Fertilization and other seasonal treatments\n\u2022 Bush trimming, weeding, and gardening\n\u2022 Gutter cleaning, pressure washing, junk removal\n\u2022 Custom landscaping projects\n\u2022 One-time or recurring maintenance\n \nWhy people use Lawn Love:\n\u2713 Upfront pricing before you book\n\u2713 Fully vetted, highly rated local pros\n\u2713 Fast scheduling - no back-and-forth\n\u2713 Manage everything in the app (skip, reschedule, add services)\n\nHow it works:\n1. Enter y",
+    "icon": "/icons/com.lawnlove.customers.png"
+  },
+  "com.lawnguru": {
+    "title": "LawnGuru- Lawn, Snow & Garden",
+    "package": "com.lawnguru",
+    "description": "LawnGuru is the #1 app for lawn, snow and landscape services.\n\nEnter your address and use our automated measuring tools for instant pricing on lawn mowing and snow clearing services. Looking for something special? No problem! Our network of five star pros can accommodate a wide range of requests. Submit a fast & easy quote request and we\u2019ll deliver multiple bids from the best Pro\u2019s working in your neighborhood.\n\nWE OFFER:\n\n        - Lawn Mowing ( Instant Price ) \n        - Snow Clearing ( Instant Price )\n        - Yard Cleanups\n        - Weeding\n        - Seeding\n        - Aeration\n        - Hedge Trimming\n        - Mulch Installation\n        - Tree Work\n        - Pressure Washing\n        - Sprinkler Startup and Winterization\n        - Gutter Cleaning\n        - Junk Removal\n        - And M",
+    "icon": "/icons/com.lawnguru.png"
+  },
+  "com.ionicframework.greenpal793748": {
+    "title": "GreenPal Lawn Care",
+    "package": "com.ionicframework.greenpal793748",
+    "description": "GreenPal is grass mowing made easy by lawn care pros near you. \n\nGet next day lawn service from the app without having to call around leaving voicemails for quotes. Get quotes, select the provider, read reviews, schedule lawn mowing, and give feedback. \n\nForget about grass mowing and always have your lawn maintenance done in time.\n\nHOW THE SERVICE WORKS\n\nNo need to do yard care yourself. Save the time you spend on visiting garden & landscaping stores for buying tools or fertilizer. Getting your lawn mowed with GreenPal is just like ordering home cleaning by maid service, or getting fixed something at home by a handyman.\n\nYou receive multiple quotes fast from locally rated lawn care services and providers. No calling around needed. \n\nProfessional providers will do the job with their own too",
+    "icon": "/icons/com.ionicframework.greenpal793748.png"
+  },
+  "com.yardmastery.lawnjournal": {
+    "title": "Yard Mastery: Lawn Care App",
+    "package": "com.yardmastery.lawnjournal",
+    "description": "Get your dream lawn with personalized lawn care recommendations based on your soil,\nlocation, and grass type. Join 100,000+ DIY lawn enthusiasts using Yard Mastery to\ncreate beautiful, healthy lawns.\n\nYOUR PERSONALIZED LAWN CARE PLAN\n\u2022 Custom lawn care schedule tailored to your zip code and grass type\n\u2022 Step-by-step fertilizer recommendations - what to apply and when\n\u2022 Real-time soil temperature tracking for your exact location\n\u2022 Dynamic plan adjustments based on weather and your progress\n\u2022 Professional-grade lawn program guides (warm season, cool season, transition zones)\n\nLAWN JOURNAL & TRACKING\n\u2022 Track all lawn treatments, applications, and maintenance tasks\n\u2022 Photo journal to document your lawn transformation\n\u2022 Separate tracking for front yard, backyard, side yards, and more\n\u2022 Smart re",
+    "icon": "/icons/com.yardmastery.lawnjournal.png"
+  },
+  "com.stark.vapor": {
+    "title": "Vapor IconPack \u2013 Modern Icons",
+    "package": "com.stark.vapor",
+    "description": "Attention:  A custom Android launcher is required to fully enjoy this iconpack unless your stock launcher supports iconpacks! Some of your icons may remain unthemed, but rest assured all your icons will be themed as Vapor Icon Pack comes with 5+ years of updates & support. This is a NEW iconpack, it will get MASSIVE updates every week to make sure you have a good amount of themed icons!  \n\nTransform Your Android Home Screen\nIntroducing Vapor Icon Pack \u2013 a premium collection of modern and futuristic icons designed to make your device look truly unique. Each icon is handcrafted with smooth gradients and a clean, modern style that balances elegance and functionality.\n\nWhether you love material design icons, gradient icon packs, or minimal Android themes, Vapor has it all. The vibrant colors a",
+    "icon": "/icons/com.stark.vapor.png"
+  },
+  "app.lawnchair.lawnicons.play": {
+    "title": "Lawnicons",
+    "package": "app.lawnchair.lawnicons.play",
+    "description": "Lawnicons is an open-source icon pack with brand icons for Android launchers. The icons are based on Material You, with an outlined design and rounded corners. Made by the Lawnchair team and the community.\n\nSource code: https://lawnchair.app/lawnicons\n\nReport issues and request features on GitHub:\nhttps://github.com/LawnchairLauncher/lawnicons/issues",
+    "icon": "/icons/app.lawnchair.lawnicons.play.png"
+  },
+  "ai.hailuo.video": {
+    "title": "Hailuo Al: Image&Video Maker",
+    "package": "ai.hailuo.video",
+    "description": "Hailuo Al: Your Al Image&Video Creation Companion\nTransform your ideas into captivating images&videos with just a few clicks! Hailuo AI harnesses advanced Al technology to generate high-quality videos from text descriptions or images.\nKey Features:\n-Text-to-Image: Generate high-quality images from text prompts to support your creative workflow\n- Text-to-Video: Turn your written descriptions into vivid video content\n- Image-to-Video: Convert still images into dynamic video scernes\n- Subject Reference: Create videos with consistent character appearances across scenes\n- Exceptional Emotional Expression: Generate videos with authentic and engaging character emotions\n- Professional-Grade Quality: Create stunning visuals for social media and marketing content\n(Some advanced features are availabl",
+    "icon": "/icons/ai.hailuo.video.png"
+  },
+  "com.bandot.lanting.material.icons": {
+    "title": "Lanting Icon Pack: Colorful",
+    "package": "com.bandot.lanting.material.icons",
+    "description": "Searching for the perfect icon pack to personalize your Android device? Look no further! Lanting Icon Pack: Colorful delivers a vibrant and stylish collection of meticulously crafted icons, breathing new life into your home screen. With thousands of icons and regular updates, Lanting offers unparalleled customization options.\n\nKey Features for Icon Pack Enthusiasts:\n* Massive Icon Library\nEnjoy over 5.461 crisp, XXXHDPI icons, and growing! Find the perfect match for all your favorite apps.\n\n* Hand-Crafted Vector Design\nEach icon is meticulously designed with vector graphics, ensuring sharp, detailed visuals at any size.\n\n* Stunning Wallpapers\nComplement your icons with 100+ Full HD cloud-based wallpapers, creating a cohesive and beautiful aesthetic.\n\n* Alternate Icons & Customization\nChoos",
+    "icon": "/icons/com.bandot.lanting.material.icons.png"
+  },
+  "ru.execbit.aiolauncher": {
+    "title": "AIO Launcher",
+    "package": "ru.execbit.aiolauncher",
+    "description": "AIO Launcher \u2014 a home screen that helps, not distracts\n\nAIO Launcher isn\u2019t just a home screen \u2014 it\u2019s a powerful tool for those who want to use their phone more efficiently. A minimalist, fast, and thoughtful interface that shows only what matters and helps you save time.\n\nWhy AIO is better:\n\n- Information, not icons. A screen full of useful data instead of a grid of apps.\n- Flexible and customizable. Make it your own in just a few minutes.\n- Fast and lightweight. No unnecessary animations or slowdowns.\n- Private and secure. No tracking, ever.\n\nWhat AIO Launcher can do:\n\n- 30+ built-in widgets: Weather, notifications, messengers, tasks, finance, and much more.\n- Tasker integration and Lua scripting for automating your daily routines.\n- Built-in ChatGPT integration \u2014 smart replies, automatio",
+    "icon": "/icons/ru.execbit.aiolauncher.png"
+  },
+  "ginlemon.iconpackstudio": {
+    "title": "Icon Pack Studio",
+    "package": "ginlemon.iconpackstudio",
+    "description": "We created IPS with the idea that no icon pack can fit your home screen better than the one you create by yourself. With IPS you can create an icon pack from scratch or you can download and apply one of thousand uploaded every day by our community.\n\nThe advanced editor allows you to resize and move any element of your custom icon. Use special filters like lights, shadows, textures, and bezels and when you're happy with the result, apply the new icon pack to your custom launcher in just a few taps. \n\nIcon Pack Studio is not only an icon pack maker, starting from version 2 you can import and tweak any icon pack installed on your device.\n\nIcon packs created with Icon Pack Studio cover any app on your device No other icon pack downloaded from Play Store can do the same.\n\nIcon Pack Studio is de",
+    "icon": "/icons/ginlemon.iconpackstudio.png"
+  },
+  "app.lawnchair.play": {
+    "title": "Lawnchair",
+    "package": "app.lawnchair.play",
+    "description": "Lawnchair is a free, open source home screen replacement based on Launcher3 from the Android open source project. The app aims to provide an experience similar to that of the Pixel Launcher, while offering more features.\n\nKey highlights:\n* Material You support (with dark theme and color customizations)\n* At a Glance support, alongside Smartspacer app support\n* Rich grid and icon customizations\n* Local, on-device search support\n* Optional integration with Android Recents\u00b9\n\nLawnchair is still in beta, so not all features and bugs fixes have been fixed yet. We plan on releasing a stable release when Lawnchair meets all features in Lawnchair Legacy, alongside our quality standards.\n\nGet help and support\nVisit https://lawnchair.app to view more info, and see our discussion channels for help and",
+    "icon": "/icons/app.lawnchair.play.jpg"
+  },
+  "com.ss.squarehome2": {
+    "title": "Square Home",
+    "package": "com.ss.squarehome2",
+    "description": "* This app uses the Device Administrator permission.\nIf Android version is lower than 9.0, you should allow the permission to make the \"screen lock\" launcher action work.\n\n* This app uses Accessibility service API for the following Launcher actions only if necessary:\n - Expand notifications\n - Expand quick settings\n - Open recent apps\n - Screen lock\n - Power dialog\n\n\nSquare Home is the ultimate launcher featuring the iconic Metro UI of Windows 10. Designed for phones, tablets, TV boxes, and especially foldable devices, it offers a user experience that is simple, beautiful, and incredibly powerful.\n\nKey Features:\n\u2022 Foldable Screen Support: Perfectly adapts to foldable displays, offering a seamless experience on devices like the Galaxy Z Fold series.\n\u2022 Vertical & Horizontal Scrolling: Effort",
+    "icon": "/icons/com.ss.squarehome2.png"
   }
 }
