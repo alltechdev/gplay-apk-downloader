@@ -40394,5 +40394,646 @@
     "package": "come.myindianow.protradingsignal",
     "description": "AI Pro Trading Signal App Designed to Make You More Profitable: Artificial Intelligence Driven Signals for Forex, Crypto, Stocks!\nWelcome to the world of AI Pro Trading Signal! In this article, we will explore the features and benefits of the AI Pro Trading Signal app, which is specifically designed to make you more profitable in the financial markets, including Forex, Crypto, and Stocks. Our AI-powered platform leverages cutting-edge technology to provide you with accurate trading signals, allowing you to capitalize on lucrative opportunities in the market.\n\nAI Pro Trading Signal: What Sets Us Apart\nAt AI Pro Trading Signal, we differentiate ourselves from the competition through our commitment to constant learning and improvement. Our AI algorithms are continuously scanning the crypto, f",
     "icon": "/icons/come.myindianow.protradingsignal.png"
+  },
+  "cover.letters": {
+    "title": "Cover letter generator",
+    "package": "cover.letters",
+    "description": "Application for generating cover letters for over 100 different jobs.\n\nWith this app, you can generate cover letters for a wide range of job positions. You juste have to select a job from the extensive list and enter your personal information, including your full name, address, phone number, and email address. Then, provide the desired date and company informations, and the app will generate a complete cover letter for you. You can save and edit the cover letter as many times as you need.\n\nAdditionally, you can create cover letters for any job of your choice. Just create a generic cover letter and input the job name, your interest in the position, as well as your relevant experience and skills.\n\nPlease note that the generated letters should be reviewed and customized to reflect your person",
+    "icon": "/icons/cover.letters.png"
+  },
+  "de.moll.aiscanner": {
+    "title": "AI Scanner",
+    "package": "de.moll.aiscanner",
+    "description": "End the era of \u201cSCAN_001.pdf\u201d and manual folder chaos. AI Scanner uses state-of-the-art AI to fully automate your document workflow.\n\nWHY AI SCANNER?\nMost scanner apps only take photos. AI Scanner understands your documents. Thanks to Google Gemini AI integration, the app analyzes the content and takes over the tedious management work for you.\n\nTOP FEATURES:\n\n\ud83d\ude80 AUTOMATIC NAMING:\nForget manually typing file names. The AI detects sender, document type, and date directly from the scan. Your files are automatically named precisely (e.g. \u201c2024-02-07_Telekom_Invoice.pdf\u201d) \u2014 consistent and professional.\n\n\ud83d\udcc2 INTELLIGENT FOLDER STRUCTURE:\nThe app learns as it goes. It analyzes your existing Google Drive structure and automatically places new scans in the correct folder (e.g. under \u201cInsurance/Vehicle",
+    "icon": "/icons/de.moll.aiscanner.png"
+  },
+  "de.moodpath.android": {
+    "title": "MindDoc: Mental Health Support",
+    "package": "de.moodpath.android",
+    "description": "\ud83c\udf1f Discover MindDoc: Your Mental Health Companion\nEmbark on your journey towards better mental health with MindDoc. Trusted by over 3 million users worldwide, MindDoc is rated 4.7 stars from 26,000+ reviews, making it the go-to app for mental well-being.\n\n\ud83e\udde0 Developed by Experts in Mental Health\nDeveloped by clinical psychologists and researchers, MindDoc is designed to support individuals facing common mental health challenges including depression, anxiety, insomnia, and eating disorders.\n\nTrack Your Mood and Journal Your Thoughts \ud83d\udcdd\nUtilize our intuitive mood tracking feature to monitor your emotional state and journal your thoughts, feelings, and experiences.\n\nPersonalized Insights and Feedback\nReceive regular feedback on your symptoms, problems and resources as well as a global assessment",
+    "icon": "/icons/de.moodpath.android.png"
+  },
+  "de.vsmedia.biometricpassportphoto": {
+    "title": "Passport Photo - ID Photo",
+    "package": "de.vsmedia.biometricpassportphoto",
+    "description": "With this passport photo app, you can quickly create, format, print, or save photos for personal use and applications.\n\nThe app includes templates based on commonly used passport photo guidelines. These templates are intended as a general reference and may not match official requirements in all cases. In addition to passport-style photos, the app can also be used to prepare photos for job applications and similar purposes.\n\nAutomatic background replacement makes it easy to remove unwanted backgrounds and replace them with a clean, plain background. Additional professional backgrounds can be unlocked with a one-time in-app purchase.\n\nThe app provides tools to adjust and prepare your photos. Images can be used for applications such as ID, passport, driving license, or job applications, depen",
+    "icon": "/icons/de.vsmedia.biometricpassportphoto.png"
+  },
+  "dev.kunu.voxdub": {
+    "title": "VoxDub - AI Video Translator",
+    "package": "dev.kunu.voxdub",
+    "description": "VoxDub \u2013 AI Video Dubbing & Translation\n\nVoxDub simplifies the process of making your videos accessible to a global audience. Through advanced AI video dubbing technology, the application takes a video spoken in one language and completely dubs the audio into another language, providing you with a fully translated, ready-to-share video.\n\nIf you want to translate a Spanish video to English, or dub English content into Hindi, French, or Odia, VoxDub handles the entire process. Rather than just giving you a text transcript or an isolated audio file, our AI video translator generates a complete final video where the spoken language matches your chosen target language.\n\nKey Features:\n\n\ud83c\udf99\ufe0f AI Video Dubbing\nSelect a video from your device and let our video translator engine dub it instantly. The a",
+    "icon": "/icons/dev.kunu.voxdub.jpg"
+  },
+  "dk.tbsys.chat_app": {
+    "title": "English Speaking Practice - AI",
+    "package": "dk.tbsys.chat_app",
+    "description": "Enhance Your English Communication with Talk Fluent \u2013 Your AI-Powered Language Learning Companion!\n\nReady to master English and communicate confidently? With Talk Fluent, achieve fluency with AI-driven tools designed for real-world conversations and academic success. More advanced than Duolingo or Talk Pal AI, Talk Fluent\u2019s 60-Day Speaking Crash Course brings English to life, helping you practice language skills for daily conversations, academic goals, or professional interactions.\n\n\ud83c\udf1f Key Features:\n\n60-Day Speaking Crash Course: Follow a structured, step-by-step course designed to elevate your English speaking skills. Engage in diverse scenarios, from everyday conversations to advanced discussions, and gain the fluency needed to communicate effortlessly.\n\nAI-Powered Conversations: Practice",
+    "icon": "/icons/dk.tbsys.chat_app.png"
+  },
+  "editingapp.pictureeditor.photoeditor": {
+    "title": "Photo Editor: Retouch, Enhance",
+    "package": "editingapp.pictureeditor.photoeditor",
+    "description": "DoFoto is a free all-in-one face photo editing app that helps you create stunning photos with unlimited creativity!\n\nAs a top free face photo editing app, DoFoto features a powerful  AI Retouch & Face Editor for flawless photo retouch, a free AI Photo Enhancer to improve photo quality, and aesthetic filters and AI effects for creative photo edits.\n\nKEY FEATURES\n\n\ud83d\udc85\ud83c\udffbFace Tune & Retouch\ud83d\udc85\ud83c\udffb  \n* Easily adjust your face shape and enhance facial features \n* Face editor with precise adjustments for each side of the face, eyes, and eyebrows\n* Multi-face editing: Up to 20 faces. Face app that perfect for group photos\n* Auto Retouch: Face blemish remover, teeth whitener, skin smoother, wrinkle remover, perfect your selfies instantly\n\n\u2728Useful & Fun AI Tools\u2728 \n* AI Photo Enhancer: Turn your photos into ",
+    "icon": "/icons/editingapp.pictureeditor.photoeditor.png"
+  },
+  "engcom.legendei": {
+    "title": "GetCaption AI \u2013 Subtitles",
+    "package": "engcom.legendei",
+    "description": "Turn your videos into accessible and professional content with GetCaption AI.\n\nOur app uses artificial intelligence to generate accurate subtitles directly from your video\u2019s audio \u2014 fast, simple, and reliable.\n\n\u2728 Key Features:\n\n\ud83d\udcdd Automatic subtitles: AI recognizes speech and creates subtitles in seconds.\n\n\ud83c\udfa8 Easy editing: Adjust text, timing, and subtitle styles.\n\n\ud83d\udcc2 Import videos effortlessly: Select videos directly from your gallery.\n\n\ud83d\udcbe Export with ease: Save your subtitled video straight to your device.\n\n\ud83d\udcf1 Intuitive interface: Designed to be simple for everyone.\n\n\ud83c\udfaf Perfect for:\n\nContent creators on social media (YouTube, Instagram, TikTok).\n\nBusinesses and freelancers looking to increase video reach.\n\nAnyone who needs accessibility through subtitles.\n\n\ud83d\udd12 Privacy & Security\n\nYour videos are",
+    "icon": "/icons/engcom.legendei.png"
+  },
+  "expense.tracker.budget.ai": {
+    "title": "Expense tracker: Budget AI",
+    "package": "expense.tracker.budget.ai",
+    "description": "Complete expense tracker, budget app and money manager powered with AI. \n\nAdd transactions by voice, receipt scanner, or manual entry. Just say \"Spent $15 on lunch and $8 on cinema\" - the ai expense tracker splits entries, assigns categories, and logs amounts instantly. Multiple entries at once with voice or receipt scanner make this money manager incredibly fast.\n\nBudget AI is a smart spending tool that makes tracking expenses effortless. Whether you need a daily expense tracker, a finance planner, or a simple budget solution - this budget app has you covered.\n\n\ud83d\udcca Powerful Budget & Finance Planner\nSet budgets for any category and track your spending in real time. Daily and weekly spending allowance keeps your budget on track. This finance planner shows clear analytics, history, and breakdo",
+    "icon": "/icons/expense.tracker.budget.ai.png"
+  },
+  "fastemy.wabywab.accentai": {
+    "title": "Accent AI - Speaking English",
+    "package": "fastemy.wabywab.accentai",
+    "description": "Tailored for ambitious professionals, students, and anyone striving to speak English flawlessly.\n\nFrom You:\n\"Super friendly: This is a great app, it was effortless to setup and I completed a microlesson in no time.\"\nphpfour\n\n\"Well designed app: Very well designed and results are awesome and trackable.\"\nKiran6014\n\nWHY ACCENT AI?\n\n\u2022 Real-Time Feedback: Get instant corrections on your pronunciation and intonation as you speak. Our AI listens and guides you on the spot \u2013 it\u2019s like having a personal accent coach 24/7.\n\u2022 Industry-Specific Role-Plays: Practice with scenarios and dialogues from the tech, academic, and customer service worlds (and more). From IT team meetings to grad school presentations to customer support calls, Accent AI prepares you for the real situations you face\n\n\u2022 Filler Wo",
+    "icon": "/icons/fastemy.wabywab.accentai.png"
+  },
+  "fastemy.wabywab.notespeakainotestaker": {
+    "title": "NoteSpeak: AI Notes Taker",
+    "package": "fastemy.wabywab.notespeakainotestaker",
+    "description": "Turn spoken words into organized knowledge \u2014 instantly.\n\nNoteSpeak records any talk and transforms it into clean transcripts, concise AI summaries, and notes. Capture lectures, meetings, interviews, and podcasts. Get the key points, action items, timestamps, and categories\u2014so you can review in minutes, not hours.\n\nWhy NoteSpeak?\n\n- One-tap capture: Start recording fast\u2014focus on the moment, not the mic.\n\n- Accurate transcripts: Clear, readable text for lectures, meetings, and voice notes.\n\n- AI key points: Automatic summaries with highlights, action items, and decisions.\n\n- Chapters & timestamps: Jump to the exact moment that matters.\n\n- Auto-organized notes: Categories, tags, and smart folders keep everything tidy.\n\n- Works across languages: Record and transcribe in multiple languages for ",
+    "icon": "/icons/fastemy.wabywab.notespeakainotestaker.png"
+  },
+  "fastemy.wabywab.todospeakai": {
+    "title": "To-Do Speak - AI Voice Tasks",
+    "package": "fastemy.wabywab.todospeakai",
+    "description": "Stop typing your to-do list. Just speak it.\nTo-Do Speak AI turns your voice into a clean, organized to-do list in seconds, so you can stay focused, hands-free and stress-free.\nWhether you\u2019re driving, cooking, studying or working, simply say what you need to do and watch it become structured tasks you can check off during the day.\n\nHow it works:\n- Tap the microphone\n- Speak your tasks naturally\n- To-Do Speak AI organizes them into a smart to-do list\n\nPerfect for:\n- Quick voice tasks and reminders\n- Daily planning on the go\n- Students, busy professionals and parents\n- People who prefer talking instead of typing\n\nKey features:\n- Voice to to-do list: turn speech into clear, actionable tasks\n- Hands-free productivity: capture tasks while driving, walking or multitasking\n- Smart organization: gr",
+    "icon": "/icons/fastemy.wabywab.todospeakai.png"
+  },
+  "fm.anchor.android": {
+    "title": "Spotify for Creators",
+    "package": "fm.anchor.android",
+    "description": "The official app from Spotify that helps creators grow, monetize, and manage their podcast or video show. The Spotify for Creators app (formerly known as Spotify for Podcasters) allows you to host and distribute your podcast for free, use powerful tools to reach and engage new audiences, get paid for your content, and stand out to over 600 million Spotify users. Spotify for Creators is where podcasters and video creators can make meaningful connections with fans and monetize their content. Hosted somewhere else? You can still use our mobile app to manage your show on the go. \n\nFans come to Spotify to discover new podcasts. Tap into this audience by using Spotify for Creators to upload your episodes, connect with your fans, and check out your Spotify podcast analytics. With Spotify for Crea",
+    "icon": "/icons/fm.anchor.android.png"
+  },
+  "fm.castbox.audiobook.radio.podcast": {
+    "title": "Podcast Player - Castbox",
+    "package": "fm.castbox.audiobook.radio.podcast",
+    "description": "With Castbox, you can find all your favorite shows, get the latest episodes, discover more recommendations, and customize your listening experience.\n\nCastbox is the best FREE Podcast Player & Podcast App on Android.\n\nOur OPML Import feature makes it easy to transfer your subscribed podcasts from other apps to Castbox. This ensures that you don't miss a beat in your podcast listening and can continue enjoying your favorite shows without interruption. Try it out today and discover why Castbox is the ultimate podcast app.\n\nThe best free podcast player and podcast app to find, save, download, and listen to your favorite podcasts (such as Crime Junkie, Stuff You Should Know, The Daily), FM, radio and audiobooks.\n\nCastbox is an easy to use free podcast player for podcast lovers, offering a super",
+    "icon": "/icons/fm.castbox.audiobook.radio.podcast.jpg"
+  },
+  "geeks.appz.autocaptions": {
+    "title": "AI Auto Captions",
+    "package": "geeks.appz.autocaptions",
+    "description": "Introducing 'AI Auto Captions', the ultimate video editing app that harnesses the power of artificial intelligence to create seamless and captivating video experiences. With 'AI Auto Captions', users can effortlessly upload their videos and transform them into engaging masterpieces with auto-generated captions and studio quality sound.\n\nKey Features:\nAutomatic Captions: Say goodbye to the hassle of manually transcribing your videos. 'AI Auto Captions' cutting-edge AI technology automatically generates accurate captions for your uploaded videos. This feature is not only a time-saver but also ensures that your videos are accessible to a broader audience on TikTok, Instagram, YouTube, Snapchat, Twitter, Linkedin, Threads and more.\n\nEditable Captions: While the auto-generated captions are impr",
+    "icon": "/icons/geeks.appz.autocaptions.jpg"
+  },
+  "geeks.appz.podcasts": {
+    "title": "Podify - AI Podcast generator",
+    "package": "geeks.appz.podcasts",
+    "description": "Create Professional Podcasts in Minutes with AI\nTransform your ideas into engaging podcast episodes using AI. Generate scripts, convert text to speech with natural voices, and produce videos with subtitles\u2014all in one app.\n\ud83c\udf99\ufe0f AI Podcast Generator\nCreate podcasts from any topic or document. Our AI writes scripts, generates natural voices, and produces ready-to-share content.\n\ud83d\udcdd Multiple Input Options\nTopic-based: Enter a topic and get a full podcast script\nDocument upload: Convert PDFs, articles, and images into podcasts\nAudio input: Use your own audio files as source material\nCustom text: Write or edit scripts before generation\n\ud83c\udfa4 Natural Text-to-Speech Voices\nChoose from multiple voices in various languages. Voices sound natural and expressive.\n\ud83c\udfac Video Podcast Creation\nGenerate video podcast",
+    "icon": "/icons/geeks.appz.podcasts.jpg"
+  },
+  "gg.nebula": {
+    "title": "Nebula AI - Smart AI Agents",
+    "package": "gg.nebula",
+    "description": "Nebula is your autonomous AI agent team that works around the clock. Automate email, code execution, data analysis, scheduling, and workflows from a single chat interface. This is not just another AI chatbot. Nebula deploys intelligent AI agents that connect to your real tools and take real action.\n\nWHAT MAKES NEBULA DIFFERENT\n\nMost AI assistants just generate text. Nebula is an AI agent platform that actually executes tasks across your apps. Each agent connects to real services like Gmail, GitHub, Slack, Google Calendar, Google Sheets, Linear, Notion, and over 600 integrations. They read your data, perform actions, and report back. No copy-pasting. No switching between apps. No manual busywork.\n\nYOUR AI AGENTS CAN:\n\n\u2022 Automate email by reading, sending, organizing your inbox, and drafting",
+    "icon": "/icons/gg.nebula.png"
+  },
+  "global.aimd.orthoai": {
+    "title": "Ortho AI - AIMD",
+    "package": "global.aimd.orthoai",
+    "description": "Ortho AI is your AI-powered orthopedic assistant designed for healthcare professionals, medical students, and anyone seeking evidence-based orthopedic information.\n\n\u2605 SPECIALIZED AI AGENTS \u2605\nAccess 11 specialized AI agents, each trained for specific orthopedic subspecialties:\n\n\u2022 General AI - Comprehensive orthopedic coverage\n\u2022 Spine AI - Spinal disorders, degenerative conditions, and spine surgery\n\u2022 Trauma AI - Fracture management and emergency orthopedics\n\u2022 Charnley AI - Hip replacement and joint arthroplasty specialist\n\u2022 Salter AI - Pediatric orthopedics and developmental conditions\n\u2022 Arthros AI - Arthroscopy and minimally invasive procedures\n\u2022 Shoulder AI - Shoulder pathology, rotator cuff, and instability\n\u2022 Hand AI - Hand surgery and upper extremity conditions\n\u2022 Predictive AI - Evidenc",
+    "icon": "/icons/global.aimd.orthoai.png"
+  },
+  "gpt.text.ai.detector": {
+    "title": "AI Detector - Humanize AI Text",
+    "package": "gpt.text.ai.detector",
+    "description": "The AI Detector app is a complete writing improvement tool for Android users.\n\nIt combines an AI checker and humanizer, plagiarism checker, plagiarism remover, and grammar checker in one simple and powerful app.\n\nStudents, teachers, bloggers, researchers, and professionals can use it to ensure that their writing is original, authentic, error free, and human-like. \n\nThe app uses advanced scanning technology to improve your content quality and protect your work from AI detection or plagiarism issues.\n\nAI Content Detector\nThe AI checker scans your text and identifies AI-generated lines from models like ChatGPT, GPT 4, Gemini, DeepSeek, Claude and others.\n\nIt highlights AI written parts in your text and provides an authenticity score. This helps you edit and humanize AI content before you subm",
+    "icon": "/icons/gpt.text.ai.detector.png"
+  },
+  "health.onvy": {
+    "title": "ONVY \u2014 AI Health Coach",
+    "package": "health.onvy",
+    "description": "If you\u2019re already tracking your health with an Apple Watch, Oura, Garmin, Fitbit or any other another wearable, then it\u2019s time to go beyond data and start mastering it. ONVY is the ultimate AI-powered Precision Health Coach that transforms your wearable data into real-time, hyper-personalized insights \u2013 bridging the gap between fitness, nutrition, recovery, sleep and performance like no other app. \n\nONVY turns your wearable into an AI-powered precision health coach to turn peak performance and deep insights into lasting results. Join the new era of intelligent health ownership and get AI driven health coaching from ONVY today.\n\nEver wondered what impact your meals are having? With our new Meal Log, you can now scan foods and see a nutrition summary. No more guessing, simply clear, feedback",
+    "icon": "/icons/health.onvy.png"
+  },
+  "hero.app.main": {
+    "title": "Hero Crypto AI Browser",
+    "package": "hero.app.main",
+    "description": "Hero \u2013 Your Browser for Web3 and Crypto\nDiscover the future of the internet with Hero, the ultimate Web3 browser designed to unlock the full potential of blockchain technology. Empower your crypto trading experience with a Crypto AI Chatbot, easy access to decentralized applications (dApps), and a built-in wallet, all with a fast, secure, private, and seamless browsing experience.\n\nWith Hero, you can:\nBrowse the Decentralized Web\nExplore the Web3 ecosystem like never before. The Hero crypto browser gives you instant access to decentralized apps (dApps), enabling you to interact with blockchain-based services, financial tools, and digital assets. Hero is your gateway to the decentralized future.\n\nOther browsers like Brave, Aloha, DuckDuckGo and Opera claim to be Web3 and crypto-friendly, bu",
+    "icon": "/icons/hero.app.main.png"
+  },
+  "hk.treehole.mindforest": {
+    "title": "MindForest: Mental Health AI",
+    "package": "hk.treehole.mindforest",
+    "description": "Your 24/7 AI wellness companion.\n\nFeeling overwhelmed? Need someone to talk to at 3am? MindForest is here. Our AI wellness coach ForestSage listens without judgment, helps you process emotions, and offers personalized guidance based on psychological principles.\n\nTrusted by 20,000+ users with 4.7 rating.\n\n===\n\nWhy MindForest?\n\nAI Wellness Coaching\nTalk to ForestSage anytime. Our AI understands context, remembers your journey, and responds naturally - users say it feels like chatting with a real person. Available in Cantonese and English.\n\nInsight Story\nYour conversations automatically become a personal journal. Track insights, spot patterns, and see your growth over time. No blank page anxiety - just talk.\n\nPsychology Assessments\nDiscover yourself with BIG5 personality tests and other psych",
+    "icon": "/icons/hk.treehole.mindforest.png"
+  },
+  "homework.helper.math.solver.answers.essay.writer.ai": {
+    "title": "Solvo - Math Homework Helper",
+    "package": "homework.helper.math.solver.answers.essay.writer.ai",
+    "description": "Study with Solvo\u2014your AI homework helper and math solver for every subject.\n\nTrusted by over a million students, parents, and educators around the world, Solvo turns tough assignments into step-by-step lessons. Got a homework problem, a big exam coming up, or a topic that just won\u2019t click? The app breaks it all down so you walk away with real comprehension, not just a finished assignment.\n\nWith Solvo, you can:\n\u2022 Scan and solve problems in math, chemistry, physics, and biology\n\u2022 Learn through detailed, step-by-step explanations that reveal the \u201cwhy\u201d behind every answer\n\u2022 Summarize documents, videos, and web pages so you can focus on what actually matters\n\u2022 Get instant, accurate school answers\u2014over 10 million problems solved and counting\n\nHere\u2019s how Solvo helps you learn:\n\n\ud83d\udcf8 SNAP A PHOTO, GE",
+    "icon": "/icons/homework.helper.math.solver.answers.essay.writer.ai.png"
+  },
+  "icv.resume.curriculumvitae": {
+    "title": "Resume - Intelligent CV maker",
+    "package": "icv.resume.curriculumvitae",
+    "description": "Intelligent cv's Resume building app will help you to create professional resume & Curriculum vitae for job application in few minutes. More than 50 resume templates available and each Resume template & CV template available in 15 colors. So you have 500+ resume designs in offline and online.\n\nCreate a modern & professional resume and cover letter with this CV maker app. Our resume expert's tips will help you how to write a good resume trend. Resume writing tips will help you get more job offers. Prepare yourself ready for full time and part time work from home jobs.\n\nIntelligent CV builder app Features:\n1. 500+ professional resume templates & 42 perfect resume formats.\n2. Step by step guidance with resume examples.\n3. Resume with cover letter template.\n4. Advanced Resume editor - Special ",
+    "icon": "/icons/icv.resume.curriculumvitae.png"
+  },
+  "id.passport.photo.lite": {
+    "title": "ID Passport VISA Photo Maker",
+    "package": "id.passport.photo.lite",
+    "description": "Passport Size Photo Maker (ID Photo Maker Studio) is the best passport size editor app among free passport photo maker, editor and photo print apps. This app lets you save money by combining standard passport, ID or VISA photos into single sheet of 3x4, 4x4, 4x6, 5x7 or A4 paper. Then you can order prints from print service providers. Or, you can take your phone to local photo print service providers and get it printed.\n\nPassport size photo maker is capable of creating official photo sizes for ID, Passport, VISA and License of all countries of the world including USA, Spain, Germany, France, India, Italy, Korea and Brazil. All the basic features that are needed to create a compliant passport photo are available for free.\n\nPassport size photo editor contains all standard printing paper size",
+    "icon": "/icons/id.passport.photo.lite.png"
+  },
+  "id.photo.maker.passport.photo.creator.pro": {
+    "title": "Passport Photo Maker Pro",
+    "package": "id.photo.maker.passport.photo.creator.pro",
+    "description": "Passport Photo Maker Pro \u2013 Create Perfect Passport & ID Photos Instantly\n\nCreate professional, regulation-compliant passport size photos right from your phone with Passport Photo Maker Pro\u2014your all-in-one solution for creating, editing, and printing passport, visa, ID, and license photos at home or on the go. Whether you\u2019re applying for a new passport or renewing a visa, this powerful yet easy-to-use app will help you save time, money, and effort.\n\nForget expensive photo studios\u2014Passport Photo Maker Pro lets you generate multiple photos on a single printable sheet (3x4, 4x6, 5x7, or A4) so you can print them locally or order prints online with ease.\n\n\n---\n\nWhy Choose Passport Photo Maker Pro?\n\n1. Simple, Fast & User-Friendly Interface\nAnyone can create high-quality passport photos in minut",
+    "icon": "/icons/id.photo.maker.passport.photo.creator.pro.png"
+  },
+  "idphoto.ai.portrait.passport.pro": {
+    "title": "IDPhoto & Passport Photo Maker",
+    "package": "idphoto.ai.portrait.passport.pro",
+    "description": "ID Photo & Passport Photo Maker PRO is the perfect id photo editor, and it's the best passport size editor app among passport photo maker, id photo editor and photo print apps.  With it, you can easily create ID photo data from gallery photographs or directly taken photos with a smartphone.\n\n\u25a0\u25a0\u25a0\u25a0 AI-powered technology \u25a0\u25a0\u25a0\u25a0\nID photo maker leverages advanced AI algorithms to ensure your passport photos meet  requirements. ID Photo & Passport Photo Maker automatically adjusts your image, resizing it to the correct dimensions, removing the background, and enhancing the image quality.\n\u25a0\u25a0\u25a0\u25a0 Supports for custom background color \u25a0\u25a0\u25a0\u25a0\nSet the background to any color you like. Please enjoy the custom background of full color\n\u25a0\u25a0\u25a0\u25a0 Supports for formal suit change \u25a0\u25a0\u25a0\u25a0\nUse the amazing suit changer with",
+    "icon": "/icons/idphoto.ai.portrait.passport.pro.png"
+  },
+  "idphoto.editor.passport.photo.maker": {
+    "title": "Passport Photo: ID Photo Maker",
+    "package": "idphoto.editor.passport.photo.maker",
+    "description": "Passport Photo Maker is a professional ID Photo Generator, easily create high-quality ID photos for passport, visa, driver's license, ID card, resume, exam, social media, etc. for free. This ID Photo Maker with advanced AI tools, helps you automatically crops, resize, removes backgrounds, and enhances quality, ensuring a perfect passport photo every time.\u2728\u2728\u2728\n\nSupports the production of ID photos for various purposes in multiple countries (USA, Spain, Germany, France, India, Italy, South Korea, Brazil, Pakistan, Russia, etc.). With just a few simple steps, you can create ID photos without any watermarks and in official sizes. We provide standard printing paper layouts (3x4, 4x4, 4x6, 5x7 or A4, etc.), saving you time and money!\ud83d\udc9d\n\nSelect from the album or use the camera to shoot directly, th",
+    "icon": "/icons/idphoto.editor.passport.photo.maker.png"
+  },
+  "idphoto.passportphoto.maker": {
+    "title": "Passport Photo & IDPhoto Maker",
+    "package": "idphoto.passportphoto.maker",
+    "description": "Easily create ID Photo and Passport photo data by capturing photos or selecting from the existing gallery using this app(Passport Photo & ID Photo Maker). Conveniently save individual photo data for future use.\n\nThe feature allowing unlimited retakes makes it ideal for capturing children's ID photos effortlessly. This app(Passport Photo & ID Photo Maker) generates photo data tailored to the standard 4x6 print size (101.6mm x 152.4mm), enabling easy printing at home using printers compatible with smartphone or digital camera photo files (JPEG format).\n\nMain Features:\nPowered Technology\nThe ID photo maker utilizes advanced algorithms to ensure your passport photos meet official requirements. It automatically adjusts your image, resizing it to the correct dimensions, removing the background, ",
+    "icon": "/icons/idphoto.passportphoto.maker.png"
+  },
+  "in.dealempire.aipodcast": {
+    "title": "AI Podcast",
+    "package": "in.dealempire.aipodcast",
+    "description": "Turn any topic into a captivating AI-generated podcast in minutes. AI Podcast uses advanced AI to create realistic, multi-host conversations from any subject you choose. No microphone, studio, or prior recording experience needed.\n\nSimply type a topic, upload a text or PDF file, or paste a webpage URL. The app reads your content and generates a natural-sounding podcast with AI hosts discussing it in depth. Audio content creation has never been this accessible.\n\nWhat You Can Create\n\nFull podcast episodes from a single sentence or topic keyword\nAudio summaries of documents, articles, PDFs, or web pages\nEducational explainers, Q and A sessions, or interview-style discussions\nSupplementary audio content for blogs, courses, or social media\nHow It Works\n\nInput your topic - type any subject, keyw",
+    "icon": "/icons/in.dealempire.aipodcast.png"
+  },
+  "in.evolve.android": {
+    "title": "Evolve: Self-Care & Meditation",
+    "package": "in.evolve.android",
+    "description": "\ud83e\uddd8\u200d\u2640\ufe0f Find your inner calm & practice self love with our personalized daily self care routine. Evolve is a meditation & self-care app designed to help you relax, de-stress, & find inner peace. With a variety of guided meditations, breathing exercises & mindfulness practices, you can personalize your daily routine by choosing the practices that work best for you.\n\n\u201cBreathing in, I calm body and mind, Breathing out, I smile. Dwelling in the present moment I know this is the only moment.\u201d\n\u2014 Thich Nhat Hanh, Being Peace\n\n\ud83c\udf1e Free mindfulness routine\nYou can now create your own daily self-care routine for your mental health. Choose from 100+ guided meditations, breathing exercises, sleep audios, affirmations & journaling prompts. \n\n\u270d\ud83c\udffb Journaling: Gratitude & daily journal prompts\nPractice daily jo",
+    "icon": "/icons/in.evolve.android.png"
+  },
+  "in.rankguard.shardaquiz": {
+    "title": "Sharda Quiz: AI Test Generator",
+    "package": "in.rankguard.shardaquiz",
+    "description": "Transform any study material into interactive quizzes instantly with Sharda Quiz - India's most advanced AI quiz generator app. Named after the Goddess of Wisdom, our app revolutionizes how you prepare for UPSC, SSC, Banking, Railway, REET, and other competitive exams.\n\n\u2728 WHY SHARDA QUIZ STANDS OUT: Unlike traditional quiz apps, Sharda Quiz uses artificial intelligence to create personalized quizzes from YOUR study materials. Upload any content and get instant practice questions with detailed explanations.\n\n\ud83d\ude80 KEY FEATURES\n\n\ud83e\udd16 AI QUIZ GENERATOR\n\u2022 Generate quizzes from text, photos, PDF files, and YouTube videos\n\u2022 Create unlimited practice questions from any study material\n\u2022 Smart difficulty adjustment based on your performance\n\u2022 Instant quiz creation with AI-powered question generation\n\u2022 Gen",
+    "icon": "/icons/in.rankguard.shardaquiz.png"
+  },
+  "io.drama.shorts": {
+    "title": "DramaShorts: Watch TV & Shows",
+    "package": "io.drama.shorts",
+    "description": "Looking for addictive short dramas you can watch anytime?\n\nDiscover a new way to experience romance with fast-paced, emotional short drama series designed for vertical viewing.\n\nEach story is told in short episodes \u2014 perfect for quick breaks, late nights, and binge watching. Love, obsession, danger, and forbidden passion unfold in minutes, not hours.\n\n\ud83c\udfac What is short drama?\nShort drama is a new format of episodic series made for your phone. Vertical, emotional, and intense \u2014 every episode hooks you from the first second.\n\n\ud83d\udc94 Popular short drama genres:\n- Mafia romance & dangerous love stories\n- Billionaire drama and power relationships\n- Werewolf & lycan mate romance\n- Forbidden love and age-gap drama\n- College romance and secret affairs\n- Dark romance, obsession & betrayal\n\n\ud83d\udd25 Top short dra",
+    "icon": "/icons/io.drama.shorts.png"
+  },
+  "io.elevenlabs.readerapp": {
+    "title": "ElevenReader: Read Books Aloud",
+    "package": "io.elevenlabs.readerapp",
+    "description": "Listen to anything \u2014 bestsellers, PDFs, docs, articles \u2014 in stunningly natural voices you'll love.\n\nElevenReader is one of the highest-rated reader apps that lets you read books aloud, turn PDFs into audio, and listen to thousands of best-selling audiobooks. Hear the difference as one of the most natural-sounding text to speech (TTS) apps \u2014 powered by leading voice technology in 30+ languages.\n\nWHY READERS CHOOSE ELEVENREADER\n\nThousands of Audiobooks\nYour next obsession is waiting. Bestselling audiobooks, eBooks, and hidden gems \u2014 many read aloud in voices you choose. Romance, fantasy, thrillers, sci-fi, and more, with new titles every week.\n\n1,000+ AI Voices You Choose\nPick your narrator for your uploaded files or select eBooks and audiobooks. Choose from 1,000+ voices in 30+ languages th",
+    "icon": "/icons/io.elevenlabs.readerapp.webp"
+  },
+  "io.enhancedapp.pakotec": {
+    "title": "Enhanced - Guided Meditation",
+    "package": "io.enhancedapp.pakotec",
+    "description": "Welcome to Enhanced: Guided Spiritual Meditation, the ultimate solution to boost your self confidence and achieve your fullest potential!\n\nDo you lack self-belief or self-confidence? Do you need that strong will to achieve maximum and become your best self? Will you like to break mental barriers to improve your mental health and achieve self confidence? With this amazing mindfulness & spiritual meditation app, you can not only find calm meditation to ward off the chaos of life but also get to seek daily motivation and sleep meditation to live your life to the fullest. Whether you are looking for the best morning meditation apps, or you need a mindfulness app offering anti stress and focus booster exercises, Enhanced \u2013 Guided Meditation & Anxiety Relief is an amazing pick for you!\n\nAll In O",
+    "icon": "/icons/io.enhancedapp.pakotec.png"
+  },
+  "io.goldenmind.aihomework": {
+    "title": "AI Homework Helper - AI Solver",
+    "package": "io.goldenmind.aihomework",
+    "description": "AI Homework Helper is your personal study companion that makes solving homework simple and stress-free.\nJust snap a photo of your question, and our AI instantly gives you a clear, step-by-step explanation.\n\nPerfect for math problems, equations, algebra, calculus, and word problems, this app helps you study smarter and boost your confidence.\n\nKey Features:\n\t\u2022 Snap or upload homework \u2014 Take a photo with your camera or choose from your gallery.\n\t\u2022 AI-powered solutions \u2014 Get instant, accurate answers with detailed explanations.\n\t\u2022 Step-by-step guidance \u2014 Learn how to solve, not just what the answer is.\n\t\u2022 History tracking \u2014 Save your solved questions for quick review anytime.\n\t\u2022 LaTeX math support \u2014 Complex equations rendered beautifully for easy reading.\n\t\u2022 Export & Share \u2014 Save solutions as ",
+    "icon": "/icons/io.goldenmind.aihomework.png"
+  },
+  "com.listen2myapp.listen2myapp365": {
+    "title": "Rejoice Radio",
+    "package": "com.listen2myapp.listen2myapp365",
+    "description": "Through the financial support of its listeners, Rejoice Radio can be heard on over 40 stations and the Internet, reaching listeners across America and around the world. Rejoice Radio continues the vision of broadcasting Christian music and programming to encourage believers and provide a gospel witness in the community. As we look forward to what the Lord will continue to do through this listener-supported Christian radio ministry, we can only say, \u201cTo God be the glory, great things He hath done.\u201d",
+    "icon": "/icons/com.listen2myapp.listen2myapp365.png"
+  },
+  "com.rejoiceradio.android.persistence": {
+    "title": "Rejoice Radio",
+    "package": "com.rejoiceradio.android.persistence",
+    "description": "Through the financial support of its listeners, Rejoice Radio can be heard on over 40 stations and the Internet, reaching listeners across America and around the world. Rejoice Radio continues the vision of broadcasting Christian music and programming to encourage believers and provide a gospel witness in the community. As we look forward to what the Lord will continue to do through this listener-supported Christian radio ministry, we can only say, \u201cTo God be the glory, great things He hath done.\u201d",
+    "icon": "/icons/com.rejoiceradio.android.persistence.jpg"
+  },
+  "com.rmsf1.player": {
+    "title": "Rejoice Network",
+    "package": "com.rmsf1.player",
+    "description": "America's Family Friendly Content Provider. Featuring Gospel and Christian news, Information and Entertainment. We Share inspirational messages And Scriptures. Urban Inspirational Black Gospel Music Radio Station.",
+    "icon": "/icons/com.rmsf1.player.png"
+  },
+  "com.appseo.radiorejoicepensacola": {
+    "title": "Rejoice Radio Pensacola FM App",
+    "package": "com.appseo.radiorejoicepensacola",
+    "description": "Welcome to your application Rejoice Radio Pensacola FM USA Online, created mainly for anyone who likes to listen to music and entertainment. Our App allows you to listen to the radio live and free throughout the course of your daily life.\n\nMain functions of Rejoice Radio Pensacola App United States:\n\n1. You can listen to live music 24 hours a day (you only need to be connected to the internet).\n2. You can know what artist is playing on the radio (you will see the full name of the artist).\n3. You can know what song is playing on the radio (you will see the full title of the song).\n4. You can Share our App with your friends and close family.\n\n** you can also listen to radios from your country! **\nImmerse yourself in the sound experience of all United States with our radio app! Designed to of",
+    "icon": "/icons/com.appseo.radiorejoicepensacola.png"
+  },
+  "com.rejoice.app": {
+    "title": "Rejoice",
+    "package": "com.rejoice.app",
+    "description": "Meet You Where You Are\nLife doesn't follow a schedule, and your faith journey shouldn't either. Rejoice is your personal Bible study companion that generates customized Scripture studies based on how you're feeling right now\u2014whether you're experiencing anxiety, joy, grief, gratitude, uncertainty, or anything in between.\nThe Story Behind Rejoice\nRejoice was born from a simple conversation. When asked what she wanted in a Bible study app, my wife said, \"I don't want another reading plan. I want something that speaks to how I'm feeling TODAY.\" That moment changed everything. We realized that faith resources should serve us in all of life's moments\u2014not just the calm ones.\nHow It Works\n\nChoose Your Emotion - Select from 12 different emotional states that reflect your current situation\nGet Your ",
+    "icon": "/icons/com.rejoice.app.png"
+  },
+  "io.konveier.timo": {
+    "title": "Daily Planner Organizer: Brite",
+    "package": "io.konveier.timo",
+    "description": "Brite To-Do list, daily planner organizer is a all-in-one productivity app with deep customization that combines features of a task organizer, to-do lists and shopping lists, habit list, simple take notes and a convenient daily schedule planner with smart reminders. Also the most comprehensive daily planner organizer app is finally available for Mac.\n\nThe main idea of our app is to replace different productivity apps, such as task manager, habit list, appointment reminder, checklist, budget apps, work planner, diary, mood diaries, meditation, and many others, with just one service.\n\nYou don't need to use many different apps and switch between them to stay updated on your schedule, appointment reminder, checklist, or work tasks.\n\nTask organizer, calendar planner, goals, habits, checklist to",
+    "icon": "/icons/io.konveier.timo.png"
+  },
+  "io.learning.learn.vocabulary": {
+    "title": "Vocabulary Builder by Learning",
+    "package": "io.learning.learn.vocabulary",
+    "description": "\ud83d\udcda Build the vocabulary that gets you ahead \u2014 one word at a time.\n\nVocabulary Builder by Learning is a daily English learning companion for professionals, students, and lifelong learners. Designed around science-backed spaced repetition, it helps you learn, remember, and actually use new words in real life.\n\nWhether you're preparing for the SAT or GRE, aiming for a promotion, or simply want to speak and write with more precision \u2014 this app gives you a clear, structured path to a stronger vocabulary.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udd24 WHAT YOU GET\n\n\ud83d\udcd6 Word of the Day\nA new word every morning \u2014 with definition, synonyms, and real-life examples. The fastest way to grow your vocabulary, even on a busy day.\n\n\ud83d\udcda 20,000+ Word Library\nCurated collections across 40+ categories: business, finance, technology",
+    "icon": "/icons/io.learning.learn.vocabulary.png"
+  },
+  "io.noah.pro": {
+    "title": "BitradeX-AI Crypto Trading",
+    "package": "io.noah.pro",
+    "description": "BitradeX is a revolutionary cryptocurrency asset management platform that intelligently manages and optimizes your cryptocurrency portfolio through advanced AI technology. Whether you're a cryptocurrency beginner or an experienced investor, BitradeX provides tailored investment strategies to help you achieve ideal investment returns.\nKYC Verification Required: Complete identity verification before conveniently starting to trade via credit card or bank transfer.\nAI-Powered Investment: Utilize cutting-edge artificial intelligence algorithms to analyze market trends and make precise investment decisions.\nAutomated Asset Management: Fully automated cryptocurrency asset management, allowing you to enjoy high returns without worrying about complex operations.\n24/7 Customer Support: Round-the-clo"
+  },
+  "io.nicher.enlingo": {
+    "title": "EnLingo - AI Vocabulary App",
+    "package": "io.nicher.enlingo",
+    "description": "EnLingo is a convenient English vocabulary app that provides meanings and examples generated by AI with just a word input. Sophisticated TTS functionality allows for pronunciation practice, while customized vocabulary books and diverse quizzes tailored to various learning stages and objectives aid in improving English proficiency. It's ready to enhance your English learning experience.\n\n[Key Features of EnLingo]\n- Provides meanings and examples generated by AI with just a word input\n- Convenient word group management feature\n- Offers vocabulary book packages for beginners to advanced levels, various exam preparations\n- Various types of quizzes such as Flash Card, Matching, Spelling, Listen, Speak\n- Practice and listen to accurate English pronunciations through TTS\n- Light / Dark theme\n- En",
+    "icon": "/icons/io.nicher.enlingo.png"
+  },
+  "io.screenapp.screenapp_mobile": {
+    "title": "ScreenApp - AI Voice Recorder",
+    "package": "io.screenapp.screenapp_mobile",
+    "description": "ScreenApp: AI Voice Recorder & Transcription\n\nRecord any meeting, lecture, or conversation and get an instant AI transcript \u2014 automatically turned into searchable notes and summaries. No typing. No effort. Just talk.\n\nUsed by students, professionals, journalists, and content creators to capture every important moment without lifting a finger.\n\nTOP FEATURES\n\nVoice Recorder \u2014 High-quality audio capture for meetings, lectures, and interviews\nVoice to Text \u2014 Convert recordings to accurate transcriptions instantly\nMeeting Notes AI \u2014 Automatically generate summaries and action items from any conversation\nLive Transcription \u2014 Real-time speech-to-text as you speak\nAudio to Text \u2014 Upload any audio or video file and get a full transcript\nPhone Recorder \u2014 Capture important calls and conversations\nVoi",
+    "icon": "/icons/io.screenapp.screenapp_mobile.png"
+  },
+  "com.ard.mud": {
+    "title": "Mud",
+    "package": "com.ard.mud",
+    "description": "MUD is a real-time Korean grammar assistant. It highlights errors, suggests natural word choices and honorifics, and lets you apply fixes with one tap. Import files, manage drafts, and export to TXT/DOCX/PDF/HTML.Highlights\n\t\u2022\tReal-time corrections with highlights\n\t\u2022\tPolite/formal tone adjustments\n\t\u2022\tOne-tap apply/undo\n\t\u2022\tImport/Export (TXT, DOCX, PDF, HTML)\n\t\u2022\tDictionary quick lookup",
+    "icon": "/icons/com.ard.mud.png"
+  },
+  "com.ironrealms.nexus": {
+    "title": "Nexus MUD Client",
+    "package": "com.ironrealms.nexus",
+    "description": "Have you ever wondered what it's like to embark on an epic adventure with other players in a real-time online game? Look no further than IRE MUD App - the ultimate app for playing MUD games.\n\nMUDs, or Multi-User Dungeons, are the original massively multiplayer online adventure games that have stood the test of time. Unlike text-based single-player games, MUDs offer a real-time and immersive experience where you can interact with hundreds of other players across the universe.\n\nWith IRE MUD App, you can choose from five unique Iron Realms worlds and embark on your own adventure. Create your character, customize your game settings, and start exploring a vast universe filled with danger, intrigue, and endless possibilities.\n\nBut that's not all. IRE MUD App offers a range of features that enhan",
+    "icon": "/icons/com.ironrealms.nexus.jpg"
+  },
+  "com.cebo.mudguide": {
+    "title": "Mud Guide",
+    "package": "com.cebo.mudguide",
+    "description": "Cebo Mud Guide \u2013 The Premier Drilling Fluid Calculator for Horizontal Directional Drilling \n\nThe Cebo Mud Guide is an essential tool for professionals across industrial drilling sectors, providing precise guidance for formulating drilling fluids in Horizontal Directional Drilling (HDD), leveraging Cebo\u2019s decades of experience and a portfolio of trusted products, including CEBOGEL\u00ae OCMA and Baroid IDP additives like TUNNEL-GEL PLUS and TUNNEL-GEL MAX, this app simplifies complex calculations, ensuring optimal drilling fluid performance. \n\nWhether preparing for small or large-diameter HDD operations, the Cebo Mud Guide equips users with efficient and reliable formulation solutions at every phase: \n\nCustom Job-Specific Calculations: Quickly determine the ideal additive mix for your project, u",
+    "icon": "/icons/com.cebo.mudguide.jpg"
+  },
+  "com.imdexlimited.amcmudcalc": {
+    "title": "AMC MUD CALC\u2122",
+    "package": "com.imdexlimited.amcmudcalc",
+    "description": "Brought to you by the industry leaders in drilling optimisation, AMC MUD CALC\u2122 offers a range of mining, water well and HDD drilling guides in your pocket. Tried and tested all over the globe, our calculators and guides are based on proven formulas and industry best practise. Wherever you are in the world, customise AMC MUD CALC\u2122 to your region, your language and your metrics.",
+    "icon": "/icons/com.imdexlimited.amcmudcalc.png"
+  },
+  "com.RealGames.RealOffroadRacing": {
+    "title": "Real Offroad 4x4 Mud Trucks",
+    "package": "com.RealGames.RealOffroadRacing",
+    "description": "Welcome to Real Offroad 4x4 Mud Trucks, the ultimate driving game where you can feel the thrill of real offroad car racing. Whether you're navigating rugged terrains in mud trucks, challenging time limits, or exploring vast landscapes with your 4x4, this game offers a realistic and exciting riding experience. Encounter intense and lifelike car crashes that enhance the thrill of every offroad journey.\n\nUltimate Offroad Driving & Racing\nImmerse yourself in the best car simulation. Advanced graphics and physics bring every car, truck, and jeep to life, providing an authentic offroad driving experience. From dusty desert trails to challenging mountain paths, every environment is precisely designed to test your racing skills and thrill your senses.\n\nFEATURES\n\ud83d\ude98 Realistic Physics \nFeel the power ",
+    "icon": "/icons/com.RealGames.RealOffroadRacing.png"
+  },
+  "io.sindex": {
+    "title": "Sindex AI: Crypto Signal Alert",
+    "package": "io.sindex",
+    "description": "\ud83d\ude80 Smart Crypto Trading Made Simple with AI-Powered Analytics\n\nSindex AI is your all-in-one cryptocurrency analytics and market intelligence platform. Get real-time crypto trading signals, price alerts, and curated market insights from premium Telegram channels. Whether you're a beginner exploring Bitcoin or an experienced trader tracking altcoin opportunities, Sindex brings professional-grade crypto analysis tools to your fingertips.\n\n\ud83d\udcca Real-Time Crypto Signals & Market Alerts\n\nStay ahead of market movements with AI-powered cryptocurrency signals aggregated from verified premium channels. Our platform monitors 500+ cryptocurrencies 24/7, delivering:\n\n\u2022 Long & Short Trading Signals with clear entry prices, multiple take-profit targets, and stop-loss levels \n\u2022 Real-Time Price Alerts for Bitc",
+    "icon": "/icons/io.sindex.png"
+  },
+  "com.netmarble.raven2": {
+    "title": "RAVEN2",
+    "package": "com.netmarble.raven2",
+    "description": "# Massive Update: Clash\n\nThe true GvG battlefield has arrived. Guild vs Guild the real war begins.\nCompete in fierce guild tournaments where strategy and teamwork determine victory. \nProve your strength and claim the title of the ultimate guild.\n\nCelebrate the update with special events and claim powerful rewards including Hero Stella and Rare Heavenstones.\n\n\n# RAVEN2 0.5 Anniversary Update\n\nCelebrate the 0.5 anniversary with special limited time events.\nLog in for 7 days to receive the 2026 Ancient Vault.\nParticipate in the events to earn a Heroic Holy Garment and Familiar Selection Chest.\n\nJoin the celebration now and secure powerful rewards.\n\n\u25a3 Game Overview \u25a3\n\n# Enter RAVEN2, the brutal dark fantasy MMORPG\nStep into a boundless world where untamed adventure awaits!\nExperience a world o",
+    "icon": "/icons/com.netmarble.raven2.png"
+  },
+  "com.nexon.maplem.global": {
+    "title": "MapleStory M - Fantasy MMORPG",
+    "package": "com.nexon.maplem.global",
+    "description": "The Boss Invitation Event is now live!\nParticipate to accelerate your growth and boost your combat power with powerful enhancement effects.\nJoin now to earn generous rewards and take your chance to grow stronger faster.\n________________________________________\n\u25b6 Explore the essence of the best anime MMORPG game \u25c0\nAdventurer! Your journey across the Maple World begins now in MapleStory M, the iconic gacha fantasy mobile game.\nFrom Henesys and Kerning City to the sky-high Ludibrium\u2014battle through beautiful 2D worlds that combine the nostalgia of classic MMORPGs with the thrill of modern gacha systems.\nChallenge endless content like Star Force Fields, Mu Lung Dojo, Monster Park, Story Exploration, and Kerning M Tower to grow your hero to greatness in this fun MMORPG game.\n____________________",
+    "icon": "/icons/com.nexon.maplem.global.png"
+  },
+  "com.foronered.teamb": {
+    "title": "Bloobi",
+    "package": "com.foronered.teamb",
+    "description": "You have 10 minutes to unscramble a set of 8 unique letters and build as many words as possible. There is always 1 letter that is required to be in the word. There are various game modes:\n\nBattle mode (2-8 players)\n\nPlayers can compete against one another. Only the words that no other player found will count! This adds an exciting twist. The results will update live.\n\nCooperative mode (2-8 players)\n\nPlayers can play with one another to try and achieve the rank of \"Genius\". It's incredibly difficult, and only the best word game players can do it! \n\nSolo mode\n\nDon't have anyone else to play with? That's okay. We have a solo mode too. If you make it to Genius alone, then you truly are one. Good luck!",
+    "icon": "/icons/com.foronered.teamb.png"
+  },
+  "com.qookkagames.z1.gp.hk": {
+    "title": "Morimens",
+    "package": "com.qookkagames.z1.gp.hk",
+    "description": "Keeper of Secrets, congratulations on entering Mythag University.\n\nThis world is dying.\n\nHundreds of years ago, Dissolution came with no signs. Life, consciousness, memories...All the existence that humans once gave meaning to were erased by Dissolution.\n\nYet people were kept in the dark.\nConfronted with this hidden and indescribable disaster, Mythag University, as one of the few who is well aware of this fact, is determined to fight against this vast crisis by waking up the power that shares the same source of the disaster and connecting the humanoid weapons that are on the edge of insanity.\n\nIf everything is bound to be forgotten, are you willing to testify that the world has once existed? Will you carry the secret on your back and walk on by?\nIn the witness of the gravestone, may the Si",
+    "icon": "/icons/com.qookkagames.z1.gp.hk.jpg"
+  },
+  "io.stempedia.pictoblox": {
+    "title": "PictoBlox - Block Coding & AI",
+    "package": "io.stempedia.pictoblox",
+    "description": "PictoBlox is a block-based educational coding app for beginners with enhanced hardware-interaction capabilities and emerging technologies such as robotics, AI and machine learning that make learning to code fun and engaging. Just drag and drop the coding blocks and make cool games, animations, interactive projects, and even control robots the way you want!\n\n\u2666\ufe0f 21st-Century Skills\nPictoBlox opens doors for beginners to learn creative and physical computing in an engaging way and thus helps in developing must-have skills of today\u2019s technology-driven world such as:\n\n\u2714\ufe0fCreativity\n\u2714\ufe0fLogical reasoning\n\u2714\ufe0fCritical thinking\n\u2714\ufe0fProblem-solving\n\n\u2666\ufe0f Coding Skills\nWith PictoBlox and its courses, students can will learn important coding concepts such as:\n\n\u2714\ufe0fLogic\n\u2714\ufe0fAlgorithms\n\u2714\ufe0fSequencing\n\u2714\ufe0fLoops\n\u2714\ufe0fCondi",
+    "icon": "/icons/io.stempedia.pictoblox.png"
+  },
+  "io.subera.app": {
+    "title": "Automatic Captions & Subtitles",
+    "package": "io.subera.app",
+    "description": "Blazing fast service generates captions of 60 Minutes video in just ~10 Minutes*\n\nSubera Automatic Caption/Subtitle Creator & Editor. You can generate captions in 85+ languages and translate them into 100+ languages. And quickly export it in various formats & also burn them onto videos. \n\n\n\ud83c\udfa5   Subera Teleprompter \nRecord a video with a teleprompter & quickly publish the recorded video with captions on your social media\n-  Create and manage teleprompter scripts\n-  Record a video with or without a teleprompter\n-  Control speed, font size, camera quality and lots more\n\n\ud83d\udd25  Automatic Captions/Subtitle \n- Generate captions/subtitles automatically for your videos & audio files\n- Generate captions/subtitles for Youtube Videos by pasting the link or just sharing from Youtube App\n- Generate captions",
+    "icon": "/icons/io.subera.app.webp"
+  },
+  "io.unorderly.structured": {
+    "title": "Structured - Daily Planner",
+    "package": "io.unorderly.structured",
+    "description": "Structured is a daily planner that helps you stay organized and focused.\nIt combines the simplicity of a to-do list with the clarity of a calendar. By turning your tasks into a time-blocked schedule, you always know what\u2019s next and what to focus on.\n\nWhether you\u2019re dealing with ADHD, executive functioning challenges, or just a busy day, Structured helps you organize your time without feeling overwhelmed. It supports follow-through, reduces mental load, and helps you stay on track.\n\nHOW STRUCTURED WORKS\n\nStructured is built for visual planning. Seeing your tasks in a clear timeline reduces decision fatigue and makes it easier to focus.\n\nYou can quickly add tasks, adjust your schedule, and build a flexible routine that fits your day. Everything works together in one place:\n\n\u2022 Daily planner\n\u2022",
+    "icon": "/icons/io.unorderly.structured.png"
+  },
+  "io.vera.app": {
+    "title": "Vera\u2014Medical AI for Clinicians",
+    "package": "io.vera.app",
+    "description": "The #1 Evidence-Based Medical Assistant\n\nFree for all healthcare professionals. Works in every language.\n\nVera Health gives you fast, practical clinical answers you can trust, right when you need them. Every response is grounded in evidence, easy to review, and built for real-world care. Vera is also HIPAA compliant, so you can use it confidently in clinical settings.\n\n- Answers backed by 60M+ peer-reviewed papers\n- Trusted by 10,000+ healthcare professionals across the United States\n- In partnership with the American College of Emergency Physicians \n- Earn +0.5 CME credits with every search\n- 100+ medical calculators on a single platform\n\n-WHAT YOU CAN DO WITH VERA--\n\nASK CLINICAL QUESTIONS AND GET CLEAR, ACTIONABLE ANSWERS\n\nFrom differential diagnosis to treatment options, Vera helps you",
+    "icon": "/icons/io.vera.app.png"
+  },
+  "io.zimran.coursiv": {
+    "title": "Coursiv: AI Tools Mastery",
+    "package": "io.zimran.coursiv",
+    "description": "At Coursiv, you don\u2019t just learn AI \u2014 you start using it to get real results.\nAutomate tasks, create faster, and solve real problems with AI \u2014 whether you're growing in your current role, exploring something new, or building AI-powered side projects.\n\nWHAT YOU GET WITH COURSIV\n\ud83e\udd16 AI skills that change how you work\nApply tools like ChatGPT, Claude, Midjourney, and more to write, research, analyze, generate visuals, and automate repeatable tasks.\n\ud83c\udf93 Professional certificates for your CV\nCelebrate your progress with certificates that prove what you can do to clients and employers.\n\ud83e\udde0 Explore all parts of an AI workflow\nMaster specific AI tools step by step and learn how to use AI in real fields: marketing, management, design, and more.\n\u26a1 Interactive practice with real-life scenarios\nLearn throug",
+    "icon": "/icons/io.zimran.coursiv.png"
+  },
+  "io.zimran.finelo": {
+    "title": "Finelo: Master Trading",
+    "package": "io.zimran.finelo",
+    "description": "The All-in-One Trading Learning Platform & Tools!\nFinelo gives you everything you need to learn, analyze, and trade smarter\u2014all in one place! Whether you're a beginner or an experienced trader, Finelo combines AI-powered tools with expert education to help you navigate the markets with confidence.\n\n\ud83d\ude80 AI Chart Analyzer \u2013 Smarter, Faster Trading!\n\ud83d\udcf8 Snap & Analyze \u2013 Upload any chart, and AI detects trends, patterns, and key levels.\n\u26a1 Save Time, Trade Smarter \u2013 No more manual analysis\u2014get quick, data-driven insights.\n\ud83d\udcca Works for Any Market \u2013 Stocks, forex, crypto\u2014analyze it all with AI precision.\n\n\ud83d\udcc8 Master Trading with Expert Education!\n\ud83d\udcda Pro-Level Courses \u2013 Learn trading strategies, risk management, and market psychology.\n\ud83d\udee0 Interactive Tools \u2013 Simulations, quizzes, and real-world case studies",
+    "icon": "/icons/io.zimran.finelo.png"
+  },
+  "io.zyur.wordect": {
+    "title": "AI Detector & Humanizer",
+    "package": "io.zyur.wordect",
+    "description": "Discover the power of advanced text analysis with EraseGPT, your comprehensive solution for plagiarism detection, AI text identification, and content enhancement.\nKey Features:\n\nPlagiarism Checker: Ensure originality in academic and professional writing\nAI Text Detector: Identify machine-generated content with precision\nAI Text Humanizer: Refine AI-generated text for a more natural tone\nMulti-Analysis: Run multiple checks simultaneously for efficiency\nHistory Tracking: Access past analyses for reference and comparison\n\nEraseGPT stands out as the only app offering this powerful combination of features in one intuitive package. Whether you're a student, educator, content creator, or professional, EraseGPT delivers the tools you need to validate, improve, and perfect your written content.\nDow",
+    "icon": "/icons/io.zyur.wordect.png"
+  },
+  "kaptioned.app": {
+    "title": "AI Auto Captions & Subtitles",
+    "package": "kaptioned.app",
+    "description": "85% of videos are watched on mute. Without captions, you're invisible.\n\nKaptioned is the fastest way to add auto captions and subtitles to any video. Our AI caption generator transcribes your speech and adds perfectly-timed subtitles in seconds \u2014 no typing, no syncing, no hassle. Just pick a video, tap go, and export a captioned video ready for TikTok, Instagram Reels, YouTube Shorts, or any platform.\n\nTrusted by 800,000+ creators, educators, and businesses worldwide.\n\n\u26a1 AI AUTO CAPTIONS\n  \u2022 Automatic speech-to-text powered by AI \u2014 fast, accurate captions in any language\n  \u2022 Edit every word, adjust timing, split or merge subtitles with full control\n  \u2022 Save and re-edit your projects as many times as you want\n\n\ud83c\udfa8 TRENDING CAPTION STYLES\n  \u2022 Eye-catching subtitle styles inspired by top TikTok",
+    "icon": "/icons/kaptioned.app.webp"
+  },
+  "live.gosupernova.app": {
+    "title": "Supernova AI: Spoken English",
+    "package": "live.gosupernova.app",
+    "description": "Supernova AI is a spoken English app designed for beginners who want a clear, structured way to practise real communication. The app helps learners learn and practise English online by improving speaking confidence, listening ability, pronunciation, grammar accuracy, and vocabulary through guided lessons and everyday examples.\n\nSupernova supports English language learning by focusing on how the language is spoken and understood in real situations. Lessons follow a simple, step-by-step learning flow that helps learners build confidence gradually while developing clear and correct usage.\n\n \u2b50 English Speaking Practice for Real Communication \nSupernova is built to help learners practise spoken English through realistic situations such as introductions, interviews, and everyday conversations. S",
+    "icon": "/icons/live.gosupernova.app.png"
+  },
+  "com.pashapuma.pix.material.you.iconpack": {
+    "title": "Pix Material Expressive Icons",
+    "package": "com.pashapuma.pix.material.you.iconpack",
+    "description": "\u2728 Refresh the look of your device with this set of adaptive icons, designed with full support for Material You. We've gone beyond the standard Monet palette by adding four expressive accent colors to make your icons stand out even more!\n\n\ud83c\udfa8 Next-Level Personalization:\n\nEach icon features a clean linear outline and a background that dynamically changes color based on your wallpaper.\nEnjoy seamless integration with your system's color scheme, creating a harmonious and unique style.\nThanks to their adaptive nature, the icons change shape on supported custom launchers, giving you even more customization options.\n\n\ud83d\ude80 Key Features:\n\nFull Material You support.\nEnhanced Monet palette with four accent colors for a more expressive design.\nDynamic icon background color change based on your wallpaper.\nC",
+    "icon": "/icons/com.pashapuma.pix.material.you.iconpack.png"
+  },
+  "live.moreshort.app": {
+    "title": "MoreShort - Dramas & Stories",
+    "package": "live.moreshort.app",
+    "description": "Step Into a Universe of Short Dramas\u2014Only on MoreShort\n\nMoreShort brings you a massive collection of exclusive story universes, each filled with passion, fantasy, power struggles, supernatural bonds, billionaire temptations, betrayals, and unforgettable romance.\n\nEvery universe is designed in fast, explosive 1-minute episodes that pull you in instantly.\n\n[Explore Our Most Loved Universes]\n\n\u2022 My Merman Daddy Takes Me Home \u2014 the sea hides forbidden love\n\u2022 Alpha\u2019s Abandoned Luna \u2014 a rejected Luna rises to reclaim her fate\n\u2022 My Alpha Daddy Takes Me Home \u2014 fated mates with unbreakable ties\n\u2022 Kneel! The Big Boss Is Here \u2014 a cold CEO and the secrets he cannot outrun\n\nInside the MoreShort Universe\n\n[Exclusive Original Worlds]\nThe top-performing hit dramas are all self-produced, with unique worldbu",
+    "icon": "/icons/live.moreshort.app.webp"
+  },
+  "ltd.linfei.voicerecorderpro": {
+    "title": "Voice Recorder & Memos Pro",
+    "package": "ltd.linfei.voicerecorderpro",
+    "description": "The most professional voice recorder!\n\nVoice Recorder & Memos Pro can meet all your recording needs and help you work more efficiently.\n\nPOWERFUL RECORDING MODES: \n- Normal recording mode\nThis mode can start a professional recording easily, and a stable background operation makes your recording safer.\n\n- Mix recording mode\nThis mode can mix recordings with selected audio.\n\n- Voice-activated recording mode\nThis mode can record voice when you are speaking normally, and automatically pauses when your voice is below a specified decibel to get smaller file size.\n\n- Bluetooth headset recording mode\nThis mode can start recording via connecting a Bluetooth headset.\n\nAUDIO EDITING:\n- Crop audio \n- Adjust volume\n- Adjust pitch\n- Adjust speed\n- Insert audio\n- Mix audio\n- Split audio\n- Merge audio\n- D",
+    "icon": "/icons/ltd.linfei.voicerecorderpro.png"
+  },
+  "ltd.rrad.apps.career_canvas": {
+    "title": "Career Canvas: AI CV Maker",
+    "package": "ltd.rrad.apps.career_canvas",
+    "description": "Transform your job search with Career Canvas - the intelligent career companion that combines personality insights with professional CV building.\n\nWhether you're a fresh graduate, career changer, or seasoned professional, Career Canvas helps you understand your strengths and present yourself with confidence.\n\n---\n\nDISCOVER YOUR CAREER DNA\n\n- 16 Personalities (MBTI) Test\nUnderstand your personality type and discover careers that match your natural tendencies.\n\n- HIGH5 Strengths Assessment\nIdentify your top 5 strengths and learn how to leverage them in your career.\n\n- DISC Behavioral Assessment\nUnderstand your work style and how you interact with colleagues.\n\n- AI Career Guide\nGet personalized career recommendations powered by advanced AI that analyzes your unique profile.\n\n---\n\nPROFESSIONAL",
+    "icon": "/icons/ltd.rrad.apps.career_canvas.png"
+  },
+  "markets.vibetrader.app": {
+    "title": "VibeTrader: AI Trading Bots",
+    "package": "markets.vibetrader.app",
+    "description": "Turn your trading ideas into automated strategies.\n\nDescribe your strategy in plain language, and VibeTrader converts it into structured trading rules that can run through supported brokerages.\n\nFor example:\n\u201cBuy SPY when RSI drops below 30 and sell when it rises above 70.\u201d\n\nVibeTrader transforms this into executable logic you can test, refine, and automate.\n\nVibeTrader is a software platform by VibeTrader Technologies LLC that helps users design, test, and monitor algorithmic trading strategies. It connects to supported third-party brokerages (such as Alpaca), where all trades are executed.\n\nVibeTrader does not hold funds, provide brokerage services, or execute trades independently.\n\nWhether you're experimenting with new ideas or automating an existing strategy, VibeTrader gives you the t",
+    "icon": "/icons/markets.vibetrader.app.png"
+  },
+  "me.bazaart.app": {
+    "title": "Bazaart AI Photo Editor Design",
+    "package": "me.bazaart.app",
+    "description": "Bazaart is an easy-to-use AI photo editor and design app. No design background needed. Create fast for online selling, digital marketing, and social media. Get your design superpowers today!\n\nWhat you can make  \ud83d\udcab\n\nFor your business:\nProduct photos, home listings, model shots, profile pics, logos, flyers, ads, posters.\n\nFor your social media:\nStories, posts, carousels, thumbnails, covers.\n\nFor your everyday life: \nCollages, cards, invitations, memes, WhatsApp stickers, backgrounds, wallpapers, works of art.\n\nAI tools \u2728\n\u2022 Edit with AI: change or replace anything in a photo with simple prompts\n\u2022 Remove background: background remover for photos\n\u2022 Remove: remove objects and people from any photo\n\u2022 AI models: create amazing on-model product photos\n\u2022 Magic Background: create on-brand, AI-generate",
+    "icon": "/icons/me.bazaart.app.png"
+  },
+  "me.fapp.photo": {
+    "title": "ID Photo Passport Photo Makers",
+    "package": "me.fapp.photo",
+    "description": "ID photo and passport photo\u2014made at home.\n\nMake ID photos, passport photos, visa photos, and resume photos that meet official standards. No studio needed; everything on your device.\n\nWhat you get\n\u2022 ID photo & passport photo sizes for many countries, plus custom mm/inch\n\u2022 One-tap background change: white, blue, red\u2014clean and compliant\n\u2022 High-quality export, multi-photo sheet for easy printing\n\u2022 Local AI only\u2014photos never uploaded, your data stays private\n\nUse for\n\u2022 Passport and visa applications\n\u2022 Resumes, student ID, work ID\n\u2022 Official forms and documents\n\nID photo and passport photo: simple, fast, reliable.",
+    "icon": "/icons/me.fapp.photo.png"
+  },
+  "me.interviewai.app": {
+    "title": "InterviewAI",
+    "package": "me.interviewai.app",
+    "description": "InterviewAI is the ultimate interview preparation app that helps you ace your next job interview. With just a few taps, generate 10 interview questions related to your desired position, including background, situational, and technical questions. Answer the questions using voice recognition technology, and receive instant feedback with evaluation and suggestions to improve your responses. You can search your previous interviews and questions, and each question can be answered up to three times.\n\nNow, with the new AI-powered feature, InterviewAI can also generate a personalized cover letter for you based on your desired job position and qualifications. Simply enter your information and let the AI do the rest. With support for multiple languages, you can practice your interview skills and wri",
+    "icon": "/icons/me.interviewai.app.png"
+  },
+  "me.mycake": {
+    "title": "Cake - Learn English & Korean",
+    "package": "me.mycake",
+    "description": "Master English & Korean through the content you love! Join 100 million users worldwide and start your language journey with BTS, K-POP stars, and your favorite K-Dramas. Whether you're a beginner or an advanced learner, Cake makes language learning \"deliciously\" easy with free daily updates.\n\nMaster Korean with K-Culture\nFinally, a fun way to learn Korean! No more boring textbooks.\nLearn with BTS & K-POP: Dive into lyrics and content from BTS, SEVENTEEN and other top artists. Understand what your idols are saying in interviews and vlogs!\n\u2022 K-Drama Immersion: Practice real-life Korean using iconic scenes from trending K-Dramas.\n\u2022 From Hangul to Fluency: We provide a structured path to help you master Korean.\n\nIt\u2019s Fun & Addictive\n\u2022 Celebrity & Vlogger Content: Learn from the creators you al",
+    "icon": "/icons/me.mycake.png"
+  },
+  "me.portfoliio.mobile": {
+    "title": "Portfoliio - AI Career Growth",
+    "package": "me.portfoliio.mobile",
+    "description": "Portfoliio is your personal career growth platform. Track your daily work, build proof of your achievements, set strategic career goals, and land your dream job with AI-powered tools.\n\nTRACK YOUR DAILY WORK\nLog your work in minutes with our guided 5-step process. Capture what you did, the impact you made, and link to evidence like PRs, documents, or presentations. Build a complete record of your professional contributions.\n\nMAINTAIN YOUR MOMENTUM\nStay motivated with streak tracking and weekly wins. See your consistency pay off as you build the habit of documenting your achievements. Get daily reminders and celebrate milestones along the way.\n\nSET STRATEGIC CAREER GOALS\nDefine where you want to be in 3, 6, or 12 months. Our AI analyzes your background and generates personalized career recom",
+    "icon": "/icons/me.portfoliio.mobile.png"
+  },
+  "me.sync.syncai": {
+    "title": "Calendar \u2013 Smart Scheduler",
+    "package": "me.sync.syncai",
+    "description": "Calendar \u2013 The Ultimate AI Calendar, Smart Planner & Business Scheduler\n\nAI-powered calendar, smart scheduling, meeting planner, event organizer, business calendar, and appointment scheduler\u2014all in one! Get attendee insights with photos, phone numbers, company details, and sync with Google Calendar, Outlook & Teams.\n\nAI-suggested meeting times\u2014no back-and-forth emails\nAttendee insights\u2014photos, phone numbers & company details\nOne-click scheduling\u2014share booking links & confirm meetings instantly\nTwo-way Google Calendar & Outlook sync\nSmart travel reminders\u2014know when to leave for meetings\nStay on top of your schedule with AI-powered automation\n\nPerfect for professionals, sales teams, freelancers & busy entrepreneurs.\n\n\ud83d\udccc AI-Powered Meeting Scheduling\n- Automate scheduling with AI-powered meeti",
+    "icon": "/icons/me.sync.syncai.png"
+  },
+  "com.onebytezero.Goalify": {
+    "title": "Habit Tracker - Goalify",
+    "package": "com.onebytezero.Goalify",
+    "description": "Goalify helps you build strong habits, track your progress, and stay accountable\u2014all in one place. It keeps you focused, motivated, and committed while improving your daily habits and routines. Whether you\u2019re working on personal development, professional goals, or team-based challenges, Goalify helps you develop habits that last while strengthening accountability.\n\nWHY CHOOSE GOALIFY FOR HABIT-TRACKING & ACCOUNTABILITY?\nGoalify is designed for anyone who wants to simplify habit-tracking and goal-setting while ensuring accountability. Whether you're building personal habits, staying consistent with work tasks, or creating a shared challenge with friends, Goalify supports your journey with the right balance of structure and flexibility.\n\nJoin a thriving community of thousands who have alread",
+    "icon": "/icons/com.onebytezero.Goalify.png"
+  },
+  "com.krutoapps.goalplanner": {
+    "title": "Goals planner",
+    "package": "com.krutoapps.goalplanner",
+    "description": "Goals planner is a great tool for goal setting. The app helps you set goals and track results.\n\nOn New Year's Eve, we set goals for the year, but after a few weeks we forget about them. In order not to forget about your goals, write them down in our application. You can add an image, describe your motivation and set a deadline. You can set big life goals for a year or small personal goals for a week.\n\nGoals\nThe goal planner offers a convenient format for creating a smart goal. Add an image, write down what motivates you and think about how you will reward yourself after successfully achieving the goal. You can also specify a deadline for a goal to motivate yourself even more.\n\nCategories\nIf you have many goals, then you can divide them into categories. For example, sports, personal and bus",
+    "icon": "/icons/com.krutoapps.goalplanner.png"
+  },
+  "com.teadoku.hs": {
+    "title": "Habit Tracker: Goals & Rewards",
+    "package": "com.teadoku.hs",
+    "description": "Are you ready to build new habits and stick with them? Do you need some extra motivation to stay on track? Look no further! Introducing the \"Habit Tracker: Goals & Rewards\", the ultimate tool to help you create and maintain healthy habits, with plenty of incentives along the way. Get ready to make some positive changes!\n\nWHY CHOOSE \"HABIT TRACKER: GOALS & REWARDS\"?\n\n1. ASSIGN POINTS TO HABITS AND TASKS\n\nIt's easy to create and schedule new habits to fit seamlessly into your daily routine! This app is your ultimate tool for staying organized and focused on your goals, whether it's to drink more water, exercise regularly, or practice mindfulness. The best part is that you can assign points to these tasks, and each time you complete one, you earn the corresponding points!\n\n2. CREATE AND MODIF",
+    "icon": "/icons/com.teadoku.hs.png"
+  },
+  "com.firstscreen.lifeplan": {
+    "title": "Goal Tracker (ToDo, Checklist)",
+    "package": "com.firstscreen.lifeplan",
+    "description": "[Goal Tracker: Making Habits]\n\nWhen you want to change your habits,\nWhen you want to set and manage your goals,\n\nSelf management essential app for achieving goals & shaping habits!\n\n\n[How to use]\n1. Manage goals on the first screen\n2. Set long term goals\n3. Make a detailed plan\n4. Progress check : Calendar type\n5. Progress check : Count check \n6. Progress check : Figure input \n7. Easy management in the widget\n\n[main function]\n-Goal setting\n-Habit management\n-To-do management\n-See what you've done on your calendar\n-Manage completed goals\n-Restore deleted items",
+    "icon": "/icons/com.firstscreen.lifeplan.png"
+  },
+  "com.way4app.goalswizard": {
+    "title": "Goal Tracker & Daily Planner",
+    "package": "com.way4app.goalswizard",
+    "description": "Your Personal Goal PLANNER, Goal TRACKER and GOALSETTER Program\n\nGoals Wizard is a powerful goal setting program and daily planner that will help you discover, plan, and achieve your most important personal and professional goals.\n\nIt includes a complete step-by-step goal setting process and a unique set of productive daily planner tools that will boost your productivity and help you accomplish your most meaningful goals and dreams.\n\nThe user friendly design makes it easy to stay focused, make daily progress and get things done.\n\n-  Set meaningful life goals and create your bucket list\n\n-  Develop your personal success roadmap\n\n-  Take charge of your schedule and make daily progress \n\n-  Create new habits and productive daily routines\n\n-  Achieve your goals and enjoy living your desired li",
+    "icon": "/icons/com.way4app.goalswizard.png"
+  },
+  "meditofoundation.medito": {
+    "title": "Medito: Meditation & Sleep",
+    "package": "meditofoundation.medito",
+    "description": "Free Meditation & Sleep Made Easy \u2014 Always Free.\n\nJoin 4 million+ people finding calm with Medito, your pocket\u2011size studio for guided meditation, mindfulness courses, breathing exercises and sleep stories. No ads. No subscriptions. Pure daily calm.\n\nMedito\u2019s meditations, mindfulness & breathing exercises are carefully created to enhance your overall wellbeing. Feel the difference in your daily wellbeing with just a few minutes of mindfulness & breathing exercises.\n\nMeditation for Sleep\nMedito, guided meditation and mindfulness app, offers everything you need, from rain sounds to white noise, sleep stories to sleep meditations, for a stress & anxiety free sleep for your well being. It also offers bedtime stories for adults.\n\nWhy Medito?\n\u2022 100 % FREE & non\u2011profit \u2013 built by Medito Foundation",
+    "icon": "/icons/meditofoundation.medito.png"
+  },
+  "mentor.bootself.ai": {
+    "title": "BootSelf: Coding with AI Tutor",
+    "package": "mentor.bootself.ai",
+    "description": "Learn to Code Fast with BootSelf - Your AI-Powered Coding Tutor\n\n\n\n\ud83d\ude80 Ready to learn coding, build real-world projects, and land your dream tech job? \n\nBootSelf is the smartest AI coding tutor app that helps you master Python, JavaScript, and programming fundamentals at your own pace. Whether you're a complete beginner or brushing up before interviews, BootSelf has you covered with personalized lessons and real-time AI help.\n\n\n\n\ud83d\udc68\u200d\ud83d\udcbb Best Coding App for:\n\n\u2022 Beginners looking to start coding without confusion\n\n\u2022 Students preparing for tech placements or CS exams\n\n\u2022 Job seekers who want to build a job-ready portfolio\n\n\u2022 Self-learners tired of YouTube tutorial hell\n\n\n\n\ud83d\udd11 Why BootSelf is Different\n\nBootSelf isn\u2019t just another code editor or video course-it\u2019s your AI mentor guiding you every step o",
+    "icon": "/icons/mentor.bootself.ai.png"
+  },
+  "mp3.videomp3convert.ringtonemaker.recorder": {
+    "title": "AI Song Generator, Cover Music",
+    "package": "mp3.videomp3convert.ringtonemaker.recorder",
+    "description": "Waazy: Your AI Music Maker & AI Song Generator & AI MV Creator!\nTurn your words into songs and AI MVs in seconds with Waazy AI Music Generator. Whether you want to generate an original AI Song from a simple prompt, craft professional AI Cover Music with unique voices, or turn your tracks into cinematic Music Videos, Waazy makes it possible. From Text to Song to AI Music Video production, our advanced AI Song Maker and AI MV Generator tools are designed for every creator.\n\nText to AI Music \u2013 Instant AI Song Creation\nNo music experience? No problem! Just describe your idea, and Waazy\u2019s powerful AI engine generates a complete AI song\u2014lyrics, melody, and vocals. Your next anthem is just a few words away!\n\nAI MV Generator \u2013 From Song to Cinema\nElevate your sound with our AI Music Video Generato",
+    "icon": "/icons/mp3.videomp3convert.ringtonemaker.recorder.png"
+  },
+  "musiclab.suno.udio.ai": {
+    "title": "MusicLab\uff1aAI Song & Music Video",
+    "package": "musiclab.suno.udio.ai",
+    "description": "MusicLab: AI Song Maker - Create Original Music from Lyrics with Music AI, just like Suno Music AI.\n\nLooking to create the perfect birthday song for a loved one or find the ideal soundtrack that captures your brand\u2019s essence for an ad?\n\nMusicLab: AI Music Generator makes creating original, high-quality songs effortless. Whether you\u2019re a novice or a professional musician, this music generator turns text into unique tracks. Simply input your lyrics, choose a style, and let Music AI do the rest. Try it today and transform your text into songs in any genre!\n\nMain Features:\n\n\u25cf Music AI Song Generator: Leverage advanced Music AI technology to transform text into music, enabling effortless creation of original songs. Instant Song Generation at Your Fingertips!\n\u25cf Text-to-Music: Instantly convert l",
+    "icon": "/icons/musiclab.suno.udio.ai.jpg"
+  },
+  "myrecorder.voicerecorder.voicememos.audiorecorder.recordingapp": {
+    "title": "Voice Recorder & Voice Memos",
+    "package": "myrecorder.voicerecorder.voicememos.audiorecorder.recordingapp",
+    "description": "\ud83e\udd14Have you encountered problems with poor voice recording quality?\n\u270d\ufe0f Do you need to record voice memos conveniently?\n\ud83e\udd28Are you troubled that you can't find a simple voice record pro app that supports editing? \n\ud83e\uddd0 Are you troubled that you can't quickly find the clips you want to listen to when playing back the audio recording? \n\ud83d\udd25Then it's time to download \ud83c\udfc6Voice Recorder & Voice Memos - Voice Recording App\uff01\ud83c\udfc6 .\n\n\ud83c\udfc6Voice Recorder & Voice Memos - Voice Recording App\ud83c\udfc6 is an easy-to-use audio recorder and voice app that helps record audio of meeting notes, interviews, speeches, lessons and so on. Don\u2019t forget recording music! You can also use it to record voice over.\n\nThe recording quality of this smart voice recorder pro is stable and will not be interrupted. There\u2019s no time limit in this audio r",
+    "icon": "/icons/myrecorder.voicerecorder.voicememos.audiorecorder.recordingapp.png"
+  },
+  "net.cleanapps.rewrite": {
+    "title": "Rewrite: Grammar Check",
+    "package": "net.cleanapps.rewrite",
+    "description": "Introducing Rewrite - Your Free Grammar Check & Sentence Corrector App! Are you tired of embarrassing grammar mistakes in your writing? Rewrite is here to rescue you! Our grammar checker and sentence corrector will elevate your writing skills to new heights, all for free! \n\nDownload Rewrite for a seamless and free grammar check, where our sentence corrector transforms your writing into a masterpiece, all without costing you a dime.\n\n\ud83d\udcdd Free Grammar Check: Rewrite offers a powerful, free grammar app with a cutting-edge sentence corrector, ensuring your writing is impeccable. Don't let grammar errors hold you back; Rewrite has your back.\n\n\ud83d\udcd6 Rewrite Your Way to Perfection: Our app is not just a grammar checker; it's a complete sentence diagrammer and punctuation checker, all in one place. Say ",
+    "icon": "/icons/net.cleanapps.rewrite.png"
+  },
+  "net.yaysoft.articly": {
+    "title": "Podify AI - Web to Podcast",
+    "package": "net.yaysoft.articly",
+    "description": "Turn any web article into an engaging podcast episode with AI. Just paste a URL and Podify AI transforms it into a natural, conversational podcast you can listen to anywhere. But that's just the start - Podify also creates smart summaries, AI flashcards, and quizzes from any content.\n\nTHE ONLY ALL-IN-ONE LEARNING CONVERTER\n\nNo other app turns any content into podcasts AND summaries AND flashcards AND quizzes. Stop switching between a text-to-speech app, a summarizer, and a flashcard maker. Podify AI does it all in one place.\n\nHOW IT WORKS\n\n1. Paste any URL, upload a document, take a photo, or enter text\n2. Choose your output: Podcast, Summary, Flashcards, or Quiz\n3. Customize style, length, and difficulty level\n4. Get your AI-generated content in seconds\n\nAI PODCAST CREATION\n\nUnlike text-t",
+    "icon": "/icons/net.yaysoft.articly.png"
+  },
+  "neurolist.app.neurolist": {
+    "title": "neurolist\ua789 AI Planner for ADHD",
+    "package": "neurolist.app.neurolist",
+    "description": "neurolist is an ADHD planner created specifically for neurodivergent people who need a way to organize their tasks without feeling overwhelmed. If you\u2019re living with ADHD or navigating life as a neurodivergent person, this is the planner that\u2019s got your back.\n\nWhy neurolist is the Best ADHD Planner for Neurodivergent Folks:\n\nBreak Down Big Tasks\nWith ADHD, even small tasks can feel huge. Our AI list maker understands this and helps you break down those big, scary tasks into manageable steps. No more ADHD task paralysis. Just add a to-do, and our AI generates a checklist\u2014estimating how long it will take and organizing it into your planner. One tap turns it into a simple, step-by-step list that\u2019s easier to tackle.\n\nPerfect for Brain Dumps\nADHD and neurodivergent brains often have lots of uns",
+    "icon": "/icons/neurolist.app.neurolist.png"
+  },
+  "notion.id": {
+    "title": "Notion: Notes, Tasks, AI",
+    "package": "notion.id",
+    "description": "Notion is an AI-powered all-in-one workspace that helps individuals and teams write notes, manage tasks, organize projects, and collaborate in one place. Whether you\u2019re tracking personal to-do lists, writing and organizing class notes, or managing projects with a team, Notion helps users plan work, stay organized, and achieve goals.\n\n\"AI's everything app\" \u2014 Forbes\n\nNotion is a productivity app where you can write, plan, and organize your notes, projects, tasks and more. Ask Notion AI about project updates, upcoming tasks, and suggestions for a more streamlined workflow.\n\nSimplify writing notes, project and task management, and collaboration. Whether for personal, student or professional use, Notion scales to meet your individual needs with customization tools for everyone.\n\nNEW features:\n\u2022",
+    "icon": "/icons/notion.id.png"
+  },
+  "np.com.njs.autophotos": {
+    "title": "Passport Photo Maker \u2013 VISA/ID",
+    "package": "np.com.njs.autophotos",
+    "description": "Passport Photo Maker (ID Photo Maker Studio) is a simple yet powerful passport size editor app among free passport photo maker, editor and photo print apps. This app lets you save money by combining standard passport, ID or VISA photos into single sheet of 3x4, 4x4, 4x6, 5x7 or A4 paper. Then you can order prints from print service providers. Or, you can take your phone to local photo print service providers and get it printed.\n\nPassport size photo maker is capable of creating official photo sizes for ID, Passport, VISA and License of all countries of the world including USA, Spain, Germany, France, India, Italy, Korea and Brazil. All the basic features that are needed to create a compliant passport photo are available for free.\n\nPassport size photo editor contains all standard printing pa",
+    "icon": "/icons/np.com.njs.autophotos.png"
+  },
+  "online.passportphoto.visa.id.app": {
+    "title": "Passport Photo Maker & Checker",
+    "package": "online.passportphoto.visa.id.app",
+    "description": "PhotoAiD: Passport Photo Maker & Checker\n\nCreate government-approved passport photos with dual verification and unmatched confidence. Trusted by 30 million users worldwide with a 99.5% acceptance rate. No studio visit needed-get professional results from your smartphone in seconds.\n\n200% Money-Back Guarantee\n\nIf any government agency rejects your photo for compliance reasons, we will refund double your purchase. Why such confidence? Our dual verification system-AI precision combined with human expert review-ensures your photo meets official standards. We don't just promise compliance; we guarantee it.\n\nStudio-Quality Photos from Your Phone\n\nNo appointments, no travel, no expensive fees. Create State Department-compliant passport photos at home. Our system automatically handles face centeri",
+    "icon": "/icons/online.passportphoto.visa.id.app.png"
+  },
+  "org.capzy.studio": {
+    "title": "Capzy: AI Caption",
+    "package": "org.capzy.studio",
+    "description": "\ud83c\udfac Turn your videos into engaging, shareable content in minutes!\nCapzy is your smart AI-powered assistant for automatic subtitles (up to 1 hour per video), video clipping, and content repurposing. Whether you\u2019re a creator, influencer, or business, Capzy helps you boost reach, engagement, and views effortlessly.\n\n\u2728 Key Features:\n\n\ud83d\udd24 Automatic Subtitles (Multi-language) \u2013 Add accurate captions instantly, up to 1 hour per video.\n\n\ud83c\udfaf AI Video Clipping \u2013 Turn long videos into short, viral clips.\n\n\ud83c\udfa8 Customizable Styles \u2013 Edit fonts, colors, and backgrounds to match your brand.\n\n\ud83d\udcf2 Perfect for Social Media \u2013 Optimize videos for Instagram, TikTok, YouTube & more.\n\n\u26a1 Fast & Easy \u2013 Save hours with AI-powered editing.\n\n\u267e\ufe0f Unlimited Plan Available \u2013 Process as many videos as you want without limits.\n\n\ud83d\udca1 Wh",
+    "icon": "/icons/org.capzy.studio.png"
+  },
+  "org.chatoshi.app": {
+    "title": "Chatoshi Crypto AI Chatbot",
+    "package": "org.chatoshi.app",
+    "description": "Level up your crypto trading game with Chatoshi, the ultimate AI chatbot for crypto traders. Unlike other general chatbots like ChatGPT or DeepSeek, Chatoshi is designed for crypto trading insights. Whether you\u2019re a beginner or a seasoned pro, the Chatoshi crypto trading bot gives you instant answers, live market updates, in-depth analysis, and sentiment data\u2014all in one intelligent, easy-to-use chat interface.\nChatoshi is trained specifically on crypto trading data, social media signals, technical charts, and project fundamentals. It routes your questions to real-time expert-level models to help you trade smarter, faster.\n\nWhat Can Chatoshi Do for You?\nChatoshi is more than a crypto AI chatbot\u2014it's your all-in-one crypto intelligence tool. Here\u2019s what it can do:\n\n\ud83d\udd0d Answers on All Things Cr",
+    "icon": "/icons/org.chatoshi.app.png"
+  },
+  "org.sadhguru.miracleofmind": {
+    "title": "Miracle of Mind - Sadhguru",
+    "package": "org.sadhguru.miracleofmind",
+    "description": "Establish a daily meditation practice with the Miracle of Mind app, featuring a powerful guided meditation designed by Sadhguru. All it takes is just 7 minutes a day.\n\n\ud83e\uddd8\u200d\u2642\ufe0f GUIDED MEDITATION \nSimple yet powerful 7-minute guided meditation designed by Sadhguru\nClear, step-by-step instructions for beginners\nFlexible intervals to extend your meditation practice up to 21 minutes\nGentle bell sounds at each interval \nSoothing background music to enhance your meditation experience\nMultiple language options - now available in Tamil, Hindi, Spanish, and Russian\n\ud83d\udcc8 TRACK YOUR PROGRESS\nStreak tracking and app reminders to build consistency\nEarn achievements and rewards as you keep up your practice\nEarn coins based on the number of meditation minutes \nGet a comprehensive view of your meditation practic",
+    "icon": "/icons/org.sadhguru.miracleofmind.webp"
+  },
+  "passportphoto.idphoto.maker.ai.passportsizephoto.visa": {
+    "title": "AI Passport & ID Photo Maker",
+    "package": "passportphoto.idphoto.maker.ai.passportsizephoto.visa",
+    "description": "Skip expensive studios\u2014AI Passport Photo Maker turns your phone into a smart photo booth, generating compliant passport photos, visa photos, ID card photos, and ID photos for USA, UK, Canada, Australia, Germany, France, Japan, China, India, UAE, and more in just seconds!\n\n\u2714 Snap a selfie \u2013 Let our AI Passport Photo Maker automatically format it.\n\u2714 AI Compliance Check \u2013 Ensuring your passport-size photo meets all requirements.\n\u2714 Instant Download \u2013 Get a high-resolution photo print for online submission or photo copy for home printing.\n \nAI Passport Photo Maker\n\n\u2714\ufe0f Built-in Passport Photo Standards for 150+ Countries \u2013 AI Passport Photo Maker guarantees your passport photo meets all requirements.\n\u2714\ufe0f AI Auto-Adjusts Passport Photo Size \u2013 Instantly resizes your passport photo for compliance\u2014no",
+    "icon": "/icons/passportphoto.idphoto.maker.ai.passportsizephoto.visa.png"
+  },
+  "passportphotomaker.passportphoto.passport.editor.maker.ai.passportsizephoto.visa.idphoto.idphotoprint": {
+    "title": "AI Passport Size Photo Maker",
+    "package": "passportphotomaker.passportphoto.passport.editor.maker.ai.passportsizephoto.visa.idphoto.idphotoprint",
+    "description": "AI Passport Size Photo Maker\n\nCreate Perfect Passport & ID Photos Instantly with AI\n\nAI Passport Size Photo Maker is your all-in-one solution for creating professional, biometric-standard passport and ID photos right from your Android device. Whether you need a passport photo for travel, a visa application, a national ID, or any other official document, our app helps you generate perfect photos that meet the requirements of A to Z countries \u2014 all in just a few taps.\n \nKey Features:\n\nGlobal Document Support:\nGenerate passport-size photos for all countries and document types \u2014 including Passport, Visa, National ID, Driver License, Resident Cards, and more.\n\nSmart Document Detection:\nJust select the country or document type, and our AI instantly adjusts the photo size and ratio to comply with",
+    "icon": "/icons/passportphotomaker.passportphoto.passport.editor.maker.ai.passportsizephoto.visa.idphoto.idphotoprint.png"
+  },
+  "pdf.office.reader.viewer.editor": {
+    "title": "PDF AI Reader: Smart Assistant",
+    "package": "pdf.office.reader.viewer.editor",
+    "description": "PDF AI Reader: Smart Assistant\n\nTired of ordinary PDF readers?\nPDF AI Reader: Smart Assistant brings Artificial Intelligence to your documents - helping you summarize, understand, and chat with your PDFs like never before. Work faster, read smarter, and save valuable time with cutting-edge AI technology.\n\nKey Features\n\n- Smart AI Tools\n\nAI Summary: Instantly generate concise summaries of long PDFs, books, or reports. Save time and grasp key ideas in seconds.\n\nChat AI: Interact directly with your document \u2014 ask questions, clarify complex sections, or extract key insights through intelligent chat.\n\nAI Translate: Translate your PDFs into multiple languages accurately.\n\nAI Reading (Text-to-Speech): Listen to your PDFs read aloud in natural, customizable voices.\n\n- AI Scan to PDF\n\nConvert image",
+    "icon": "/icons/pdf.office.reader.viewer.editor.png"
+  },
+  "pdf.pdfreader.viewer.editor.free": {
+    "title": "PDF Reader - PDF Viewer",
+    "package": "pdf.pdfreader.viewer.editor.free",
+    "description": "This AI-powered all-in-one PDF Reader lets you open, read, edit, sign and convert PDF files anytime, anywhere.\n\nThis smart PDF Viewer automatically detects and displays all files on your device \u2014 PDF, Word, Excel, PPT and TXT are all supported. With this PDF Editor and PDF Converter, you can easily edit text and images in PDF files, highlight key sections, and annotate your opinions. You can also scan documents, notes, and receipts to PDF instantly.\n\nSummarize long reports, translate content into multiple languages, and generate article outlines with our AI Assistant. Listen to your files on the go with AI Read Aloud.\n\nWhether you are organizing academic notes, reviewing business contracts, or preparing a professional CV, this all-in-one PDF tool helps you read and edit files efficiently. ",
+    "icon": "/icons/pdf.pdfreader.viewer.editor.free.png"
+  },
+  "pdfreader.pdfviewer.officetool.pdfscanner": {
+    "title": "PDF Reader App: Read All PDF",
+    "package": "pdfreader.pdfviewer.officetool.pdfscanner",
+    "description": "Introducing the Ultimate AI-Powered PDF Reader! Easily summarize PDFs, chat with your documents, convert images to PDF, and listen with Text-to-Speech. Experience smart, fast, and effortless PDF management all in one powerful PDF Reader App!\n\nAI PDF Reader & Converter \u2013 Read, summarize, chat with PDFs, convert, and listen with Text To Speech. \n\nPDF Reader is your comprehensive solution for viewing, reading, and converting PDF files. This all-in-one PDF Reader and PDF converter app provides key features such as an Image to PDF converter, a robust PDF maker, PDF e-signatures, and a text-to-speech option. PDF viewer app also supports quick access to PDF files and other formats, including Docx, Excel, PPT, and Text.\n\nTop Features of PDF Reader App:\nAI PDF Summary: Get instant, concise summarie",
+    "icon": "/icons/pdfreader.pdfviewer.officetool.pdfscanner.png"
+  },
+  "peachy.bodyeditor.faceapp": {
+    "title": "Peachy: Face App & Body Editor",
+    "package": "peachy.bodyeditor.faceapp",
+    "description": "Transform your selfies and pictures into flawless masterpieces! Try Peachy - Powerful FREE HD Body Editor and Face Tuner with professional features by InShot. Get amazing edits with just one tap: apply stunning filters, reshape body, smooth skin, erase blemishes, and add a radiant glow!\n  As an excellent photo & face editor, Peachy will perfect your daily photos and retouch your body details with magical enhancements \u2013 from pro skin retouching to seamless muscle sculpting. Capture and elevate beautiful moments, then share them with NO watermark on Instagram, TikTok, YouTube, Snapchat, WhatsApp, or Facebook!\n\ud83d\udd27 Essential Photo Editing Tools \u2014 Peachy comes fully equipped with a suite of essential tools to elevate any image:\n\u00b7 Crop & Rotate \u2013 Frame your photo perfectly for any social platform\n",
+    "icon": "/icons/peachy.bodyeditor.faceapp.png"
+  },
+  "photo.editor.background.eraser": {
+    "title": "Background Eraser - BG Remover",
+    "package": "photo.editor.background.eraser",
+    "description": "Background Eraser - Background Remover is a professional AI photo cutting & photo editing tool, with one-click to automatically cut out pictures, remove background and make high-quality PNG images with transparent backgrounds.  With this productive background remover, you can use AI tools to erase background 100% automatically without any skills required. Just import the picture and it will auto-detect the background edge and remove it with a single touch, easy to use. \ud83c\udf89\ud83c\udf8a\nBackground Eraser also can simplify your life and take your photos to the next level.  You don\u2019t have to worry about spending too much time manually cutting out people/animals/objects from the photo, especially where the edges are complicated such as hair, fingers, etc.\u00a0 This AI Background Eraser & Photo Editor can meet a",
+    "icon": "/icons/photo.editor.background.eraser.png"
+  },
+  "photo.id.maker.photo.editor": {
+    "title": "ID Photo: Passport Photo Maker",
+    "package": "photo.id.maker.photo.editor",
+    "description": "Passport Photo Maker & ID Photo Maker is a simple yet powerful ID photo generator, which can create visas, passports, ID card photos for free. With ID Photo Maker, you can save money by combining standard passport, ID or VISA photos into single sheet of 3x4, 4x4, 4x6, 5x7 or A4 paper.  \ud83c\udfc6\n\nEasy-to-use passport photo maker, no watermark! ID Photo & Passport Maker provides a one-stop service for editing and generating ID photos. Based on AI intelligent analysis, it can quickly and easily cut, edit , and generate a perfect ID photo.\ud83d\udc4d\n\nPassport size photo maker is capable of creating official photo sizes for ID, Passport, VISA and License of all countries of the world including USA, Spain, Germany, France, India, Italy, Korea and Brazil. Don't worry about the complex background in the photo, it",
+    "icon": "/icons/photo.id.maker.photo.editor.png"
+  },
+  "photoeditor.cutout.backgrounderaser": {
+    "title": "Background Eraser Photo Editor",
+    "package": "photoeditor.cutout.backgrounderaser",
+    "description": "Auto cut out pics, simple and pixel-level accurate. Trying hard to be your go-to background eraser photo editor!\n\nThis is an easy-to-use and intuitive background eraser & photo editor that helps you automatically cut out pictures with AI tools, remove background and make no watermark transparent background PNG pictures in high quality. \n\nAI background generator: create captivating visuals by generating a unique AI background specifically for your photo! Describe with a few words, and let AI craft a tailored backdrop that fits the subject of your photo. \n\nWith Background Eraser Photo Editor, your life will be easier. No professional editing skills? No worries! No complex photo processing skill needed, you can get an accurate stamp in one tap and use it for stress-free design and editing:\n\u2705 ",
+    "icon": "/icons/photoeditor.cutout.backgrounderaser.jpg"
+  },
+  "photoeditor.photoretouch.removeobjects.retouch": {
+    "title": "Remove Objects - Photo Editor",
+    "package": "photoeditor.photoretouch.removeobjects.retouch",
+    "description": "Say bye-bye to unwanted objects and distractions with the AI pocket photo editor, Remove Objects - AI Retouch!\n\nOne tap to remove unwanted objects naturally \u2014 logo, people, text, blemish, sticker, watermark\u2026 This photo editor and object remover gives your photos a flawless finish in seconds. An unwanted object, no matter how tiny, may completely spoil your photo. But with this super easy & time-saving tool, all photos will look studio-perfect effortlessly \u2014 now enhanced with pixel-level cut to ensure perfect edges and seamless blends.\n\nWhether you're a beginner or a pro, AI Retouch is your go-to photo editor. Start your photo retouching journey and get creative with various AI tools!\n\nAI Retouch Features:\n\n\u270f\ufe0f Photo Retouch App  \n\u2705 Remove unwanted objects, watermark, text, caption, logo, st",
+    "icon": "/icons/photoeditor.photoretouch.removeobjects.retouch.jpg"
+  },
+  "picmix.image.idphoto.maker.passport": {
+    "title": "AI Passport & ID Photo Maker",
+    "package": "picmix.image.idphoto.maker.passport",
+    "description": "\ud83c\udf0d Create Passport, Visa & ID Photos Instantly\n\nTurn your phone into a smart AI photo booth!\nAI Passport & ID Photo Maker helps you create passport photos, visa photos, and ID photos in seconds.\n\nSupports 160+ countries, including USA, UK, Canada, Australia, Germany, France, Japan, China, India, UAE, and more.\n\nForget expensive studios or manual edits \u2014 just upload your photo and AI handles everything automatically.\n\n\u26a1 AI-Powered Accuracy\n\n\u2714 AI Compliance Check \u2013 Automatically ensures your photo meets official standards\n\u2714 AI Background Removal \u2013 Instantly removes messy backgrounds and replaces them with official backgrounds\n\u2714 AI Head Position Adjustment \u2013 Guarantees correct head alignment and proportion\n\u2714 Instant Download \u2013 Get your photo ready for online submission or printing\n\n\ud83e\udde0 Trusted b",
+    "icon": "/icons/picmix.image.idphoto.maker.passport.jpg"
+  },
+  "pl.beespeaker": {
+    "title": "BeeSpeaker Learn English",
+    "package": "pl.beespeaker",
+    "description": "\ud83d\udc1d BzZzZz! Join our hive and start communicating smoothly in a foreign language. It has never been easier to learn English and Spanish!\n\nBeeSpeaker is a true revolution and the first-ever app totally devoted to learning to actually SPEAK English and Spanish. The app gets you speaking from day 1. Within the first week, our users say up to 1000 words in the language they\u2019re learning.\n\nHow? It\u2019s a voice-controlled and AI-powered app, based on modern machine learning technology, in which your task is to listen to words and phrases and repeat or answer questions, speaking out loud in a foreign language. \n\nBeeSpeaker recognizes what you\u2019re saying and gives you instant feedback. This way, you know where you\u2019re making mistakes and where you need to improve.\n\nWhy BeeSpeaker?\n\ud83d\udde3\ufe0f 3000+ English and Spa",
+    "icon": "/icons/pl.beespeaker.png"
   }
 }
