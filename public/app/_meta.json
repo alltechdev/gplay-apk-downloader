@@ -37221,5 +37221,580 @@
     "package": "com.accrisoft.app.kansas",
     "description": "The J - JCC of Greater Kansas City App features:\n\n- Never lose your member card again. Use the barcode in the app to enter The J  \n\n- Want to take a Fitness Class? View the Group Fitness schedules and sign-up for classes in minutes.\n\n- Get back in the water or on a court. Reserve a swim lane, pickleball court, or racquetball court\n\n- See what\u2019s happening at The J. View our event calendar and register for events.\n\n- Manage your membership account. Keep your information up to date from any location.\n\n- Easily find your favorite program. Searching through hundreds of programs is made easier using customized filters.",
     "icon": "/icons/com.accrisoft.app.kansas.png"
+  },
+  "com.finpulse.finpulse": {
+    "title": "Finpulse: AI Finance Assistant",
+    "package": "com.finpulse.finpulse",
+    "description": "Your AI-powered stock tracker and investment assistant \u2014 all in one chat.\n\nFinpulse helps you track your investment portfolio, get real-time stock prices, set smart price alerts, and stay ahead with AI-curated market news. Ask questions, get instant answers, and manage your holdings across stocks, crypto, ETFs, commodities, forex, and market indices.\n\n\ud83d\udcac AI Chat\nAsk anything about the markets. Powered by Google Gemini with real-time data access, Finpulse answers your financial questions with up-to-date prices, news, and portfolio insights.\n\n\ud83d\udcca Portfolio Tracking\nAdd and manage your holdings across stocks, crypto, commodities, ETFs, currencies, and market indices. See real-time prices and track your portfolio performance at a glance.\n\n\ud83d\udd14 Smart Alerts\nNever miss a move. Get notified about signi",
+    "icon": "/icons/com.finpulse.finpulse.png"
+  },
+  "com.fitnessai.android": {
+    "title": "FitnessAI: Gym Workout Planner",
+    "package": "com.fitnessai.android",
+    "description": "Workout at home or at the gym with FitnessAI\u2019s advanced training algorithm to guide you through the perfect set, rep and weight combination to reach your fitness goals.\n \n\u25cf Get results with whatever equipment you have available to you. Whether your fitness goals are to build muscle, get toned or lose weight fast, FitnessAI is the simplest way to access a world class training regiment.\n \n\u25cf Our easy to follow gym and home workouts are backed by data, not intuition. FitnessAI\u2019s simple layout allows for easy exercise tracking for your full body workout.\n \n\u25cf FitnessAI plans your gym sessions and optimizing for health, strength and fitness. It\u2019s algorithm offers high rep modes to help you get toned, as well as advanced progressive overload optimizations to help you build mass while weight liftin",
+    "icon": "/icons/com.fitnessai.android.png"
+  },
+  "com.flywork.videosummaryapp": {
+    "title": "Video Summary: Summarize It",
+    "package": "com.flywork.videosummaryapp",
+    "description": "Get instant insights from any video with Video Summary: Summarize It. Video Summary is an AI-powered video summarization app designed to help users quickly convert long videos into clear, structured, and easy-to-understand summaries. Whether you are watching educational content, business meetings, webinars, or YouTube videos, the app helps you extract the most important information without wasting time on the full video.\n\nWith advanced AI technology, Video Summary: Summarize It analyzes video content, identifies key points, and generates accurate summaries in seconds. Users can use it as a Video Meeting Summarizer, YouTube Video Summaries tool, and general Video Summarization assistant for any type of content. It is designed for students, professionals, and anyone who wants to understand v",
+    "icon": "/icons/com.flywork.videosummaryapp.jpg"
+  },
+  "com.ford9.AI.CoverLetter.Generator.Creator.Builder.Maker.Writer": {
+    "title": "Ai Cover Letter for Job",
+    "package": "com.ford9.AI.CoverLetter.Generator.Creator.Builder.Maker.Writer",
+    "description": "Cover letter for job application\nFREE resume creator letter writing App! \n\ud83d\ude80 AI Cover Letter Creator, Resume Letter Writer & Maker is designed with a comprehensive range of features for skillful job application letter drafting. \ud83d\ude80 Get letter writing app for free. FREE Letter templates. Seeking an escape from the time-consuming task of resume cover letter? Your search ends here. AI Cover Letter Writer is your go-to app for creating professional and customized job application letters effortlessly.\n\n\ud83c\udf08\ud83d\udca1 **Key Features** \ud83d\udca1\ud83c\udf08\n\n\ud83d\udc69\u200d\ud83d\udcbc **Professional Cover Letter**: Harness the power of artificial intelligence to write top-notch, industry-standard application cover letters that grab attention and leave a lasting impression.\n\n\u2728**Customized Cover Letters**: Tailor your CV cover letters to suit specific jo",
+    "icon": "/icons/com.ford9.AI.CoverLetter.Generator.Creator.Builder.Maker.Writer.png"
+  },
+  "com.ford9.ai.application.letter.creator.maker.writer.generator.builder": {
+    "title": "Job Application Letter Maker",
+    "package": "com.ford9.ai.application.letter.creator.maker.writer.generator.builder",
+    "description": "Application letter maker!\n\u2728Are you tired of spending endless hours messing with the difficult task of writing application letter? Bid farewell to the stress and frustration with our groundbreaking app AI application letter generator. Allow us to introduce you to the peak of efficiency and convenience\u2728\n\n\ud83c\udf1fIn today's fast-paced world, time is of the essence. Whether you're seeking employment, applying for college, or submitting formal requests, the process of composing a compelling application letter can be both time and mentally consuming. Fear not! Our inventive platform harnesses the capabilities of artificial intelligence to simplify this process to a level never seen before. \ud83c\udf1f \n\n\n\ud83c\udf08\ud83d\udca1 **Key Features** \ud83d\udca1\ud83c\udf08\n\n\ud83d\udcdd **Professional Application Letter Writing** \nGone are the days of confusion over th",
+    "icon": "/icons/com.ford9.ai.application.letter.creator.maker.writer.generator.builder.jpg"
+  },
+  "com.ford9.ai.job.mock.interview.preparation.generator.maker.builder.creator": {
+    "title": "AI Job Interview Preparation",
+    "package": "com.ford9.ai.job.mock.interview.preparation.generator.maker.builder.creator",
+    "description": "\ud83d\udcbc\ud83e\udd16 Take charge of your career with confidence, guided by advanced artificial intelligence. \ud83d\ude80 Interview AI transforms the job search and application process for job seekers, offering an all-in-one platform designed to enhance every aspect of your career journey. Whether you're sharpening your Interview Skills, participating in mock interviews or mockup interviews, or getting ready for common interview questions with customized interview questions and answers, AI Job Interview has you covered. Acting as your personal career coach and career counseling guide, our platform simplifies the job hunting process. From finding Jobs near me and jobs hiring near me to uncovering LinkedIn job opportunities and remote jobs near me, our AI-driven tools ensure you're equipped for success at every stage of",
+    "icon": "/icons/com.ford9.ai.job.mock.interview.preparation.generator.maker.builder.creator.png"
+  },
+  "com.ford9.ai.resume.builder.cv.maker.generator.creator": {
+    "title": "AI CV Maker-Resume Builder PDF",
+    "package": "com.ford9.ai.resume.builder.cv.maker.generator.creator",
+    "description": "AI CV Maker & Resume App\u2014Create Your Professional Resume in Seconds!\nNeed a job-winning resume or CV? The AI CV Maker & Resume App helps you craft a professional, customized, and modern CV in just minutes. Whether you\u2019re a fresh graduate or a senior professional, our AI resume generator simplifies the entire process\u2014from writing to editing and exporting a polished PDF version ready to share instantly.\n\n\ud83e\udde0 Key Features\n\u2705 AI Resume Generator \u2013 Instantly generate a professional resume using the power of AI. Just enter your details or job title, and let our AI resume builder create a well-structured and attractive document.\n\u2705 Enhance Base Resume for Specific Jobs \u2013 Tailor your CV for each job application. The AI resume writer improves your existing resume, optimizing it for keywords that recrui",
+    "icon": "/icons/com.ford9.ai.resume.builder.cv.maker.generator.creator.png"
+  },
+  "com.forvo.pronunciationguide.app": {
+    "title": "Forvo Pronunciation Guide",
+    "package": "com.forvo.pronunciationguide.app",
+    "description": "Improve your pronunciation with Forvo! Forvo Pronunciation Guide lets you listen, request and record pronunciations in more than 400 languages.\n\nWith Forvo, you can search for words and listen to pronunciations recorded by authentic native speakers of the language you require. And it's not just the world's most spoken languages such as English, Spanish, Chinese, Arabic, Russian, French, German, Japanese, or Italian, you can also search for words in Kabyle, Bashkir, Tamil and many, many others. \n\nFeatures:\n* Search for words and listen to pronunciations from native speakers.\n* English pronunciations, French pronunciations, German pronunciations, Chinese pronunciations, Spanish pronunciations and hundreds more.\n* More than 7 million pronunciations available.\n* Compare different accents for t",
+    "icon": "/icons/com.forvo.pronunciationguide.app.png"
+  },
+  "com.foundfakes.ai_doctor": {
+    "title": "Symptom Check AI Health Guide",
+    "package": "com.foundfakes.ai_doctor",
+    "description": "Symptom Check AI Health Guide\n  Smart AI Health Assistant & Symptom Information Tool\n\n  Need instant health information and wellness guidance? SymptomCheck is your smart AI health assistant that provides comprehensive health information and\n  personalized wellness advice. Our AI-powered health guide analyzes your concerns instantly, delivering reliable health information and wellness tracking right\n  from your Android device.\n\n  ADVANCED AI HEALTH TECHNOLOGY\n\n  Our cutting-edge AI health platform processes extensive medical information to deliver helpful symptom insights and health guidance. Transform your phone into a\n  smart health companion:\n\n  - Instant Symptom Information - Advanced AI analyzes symptoms and provides relevant health information with confidence ratings\n  - Smart Wellnes",
+    "icon": "/icons/com.foundfakes.ai_doctor.png"
+  },
+  "com.francepaulpastrana.vajosieapp": {
+    "title": "Josie AI: VA Career Coach",
+    "package": "com.francepaulpastrana.vajosieapp",
+    "description": "LEARN VIRTUAL ASSISTANT FREELANCING & AI SKILLS IN 20 DAYS!\n\nStart your Virtual Assistant career with Josie AI, your AI coach for learning freelance VA and remote work skills.\n\nWhether you're a beginner or already freelancing, Josie\u2019s step-by-step 20-day program helps you build confidence, skills, and a real portfolio to become job-ready fast.\n\nWHAT YOU\u2019LL LEARN\n\nHow to find and land clients as a Virtual Assistant\nThe best VA tools, apps, and software to use daily\nTime management and productivity systems for remote work\nClient communication and professional skills\nHow to use AI tools to automate tasks and save time\nBuilding your portfolio and personal brand\nPricing strategies and negotiation tips\n\nPERSONALIZED AI COACHING\n\nChat with Josie, your built-in AI coach.\nGet personalized feedback,",
+    "icon": "/icons/com.francepaulpastrana.vajosieapp.png"
+  },
+  "com.freeit.java": {
+    "title": "Programming Hub: Learn to code",
+    "package": "com.freeit.java",
+    "description": "Coding and programming app to learn to code with HTML, Javascript, C, C++, C#, Swift, Python, R Programming, Java, Artificial Intelligence, CSS, etc.  for free with a one-stop app - \u201cProgramming Hub: Learn to code\u201d\n\nThis coding and programming app is created using research and in collaboration with Google experts and offers a perfect path to learn programming. You will learn to code like an expert, and also enjoy it like a game. It's easy, it's fast and it's fun!\n\n\u2705 Google Play's Editor's Choice\u2028\u2028\ud83c\udfc6\n\n\u2705 Google Play's \"Best of the Best\" of 2017!\u2028\u2028\ud83d\ude3b\ud83d\udc6f\n\n\u2705 Recognized and backed by Google launchpad accelerator\ud83d\udcaa\n\n\u2705 No Ads \ud83d\udc7f\n\nWith a huge collection of 5000+ programs (code examples), 20+ courses and the fastest compiler in the world, all your programming needs are bundled in a single app for your dai",
+    "icon": "/icons/com.freeit.java.png"
+  },
+  "com.fullstack.aicodegenerator": {
+    "title": "AI Code Generator",
+    "package": "com.fullstack.aicodegenerator",
+    "description": "\"AI Code Generator\" is here to enable you write efficient and reliable code snippets in different programming languages of your choice. This app works for developers, students or you as a coding interest since it allows you to create codes from scratch that are based on the requirements you have. Therefore, all that is required is typing your prompt and specify the output you wish to receive, and within seconds AI will provide you with the code you require.\n\nKey Features:\n\nAI Code Generation: Codes can be generated for a wide range of languages and frameworks due to the advanced AI features.\n\nUser Friendly Interface: Any prompt provided by the user will enable the generation of appropriate code snippets.\n\nMultiple Uses: One can use it for backend, frontend, algorithms, data structures and ",
+    "icon": "/icons/com.fullstack.aicodegenerator.png"
+  },
+  "com.fullstack.aicoverlettergenerator": {
+    "title": "AI Cover Letter Generator",
+    "package": "com.fullstack.aicoverlettergenerator",
+    "description": "\"AI Cover Letter Generator\" lets you make professional and individualized cover letters quickly. No matter if you are a new graduate, a seasoned profession, or if you are changing industries, this application creates cover letters specifically designed for the jobs that you will be applying. Enter job details like role, skills, and experience and let the AI write a concise cover letter.\n\nKey Features:\n\nAI-Powered Cover Letter Creation: As fast as you need, constantly create specific cover letters for specific job applications.\n\nCustom Text Generation: Change the tone, writing style or length to what is necessary for the Application.\n\nEasy-to-Use Interface: Enter the information required about the position, and a well written cover letter will be prepared for you.\n\nTarget Driven: Ideal for ",
+    "icon": "/icons/com.fullstack.aicoverlettergenerator.png"
+  },
+  "com.MA.Polyfield": {
+    "title": "Polyfield",
+    "package": "com.MA.Polyfield",
+    "description": "A WW2-based stylized multiplayer first-person shooter, it can be played offline against bots.\n\nBuild your own scenarios and maps or download the amazing community-build maps!",
+    "icon": "/icons/com.MA.Polyfield.jpg"
+  },
+  "com.edkongames.ww2": {
+    "title": "World War 2\uff0dFPS Shooting Games",
+    "package": "com.edkongames.ww2",
+    "description": "Get ready to rewrite history in World War 2: FPS Shooting Games! Step into intense multiplayer battles that capture the essence of World War II. With immersive gameplay, authentic settings, and thrilling PvP action, this first-person shooter (FPS) brings the drama and strategy of the 1940s battlefield straight to your mobile device. Whether you\u2019re a fan of tactical shooters or love the challenge of fast-paced PvP games, World War 2 is the ultimate experience for history and action enthusiasts.\n\nBUILD YOUR HISTORIC ARSENAL\nTake command of iconic World War II weaponry in this ultimate first-person shooter. From bolt-action rifles and pistols to machine guns and bazookas, every weapon in this shooting game is designed with historical accuracy. Upgrade and customize your arsenal to dominate th",
+    "icon": "/icons/com.edkongames.ww2.png"
+  },
+  "com.gamedevltd.wwh": {
+    "title": "World War Heroes \u2014 WW2 PvP FPS",
+    "package": "com.gamedevltd.wwh",
+    "description": "Looking for WW2 first person shooter games around? Battle players from around the world in a crazy WWII-era online first person shooter game!\nDestroy the enemy and survive tank battles in the center of Berlin and other cities. Participate in team and deathmatch battles, plant bombs and defend them, take part in world war massive warfare!\n\nWhy you'll love playing World War Heroes first person shooter:\n\u272f Play on 12+ legendary WWII battle warzones!\n\u272f 4 types of combat equipment from the USA, USSR, Japan and Germany!\n\u272f Enjoy 6 dynamic shooter game modes and even create Custom Games with your own rules.\n\u272f Operate your own tank on the battlefield!\n\u272f 100+ unique weapon types: pistols, sniper rifles, machine guns, shotguns and more!\n\nRules of war: \n\n\u272f Team deathmatch! \nTwo teams fight for dominati",
+    "icon": "/icons/com.gamedevltd.wwh.png"
+  },
+  "com.direwolfdigital.dune": {
+    "title": "Dune: Imperium Digital",
+    "package": "com.direwolfdigital.dune",
+    "description": "Immerse yourself in the world of Dune.\n\nExperience the ultimate blend of strategy and intrigue as you navigate the treacherous landscapes of Arrakis in the award-winning board game Dune: Imperium!\n\nBattle online, locally with AI, or against the formidable House Hagal.\nEarn Achievements that showcase your prowess as a leader.\n\nEmbark on more than a dozen Challenges that will test your wit and cunning.\nCompete for badges in the rotating Skirmish Mode where no two games are the same!\n\nControl the Spice. Control the Universe.\n\nArrakis. Dune. Desert Planet. Raise your banner above the vast wasteland before you. As the Great Houses of the Landsraad marshal their forces and their spies, whom will you influence, and whom will you betray? A tyrannical Emperor. The secretive Bene Gesserit. The shrew",
+    "icon": "/icons/com.direwolfdigital.dune.jpg"
+  },
+  "io.voodoo.dune": {
+    "title": "Dune!",
+    "package": "io.voodoo.dune",
+    "description": "Jump above the line to score, but beware! The higher you get, the harder the landing will be! Don't crash and keep it smooth!",
+    "icon": "/icons/io.voodoo.dune.webp"
+  },
+  "com.heydune.patientapp": {
+    "title": "Dune Health",
+    "package": "com.heydune.patientapp",
+    "description": "Dune Health \u2013 Your 24/7 Healthcare Partner\n\nAt Dune Health, we know that managing your health can feel overwhelming, but you don\u2019t have to do it alone. Whether it\u2019s primary care, chronic condition management, or urgent care, Dune Health gives you instant access to top doctors and instant support, right from your phone.\nDune Health app brings your care plan to your fingertips. Stay on track with personalized care, easily manage appointments, and get the guidance you need when you need it. Need answers quickly? Chat with your care team or connect directly with your trusted doctor. Dune Health is here to support you, every step of the way.\n\nKey Features\n\u2022 Direct chat with your doctor \u2013 Ask questions, get advice, and stay in touch with your doctor from anywhere.\n\u2022 Personalized care plans \u2013 You",
+    "icon": "/icons/com.heydune.patientapp.png"
+  },
+  "com.protopop.dunebarrens": {
+    "title": "Dune Barrens",
+    "package": "com.protopop.dunebarrens",
+    "description": "\"A relaxing yet thought-provoking escape... its meditative gameplay is complemented by stunning visuals.\" \u2014 Geeky Gadgets\n\nSet in a vast desert of dunes, cliffs, and ancient remnants, Dune Barrens invites you to slow down, wander, and experience the calm of open spaces. This is a peaceful open world game for those who enjoy quiet exploration and natural beauty. \n\nA VAST, SUN-LIT DESERT\n\n\u25cf Endless Horizons: Explore sweeping dunes, rocky plateaus, and sun-baked valleys under an ever-changing sky.\n\u25cf Atmospheric Beauty: Experience natural light, heat haze, sands, and a full day-night cycle that makes every moment feel alive.\n\u25cf Quiet Movement: Walk, run, or glide across an expansive landscape shaped by wind and time. \n\nNO ENEMIES. NO QUESTS. JUST PEACE.\n\n\u25cf Total Freedom: There are no battles or",
+    "icon": "/icons/com.protopop.dunebarrens.jpg"
+  },
+  "com.riseofdune.strategy.gp": {
+    "title": "Rise of dune",
+    "package": "com.riseofdune.strategy.gp",
+    "description": "In a future where the Solar System's resources have dried up, civilizations old and new converge on the unforgiving sands of Dune. Here, in the heat of battle, you'll carve out your own kingdom on a vast planetary landscape. Form alliances or rivalries with players across the globe as you vie to capture the \u201cCity of Kings\u201d and secure your place in this war-torn world.\n\nGame Features:\n\nBuild Your Kingdom\nIn this dangerous yet opportunity-laden post-apocalyptic world, create and expand your territory. Gather precious resources, produce vital supplies, battle fiercely for spice, train your armies, and push the limits of your technology to grow your kingdom's strength.\n\nCraft Your Strategy\nWill you focus on expansion, the economy, or building a military powerhouse? Choose your research directi",
+    "icon": "/icons/com.riseofdune.strategy.gp.png"
+  },
+  "com.irremotefordunehd.irapp": {
+    "title": "IR Remote for DuneHD",
+    "package": "com.irremotefordunehd.irapp",
+    "description": "Take full control of your DuneHD devices with the IR Remote for DuneHD app! This intuitive app turns your smartphone into a fully functional remote control for DuneHD media players and compatible devices, utilizing your phone's built-in IR blaster.",
+    "icon": "/icons/com.irremotefordunehd.irapp.png"
+  },
+  "com.dunehd.app": {
+    "title": "DUNE",
+    "package": "com.dunehd.app",
+    "description": "Dune HD Media Center \u2014 file manager, APK installer and media center.\n\nKey features:\n1. File manager. Allows the user to browse and manage any files and folders on various storage devices (such as a connected USB drive or internal storage). Supports the following operations on files and folders: copy, move, rename, delete, create a new folder, batch operations on multiple files and folders, recursive processing of folders (with all subfolders and files).\n2. APK installer. Allows the user to install APK files from on various storage devices (such as connected USB drive or internal memory).\n3. Media center. Allow the user to play media files from various storage devices (such as connected USB drive or internal memory).",
+    "icon": "/icons/com.dunehd.app.jpg"
+  },
+  "com.dunehd.dunecontrol": {
+    "title": "Dune Control",
+    "package": "com.dunehd.dunecontrol",
+    "description": "The Dune Control app turns your mobile phone or tablet into an advanced remote control for your Dune HD media players and set-top-boxes.\n\nMain features:\n\nRemote:\n- Fully replaces the standard IR remote control.\n- Uses Wi-Fi to connect to the local network.\n- Automatically searches for Dune HD devices in the local network.\n- Allows to control multiple Dune HD devices and easily switch between them.\n\nNavigator (*):\n- Browse and choose media content via Dune UI shown directly on your mobile device.\n- Access local and network sources, Favorites, Recent, My Collection, Movies, Dune HD PHP plugins, etc.\n- The menu shown on the mobile device mirrors the menu shown on the TV screen.\n- Enter text into text fields in Dune UI using native keyboard on your mobile device.\n- Photo viewer mode: view phot",
+    "icon": "/icons/com.dunehd.dunecontrol.png"
+  },
+  "com.remoteforDuneHD.IrAppRemoteApp": {
+    "title": "Remote for Dune HD",
+    "package": "com.remoteforDuneHD.IrAppRemoteApp",
+    "description": "Introducing the Horizon TV IR Android app, a specialized application tailored for Android smartphones featuring an infrared (IR) blaster. Elevate your television control experience by turning your IR-equipped phone into a versatile remote for Horizon TV.\n\nWith the Horizon TV IR app, enjoy the simplicity of managing channels, adjusting volume, and navigating playback controls directly from your smartphone. This app is crafted exclusively for devices with an IR blaster, streamlining your TV control without the need for additional hardware.\n\nDisclaimer: This application is not an official remote app for Horizon TV. It is an independent creation designed for compatibility with smartphones equipped with an IR blaster. Horizon TV IR app is not affiliated with or endorsed by the official Horizon ",
+    "icon": "/icons/com.remoteforDuneHD.IrAppRemoteApp.png"
+  },
+  "com.tova.social": {
+    "title": "Tova: Private Social Club",
+    "package": "com.tova.social",
+    "description": "Tova \u2013 Your Social Life, Upgraded\n\nTova is a private, invite-only members\u2019 club helping ambitious Gen Z & Millennials unlock the full potential of their social lives.\nDiscover curated events, exclusive venues, and interest-based tribes \u2014 no planning fatigue, no awkward intros.\nDo more of what you love, with people who get it.\n\nFeatures:\n\u2022 Weekly invite-only socials\n\u2022 Access to partnered caf\u00e9s, bars & gyms\n\u2022 Join or start hobby-based tribes\n\u2022 Priority RSVPs & member perks\n\nBecause your plans shouldn\u2019t depend on who\u2019s free.",
+    "icon": "/icons/com.tova.social.png"
+  },
+  "com.maideasyllc.tova": {
+    "title": "Tova",
+    "package": "com.maideasyllc.tova",
+    "description": "The TOVA app allows you to participate in receiving tips through any establishment associated with the TOVA brand. This app allows you to create a custom profile, track your tips received/hours worked on an ongoing basis, and update your personal payment information at any time.",
+    "icon": "/icons/com.maideasyllc.tova.png"
+  },
+  "com.NesiyaTova": {
+    "title": "Nesiya Tova - \u05e0\u05e1\u05d9\u05e2\u05d4 \u05d8\u05d5\u05d1\u05d4",
+    "package": "com.NesiyaTova",
+    "description": "Nesiya Tova was the brain-child of frequent travelers who spent over 20 years collecting and documenting their travel data and then re-arranging it in a way that could be used by anyone planning to visit the same spots. We have an enormous collection of information on everything you need to know before going to visit \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05d4\u05e7\u05d3\u05d5\u05e9\u05d9\u05dd , including detailed information about each tzaddik, location, and even what teffilos to say where. If you're planning a trip like this, Nesiya Tova is the way to go. Literally.\n\nOur in-app algorithm allows travelers to select a route directly from our list, and ensures efficient travel plans. Routes will include everything you need to know in order to have a successful journey. We'll provide you with information regarding airports, hotels, and car rentals, as w",
+    "icon": "/icons/com.NesiyaTova.png"
+  },
+  "com.tovadating.app": {
+    "title": "Tova Dating",
+    "package": "com.tovadating.app",
+    "description": "Tova connects African professionals in the diaspora to meaningful relationships and networks, ending swipe fatigue with precision matching rooted in culture, background, and lifestyle\n\nNo swiping or gimmicks. Just meaningful connections with people who share your culture, drive, and values.\n\nProspective members may download the app and apply to join. Applications are reviewed continually, and approved members can choose a monthly, 3-month, or 6-month plan to access the full experience.\n\nOur community is built on authenticity, respect, and privacy. Members who do not follow these values may lose access. Tova keeps your personal data safe and lets you control who can see your profile\n\nPayments are processed through your Google Play account and renew automatically unless canceled in your Play",
+    "icon": "/icons/com.tovadating.app.png"
+  },
+  "com.meitu.wink": {
+    "title": "Wink: Video Enhancer & Editor",
+    "package": "com.meitu.wink",
+    "description": "Turn everyday videos and photos into professional-quality content with Wink, the all-in-one AI video editor and photo retouch app. Perfect for vlogs, social media posts, or daily memories\u2014Wink helps you edit, enhance, and create effortlessly.\n\n[ AI Editing & Retouch Tools ]\n\n\u2022 AI Repair & 4K Upscaler \u2013 Restore blurry or low-resolution videos and photos to HD, Ultra HD, or 4K.\n\u2022 Face Retouch & Makeup \u2013 Smooth skin, whiten teeth, slim faces, and apply natural beauty filters.\n\u2022 Body Reshape \u2013 Adjust body shape and proportions for the perfect look.\n\u2022 Auto Captions & Subtitles \u2013 Generate accurate captions in multiple languages for social videos.\n\u2022 AI Remover & Background Cutout \u2013 Erase unwanted objects and backgrounds instantly.\n\u2022 Filters, Templates & Video Editing \u2013 One-tap filters, trending t",
+    "icon": "/icons/com.meitu.wink.png"
+  },
+  "ai.tokti.videoedit": {
+    "title": "TOVA - Tokti AI Video Enhancer",
+    "package": "ai.tokti.videoedit",
+    "description": "Transform your videos with TOVA, the ultimate AI-powered video enhancement tool. Short for Tokti VideoEdit AI, TOVA brings professional-grade video upscaling and enhancement right to your fingertips. Whether you\u2019re looking to produce a crisp 4k resolution, breathtaking 8k resolution, or even jaw-dropping 16k resolution, TOVA has you covered.\n\nTOVA is optimized for sports footage, providing smooth frame interpolation and motion blur removal for fast-paced footage of dance choreography, basketball, golf, tennis, and more.\n\nDon't miss out on high-quality smooth slow-motion footage in sports.  TOVA can convert your existing footage.\n\n## Key Features\n\t\u2022 Upscale and enhance videos to 4K/8K resolution (and beyond) for high \n\n## quality video results\n\t\u2022 Recover details from blur video or noisy foo",
+    "icon": "/icons/ai.tokti.videoedit.png"
+  },
+  "com.oneui7kwgt.pack": {
+    "title": "OneUi 7 KWGT",
+    "package": "com.oneui7kwgt.pack",
+    "description": "ATTENTION\n\nThis is not a stand-alone app. Oneui 7 KWGT requires KWGT Pro app [PAID APPLICATION].\n\nOneUi 7 KWGT is Made For futuristic and Beautiful Home Screens. \n\nHow to set up the widgets?\n\nYou Need to download 2 apps \n\n1. KWGT: https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_IN\n\n2. KWGT Pro Key: https://play.google.com/store/apps/details?id=org.kustom.widget.pro&hl=en_IN\n\nUsed \n\u2714 Custom launcher like a Nova launcher (Recommended)\n\nHow to Use :\n\n1. DOWNLOAD Orange KWGT & KWGT Pro Application\n2. Long tap on your home screen & choose the widget option\n3. Choose the KWGT widget from the drop-down list\n4. Tap on the widget, choose installed & select Orange KWGT\n5. Choose the widget you like & adjust scaling as per the home screen\n6. Congratulations! You are good to go.\n",
+    "icon": "/icons/com.oneui7kwgt.pack.png"
+  },
+  "com.fullstack.aidocumentgenerator": {
+    "title": "AI Document Generator",
+    "package": "com.fullstack.aidocumentgenerator",
+    "description": "AI Document Generator is your smart assistant for creating professional, high-quality documents in seconds. Whether you need business reports, technical documentation, proposals, project templates, or formal letters, this app leverages the power of advanced AI to streamline the entire process, saving time and boosting productivity.\n\nWith a clean and intuitive interface, getting started is as simple as typing your message or request. Just enter a prompt like \"Create a project proposal for a new software product\", and the app will generate a polished, well-structured document tailored to your needs.\n\nKey Features:\n\nGenerate documents from simple text prompts that you can copy.\n\nAI-powered content generation with natural language fluency.\n\nSave hours of manual writing and formatting.\n\nIdeal f",
+    "icon": "/icons/com.fullstack.aidocumentgenerator.png"
+  },
+  "com.fullstack.aireactcodegenerator": {
+    "title": "AI React Code Generator",
+    "package": "com.fullstack.aireactcodegenerator",
+    "description": "AI React Code Generator is a powerful AI-powered tool designed to help developers create optimized, efficient, and scalable React components instantly. Whether you are a beginner learning React or an experienced developer looking to speed up your workflow, this app simplifies the process of writing high-quality React code.\n\nSimply enter your requirements, and AI React Code Generator will generate clean, well-structured, and functional React components, hooks, and UI elements. Whether you need functional components, API integrations, form validation, or complex state management, this app can generate accurate code tailored to your needs.\n\nKey Features:\n\nGenerate fully functional React components in seconds.\n\nCreate React hooks for managing state and side effects.\n\nBuild optimized UI compone",
+    "icon": "/icons/com.fullstack.aireactcodegenerator.png"
+  },
+  "com.fungo.tinytranslate": {
+    "title": "AI Scan - PDF Doc Scanner App",
+    "package": "com.fungo.tinytranslate",
+    "description": "Looking for a reliable scanning app? \nTry AI Scan for perfect scans with just one tap.\n\n*** Choice of millions of businesses and individuals for over 7 years and counting! ***\n\nAI Scan is the proven scanning solution that fits right in your pocket! Trusted by millions of users for over 7 years, AI Scan is perfect for contractors, small businesses, freelancers, and anyone on the go. Scan almost anything you can think of with AI Scan: documents, books, receipts, notes, photos, IDs, passports, whiteboards, posters, cards, letters, newspapers, screens, licenses, menus, certificates, music scores, and more.\n\n\n---\nIMPRESSIVE STORY FROM USER \n\"When my family began trying to share old family letters in the 1980\u2019s, photocopying was the best option. Later, saving scans to CDs was considered, as was ",
+    "icon": "/icons/com.fungo.tinytranslate.jpg"
+  },
+  "com.galiniaai": {
+    "title": "Galinia: AI Meditation & Sleep",
+    "package": "com.galiniaai",
+    "description": "Galinia \u2014 Personal meditation, made for your moment.\n\nNot another meditation library. A guided session written for exactly what you're going through, right now.\n\nTell Galinia what's on your mind \u2014 in your own words \u2014 and within seconds you'll have a unique meditation, written for your situation. No generic scripts. No repeated sessions. No 30-minute commitments. Just calm, focus, sleep, or stress relief, built for the moment you're in.\n\nHOW IT WORKS\n\nType what's going on. Something like:\n\"I've just pulled into the driveway after a brutal day and I don't want to bring that energy inside to my family.\"\nOr: \"It's 2am and I can't stop thinking about tomorrow's meeting.\"\nOr: \"I've got ten minutes before school pickup and I need to reset.\"\n\nGalinia reads your emotional tone, writes a fresh mindf",
+    "icon": "/icons/com.galiniaai.png"
+  },
+  "com.gamestar.perfectpiano": {
+    "title": "Perfect Piano",
+    "package": "com.gamestar.perfectpiano",
+    "description": "Perfect Piano is an intelligent piano simulator designed for Android phones and tablets. With in-built genuine piano timbre, this app can teach you how to play the piano and amuse you at the same time!\n\n[ Intelligent Keyboard ]\n\u2022 88-key piano keyboard \n\u2022 Single-row mode; Double-row mode; Dual players; Chords mode\n\u2022 Multitouch screen support \n\u2022 Force touch \n\u2022 Keyboard width adjustment \n\u2022 Multiple in-built sound effects: Grand piano, Bright Piano, Music Box, Pipe Organ, Rhodes, Synthesiser\n\u2022 MIDI and ACC audio recording \n\u2022 Metronome \n\u2022 Direct sharing of recording file or set as ringtone\n\u2022 OpenSL ES low latency audio support (beta)\n\n[ Learn to Play ] \n\u2022 Learn thousands of popular music scores \n\u2022 Three guidance patterns: falling note, waterfall, music sheet (stave)\n\u2022 Three play modes: auto pla",
+    "icon": "/icons/com.gamestar.perfectpiano.png"
+  },
+  "com.gen.bettermeditation": {
+    "title": "BetterMe: Mental Health",
+    "package": "com.gen.bettermeditation",
+    "description": "BetterMe: Mental Health\u2014an all-in-one app for your mental well-being, offering meditations, courses, and other tools.\n\nMindfulness is key to a balanced life, and BetterMe offers simple, practical relaxation methods for everyone, whether you're just starting out or already a pro. Dive into guided practices and start discovering your inner peace today\u2014let's embrace the good vibes together!\n\nTeaming up with mental health experts, we have used effective tools and strategies from Cognitive Behavioral Therapy (CBT) to help you tune in to the world surrounding you. \n\nIncorporate mindfulness into your daily routine through guided meditations, stress-relief practices, breathwork, sleep meditations, and hundreds of mental health exercises. When your mind is clear, you concentrate better, feel inspir",
+    "icon": "/icons/com.gen.bettermeditation.png"
+  },
+  "com.generateqrcode.app": {
+    "title": "QR Code Generator & Analytics",
+    "package": "com.generateqrcode.app",
+    "description": "\ud83d\ude80 Built for Businesses That Want Results and Grow Sales\n\nCreate short, powerful dynamic QR codes (only 5 characters) that are easier to scan, cleaner to print, and more effective in real-world campaigns.\n\nTrack performance in real time and update your content anytime\u2014without ever reprinting your QR codes.\n\n\ud83d\udcca Turn Every Scan Into Actionable Data\nReal-time scan tracking\nUnderstand when, where, and how users scan\nOptimize campaigns based on real performance\nMeasure offline-to-online conversions\n\n\ud83d\udc49 Stop guessing. Start making data-driven decisions.\n\n\u26a1 Why Our QR Codes Perform Better\nUltra-short (5-character) dynamic QR codes \u2192 faster scanning & cleaner design\nEdit content anytime without changing the code\nDesigned for marketing, sales, and business growth\nBuilt to scale with your campaigns\n\ud83c\udfaf D",
+    "icon": "/icons/com.generateqrcode.app.png"
+  },
+  "com.getdocume": {
+    "title": "DocuMe \u2013 AI Document Assistant",
+    "package": "com.getdocume",
+    "description": "Find any document. Never miss a deadline.\nMeet DocuMe, your smart AI-powered assistant for managing all your important documents \u2014 from IDs and contracts to receipts and insurance papers.\n\nScan, upload, and instantly search through your files. DocuMe helps you organize, analyze, and set reminders, so you stay stress-free and never miss an expiry again.\n\nInstantly Find What You Need\nAsk DocuMe anything:\n- \u201cWhen does my passport expire?\u201d\n- \u201cFind my car insurance.\u201d\n- \u201cShow me my rental agreement.\u201d\nYour AI chatbot searches and answers in seconds.\n\n\nSmart Document Analysis\n- Detects type (ID, contract, receipt, certificate, and more)\n- Auto-suggests the right folder\n- Learns and improves every time you upload\n\n\nEffortless Organization\n- Scan or upload documents in seconds\n- Smart folders group ",
+    "icon": "/icons/com.getdocume.png"
+  },
+  "com.getmental.mental": {
+    "title": "Mental: AI Therapy",
+    "package": "com.getmental.mental",
+    "description": "* Featured in: USA Today, Wall Street Journal, Forbes, GQ, Men's Journal *\n\n** Built by Stranford-trained PhD in Neuroscience & PhD/Professor of Counseling Psychology from Cal State Fullerton **\n\n*** Brought to you by the founding team members of the Calm app ***\n\nOvercome stress, build confidence & unlock your potential, all in one app.\n\nWhether it's stress from relationships, lack of confidence at work, anxiety about finances, or struggles with unhealthy habits, your first line of defense is Mental \u2014 an evidenced-based AI therapy & self-improvement app.\n\nAvailable 24/7 and at a fraction of the cost of traditional therapy, it's your personal guide to transforming your life into the person you were born to be.\n\nAI THERAPY THAT UNDERSTANDS YOU\n-Always Here for You: Engage in real-time conve",
+    "icon": "/icons/com.getmental.mental.png"
+  },
+  "com.getpronounce.app.twa": {
+    "title": "Pronounce AI",
+    "package": "com.getpronounce.app.twa",
+    "description": "Ready to take your English communication from good to great?\n\nPronounce can check your speech in action. With just a click, start recording your conversations and let Pronounce analyze your voice to provide speech feedback and practice.\n\nMaster clear, confident speaking in any setting with Pronounce. \n\n\u27a4 Instant Feedback, Real Results:\nPronounce evaluates your English in real-time, whether in a casual chat or a business meeting and provides detailed feedback, helping you enhance your speaking skills.\n\n\u27a4 Speech Analysis:\nPronounce offers nuanced feedback on pronunciation, grammar, and vocabulary to help you speak better, eliminate mistakes, and command your listeners' attention. \n\n\u27a4 Efficient Learning:\nAfter each call, Pronounce suggests personalized practices, helping you refine word choic",
+    "icon": "/icons/com.getpronounce.app.twa.png"
+  },
+  "com.ghosal.realvoice": {
+    "title": "Real Voice Text to Speech",
+    "package": "com.ghosal.realvoice",
+    "description": "turn any text into a realistic, human-like voice with Real Voice Text to Speech \u2013 your powerful voiceover tool supporting multiple languages and voice styles!\n\n\ud83c\udfa4 Key Features:\n\n\u2705 Realistic Speech Output \u2013 Enjoy high-quality, lifelike voice synthesis.\n\u2705 Multilingual Support \u2013 Convert text into speech in over 38+ languages.\n\u2705 Multiple Voices \u2013 Choose male, female, or custom voices for a personalized experience. 200+ Supported Voice\n\u2705 Easy to Use \u2013 Just type or paste your text, select language & voice, and hit play.\n\u2705 Export Audio \u2013 Save your voiceovers as audio files for offline use.\n\u2705 Lightweight & Fast \u2013 Minimal app size with fast performance.\n\n\ud83d\udde3\ufe0f Perfect for:\n\nVoiceovers for videos and presentations\n\nReading assistance\n\nLanguage learning\n\nAccessibility & screen reading\n\nFun and entertainm",
+    "icon": "/icons/com.ghosal.realvoice.png"
+  },
+  "com.gloria.studybuddy": {
+    "title": "StudyBuddy - YKS Haz\u0131rl\u0131k AI",
+    "package": "com.gloria.studybuddy",
+    "description": "StudyBuddy YKS is an AI-powered study app developed for students preparing for the YKS exam, specifically for the TYT and AYT sections.\n\nSolving practice questions, reviewing topics, tracking practice tests, and creating study plans are among the most challenging aspects of YKS preparation. StudyBuddy helps you create a personalized study plan with its AI coach and brings together the TYT and AYT preparation processes in one place. Track how much time is left until the YKS exam with the YKS Counter.\n\nWith the photo-based question-solving feature, you can quickly solve TYT and AYT questions using AI. The AI \u200b\u200bquestion-solving system shows not only the answer but also the solution steps.\n\nWith the practice test tracking system, you can record your YKS practice test results and see your corre",
+    "icon": "/icons/com.gloria.studybuddy.png"
+  },
+  "com.gmail.jmartindev.timetune": {
+    "title": "TimeTune - Schedule Planner",
+    "package": "com.gmail.jmartindev.timetune",
+    "description": "Doing more things with your time. Increasing your productivity. Improving your daily routine.\n\nThat and more is what you can do with TimeTune, your schedule planner and time blocking app.\n\n\ud83d\udc4d RECOMMENDED BY EXPERTS\n\nJessica McCabe from \u201cHow to ADHD\u201d recommends TimeTune as an ideal tool to build solid routines and give structure to your day.\n\n\ud83d\ude00 WHAT IS TIMETUNE?\n\nTimeTune is a schedule planner and time blocking app. Use it to organize your agenda, plan routines and increase your productivity.\n\nDo you know why some people can get plenty of things done in a single day while your time slips through your fingers?\n\nThe answer is that they have a very structured distribution of time. They organize their agenda with a planner and have strong time management habits. That allows them to seize the day",
+    "icon": "/icons/com.gmail.jmartindev.timetune.png"
+  },
+  "com.godhitech.summarize.quiz.mindmap": {
+    "title": "Summarify: AI Video Summarizer",
+    "package": "com.godhitech.summarize.quiz.mindmap",
+    "description": "Unlock the power of information with Summarify! \ud83d\ude80 An innovative app designed to simplify video consumption and enhance your productivity, Summarify allows you to distill hours of video content into concise summaries that suit your needs. Whether you're tackling a lengthy YouTube lecture, reviewing an important meeting, or catching up on your favorite video podcast, our intelligent AI technology is here to transform the way you digest video content. \n\n**Key Features:**\n\n\ud83d\udcf9 Instant Summaries: Simply paste any video link \u2013 YouTube, local videos, or any other sources \u2013 and receive a tailored summary within seconds. No more wasting hours! \n\n\ud83c\udf10 Multilingual Support: Our app breaks language barriers by supporting multiple languages. Consume content from different cultures and perspectives effortles",
+    "icon": "/icons/com.godhitech.summarize.quiz.mindmap.png"
+  },
+  "com.usekimono.android.mcd": {
+    "title": "McD Connect",
+    "package": "com.usekimono.android.mcd",
+    "description": "McD Connect is the go-to app for McDonald\u2019s crew, managers and staff to catch the latest news, stay in touch with their team, and access all the info they need.\n\nDownload now to discover:\n\u2022 The latest McDonald's news, from announcements to new menu items\n\u2022 More about your restaurant team, via your own group\n\u2022 Shoutouts for great work and contributions\n\u2022 Tips and tools to help you learn more about your role at McDonald\u2019s\n\u2022 Chat and calling (where applicable) with your team members\n\nThis is more than an app \u2013 it's how our community connects. So download, explore and discover more of your McDonald\u2019s world today!",
+    "icon": "/icons/com.usekimono.android.mcd.png"
+  },
+  "com.mcdonalds.mchire": {
+    "title": "McHire",
+    "package": "com.mcdonalds.mchire",
+    "description": "McHire is a recruiting tool to help McDonald\u2019s recruiters and hiring managers hire and onboard restaurant talent.\n\nMcHire helps hiring managers engage and hire talent with ease with the assistance of Olivia, the AI recruiting assistant.\n\nWith McHire, hiring managers can:\n-  Post and manage jobs\n-  Manage candidates with whom Olivia has captured, screened and engaged\n-  Automate interview scheduling by allowing Olivia to automatically schedule qualified candidates based on available interview times\n-  Receive real-time notifications about candidate activities\n-  Communicate with candidates via SMS or Web\n-  Extend offers to candidates\n-  Onboard Candidates effortlessly with built in onboarding\n\nNote: McHire is free to download but a subscription with Paradox is required to use the applicati",
+    "icon": "/icons/com.mcdonalds.mchire.png"
+  },
+  "com.gomind": {
+    "title": "GoMind AI: Planner & Notes",
+    "package": "com.gomind",
+    "description": "GoMind AI \u2013 your AI-powered task manager, email filter, calendar and notes app \u2014 all in one place. Free with unlimited access.\n\nYOUR DATA. YOUR CONTROL. ALWAYS.\n\nGoMind is built with your privacy at its core:\n- AES-256 encryption for all stored data\n- Private notes locked with fingerprint or biometrics\n- No ads \u2014 ever\n- Your data is never sold or shared\n- You own your data, not advertisers\n\nYour tasks, emails, notes and calendar are yours. GoMind simply helps you manage them and nothing more.\n\nAI THAT WORKS FOR YOU\n- AI task creation using natural language \u2014 just type \"Meeting with Alex next Tuesday at 3pm\" and GoMind handles the rest\n- AI-filtered emails \u2014 see only what matters, skip the noise\n- AI chat assistant with full chat history \u2014 revisit past conversations and repeat tasks instant",
+    "icon": "/icons/com.gomind.png"
+  },
+  "com.gonext.pronunciationapp": {
+    "title": "Learn Pronunciation & Spelling",
+    "package": "com.gonext.pronunciationapp",
+    "description": "Struggling with word pronunciation? Want to learn the correct phonics of any language? Pronounce Checker helps you hear, translate, and spell words in multiple languages. This app is useful for language learners, students, and anyone who wants to improve their speaking skills.\n\ud83d\udd0a Pronounce Checker \u2013 Learn Pronunciation & Spelling Easily! \ud83c\udfa7\n\u2728 Key Features:  \n\ud83d\udd0a Check Pronunciation \u2013 Type a word and tap the Pronounce button to hear it in your selected language.  \n\ud83c\udf0d Word Translator \u2013 Instantly translate words from one language to another. Example: Find out what \u201cmorning\u201d means in Chinese!  \n\ud83c\udfa4 Spell Check \u2013 Speak a word, and the app will write it for you to help you learn correct spellings.  \n\ud83d\udcd6 Dictionary \u2013 Type any word and get its meaning instantly.  \n\ud83d\udcdc Pronounce History \u2013 Easily check and rev",
+    "icon": "/icons/com.gonext.pronunciationapp.jpg"
+  },
+  "com.gooddrama.idrama": {
+    "title": "iDrama \u2013 Short Dramas & Reels",
+    "package": "com.gooddrama.idrama",
+    "description": "Escape into bite-sized drama anytime, anywhere\u2014no long waits, no wasted subscriptions. Perfect for your commute, lunch break, quick unwind before bed, or stealing moments during the day. Turn your fragmented time into addictive binge sessions: finish a full gripping series in just a few days!\n\nDive into a massive library of exclusive original short dramas and reels, updated daily with fresh episodes. From heart-racing sweet romance and steamy forbidden love, to epic revenge glow-ups, ancient palace intrigue, modern workplace power plays, werewolf fantasies, laugh-out-loud comedies, and so much more\u2014whatever your mood, we've got the perfect escape. Precise subtitles, cliffhanger-packed plots, and stories that hook you from the first second.\n\n\nWhy you'll love iDrama:\n\u00b7 Exclusive Originals \u2014 ",
+    "icon": "/icons/com.gooddrama.idrama.jpg"
+  },
+  "com.goodsearch.goodpods": {
+    "title": "Goodpods: Podcast Player",
+    "package": "com.goodsearch.goodpods",
+    "description": "The No.1 app for podcast discovery and listening. The best totally free podcast app for Android - by far.\n\nDiscover your next favourite show and enjoy podcasts the way they were meant to be: simple, smart, and seamless.\n\nWhy Goodpods?\n\n\u2022 AI-powered recommendations - find podcasts tailored to your interests.\n\u2022 Smart queue & downloads - line up episodes and listen offline anytime.\n\u2022 Top charts & curated lists - discover trending shows and hidden gems.\n\u2022 Your personal listening history & stats - keep track of what you\u2019ve played.\n\u2022 Flexible playback - sleep timer, variable speeds, and intuitive controls.\n\u2022 Customised feeds - browse shows that match your favourite categories.\n\u2022 Cross-device access - use your account on Android and web.\n\nMillions of podcasts are available on Goodpods, including ",
+    "icon": "/icons/com.goodsearch.goodpods.png"
+  },
+  "com.graspery.www.text_analysis": {
+    "title": "AI Text Analyzer & Writer",
+    "package": "com.graspery.www.text_analysis",
+    "description": "Maximize Your Writing with Text Analyzer AI \u2013 Now Powered by Gemini and ChatGPT!\nThe AI Writing Assistant & Text Analysis app just got even smarter.\n\nBoost your creativity, clarity, and communication with Text Analyzer AI, your all-in-one writing companion. Now enhanced with Google\u2019s Gemini AI and multi-model AI chat, you can analyze, generate, and improve your writing like never before. Upload text or even PDF documents for instant analysis\u2014perfect for writers, students, marketers, and professionals.\n\n\ud83d\ude80 Key Features:\n1. Multi-AI Chat (New!)\nChoose from powerful AI models\u2014including OpenAI and Gemini\u2014to chat, brainstorm, rewrite, and get real-time writing help.\n\n2. PDF Upload Support (New!)\nImport and analyze full PDF documents directly in the app.\n\n3. Gemini AI Integration (New!)\nGet faste",
+    "icon": "/icons/com.graspery.www.text_analysis.png"
+  },
+  "com.grug": {
+    "title": "Grug \u2013 AI-powered Career GPS",
+    "package": "com.grug",
+    "description": "Grug \u2013 AI-powered Career GPS\n\n\ud83e\udde0 Voice-First CareerGPT. \ud83c\udfaf Guaranteed Referrals. \ud83d\udd25 Snappy, swipe Feedback. \ud83d\ude80 Fast-Track Growth.\n\nGrug is your AI-powered Career GPS \u2014 speak your dream role, and in just 2 minutes CareerGPT maps your path, highlights skills to improve, and sets clear goals.\n\n\u2705 Voice-first career mapping in 2 minutes\n\u2705 Swipe-based feedback that keeps you on track\n\u2705 Daily goals, streaks & Grug Coins to gamify progress\n\u2705 Guaranteed referrals & career consulting via subscription or coins\n\nThink of Grug as your career copilot \u2014 combining GenAI, feedback, gamified goals, and pulse insights to help you move 3x faster toward your dream career.",
+    "icon": "/icons/com.grug.jpg"
+  },
+  "com.gunesai.pro": {
+    "title": "G\u00dcNE\u015e AI:KPSS YKS SORU BANKASI",
+    "package": "com.gunesai.pro",
+    "description": "A Revolution in Artificial Intelligence for Exam Preparation with G\u00dcNE\u015e AI! Become a Champion in YKS and KPSS!\nSay goodbye to expensive question banks, thick test books, and the worry of \"How can a question be asked from this topic?\" G\u00dcNE\u015e AI is T\u00fcrkiye's most innovative AI-powered personal exam assistant. Whether you're preparing for YKS (TYT - AYT) or KPSS, with G\u00dcNE\u015e AI you can generate personalized tests and practice exams from your own resources in seconds. Leave your competitors behind not only by studying but also by testing your own notes! \ud83d\ude80 WHAT CAN G\u00dcNE\u015e AI DO? \ud83d\udcda Question Generation from PDFs and Lecture Notes: Upload lecture notes, photos of book pages, or large PDF files from your phone to the application. Artificial intelligence analyzes the texts in seconds and creates new ge"
+  },
+  "com.guruia": {
+    "title": "Guru AI: Study App",
+    "package": "com.guruia",
+    "description": "Guru AI: Help and Explanations for your studies with AI!\n\nWith Guru AI, you understand and apply knowledge from college and school with the help of our Artificial Intelligence. Take a photo or type your question, and receive detailed and explained support, quickly and reliably.\n\nOur model is trained based on methodologies from real tutors across various disciplines, ensuring complete study guides for you to master the content.\n\nMain Features:\n\n\u27a4 DETAILED AND EXPLAINED SOLUTIONS\n\nReceive solutions verified by expert tutors for questions in Math, Physics, Chemistry, Biology, History, Sociology, and much more. Our AI was trained to ensure you understand not just the result, but the resolution process.\n\n\u27a4 EASE OF USE\n\nSimply take a photo of your question or type it into the app. Guru AI will p",
+    "icon": "/icons/com.guruia.png"
+  },
+  "com.gymdone.gymworkouttrainer": {
+    "title": "Gym Workout & Personal Trainer",
+    "package": "com.gymdone.gymworkouttrainer",
+    "description": "A personal fitness tracker app designed to help your fitness tracking & workout planning, gym workouts & build your body, lose weight, gain mass, or bodybuilder plans will be with you in your body build way. \n\nGym workout , Home workout Personal trainer & workout planner\n\nGymDone is your perfect digital personal trainer app, that will help you do your full body workout including all muscle groups, fit bod (fitness body), chest workout, back workout, abs six pack workout, glutes workout, butt & legs in your gym.\n\n Use the best app for \nTracking and analyzing good workouts and weights \n Start best weight lifting training \n Choose best workout plans \n Best tracker for body measurements \n\n\nGymDone is your ultimate fitness tracker and gym, helper. \n\n Exercises based on muscle groups \n Detailed ",
+    "icon": "/icons/com.gymdone.gymworkouttrainer.png"
+  },
+  "com.gymstreak.GymStreakAI": {
+    "title": "GymStreak: AI Personal Trainer",
+    "package": "com.gymstreak.GymStreakAI",
+    "description": "Transform your fitness journey with GymStreak, the ultimate AI Personal Trainer and Workout Tracker that delivers personalized training at a fraction of traditional personal trainer costs. Here's why GymStreak is the premier fitness tracker and workout creator: \u25c6 AI-Powered Workout Creator: Generate dynamic, personalized workout plans that adapt to your progress, ensuring continuous growth as your ultimate gym tracker and strength training companion. \u25c6 Smart Nutrition Tracking: Simply photograph your meals and let our AI provide accurate macro and calorie counts, making nutrition management effortless for any fitness tracker user. \u25c6 Advanced Fitness Tracker Analytics: Monitor your strength training progress with comprehensive charts and insights that showcase your weight lifting achievemen",
+    "icon": "/icons/com.gymstreak.GymStreakAI.webp"
+  },
+  "com.halpindev.summ": {
+    "title": "Summ - Summary for Youtube",
+    "package": "com.halpindev.summ",
+    "description": "YouTube Summarizer Summ converts any YouTube video, web page or text into detailed summaries with juicy value. \n\nDo you really think it necessary to sit down and waste time watching hours of full video on youtube. If only there was a way to summarize the important details of a video and give you clear and concise summaries in seconds... Well you're in luck. Youtube video AI summarizer Summ makes videos comprehensible without watching the whole thing. That way you can understand lectures, tutorials and trending new videos without wasting time.\n\nFeatures:\n\n*   Summarize any video on the spot: Youtube Video Summarizer AI provides a reliable AI to summarize videos in no time.\n*   Save lots of time: Understand more in less time. Be a smart student.\n*   Summaries are written by AI: The AI will a",
+    "icon": "/icons/com.halpindev.summ.png"
+  },
+  "com.hapnot.yks": {
+    "title": "Hap Not: YKS TYT AYT Soru \u00c7\u00f6z",
+    "package": "com.hapnot.yks",
+    "description": "Prepare for the YKS exam effectively and fun with Hap Not! Learn, review, and make a difference in the exam by solving thousands of questions in History and Turkish lessons.\n\n\ud83d\udcda LEARN BY SOLVING QUESTIONS\nHap Not adopts a question-based learning method instead of classic lectures. Reinforce your knowledge by progressing level by level in each topic. Enrich your learning experience with 7 different question types: multiple choice, true-false, visual matching, matching, and more.\n\n\ud83c\udfaf HISTORY AND TURKISH FOR TYT AND AYT\nStudy with a comprehensive question pool organized by topic in History and Turkish lessons. Progress from beginner to advanced level with multiple levels in each topic. Identify your weak areas and focus on them.\n\n\ud83c\udfa7 AUDIO LESSONS\nListen to audio lessons when you don't have time ",
+    "icon": "/icons/com.hapnot.yks.png"
+  },
+  "com.health_ai.baithek": {
+    "title": "HealthGPT - AI Chatbot",
+    "package": "com.health_ai.baithek",
+    "description": "HealthGPT - An AI-Powered Healthcare Assistant for Your Own Health Care\n\nAre you trying to get a dependable and practical AI medical answer? Get ready to try the reliable chatbot healthcare & this AI Healthcare AI write assistant is always there to assist you. Having professional AI medical advice, healthcare assistance, and smart AI articles at your fingertips is what our state-of-the-art AI chatbot is intended to do. With personal AI you can get symptom assessment and healthcare experience. Ask your AI assistant for any health issue or complication they will assist you in seconds. Feel free to ask anything anytime from the virtual assistant and learn more about your health regarding issues.\n\n*Key Features*:\n\n*Symptom Checker*: Worried about your health? Describe your symptoms, and our ch",
+    "icon": "/icons/com.health_ai.baithek.png"
+  },
+  "com.healthdecode.app.health_decode": {
+    "title": "AI Doctor & Symptom Checker",
+    "package": "com.healthdecode.app.health_decode",
+    "description": "Understand your health information more clearly with Health Decode \u2013 your AI-powered companion for medical report explanation and health reference.\n\nHealth Decode is an AI health assistant designed to help you understand medical terms, laboratory reports, and general health concepts quickly and easily. Instead of searching the internet and getting confusing information, use Health Decode to receive clear, educational insights.\n\nWhether you want to understand a blood test result, learn about medical terminology, or check for common medicine interactions, Health Decode provides a simple way to learn more about health data.\n\nKEY FEATURES\n\nAI HEALTH REFERENCE CHAT\nAsk your AI assistant general questions about nutrition, wellness, and medical terminology in an easy-to-understand format.\n\nSYMPTO",
+    "icon": "/icons/com.healthdecode.app.health_decode.png"
+  },
+  "com.healthifyme.basic": {
+    "title": "Healthify: AI Diet & Fitness",
+    "package": "com.healthifyme.basic",
+    "description": "Transform Your Health Journey with Healthify: The Ultimate AI-Powered Wellness Companion\n\nJoin over 40 million users who have embarked on their path to a healthier self with Healthify, the leading health and nutrition app designed to revolutionize your wellness journey. With Healthify, your journey towards a healthier lifestyle is powered by advanced AI technology, offering personalized health insights and seamless meal tracking at your fingertips. Experience the future of fitness with Ria, our AI nutritionist, and Snap, our innovative calorie-tracking tool, and take the first step towards a healthier you today.\n\nWhy Choose Healthify?\nHealthify is more than just a fitness app; it's a comprehensive wellness platform integrating sophisticated AI technology to provide personalized health and ",
+    "icon": "/icons/com.healthifyme.basic.png"
+  },
+  "com.healthmind.app": {
+    "title": "HealthMind -AI Mental Wellness",
+    "package": "com.healthmind.app",
+    "description": "HealthMind is a personalized AI mental health assistant designed to help users better understand emotions, manage daily stress, and build healthier mental wellbeing habits. It offers a safe space for mood tracking, journaling, and AI-powered conversations. \n\nWhat HealthMind Helps With:\n-Managing everyday stress and emotional overwhelm \n-Building self-awareness and healthy mental habits \n-Reflecting through guided journaling and mood check-ins \n-Receiving supportive, non-judgmental AI conversations \n-Tracking emotional patterns over time \n\nKey Benefits:\n-Simple, private mental wellness support \n-Personalized AI-driven experience \n-Designed for daily emotional wellbeing \n-Accessible anytime, anywhere \n\nThe AI Experience: Alverna AI\nAt the heart of the app is Alverna AI, a conversational assi",
+    "icon": "/icons/com.healthmind.app.png"
+  },
+  "com.healthyhold.healthpulse": {
+    "title": "HealthyHold - AI Health Coach",
+    "package": "com.healthyhold.healthpulse",
+    "description": "Transform your health journey with HealthyHold!\nHealthyHold is a free AI-powered health and fitness app that acts as your calorie tracker, meal planner, personal coach, and workout guide - all in one place.\nTrack your calories, monitor weight, plan healthy meals, and stay active with effective home or gym workouts. Whether your goal is to eat healthier, lose weight, or build muscle, HealthyHold\u2019s smart AI diet planner supports meal logging and answers all your fitness questions, anytime, anywhere.\nHome Workouts: Get fit anytime, anywhere\nExpert-designed, no-equipment routines targeting your abs, chest, legs, arms, glutes, and full-body. No gym needed, just a few minutes a day to tone your muscles and sculpt your dream body at home.\nGym Workouts: Maximize your gym time\nTake your training to",
+    "icon": "/icons/com.healthyhold.healthpulse.jpg"
+  },
+  "com.heidihealth.scribe": {
+    "title": "Heidi \u2014 AI Care Partner",
+    "package": "com.heidihealth.scribe",
+    "description": "Heidi is the best way to capture clinical notes on the go. Whether you're on the ward, in the theatres, or out in the community, Heidi keeps up so you can focus on patients, not paperwork. \n\nTranscribe in real time, dictate naturally, and make light note edits anywhere you work. Everything syncs securely to your account, ready on your computer when you are. \n\nHeidi even works offline. If your connection drops, transcription and edits continue without interruption. Notes sync automatically once you're reconnected. Sessions pause and resume if a call comes in, so you never lose your place. \n\nYou can also capture and upload photos directly into your notes, adding context in the moment. And with biometric login, everything stays fast and secure. \n\nHeidi is trusted worldwide:\n- 8 million hours ",
+    "icon": "/icons/com.heidihealth.scribe.png"
+  },
+  "com.hellotalk.aispanish": {
+    "title": "AI Spanish Grammar Checker",
+    "package": "com.hellotalk.aispanish",
+    "description": "AI Spanish is a powerful Spanish grammar correction tool that can help you automatically correct grammar errors and improve your writing skills. It has multiple practical features, including:\n\n1. Automatic Grammar Correction: \nAI Spanish can quickly scan and correct grammar errors in texts, including verb tenses, pronoun usage, noun, adjective, and adverb misuse, etc. Furthermore, it can detect sentence structure and correct word order to ensure smooth and coherent writing.\n\n2. Correct Errors in Scanned Images: \nAI Spanish possesses powerful image recognition capabilities, which can recognize the text content in images and correct grammar and spelling errors. This is particularly useful for scanned or photographed documents, books, and other non-electronic texts, enhancing the accuracy and",
+    "icon": "/icons/com.hellotalk.aispanish.png"
+  },
+  "com.herofinance.finance.ai": {
+    "title": "Hero Finance: AI Money Manager",
+    "package": "com.herofinance.finance.ai",
+    "description": "Meet Hero Finance \u2014 the AI-powered personal finance app that thinks like a financial advisor, but works like a best friend.\n\nWhile other apps just track what you spend, Hero Finance tells you what to do about it. Hero AI analyzes your real spending patterns, recommends personalized budgets, and answers your financial questions in plain language \u2014 no jargon, no judgment, no monthly fees for the basics.\n\n\u2605 HERO AI \u2014 YOUR PERSONAL FINANCIAL ASSISTANT\nTalk to Hero AI the way you'd talk to a financial advisor. Ask anything: \"Am I overspending on food?\" \"How long until I save $10,000?\" \"What's my net worth trend?\" Get instant, intelligent answers built from your actual financial data \u2014 not generic advice.\n\n\u2605 AI-POWERED BUDGET RECOMMENDATIONS\nDon't guess what your budget should be. Hero AI studie",
+    "icon": "/icons/com.herofinance.finance.ai.png"
+  },
+  "com.hhg.clinity": {
+    "title": "Clinity - AI Health Companion",
+    "package": "com.hhg.clinity",
+    "description": "Clinity - Your AI Health Companion for Symptoms, Body Insights & Well-being\n---\nClinity helps you take control of your health with private, trustworthy, AI-powered support. Whether you're curious about a symptom, feeling stressed, preparing for pregnancy, or simply want to stay in shape, Clinity is here to guide you with personalized insights and information all in one place.\n\n\ud83c\udf3f What Clinity can help you with:\n\u2714\ufe0f Symptom Checker\nNot feeling your best? Clinity helps you explore possible causes for your symptoms. Share your concerns, images, or reports and receive AI-guided suggestions for your next steps, empowering you to make informed health decisions.\n\u2714\ufe0f Mental Wellness\nStruggling with stress, anxiety, burnout, or low self-confidence? Clinity offers a safe space to talk, reflect, and acc",
+    "icon": "/icons/com.hhg.clinity.png"
+  },
+  "com.hire22.ai": {
+    "title": "Hire22 Anonymous AI Job search",
+    "package": "com.hire22.ai",
+    "description": "Hire22.ai is an AI-powered anonymous job portal built for top talent. Create a privacy-first profile, get direct CoNCT requests from HR, and move from match to interview in hours, not weeks.\nWhy Hire22.ai\nAnonymous by default: Your name, phone, and email stay hidden until you accept a JobCoNCT.\n\n\nSay goodbye to job applications! Get direct invites from hiring managers who want you\nFast outcomes: 95% candidates see a CoNCT  status in 48 hours; 80% of shortlisted candidates get interview calls in 22\u201372 hours.\n\n\nAI matching: Our engine maps your skills, role, and location to the right openings instantly.\n\n\nZero spam, full control: You decide who can view your full profile and how to be contacted.\n\n\nPan-India coverage: Opportunities across India (e.g., Bengaluru, Delhi NCR, Mumbai, Hyderabad, ",
+    "icon": "/icons/com.hire22.ai.png"
+  },
+  "com.hithink.stockscreener": {
+    "title": "Stock Screener, AI Scanner",
+    "package": "com.hithink.stockscreener",
+    "description": "Stock Screener, AI Scanner \u2014 the smartest stock market screener powered by AI. \nScan stocks, track your portfolio, and get real-time trading signals.\n\nInvest Smarter with AI. AInvest introduces your exclusive AI Financial Advisor, Aime, to revolutionize your stock screening and trading experience. Sync your investing accounts to trade faster, easier, and with ultimate confidence.\n\nAt Ainvest, we enhance every aspect of investing and trading with AI. Designed for aspiring investors and active traders, Ask Aime: \"Find me tech stocks with a P/E ratio under 20 and positive cash flow.\" It\u2019s the first Conversational Stock Screener that builds lists in seconds.\n\nOur Screener covers: NASDAQ, NYSE, S&P 500 (SPX), ETF, Penny Stocks, Options, Forex, and Crypto tools.\n\n\nAime empowers every tool in the",
+    "icon": "/icons/com.hithink.stockscreener.png"
+  },
+  "com.homeworkhelper.mathway": {
+    "title": "Homework Helper AI Math Solver",
+    "package": "com.homeworkhelper.mathway",
+    "description": "Introducing Homework Helper AI Math Solver \ud83d\udcda, a comprehensive AI homework helper free that goes beyond traditional learning tools to redefine your educational journey. Laden with an array of features, Homework Helper AI Math Solver offers an unparalleled experience in AI help with homework, scholarly insights, and personalized tutoring. \n\n\u26a1\ufe0f HOMEWORK HELPER FOR ALL SUBJECTS \u2728 \n\nOur Homework Helper, with its outstanding features,\u202fwill help you\u202fsolve every homework in various subjects. No matter what the subject is, Math, Chemistry, Physics or whichever subjects on Earth, Homework Helper will solve them all. With our AI homework helper and solver installed, the only school problem left is your Physical Education! \n\n\ud83d\udc68\u200d\ud83c\udf93 TUTOR AI LEARNING ASSISTANTS READY TO HELP 24/7 \u23f0 \n\nHomework Helper will ",
+    "icon": "/icons/com.homeworkhelper.mathway.png"
+  },
+  "com.homeworksolverai.app": {
+    "title": "SnapSolve: Homework Solver AI",
+    "package": "com.homeworksolverai.app",
+    "description": "Snap a photo of any homework problem, and get instant, accurate answers powered by cutting-edge AI technology. Say goodbye to homework stress and hello to faster learning",
+    "icon": "/icons/com.homeworksolverai.app.png"
+  },
+  "com.hrd.vocabulary": {
+    "title": "Vocabulary - Learn words daily",
+    "package": "com.hrd.vocabulary",
+    "description": "Ready to elevate your word power? The key to successfully expanding your vocabulary is learning new words in a way that stimulates your attention. Studies show that the most effective way of learning new words is with an app that\u2019s specifically designed for that.\n\n\nWith the Vocabulary app, you can:\n\n- Learn new words with minimal time investment, simply scrolling through your phone\n- Choose your own level of difficulty, based on your current English language mastery\n- Select Vocabulary categories that best suit your needs and interests\n- Speak and write more concisely and confidently, with the right word at your fingertips\n- Meet your linguistic goals at your own pace\n- Customize the app\u2019s features and make it work for you\n\nThe Vocabulary app will turn learning and retaining new words into",
+    "icon": "/icons/com.hrd.vocabulary.png"
+  },
+  "com.hound.android.app": {
+    "title": "SoundHound Chat AI App",
+    "package": "com.hound.android.app",
+    "description": "With SoundHound Chat AI, simply ask for what you want, add follow-up questions, and get fast, accurate, up-to-date responses. Built on our leading independent voice AI platform, this app brings together the best-in-class conversational and generative AI technology for faster, more helpful experiences.\n\nSoundHound Chat AI is the next-generation personal assistant that brings conversational intelligence to life in ways that we\u2019ve only dreamed about. It integrates with dozens of SoundHound\u2019s knowledge domains, pulling real-time data like weather, sports, stocks, flight status, restaurants, to name a few, combined with the most cutting-edge large language models like OpenAI\u2019s ChatGPT. \n\nGone are the days of disappointing and irrelevant web results or \u201csorry, I didn\u2019t get that\u201d responses. With ",
+    "icon": "/icons/com.hound.android.app.png"
+  },
+  "com.hubx.noteai": {
+    "title": "Note AI: Smart Note Taker",
+    "package": "com.hubx.noteai",
+    "description": "Unlock Smarter Note-Taking with Note AI\nStruggling to keep with the notes while in the class or in a meeting? Say goodbye to the hassle of manual note-taking! Note AI will transform the way you capture, organize, and study. Get ready to experience effortless, AI-powered notes that will improve your productivity and learning!\n\nEffortless Transcription, Anytime, Anywhere\nNote AI's cutting-edge technology lets you easily transcribe audio to text. No more missing important details. Record lectures, meetings, and voice memos. Record and transcribe with a single tap. Perfect for students, professionals, and anyone who needs to capture important details without the hassle of typing.\n\nWhy You\u2019ll Love It:\n\u2022 AI-Powered Notes: Transcribe your audio into clean, organized text.\n\u2022 Transcribe Video to Te",
+    "icon": "/icons/com.hubx.noteai.jpg"
+  },
+  "com.huxe.android.apps.huxe": {
+    "title": "Huxe: AI Radio & Podcasts",
+    "package": "com.huxe.android.apps.huxe",
+    "description": "Huxe transforms your daily information into personalized audio intelligence. \n\nWhile you commute, exercise, or just need a screen break \u2014 stay ahead without the endless scroll.\n\nDaily Briefings: Your morning, minus the doomscroll\n\u2022 One personalized audio briefing pulls from your actual emails, calendar, and what's happening in your world. Five minutes while you get ready, and you're caught up. \n\nYour Personalized Feed \n\u2022 Not generic recommendations \u2014 actual personalized audio about your specific interests. Fresh content generated just for you, every single time. Like having an editorial team that actually knows you.\n\nDeepCasts: Any question, instant podcast\n\u2022 Turn curiosity into audio in seconds. Whether it's \"explain that new social app everyone's using\" or \"history of Victorian architect",
+    "icon": "/icons/com.huxe.android.apps.huxe.png"
+  },
+  "com.hyratek.salala": {
+    "title": "HYRA AI - AI on Edge Computing",
+    "package": "com.hyratek.salala",
+    "description": "HYRA AI: Your Smartphone's Gateway to AI-Powered Income\nTransform your smartphone into an income-generating powerhouse with HYRA AI - the All-in-one AI Hub where earning is just a click away!\nHYRA AI revolutionizes how you interact with artificial intelligence, offering a seamless platform for both tech enthusiasts and anyone seeking additional income in their spare time. Our user-friendly interface ensures accessibility for users of all technical backgrounds.\nExperience the HYRA AI Advantage:\n- TrainAI2Earn: Earn rewards by training AI models and labeling data in your free time\n- Marketplace for AI Tools & Services: Access and monetize cutting-edge AI capabilities\n- Mass Adoption Ready: Simplified design for users of all experience levels\n- Real-time Earnings Tracker: Watch your income gr",
+    "icon": "/icons/com.hyratek.salala.png"
+  },
+  "com.icare.iweight": {
+    "title": "AFit Health",
+    "package": "com.icare.iweight",
+    "description": "1.Connected to your mobile phone by bluetooth4.0\uff0cyour weight data, health status and BMI value calculated by your weight and height will display on your app. We care your figure with daily record every minutes.\n2.With temperature sensor in your device, the air temperature will be recorded on your app.\n3.Holding baby mode: you can measure your baby's weight accurately with only four simple steps.\n4.You can also play attention to your weight loss plan constantly with using the function of alarm clock on your app.\n5.Need to match our product.",
+    "icon": "/icons/com.icare.iweight.png"
+  },
+  "com.ichi2.anki": {
+    "title": "AnkiDroid Flashcards",
+    "package": "com.ichi2.anki",
+    "description": "Memorize anything with AnkiDroid!\n\nAnkiDroid lets you learn flashcards very efficiently by showing them just before you would forget. It is fully compatible with the spaced repetition software Anki (including synchronization), which is available for Windows/Mac/Linux/ChromeOS/iOS.\n\nStudy all sorts of things wherever and whenever you want. Make good use of idle times on bus trips, in supermarket queues or any other waiting situation!\n\nCreate your own flashcard decks or download free decks compiled for many languages and topics (thousands available).\n\nAdd material through the desktop application Anki or directly through Ankidroid. The application even supports adding material automatically from a dictionary!\n\nNeed support? https://docs.ankidroid.org/help.html (much preferred over comments in",
+    "icon": "/icons/com.ichi2.anki.png"
+  },
+  "com.id.photo.documents": {
+    "title": "Passport Photo Maker & ID",
+    "package": "com.id.photo.documents",
+    "description": "Create your passport photo at home in seconds \u2014 no studio needed. Get a professional passport photo or ID photo that meets official requirements in under a minute with our AI passport photo maker \u2014 fast, easy, and effortless.\n\nThis passport size photo maker and ID photo maker handles everything in one tap \u2014 AI removes the background with a built-in background remover, adjusts your photo to the correct size, and prepares it for submission. You get a clear, professional photo ready to use instantly and accepted without hassle.\n\nHow It Works \u2014 Simple & Fast\n1. Take or import a photo \u2014 the face alignment guide helps you capture a perfect shot on the first try\n2. AI instantly improves your photo \u2014 clean background, enhanced lighting, and perfectly aligned positioning\n3. Customize your photo \u2014 c",
+    "icon": "/icons/com.id.photo.documents.png"
+  },
+  "com.idphoto.passportphoto": {
+    "title": "ID Photo: Passport Photo Maker",
+    "package": "com.idphoto.passportphoto",
+    "description": "ID Photo is AI based passport size photo editor app for personalized photo needs such as Visas, ID cards, passports, driver\u2019s licenses, certificates, resumes and custom artistic portraits for social media photos and other gov photo IDs. Passport size photo app saves your time by adding all photos in to single sheet of 4x6, 5x7, 3.5x5, 6x8, 8x10 or A4 paper. No Sign-up \u2014 Download and Use directly\n\nPassport Photo Editor will create ID photo,\u00a0passports, visas, and licenses photos from any country in around the world very quickly.\n\nID photo maker app uses AI photo editor\u00a0to remove background and you can make sure the photos you take for your passport or visa are compatible. Automatically removed background with AI, resizes the photo with proper size, and improves the quality of the image.\n\nFol",
+    "icon": "/icons/com.idphoto.passportphoto.jpg"
+  },
+  "com.idphoto_pro.app": {
+    "title": "ID Photo \u2013 AI Passport Photo",
+    "package": "com.idphoto_pro.app",
+    "description": "ID Photo Pro is a powerful and easy-to-use application that helps you create professional passport photos, visa photos, and ID photos directly from your smartphone. You no longer need to visit a photo studio or spend time editing images manually. With advanced AI technology, ID Photo Pro allows you to capture, edit, and generate compliant ID photos in just a few seconds.\n\nWhether you need a passport photo, visa photo, driving license photo, or other official ID photo, this app makes the process fast, simple, and convenient. Just take a photo using your phone\u2019s camera or choose one from your gallery, and the app will automatically prepare the image for you.\n\nOne of the most powerful features of ID Photo Pro is automatic background removal. The app uses intelligent AI image processing to det",
+    "icon": "/icons/com.idphoto_pro.app.png"
+  },
+  "com.ihsanarslan.yksanaliz": {
+    "title": "YKS Analiz | TYT - AYT",
+    "package": "com.ihsanarslan.yksanaliz",
+    "description": "\ud83c\udf93 YKS Analysis - Your most reliable exam preparation assistant on the road to success!\n\nYKS Analysis, specially developed for students preparing for YKS, makes your exam process more efficient, organized and effective. Here are the features our application offers:\n\n\u2728 YKS Exam Result Calculation: Easily calculate your exam results, save them and track your progress.\n\n\ud83d\udcca YKS Trial Tracking and Analysis: Analyze your success rate, impact rate and performance with detailed graphics.\n\n\ud83d\udd0d Advanced Filtering and Comparison: Filter, analyze and compare all your practice exams.\n\n\ud83d\udcdd Memory Cards and Pocket Notes: Quickly revise and refresh your knowledge with randomly selected special notes.\n\n\ud83d\udcda YKS Subject Tracking System: Observe how far you have progressed in which courses and customize the curriculu",
+    "icon": "/icons/com.ihsanarslan.yksanaliz.png"
+  },
+  "com.ikbal.demir": {
+    "title": "rabbit. YKS: TYT, AYT Planla",
+    "package": "com.ikbal.demir",
+    "description": "rabbit. YKS: TYT, AYT Plan - New Generation Exam Preparation Ecosystem\n\nrabbit.com brings together question banks, subject summaries, YKS timers, and Pomodoro features needed by students preparing for YKS, TYT, and AYT exams in a single platform. With its premium design and intelligent analysis, it's not just an app, but a comprehensive digital study assistant.\n\nYou can access all features with rabbit.com Premium; experience a completely success-oriented, ad-free experience!\n\n\u2022 Question Bank & Subject Summaries \u2013 Information Always at Your Fingertips!\n\nNow you're not just planning, you're studying directly through rabbit.com. Content that will be your biggest help in the exam marathon:\n\nExtensive Question Bank: Test yourself on TYT and AYT subjects, instantly see your weaknesses.\n\nQuick Su",
+    "icon": "/icons/com.ikbal.demir.png"
+  },
+  "com.imemoapp": {
+    "title": "iMemo AI Note Taker Transcribe",
+    "package": "com.imemoapp",
+    "description": "iMemo: Your Unlimited AI Note-Taking Assistant\n\nTransform the way you take notes with iMemo! Convert speech to text, transcribe meetings, and extract insights from audio and video\u2014all with AI-powered precision. Whether you're in a business meeting, lecture, or brainstorming session, iMemo ensures you never miss a detail.\n\nWHY CHOOSE iMEMO?\n* UNLIMITED USAGE: No caps, no restrictions\u2014transcribe, summarize, and translate as much as you need.\n* AI-POWERED SUMMARIES: Instantly generate concise summaries, bullet points, and action items.\n* 120+ LANGUAGES: Break language barriers with accurate translations and dual-language views.\n* PRIVACY FIRST: Your data stays on your device\u2014no cloud storage, no tracking.\n\nKEY FEATURES\n* Effortless Transcription: Record meetings, lectures, or interviews and t",
+    "icon": "/icons/com.imemoapp.png"
+  },
+  "com.inoid.notter.ai.note.taker": {
+    "title": "NotterAI - AI Note Taker",
+    "package": "com.inoid.notter.ai.note.taker",
+    "description": "Capture anything, anytime and convert into intelligent notes with AI.\nAudio, Videos, Photos, YouTube, PDFs, Web Links, and more, NotterAI handles it all.\n\nYour All-in-One Offline AI Note-Taking App\n\nNotterAI is your intelligent assistant that turns meetings, lectures, videos, and documents into organized, searchable notes instantly. With custom note templates, you decide how your notes are structured using headings, bullets, checklists, or summaries.\n\nWhether you\u2019re recording a meeting, analyzing a PDF, or summarizing a YouTube video, NotterAI lets you focus on learning, creating, or leading while AI handles your notes.\n\nRecord anywhere, even without internet. Your files are saved locally and summarized automatically once you reconnect.\n\nKEY FEATURES\n\u2022 Real-Time Notes from Anything\n\u2022 Autom",
+    "icon": "/icons/com.inoid.notter.ai.note.taker.png"
+  },
+  "com.intellectia.ai.insights": {
+    "title": "Intellectia: AI Trading Signal",
+    "package": "com.intellectia.ai.insights",
+    "description": "Welcome to Intellectia, where cutting-edge AI meets the world of investing. Whether you\u2019re a beginner exploring investments or a seasoned trader seeking an edge, Intellectia delivers real-time data, personalized insights, and powerful tools\u2014all in one app. Download now and transform the way you invest!\nKey Features\n- AI Stock Picker: Kickstart your trading day with AI Stock Picker. Get top stock picks before the market opens, powered by AI analysis. Buy in the morning, sell by close, and maximize intraday profits with data-driven recommendations.\n- Financial AI Agent: Your personal Financial AI Agent is here to guide you. This intelligent advisor offers tailored strategies and real-time insights for stocks, ETFs, and crypto\u2014perfect for sharpening your investment decisions.\n- Swing Trading:",
+    "icon": "/icons/com.intellectia.ai.insights.png"
+  },
+  "com.intelli.app": {
+    "title": "Orbi - AI Chatbot & Assistant",
+    "package": "com.intelli.app",
+    "description": "\ud83e\udd16 ORBI \u2014 GPT-5, CLAUDE 4.5 & GEMINI 2.5 PRO IN ONE APP\n\nOrbi is the ultimate AI chatbot and AI assistant that brings the world's most powerful AI models together \u2014 GPT-5, Claude 4.5, and Gemini 2.5 Pro \u2014 all in one app. Stop switching between apps. With Orbi, you get instant access to the best AI chatbot technology available today.\n\nWhether you need an AI assistant for writing, an AI chatbot for conversations, an AI image generator, a code assistant, a math solver, or a document summarizer \u2014 Orbi does it all.\n\n\u2b50 ALL AI MODELS IN ONE PLACE\n\nWhy settle for one AI model when you can have them all? Orbi gives you access to:\n\u2022 GPT-5 \u2014 OpenAI's most powerful AI model for creative writing, complex reasoning, and natural AI chat conversations\n\u2022 Claude 4.5 \u2014 Anthropic's advanced AI assistant for th",
+    "icon": "/icons/com.intelli.app.png"
+  },
+  "com.intemlabs.mentza": {
+    "title": "Interview Mastery & Job Skills",
+    "package": "com.intemlabs.mentza",
+    "description": "Launch your career with confidence using Mentza, the ultimate platform for ambitious young professionals and job-seeking graduates. Whether you are attending a job interview, internship interview or a college admission interview, Mentza is the place to practice mock interviews and get trained by coaches to improve your chances of success \n\nOur innovative app combines AI-powered interview practice with expert coaching to give you a competitive edge in today's dynamic job market. Join our community of rising stars and fast-track your professional growth.\n\nAI Interview Simulator:\nPerfect your interview skills with our state-of-the-art AI interviewer, available 24/7. Experience realistic scenarios tailored for specific roles in specific organizations, receive instant feedback, and track your p",
+    "icon": "/icons/com.intemlabs.mentza.png"
+  },
+  "mg.WaykUp": {
+    "title": "Wayk - Alarm Clock to Wake Up",
+    "package": "mg.WaykUp",
+    "description": "Wayk is an alarm clock built to help you actually get out of bed. Instead of tapping snooze and falling back asleep, you wake up with a mission that must be completed before the alarm turns off.\n\nWayk is made for people who struggle to wake up, hit snooze too often, or want a stronger morning routine. It turns waking up into action so you can start the day with purpose and momentum.\n\nHow Wayk works:\n- Choose a mission before bed\n- When the alarm rings, complete the task\n- The alarm only stops when the mission is done\n\nMission examples:\n- Object hunt\n- Do pushups\n- Take a photo of the sky\n- Make your bed\n- Read a Bible verse\n- Complete other actions that force you to move and wake up\n\nWhy people use Wayk:\n- Stop snoozing and get up faster\n- Build a more consistent morning routine\n- Add acco",
+    "icon": "/icons/mg.WaykUp.png"
+  },
+  "it.prometheo.almanacco": {
+    "title": "Almanacco",
+    "package": "it.prometheo.almanacco",
+    "description": "The free all-Italian app to discover day by day! Almanac allows you to have the answers to numerous questions on a daily basis: Is there any name day today? What characters were born on this day? What are the events to remember? When is Easter or Carnival? What is the fruit of the season? You will also find curious news and interesting quizzes.\nYou can also easily share the most interesting news (for example on Google+) so that you can talk about it with your friends.\n\nYou will find different sections: the Saint of the day, the reporting of holidays, the sentence of the day (to reflect on), curiosities about words and idioms, the most important events, small entertainment games (Intruder, Anagram and English Quiz) , the anniversaries of famous and historical personalities, the Sunday readi",
+    "icon": "/icons/it.prometheo.almanacco.png"
+  },
+  "com.giga.minning": {
+    "title": "Giga Miner, Bitcoin Mining",
+    "package": "com.giga.minning",
+    "description": "Giga Miner: Bitcoin Mining is a secure and easy-to-use app that allows users to monitor cloud-based Bitcoin mining performance. This app does not perform actual cryptocurrency mining on your device, but instead provides access to real-time mining data, estimated earnings, and hashrate stats from a remote mining infrastructure.\n\nWhether you're new to crypto or a seasoned Bitcoin enthusiast, Giga Miner helps you stay informed and engaged with the mining process \u2014 all from your smartphone.\n\n\nGiga Miner does not offer guaranteed returns or income. Earnings shown in the app are virtual estimates based on the performance of cloud-based mining systems. However, if a user purchases a valid mining machine plan and keeps it active continuously, their mining output may reflect the performance of the ",
+    "icon": "/icons/com.giga.minning.png"
+  },
+  "com.interview.yumshu": {
+    "title": "YumPrep:Job Interview AI Coach",
+    "package": "com.interview.yumshu",
+    "description": "Ace Every Interview with Your Personal AI Career Coach!\nStop letting interview anxiety hold you back. Whether you\u2019re a recent graduate, a career changer, or a seasoned professional, Interview Master is your secret weapon to landing your dream job with confidence. Powered by advanced AI, our app provides the most realistic, data-driven interview preparation available today.\n\n\ud83d\ude80 Why Choose Interview Master?\nStandard practice isn't enough. You need feedback, real-time guidance, and realistic pressure. Interview Master delivers all three through a suite of innovative features:\n\n1. \ud83c\udfa4 Real-Time Interview Assistance (The \"Secret Weapon\")\nImagine having an expert whisper the perfect answer in your ear during a live call.\n\nInstant Guidance: Receive AI-powered tips and talking points while you\u2019re act",
+    "icon": "/icons/com.interview.yumshu.png"
+  },
+  "com.interview_ai_assistant.android": {
+    "title": "Interview Hammer",
+    "package": "com.interview_ai_assistant.android",
+    "description": "Interview Hammer: AI Interview Preparation App \u2013 Get Hired!Have you ever sat in a waiting room feeling your heart race before a big meeting? It is really amusing to see how a small piece of tech can actually give you the confidence to speak clearly and land that dream job. Interview Hammer: AI Interview Preparation App is built for those nervous moments when you need the right words but your brain is just a bit too frozen to find them.\n\n\u2728 Career Success Features \u2728:\n\ud83d\ude80 Interview Hammer: AI Interview Preparation App for instant tips;\n\ud83e\udd16 Interview AI Prep for field-specific expert answers;\n\ud83c\udf99\ufe0f AI Mock Interview Practice for real-time training;\n\ud83d\udee1\ufe0f Interview Sidekick Tool for strategic final rounds;\n\ud83d\udca1 Smart suggestions within the Interview AI Prep;\n\ud83d\udcc8 Practice support inside AI Mock Interview Pract",
+    "icon": "/icons/com.interview_ai_assistant.android.png"
+  },
+  "com.interviewer.ai": {
+    "title": "AI Interviewer",
+    "package": "com.interviewer.ai",
+    "description": "Ace your next job interview with AI Interviewer \u2013 your personal AI-powered interview coach. Whether you\u2019re preparing for your first job or aiming for a senior role, AI Interviewer helps you practice, improve, and build confidence through realistic interview simulations.\n\n\ud83d\udcac Key Features:\n\n\ud83d\udcdd Text-Based Interviews\nSimulate real-life interview scenarios through text-based conversations. Get instant AI feedback and refine your responses for better performance.\n\n\ud83c\udf99\ufe0f Voice Interviews\nPractice speaking and answering questions just like a real interview. Our voice-based AI system listens, responds, and helps you develop confidence and clarity.\n\n\ud83d\udcc4 Resume Parser\nUpload your resume and let the AI analyze it to tailor questions based on your skills and experience. This feature helps you prepare for job-",
+    "icon": "/icons/com.interviewer.ai.png"
   }
 }
