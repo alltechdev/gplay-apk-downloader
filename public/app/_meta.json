@@ -25991,12 +25991,6 @@
     "description": "With the new mobile application for your Direct Express\u00ae Debit MasterCard\u00ae card, you can manage your money conveniently and securely from your mobile device. The mobile application is free to download for the cardholders whose card number starts with 533248. You need to register again with your card details prior to logging in the first time.\n\nPlease Note: If your card begins with 511563 DO NOT download this app. Please look for the yellow Direct Express\u00ae logo with a description stating that the app is for cards which start with the numbers 511563.\n\nWhen you sign up to receive your federal benefits on the Direct Express\u00ae card, you will receive your payment every month without having to worry about cashing your check or having it lost or stolen. Instead of receiving a check, your money will",
     "icon": "/icons/com.usdirectexpress.mobileapp.png"
   },
-  "com.comerica.mobilebanking": {
-    "title": "Comerica Mobile Banking\u00ae",
-    "package": "com.comerica.mobilebanking",
-    "description": "With the Comerica Mobile Banking\u00ae app, you can stay on top of your finances while keeping up with your busy life. Everything you need to bank is at your fingertips. (1)\n\n\u00b7 Check Balances \u2013 easily see your balances and transaction history and view checks that have cleared\n\u00b7 Fingerprint Login\n\u00b7 Transfer Funds \u2013 easily move money or schedule and view future transfers between your Comerica accounts\n\u00b7 Deposit checks with Click&Capture Deposit\u00ae - just take a picture of your check and have it deposited into your account (2)\n\u00b7 Pay Bills and eBills \u2013 view payments that are in a pending/processing status, add a new biller or find current billers with Bill Discovery\n\u00b7 Send Money with Zelle\u00ae - send and receive money from friends, family, and businesses quickly as well as import contacts from your devi",
-    "icon": "/icons/com.comerica.mobilebanking.webp"
-  },
   "com.citizensbank.androidapp": {
     "title": "Citizens Bank Mobile Banking",
     "package": "com.citizensbank.androidapp",
@@ -43269,5 +43263,299 @@
     "package": "co.median.android.mbzmbbp",
     "description": "Understand your emotions like never before.\nEmotap helps you track your mood and warns you before negative patterns repeat.\nKey Features\nEasy mood tracking\n Log your emotions in seconds with a simple interface\nSmart insights\n Discover patterns in your emotional history\nPredictive notifications\n Get alerts before stressful or low-mood periods based on your past\nPersonalized trends\n See how your mood changes over time\nPrivate & secure\n Your data stays yours\nDifferentiation\nUnlike traditional mood trackers, emotap doesn\u2019t just record how you feel, it helps you anticipate and manage your emotions before they happen.\nUse cases\nImprove mental awareness\nReduce stress and burnout\nBuild healthier habits\nUnderstand emotional triggers\nStart understanding your emotions today.",
     "icon": "/icons/co.median.android.mbzmbbp.jpg"
+  },
+  "co.mixcord.mixcam": {
+    "title": "MixCam Dual Camera Front Back",
+    "package": "co.mixcord.mixcam",
+    "description": "MixCam captures priceless moments by vlogging with both the front and back camera at the same time. \n\nRecord an amazing scene with the back camera and include your live reaction with the front camera, or switch between front and back cameras while recording.  \n\nSnap group pictures without being left out. Your audience will love it because it\u2019s so pure and genuine.\n\nCreate real reaction videos with MixCam.\n\nAuthenticity connects with viewers and MixCam will help you capture every moment.  MixCam is perfect for daily vlogs, interviews, live reactions, narrate videos and more!\n\nFeatures:\n- Record with front and back camera at the same time \n- Switch cameras while recording (front <-> back) \n- Flip camera positions (top/bottom)\n- Choose a split screen style (frame style)\n- Picture-in-Picture/P",
+    "icon": "/icons/co.mixcord.mixcam.png"
+  },
+  "co.mixcord.mixcaptions": {
+    "title": "MixCaptions AI Text, Subtitle",
+    "package": "co.mixcord.mixcaptions",
+    "description": "Automatically transcribe your videos and get accurate, elegant video captions with this easy to use AI captions app. It\u2019s the secret to getting more views, more followers, and higher engagement for content creators and influencers \u2014  because chances are, most of your viewers will see your videos on mute. \n\nGROW YOUR FOLLOWING\n85% of Facebook users and 40% of Instagram users watch videos on mute. And when they miss what you say, you miss followers. Made for influencers and business founders, MixCaptions helps you create attention-grabbing video captions. It\u2019s a simple way to make a major impact: get more views, increase engagement, and build your audience. \n\nCREATE AUTOMATIC, ACCURATE SUBTITLES, CAPTIONS FOR VIDEOS\nFor influencers and business founders, closed captioning is one of the most ",
+    "icon": "/icons/co.mixcord.mixcaptions.png"
+  },
+  "co.petstranslator.dogtranslator.cattranslator": {
+    "title": "Pet Translator, Dog Translator",
+    "package": "co.petstranslator.dogtranslator.cattranslator",
+    "description": "Pet Translator & Dog Translator is an app to communicate and have fun with your pet. With an intuitive interface, you can human dog translator between humans and dogs/cats, discover fun sounds and create interactive challenges \u2014 perfect for entertaining, training and bonding with your pet.\nTurn your phone into a personal pet translator, chat, record and share every lovely moment.\n\nThe key difference\n\u2705 True two-way communication: Pet Translator & Dog Translator not only translates human speech into pet speech, but also helps you understand the emotions and reactions of dogs/cats in real time.\n\u2705 Fun interaction: in addition to translating voices, the app also creates sounds and challenges to help pets react naturally, bringing an enjoyable experience for both owners and pets.\n\u2705 Intuitive & e",
+    "icon": "/icons/co.petstranslator.dogtranslator.cattranslator.png"
+  },
+  "co.rocket.apps.android.radio": {
+    "title": "FM Radio",
+    "package": "co.rocket.apps.android.radio",
+    "description": "Listen to over 40.000 radio stations worldwide!\n\n- 40.000+ radio stations\n- Favorites & Recents\n- Local & popular stations\n- Discover Music genres\n- Browse by countries & states\n- Song Infos & Album Covers\n- Powerful Search\n- Simple & Intuitive Design\n\nFM Radio gives you access to over 40.000 radio stations from all over the world. Browse through countries & genres in our elegant and easy to use App.\n\n\nSUPPORT\nOur goal is to build the best apps in the world. You can help us by reporting bugs and requesting features via Email:\n\nhelp@rocketapps.com\n\n\nTERMS & PRIVACY\nhttps://rocketapps.com/privacy.html\nhttps://rocketapps.com/terms.html",
+    "icon": "/icons/co.rocket.apps.android.radio.png"
+  },
+  "co.stickermaker": {
+    "title": "Sticker Maker: Telegram & WA",
+    "package": "co.stickermaker",
+    "description": "Create your own stickers with just two taps for use in WhatsApp and Telegram messengers. You can use memes, photos from your gallery, or any images from your device.\n\nMake personalized stickers for your friends, family, or colleagues in just 4 simple steps:\n\n1. Choose a name for your sticker pack.\n2. Add stickers to the pack, crop them as you like.\n3. Save your sticker pack.\n4. Enjoy communicating with unique and personalized stickers!\n\nMake your conversations even more vibrant and interesting with our app!",
+    "icon": "/icons/co.stickermaker.png"
+  },
+  "co.vulcanlabs.aisticker": {
+    "title": "Stickor - AI Sticker Maker",
+    "package": "co.vulcanlabs.aisticker",
+    "description": "Welcome to Stickor - AI Sticker Maker, your ultimate destination for top-tier sticker creation! Our app specializes in bringing your sticker ideas to life, perfectly suited for WhatsApp and other messaging platforms.\n\nKey Features:\n- AI-Powered Background Removal: Utilize our advanced AI technology to effortlessly remove backgrounds from photos, creating stunning stickers with ease. \n- GIF Maker Excellence: Not just stickers, but Stickor also serves as an innovative GIF maker, adding motion to your creative expressions.\n- WhatsApp Sticker Maker: Specialized for WhatsApp users, Stickor is your go-to for making personalized 'stickers for WhatsApp' and 'sticker WhatsApp' collections.\n- Customization at Its Best: Personalize your stickers with text, emojis, and more. Ideal for creating unique ",
+    "icon": "/icons/co.vulcanlabs.aisticker.png"
+  },
+  "cocostudios.meme.maker": {
+    "title": "Meme Maker: Meme Creator",
+    "package": "cocostudios.meme.maker",
+    "description": "Meme Maker App \u2013 Create, Customize & Share Laughs!Ready to unleash your creativity and make your friends laugh out loud? Funny Memes App is your ultimate destination to build, customize, and share hilarious memes effortlessly. Whether you're a beginner or a meme legend, this Meme Maker App has everything you need to turn funny ideas into viral memes in seconds.\n\nWith the power of the Meme Generator App, creating fun memes has never been easier. Explore endless possibilities with meme templates, custom tools, and rich editing features that make every meme stand out.\n\n\ud83d\udcc4 Funny Memes App Key Features: \ud83d\udcc4\n\ud83d\ude02 Thousands of free meme templates for instant creation;\n\ud83d\ude02 Full access to image editing tools like crop, resize, and rotate;\n\ud83d\ude02 Add hilarious stickers and emojis to your memes;\n\ud83d\ude02 Use custom meme",
+    "icon": "/icons/cocostudios.meme.maker.png"
+  },
+  "collage.maker.photoeditor": {
+    "title": "Collage Maker - Photo Editor",
+    "package": "collage.maker.photoeditor",
+    "description": "Collage Maker is the best photo collage maker and photo editor. You can combine up to 20 photos into photo collage with 200+ layouts. You can also edit pictures and make photo collage with filters, texts, stickers, doodles... Then share with friends on Instagram, Facebook, TikTok etc.\n\nCollage Maker for pictures\n\u2764\ufe0f Collage photos with 200+ layouts, grids & frames.\n\u2764\ufe0f Photo collage maker for up to 20 photos.\n\u2764\ufe0f Photo collage editor with ratio, background, border size, roundness.\n\nPhoto Editor Pro\n\ud83d\udd25 Blur photo like DSLR effect, edit photo like a pro.\n\ud83d\udd25 Edit image with filters, texts, stickers, emoji, doodles, crop.\n\ud83d\udd25 Post entire photo on Instagram with No Crop Photo Editor.\n\nFreestyle collage maker\n\ud83d\udcf7\u00a0Set background and ratio to create a scrapbook.\n\ud83d\udcf7\u00a0A bunch of background to choose from.\n\ud83d\udcf7\u00a0De",
+    "icon": "/icons/collage.maker.photoeditor.png"
+  },
+  "com.BabyName.start": {
+    "title": "Baby Name Together",
+    "package": "com.BabyName.start",
+    "description": "Can't agree on a baby name? You're not alone \u2014 and Baby Name Together is here to help.\n\n\u2b50\ufe0f JOIN OUR PARENT COMMUNITY \u2b50\ufe0f\n\nEach parent swipes independently and privately. The app reveals only the names you both liked \u2014 no arguments, no vetoes, just matches. Finding the perfect baby name has never been this fun!\n\n\ud83d\udc4d SWIPE RIGHT ON NAMES YOU LOVE\nSwipe to the right if you like a baby name, or swipe left if you don't.\n\n\ud83c\udf08 BOY, GIRL & UNISEX NAMES\nBlue for boy names, pink for girl names, and purple for gender-neutral + unisex names.\n\n\ud83d\udc6b MATCH WITH YOUR PARTNER\nBoth parents install the app and link their accounts through email address.\n\n\ud83d\udc95 DISCOVER NAMES YOU BOTH LOVE\nConsult names that both parents love and choose THE perfect name from this short list.\n\n\ud83d\udca1 TRENDING BABY NAMES\nCheck the top 20 baby na",
+    "icon": "/icons/com.BabyName.start.png"
+  },
+  "com.AppRocks.now.prayer": {
+    "title": "Prayer Now : Azan Prayer Times",
+    "package": "com.AppRocks.now.prayer",
+    "description": "Prayer Now \u2122 is an integrated Islamic smart app with all the daily needs of every Muslim, such as the Athan, Prayer Times in all countries in the world, Reading The Qur\u2019an, Finding Qiblah and Remembrances, Downloading And Listening to the Holy Qur\u2019an, Greeting Cards, sharing the Khatma with Muslims around the world, and much more features and updates. Prayer Now innovatively aims to enrich the use of technology to meet all the daily needs of every Muslim.\n\n\ud83c\udf18 MAIN FEATURES \ud83c\udf12 \n\n\u2705 Prayer Times and Athan \ud83d\udd4c\nVery accurate Prayer Times in all countries in the world using GPS or without internet, Also, through the Athan, enjoy the sound of the call to prayer for the most famous voices such as Mishary Rashid - Al-Naqshabadi - Saad Al-Ghamdi .. and many more. Calculation Methods of all famous doctri",
+    "icon": "/icons/com.AppRocks.now.prayer.png"
+  },
+  "com.DSM.AK": {
+    "title": "Guide for MidJourney",
+    "package": "com.DSM.AK",
+    "description": "Welcome to the Guide for Mid-Journey, a comprehensive educational platform dedicated to helping you understand how to use the Midjourney AI art generator. If you are interested in exploring the world of artificial intelligence art but feel overwhelmed by where to start, this Guide for Midjourney is designed to simplify the entire process for you.\n\nMidjourney has become a leading tool in the generative AI industry, yet its interface\u2014which operates through Discord\u2014can be confusing for beginners. This Guide for Midjourney provides a structured learning path so that you can navigate the Midjourney environment with ease. From setting up your first account to understanding complex commands, this Guide for Midjourney covers the essential aspects you need to know.\n\nWhat You Will Learn in This Guid",
+    "icon": "/icons/com.DSM.AK.png"
+  },
+  "com.DreamMeaningAI.android": {
+    "title": "Dream Interpretation AI App",
+    "package": "com.DreamMeaningAI.android",
+    "description": "Are you tired of trying to figure out what your dreams mean? Dream Interpretation AI is here to help!\n\nThe AI-powered app makes dream analysis a breeze. No more wondering about that dream where you were a mermaid on a trampoline or the one where your teeth kept falling out. This app will give you a personalized interpretation of your dream symbols. Download Dream Meaning AI Interpreter now and start understanding your subconscious like never before!\n\nMain features:\n\u2022 Dream interpretation powered by AI. Get dream meaning instantly!\n\u2022 Symbol analysis to uncover hidden dream meaning in great detail\n\nDream Interpretation AI is easy to use and perfect for anyone who wants to explore the fascinating world of dream interpretation. Whether a beginner or an expert, our app has everything you need t",
+    "icon": "/icons/com.DreamMeaningAI.android.png"
+  },
+  "com.Fun2BoothStudios.Fun2Booth": {
+    "title": "Fun2Booth Photo Booth",
+    "package": "com.Fun2BoothStudios.Fun2Booth",
+    "description": "Fun2Booth will turn your mobile device into a fully functional photo booth. Take it anywhere.\n\nFun2Booth is a photo booth application made for parties, events, weddings or just everyday use. Its easy to use interface is perfect for large events. Everyone will love it.\n\nCustomize\n\n- Customize your photo by choosing your favorite layout, background, font color and font style. \n- Add custom text and sub-text to describe your event (i.e. 'Andy & Carols Wedding' '11/3/2018'). \n- Upload your own custom background image. \n- Want to use square photos or 4:3 in your layout? No problem. You can even use 16:9 to include more people. Choose what aspect ratio you want to take your photos as part of your layout.\n\nShare\n\nFun2Booth allows you to email your photos to your own personal email. There is also ",
+    "icon": "/icons/com.Fun2BoothStudios.Fun2Booth.png"
+  },
+  "com.KalromSystems.StabilityArtAI": {
+    "title": "Stability Generative AI Art",
+    "package": "com.KalromSystems.StabilityArtAI",
+    "description": "Stability: Photo AI Maker ReviewExperience unlimited creativity with Stability: Photo AI Maker. With one of the best AI photo generators, you can turn your ideas into beautiful pictures. With the most recent innovations in AI image technology, this tool lets you discover completely new worlds of art whether you are an artist, designer, or curious about sharpening your skills.\n\n\nThe AI image generator makes your ideas come alive in pictures. Every image you design is one of a kind.  Art is seamlessly mixed with technology in every picture you create. The combination of advanced algorithms and deep learning makes every image not only creative but also makes the system brilliant in redefining digital creativity.\n\n\n\ud83d\udcc4  Stability: Photo AI Maker Key Features:\ud83d\udcc4\n\ud83c\udfa8  Artistic creation of images usin",
+    "icon": "/icons/com.KalromSystems.StabilityArtAI.png"
+  },
+  "com.LifeIsGame.ArtCanvas": {
+    "title": "ArtLoop: Learn how to draw",
+    "package": "com.LifeIsGame.ArtCanvas",
+    "description": "Learn How to Draw \u2013 Step-by-Step Lessons, Tutorials & Multiplayer Drawing\n\nArtCanvas - ArtLoop is one of the best free drawing apps to learn how to draw and improve your art skills. Whether you're just starting your drawing journey or looking to refine your technique, this app makes it easy and fun. Explore how to draw step by step through guided lessons, interactive challenges, and multiplayer drawing games.\n\nStep-by-Step Drawing Lessons  \nMaster the basics with easy drawing tutorials. Each lesson teaches you how to draw characters, animals, food, people, emojis, anime, and more \u2014 all with clear, step-by-step instructions. Perfect for beginners and those who want to draw better.\n\nFun Drawing Practice  \nPractice your skills with a variety of drawing lessons and exercises. From simple shape",
+    "icon": "/icons/com.LifeIsGame.ArtCanvas.jpg"
+  },
+  "com.MoonArtGlitch.CuteAvatarMaker": {
+    "title": "Cute Avatar Maker",
+    "package": "com.MoonArtGlitch.CuteAvatarMaker",
+    "description": "Hi! I\u2019m Moon, an illustrator. I created Cute Avatar Maker so you can design your own avatars with every tiny detail.\nEvery character, outfit, and accessory is hand-drawn by me on a tablet, with a level of quality you won\u2019t find in apps that rely on AI or generic vectors.\n\n\ud83c\udfa8 100% Hand-Drawn Artwork\nFrom the very first sketch to the final color, each piece comes to life from my digital brush. You\u2019ll discover characters like bunnies, kittens, and many other cute, kawaii creatures, each with unique strokes and textures that make them special.\n\n\ud83d\udc57 Unlimited Customization\n\u2022 Character selection: pick your favorite (bunny, kitten, etc.)\n\u2022 Layered design: outfits, fur, eyes, expressions, accessories, and more\n\u2022 Intuitive controls: tabs and sliders for easy navigation through options\n\n\ud83d\udcbe Save and Shar",
+    "icon": "/icons/com.MoonArtGlitch.CuteAvatarMaker.png"
+  },
+  "com.NhaGames.Calculator": {
+    "title": "Scientific Calculator (NHA)",
+    "package": "com.NhaGames.Calculator",
+    "description": "Scientific Calculator (NHA) is 100% free, ad-free, useful, powerful.\n\nUser manual: https://sites.google.com/view/nhagames/user-manual/scientific-calculator\n\nFeatures:\n\u2022 No Ad.\n\u2022 Natural input method: Infix notation, cursor edit,...\n\u2022 Storable variables.\n\u2022 Solve Function (Newton's Method).\n\u2022 Differential, Integration calculations.\n\u2022 Fraction calculations.\n\u2022 Percentage calculations (e.g. calculate discount, premium,...)\n\u2022 Degree, minutes, seconds calculations (e.g. calculate time)\n\u2022 Complex Numbers Calculator.\n\u2022 Statistics Calculator:\n\tStandard Deviation.\n\tRegression Calculations: Linear, Logarithmic, Exponential, Power, Inverse, Quadratic.\n\u2022 Programmer Calculator (Base-n Calculations).\n\u2022 Equation Calculator: Degree, Unknowns.\n\u2022 Matrix Calculator.\n\u2022 Vector Calculator.\n\u2022 Number format: Normal",
+    "icon": "/icons/com.NhaGames.Calculator.png"
+  },
+  "com.RobinsonIndustries.SudokuSolver": {
+    "title": "Sudoku Solver (Camera)",
+    "package": "com.RobinsonIndustries.SudokuSolver",
+    "description": "Finally, NO MORE SLOW TYPING.  Sudoku Solver (Camera) will solve 'Easy', 'Medium', and 'Difficult' Sudokus in real time, directly onto your camera's image of the Sudoku, without you having to press a single button!  Check out the video to see it in action.\n\n Features: \n\nAutomatic Camera Solve - The camera detects and solves the Sudoku in real time directly onto the camera image.\n\nManual Mode - Here, numbers can be placed into the grid manually and solved using a 'Solve' button.  This is a backup in case the automatic mode is unable to solve your Sudoku.\n\n Capability Notes: \nThe app can currently solve an empty Sudoku (no handwritten numbers) or one with a few handwritten numbers, so long as they are written clearly.  If the handwritten numbers are not written clearly, or scribbled out, the",
+    "icon": "/icons/com.RobinsonIndustries.SudokuSolver.png"
+  },
+  "com.SearingMedia.Parrot": {
+    "title": "Parrot Voice Recorder",
+    "package": "com.SearingMedia.Parrot",
+    "description": "Phone Call Recorder: Parrot Voice Recorder \u2013 The Ultimate Recording App!Looking for a powerful and easy-to-use phone recorder app for Android? Phone Call Recorder: Parrot Voice Recorder lets you record calls, voice notes, and audio effortlessly. Whether you need to capture important conversations, record meetings, or take quick notes, this app provides high-quality recordings with just a few taps.\n\nStay organized and never miss a detail with Phone Call Recorder: Parrot Voice Recorder. With advanced features and a user-friendly interface, recording has never been this simple!\n\n\ud83d\udcc4 Phone Call Recorder: Parrot Voice Recorder Features: \ud83d\udcc4\n\ud83c\udf99 Record calls: audio recorder for incoming and outgoing calls;\n\ud83c\udf99 Sound recorder: voice notes with crystal-clear quality;\n\ud83c\udf99 Record audio: voice recording app fo",
+    "icon": "/icons/com.SearingMedia.Parrot.png"
+  },
+  "com.ShantuApps.SuperKidsMathBook": {
+    "title": "Math for Kids with AI",
+    "package": "com.ShantuApps.SuperKidsMathBook",
+    "description": "Math for Kids with AI (Artificial Intelligence) provides interactive learning techniques to teach math easily and effectively, catering to beginner through expert levels. The app features individual sections for learning, practicing, and exams, covering Number Basics, Counting, Times Tables, and various math operations including Addition, Subtraction, Multiplication, Division, Comparison, Geometry, Clock timings, and many more.\n \nThe app is tested with several kids, parents, and teachers, our app enables fast and effective math learning.\n\n\u2022 Features:\n\t\u2022 Worksheets: A convenient tool for parents, teachers, or students themselves to practice math skills. With customizable options for number ranges and categories like Addition, Subtraction, Multiplication, Division, and Mixed mode, you can ta",
+    "icon": "/icons/com.ShantuApps.SuperKidsMathBook.png"
+  },
+  "com.SimplyEntertaining.addwatermark": {
+    "title": "Add Watermark on Photos",
+    "package": "com.SimplyEntertaining.addwatermark",
+    "description": "Try it for Free! \n\nWatermark your photos, right from your phone. Create and Apply Fully customizable watermarks (We aren't kidding).\n\nWatermark your content to Protect from unauthorized use (Copyright) OR Apply digital signature to create your Brand.\n\nAdd watermark on photos provides a complete watermarking solution right on your phone\n\nFEATURES\n- Create and Save Watermarks\nSave your watermarks as templates. Choose from preset templates or use your own logo.\n\n- Batch Processing\nWatermark hundreds of images at once. \n\n- Preview & Adjust\nPreview Photos before applying Watermarks, Change Patterns, and position style on individual photos before processing in batch.\n\n- Custom Text Watermarks\nCreate fully customized watermarks in seconds. Edit text, color, font, size, rotation, background and mo",
+    "icon": "/icons/com.SimplyEntertaining.addwatermark.png"
+  },
+  "com.TTT.logomaker.logocreator.generator.designer": {
+    "title": "Logo Maker - Logo Creator",
+    "package": "com.TTT.logomaker.logocreator.generator.designer",
+    "description": "Want to create your own LOGO?\nThis Logo Creator app is useful for making Business Logo, advertising Logo, social media marketing Logo.\n\nLogo Maker app really important to building your business\u2019 brand reputation. When you\u2019re ready to create a logo for your business, this app gonna help you a lot to create your very own original and impressive logo.\n\nLogo Maker is also useful to create promotional posters, advertisement, offer announcements, cover photos, brochure, news letter & other branding material for your shop, restaurant, office or social sites.\n\nLogo Maker includes a huge collection of categorized Art(Stickers), Graphic Elements, Shapes, Backgrounds & Textures to create an original logo in no time.\n\nLogo Maker is fast and easy to use app with tons of Arts, Textures, Background & Col",
+    "icon": "/icons/com.TTT.logomaker.logocreator.generator.designer.png"
+  },
+  "com.TechInouvation.englishdictionary": {
+    "title": "English Dictionary : Offline",
+    "package": "com.TechInouvation.englishdictionary",
+    "description": "English Dictionary Pro : Verb Conjugation & Quizzes\n(Free & Offline) Get the ultimate English dictionary, featuring comprehensive definitions, examples, idioms, synonyms, and antonyms. This advanced and descriptive English dictionary is your perfect companion for easy learning. You can also save words to your favorites for effortless study.\n\nLooking for the ultimate English learning tool? Download English Dictionary Pro, the most comprehensive and professional English Dictionary available!\n\nMastering a new language requires the right resources. Our app combines a powerful English Dictionary with advanced features like Verb Conjugation and interactive Language Exercises to help you Learn English faster and more effectively. Whether you're a student, traveler, or professional, this is the on",
+    "icon": "/icons/com.TechInouvation.englishdictionary.png"
+  },
+  "com.TechKaleGroup.MyDriver": {
+    "title": "Tourist: AI Trip Planner",
+    "package": "com.TechKaleGroup.MyDriver",
+    "description": "Discover, Plan, and Share Your Travels with Tourist!\n\nTourist is the ultimate travel companion for all kinds of trips, whether it's a road trip, solo travel, couple getaway, or group adventure. This all-in-one travel app lets you explore professional guides, discover top places, create detailed itineraries, and share your travel experiences effortlessly.\n\nKey Features:\n\n\ud83d\uddfa\ufe0f Discover City Guides: Explore detailed city guides on an interactive travel map.\n\n\ud83c\udf05 Read and Create Blogs: Read blogs by fellow travelers or create your own to share with the community.\n\n\ud83d\udc8e Easiest Trip Planner: Create your dream trip in minutes and visualize it on a beautiful map.\n\n\ud83d\udccd One-Click Itineraries: Add activities from top guides directly to your itinerary with just one click.\n\n\ud83d\udc96 Share Experiences: Share your trav",
+    "icon": "/icons/com.TechKaleGroup.MyDriver.png"
+  },
+  "com.a380apps.birthdaycards": {
+    "title": "Personalized Birthday Cards",
+    "package": "com.a380apps.birthdaycards",
+    "description": "Create unique personalized birthday cards with your favorite photos!\n\nSurprise friends and family by adding your cherished photos to beautifully decorated cards with festive frames and fun birthday stickers.\n\nOur professional birthday card editor lets you customize every detail. Combine photos with themed birthday frames, decorate with party stickers, and create personalized cards with exceptional quality. \u2b50\n\nDiscover All the Possibilities:\n\u2022 Professional editor with birthday frames\n\u2022 Birthday stickers and themed decorations\n\u2022 Birthday photo personalization\n\u2022 Custom birthday invitation creation\n\u2022 Exclusive card designs\n\nCreating personalized birthday cards is easy: choose a template, add your special photo, select themed frames, and write your heartfelt message. In moments, your birthday c",
+    "icon": "/icons/com.a380apps.birthdaycards.png"
+  },
+  "com.abappsstudio.certificate.maker": {
+    "title": "Smart Certificate Maker App",
+    "package": "com.abappsstudio.certificate.maker",
+    "description": "Certificate Maker app - Certificate Design which includes a lot of resources including Thousands of images & hundreds of templates, fonts and icons that you can use entirely free. You can easily customize it any way you want and download print-ready high-resolution files. Create a professional certificate with modern certificate templates provided in this Certificate Editor.\n\nProfessional Certificate Maker App\nIt\u2019s become very easy to get a Certificate design template by simply using the Certificate Maker fast.Certificate Maker App with images comes with lots of templates, fonts & stickers.\n\nCertificate Maker \u2013 Smart Certificate design Online App contains a considerable amount of a gathering of Certificates which is perfect in all cases. This application plans your card at home. Make your ",
+    "icon": "/icons/com.abappsstudio.certificate.maker.png"
+  },
+  "com.abc.abcnews": {
+    "title": "ABC News: Breaking News Live",
+    "package": "com.abc.abcnews",
+    "description": "Discover the power of staying informed with the ABC News app, your gateway to 24/7 breaking news coverage. Immerse yourself in the pulse of current events through live-streaming from ABC News Live, while keeping up with politics, weather, health, business and local headlines, all from America\u2019s #1 news source.\n\nStart the day with a curated selection of stories and videos and stay up to date on the subjects that matter most to you with personalized news alerts. From national news to global headlines, the ABC News app has always got you covered.\n\nHow to make the most of the ABC News experience:\n\nFOLLOW THE HOME SCREEN LIVE BLOGS & BREAKING NEWS BAR\nGet to know the most important headlines as soon as they happen, directly on the home screen thanks to our live blog and breaking news banner. Po",
+    "icon": "/icons/com.abc.abcnews.png"
+  },
+  "com.aboutai.startgirl2025": {
+    "title": "Star Girl:Cosmic Conversations",
+    "package": "com.aboutai.startgirl2025",
+    "description": "**Welcome to \u201cStar Girl: Cosmic Conversations,\u201d a unique AI-powered role-playing chat app!** Immerse yourself in conversations with virtual characters from diverse worlds\u2014whether it\u2019s anime-style heroines, fantastical species, or futuristic companions, there\u2019s someone for everyone.  \n\n### **Key Features:**  \n- **Diverse Characters** \u2013 Chat with anime, fantasy, sci-fi, and other unique personas, each with their own backstory to explore.  \n- **Immersive Experience** \u2013 Unlock exclusive character cards through chats and build your dream collection.  \n- **Private Chats** \u2013 Enjoy secure, private conversations with your favorite characters, tailored to your preferences.  \n- **Personalized Interaction** \u2013 The AI adapts to your choices, making every conversation uniquely yours.  \n- **AI Image Gener",
+    "icon": "/icons/com.aboutai.startgirl2025.png"
+  },
+  "com.accordion.perfectme": {
+    "title": "Perfect Me -Face & Body Editor",
+    "package": "com.accordion.perfectme",
+    "description": "Perfect Me - Body editor and face retouch editor is a fantastic AI photo and video editor, free editing both for face and body. Retouch photos & videos easily with our AI tools. Reshape body to get slim body shape and perfect prettyup figure. Get long legs, firm abs as well as realistic tattoo. Beautify and get snow AI profile picture and 90s AI yearbook.\n\nRetouch for the perfect snow face. Try new wink looks with the hypic makeup cam. Use filters and effects in the beauty editor to pretty up perfect selfies wink! You can easily get your insta beauty hypic epik wink! As the first body editor app on Google Play, we offer many photo and video editing tools. New AI headshot generator tool: get realistic remini AI headshots, 90s AI yearbook and AI art in only a few seconds. Never miss the body",
+    "icon": "/icons/com.accordion.perfectme.png"
+  },
+  "com.accordion.prettyo": {
+    "title": "PrettyUp - Video Body Editor",
+    "package": "com.accordion.prettyo",
+    "description": "Looking for an all-in-one face and body editor? Pretty Up is a good choice! Easily retouch face and body in photos or videos with just a few taps\u2014no editing skills needed. Smooth skin, erase wrinkles and whiten teeth with selfie editor. Slim waist, enhance curves and lengthen legs with smart body editor. Plus, explore AI edits, stunning filters for pictures and makeup editors to make your vlogs shine and boost your social media likes. Download Pretty Up now and glow in every frame!\n\nAs a powerful video body editor and face editor, Pretty Up lets you enhance multiple faces and bodies in one shot. Perfect for group videos, you can choose and adjust more than one face or body, and even fine-tune the left and right sides of the face separately for perfectly balanced beauty. With the built-in s",
+    "icon": "/icons/com.accordion.prettyo.png"
+  },
+  "com.accurate.forecast.live.weather.channel": {
+    "title": "Weather Forecast & Widget",
+    "package": "com.accurate.forecast.live.weather.channel",
+    "description": "\ud83c\udf86Surprise 100% FREE!!!\n\nWeather Forecast with local weather, accurate weather daily & hourly forecast.\n\nThe weather forecast is very important to life. Through reliable weather channels, you will get weather information to prepare your plans.\n\nThe Weather forecast app is a 100% free weather app with rich features: Local weather, Weather alert, Weather hourly forecast, Weather daily forecast, Air quality index ,weather radar map and weather widgets and more surprising and useful functions.\n\nWeather today will be updated hourly. Weather forecast app also has a weather report on weather tomorrow, weather for today, also 40 day weather forecast, 7*24 hourly detailed information.\n\nThe Weather Forecast app is very easy to use. Please open app, enable location then you receive the weather forecas",
+    "icon": "/icons/com.accurate.forecast.live.weather.channel.png"
+  },
+  "com.accurate.weather.forecast.live": {
+    "title": "Weather Radar, Live Radar",
+    "package": "com.accurate.weather.forecast.live",
+    "description": "Weather Forecast - Accurate Local Weather & Widget is one of the best weather forecast apps and it is a completely free weather app.\n\nNo matter where you are, the weather app can provide you with accurate and detailed weather forecast information, including hourly, daily and weekly weather forecasts. You can also view detailed local and global weather report in the app.\n\nThe weather forecast app has many functions and is totally free.\n\n\u2600\ufe0f\tReal-time and accurate weather forecast\nUpdate weather conditions every minute, check the latest and accurate weather forecast at any time.\nDetailed 24-hour weather forecast, check hourly weather forecast.\n\u2600\ufe0f\t45-day weather forecast\nTrack the weather forecast for the next 45 days, learn about the weather in advance, and plan future food, clothing and tran",
+    "icon": "/icons/com.accurate.weather.forecast.live.jpg"
+  },
+  "com.acelabs.fragmentlearn": {
+    "title": "Notes Planner: To-do, Calendar",
+    "package": "com.acelabs.fragmentlearn",
+    "description": "Create Notes, To-do lists, Focus list & manage Calendar to organize your day.\ud83c\udfc1\ud83c\udf1e\n\n\u2705 Organize your tasks and To-dos seamlessly with easy to use app!\n\ud83c\udfaf Focus on what matters the most with Focus List.\n\u23f0 Never miss any important task with Reminders.\n\ud83d\udcf1 Keep focus on tasks by Setting Notes as Wallpaper.\n\ud83d\uddd3\ufe0f Plan your Week or Month ahead with Calendar, Weekly and Monthly Planner. \n\nNotes Planner: To-do, Calendar is an easy to use app that lets you create notes, to-do lists, plan calendar, manage tasks, create focus list, plan and manage your day, week or month, reminders, set notes to wallpaper and much more! You can manage your to-dos for the day, week or month with the simplistic and easy to use UI that will make your task managing much smoother!\n\nWhat can Notes and Calendar Planner help you with",
+    "icon": "/icons/com.acelabs.fragmentlearn.jpg"
+  },
+  "com.acr.reccall.autocallrecord.callrecorder": {
+    "title": "Call Recorder & Auto Recording",
+    "package": "com.acr.reccall.autocallrecord.callrecorder",
+    "description": "Call Recorder is a helpful tool for capturing important conversations with clarity and control.\n\nThe app is designed to support call-related recording features in a transparent and user-controlled way, helping you keep track of important information when needed.\n\nKey features:\nRecord call audio with user control\nClear and stable sound quality\nEasy playback and file management\nQuick access to saved recordings\nSecure storage to protect your data\nSimple and intuitive interface\n\nPrivacy & transparency:\nRecording features are designed with user awareness and control\nThe app does not perform hidden or unauthorized recording\nUsers can enable or disable recording features at any time\n\nNotes:\nCall recording laws vary by region. Please ensure compliance with local regulations before using this app\nA",
+    "icon": "/icons/com.acr.reccall.autocallrecord.callrecorder.png"
+  },
+  "com.ada.app": {
+    "title": "Ada - your health portal",
+    "package": "com.ada.app",
+    "description": "Get a health check for yourself and your relatives with the Ada App.\nYou can access a symptom checker 24/7 to find out possible causes.\nWhatever\u2019s bothering you, from pain, headache, or anxiety to allergy or food intolerance, the free Ada App connects you to an assessment where you can find answers from the comfort of your home.\n\nHow does the free app work?\n\nYou access the symptom assessment by tapping on a button in the app.\nThe symptom assessment will open and you answer simple questions about your health and symptoms.\nYou access the symptom assessment by tapping on a button in the app.\nThe symptom assessment will open and you answer simple questions about your health and symptoms.\nThe AI of the Ada assessment evaluates your answers against its medical dictionary of thousands of disorder",
+    "icon": "/icons/com.ada.app.png"
+  },
+  "com.activationking.photobooth": {
+    "title": "AI Photo Booth Pro: Event App",
+    "package": "com.activationking.photobooth",
+    "description": "AI Photo Booth Pro lets you run two events simultaneously on two Android devices with a single subscription, allowing you to maximize your profits without extra costs. Host two separate events at the same time and scale your business effortlessly.\n\nThe app is perfect for weddings, engagements, corporate events, brand activations, product launches, trade shows, birthday parties, and permanent kiosk installations in hotels, malls, and restaurants. With eye-catching AI experiences, your booth always stands out and attracts crowds.\n\nCreate studio-quality results in seconds with lightning-fast AI processing, including AI Face Swap, Background Removal, AI Video Effects, Photos, GIFs, Boomerangs, Videos, and 360 Spin Booths. Everything is optimized for professional event use on Android phones and",
+    "icon": "/icons/com.activationking.photobooth.jpg"
+  },
+  "com.addtextonphoto.quotecreator": {
+    "title": "Text Art: Text on Photo",
+    "package": "com.addtextonphoto.quotecreator",
+    "description": "Add Text To Photos: Text Art - Transform your photos into visual masterpieces!Want to add a personal touch and creativity to your images? Add Text To Photos: Text Art will help you add your personal touch to any photo you like, making it come alive with personalized writings or quotes. From quoting meaningfully or highlighting the moments of your life to making your visual content stand out, this application can help anyone fulfill his desire for expression.\n\n\ud83d\udcc4 Key Features of Add Text To Photos: Text Art: \ud83d\udcc4\n\u2705Add Text On Photos Editor: Customize your photos by adding writings with a wide selection of fonts, colors, and styles;\n\u2705Photo Text Editor: Text On Image: Make your photos more engaging by adding letters directly to them;\n\u2705Add Quote To Image: Write On Photos: Inspire others by adding ",
+    "icon": "/icons/com.addtextonphoto.quotecreator.png"
+  },
+  "com.adex77.memefast.mememaker": {
+    "title": "Meme Maker - AI Meme Generator",
+    "package": "com.adex77.memefast.mememaker",
+    "description": "Create Memes in Seconds - The Fastest Meme Generator App\n\nMemeFast is the easiest way to make funny memes. Whether you're creating memes from a massive template library or using an AI meme generator, making memes has never been faster or easier.\n\n\ud83c\udfa8 2000+ MEME TEMPLATES\nBrowse trending meme templates. From funny cat memes to happy birthday memes, we have every popular meme format. Make memes that match your style instantly.\n\n\u2728 AI MEME GENERATOR\nWrite a funny caption like \"When you find free WiFi\" and AI instantly generates the perfect meme. The fastest way to make memes from text. Create memes automatically with smart template matching.\n\n\u26a1 INSTANT MEME MAKER\nCreate memes in literally 5 seconds. Upload your photos, customize with hundreds of fonts and stickers, and share instantly to Instagr",
+    "icon": "/icons/com.adex77.memefast.mememaker.png"
+  },
+  "com.adi121.mememaker": {
+    "title": "Meme Maker",
+    "package": "com.adi121.mememaker",
+    "description": "Meme Maker - The Ultimate Meme Collection & Creator!  \n\nAre you a meme lover? Do you enjoy scrolling through hilarious, relatable, and viral memes? Or maybe you want to create your own memes and go viral? Meme Maker is here to bring you the funniest memes and give you the power to create your own! Get ready to dive into an endless world of humor, sarcasm, and creativity!  \n\n\ud83d\ude80 Unleash Your Inner Meme Lord!  \nWith Meme Maker, you not only get access to an extensive collection of high-quality, handpicked memes in HD & 4K, but you can also create your own memes with just a few taps! Whether you love classic memes, trending viral content, or niche humor, we\u2019ve got everything you need to keep the laughs rolling!  \n\n## Why Meme Maker?  \n\n\ud83d\udc49 Simple & Fast Interface  \n- We believe in simplicity and ",
+    "icon": "/icons/com.adi121.mememaker.jpg"
+  },
+  "com.advancenumerology.app": {
+    "title": "Advance Numerology",
+    "package": "com.advancenumerology.app",
+    "description": "Are you curious about your lucky numbers, daily predictions, and effective remedies to improve your life? Advance Numerology is a complete numerology app designed to provide guidance based on your date of birth. With easy-to-use features, daily tips, remedies, and life path analysis, this app helps you understand yourself better and bring positivity, balance, and clarity into your day.\n\nKey Features of Advance Numerology:\n\nDaily Numerology Tips \u2013 Receive personalized tips and suggestions every day to guide your life positively.\n\nLucky Numbers & Lucky Colors \u2013 Discover which numbers and colors may bring you luck and positivity.\n\nNumerology Predictions \u2013 Get daily, weekly, and monthly insights based on numerology principles.\n\nEffective Remedies \u2013 Learn remedies that can help reduce challenge",
+    "icon": "/icons/com.advancenumerology.app.png"
+  },
+  "com.advasoft.touchretouch.plus": {
+    "title": "TouchRetouch: Remove Objects",
+    "package": "com.advasoft.touchretouch.plus",
+    "description": "Your pocket app for removing unwanted stuff from photos on the go. It gives your photos a clean look while saving you valuable time.\n\nAn accidental object, even though it may look tiny and harmless, can completely ruin the entire composition of a photo and make it worthless. However, it\u2019s not a pain if you have your favorite TouchRetouch at hand.\n\nAt ADVA Soft, we're always innovating. Our latest updates, including the Erase AI feature and features like Meshes and AI edge-aware object removal, were designed with your feedback in mind.\n\nADVANTAGES:\n\nNo quality and EXIF data loss\nProfessional AI photo edits with ease\n\nNOTE: The automatic object removal algorithm works best on uniform backgrounds.\n\nWHAT MAGIC CAN YOU DO WITH TOUCHRETOUCH?\n\nErase AI-Powered Object Removal:\n\n\u2022 Automatically det",
+    "icon": "/icons/com.advasoft.touchretouch.plus.webp"
+  },
+  "com.aereus.whatsticker": {
+    "title": "Whatsticker - Sticker Maker",
+    "package": "com.aereus.whatsticker",
+    "description": "Welcome to WhatSticker - Sticker Maker, your go-to social network for fun and unique stickers. We have a large collection of both animated and static stickers. These are made by famous creators like Deformitos, Giseelove, Zyrha, Harley, and more. Use them in various chat apps like WhatsApp, Telegram, and iMessage. With us, your chats will never be boring!\n\nWith WhatSticker, becoming a popular sticker creator is easy. Create your artist profile in a few simple steps and quickly attract followers who love your stickers. Your profile page is where you can show off your creations. The best and most popular stickers might even appear on the app's home page. Sharing your sticker packs is also easy. Just use the sticker pack code, copy it, and share it with your friends and community.\n\nIf you bec",
+    "icon": "/icons/com.aereus.whatsticker.png"
+  },
+  "com.aerotools.photo.sketch.maker.editor": {
+    "title": "Photo Sketch Maker",
+    "package": "com.aerotools.photo.sketch.maker.editor",
+    "description": "Sketch Photo Maker is an app that convert your photo into a sketch which looks amazing.\nJust Select your pic from gallery or capture with camera then convert it into a amazing looking sketch. You can draw sketch of your png or jpg or other format photos easily by using This \" Sketch Photo maker \" application. Create Pencil Sketch, color pencil Sketch or Painting of Your Photo Like an Artist. PNG , JPG, JPEG or recommended. There are many sketch and drawing styles that you can apply to your photo and adjust photo's color. Pencil Sketch Filter is the\nbest in this app. \n\nFeatures of Sketch Photo Maker\n\n\u2605 Pencil Sketch Filter.\n\u2605 Water color sketch.\n\u2605 Hard pencil sketch.\n\u2605 Color pencil sketch.\n\u2605 Smooth Drawing Effects.\n\u2605 Crop Photos.\n\u2605 Choose your favorite pencil color for drawing.\n\n\nHow to Use",
+    "icon": "/icons/com.aerotools.photo.sketch.maker.editor.png"
+  },
+  "com.aesthetic.iconpack.iconchanger": {
+    "title": "MyTheme: Icon Changer & Themes",
+    "package": "com.aesthetic.iconpack.iconchanger",
+    "description": "Welcome to \ud835\udc0c\ud835\udc32\ud835\udc13\ud835\udc21\ud835\udc1e\ud835\udc26\ud835\udc1e \u2013 your ultimate tool for transforming the look and feel of your smartphone! With MyTheme, you have the power to customize every aspect of your device, from themes and icons to widgets and wallpapers, all in one intuitive app.\n\n\ud83c\udfa8 \ud835\udc13\ud835\udc21\ud835\udc1e\ud835\udc26\ud835\udc1e\ud835\udc2c: Dive into our vast library of themes, carefully crafted to suit every style and preference. Whether you prefer minimalist designs, vibrant colors, or artistic creations, MyTheme has something for everyone. Express yourself with themes that reflect your personality and make your device stand out from the crowd.\n\n\ud83c\udf1f \ud835\udc00\ud835\udc29\ud835\udc29 \ud835\udc08\ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc2c: Tired of the same old app icons? MyTheme's icon changer feature lets you swap them out with ease. Choose from a variety of icon packs or even upload your own icons to create a truly unique look. With MyTheme, the possi",
+    "icon": "/icons/com.aesthetic.iconpack.iconchanger.png"
+  },
+  "com.aesthetic.symbols": {
+    "title": "Aesthetic Symbols - Fancy Text",
+    "package": "com.aesthetic.symbols",
+    "description": "Improve your Text & Instant Messaging. Give a new twist to all your Text & Instant Messaging and postings on Internet sites with our Fancy Text Symbols App! \n\n \u2695\ufe0f Make Awesome Text & Instant Messaging with the Most Awesome Fancy Text Symbols App. \ud83d\ude0e \n \ud83c\udd92 Give Wings to Your Text with Fancy Text and Aesthetic Symbols! \nFind a large library of images aesthetic, from glitters, stars, borders, and dividers; our application will give you the necessary features to create artistic messages that will represent your personal style\u2014whether you want to add that special sparkle to your social media posts or create an art piece to impress your friends, our amazing fancy text generator can become your best tool.\n\n \ud83c\udfa8\u2695\ufe0f \ud83c\udde8\ud83c\uddf4\ud83c\uddf4\ud83c\uddf1 \ud83c\uddf8\ud83c\uddfe\ud83c\uddf2\ud83c\udde7\ud83c\uddf4\ud83c\uddf1\ud83c\uddf8 \u2695\ufe0f\ud83d\udcac\n\u30fb\u2765\u30fb \u05c2\u05c2\u0ae2 \u2570\u2508\u27a4 - ,, -\u2018\u0e51\u2019- : \u0317\u0300\u279b \u0f0a*\u00b7\u02da \u02d7\u02cf\u02cb \u00b4\u02ce\u02d7 \u2604. *. \u22c6 \u02da \u0f18\u2661 \u22c6\uff61\u02da \u0a48\u2729\u2027\u208a\u02da \u2727.* \u270e \u0cc3",
+    "icon": "/icons/com.aesthetic.symbols.png"
+  },
+  "com.aesthetic.tarot": {
+    "title": "AI Tarot Reading & Daily Card",
+    "package": "com.aesthetic.tarot",
+    "description": "You are about to discover the mysterious world of Aesthetic Tarot. With the help of AI and beautifully designed Tarot cards, you can receive daily insights, discover your hidden drives, and make better choices in love, career, and life.\n\nThis app uses the power of AI to predict future outcomes and uncover your inner motivation. You don't need to know the Tarot's system - the app will do the magic for you in a blink of an eye. Use it to the outmost to unlock everything that is hidden in the subconsciousness and broaden your consciousness. \n\nFeatures\n\u2728  AI Tarot: Our cutting-edge feature allows you to ask questions and receive accurate interpretations from our artificial intelligence. Simply ask your question, and our AI will analyze the cards to provide a accurate interpretation.\n\n\ud83d\udc96  Variet",
+    "icon": "/icons/com.aesthetic.tarot.jpg"
+  },
+  "com.aether.stablediffusion": {
+    "title": "Stable Diffusion AI Advice",
+    "package": "com.aether.stablediffusion",
+    "description": "Unlock the full power of generative AI and transform your creative vision into digital reality with the ultimate Stable Diffusion AI Advice.\n\nWhether you are a complete beginner or a seasoned digital artist looking to transition to local AI tools, this comprehensive guide is designed to take you from \"first install\" to \"professional architect.\" In the rapidly evolving landscape of 2026, simply typing a prompt isn't enough\u2014you need to master the structure, the math, and the ethics of the world's most powerful open-source image engine.\n\nWhat You Will Learn\n\nThis app features a structured, 5-module curriculum designed for deep learning and practical application:\n\nModule 1: Foundations & Setup\nUnderstand the \"Reverse Diffusion\" process, set up your local environment (AUTOMATIC1111), and optimi",
+    "icon": "/icons/com.aether.stablediffusion.png"
+  },
+  "com.afb.superastro": {
+    "title": "SuperAstro: AI Astrology Chat",
+    "package": "com.afb.superastro",
+    "description": "SuperAstro is an AI-powered astrology app that offers unlimited personalized guidance and predictions. Based on Vedic astrology, panchang, and Hindu astrology, we offer - \n\n1. Unlimited Chat with Astrologers: \nTalk to our astrologers about anything you want to know - life, love, relationships, career, job, marriage, money, health or education. Have detailed conversations about your life questions without any rush, interruptions, or delays. Get instant replies 24/7.\n\n2. Kundali & Horoscope \n- Kundli reading \n- Daily, weekly, monthly horoscope\n- Yearly astrology predictions\n- Personalized Janampatri\n- Daily panchang with tithi, nakshatra, and key timings\n- Birth chart analysis\n\n3. Personalized Vedic Astrology Predictions \ud83d\udd49\ufe0f\n- Hindu astrology guidance\n- Numerology readings\n- Panchang-based gu",
+    "icon": "/icons/com.afb.superastro.png"
+  },
+  "com.afl.universalremote": {
+    "title": "Universal TV Remote App",
+    "package": "com.afl.universalremote",
+    "description": "\ud83d\udcf1 Universal TV Remote: Your All-in-One Smart TV Control Solution\n\nTransform your Android device into the ultimate remote control for your Smart TVs with the Universal TV Remote app. Whether you\u2019re navigating channels, adjusting settings, or searching for content, this versatile app makes it easier than ever to control your Television right from your phone.\n\n\u2728 Key Features:\n\n\ud83d\udd0d Automatic Detection: Instantly detect and connect to TVs on the same WIFI network.\n\ud83c\udf0d Broad Compatibility: Works with all popular TV brands.\n\ud83c\udf9b\ufe0f Touchpad Navigation: Effortlessly swipe through content using a responsive touchpad.\n\ud83d\udcfa Channel Launch: Open channels directly from the app for quick and easy access.\n\u2328\ufe0f Keyboard Input: Type text quickly using the built-in keyboard for seamless searches.\n\ud83c\udfa4 Voice Search: Use voic",
+    "icon": "/icons/com.afl.universalremote.png"
   }
 }
