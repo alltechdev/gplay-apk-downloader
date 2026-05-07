@@ -19535,7 +19535,7 @@
   "com.mobile.legends": {
     "title": "com.mobile.legends",
     "package": "com.mobile.legends",
-    "icon": "/icons/com.mobile.legends.png"
+    "icon": "/icons/com.mobile.legends.webp"
   },
   "com.robinhood.gateway": {
     "title": "Robinhood Wallet: Swap Crypto",
@@ -50107,5 +50107,620 @@
     "package": "com.mentra.mentra",
     "description": "Mentra gives you access to apps built by developers from around the world. Mentra is the leading smart glasses operating system and SDK - and brings it all together in one app.\n\nStream your view, see live captions, talk to AI, capture photos hands-free, and unlock new experiences on your smart glasses.\n\nCompatible with Even Realities G1, Mentra Live, and Vuzix Z100.\n\nGet Mentra mini apps including:\n\n* Merge - Proactive AI\n\n* Live Captions - real life subtitles for the deaf and hard-of-hearing\n\n* Notes - Proactive note taker\n\n* Streamer - Livestream your POV to Twitch, YouTube, and more\n\n* LinkLingo - Language learning\n\n* MemCards - Flash cards on your HUD\n\n* Teleprompter - see what you want to say\n\n* Live Translation - understand anyone\n\n* Calendar Reminders - get a ping before your next m",
     "icon": "/icons/com.mentra.mentra.png"
+  },
+  "com.meophe.memosensei": {
+    "title": "Sensei: Learn Japanese with AI",
+    "package": "com.meophe.memosensei",
+    "description": "Featured on Top Education Apps\nCommended as one of the Best Apps for Learning Japanese!\n\n\"This app is exactly what I need for my Japanese learning journey.\" - Japanese Education Digest\n\nMASTER JAPANESE WITH AI-POWERED LEARNING\nWhy learners choose Speak Japanese\n\u25a0 Guided Path Lessons\nStart from zero and progress through every JLPT level with clear goals for reading, listening, writing & speaking.\n\n\u25a0 Real-Life AI Tutor\nRole-play travel, work, and daily life scenarios in Japanese. Get instant feedback on pronunciation, pitch accent, and fluency.\n\n\u25a0 Immersive Media Library\nGraded audiobooks, books, and videos with Japanese subtitles. Tap any word to see built-in definitions, furigana, grammar notes, stroke order, and native audio.\n\n\u25a0 Custom Flashcards + Spaced Repetition\nSave new Japanese word",
+    "icon": "/icons/com.meophe.memosensei.png"
+  },
+  "com.merla.quant": {
+    "title": "Stock Analysis: AI Signals",
+    "package": "com.merla.quant",
+    "description": "Stock Analysis \u2014 AI Signals (SignalSage) is designed for investors looking to invest in United States stocks and ETFs. Our AI-powered trading models generate professional quantitative signals that identify trends, short-term opportunities, and market fluctuations to help you make smarter decisions.\n\n\ud83d\ude80 AI-Powered Signals: Our advanced algorithms identify high-probability trend, swing, and reversal signals for both stocks and options to enhance your trading success.\n\n\ud83d\udc0b Smart Money Monitor: Don't trade in the dark. Track institutional activities and follow the \"smart money\" flows for every stock.\n\n\ud83d\udcca Industry Analysis: Top-to-bottom analysis to help you locate top-ranked stocks in momentum, growth, and profitability sectors.\n\n\ud83d\udd0d Comprehensive Research:\nAccess institutional-grade research tools ",
+    "icon": "/icons/com.merla.quant.png"
+  },
+  "com.mhriley.spendingtracker": {
+    "title": "Spending Tracker",
+    "package": "com.mhriley.spendingtracker",
+    "description": "Spending Tracker is the easiest and most user friendly expense manager app in the store. The simple fact is, by tracking your spending you will be able to stick to a budget and therefore SAVE MONEY. So download it for free, enter your expenses and income, and have instant control over your spending!\n\n\u2605 Features \u2605 \n---------------\n\u2714 Simple and intuitive user interface \n- helps you to easily manage your spending\n- super fast expense entry\n\n\u2714 Flexible Time Periods \n- choose to track Daily, Weekly, Monthly or Yearly \n\n\u2714 Budget Mode \n- optionally set a fixed budget amount to help you meet your spending targets \n- carry over any remaining budget to the next month or week \n\n\u2714 Summary View \n- overview of your current balance along with expense and income totals\n- see your main areas of spending\n\n\u2714",
+    "icon": "/icons/com.mhriley.spendingtracker.png"
+  },
+  "com.micontrolcenter.customnotification": {
+    "title": "Launcher and Themes",
+    "package": "com.micontrolcenter.customnotification",
+    "description": "Launcher and Themes - Amazing Launcher!\nUnlock aesthetic possibilities with the Launcher and Themes app! Infuse a sleek, refined aesthetic into your Android device. Well, your wishes have been granted with this powerful launcher app that brings the power of customization and personalization right to your fingertips.\ud83d\udd25\n\n\u26a1Modern design and style!\u26a1\nImagine having the iconic themes, home screen, and app drawer on your Android device. Navigating through your phone becomes a delightful experience with the launcher as you browse through your app drawer, now mirroring the elegance of an modern design and style!\n\nMain Launcher & Themes Features:\n\u2705 Themes;\n\u2705 Stylish Phone;\n\u2705 Amazing Notification Panel;\n\u2705 Sleek Quick Settings;\n\u2705 Icons and more!\n\nAmazing Launcher!\u2b50\nThe Launcher and Themes app allows yo",
+    "icon": "/icons/com.micontrolcenter.customnotification.png"
+  },
+  "com.mi.emoji.ai": {
+    "title": "AI Emoji Maker - Merge Emoji",
+    "package": "com.mi.emoji.ai",
+    "description": "Unleash your creativity with AI-powered emojis! Create unique emojis with a simple prompt or merge two emojis into one for a fun twist.\nTurn Ideas into Emojis \u2013 Just describe what you want, and AI will generate a unique emoji instantly!\nMerge Emojis \u2013 Pick two emojis and blend them into a brand-new, fun creation.\nCustomize Your Emojis \u2013 Adjust colors, styles, and details to make emojis truly yours.\nUse Anywhere \u2013 Compatible with iMessage, WhatsApp, and all your favorite chat apps.\nSave & Share \u2013 Download your custom emojis or send them instantly to friends.\nEndless Possibilities \u2013 Create expressive, hilarious, or even weird emojis\u2014let your imagination run wild!\nExpress yourself like never before! Create, combine, and share emojis that are as unique as you.",
+    "icon": "/icons/com.mi.emoji.ai.jpg"
+  },
+  "com.middleton.imagecloneai": {
+    "title": "Restorer AI - Restore Photos",
+    "package": "com.middleton.imagecloneai",
+    "description": "Some photos are too important to lose.\n\nRestorer AI brings damaged, faded, and torn photos back to life using a multi-stage AI pipeline. Repair scratches and tears, add natural colour to black & white images, and upscale everything to crystal-clear 2K+ resolution \u2014 all in seconds.\n\nNo subscription. Ever.\nMost apps charge you every month whether you use them or not. Restorer AI doesn't. Buy credits when you need them, use them at your own pace. Your credits never expire.\n\nNew? Your first restoration is on us \u2014 no payment needed.\n\nWhat Restorer AI fixes:\n\u2022 Scratches, tears, stains, and physical damage\n\u2022 Faded or discoloured prints\n\u2022 Black & white photos (colourised with natural, vivid tones)\n\u2022 Low-resolution images (upscaled to 2K+ \u2014 sharp enough to print and frame)\n\nPrivate by design.\nYour ",
+    "icon": "/icons/com.middleton.imagecloneai.jpg"
+  },
+  "com.midi.photoeditor": {
+    "title": "Pencil Sketch - Photo Editor",
+    "package": "com.midi.photoeditor",
+    "description": "Turn your photos into stunning artworks with Pencil Sketch, the free and powerful photo editing app. Whether you want a classic pencil sketch, colorful drawing, or creative collage, Pencil Sketch gives you everything you need to make your photos stand out on social media and beyond.\n\nCreative Sketch Effects\n\u2022 Choose from multiple styles: Pencil Sketch, Line Sketch, and Color Sketch.\n\u2022 Apply over 40 unique filters and effects to bring your photos to life.\n\u2022 Instantly transform ordinary pictures into hand-drawn masterpieces.\n\nPhoto Collage Maker\n\u2022 Combine unlimited photos into beautiful collages.\n\u2022 Customize layouts with frames, stickers, and overlays.\n\u2022 Perfect for capturing memories with friends, family, or travel moments.\n\nPowerful Photo Editing Tools\n\u2022 Adjust brightness, contrast, satura",
+    "icon": "/icons/com.midi.photoeditor.png"
+  },
+  "com.midjourney.ai.guide.hnstech.app": {
+    "title": "Midjourney: AI App Guidance",
+    "package": "com.midjourney.ai.guide.hnstech.app",
+    "description": "Unleash the full potential of AI Art generation!\n\nAre you struggling to write the perfect prompt? Confused by complex parameters like --iw or --stylize? This \"Midjourney AI App Guidance\" is the ultimate companion app for Midjourney users, designed to take you from a beginner to a Prompt Engineer pro.\n\nStop guessing and start creating. Whether you are using Midjourney v5 or v6, our suite of interactive tools and comprehensive guides will help you visualize your ideas instantly.\n\n\u2728 KEY FEATURES:\n\n\ud83d\udee0\ufe0f Prompt Builder Construct complex prompts without typing a single comma manually. Select your subject, art style, lighting, and camera angle from a dropdown menu. The app automatically formats the syntax for you.\n\n\u2696\ufe0f Image Weight (--iw) Balancer Unique visual tool! Understand exactly how the --iw ",
+    "icon": "/icons/com.midjourney.ai.guide.hnstech.app.png"
+  },
+  "com.midjourney.ai.guide.offline.reader": {
+    "title": "Midjourney AI Prompt Guide",
+    "package": "com.midjourney.ai.guide.offline.reader",
+    "description": "Unlock the creative potential of Midjourney with a comprehensive AI Art Guide. This application is designed to help users understand and improve their prompting skills. It provides guidance on creating prompts and using them effectively for AI-generated images.\n\nThe app includes tutorials on setting up and using Midjourney through Discord, which is the primary platform used for generating images. It also explains how prompts, phrasing, and structure can influence results.\n\nA built-in prompt builder allows users to create prompts by selecting different elements such as styles, camera angles, and lighting options. The app also covers features like aspect ratios and text-to-image techniques.\n\nAdditional sections include topics such as photorealistic prompting, text within images, and editing ",
+    "icon": "/icons/com.midjourney.ai.guide.offline.reader.png"
+  },
+  "com.mih.planfit": {
+    "title": "Planfit - Gym Workout Planner",
+    "package": "com.mih.planfit",
+    "description": "No more guessing your workouts. Get personalized workout plans designed to help you lose weight, build muscle, and improve your fitness with personal AI trainer.  \nWhether you\u2019re at home or in the gym, Planfit works like a personal trainer in your pocket. Our AI-powered fitness system creates guided workout plans, tells you what to do next, and helps you follow a safe and effective training program. Each workout is adjusted to your goals, your gym equipment, and your fitness level so you can train with confidence and stay consistent.\n\nFree fitness & workout coaching features \n\u25a0 Personalized workout plans with the right exercises, reps, and weights, based on your gym setup and fitness goal\n\u25a0 Machine & Equipment Guide that explains how to use each gym machine with clear, trainer-style instru",
+    "icon": "/icons/com.mih.planfit.png"
+  },
+  "com.mike.gifmaker": {
+    "title": "GIF Maker - Video To GIF",
+    "package": "com.mike.gifmaker",
+    "description": "Gif Maker is an APP to make and edit Gif animated pictures and emoticons.\n\nIt supports converting your phone's video to gif, and it also supports composing multiple photos on your phone into gif.\n\nIt can adjust the speed of gif playback.\n\nIt is a very simple and easy to use motion picture making software.\n\nThe detailed features are:\n- Support customize make gif\n- Support to rewind gifs\n- Support cropping gifs\n- Support to add filters\n- Support add text\n- Support adding stickers\n- Support to adjust the speed of gifs\n\nShare it with your friends!",
+    "icon": "/icons/com.mike.gifmaker.png"
+  },
+  "com.mimisoftware.emojicreatoremoticonosemoticones": {
+    "title": "Emoji Maker: Emojis & Stickers",
+    "package": "com.mimisoftware.emojicreatoremoticonosemoticones",
+    "description": "Make your own emojis effortlessly with Emoji Maker, your ultimate custom emoji creator! \nDesign \ud83d\ude02 funny emoticons and craft limitless \ud83d\udce6 sticker packs for WhatsApp, Telegram, Messenger, Instagram, TikTok, or even your Discord server\u2014all in one simple app. \ud83c\udfa8 Unleash your creativity and make personal DIY stickers that will brighten up any conversation. \ud83d\udcab\n\n\ud83d\udd11 Emoji Maker Highlights\n\n\u2022 \ud83e\udd29 Create Custom Emojis  \n  Use photos or images from your gallery to design unique emoji stickers. Trim faces or objects and transform them into one-of-a-kind emoticons\u2014perfect for adding a personal touch to your chats.\n\n\u2022 \ud83d\udcf2 Stickers for WhatsApp & Telegram  \n  Quickly generate and export your creations as sticker packs to share in your favorite messaging apps. No hassle, just fun!\n\n\u2022 \ud83d\udd27 Easy & Intuitive Editor  \n ",
+    "icon": "/icons/com.mimisoftware.emojicreatoremoticonosemoticones.png"
+  },
+  "com.mindsera": {
+    "title": "Mindsera - AI Journal & Diary",
+    "package": "com.mindsera",
+    "description": "Improve your mental health, mindset, and cognitive skills with a smart diary that reflects with you, boosts your emotional intelligence, and helps you unlock hidden patterns.\n\nLOVED BY PEOPLE, PRESS, MENTAL HEALTH PROS\n\n\u2022 Featured in The New Yorker, Forbes, Psyche, PS by Vox, The Friendly Mind, Ness Labs & more.\n\n\u2022 Dr. Amy Van Buren, Clinical Psychologist: \u201cA lot of the feedback I receive from Mindsera is as good as, if not better than, what I could give my clients\u201d\n\u2022 Dr. David Barry, Clinical Psychologist: \u201cI am a clinical psychologist based in London and really like what you're doing!\u201d\n\n\u2022 Michael, journaler: \u201cI am really enjoying Mindsera. It\u2019s one of the most bang for your buck purchases I\u2019ve ever made. One hour of theraphy costs $200 vs this is just $129 for the full year.\u201d\n\u2022 Anonymous",
+    "icon": "/icons/com.mindsera.webp"
+  },
+  "com.mindshiftbin.aiaudiolab": {
+    "title": "AI Vocal Remover: Audio Lab",
+    "package": "com.mindshiftbin.aiaudiolab",
+    "description": "Transform your audio with AI Audio Lab! Whether you need to extract vocals from a song or remove annoying background noise, our advanced AI technology makes it easy and professional.\nKey Features:\n\u2022 AI Vocal Remover: Extract vocals and instrumentals from any audio file. Perfect for karaoke!\n\u2022 Noise Reducer: Remove background noise, wind, and hum with one click.\n\u2022 Ringtone Maker: Edit and trim your audio to create the perfect ringtone.\n\u2022 Speed Changer: Adjust audio tempo and pitch effortlessly\n\nWhy Choose AI Audio Lab?\nPrivacy Focused: All processing is done locally on your device. Your audio files are never uploaded to a server.\nEasy to Use: A clean, modern interface designed for both beginners and professionals.\n\nVersatile Support: Works with a wide range of audio formats.\nExperience the ",
+    "icon": "/icons/com.mindshiftbin.aiaudiolab.png"
+  },
+  "com.mindsymbol.aipark_user": {
+    "title": "AI Parking",
+    "package": "com.mindsymbol.aipark_user",
+    "description": "AI PARKING is individual and single car parking solution application. Its has feature that parking preserve, pay, looking free parking etc",
+    "icon": "/icons/com.mindsymbol.aipark_user.jpg"
+  },
+  "com.mindvoll.cappymind": {
+    "title": "CappyMind - AI Journal",
+    "package": "com.mindvoll.cappymind",
+    "description": "CappyMind is your personal AI journaling companion designed to unlock deeper self-understanding, clarity, and personal growth. Whether you're navigating career decisions, managing stress, enhancing your relationships, or exploring mindfulness, CappyMind guides you through reflective journaling sessions that adapt uniquely to you.\n\nBegin by choosing from our extensive library of categories and topics or simply start writing freely. CappyMind asks insightful questions that prompt thoughtful reflection, helping you uncover hidden patterns, clarify your emotions, and empower yourself to overcome life's challenges. As you express your thoughts, our intelligent AI analyzes your writings in real-time, generating personalized follow-up questions designed to gently guide you deeper into meaningful ",
+    "icon": "/icons/com.mindvoll.cappymind.png"
+  },
+  "com.miniepisode": {
+    "title": "com.miniepisode",
+    "package": "com.miniepisode",
+    "icon": "/icons/com.miniepisode.png"
+  },
+  "com.minikara.director.android": {
+    "title": "Pixel Animator:GIF Maker",
+    "package": "com.minikara.director.android",
+    "description": "Pixel Animator: GIF Maker\nWith Pixel Animator, you can do more than cool pixel art. Make your sprites moving is just like a piece of cake. \n\nIf you like Pixel Animator, or have suggestions for the developer, please follow us on twitter:\nhttps://twitter.com/minikaraoke\n\nIn the Pixel Animator ver1.1.4 update, two very powerful pixel art tools are added. Now you can make pixel art, GIF more conviniently. Although these two tools are not free, you can still use them in limited times every day.\nShape tool: You click the tool and the choose the shape type. Next touch the screen and the touch points will be the vertex of your shape. Currently, the supported shape include circle, rectange, line and triangle.\nTransform tool: You click the tool and adjust the select area. After you have finished sel",
+    "icon": "/icons/com.minikara.director.android.png"
+  },
+  "com.minikara.directorpro": {
+    "title": "Pixel Animator Pro:GIF Maker",
+    "package": "com.minikara.directorpro",
+    "description": "With Pixel Animator, you can do more than cool pixel art. Make your sprites moving is just like a piece of cake.  \nFeatures:\n1 Make your pixel art from scratch or based on an existing photo or cartoon.\n2 Adjust next GIF frame picture based the previous picture which saves your lots of time.\n3 Export your animation as a GIF format which is support by every version of browser no matter on the PC platform or the mobile platform.\n4 Edit an existing GIF file.\n5 Share your GIF Pixel Animation with your friends.\n\nTips:\nThe Paint Bucket is very useful. You can use it to change the color of a line or change the color of a closed area.\n\nSimple tutorial\nTo make a GIF with Pixel Animator, you should know 2 simple concepts.\nAt first you should know what the current button is, the button that is working",
+    "icon": "/icons/com.minikara.directorpro.png"
+  },
+  "com.minisurf.browser": {
+    "title": "MiniSurf Browser Fast, Private",
+    "package": "com.minisurf.browser",
+    "description": "MiniSurf Lite Browser \u2013 Fast, Private & Lightweight\n\nMiniSurf is a fast, lightweight, and private browser for Android designed for users who want a lite browser with low data usage and strong privacy.\n\nPerfect for everyday browsing, MiniSurf delivers a smooth experience even on slow internet and low-end devices.\n\n\u26a1 Why Choose MiniSurf Browser?\n\n\u2714 Mini browser with small app size\n\u2714 Fast browser for slow internet\n\u2714 Lite browser for Android devices\n\u2714 No tracking, no data collection\n\u2714 Smooth performance on all phones\n\n\ud83d\udd12 Privacy First Browser\n\nMiniSurf is a privacy-focused browser that does not track your activity.\n\nNo data collection\nNo analytics tracking\nNo personal data stored\nAll browsing stays on your device\n\ud83d\udd25 Key Features\n\n\ud83d\ude80 Fast Browsing Speed\nQuick page loading with optimized performanc",
+    "icon": "/icons/com.minisurf.browser.png"
+  },
+  "com.minjiang.funpeti18n": {
+    "title": "Cat & Dog Translator\u2014Pet sound",
+    "package": "com.minjiang.funpeti18n",
+    "description": "Do you want a cat game/ dog game to play with your pet? Are you pondering the mysteries behind your cat's meows or your dog's barks? Introducing our pet translator APP! This marvelous application is not only a cat translator and a dog translator but also serves as a comprehensive pet album! With human to cat and human to dog translation features, dive deep into understanding your pets better. There are also a plethora of authentic cat sounds and dog sounds for ultimate pet entertainment! \ud83d\udc36 \ud83d\udc31\n\nFEATURES:\n\u2714 Easy to use: One-click magic takes you straight from the cat translator to the dog translator. While in the cat language translator mode, simply long press the meow button to capture the enchanting cat language. Release, and in an instant, you'll hear the translated version in English, tha",
+    "icon": "/icons/com.minjiang.funpeti18n.jpg"
+  },
+  "com.minu.toonly.ai.comic": {
+    "title": "Toonly: AI Story & Comic Maker",
+    "package": "com.minu.toonly.ai.comic",
+    "description": "Create Interactive Stories and Comics with AI\n\nToonly is an AI-powered interactive story and comic maker that lets you create choice-based stories, visual comics, and branching adventures in minutes.\n\nStart with a template, enter your ideas, and choose what happens next. Toonly uses AI to generate comic-style images, characters, scenes, and story moments based on the path you take.\n\nYour choices shape the story\nWith Toonly, stories are not fixed.\nYou can select a template, make decisions, and guide the plot in different directions. Each choice can lead to new scenes, new drama, and different story outcomes.\n\nPerfect for creating:\n\nInteractive story games\nChoice-based romance stories\nFantasy adventures\nComic-style branching stories\nManga and webtoon-inspired story experiences\n\nStart from re",
+    "icon": "/icons/com.minu.toonly.ai.comic.png"
+  },
+  "com.minute.minishort.drama": {
+    "title": "MinuteDrama - Short Drama",
+    "package": "com.minute.minishort.drama",
+    "description": "Welcome to MinuteDrama, where a collection of engaging short dramas and films awaits your exploration. In this unique application, you can easily immerse yourself in a variety of series, elevating your dramatic experience to new heights. From short dramas and films adapted from novels to the latest popular genres such as modern, urban, youth, CEO, revenge, thriller, time travel, and comedy.\n\nWhy Choose MinuteDrama?\n\nDiverse Genres, Infinite Stories:\nFrom romantic short films to heart-pounding dramas, MinuteDrama brings you a rich series, ensuring everyone finds content that suits them.\n\nRelease Your Emotions:\nWhether it's laughter, tears, or suspense, MinuteDrama caters to your needs, evoking a range of emotions and providing a dramatic rollercoaster ride.\n\nExclusive Selections:\nMinuteDram",
+    "icon": "/icons/com.minute.minishort.drama.png"
+  },
+  "com.mirinae.mirinae": {
+    "title": "Mirinae - Learn Korean with AI",
+    "package": "com.mirinae.mirinae",
+    "description": "Are you learning Korean? Mirinae helps you understand all the parts-of-speech and grammar patterns in any Korean text that you give it.\n\n\u25c9 Let Mirinae be your AI Korean Teacher! \nYou enter a Korean sentence and Mirinae will translate the sentence, show you all the individual parts of speech, find and explain any grammar patterns present, explain the particles and honorifics and verb conjugations, identify & explain any idioms or neologisms used, and draw out a parse-tree showing all the individual phrases & clauses in the sentence.\n\nClick on anything in the explanation for more details, alternate word definitions, example uses, related patterns, cross-references to learning sites and major textbooks, and much more..\n\nAll this allows the learner to explore Korean wherever they encounter it,",
+    "icon": "/icons/com.mirinae.mirinae.png"
+  },
+  "com.mirofox.numerologija": {
+    "title": "Numerology Rediscover Yourself",
+    "package": "com.mirofox.numerologija",
+    "description": "Discover the hidden meanings behind numbers with our Numerology app - your guide to self-discovery and personal growth.\n\nNumerology is based on the numbers and information derived from your date of birth that helps you get a better understanding of yourself, your talents, virtues and your shortcomings.\n\nYour Life Path number represents the path you'll take in this life. It is the single most important element in your numerological chart and it should be given the most attention. The Life Path number describes our life purpose \u2013 the main lesson we chose to learn during this lifetime.\n\nYour Expression (or Destiny) number is the second most important number in your chart. It describes your natural talents, skills and potential. These are the gifts that we should use in the best possible ways ",
+    "icon": "/icons/com.mirofox.numerologija.jpg"
+  },
+  "com.mirrorai.app": {
+    "title": "Mirror: Emoji maker, Stickers",
+    "package": "com.mirrorai.app",
+    "description": "Nice to meet you on the app page of the Mirror AI - advanced 3D avatar maker! Create your own character, cute pics, memes, memoji AR stickers, avatars and big emoji stickers! Build your own personalized emoji keyboard for Android and make your chatting experience more fun. \n\nIt\u2019s time to add your personal touch to the standard set of keyboard stickers! You can use smart emojis and send your stories to the most popular social networks, chats and messengers. Mirror helps you to create stickers for whatsapp and customized avatars for your phone: Samsung, Huawei, Google Pixel, HTC, Meizu, LG, Sony etc.\n\nThe in-app character maker has a great facial recognition feature. With just one picture Mirror easily creates a personalized big avatar that looks almost as good as the real person. Use your o",
+    "icon": "/icons/com.mirrorai.app.png"
+  },
+  "com.mirrorapp.beautymirror.makeupmirror.smartlighttoolmirrorapp": {
+    "title": "Makeup Mirror - Beauty Mirror",
+    "package": "com.mirrorapp.beautymirror.makeupmirror.smartlighttoolmirrorapp",
+    "description": "Makeup Mirror - Beauty Mirror: Your Ultimate Handy pocket mirror while traveling, now just say good to all the hanging and dusty mirrors. Just use Vanity Mirror With Light anytime at anywhere to check your appearance and set accordingly to your fashion scene with a vanity makeup mirror.\n\nWhy should you prefer our Makeup Mirror - Beauty Mirror?\nMakeup Mirror - Beauty Mirror provides you with a lot of intensive advantages:\n8x Zoom Camera\nPocket Mirror\nMagnifying Mirror With Light\nMirror Photo Frame\nUser-Friendly Interface\n\nMakeup Mirror - Beauty Mirror Feature:\nMakeup Mirror Light up\nLighted Makeup Mirror\nMagnifying Mirror For Makeup\n\nVanity Mirror With Light:\nVanity mirror provide you led mirror light, this helpful and works well in a dim environment where you might need to check your appea",
+    "icon": "/icons/com.mirrorapp.beautymirror.makeupmirror.smartlighttoolmirrorapp.jpg"
+  },
+  "com.mirzaacademy.chessai": {
+    "title": "Chess AI",
+    "package": "com.mirzaacademy.chessai",
+    "description": "Chess AI is a premium offline chess game designed for players who want a focused, fast, and intelligent way to enjoy chess on mobile. Whether you are a beginner learning the basics or an experienced player refining strategy, this app delivers a smooth chess experience built around smart gameplay, clean design, and complete offline access. No internet connection is needed, so you can play chess anywhere, anytime.\n\nChallenge yourself against a smart AI opponent that offers a convincing and engaging match at different difficulty levels. Practice openings, train your tactics, improve your endgame, and strengthen your decision-making with every move. Chess AI is more than a casual chess app. It is a practical chess trainer for learning, improving, and enjoying the timeless board game in a simpl",
+    "icon": "/icons/com.mirzaacademy.chessai.png"
+  },
+  "com.mitv.tvhome.mitvplus": {
+    "title": "Xiaomi TV+: Watch Live TV",
+    "package": "com.mitv.tvhome.mitvplus",
+    "description": "Make LIVE TV free for everyone.\nXiaomi TV+ delivers high-quality TV channels through your internet connection \u2014 no cable needed. Watch live TV for free anywhere, anytime without a subscription.\n\nXiaomi TV+ has something for the whole family! Choose premium live channels, including news, movies, entertainment, sports, children's programming, and much more from our extensive and growing library. Bloomberg, Euronews, Tastemade, FailArmy, Reuters, Ted, and more are right at your fingertips.\n\nYour experience matters to us, so we've made Xiaomi TV+ fun and easy-to-use for people of all age groups.\n\nYour watch history and recommendations are shown in the half-screen channel guide, so more exciting content is just a click away.\n\nDirectly use the up and down buttons to switch channels. Find the con"
+  },
+  "com.miyanour.speechassist": {
+    "title": "TypingTalk AAC Text-to-Speech",
+    "package": "com.miyanour.speechassist",
+    "description": "This app provides an easy-to-use interface to play back the text you type as text-to-speech audio. It's made to be used as augmentative and alternative communication (AAC). Some features:\n\nVoices\n\u2022 Select from many voice styles & languages in your device\u2019s TTS engine(s)\n\u2022 Choose between offline voices and Internet-powered voices that sound more natural\n\u2022 Save your favorite voice settings in a convenient list\n\nPhrases\n\u2022 Save & categorize quick phrases to play back with a tap. Rearrange & color code your phrases\n\u2022 Create separate groups of phrases for every language you use\n\u2022 Add pictures, emoji labels, and/or alternate text to phrases\n\u2022 Show text above or below pictures\n\u2022 Record, import and edit sound clips for your phrases\n\u2022 Create boards with any custom grid size from 1 \u00d7 1 to 16 \u00d7 16\n\u2022 S",
+    "icon": "/icons/com.miyanour.speechassist.png"
+  },
+  "com.mmedia.gif": {
+    "title": "GIF Maker & GIF Compressor",
+    "package": "com.mmedia.gif",
+    "description": "Your GIF file is too large to share with friends in social apps? \nThen please use this app, it can compress GIF files quickly and with high quality to the size you need.\n\nThis app can also help you to convert Video to GIF, combine images to GIF, or directly using your camera to take a gif.\n\nThis app support reverse GIF, so you make funny GIF or emoji. \n\nFeatures:\nCompress GIF:\nSupport a variety of GIF compression methods, including reducing the number of frames, reducing resolution, and reducing image quality\nSo you can easily to share large GIF files.\n\nReverse GIF:\nOne-Tap reverse playback function can help you make funny GIFs.\n\nVideo to GIF:\nCut out the favorite part of your video, and convert it to a GIF.\n\nPhotos to GIF\nEasily combine  multi photos into a GIF.\n\nCamera to GIF\nTake a vide",
+    "icon": "/icons/com.mmedia.gif.png"
+  },
+  "com.mmgames.bgmaker2": {
+    "title": "Simple Wallpaper Maker 2",
+    "package": "com.mmgames.bgmaker2",
+    "description": "Simple Wallpaper Maker is a fast and easy way to make a wallpaper.\nWith just a few touches, you can complete the wallpaper and easily set as wallpaper or lock screen wallpaper.\n\nYou can specify a special background and add multiple images or text.",
+    "icon": "/icons/com.mmgames.bgmaker2.png"
+  },
+  "com.mobimaster.dogscanner": {
+    "title": "Dog Breed Scanner: AI Detector",
+    "package": "com.mobimaster.dogscanner",
+    "description": "Discover any dog breed instantly with Dog Breed Scanner: AI Detector, a rock-solid AI-powered dog breed identifier designed to recognise dogs from photos in seconds.\n\nSimply capture a photo using your camera or choose an image from your gallery and let the advanced AI dog breed detector analyse the image to identify the breed quickly and accurately.\n\nWhether you're a dog lover, pet owner, breeder, or simply curious about a dog you see, this intelligent dog breed scanner helps you learn more about hundreds of dog breeds effortlessly.\n\n\ud83d\udc36 Instant Dog Breed Detection\nUse your camera or gallery to scan a dog photo and instantly identify the breed. Our intelligent AI Dog Detector analyses the image and provides the top 3 breed predictions with confidence levels from 0-100%, helping you understan",
+    "icon": "/icons/com.mobimaster.dogscanner.png"
+  },
+  "com.modelmakertools.simplemindfree": {
+    "title": "SimpleMind Lite - Mind Mapping",
+    "package": "com.modelmakertools.simplemindfree",
+    "description": "Mind mapping helps you organize your thoughts, remember things and generate new ideas. We've created a beautiful, intuitive app, so you can mind map wherever you are and whenever you want.\n\nMORE SimpleMind:\n\u2022 SimpleMind for Android FULL version adds tons of productivity boosting features - available in Google Play\n\u2022 SimpleMind Desktop is available for Windows and Mac - https://simplemind.eu\n\nFree Functionality\n\u2022 Everything you need to get started with mind mapping.\n\u2022 No ads.\n\u2022 No need to sign up for an account.\n\u2022 Upgrade to full functionality is a one-time single purchase.\n\nHighlights\n\u2022 Easy to use.\n\u2022 Continuously fine-tuned based on customer feedback.\n\u2022 Trustworthy and reliable: 7 years of updates and improvements.\n\u2022 Used in a wide range of applications: business, education, legal and med",
+    "icon": "/icons/com.modelmakertools.simplemindfree.png"
+  },
+  "com.modelmakertools.simplemindpro": {
+    "title": "SimpleMind Pro - Mind Mapping",
+    "package": "com.modelmakertools.simplemindpro",
+    "description": "Mind mapping helps you organize your thoughts, remember information and generate new ideas. We've created a beautiful, intuitive app, so you can mind map wherever you are and whenever you want.\n\nSimpleMind Pro is designed to synchronize your Mind Map across platforms. For example (as a separate purchase) for Windows and Mac - https://simplemind.eu/download/full-edition/\n\nHighlights\n\u2022 Easy to use.\n\u2022 Continuously fine-tuned based on customer feedback.\n\u2022 Trustworthy and reliable: 10+ years of updates and improvements.\n\u2022 Used in a wide range of applications: business, education, legal and medical.\n\u2022 Unique free-form layout or various auto layouts.\n\u2022 Seamless synchronization using clouds.\n\u2022 Add media and documents.\n\u2022 Share Mind Maps.\n\u2022 Change and customize the style of the Mind Map.\n\u2022 Tools to ",
+    "icon": "/icons/com.modelmakertools.simplemindpro.png"
+  },
+  "com.modelx.eye.color.changer.lense.photoeditor": {
+    "title": "Eye Color Changer Photo Editor",
+    "package": "com.modelx.eye.color.changer.lense.photoeditor",
+    "description": "Eye color changer app is a photo editor to change eye color in photo\nEye colour changer app consists of colored contact lenses which makes your look beautiful.\nChange your eye color photo editor app  is one of the best real eye color changer app that\u2019s most helpful eye color changer camera for changing eyes lens for everyone. Use free eyes lens photo editor to change eye color in pictures. You can use this photo editing apps for red eye to change contact lens. \nNice eye color lens app has variety of contact lenses include brown eyes, green eyes, red eyes, gray eyes, hazel eyes, dark brown eyes. \nInstall now free eyes color changer with real colored contact lenses. The eyes colour changer eye color filter camera with nice eyes filters for magic eye color effects. Contact lens eye color chan",
+    "icon": "/icons/com.modelx.eye.color.changer.lense.photoeditor.png"
+  },
+  "com.molibe.ai.chemistry": {
+    "title": "Chemistry Solver AI SnapChem",
+    "package": "com.molibe.ai.chemistry",
+    "description": "Snap a photo and instantly solve chemistry problems step by step with the smartest AI chemistry helper \u2014 perfect for students and parents who want fast, accurate, and easy chemistry help.\n\nSnapChem is the ultimate AI-powered chemistry solver that transforms your smartphone into a powerful chemistry tutor. Whether you're tackling complex equations, stoichiometry, or molar mass problems, SnapChem uses cutting-edge AI to scan your chemistry questions and provide detailed, step-by-step solutions in seconds. It\u2019s the ideal learning companion for high school and college students, as well as for parents looking to support their children's science education.\n\nFeatures of SnapChem - chemistry problem solver and AI chemistry tutor\n\nINSTANT CAMERA SCAN SOLVER\nSimply snap a photo of any chemistry prob",
+    "icon": "/icons/com.molibe.ai.chemistry.png"
+  },
+  "com.molibe.lovehoroscope": {
+    "title": "AI Love Horoscope 2026",
+    "package": "com.molibe.lovehoroscope",
+    "description": "\ud83d\udd2e Accurate love horoscope 2026 for single people and couples, love compatibility between Zodiac signs and much more in this 100% FREE app powered by AI.\n\nAccurate AI love horoscope 2026 and compatibility\nWhat does the future hold for you in terms of love and romantic relationships? Are your zodiac signs compatible? We tell you everything in great detail in our free accurate love horoscope app for the year 2026. Our love and sentimental horoscope app is valid for single people and couples. Discover the daily, weekly, monthly love horoscope and get ahead of events. Then share the astrological predictions on Instagram, WhatsApp, Messenger, Facebook and others. Is there infidelity or cheating? Is he your better half or soulmate? AI may tell...\n\nAstrological love predictions for all zodiac sign",
+    "icon": "/icons/com.molibe.lovehoroscope.png"
+  },
+  "com.moneymanager.family.budget.planner": {
+    "title": "Easy Budget - Expense Tracker",
+    "package": "com.moneymanager.family.budget.planner",
+    "description": "\ud83c\udf1f Easy Budget - Expense Tracker is your reliable money manager and budget planner built to make personal finance management simple and effective.\nEasily record income and expenses, plan your monthly budget and stay on top of your money management with smart expense tracker tools.\n\nKey Features of Easy Budget - Expense Tracker:\n\ud83d\udccc Money tracker and expense manager - Record income and daily expenses quickly. Categorize transactions clearly for simple budget management and better spending control.\n\n\ud83d\udcca Budget planner and spending tracker - Create your monthly budget, follow progress and view charts that help visualize your finance status clearly.\n\n\ud83d\udcb0Savings tracker and goal planner - Set savings goals, monitor your progress and improve your money saving habits with easy budget tracking tools.\n\n\u26a1C",
+    "icon": "/icons/com.moneymanager.family.budget.planner.png"
+  },
+  "com.monotype.android.font.simprosys.stylishfonts": {
+    "title": "Stylish Fonts Keyboard",
+    "package": "com.monotype.android.font.simprosys.stylishfonts",
+    "description": "Stylish Font is made with Motive to provide stylish look to Smart Phone with attractive Fonts. It has various fonts with instant preview so you can take a look how exactly font will look. NOTE: This App is NOT sponsored, endorsed, or affiliated with Monotype Imaging, Inc, the owner of the FlipFont trademark and technology.\n\nEnhance your typing experience with our Fonts Keyboard, offering a diverse collection of stylish and unique fonts to personalize your messages. \n\nStand out from the crowd and express yourself in a fonts that suits your mood with just a few taps on your keyboard.\n\nStylish Font app is also the best fonts app to decorate the text with different styles, symbols, and text.\n\nKey Features:\n\n\u2022 Stylish Fonts\nStylish Fonts installs 50 Stylish fonts on your phone compatible to thi",
+    "icon": "/icons/com.monotype.android.font.simprosys.stylishfonts.png"
+  },
+  "com.moodi": {
+    "title": "Moodi: emotions & mood tracker",
+    "package": "com.moodi",
+    "description": "Moodi is a self-help therapy journal with effective psychological exercises and emotion tracker to strengthen your mental health and overcome anxiety & depression, stress, low self-esteem, or other psychological difficulties. Take advantage of this CBT mood diary therapy and help yourself to raise your mood, increase awareness, and enjoy its anti-stress effect.\nA psychological diary is a highly effective self-help practice\n Psychologists recommend keeping a psychological diary. It can be an emotion tracker, a mood diary a CBT journal, or free-form entries.\nAs the best self-help practice, it will help you:\nBetter understand yourself, your thoughts, feelings, reactions, and relationships with other people\nExpress emotions and experiences, rather than suppressing them, and ensure better emoti",
+    "icon": "/icons/com.moodi.png"
+  },
+  "com.moodpixel": {
+    "title": "Moodflow: Mood Tracker",
+    "package": "com.moodpixel",
+    "description": "Mood Tracker \u2705 \nYear in Pixels \u2705\nDiary \u2705\nMood Calendar \u2705\nSymptom Tracker \u2705\nHabits \u2705\nGratitude Journal \u2705\nRoutines \u2705\nPhoto Album \u2705\nFind all the tools you need for better mental health within Moodflow!\n\nMoodflow is a beautiful, modern and FREE app that captures your emotions, moods, thoughts, and general well-being. In addition, Moodflow goes along with you throughout your life, and gives you a deeper understanding of yourself, not previously known to you. Ultimately, this will allow you to improve your mental health and help you become a better you.\n\n\ud83e\udd17 HOW DOES MOODFLOW WORK? \nYou do not even need to write anything down to get a meaningful insight or to keep a diary.\n\nThis is how easy Moodflow works:\nFill out a quick survey every day and gain insight into the WHAT and HOW it influences you o",
+    "icon": "/icons/com.moodpixel.png"
+  },
+  "com.moonbug.ccml": {
+    "title": "CoComelon: Learn ABCs and 123s",
+    "package": "com.moonbug.ccml",
+    "description": "Discover fun and easy toddler games in CoComelon: Learn ABCs and 123s!\n\nBuilt by early childhood experts and inspired by the world-famous toddler YouTube series, this app gives families a safe place for toddlers to play, explore, and learn with JJ, Bingo, Cody, Nina, and the whole CoComelon crew. Every kid-friendly interactive activity is designed for little hands and big imaginations.\n\nLEARN letters, numbers, shapes, colors, and early problem-solving skills through playful, hands-on games.\nPLAY with sandboxes, puzzles, coloring sheets, tracing activities, and musical minigames made especially for toddlers and preschoolers.\nGROW confidence and curiosity with activities rooted in real early-learning milestones.\n\nWhy parents choose the CoComelon learning app for toddlers:\n\u2022 Designed for pres",
+    "icon": "/icons/com.moonbug.ccml.png"
+  },
+  "com.moovetechhk.athan": {
+    "title": "Athan 360: Prayer Times",
+    "package": "com.moovetechhk.athan",
+    "description": "From the Athan reminder for the Fajr prayer to Azkar recitation \u2014 Athan 360 is your all-day faith tool! Covering all aspects of prayer, Quran recitation, Azkar, and the calendar, making the practice of religious rituals easier and more convenient.\n\n\n\ud83d\udcd6 Quran Reader \nSaudi Medina Edition of the standard Arabic text, with chapter bookmarks and automatic progress saving.\n*Athan 360 requires your authorization for foreground service permissions to ensure that the Quran can be downloaded in the background (FOREGROUND_SERVICE_DATA_SYNC) and that audio can be played (FOREGROUND_SERVICE_MEDIA_PLAYBACK).\n\n\ud83e\udd32 Azkar\nOffers a curated collection of daily Azkar and authentic supplications, along with tools to facilitate recitation and repetition.\n\n\ud83e\udded Qibla\nThe Prayer Compass helps you accurately point to t",
+    "icon": "/icons/com.moovetechhk.athan.png"
+  },
+  "com.mopo.tryonframes": {
+    "title": "Try On Frame Glasses",
+    "package": "com.mopo.tryonframes",
+    "description": "Virtual Try-On Kacamata adalah aplikasi yang membantu Anda mencoba berbagai model kacamata secara langsung melalui kamera perangkat Anda.\n\nDengan teknologi deteksi wajah, Anda dapat melihat bagaimana kacamata terlihat di wajah Anda secara real-time tanpa perlu mencobanya secara fisik.\n\n\u2728 Fitur Utama\n\ud83d\udcf7 Tampilan kamera real-time\n\ud83d\udc64 Deteksi wajah otomatis\n\ud83d\udc53 Simulasi kacamata langsung di wajah\n\ud83d\udd04 Ganti model frame dengan mudah\n\u26a1 Ringan dan mudah digunakan\n\n\ud83c\udfaf Kegunaan Aplikasi\nAplikasi ini dirancang untuk:\nMembantu pengguna memilih kacamata dengan lebih cepat\nMemberikan gambaran awal sebelum mencoba langsung di toko\nDigunakan oleh toko optik sebagai alat bantu pelayanan pelanggan\n\n\ud83d\udccc Cara Penggunaan\nBuka aplikasi\nArahkan wajah ke kamera\nPilih model kacamata\nLihat hasilnya secara langsung",
+    "icon": "/icons/com.mopo.tryonframes.png"
+  },
+  "com.moshicam.mobile.v2": {
+    "title": "Moshicam Photo Editor & Frames",
+    "package": "com.moshicam.mobile.v2",
+    "description": "MOSHICAM \u2013 The Aesthetic Photo Editor for Fans and Creators\n\nMoshicam is the all-in-one photo editing app designed for fans, creators, and anyone who loves making cute and aesthetic edits. Whether you want to decorate your selfies, make K-Pop fan edits, design collages of your favorite idols, or just create stylish photos to share with friends, Moshicam gives you everything you need in one place. With thousands of trendy frames, sticker packs, fonts, and tools, Moshicam makes it easy to transform your photos into something unique.\n\n- Over 1,000 Trendy Frames by Real Artists\nStand out with exclusive frames you won't find anywhere else. From polaroid borders and photobooth strips to film frames and collectible photo card templates, Moshicam has the internet's best artist-made frames. These a",
+    "icon": "/icons/com.moshicam.mobile.v2.png"
+  },
+  "com.motorola.fmplayer": {
+    "title": "FM Radio",
+    "package": "com.motorola.fmplayer",
+    "description": "Motorola FM Radio makes it easy to scan for stations, build your favorites list, set your sleep timer, record the best songs, and see live information about what\u2019s playing -- all with a cool Material Design look. \n\nThis application has been designed to work on Motorola phones with an enabled FM chipset and running Android 6.0 (Marshmallow) and above. You may play through a wired headset, Bluetooth headset, or loudspeaker. For the best performance, you should connect a wired headset or Digital TV dongle to act as the FM antenna.\n\nVoice commands*: You can also use the Google Assistant to manage your FM Radio hands-free. You can find a list of supported commands in the Options menu. \n\n*Languages supported: U.S. English, Brazilian Portuguese, Latin American Spanish, UK English, French (EU), It",
+    "icon": "/icons/com.motorola.fmplayer.png"
+  },
+  "com.movavi.mobile.movaviclips": {
+    "title": "Movavi - Video Editor",
+    "package": "com.movavi.mobile.movaviclips",
+    "description": "\u2606 Free movie maker with intuitive interface\n\u2606 Quick and precise cutting\n\u2606 All the essential features\n\nMovavi is an advanced video editor with slideshows for your mobile device! It has everything you need to create an epic video or engaging Stories: intuitive controls and a user-friendly interface, combined with powerful tools and HD-quality export. You get multiple editing tools, like cropping, rotating, plus you can enhance your movies with unique color filters, transitions, and themed stickers. Create a fabulous slideshow with music tracks from the free built-in library and pictures from your albums. It\u2019s so easy \u2013 you can become a real videostar with the power of video editing software on your mobile device!\n\n\n\ud83c\udf1fVIDEO EDITING\ud83c\udf1f\n\u2606 Edit footage on the handy timeline of the video maker\n\u2606 Spl",
+    "icon": "/icons/com.movavi.mobile.movaviclips.png"
+  },
+  "com.moviesplus1": {
+    "title": "Movies Plus",
+    "package": "com.moviesplus1",
+    "description": "Movies Plus is a streaming platform providing exceptional entertainment from big studio films, to small independent movies, and original content, while simultaneously granting freedom to all points of view and protecting each individual\u2019s right to their own voice.\n\nTo access all features and content you can subscribe to Movies Plus on a monthly or yearly basis with an auto-renewing subscription right inside the app.* Pricing can vary by region and will be confirmed before purchase in the app. In app subscriptions will automatically renew at the end of their cycle.\n\n* All payments will be paid through your Google Account and may be managed under Account Settings after the initial payment. Subscription payments will automatically renew unless deactivated at least 24-hours before the end of t",
+    "icon": "/icons/com.moviesplus1.png"
+  },
+  "com.moviray.glowscan": {
+    "title": "GlowScan: AI Skin Scanner",
+    "package": "com.moviray.glowscan",
+    "description": "GlowScan helps you stop guessing and finally understand your skin. It\u2019s an AI skin scanner and skin care scanner for fast face analysis, smart skin analyser insights, and a simple skincare routine you can follow every day. Scan your face or check body skin areas now and start tracking your glow!\n\n\u2728 AI skin scan with real-life routine tracking\nGlowScan combines AI skin analysis with a practical skincare routine tracker. In seconds, the AI skin scanner helps you understand skin health signals, then turns them into a clear plan you can stick to every day. You may also see helpful details like skin tone analysis, age estimation, and easy care scores.\n\n\u2705 How it works\n\u2714\ufe0f Run a quick face analysis or body skin scan\n\u2714\ufe0f Review your skin assessment and skin report summary\n\u2714\ufe0f Follow your skincare rou",
+    "icon": "/icons/com.moviray.glowscan.png"
+  },
+  "com.mozapps.qrscanner": {
+    "title": "QRScan: QR & Barcode Scanner",
+    "package": "com.mozapps.qrscanner",
+    "description": "\u25c6 Lightning-Fast 0.1s Scan, Done Instantly!\n\u25c6 Safe & Reliable Scanning\n\u2022 AI-Powered Recognition: Driven by advanced AI technology for precise and rapid QR code and barcode scanning.\n\u2022 Safe Browsing: Equipped with robust safety checks. We automatically verify links for security before you open them, protecting your device from malicious sites.\n\u25c6 QRScan: Your All-in-One QR Code & Barcode Studio\nQRScan is more than just a QR Code Reader and Scanner; it\u2019s a comprehensive tool designed for both everyday users and professionals. Whether you need to scan a restaurant menu, decode a product barcode, or use a QR Code Generator for Links, everything is simplified in one fast, reliable, and user-friendly app.\n\u25c6 Pro QR Code Design & Customization\nTake your designs to the next level with our Custom QR ",
+    "icon": "/icons/com.mozapps.qrscanner.png"
+  },
+  "com.mp4android.photoresizerhd": {
+    "title": "Photo Resizer HD",
+    "package": "com.mp4android.photoresizerhd",
+    "description": "Photo Resizer HD is simple and easy to use application for resizing single and multiple images.\nWith this app you can resize/shrink your photos before sending them by Email or uploading them to  any social services. \n\nFeatures:\n- Batch resize multiple photos. (If you want to batch resize multiple images , you have to select them in the standalone gallery app and then share them to \"Photo Resizer HD\")\n- Photo Editing Tools \u2013 Rotate, Crop,  Horizontal and Vertical Flip.\n- Sharpen photos after resize\n- Configurable size and quality\n- Keep EXIF tags\n- Save reduced images to SD card \n- Share photos to other apps.\n\nTips:\n1. How to batch resize multiple photos: \n- open standalone gallery app or another image browser\n- select images and share them to  \u201cPhoto Resizer HD\u201d \n- set parameters and press",
+    "icon": "/icons/com.mp4android.photoresizerhd.png"
+  },
+  "com.mpcvuk": {
+    "title": "MyPerfectCV: Resume CV Builder",
+    "package": "com.mpcvuk",
+    "description": "Create a CV that lands your dream job!\nMyPerfectCV has helped over 15 million jobseekers build their perfect CVs in minutes.\n\nTake advantage of the wealth of recruiter approved one-click designs, CV content pre-written by professionals, powerful visual customization tools and expert advice to guide you every step of the way. MyPerfectCV is a true all-in-one solution. \n\nDOZENS OF CV TEMPLATES\nYou will instantly stand out with MyPerfectCV eye-catching designs! In our huge library there are templates perfect for every job and every jobseeker - each offering a wide range of customisation options.\n\nBut our professionally crafted CV templates are not just about the looks. Employer-ready, recruiter-approved and ATS-friendly - any of our templates will give you the best possible chances of landing",
+    "icon": "/icons/com.mpcvuk.png"
+  },
+  "com.ms.free.alquran.holyquran.qurankareem.quransharif.bestquranapp": {
+    "title": "Al Quran Majeed \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645",
+    "package": "com.ms.free.alquran.holyquran.qurankareem.quransharif.bestquranapp",
+    "description": "Our Holy Quran Majeed - \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 app is designed to provide a seamless experience for anyone looking to read, listen to, and engage with the Holy Quran. This Quran ul kareem offers everything you need to enhance your connection with Allah. With features that allow you to easily continue where you left off holy Quran majeed, & explore different Quran majeed \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 Surahs and Juz. Al Quran 30 Juz app makes it simple to engage with the Quran shareef.\n\nKey features of the Al Quran app include the ability to Read Quran, & Resume Quran ul kareem from where you last stopped, ensuring you never lose your place. The \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 app also offers the option to explore any Juz or Surah, making it easier to access specific sections for recitation of Koran Karim.\n\nThe Search functionality o",
+    "icon": "/icons/com.ms.free.alquran.holyquran.qurankareem.quransharif.bestquranapp.png"
+  },
+  "com.msaapps.morfio": {
+    "title": "Morfio: Hairstyle & Hair Color",
+    "package": "com.msaapps.morfio",
+    "description": "Morfio is a hair app and makeup app that lets you try hairstyles, hair colors, eye colors, and optional makeup on your own photo using AI, so you can see new looks before making a real change.\n\nUpload a clear selfie, choose a style or color, and get realistic results in seconds. Your face, lighting, and natural features stay intact while changes are applied smoothly and naturally.\n\nWhat you can do with Morfio  \n\u2022 Try dozens of hairstyles on your own photo  \n\u2022 Preview natural-looking hair colors  \n\u2022 Change eye color virtually  \n\u2022 Test makeup looks with optional virtual makeup  \n\u2022 Keep your facial features realistic and unchanged  \n\u2022 Get fast, high-quality results  \n\u2022 Save and share your favorite looks  \n\nMorfio helps you explore new styles with confidence, whether you want a quick experimen",
+    "icon": "/icons/com.msaapps.morfio.png"
+  },
+  "com.mts.ai.voice.generator.voice.cloning": {
+    "title": "Voice Changer - Ai Voice Clone",
+    "package": "com.mts.ai.voice.generator.voice.cloning",
+    "description": "Voice Changer - Ai Voice Clone hlep you to transform your voice instantly with AI voice clone, fun sound effects, voice filters, and pro quality voice editing for endless creativity.\n\nAI Voice Clone is your all in-one voice tool to explore, edit, and completely transform the way you sound. Whether you want to create realistic AI voice overs, add funny sound effects, or fine tune your tone with precision voice filters. Ai Voice Clone voice changer app gives you everything in one simple, powerful package. With advanced AI voice generator technology you can clone voices, generate unique audio effects and even make AI voices for music, storytelling or voice chat. Record your own audio, instantly apply creative voice effects and turn everyday recordings into something truly original. \n\nAI Voice",
+    "icon": "/icons/com.mts.ai.voice.generator.voice.cloning.png"
+  },
+  "com.mugenyi.cartooneditor": {
+    "title": "AI Cartoon Generator",
+    "package": "com.mugenyi.cartooneditor",
+    "description": "Transform your photos and text into stunning cartoons with a single tap! Our AI Cartoon Generator makes it incredibly easy to turn your favorite moments and creative ideas into unique and eye-catching art. Whether you're looking to create a new profile picture, a personalized avatar, or simply have fun with your images and words, our app is the perfect tool for you.\n\nKey Features:\nInstant Cartoon Transformation: Our advanced AI technology analyzes your photo and applies a variety of cartoon styles in seconds. Simply upload a picture from your gallery or take a new one, and let our AI cartoon generator work its magic.\n\nGenerate Cartoons from Text: Unleash your imagination by typing a description of the cartoon character or scene you envision. Watch as our powerful AI brings your words to li",
+    "icon": "/icons/com.mugenyi.cartooneditor.png"
+  },
+  "com.music.slideshow.videomaker": {
+    "title": "Music Video Maker - Slideshow",
+    "package": "com.music.slideshow.videomaker",
+    "description": "\ud83c\udfac Music Slideshow - Video Maker app help you to create coll slideshows and music videos from photos!\n\nMusic Slideshow - Video Maker is your creative tool to create video from photos, add music to video and apply video filters, effects and text. Whether you want a photo slideshow maker or a cute music video maker for social networks this Music Slideshow - Video Maker app makes it happen\n\n\u2728 Key features of Music Slideshow - Video Maker:\n\n\ud83c\udfb5 Add music in photo slideshow\nQuickly select your favorite sound or import your own songs to perfectly match your mood. With music slideshow maker, it\u2019s easy to add music in video or slideshow projects.\n\n\ud83d\uddbc\ufe0f Photo to Video Editor\nPick images from your gallery and instantly create video from photos using stylish templates, transitions,frames and filters. Pers",
+    "icon": "/icons/com.music.slideshow.videomaker.jpg"
+  },
+  "com.muslimappassistant.Islampro.qiblafinder.quranprayerdua": {
+    "title": "Easy Quran Mp3 Audio Offline",
+    "package": "com.muslimappassistant.Islampro.qiblafinder.quranprayerdua",
+    "description": "Easy Quran Mp3 Audio Offline comes with Salah Timings, 99 Names of Allah with Suhoor and Aftar time for all your Ramadan and Islamic needs. The app is a convenient solution for all your Muslim needs and brings you the best Kiblah finder App, the mellifluous Full Quran Majeed offline in mp3, Ramadan suhoor and iftaar timings, Hijri Ramadan Calendar and 99 Names of Allah. A brief description of Qibla, Ramadan, Salat and Easy Quran Mp3 Audio Offline App Islamic features is given below.\n\nQuran Majeed \u2013 Full Quran With mp3 Audio Offline and multi Language Translations:\n\nAl Quran is the primary offering of this Qibla direction & salat timings app. Full mp3 Quran majeed contains all the famous Quran mp3 recitations and translations. In addition to English and Urdu Quran translations, Quran transl",
+    "icon": "/icons/com.muslimappassistant.Islampro.qiblafinder.quranprayerdua.png"
+  },
+  "com.muslimmer.prayer.times.qibla.compass.azan.holy.quran": {
+    "title": "Prayer Time, Azan Alarm, Qibla",
+    "package": "com.muslimmer.prayer.times.qibla.compass.azan.holy.quran",
+    "description": "As-salamu alaykum dear brothers and sisters!\nMuslimmer is a Muslim app with accurate Prayer times and Azan. With it, you can also read the Quran and use a Qibla direction compass! It's a must-have for all Islamic users in 2026.\n\nPeople of Islam who actively travel around the world want to always have a reliable Mecca finder at their disposal, get Athan or read daily Dua. Muslimmer will provide you with everything you might need to comply with the traditions of our religion. You'll never miss a single prayer with the help of our adhan.\n\nFeatures\n\nThese are the features that Muslimmer contains:\n\u2022 Accurate schedule of prayer times based on your location or any manually selected location.\n\u2022 Azan time is a notification that calls you to prayer with different muezzin voices to choose from.\n\u2022 Qib",
+    "icon": "/icons/com.muslimmer.prayer.times.qibla.compass.azan.holy.quran.png"
+  },
+  "com.muslimmoon.prayertimes": {
+    "title": "Prayer Times - Qibla & Quran",
+    "package": "com.muslimmoon.prayertimes",
+    "description": "Prayer Times - \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645\u200e is an Islamic app designed for Muslims. Prayer times app offers features such as Islamic Prayer Times, Qibla finder, hadith collection, Azan Alarms, Quran Majeed reading, Quran MP3, daily Duas, Adhkar, zakat calculator, and more. Learn step-by-step prayers with the Al Quran - Muslim prayer times. The Islamic prayer app helps to make Islamic practices easier and more accessible.\n\nCharacteristic of Prayer Times - \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645\u200e app\n\n\u2714\ufe0f Muslim prayer times for muslims.\n\u2714\ufe0f Quran MP3 with famous Quran reciters.\n\u2714\ufe0f Read the Quran Kareem with clear Arabic text.\n\u2714\ufe0f Find Qibla and nearby mosques with the prayer app\n\u2714\ufe0f View Islamic dates & events with Hijri calendar\n\u2714\ufe0f Calculate Zakat with the Zakat Calculator\n\u2714\ufe0f Follow Sunnah with the hadith collection\n\u2714\ufe0f Get the Hajj ",
+    "icon": "/icons/com.muslimmoon.prayertimes.png"
+  },
+  "com.mw.hd.mobile.mirror.pro": {
+    "title": "Mirror App - Makeup Mirror",
+    "package": "com.mw.hd.mobile.mirror.pro",
+    "description": "Makeup Mirror \u2013 The Ultimate Beauty Mirror App for Android \ud83d\udc84\u2728\n\nIf you\u2019re looking for a multi-purpose beauty mirror app for Android, the Mirror Pro is a powerful tool that you need in your daily beauty routine. It allows you to clean any aspects of your makeup, hair, and more. With its LED mirror feature, advanced brightness controls, and magnifying mirrors, the Mirror Pro will always assist you whenever and wherever you need to look flawless. \n\nYou can now say goodbye to the old bulky mirrors. This app will act as a pocket makeup mirror. The freeze, zoom, and flip features also guarantee that you will not miss any finer details. \n\n\u2b50 Key Features of Makeup Mirror - Beauty Mirror App for Android: \u2b50\n\n\u2705 Crystal-Clear HD View: Unlike ordinary beauty mirrors, you can enjoy a sharp, HD reflection",
+    "icon": "/icons/com.mw.hd.mobile.mirror.pro.png"
+  },
+  "com.mwm.pixelcolor": {
+    "title": "Pixel Color: Paint by Number",
+    "package": "com.mwm.pixelcolor",
+    "description": "The World's 1st Pixel Art app to integrate a unique AI-powered drawing generation!\n\nIntroducing Pixel Color! The ultimate destination for color-by-numbers enthusiasts! Immerse yourself in a world of addictive gameplay as you choose from a wide variety of super fun images and bring them to life by following the numbers. With our app, coloring by numbers has never been easier!\n\nUnleash your inner artist and create stunning pixel art drawings like never before with the revolutionary new feature: Our groundbreaking AI-powered art drawing number generation functionality is the first of its kind in the market, allowing you to generate any drawing instantly with just a few taps.\n\nImagine a world where you can transform your ideas into pixel-perfect masterpieces effortlessly. With Pixel Art - Colo",
+    "icon": "/icons/com.mwm.pixelcolor.png"
+  },
+  "com.my.drama.box.reel.short.stream.tv.app": {
+    "title": "DramaHub - Drama Shorts & Reel",
+    "package": "com.my.drama.box.reel.short.stream.tv.app",
+    "description": "Drama Shorts & Reel is the ultimate FREE streaming destination for fans of drama shorts, viral reel shorts, and binge-worthy movie. Whether you\u2019re a K drama short enthusiast, a passionate Cdrama (Chinese drama) & micro drama viewer, or simply looking for the trending minidrama and reels, DramaHub has everything you need \u2013 all drama in a box.\n\nFrom romantic billlionaire love story and thrilling mysteries to epic family sagas, turkish drama and modern comedies, we bring you hundreds of series, popular short, and full-length movies updated daily. With our intelligent recommendation, you\u2019ll always have the perfect micro drama, reel short or movie tailored to your mood and viewing history.\n\n\nWhy Choose Our Short Series App?\n\n\u2713 Free Streaming \u2013 Stream unlimited shorts and reels without paying.\n\n",
+    "icon": "/icons/com.my.drama.box.reel.short.stream.tv.app.png"
+  },
+  "com.mydramalist.app": {
+    "title": "MyDramaList - Asian Drama DB",
+    "package": "com.mydramalist.app",
+    "description": "PLEASE NOTE: YOU CANNOT WATCH TV SHOWS OR FILMS WITH MYDRAMALIST.\n\nMyDramaList is the ultimate destination for Asian drama and film fans. Our app features a huge selection of TV shows, movies, and variety shows from across the region, with a focus on Korean, Chinese, Japanese, Taiwanese, Hong Kong, Thai, and Philippine dramas. Stay organized and up-to-date with your favorite shows thanks to our app's features, including:\n\n- Ratings, reviews, and recommendations from our passionate community of drama lovers\n- Custom lists to keep track of what you're currently watching, have completed, and plan to watch in the future\n- Filters and search tools to find the perfect drama or film based on your preferences\n- In-depth information on the cast and crew of your favorite shows\n- The ability to rate,",
+    "icon": "/icons/com.mydramalist.app.webp"
+  },
+  "com.myicon.themeiconchanger": {
+    "title": "MyICON - Icon Changer, Themes",
+    "package": "com.myicon.themeiconchanger",
+    "description": "Using MyICON, you can replace the app icons on the home screen with a variety of pictures to make your home screen unique and show your personality and preferences. MyICON provides a wealth of well-designed icons, themes and wallpapers, you can choose from them as you like. With the custom icon feature, you can also choose your favorite pictures and photos from the local album to set as app icons. Download MyICON now and make your home screen look a whole new look!\n\n- Hundreds of icon pictures to choose from\n- Icons, themes and wallpapers in different styles, such as fresh, sci-fi, landscape, cute, etc.\n- Support uploading pictures from albums as icons\n- Support to modify the app name\n- The operation process is clear and simple\n\nWe will continue to update icons and themes to bring you a st",
+    "icon": "/icons/com.myicon.themeiconchanger.png"
+  },
+  "com.mykitchen.ai": {
+    "title": "Recipe Generator AI Scanner",
+    "package": "com.mykitchen.ai",
+    "description": "Transform your kitchen with MyKitchen AI \u2013 the ultimate food scanner and AI recipe generator.\n\n\ud83d\udcf8 Scan Ingredients & Get Recipes\nDon\u2019t know what to cook? Use our powerful food scanner to scan your fridge or pantry and instantly get personalized recipes. Turn your ingredients into meals and reduce food waste.\n\n\ud83c\udf73 AI Recipe Generator\nCreate smart recipes based on what you have:\n\u2022 Generate unique AI recipes from your ingredients\n\u2022 Filter by cuisine, diet, and cooking time\n\u2022 Discover what to cook in seconds\n\u2022 Get step-by-step cooking instructions\n\n\ud83d\udd25 Calorie Tracker & Nutrition Analyzer\nTrack your health with our AI-powered calorie tracker:\n\u2022 Scan meals to get calories, protein, fat, and carbs\n\u2022 Smart traffic light system for easy understanding\n\u2022 Track your daily nutrition and progress\n\n\u2728 Key Fea",
+    "icon": "/icons/com.mykitchen.ai.png"
+  },
+  "com.mystic.sychtarrot": {
+    "title": "Mystic Tarot AI: Card Reading",
+    "package": "com.mystic.sychtarrot",
+    "description": "Mystic Tarot AI is a dark, elegant tarot app for daily ritual, card reading, reflection, and learning.\n\nMove through a calm tarot experience from ritual to spread, from card reveal to AI-guided interpretation. Explore a daily tarot card, begin a new tarot reading, scan a physical tarot spread, continue your reflection in chat, save readings in your journal, and learn the meanings of the deck over time.\n\nWhether you return for a daily card reading, a deeper tarot spread, or a quiet moment of reflection, Mystic Tarot AI brings together symbolism, structure, and premium mystical atmosphere in one place.\n\nWhat you can do in Mystic Tarot AI:\n\nDaily Card\nOpen your daily tarot card as a simple ritual for reflection. Reveal the card, sit with its symbolism, and return each day to continue your str",
+    "icon": "/icons/com.mystic.sychtarrot.jpg"
+  },
+  "com.nabatiah.carepaw.aidogscanner.ai": {
+    "title": "CarePaw: AI Dog Breed Scanner",
+    "package": "com.nabatiah.carepaw.aidogscanner.ai",
+    "description": "Care Paw is an AI-powered dog breed scanner designed to help dog owners and enthusiasts explore dog breeds and organize everyday pet care.\nTake a photo or upload one from your gallery, and Care Paw uses AI-based image recognition to help identify possible dog breeds, including mixed breeds. The app also provides general breed information and simple tools to help you stay organized with your dog\u2019s daily care.\n\nKey Features\n\nAI Dog Breed Scanner\nScan a photo or choose one from your gallery to receive breed suggestions, confidence ranges, and similar-looking breeds. Supports a wide range of dog breeds.\n\nDog Care Management Tools\n\nOrganize important care information in one place, including feeding notes and routines, vaccination and care reminders, grooming and exercise tracking, and general b",
+    "icon": "/icons/com.nabatiah.carepaw.aidogscanner.ai.png"
+  },
+  "com.nahxuan.virtual.ai.hair.color.changer": {
+    "title": "Virtual Change Hair Color AI",
+    "package": "com.nahxuan.virtual.ai.hair.color.changer",
+    "description": "Virtual Change Hair Color AI lets you preview different hair colors in real time using smart AI technology. Simply select your selfie photo, and instantly try new hair dye styles without touching your real hair.\n\u2728 Key Features:\n\n    \ud83c\udfa8 Try realistic hair colors: blonde, brown, pink, purple, red, grey, and more\n\n    \ud83e\udd33 Upload a selfie photo\n\n    \ud83e\udde0 AI auto-detects your hair and applies color naturally\n\n    \ud83d\udcf8 Save your look and share with friends\n\n    \ud83d\udd04 Switch between styles quickly and easily\n\nPerfect for:\n\n    - Trying hair colors before going to the salon\n\n    - Finding the right hair shade for your skin tone\n\n    - Hairstylists showing clients virtual results\n\n    - Creating fun and stylish social media photos\n\nDownload now and find your new hair color style \u2013 instantly, with AI!",
+    "icon": "/icons/com.nahxuan.virtual.ai.hair.color.changer.png"
+  },
+  "com.namegenerator.newnamegenetfatr": {
+    "title": "Name Generator \u2013 Create Names",
+    "package": "com.namegenerator.newnamegenetfatr",
+    "description": "Name Generator helps you create names quickly and easily. Whether you need names for characters, stories, games, or personal projects, the app provides a simple way to explore different name ideas.\nYou can choose a gender, select the style of name you want, and generate new options with one tap.\n\nFeatures\n\nGenerate names instantly\n\nMen and Women name categories\n\nMultiple styles: Random, Fantasy, Unique, Modern\n\nSave your favorite names for later\n\nCopy names with one tap\n\nSimple and clean interface\n\nUseful For\n\nWriting and storytelling\n\nGames and character creation\n\nCreative projects\n\nBaby name ideas\n\nAnyone exploring different name options",
+    "icon": "/icons/com.namegenerator.newnamegenetfatr.png"
+  },
+  "com.nameratorapps.namerator": {
+    "title": "Namerator: Fake Name Generator",
+    "package": "com.nameratorapps.namerator",
+    "description": "\ud83d\udcf1 Namerator \u2013 Fake Name Generator & Username Maker\n\nLooking for the best name generator app? Namerator is your ultimate tool for creating unique, creative, and personalized names\u2014perfect for gamers, writers, content creators, or anyone crafting a fresh identity online.\n\nWhether you need a cool username generator for Instagram, TikTok, or YouTube, a character name generator for D&D or fantasy novels, or even a quick fake name generator for test data and privacy, Namerator delivers endless ideas tailored to your style and purpose.\n\n\ud83c\udfaf Who is it for?\n\n\ud83c\udfae Gamers \u2013 Find the perfect gamer tag, name generator app free fire, or name generator for BGMI.\n\u270d\ufe0f Writers \u2013 Generate names for characters, species, locations, or fantasy worlds.\n\ud83d\udcf8 Content Creators \u2013 Create catchy usernames and aliases for TikTo",
+    "icon": "/icons/com.nameratorapps.namerator.png"
+  },
+  "com.nature.plantidentifierapp22": {
+    "title": "Garden Genie: Plant Identifier",
+    "package": "com.nature.plantidentifierapp22",
+    "description": "Identify plants, flowers, and trees by photo, and find them on plant maps with . To identify plants is of interest to all plant lovers, whether we are talking about houseplants, outdoor plants, or the ones you find on your walk. \n\nThis is where this plant identifier will come handy. \nThis free plant identification app will help you in all your needs.\n\nFeatures of Garden Genie: Plant Identifier App \n\ud83c\udf3f Plant identification app with the largest flora recognition\n\ud83c\udf44 Mushroom identification searchable database\n\ud83c\udf42 Leaf identification feature\n\ud83c\udf33 Tree identification feature \n\ud83c\udf3c Flower identification from the seed to the first blossom\n\ud83c\udf38 Accurate plant identifier \n\ud83c\udf34 Identify plants with a simple plant snap with camera\n\ud83c\udf31 Limitless plant identification free of cost\n\ud83c\udf32 Just snap a picture this free plant id",
+    "icon": "/icons/com.nature.plantidentifierapp22.jpg"
+  },
+  "com.navigahk.ai.stable.diffusion": {
+    "title": "Stable AI",
+    "package": "com.navigahk.ai.stable.diffusion",
+    "description": "Stable AI \u2013 Text to Image Generator\n\nStable AI is a powerful AI image generation app that transforms your ideas into stunning visual art from simple text prompts. Just type what you imagine, and Stable AI will instantly create a unique AI-generated image for you.\n\nWhether you\u2019re an artist, designer, content creator, or simply exploring creativity, Stable AI helps you visualize your ideas with ease. No drawing skills or complicated tools required \u2014 just your words and AI.\n\nKey Features\n- Generate high-quality AI images from text\n- Fast and simple text-to-image creation\n- Suitable for art, design, social media, and inspiration\n- Easy-to-use interface for all users\n- Unlimited creative possibilities\n\nTurn your imagination into visuals anytime, anywhere with Stable AI.\n\nA subscription is requi"
+  },
+  "com.nbaimd.gametime.nba2011": {
+    "title": "NBA: Live Games & Scores",
+    "package": "com.nbaimd.gametime.nba2011",
+    "description": "The NBA App is your home for the season.\n\n\nTap to watch live games and get free, instant access to the latest schedule, scores, highlights, news, and behind the scenes stories from across the National Basketball Association.\n\nIn the free NBA App, fans get access to:\n- Live scores, stats and standings \n- The latest basketball news, highlights, game previews and recaps.\n- The full season schedule and details on where to watch every NBA game*\n- Stories from across the NBA to bring you closer to the action.\n- Live channels streaming around the clock basketball coverage, highlights, studio shows, and more.\n- Personalized live updates on your favorite teams and players\n- Live free access to postgame press conferences after every game\n- Play free games to test your basketball knowledge with NBA P",
+    "icon": "/icons/com.nbaimd.gametime.nba2011.png"
+  },
+  "com.nbow.alarmclock": {
+    "title": "Alarm Clock For Heavy Sleepers",
+    "package": "com.nbow.alarmclock",
+    "description": "\u23f0 Wake Up on Time - Every Day\nWake up on time every day with the most reliable alarm clock for heavy sleepers with wake-up challenges. Whether you're someone who sleeps through multiple alarms or struggles to stay awake in the morning, this alarm clock is built for you. From powerful sound to task-based dismiss features, it's more than just a morning alarm clock, it's your personal wake-up assistant.\nThis intelligent alarm app helps heavy sleepers avoid the snooze trap. It is designed with various challenges to make sure you are alert before the alarm ends. You\u2019ll be surprised how effective it is once you set it to match your sleep habits. From mental math to barcode scanning, every feature is created to push you out of bed.\n\n\ud83d\udd25 Powerful Wake-Up Challenges That Work\nOne of the key reasons t",
+    "icon": "/icons/com.nbow.alarmclock.png"
+  },
+  "com.neon.logo.maker.neonlogomaker.neon.signs": {
+    "title": "Neon Logo Maker \u2013 Neon Signs",
+    "package": "com.neon.logo.maker.neonlogomaker.neon.signs",
+    "description": "Neon logo maker \u2013 Neon Signs create and Design Neon Logos for your business and brand identity through neon logo maker \u2013 logo creator and designer application.\nNeon logo maker \u2013 logo creator and neon signs app is useful for making advertising neon logo, Business neon Logo and social media marketing neon Logo.\nNeon Logo Generator provides you default neon logos that you can use for free. Neon logo designing app has a lot of free shapes that users can be used in neon logos.\nNeon Logo Creator allows you for adding text to the neon logos and users can apply different colors on text with the help of neon logos. Neon logo designer app helps you for changing the logo background mean you can change the neon logo background through neon business logo app. In neon filter editor you can adjust text a",
+    "icon": "/icons/com.neon.logo.maker.neonlogomaker.neon.signs.png"
+  },
+  "com.neotv.app": {
+    "title": "Live TV Channels on NeoTV+",
+    "package": "com.neotv.app",
+    "description": "NEOTV+ is the ultimate fast TV app for Android devices, offering 250+ free, ad-supported live channels with no subscription required! Watch news, movies, sports, music, and kids\u2019 entertainment anytime, anywhere.\n\n\ud83d\udcfa What You Get:\n\u2714 Live News Coverage \u2013 Stay informed with top channels like Bloomberg, Bloomberg Originals, EuroNews, and Voice of America.\n\ud83c\udfac Movies & TV Shows \u2013 Enjoy thrilling movies and binge-worthy series.\n\u26bd Live Sports \u2013 Watch the action on Goal TV and other sports channels.\n\ud83c\udfb5 Music & Entertainment \u2013 Non-stop hits on Trace Music and more.\n\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Crime & Adventure \u2013 Explore gripping stories on CrimeFLIX.\n\ud83d\udc3e Wildlife & Nature \u2013 Discover the beauty of nature on Wild TV.\n\ud83d\udc67 Kids' Channels \u2013 Fun and educational programming for all ages.\n\nNEOTV+ is completely free, requiring no sign-u",
+    "icon": "/icons/com.neotv.app.png"
+  },
+  "com.nerezza.stickerly": {
+    "title": "Custom Sticker Maker -Stickify",
+    "package": "com.nerezza.stickerly",
+    "description": "Custom Sticker Maker -Stickify\n\nCreate stickers using your own photos with this powerful Stickify creation tool. Our Sticker Maker allows you to transform images into custom chat decorations in just a few taps.\nPowerful Features for Sticker Creation:\n\n\u2705 Photo Sticker Editor: Create personalized stickers by selecting images from your gallery. Our editor includes tools to crop, rotate, and flip photos for the perfect look.\n\n\u2705 Automatic Background Remover: Use the \"Auto-Cut\" feature for instant background removal. For detailed editing, the manual background eraser allows for precise cutouts of faces, pets, or objects.\n\n\u2705 Custom Sticker Packs: Organize your designs into categorized sticker packs. You can easily manage multiple packs and export them to preferred social app with a single tap.\n\n\u2705",
+    "icon": "/icons/com.nerezza.stickerly.png"
+  },
+  "com.netigen.bestmirror": {
+    "title": "Phone Mirror app - True Mirror",
+    "package": "com.netigen.bestmirror",
+    "description": "\ud83d\udc87\u200d\u2640\ufe0f Mobile Mirror App: Your Ultimate Beauty Companion! \ud83d\udc84\nTransform your phone into a versatile, all-in-one beauty mirror app with a free Mirror app! This isn't just another mirror camera app \u2013 it's your new beauty BFF, ready to help you look your best anytime, anywhere.\n\nMirror Camera is the ultimate free mirror app designed to meet all your needs. A mirror, also called a miroir, is an ideal solution for busy people. It's not just a miroir; it's a beauty makeup partner!\n\n\ud83c\udf1f True Mirror Experience: Get a fantastic reflection that feels like you're looking into a high-quality face mirror. Perfect for makeup application, hair styling, or just checking your look. This true mirror ensures you always have a clear and accurate reflection. \n\n\u2728 Magnifying Mirror: Zoom in with precision to ensure ev",
+    "icon": "/icons/com.netigen.bestmirror.png"
+  },
+  "com.netsells.yourparkingspace": {
+    "title": "YourParkingSpace - Parking App",
+    "package": "com.netsells.yourparkingspace",
+    "description": "YourParkingSpace is the simple way to pre-book your parking, across the country. \n\nYourParkingSpace is the solution for all your parking needs, finding and booking parking just got easier. Join the millions of drivers using our platform to save time and money by booking their parking in advance. With over 700,000 spaces to book across the country, you\u2019ll be sure to find your perfect space. Our app offers a wide range of parking solutions to suit your needs meaning you can book your space for a few hours, or secure it for a few months.\n\nSearch, book, and park with YourParkingSpace, across the UK. Find parking near you. \n\nWhy Choose YourParkingSpace?\n\n-Wide Selection: Access our network of over 700,000 spaces across the UK, including city centres, airports, stadiums, and event venues. \n-Affo",
+    "icon": "/icons/com.netsells.yourparkingspace.png"
+  },
+  "com.netxsoft.idphotopro": {
+    "title": "ID Photo Pro: Passport & Visa",
+    "package": "com.netxsoft.idphotopro",
+    "description": "Your Professional ID Photo Studio \u2014 Right in Your Pocket.\n\nSkip the expensive photo studio and the long queues. ID Photo Pro allows you to create high-quality, compliant passport, visa, and ID photos in seconds. Using advanced AI, the app handles the technical work so you can focus on your day.\n\nPrivacy First: 100% Local Processing Unlike other apps, ID Photo Pro respects your data. All image processing happens directly on your device. Your photos are never uploaded to the cloud or stored on external servers. Your biometric data stays with you.\n\nAI Background Removal No need for a white wall! Our smart AI automatically detects your silhouette, removes the messy background, and allows you to replace it with the exact color required by official regulations (White, Blue, Grey, etc.).\n\nKey Fea",
+    "icon": "/icons/com.netxsoft.idphotopro.png"
+  },
+  "com.neupanedinesh.coolcaptions": {
+    "title": "Captions for Photos",
+    "package": "com.neupanedinesh.coolcaptions",
+    "description": "Captions For Pictures Creator!\nSay hello to Captions for Pictures, the ultimate caption generator and quote maker app for Instagram and other social media platforms. With its user-friendly interface, Captions for Pictures provides an extensive collection of Instagram Captions for stories and posts and photo captions for other social media!\ud83d\ude0e\n\nAmazing Status and Quotes Categories:\ud83d\ude4c\n\u2b50Happiness;\n\u2b50Cool;\n\u2b50Funny;\n\u2b50Inspiring;\n\u2b50Life;\n\u2b50Love;\n\u2b50Savage;\n\u2b50Friendship...and many more!\n\nCaption Generator Categories!\ud83d\udca5\nWith various categories to choose from, including happiness, cool, funny, inspiring, life, love, party, flirty, and many others, Instagram Captions has a quote for every occasion. So whether you are celebrating a birthday party or posting a breathtaking scenery photo, you can find a perfect ph",
+    "icon": "/icons/com.neupanedinesh.coolcaptions.png"
+  },
+  "com.neupanedinesh.coolfonts": {
+    "title": "Fonts - Fancy Fonts Art",
+    "package": "com.neupanedinesh.coolfonts",
+    "description": "Stylish Text Fonts App - Elevate Your Text Game!\nDiscover the ultimate tool for transforming text with the Stylish Text Fonts App. Whether you want to add a touch of elegance, fun, or creativity to your messages, the Fancy Text Changer is your go-to solution. This Font Generator App offers an extensive collection of fancy fonts and text styles, perfect for social media enthusiasts and anyone looking to spice up their digital communication.\n\nUnlock a world of typography with the Fancy Fonts Art feature, providing endless possibilities to customize your writing. The Fancy Text Changer: Cool Fonts Swap is designed to make your messages stand out.\n\n\ud83d\udcdc Stylish Text Fonts App Key Features: \ud83d\udcdc\n\ud83c\udfa8 Wide Range of Fancy Fonts Art;\n\ud83d\udd04 Easy-to-use Fancy Text Changer;\n\ud83d\udd20 Versatile Font Generator App;\n\ud83d\udd0d Effic",
+    "icon": "/icons/com.neupanedinesh.coolfonts.jpg"
+  },
+  "com.neupanedinesh.fonts.fontskeyboard": {
+    "title": "Fonts Aa - Keyboard Fonts Art",
+    "package": "com.neupanedinesh.fonts.fontskeyboard",
+    "description": "Fonts Keyboard is a keyboard fonts app that lets you type in 40+ letter styles, symbols, and emojis. It contains a lot of aesthetic fonts, cool keyboards, and text-decoration styles that you can directly use from the keyboard. You can use the fonts app for all social media apps. Fonts are available with other modern letter fonts. \u2714\ufe0f\n\nBeautiful Fonts Art - Keyboard Fonts\nFonts Aa - Keyboard Fonts App helps you create unique-looking posts & stories with highlights with fancy keyboard fonts and symbols, and it's completely FREE.\n\nUse Custom Keyboard Fonts Easily!\nTop Features for You:\n\u2714 Stylish text changer and cool fonts\n\u2714 Keyboard Emojis Fonts: Tons of emojis with text emoji/emoticons\n\u2714 Great collection of cool symbols and aesthetic fonts\n\u2714 Easy keyboard switch and fonts arrangement - insta",
+    "icon": "/icons/com.neupanedinesh.fonts.fontskeyboard.png"
+  },
+  "com.neupanedinesh.fonts.stylishletters": {
+    "title": "Letter Fonts - Stylish Text",
+    "package": "com.neupanedinesh.fonts.stylishletters",
+    "description": "Letter Fonts - Stylish text\nDo you want to change your messages and social statuses into works of font art? Do you want your posts to look unique with cool fonts and fancy keyboard? This font generator and font changer will help you achieve this!\n\nIncredibly Stylish Fonts and Fancy keyboard for social media!\n\ud83d\udca5Cool Fonts Generator - Text Changer Tool\ud83d\udca5\nLetter Fonts Style Changer for Android app lets you type with stylish text and symbols that you can use everywhere on your social media like Instagram, Facebook, WhatsApp, and others. Your social media statuses will always look different with this font generator app. Create beautiful bios and captions with our cool fonts and stylish text collection. Everybody will be amazed by your incredible font art - a font changer.\n\n\u2728Stylish Text Generator",
+    "icon": "/icons/com.neupanedinesh.fonts.stylishletters.png"
+  },
+  "com.neuragrass.filterai": {
+    "title": "AI Video Generator: Filter",
+    "package": "com.neuragrass.filterai",
+    "description": "Want to create realistic AI videos and photos that follow the latest trends? Now, you can turn imagination into viral videos and photos with Filter AI! You can generate high-quality videos, swap faces, and design creative content in seconds. Filter AI helps you transform your imagination into engaging videos and photos that are ready to go viral.\n\nCreate AI Videos Instantly\n\n- Generate ultra-realistic AI videos in seconds\n- Generate realistic videos from text prompts or images\n- Use Text to Video or Image to Video modes for fast results\n- Bring photos to life with motion, expressions, and cinematic effects\n- Transform yourself into iconic characters, scenes, and trending styles. Explore viral video templates like Mermaid, Fly High, Dances and more\n- Bring photos to life with motion and per",
+    "icon": "/icons/com.neuragrass.filterai.png"
+  },
+  "com.neuralfulai.bulk.color.images.bulk_colorizer": {
+    "title": "Restore AI : Old photo repair",
+    "package": "com.neuralfulai.bulk.color.images.bulk_colorizer",
+    "description": "Don't let precious memories fade away! Restore AI is your powerful AI Photo Enhancer tool, specializing in high-quality photo restoration. Bring faded, damaged, or blurry photos back to stunning clarity with just a tap. Experience the magic of advanced photo restoration technology designed to preserve your history.\n\nWhat Restore AI offers:\n\n\ud83e\udd16 AI Photo Restoration & Enhancement: Our core feature performs incredible old photo restoration! Instantly restore photos, fix blurry photos, dramatically improve image clarity with AI, enhance image details, remove noise, and boost overall quality. See faces and fine details clearly again with our powerful AI enhancer.\n\n\ud83c\udfa8 AI Colorize & Correct Photos: Magically colorize photos that are black & white or faded! Our AI adds realistic, vibrant colors. Plu",
+    "icon": "/icons/com.neuralfulai.bulk.color.images.bulk_colorizer.png"
+  },
+  "com.neuralfulai.superresolution.ai.upscale": {
+    "title": "Upscale: Enhance photo quality",
+    "package": "com.neuralfulai.superresolution.ai.upscale",
+    "description": "Upscale AI: Premier AI Photo Enhancer & Image Upscaler\n\nStruggling with low-quality images? Upscale AI is the powerful ai photo enhancer you need! Enhance photo quality, restore details, and fix blurry photo problems using cutting-edge AI. Our app is more than a standard image upscaler; it's a complete solution for superior quality enhancement and ultimate photo clarity. Ready to unblur photo files? This versatile enhancer makes it simple. Get the best picture enhancement and experience the future of ai photo enhancement with this leading ai enhancer!\n\nChoose Your Upscale Factor (1X to 10X)\n\nGain precise control over image resolution. Upscale AI offers flexible magnification:\n\n1X Upscale: Subtle quality enhancement.\n2X Upscale: Double resolution to enhance photo clarity via our image upsca",
+    "icon": "/icons/com.neuralfulai.superresolution.ai.upscale.png"
+  },
+  "com.neuralprisma": {
+    "title": "Prisma Art Effect Photo Editor",
+    "package": "com.neuralprisma",
+    "description": "*** Google Editor\u2019s choice ***\n*** 120+ Million users ***\u2028\n\nPrisma is a photo editor app that creates amazing photo effects transforming your images into paintings. Using Prisma\u2019s art filters you can make your photo look as if Picasso, Munch, or even Salvador Dali himself painted it for you! Use this amazing photo enhancer to create a unique masterpiece. \n\nHUNDREDS OF STYLES AND ART EFFECTS\n\nYou'll find more than 500 filters and effects for pictures in Prisma\u2019s art filter library. Aesthetic photo editor Prisma has the largest collection of different artistic styles including blur, ornament, embroidery, and many more to choose from.\nFind your favorite one!\n\nNEW ART FILTER EVERY DAY\n\nPrisma releases a new art filter every single day. Just open the app and you'll be sure to find a new awesome",
+    "icon": "/icons/com.neuralprisma.png"
+  },
+  "com.neuralsound.musicseparation": {
+    "title": "Vocal Music Separator AI",
+    "package": "com.neuralsound.musicseparation",
+    "description": "Vocal Music Separator AI is a powerful vocal remover and music stem splitter that separates vocals, bass, drums and instruments from any song or video with professional accuracy. Using advanced artificial intelligence models, the app creates clean instrumentals, isolated vocals, karaoke tracks and full multitrack stems in just a few seconds. It is designed for singers, musicians, producers, DJs and content creators who want reliable, high-quality audio separation without the complexity of studio software.\n\nThe app uses state-of-the-art AI trained on diverse genres such as pop, rock, hip-hop, EDM, jazz, classical, gospel and acoustic music. This allows the system to handle simple and complex mixes while preserving clarity and reducing distortion. Unlike traditional vocal removers that rely ",
+    "icon": "/icons/com.neuralsound.musicseparation.png"
+  },
+  "com.newapp.emoji.keyboard": {
+    "title": "Emoji Keyboard 2025",
+    "package": "com.newapp.emoji.keyboard",
+    "description": "Upgrade the way you type with the Emoji Keyboard 2025 App for Android, now featuring an improved typing experience with plenty of customization features. Elevate your conversations with our vibrant keyboard designed to enhance your WhatsApp, Facebook Messenger, SMS, Instagram, TikTok, Snapchat interactions.\n\nMessaging your friends just got way more exciting with our AI-powered chatbot TappaText, your favorite typing assistant for drafting texts, emails, social media captions, and so much more. Plus, enjoy this keyboard\u2019s selection of backgrounds and themes, exclusive emojis, and in-keyboard browser. \n \n\nTop Keyboard Features: \n\n\u2605  TappaText - use the AI-powered chatbot to write resumes, emails, texts and social media captions. \n\n\u2605  Themes - create the best keyboard style for you by choosin",
+    "icon": "/icons/com.newapp.emoji.keyboard.png"
+  },
+  "com.newbackground.animeglowartwallpaper": {
+    "title": "Anime Live Wallpaper HD 4K",
+    "package": "com.newbackground.animeglowartwallpaper",
+    "description": "Anime Live Wallpaper HD 4K : Collection Of High Quality Anime Live Wallpapers 4K. For Those Of You Who Like And Love Anime, You Have To Try This Anime Live Wallpaper Application. This Anime Live Wallpaper HD 4K App Provides Lots Of Anime Live Wallpaper Images With Good And Complete Quality Which Makes Your Phone Even Cooler. The Anime Live Wallpaper 3D Application Has Very Good Image Quality And Is Also A Complete Anime Girl Live Background Application And Very Easy To Use, Just Choose The Image You Like And Install It On Your Phone. Don't Miss The Anime Girl Live Wallpaper And Anime Boy Live Wallpaper With Very High Quality Which Are Suitable For Making Your Smartphone Cool.\n\nDESCLAIMER :\nThe content in this app is not affiliated with, endorsed, sponsored, or specifically approved by any ",
+    "icon": "/icons/com.newbackground.animeglowartwallpaper.png"
+  },
+  "com.newkings.kingsimageresizer": {
+    "title": "Image Compressor & Resizer",
+    "package": "com.newkings.kingsimageresizer",
+    "description": "Image Compressor & Resizer is your all-in-one photo utility tool. Whether you need to reduce image file size, change photo dimensions, crop pictures for social media, or convert image formats, this app handles everything directly on your device with lightning speed.\n\n\ud83d\udd12 100% Secure\nYour privacy is our absolute priority. Unlike other tools, we do not upload your photos to any remote server or cloud. All image compression, resizing, and conversion happen locally on your mobile device. Your data never leaves your phone, ensuring complete security and peace of mind.\n\n\n\n\u2699\ufe0f Core Features:\n\n\ud83d\udcc9 Image Compressor\n\nReduce photo file size quickly to save storage space or meet web upload limits.\n\nQuality Slider: Fine-tune the exact compression level to balance file size and visual fidelity.\n\nResolution C",
+    "icon": "/icons/com.newkings.kingsimageresizer.png"
+  },
+  "ai.arqx.arqjewelry": {
+    "title": "ARQ Jewelry Design",
+    "package": "ai.arqx.arqjewelry",
+    "description": "We turn luxury shopping into a creative journey, making custom jewelry affordable & accessible to everyone. ARQ lets you design, visualize, then receive your own custom pieces right at your doorstep.\nWhy Choose ARQ?\n- Empower Your Creativity: Whether you\u2019re tapping into your artistic side for the first time, or awakening your long-dormant inner designer, ARQ is the right place to start.\n- Fun and Fulfilling: If you\u2019re tired of mindless \u201cscroll-shopping\u201d or buying one-time wears, ARQ offers a refreshing & engaging alternative. Designing with ARQ isn\u2019t just shopping; it\u2019s an enriching experience that feeds the soul & gives you style you\u2019ll treasure for a lifetime.\nKey Features\n- High-Quality Real Fine Jewelry: Easily create your pieces using premium materials like 10-18kt gold, silver, plati",
+    "icon": "/icons/ai.arqx.arqjewelry.png"
+  },
+  "ai.boyfriend.app": {
+    "title": "AI Boyfriend: BF Chat App 18+",
+    "package": "ai.boyfriend.app",
+    "description": "AI Boyfriend is here to revolutionize the way you interact with virtual companions. \n\n\ud83d\udc91 Imagine a chatbot boyfriend that's always ready to engage in playful banter, send you personalized pictures, dive into entertaining chats with the utmost discretion, and keep your spirits high with an endless stream of jokes. Sounds like a dream? \n\nWell, dream no more! Our virtual boyfriend app is designed to cater to your every mood, making sure you're never bored or lonely again. \ud83c\udf89\n\nWhy Fall for AI Boyfriend?\n\n\ud83d\udcf8Personalized Pictures: Get ready for picture messages that add a vivid layer to your conversations, making every chat more special. \u2728\n\n\ud83c\udf88Laughter Guaranteed: Who doesn't need a good laugh? Your AI Boyfriend is here with jokes to lift your spirits anytime. \ud83d\ude04\n\n\ud83d\udcacCompanionship 24/7: Lonely nights ar",
+    "icon": "/icons/ai.boyfriend.app.png"
+  },
+  "acupuncture.pointtips.pressure.accupressureyogapoints": {
+    "title": "Accupressure Yoga Point Tips",
+    "package": "acupuncture.pointtips.pressure.accupressureyogapoints",
+    "description": "Introducing the Accupressure Yoga Point Tips App, your comprehensive guide to acupressure therapy for holistic well-being. This powerful app provides a wide range of features and information to help you address various health concerns and promote overall wellness.\n\n***********************\nBody Points Features:\n***********************\n\nMost Popular Points Tips: \nDiscover the most sought-after and effective acupressure points that have gained popularity for their therapeutic benefits.\n\nAcupressure Points and Treatment for Weight Loss: \nLearn about specific acupressure points that can aid in weight loss efforts and support a healthy metabolism.\n\nInsomnia & Sleep Disorders Acupressure Points & Tips: \nFind acupressure points and valuable tips to alleviate insomnia and other sleep-related disord",
+    "icon": "/icons/acupuncture.pointtips.pressure.accupressureyogapoints.png"
+  },
+  "ai.boyfriend.love.partner.bf.romantic.virtual.dating.lover.relationship.companion": {
+    "title": "Jack: AI Boyfriend & Love Chat",
+    "package": "ai.boyfriend.love.partner.bf.romantic.virtual.dating.lover.relationship.companion",
+    "description": "Welcome to Jack, your romantic AI Boyfriend to have a daily romantic chat. Go on a virtual date, dinner date, or just a casual meetup with your loving AI Boyfriend.\n\nOur AI Boyfriend is available at any time you want 24/7, you can talk to him to relieve your stress throughout the day, and share your feelings, you can also ask about career advice, life advice, and even you can ask his opinions.\n\n\nWhat Virtual AI Boyfriend can do?\nAi Boyfriend can do anything you want like go on a virtual date, discuss anime, favorite travel destination, romantic songs, romantic movies, romantic actresses she likes, etc. AI Boyfriend never disappoints with you and is always there to take care of you. You can also ask him to write a lovely poem for you. He will do anything to make you (his girlfriend) feel lo",
+    "icon": "/icons/ai.boyfriend.love.partner.bf.romantic.virtual.dating.lover.relationship.companion.png"
+  },
+  "ai.apps.infoetec.essaywriter": {
+    "title": "Plus AI Essay Writing",
+    "package": "ai.apps.infoetec.essaywriter",
+    "description": "Transform your essay writing experience with Plus AI Essay Writing, the ultimate tool for generating high-quality, human-like essays. Our advanced AI technology ensures your essays are well-structured and perfectly articulated to meet any academic or professional standard.\n\nKey Features:\n\nProduce flawless essays with AI precision.\n\nCreate content that reads as if written by a human.\n\nEffortlessly generate essays tailored to your needs.\n\nGet essays that are coherent, logical, and engaging.\n\nWith our AI writer free tool, you can access basic features without any cost.\n\nLeverage AI for writing to enhance your writing efficiency and effectiveness.\n\nAI Essay Writing is designed for students, professionals, and anyone needing high-quality written content. Whether facing a tight deadline or striv",
+    "icon": "/icons/ai.apps.infoetec.essaywriter.png"
+  },
+  "ai.clothes.changer.dressup": {
+    "title": "AI Clothes Changer - Outfit",
+    "package": "ai.clothes.changer.dressup",
+    "description": "Transform your look effortlessly with AI Clothes Changer, the ultimate virtual wardrobe app. Experiment with different styles, outfits, and fashion trends without stepping into a store. Whether you're exploring casual, formal, traditional, or quirky attire, this app lets you try it all with the power of AI.\n\nFeatures:\n\u2022 AI-Powered Outfit Change: Replace your current outfit with a variety of clothing styles instantly.\n\u2022 Customizable Wardrobe: Choose from an extensive library of clothing categories, including casual wear, professional attire, ethnic outfits, and more.\n\u2022 Realistic Rendering: Enjoy high-quality results that look natural and fit perfectly.\n\u2022 Photo Editing Tools: Adjust colors, patterns, and more to personalize your look.\n\u2022 Share Your Style: Save and share your fashion transform",
+    "icon": "/icons/ai.clothes.changer.dressup.png"
+  },
+  "ai.connectplex.chatter": {
+    "title": "Chatter: Chat with AI Friends",
+    "package": "ai.connectplex.chatter",
+    "description": "Chatter lets you chat with and build artificial intelligence (AI) powered 'Chatter Bots'. These Chatter Bots can be based on real or fictional people or characters.\n\nIt's extremely easy to build Chatter Bots. These bots can have personality traits, descriptions and typical statements that you can suggest. You can build and share bots with your friends or with everyone on the Chatter platform.\n\nChatter is an AI-powered chat platform where you can interact with virtual characters in fun and creative ways. Explore AI-generated conversations, design unique chatbots, or simply chat for entertainment. With its AI photo generator, you can also create unique avatars for your bots.\n\nEngage with AI companions, including assistants, educators, and fictional personalities. Express creativity through i",
+    "icon": "/icons/ai.connectplex.chatter.png"
+  },
+  "ai.cover.song.voicify": {
+    "title": "AI Music Generator: Banger",
+    "package": "ai.cover.song.voicify",
+    "description": "Are you ready to transform your favorite songs into sensational new renditions?\n\n\n\u3010 BANGER APP : AI COVER SONGS \u3011\n\n\nIntroducing Banger App, the revolutionary AI-powered app that lets you create mesmerizing AI covers. Yep, you heard it right!\n\n\nGet ready to unleash your creativity, and amaze the world with your unique musical creations.\n\n\nKey Features:\n\n\n1. Seamless Vocal Replacement: Bangers's cutting-edge AI technology allows you to produce covers while preserving melody and rhythm for a natural and harmonious blend.\n\n\n2. Extensive Voice Library: Our app comes pre-loaded with an extensive collection of voices. Use these for your creations. The possibilities are endless!\n\n\n3. Share and Collaborate: Don't keep your amazing creations to yourself. Share your AI cover songs with friends, famil",
+    "icon": "/icons/ai.cover.song.voicify.jpg"
+  },
+  "ai.cover.suno.song.music": {
+    "title": "CoverX - AI Cover Song Maker",
+    "package": "ai.cover.suno.song.music",
+    "description": "CoverX AI: Your Ultimate Tool for AI-Powered Music Creation\n\n[Voice Changer / Vocal Replacement]\n\nWith CoverX AI, you can easily replace or swap the original vocals in any song with a voice template of your choice. Whether you prefer using your own custom voice template or selecting from our extensive voice library, Cover AI empowers you to make music that truly represents you. Choose from celebrity voices, cartoon voices, and a wide range of AI voices to create unique AI cover songs.\n\n[Train Your Own Voice]\n\nUnleash your creativity with CoverX AI's powerful voice training feature. Create a custom voice template that captures your unique vocal characteristics and style. Use this template to become the lead singer of any song you love. Sing your favorite hits with your own voice and bring a",
+    "icon": "/icons/ai.cover.suno.song.music.png"
   }
 }
