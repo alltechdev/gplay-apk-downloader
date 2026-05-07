@@ -55641,5 +55641,613 @@
     "package": "com.chartlens.aianalyzer",
     "description": "\ud83d\udcca ChartLens: AI Chart Analyzer\n\nThe fastest way to understand any chart. Snap a screenshot, upload an image \u2014 and let AI do the reading.\n\nChartLens analyzes chart screenshots and market chart images using multiple AI engines, giving you a clear, plain-language breakdown of what the chart is showing. From candlestick pattern recognition to technical indicator readings, ChartLens turns complex chart visuals into structured, easy-to-understand insights.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83e\udd16 MULTI-AI ENGINE POWER\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nChartLens is backed by the world's leading AI models:\n\u2022 ChatGPT (OpenAI)\n\u2022 Google Gemini\n\u2022 Claude (Anthropic)\n\u2022 DeepSeek\n\u2022 Llama\n\u2022 Grok\n\nSwitch between engines anytime. Compare perspectives. Get a second AI opinion on the same chart \u2014 all in one app.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
     "icon": "/icons/com.chartlens.aianalyzer.png"
+  },
+  "com.cheervinsky.scientificcalculator": {
+    "title": "Scientific Calculator Pro",
+    "package": "com.cheervinsky.scientificcalculator",
+    "description": "Scientific Calculator Pro is a fast, accurate, and beautifully designed calculator for everyday math, school, engineering basics, and quick scientific calculations. Built with a clean calculator-style layout, precise math logic, and modern Android technology.\n\n\ud83d\udd22 Core Calculator\n- Basic operations: +, \u2212, \u00d7, \u00f7\n- Parentheses, percentage, \u00b1, backspace, AC / C\n- Ans key for reusing the previous result\n\n\ud83d\udcd0 Scientific Functions\n- Trigonometry: sin, cos, tan + inverse functions via SHIFT\n- Logarithms: ln, log\n- Powers and roots: \u221ax, x\u00b2, x\u02b8\n- Scientific notation (Exp)\n- Mathematical constants: \u03c0, e\n\n\ud83c\udf9b Modes & Precision\n- DEG / RAD angle modes\n- Number formatting: NORM / SCI / ENG\n- Decimal precision control (DEC 0\u201312)\n- Visible SHIFT indicator for alternate functions\n\n\u2797 Fraction Calculator\n- Enter f",
+    "icon": "/icons/com.cheervinsky.scientificcalculator.png"
+  },
+  "com.chemistry": {
+    "title": "Chemistry",
+    "package": "com.chemistry",
+    "description": "Chemistry 5.1\n\n\ud83e\uddea The Chemistry application allows you to find chemical reactions and to solve the chemical equations with one or multiple unknown variables. You'll always have the Periodic Table of elements and Solubility table handy! And even the calculator of Molar Masses is now on your phone!\n\n\ud83d\udc69\u200d\ud83d\udd2c Do you want to know what kind of chemical reaction will happen if you mix certain substances? Or maybe you want to know what substance you need to get a desired reaction? With the Chemistry app, you can do both of those things and more! Not only can the app find the equations of chemical reactions, but it can also help you with organic and inorganic chemistry. The app will even draw the formulas for you! \n\n\ud83d\udc4b In addition to the equation solver, the app also comes with a few handy tables and cha",
+    "icon": "/icons/com.chemistry.png"
+  },
+  "com.chordai": {
+    "title": "Chord ai - learn any song",
+    "package": "com.chordai",
+    "description": "Chord ai uses recent advances in artificial intelligence (ai) to give you the chords of any song automatically and reliably. You won't need to look for the chords of a song on the web anymore!\n\nChord ai listens to the music played from your device, from any video/audio streaming service or played live around you, and detects the chords instantly. Then it shows you the finger positions to play the song on your Guitar, Piano or Ukulele.\n\nIt is a great tool for a novice to learn his favorite song and for an experienced musician to transcribe the details of a song when rare chords are played.\n\nChord ai includes:\n- Chord recognition (more precise than all other apps)\n- Beats and tempo detection (BPM)\n- Tonality detection\n- Lyrics recognition and alignment (karaoke-like alignment)\n\nChord ai has ",
+    "icon": "/icons/com.chordai.png"
+  },
+  "com.chunktech.fexi": {
+    "title": "AI Video Generator: Fexi AI",
+    "package": "com.chunktech.fexi",
+    "description": "Fexi AI: AI Video Generator - Smart AI Video Creator and Animation Studio\n\nFexi AI: AI Video Studio is powerful, easy, and fun. With our all-in-one video creation platform, you can instantly transform text, photos, or voice into professional-quality visuals. Whether you want to create cinematic shorts, explore creative edits, animate photos with Image to Video AI, or generate duet and couple dance videos with lip-sync effects, Fexi AI helps you go viral in seconds.\n\nDesigned for creators, influencers, marketers, educators, and storytellers, Fexi AI simplifies video production by combining advanced AI generation with intuitive editing tools. Create short films, reels, and viral dance edits without needing design or animation skills.\n\nWith Fexi AI, you can produce stunning visuals from a sim",
+    "icon": "/icons/com.chunktech.fexi.png"
+  },
+  "com.cisana.tabelline": {
+    "title": "Times tables fun",
+    "package": "com.cisana.tabelline",
+    "description": "Make multiplication fun for your kids! Our educational game app turns learning times tables into an exciting adventure. Watch your children master multiplication facts with interactive games, colorful graphics, and engaging challenges. They'll build strong math skills and confidence, all while having a blast!\n\nKey Features:\n\n- Times tables from 1 to 12.\n- Sequential or random order.\n- Learning mode for individual tables.\n- Training mode where you help a friendly pet by solving multiplication quizzes through play. Work on a single table or all of them, and choose the order of questions.\n- Includes detailed statistics and scores on the learning level achieved for each multiplication table, allowing parents to easily monitor their children's progress.\n- Competitive mode covering the entire mu",
+    "icon": "/icons/com.cisana.tabelline.png"
+  },
+  "com.civiltem.aipptmaker": {
+    "title": "AI PPT Maker: Slide Generator",
+    "package": "com.civiltem.aipptmaker",
+    "description": "Create Stunning Presentations in Seconds \u2013 Powered by AI\n\nStruggling to build presentations from scratch? Let AI PPT Maker handle the hard work. Whether you have a simple topic idea and turns your content into a fully formatted, editable PowerPoint (.pptx) presentation instantly.\n\nPerfect for Students, Educators, and Business Professionals who need to create slides on the go.\n\n\ud83d\ude80 KEY FEATURES:\n\n\u270d\ufe0f Topic to Slides Just enter a topic (e.g., \"History of AI\" or \"Marketing Strategies\"), select the number of slides, and watch as the app generates titles, bullet points, and structure for you.\n\n\ud83c\udfa8 Native Image Editor & Template Maker Don't settle for boring backgrounds. Use our built-in Image Editor to:\n\nImport your own images as slide backgrounds.\n\nAdd your company or school logo.\n\nOverlay custom t",
+    "icon": "/icons/com.civiltem.aipptmaker.png"
+  },
+  "com.ck.ai.video.background.changer.remover": {
+    "title": "Video Background Changer",
+    "package": "com.ck.ai.video.background.changer.remover",
+    "description": "Perfect App for Background Changes \u2013 Ideal for Videos, Reels, and  Shorts!\n\nElevate your video content with Video Background Changer\u2014the ultimate tool for transforming backgrounds effortlessly. Ideal for  Reels, Shorts, or any platform, this app is designed for professional-quality background changes.\n\nAI-Powered Backgrounds: Seamlessly swap video backgrounds with our advanced AI technology. No complex editing needed\u2014our system does the hard work for you.\n\nVideo Background Remover Instantly remove existing backgrounds, giving you the flexibility to place your subject anywhere with precision.\n\n\nGreen Screen Background Utilize the Green Screen Background feature to replace backgrounds with stunning visuals. Perfect for a professional touch using green screen (chroma key) technology.\n\nPowerfu",
+    "icon": "/icons/com.ck.ai.video.background.changer.remover.png"
+  },
+  "com.cl.logoMaker": {
+    "title": "Logo Maker : Logo Creator",
+    "package": "com.cl.logoMaker",
+    "description": "**Ai Logo Maker Graphic Designer \u2013 Your Ultimate Design Solution!**  \nAi logo maker and logo designer for business names, company brands, YouTube channel logos, social media logos, and online profile photos. Our AI logo generator and 10,000+ ready-made original logo templates help you create standout logo designs in minutes. **Maker Design Creator** is your all-in-one solution for quickly building professional branding. Whether you're a beginner or a **logo master**, this app helps you craft like a pro.\n\nThe Business Card Maker app is specially created for large-scale business owners who love crafty, minimalist logo designs. It\u2019s easy to use premade templates to edit and create logos with our powerful tool that includes thousands of elements and color combinations\u2014for free! Even a **logo m",
+    "icon": "/icons/com.cl.logoMaker.jpg"
+  },
+  "com.clanmo.europcar": {
+    "title": "Europcar - Car & Van Rental",
+    "package": "com.clanmo.europcar",
+    "description": "Pick up your hire directly from the airport, or anywhere around the worlds from our 5,300 stations in 133 countries. With a wide range of vehicles available for hire, Europcar gives you all the freedom and takes away the hassle. Book your vehicle now and get on the road! \n\nBook & Save on this car rental app\nMake, modify or cancel your booking around the clock with 24/7 availability.\nAdd 24-hour roadside assistance for a peace of mind.   \nBenefit from special offers & promotional rates across the world. \n\nCar hire made simple\nFind Europcar rental locations anywhere in the UK or abroad with GPS maps & directions.\nHave your car delivered to and collected from your house for ultimate convenience. \nDrive away in the model you love with our Model Choice cars. \nTake the stress out of navigation w",
+    "icon": "/icons/com.clanmo.europcar.png"
+  },
+  "com.clawify.glitchapps": {
+    "title": "Cat Identifier - Clawify",
+    "package": "com.clawify.glitchapps",
+    "description": "Clawify \u2013 Your Ultimate AI Cat Companion\n\nClawify is the all-in-one app for cat lovers! Instantly scan and identify cat breeds using advanced AI, organize your furry friend's photos in a personalized pet gallery, and create custom care plans tailored to your cat's needs.\n\nFeatures:\n\ud83d\udc31 AI Cat Identifier \u2013 Just snap a photo and let Clawify detect the breed in seconds.\n\ud83d\udcf8 Pet Gallery \u2013 Save and cherish your cat\u2019s best moments in one beautiful gallery.\n\ud83e\ude7a Care Plan Maker \u2013 Build custom health and care plans to keep your pet happy and healthy.\n\u2764\ufe0f Favorites \u2013 Bookmark your favorite cat breeds or pet memories for quick access anytime.\n\nClawify makes pet parenting smarter, easier, and more joyful. Whether you're a new owner or a lifelong cat lover, this app is your perfect companion.",
+    "icon": "/icons/com.clawify.glitchapps.jpg"
+  },
+  "com.cleaner.clean.phone.antivirus.cleanup.junk.storage.security": {
+    "title": "Phone Cleaner - Junk Cleanup",
+    "package": "com.cleaner.clean.phone.antivirus.cleanup.junk.storage.security",
+    "description": "Phone Cleaner - Junk Cleanup helps you manage storage and remove unnecessary files with a clean, easy-to-use experience.\n\n\ud83d\udd25 Key Features\n\n\u2714 Clean residual & cached files\n\u2714 Find and delete duplicate photos\n\u2714 Notification Cleaner\n\u2714 Battery Usage Manager\n\u2714 App Manager \u2013 Analyze and manage large or unused apps\n\u2714 Photo Compressor to save space\n\u2714 File & folder manager\n\n\ud83d\udcca Advanced App Manager & Storage Insights\n\nGet a clear overview of how your device storage is used across installed applications.\nEasily identify apps that take up significant space, review their usage patterns, and decide which ones you no longer need.\n\nThis feature helps you understand your device better by showing meaningful insights about installed apps, so you can manage storage more efficiently and keep your phone organized.",
+    "icon": "/icons/com.cleaner.clean.phone.antivirus.cleanup.junk.storage.security.png"
+  },
+  "com.cleaner.junkpro.quite": {
+    "title": "Cleaner Junk Pro",
+    "package": "com.cleaner.junkpro.quite",
+    "description": "Cleaner Junk Pro focuses on device maintenance, making complex operations achievable with a single tap.\n\n\u26a1 Junk File Cleanup:\n\nIntelligently scans and identifies system cache, residual files, useless installation packages, temporary data, and more, allowing for one-tap junk removal.\n\n\ud83d\udce5 Notification History Clearing:\n\nSay goodbye to a cluttered notification bar. Quickly clear accumulated application notifications.\n\n \ud83d\udcddBackground Process Management:\n\nEasily close unnecessary background processes.\n\nIn addition to basic cleanup, Cleaner Junk Pro integrates a range of practical features.\n\n\ud83d\udd0b Accurate Battery Status Check:\n\nDisplays detailed information about your device's battery, such as battery level and health status, helping you better plan charging and usage.\n\n\ud83d\udd0a Speaker Dust Remover:\n\nProvid",
+    "icon": "/icons/com.cleaner.junkpro.quite.png"
+  },
+  "com.zi.zivpn": {
+    "title": "ZIVPN Tunnel (SSH/DNS/UDP) VPN",
+    "package": "com.zi.zivpn",
+    "description": "ZIVPN: Your Ultimate Privacy Companion\n\nZIVPN is an all-in-one VPN app that ensures your online privacy and security with a comprehensive set of features and support for various protocols.\n\nFeatures:\n\n\u2611\ufe0f IP Hunter\n\u2611\ufe0f Payload Generator\n\u2611\ufe0f Apps Filter / Split Tunneling\n\u2611\ufe0f Custom DNS\n\u2611\ufe0f TCP No Delay\n\u2611\ufe0f Share SSH/VPN Connection\n\u2611\ufe0f Direct SSH and SSH through HTTP Proxy\n\u2611\ufe0f Custom Request Header\n\u2611\ufe0f Host Checker\n\u2611\ufe0f Slow DNS Checker\n\u2611\ufe0f Auto Replace Response\n\u2611\ufe0f Free unlimited VPN Server\n\u2611\ufe0f Export/Import Config\n\u2611\ufe0f No Root Required\n\u2611\ufe0f Boost Slow DNS Tunnel\n\nSupported Tunnel Types:\n\n\ud83d\udd12 SSH Direct\n\ud83d\udd12 SSH Through HTTP Proxy\n\ud83d\udd12 Slow DNS Tunnel (DNSTT)\n\ud83d\udd12 SSH SSL (Stunnel) Tunnel\n\ud83d\udd12 UDP Tunnel (Built-in Server)\n\ud83d\udd12 Psiphon Tunnel\n\ud83d\udd12 Lite VPN Tunnel\n\ud83d\udd12 SSH WebSocket (WS) Tunnel\n\ud83d\udd12 V2Ray / Xray \u2013\n\u2003\u2003\u2022 Support for proto",
+    "icon": "/icons/com.zi.zivpn.png"
+  },
+  "com.cleaner.phone.junk.files": {
+    "title": "Phone Cleaner - Clear Junk",
+    "package": "com.cleaner.phone.junk.files",
+    "description": "Low storage space on your phone? Don't go anywhere, here is a phone cleaner and a clear junk app for your phone to clean storage.\n\nPhone Cleaner app helps you stay organized and clutter-free. Quickly delete junk files, large files, and clean storage space with ease. Phone Cleaner - Clear Junk is an Android cleaner designed to get space on your phone by removing junk files.\n\n\u25b8 AI phone clean scans your phone storage and removes unnecessary files instantly.\n\u25b8 Junk file cleaner to remove all junk with ease.\n\u25b8 Multi-language support makes the phone cleaner simple and accessible for everyone.\n\n \ud83d\udeae  Ai Junk Cleaner - Clear Junk: \nJunk Files Remover cleans the phone with a single tap on Android. Quickly remove temporary, residual, and junk files.\n\n \ud83e\uddf9 Phone Clean Up - Clean Files: \nPhone cleaner le",
+    "icon": "/icons/com.cleaner.phone.junk.files.png"
+  },
+  "com.cleanerflow.flow": {
+    "title": "Cleaner Flow",
+    "package": "com.cleanerflow.flow",
+    "description": "Cleaner Flow uses a minimalist design to easily remove junk files. It combines powerful cleaning features with an intuitive interface to keep your Android device tidy.\n\nWhy Cleaner Flow is the smart choice  \n\u2b50Easy operation, no complicated settings required\u2b50\n\u2b50Comprehensive functions to meet daily needs\u2b50\n\nCleaner Flow \u2013 Key Features\n\ud83d\udcf1 Clean, simple design for an effortless cleaning experience.  \n\ud83d\uddd1\ufe0f One tap to remove junk files from your device.  \n\ud83d\udd0b View current battery level and monitor battery stats.  \n\ud83e\uddf9Uninstall rarely-used apps in one click to free up storage.  \n\u2705Safe cleaning: important data stays untouched and sensitive info is never leaked.\n\nMore than a cleaner \u2013 a powerful cleanup function that guards your data while it cleans.",
+    "icon": "/icons/com.cleanerflow.flow.png"
+  },
+  "com.cleanertool.box": {
+    "title": "Cleaner Toolbox",
+    "package": "com.cleanertool.box",
+    "description": "Cleaner Toolbox is an Android cleaning tool.\n\nMain features:\nJunk Cleaner: Clean cache files, temporary files and residual files in the phone.\nBattery Information: Display basic battery information to help you understand the battery status.\nUninstall Apps: Select and uninstall apps you no longer need.\nBackground Processes: View and manage apps running in the background of your phone.\n\nCome and download Cleaner Toolbox!",
+    "icon": "/icons/com.cleanertool.box.png"
+  },
+  "com.cleanso.phone.junk.clean.app.ptl": {
+    "title": "Phone Cleaner-Junk Remover",
+    "package": "com.cleanso.phone.junk.clean.app.ptl",
+    "description": "Is your phone running out of storage or feeling cluttered?\n\nFeeling slow, messy, or overloaded with photos and apps you don't even use?\n\nJunk-Phone Cleaner helps you manage your phone again, clean junk files, handle storage space and bring back smooth, organized performance in just a few taps.\n\n\ud83d\udd39Clean Hidden Junk Files\nYour phone collects hidden cache, temporary files and system junk over time. Junk-Phone Cleaner finds and removes them so your storage is not wasted silently.\n\n\ud83d\udd39Tired of Duplicate Photos?\nSame selfies, repeated videos, forwarded files & they silently fill your gallery.\nOur app helps you quickly detect and remove duplicates so your gallery stays clean and organized.\n\n\ud83d\udd39See What\u2019s Eating your storage\nEver wondered where your storage is going? Now you can clearly see large files",
+    "icon": "/icons/com.cleanso.phone.junk.clean.app.ptl.png"
+  },
+  "com.cleantool.cleanpartner": {
+    "title": "Junk Cleaner - Cleanup Phone",
+    "package": "com.cleantool.cleanpartner",
+    "description": "Is your phone constantly low on storage? Fed up with clutter and unused files? Meet Junk Cleaner \u2013 your all-in-one solution to reclaim space and keep your Android organized. Clear cache, manage large files, and declutter your device in just a few taps.\n\nWhy You\u2019ll Love Junk Cleaner:\nSimple, fast, and effective \u2013 no complicated setup, just clear results.\n\nKEY FEATURES:\n\ud83d\uddd1\ufe0f Junk File Manager\nAutomatically scan and identify residual cache, temporary files, and other unnecessary data that builds up over time. Free up valuable storage with just one tap.\n\n\ud83d\udcf8 Screenshot Organizer\nTired of a messy photo gallery? Junk Cleaner groups your screenshots in one place, so you can quickly review or batch-delete unwanted ones. Keep your library organized effortlessly.\n\n\ud83d\udcc1 Large File Finder\nFind out exactly wh",
+    "icon": "/icons/com.cleantool.cleanpartner.png"
+  },
+  "com.clickandboat.androidphone": {
+    "title": "Click&Boat \u2013 Yacht Charters",
+    "package": "com.clickandboat.androidphone",
+    "description": "Click&Boat is the leader in boat rentals, allowing all sailing enthusiasts to enjoy unique adventures on the water with friends or family. With more than 55,000 boats available in over 100 countries, you can easily compare and book your ideal boat: sailboat, catamaran, yacht, motorboat, and more. Whether for a day or a full vacation, with or without a skipper, enjoy a tailor-made experience. Even without a license, you can find the perfect boat for your sea getaway and enjoy activities such as fishing, water skiing, snorkeling, or a relaxing boat tour.\n\n\u27a4 Sail anywhere in Europe and around the world\n\nReady to explore the most beautiful maritime regions by boat? From Corfu or Mykonos in Greece, set off to discover breathtaking coastlines and crystal-clear waters. Rent a catamaran and enjoy ",
+    "icon": "/icons/com.clickandboat.androidphone.png"
+  },
+  "com.clokio.app.attendance": {
+    "title": "Clokio: Employee Time Clock",
+    "package": "com.clokio.app.attendance",
+    "description": "Clokio \u2013 Smart Attendance System for Businesses of All Sizes\nClokio is an advanced employee attendance management app designed for modern organizations. It allows employees to clock in, clock out, and log breaks using face recognition and GPS location \u2013 while giving managers powerful tools to monitor and control work hours.\n\n\ud83c\udfaf Key Features:\n\u2022 One-tap clock in/out with optional face recognition and location verification\n\u2022 Support for multiple departments and branches\n\u2022 Customizable reports for tracking work hours, overtime, and break times\n\u2022 Simple and efficient employee management\n\u2022 Multi-country support with local calendar and workweek settings\n\u2022 Secure and encrypted access\n\nNote: This app is only for employees registered via the Clokio Admin Panel. You need login credentials from your or",
+    "icon": "/icons/com.clokio.app.attendance.png"
+  },
+  "com.cloudbeats": {
+    "title": "CloudBeats Cloud Music Player",
+    "package": "com.cloudbeats",
+    "description": "Take control over your music and enhance your music listening experience with CloudBeats \u2013 cloud music player.\nWhether you need an offline cloud music player listener, or a music cloud player to sync all your music albums and download mp3 songs on multiple devices, this mp3 cloud music player and downloader is the only app you need. \n\nAll you audiophiles and die-hard music fans finally have a simple app that will organize and play your vast music collection the way you want it. Anywhere. Anytime.\n\nDownload CloudBeats \ud83c\udfa7 it\u2019s the easiest way to organize, stream & play your music on the cloud.\n\n\u2601\ufe0fCLOUD MUSIC PLAYER\u25b6\ufe0f\n\u25cf Works with the popular cloud services for music streaming: Dropbox, Google Drive, OneDrive, OneDrive for Business, Box, pCloud, HiDrive. Personal clouds that support webDAV, in",
+    "icon": "/icons/com.cloudbeats.png"
+  },
+  "com.cloudbeatsbooks": {
+    "title": "CloudBooks audio book player",
+    "package": "com.cloudbeatsbooks",
+    "description": "Take control over your listening experience with \nCloudBooks \u2013 cloud audio book player.\nListen to your audiobooks, podcasts, lectures and other audio files anywhere directly from Google Drive, DropBox, OneDrive and more. Save space on your device as you no longer need to keep large audio files on your phone.\n\nCloudBooks \ud83c\udfa7 it\u2019s the easiest way to organize, stream & play your audio books on the cloud.\n\n\u2601\ufe0fCLOUD BOOKS PLAYER\u25b6\ufe0f\n\u25cf Works with the popular cloud services for audio files streaming: Dropbox, Google Drive, OneDrive, OneDrive for Business, Box, pCloud, HiDrive. Personal clouds that support webDAV, including ownCloud and NextCloud. Network-Attached Servers (NAS) by Synology, QNAP, Western Digital (WD) and others that support webDAV protocol. These integrations make our cloud audio books",
+    "icon": "/icons/com.cloudbeatsbooks.png"
+  },
+  "com.clovers.rizz": {
+    "title": "Rizz - AI Dating Assistant",
+    "package": "com.clovers.rizz",
+    "description": "Discover a new way to communicate and connect with your partner\u2014no matter how different your styles may be. Rizz is a smart AI-powered relationship assistant, designed to help couples master any conversation, express feelings more clearly, and deepen their bond.\n\nWith Rizz, you\u2019ll never run out of ideas for meaningful messages or creative replies. Our advanced AI analyzes both your style and your partner\u2019s preferences, offering tailored suggestions for every situation\u2014from lighthearted chat to deep, emotional conversations. Whether your partner responds best to logic, empathy, humor, or directness, Rizz adapts in real time to make your interactions smoother and more engaging.\n\nRizz helps couples overcome common communication barriers, avoid misunderstandings, and resolve conflicts faster. ",
+    "icon": "/icons/com.clovers.rizz.jpg"
+  },
+  "com.cobragames.idle.subway.tycoon.train.station.empire.underground.railway.tran.railroad.simulator": {
+    "title": "Idle Metro Tycoon Subway Train",
+    "package": "com.cobragames.idle.subway.tycoon.train.station.empire.underground.railway.tran.railroad.simulator",
+    "description": "Welcome to \"Idle Subway Tycoon\" the ultimate transport tycoon game that lets you build your very own subway empire! Get ready to dive into the world of railroad management.\n\nExpand the hall, upgrade the station and service facilities, get more trains and arrange the metro schedule.\n\nAttract more passengers, provide the best waiting experience for people, unlock more metro lines, and provide comfortable trips.\n\nUnlock new metro trains to maximize ticket revenue and profit. There are more than 20 metro trains in the game and all of them you can unlock without paying real money.\n\nHire an offline manager for your underground station, keep it running in your absence, and reap the profits.\n\nFeatures:\n\u2022 Simple and casual gameplay for every player\n\u2022 Real-time gameplay with idle game mechanics\n\u2022 Co",
+    "icon": "/icons/com.cobragames.idle.subway.tycoon.train.station.empire.underground.railway.tran.railroad.simulator.png"
+  },
+  "com.cobragames.subway": {
+    "title": "Train Simulator: subway, metro",
+    "package": "com.cobragames.subway",
+    "description": "All fans of the subway simulator games, wishing to become real train drivers and enthusiasts who want to get experience and emotion from driving a real city train in the metro simulator, unite!\n\nIn the city's simulation subway urgently needs a train driver with no experience, there is no one to be found, there are only idle people everywhere. Passengers can't get to the right stations. The game combines elements of train simulator, role play, interactive games, driving games and building. The game is not for idle players, but for responsible players who are ready to drive a train, repair, customize and upgrade, and acquire new trainz. Acquire and explore new subway stations and upgrade your experience of riding the railway. Before you start driving, you should study the job description on ",
+    "icon": "/icons/com.cobragames.subway.png"
+  },
+  "com.coddykit.pronounceit": {
+    "title": "English Pronunciation AI",
+    "package": "com.coddykit.pronounceit",
+    "description": "English Pronunciation AI is a powerful AI English tutor designed to help you speak English confidently and improve your pronunciation faster than traditional learning methods. If you want to learn English speaking, practice your accent, and develop clear communication skills, this app provides the perfect pronunciation practice environment powered by artificial intelligence.\n\nLearning correct english pronunciation can be difficult without a teacher. Many learners know vocabulary and grammar but still struggle when they try to speak English fluently. With English Pronunciation AI, you get a smart AI pronunciation trainer that listens to your speech and helps you improve your english accent step by step.\n\nOur advanced AI analyzes how you speak English, detects mistakes in your pronunciation,",
+    "icon": "/icons/com.coddykit.pronounceit.png"
+  },
+  "com.codebaysolutions.lodgify": {
+    "title": "Lodgify - Vacation Rental App",
+    "package": "com.codebaysolutions.lodgify",
+    "description": "Oversee all your bookings, update your calendar and connect with your guests. Our intuitive app will help you run your short-term rental business from anywhere, whether you manage one property or 100!\nHow can the Lodgify app help you manage your vacation rental business? For starters, you will get a push notification every time you get a new booking. Therefore, you can easily keep track of any changes in your calendar.\nYou can also access your calendar to check your availability for all your properties, create new closed periods and bookings for your vacation rental, review any guest details and quotes, and even contact your upcoming guests by sending automated messages!\nBasically, you won\u2019t have to be at your desk anymore to properly run your vacation rental business! Do you want to give ",
+    "icon": "/icons/com.codebaysolutions.lodgify.png"
+  },
+  "com.codeclickers.bubblelevel": {
+    "title": "Bubble Level",
+    "package": "com.codeclickers.bubblelevel",
+    "description": "The bubble level indicates whether a surface is horizontal or vertical \n\nA bubble level, spirit level or simply a spirit is easy to use, stylish & accurate. It is a tool designed to indicate whether a surface is horizontal (level) or vertical (plumb).\n\nThe Bubble Level app is accurate, simple to use and an incredibly useful tool. Hold any of the phone's four sides against an object to test it for level or plumb, or lay it down on a flat surface for a 360\u00b0 level. \n\nThe Bubble Level app tries to imitate the real bubble or spirit level and displays the phone\u2019s data as a real level would.\n\n\u27a4 Features:\n- Horizontal & vertical level tool \ud83e\uddf0\n- Manual calibration & reset functions \ud83c\udf9b\ufe0f\n- Dark mode & light mode \ud83d\udca1\n- Bubble level & bull's eye level\ud83c\udf9a\ufe0f\n\n\n\u27a4 17 Languages \ud83c\udf10\n- English \ud83c\uddec\ud83c\udde7\n- Ukrainian \ud83c\uddfa\ud83c\udde6\n- Arab",
+    "icon": "/icons/com.codeclickers.bubblelevel.png"
+  },
+  "com.codeinflamer.foodlogomaker": {
+    "title": "Food Logo Maker-Logo Designer",
+    "package": "com.codeinflamer.foodlogomaker",
+    "description": "Want to create your own LOGO?\nIntroducing Food Logo Maker, This Logo Creator app is useful for making Food Business Logo, advertising Logo, social media marketing Logo. No further Technical Knowledge needed.\n\nFood Logo Maker app really important to building your food business\u2019s brand reputation. When you\u2019re ready to create a logo for your business, this app gonna help you a lot to create your very own original and impressive logo with the help of this app. \n\nLogo Maker is also useful to create promotional posters, advertisement, offer announcements, cover photos, brochure, news letter & other branding material for your food shop, restaurant, office or social sites.\n\nLogo Maker includes a huge collection of categorized Art(Stickers), Graphic Elements, Shapes, Backgrounds & Textures to creat",
+    "icon": "/icons/com.codeinflamer.foodlogomaker.png"
+  },
+  "com.codememory.bugidentifier": {
+    "title": "Bug Identifier: AI Scanner",
+    "package": "com.codememory.bugidentifier",
+    "description": "Bug Identifier: AI Scanner - Instant Insect Intelligence\n\nTurn your phone into a powerful insect identification tool! Simply take a photo, and our advanced AI scanner will instantly recognize any bug, insect, spider, or animal species, giving you detailed biological information in seconds. Whether you're a nature lover, entomologist, biologist, or just curious about the creatures around you, this app makes insect identification effortless and accurate.\n\nHave you ever wondered about that fascinating beetle in your backyard? Or needed to identify a mysterious spider during your hike? With our AI insect scanner, you'll never have to guess again. Whether you're exploring nature trails, checking your home for pests, or discovering wildlife in your garden, this app delivers instant answers and e",
+    "icon": "/icons/com.codememory.bugidentifier.png"
+  },
+  "com.codememory.physicsai": {
+    "title": "Physics Ai: Study & Solve",
+    "package": "com.codememory.physicsai",
+    "description": "Snap a photo. Get the answer. Understand the physics.\n\nPhysics Ai is the smartest physics homework solver \u2014 just type your question or take a picture and get a step-by-step AI solution in seconds. Our physics problem solver breaks down every answer so you actually learn the concepts, not just copy them. Trusted by students from high school to college.\n\nHOW IT WORKS:\n1. Ask a Question \u2014 Type your physics problem or snap a photo from your textbook\n2. AI Solves It \u2014 Advanced AI analyzes and solves the problem instantly\n3. Learn Step by Step \u2014 Clear explanations help you understand physics concepts, not just the answer\n\nAI PHYSICS SOLVER:\n- Instant step-by-step solutions to any physics problem\n- Photo recognition \u2014 scan physics problems from textbooks, worksheets, or whiteboards\n- Covers mecha",
+    "icon": "/icons/com.codememory.physicsai.png"
+  },
+  "com.codenexgen.taximeter": {
+    "title": "Taximeter4U - Taximeter",
+    "package": "com.codenexgen.taximeter",
+    "description": "Taximeter4U is a most versatile, accurate, and user-friendly GPS-based app designed exclusively for taxi drivers like you. it's the ultimate tool to streamline your taxi operations, making distance and time metering and issue billing a breeze.\n\nWhy Choose Taximeter4U?\n\n\u2022 No internet requirement\n\u2022 Minimal battery consumption \n\u2022 GPS based distance calculation\n\u2022 Waiting time calculation\n\u2022 Trip pause option\n\u2022 Unlimited Tariffs\n\u2022 Tax computation\n\u2022 Print or share receipt\n\u2022 Trip History\n\u2022 Reporting\n\nHow to use:\n\n\u2022 Open the App, it will ask permission to enable GPS (Location).\n\u2022 Press OK button. \n\n*** Tariff Settings *** \n\n\u2022 Tap the settings icon at the bottom left corner.\n\u2022 Tap on 'Tariffs' from the settings options.\n\u2022 To add a new tariff, tap on the plus + icon at the bottom right.\n\u2022 To edit an ",
+    "icon": "/icons/com.codenexgen.taximeter.png"
+  },
+  "com.codeorigin.immersoai": {
+    "title": "Immerso: AI Style Studio",
+    "package": "com.codeorigin.immersoai",
+    "description": "Fashion isn\u2019t just something you buy\u2014it\u2019s something you create.\n\nWelcome to Immerso, the ultimate AI fashion studio built on the belief that everyone has a signature style waiting to be unleashed. We go beyond basic shopping. Immerso gives you the professional-grade tools to digitize your physical closet, design breathtaking looks, virtually try them on, and lead the next global trend.\n\nWhether you are an aspiring trendsetter or just want to master your daily aesthetic, your digital fashion empire starts here.\n\nTHE CREATOR STUDIO (Build Your Aesthetic)\nImmerso isn't just a utility; it's your creative workbench. Don't just plan outfits\u2014design them.\n\nPro-Level Styling: Mix and match items, add custom text, choose premium background gradients, and layer garments to create professional digital",
+    "icon": "/icons/com.codeorigin.immersoai.jpg"
+  },
+  "com.coderbin.app.qrmonkey": {
+    "title": "AI QR Scan & Generate \u2013 QRCode",
+    "package": "com.coderbin.app.qrmonkey",
+    "description": "Unlock the power of QR Scanner & QR Generator in one free app \u2014 QRCode Monkey offers seamless scanning, creating, and sharing of QR codes and barcodes with advanced features and full offline support.\n\nScan, create, and share QR codes effortlessly with QRCode Monkey, the ultimate free QR code scanner and generator app for Android. Whether you need to scan a barcode, generate a custom QR code, or share a link, QRCode Monkey has you covered. Fast, accurate, and easy to use, it\u2019s the perfect tool for your daily QR code needs.\n\nWhy Choose QRCode Monkey?\n\u2705 100% Free: No hidden costs, no ads, just a powerful QR code tool.\n\u2705 Fast & Accurate: Scan QR codes and barcodes in seconds with precision.\n\u2705 Custom QR Codes: Create stunning coloured QR codes with custom backgrounds and foregrounds.\n\u2705 Multi-La",
+    "icon": "/icons/com.coderbin.app.qrmonkey.png"
+  },
+  "com.codergautamyt.proposalgenerator": {
+    "title": "AI Proposal Writer",
+    "package": "com.codergautamyt.proposalgenerator",
+    "description": "Are you spending countless hours crafting proposals for your projects, business, or startup? Introducing AI Proposal Writer, the ultimate solution for effortlessly creating winning proposals in any format. Our powerful proposal generator boosts your chances of success and saves valuable time.\n\n## Key Features:\n\n- **\ud83d\udcdd Project Proposal Creation**\n- **\ud83c\udfe2 Business Proposal Creation**\n- **\ud83d\udcc8 Small Business Proposal Creation**\n- **\ud83d\udcb0 Funding Proposal Creation**\n- **\ud83c\udf7d\ufe0f Restaurant Proposal Creation**\n- **\ud83c\udfe6 Bank Loan Proposal Creation**\n- **\ud83e\uddf9 Cleaning Services Proposal Creation**\n- **\ud83e\udd1d Contract Services Proposal Creation**\n- **\ud83c\udfe0 Interior Design Services Proposal Creation**\n- **\ud83d\udcbc Investor Proposal Creation**\n- **\ud83c\udf89 Sponsorship Event Proposal Creation**\n- **\u2615 Coffee Shop Proposal Creation**\n\nAccess a wid",
+    "icon": "/icons/com.codergautamyt.proposalgenerator.png"
+  },
+  "com.codergautamyt.sketchai": {
+    "title": "Sketch AI - Drawing to Art",
+    "package": "com.codergautamyt.sketchai",
+    "description": "Turn your sketches into stunning, high-quality images with Sketch AI - Drawing to Image! Whether you\u2019re a professional artist, hobbyist, or someone who loves to doodle, our advanced AI-powered tool transforms your rough sketches into visually captivating artwork in seconds.  \n\nKey Features:  \n\n- **AI-Powered Image Generation** \u2013 Instantly convert your hand-drawn sketches into detailed images using cutting-edge artificial intelligence.  \n- **Multiple Art Styles** \u2013 Choose from a wide range of styles, including realistic, watercolor, anime, digital painting, and more to bring your vision to life.  \n- **User-Friendly Interface** \u2013 Simple and intuitive design that makes it easy for anyone to use\u2014no technical skills required!  \n- **Fast Processing** \u2013 Get high-quality results within seconds. Wa",
+    "icon": "/icons/com.codergautamyt.sketchai.png"
+  },
+  "com.codexception.interest_calculator": {
+    "title": "Compound Interest Calculator",
+    "package": "com.codexception.interest_calculator",
+    "description": "Simulate your investments and visualize the growth of your savings through the incredible power of compound interest. \n\nWhether you're an adept of the FIRE (Financial Independence, Retire Early) movement, planing to make a major purchase, or simply looking to understand how your money can grow over time to support a good retirement, this app will be a great asset in your journey for financial freedom.\n\nThis calculator is ideal for simulating fixed income investments, planning your savings, visualizing wealth evolution, and achieving retirement goals or financial independence plans.\n\nGetting started with the \"Basic Mode\" is easy: Just input the initial amount of money (if any), an optional monthly deposit, the interest rate and how much time you are planing to keep your capital invested. Th",
+    "icon": "/icons/com.codexception.interest_calculator.png"
+  },
+  "com.codeyup.hairstyles": {
+    "title": "Hair AI: Hairstyle Try On",
+    "package": "com.codeyup.hairstyles",
+    "description": "Hair AI is the smart way to try a new hairstyle or hair color before you commit. Upload a selfie and let our AI hairstyle generator preview realistic haircuts and trending colors on your own photo in seconds.\n\nStop guessing at the salon. Stop regretting the cut. See yourself first.\n\nWHY HAIR AI\n\n- Realistic AI hairstyle try on that matches your face, lighting, and skin tone\n- Curated libraries for men and women, from classic cuts to trending looks\n- Side-by-side compare so you can pick the perfect style with confidence\n- Save, export, and show your stylist exactly what you want\n- Private by design, your photos stay yours\n\nHAIRSTYLE TRY ON\n\nExplore a huge catalog of haircuts and hairstyles built for every face shape. Short, long, bob, pixie, layered, curly, wavy, straight, bangs, fringe, un",
+    "icon": "/icons/com.codeyup.hairstyles.png"
+  },
+  "com.codeyup.video3": {
+    "title": "AI Video Generator - Video3",
+    "package": "com.codeyup.video3",
+    "description": "Create AI videos in seconds from text or images. Turn your ideas into stunning animated videos. No editing skills needed ai video creator just type and generate.\n\nKEY FEATURES:\n\n\u25ba Text to Video\nJust describe the scene you imagine and watch our AI turn it into a high-quality video. Turn what you imagine into reality with Video3.\n\n\u25ba Image to Video\nBreathing life into your photos has never been easier. Upload a static image and use Photo revive AI to animate it make characters talk, animate landscapes, or create magical transformations.\n\n\u25ba AI Image Generator (Text to Photo)\nNeed a high-quality your image? Video3 is also a powerful AI photo generator. Create realistic images, anime video creator, and artistic visuals from text to use as a base for your videos or just to share.\n\n\u25ba AI Video Gene",
+    "icon": "/icons/com.codeyup.video3.png"
+  },
+  "com.codingguruji.descriptionwriter": {
+    "title": "AI Description Generator YT",
+    "package": "com.codingguruji.descriptionwriter",
+    "description": "Looking for the perfect words? AI Description Generator helps you create unique and catchy descriptions for your videos, products, and social posts in seconds!\n\nWhether you are a Content Creator, blogger, online seller, or social media manager \u2014 this AI Description Writer makes your work easier and faster.\n\n\u2728 Key Features\n\u2705 Easy to Use: Just enter a few keywords and let the AI Description Generator do the magic.\n\u2705 Multiple Styles: Get different tones \u2014 professional, friendly, creative, or SEO-focused.\n\u2705 Supports YT: Specially designed as an AI Description Generator for YT, helping you write engaging video descriptions that boost views and SEO.\n\u2705 Instant Results: No more writer\u2019s block \u2014 generate ready-to-use text in seconds.\n\u2705 Edit & Copy: Customize the generated descriptions and copy them",
+    "icon": "/icons/com.codingguruji.descriptionwriter.png"
+  },
+  "com.codinghub.caridentifier": {
+    "title": "Car Scan: Identify & Collect",
+    "package": "com.codinghub.caridentifier",
+    "description": "Turn the real world into your personal car recognition system with Car Scan\n\nSee a car. Scan it. Get a full analysis in around 20\u201330 seconds.\n\nWith Car Scan, identifying vehicles is fast, simple, and accurate.\nJust point your camera at a car \u2014 our AI analyzes it in real time and reveals its make, model, and details.\n\nWHY CAR Scan STANDS OUT\n\n- Instant Camera-Based Recognition\n- No searching, no typing. Just scan.\n- Use your camera to identify cars in seconds with powerful AI technology.\n\nAccurate AI Analysis\nOur advanced engine processes each scan to deliver reliable and precise results.\n\nBUILD YOUR CAR COLLECTION\n\n- Save every scanned car automatically\n\n- Access your scan history anytime\n\n- Add cars to your favorites\n\n- Create your own digital garage\n\nTRACK & ORGANIZE YOUR DISCOVERIES\n\n- ",
+    "icon": "/icons/com.codinghub.caridentifier.jpg"
+  },
+  "com.gearup.booster": {
+    "title": "GearUP: Lower Lag Game Booster",
+    "package": "com.gearup.booster",
+    "description": "A game booster that actually works! Say goodbye to game latency, and reach your real gaming potential!\n\nGearUP is the ultimate gaming companion, accelerating and safeguarding your network. With our patented technology and specialized servers worldwide, we provide gamers around the world with lightning-fast, stable gaming connections.\n\n\u25ba Maximum Performance\nA game booster that actually reduces game lag! We utilize real, patented server technology to set up a better network environment for your device.\n\n\u25ba Minimal Requirements\nOur technology ensures that our game booster does not cause higher data usage, higher battery usage or overheating. Perfect for gaming on the go!\n\n\u25ba Boost any Game\nYou can boost popular MOBA games such as Brawl Stars and Mobile Legends, the most-played shooter games lik",
+    "icon": "/icons/com.gearup.booster.png"
+  },
+  "com.miui.securitycenter": {
+    "title": "com.miui.securitycenter",
+    "package": "com.miui.securitycenter"
+  },
+  "com.codium.hydrocoach": {
+    "title": "Water Tracker - Hydro Coach",
+    "package": "com.codium.hydrocoach",
+    "description": "\ud83d\udca7 Drink Water, Stay Hydrated & Thrive with Hydro Coach, Your Water Tracker & Drink Reminder App! \ud83d\udca7\n\nRecommended by CNN, Everyday Health, Vogue, and Healthline, Hydro Coach stands out as your essential Water Tracker and Drink Reminder to drink water for better health, fitness, and wellbeing.\n\n\ud83c\udfc5 Trusted by 2.6 million users & highly rated with over 120,000 reviews: \ud83c\udfc5\n\nHydro Coach helps you maintain proper hydration \u2013 essential for staying active and energized. Whether you\u2019re enjoying a hot cup of tea on a chilly morning or refreshing with a glass of cold water during a warm afternoon, Hydro Coach reminds you to drink water and stay hydrated.\n\n\ud83d\udca6 Water Drinking Benefits: \ud83d\udca6\n\n- Enhance your mood and reduce stress with regular hydration.\n- Improve sleep quality by maintaining healthy water intake",
+    "icon": "/icons/com.codium.hydrocoach.png"
+  },
+  "com.coftivo.vintageai": {
+    "title": "Vintage AI Photo Generator 90s",
+    "package": "com.coftivo.vintageai",
+    "description": "VINTAGE PHOTO AI SELFIE GENERATOR\nTransform your selfies or portraits into cool vintage photos in seconds with Vintage AI. \nSee how you\u2019ll look in the 90s and join the 90s yearbook trend. Or dive deeper with our retro photo editor and generator to generate vintage photos of you in different scenarios.\n\nWhether you are hit by nostalgia, or you just want to create cool retro-style photos, our vintage AI selfie generator is your go-to app. \ud83e\udd18\n\nTry Vintage AI Photo Generator now for free to get authentic-looking vintage or 90s-themed portraits, complete with all the cool retro flair and nostalgia.\n\nTRY THE 90S YEARBOOK AI AESTHETICS OR OTHER AI PHOTO GENERATOR CONCEPTS\n\ud83c\udf9e\ufe0f Experience the magic of time travel by turning your photos into classic masterpieces with our free vintage photo effects and",
+    "icon": "/icons/com.coftivo.vintageai.jpg"
+  },
+  "com.coinidentifier.coinvalue.checker": {
+    "title": "Coin Identifier: AI Coin Value",
+    "package": "com.coinidentifier.coinvalue.checker",
+    "description": "\ud83d\udca5 Free Coin Identifier & AI Coin Value Checker - Instantly Identify & Check Any Coin\u2019s Worth! \n\ud83d\udca5 A smart coin identification app for collectors and hobbyists.\n\u2728 AI Coin Identifier & Coin Scanner is your smart tool to scan coins, check real coin value & coin price with our built-in coin value estimator, and identify rare, old, foreign, or error coins instantly.\n \u2728 Whether you\u2019re new to coin collecting or an experienced numismatist, this app makes discovering coin details and true market worth effortless and fun.\n\n\ud83c\udd93 YOUR FREE COIN IDENTIFIER & VALUE CHECKER\n \u2726 Need a fast and reliable AI Coin Identifier to identify coins instantly?\n \u2726 Looking for a coin value & coin price checker to know coin worth in seconds?\n \u2726 Want to recognize rare coins, old coins, or foreign coins?\n \u2726 Searching for a t",
+    "icon": "/icons/com.coinidentifier.coinvalue.checker.png"
+  },
+  "com.collectiblesai.collectiblesai": {
+    "title": "Collectibles AI",
+    "package": "com.collectiblesai.collectiblesai",
+    "description": "At Collectibles AI, LLC, we are committed to bridging the gap between collectors and their treasures through innovative image recognition technology. In a world where the value of collectibles can be both sentimental and substantial, our Collectibles AI\u2122 application leverages ChatGPT's object detection, custom prompt engineering, and Optical Character Recognition (OCR) capabilities. This approach not only identifies collectible items with remarkable accuracy but also provides users with a means to estimate and summarize the value of their collections.\n\nOur technology is disrupting the traditional collector market. Historically, hobbyists and collectors had to pay substantial fees to professionals for identifying and appraising their collections. Whether you are a casual collector, an antiq",
+    "icon": "/icons/com.collectiblesai.collectiblesai.png"
+  },
+  "com.coloring.book.pages.colordodo": {
+    "title": "ColorDo: Coloring Book Pages",
+    "package": "com.coloring.book.pages.colordodo",
+    "description": "Unleash your creativity and relax your mind with ColorDo - a fun and calming coloring book for all ages!\n\nWhether you're a child exploring art or an adult seeking stress relief, ColorDo offers a wide range of beautifully designed coloring pages you can color freely. No numbers, no rules\u2014just pick a color, choose a brush, and start painting!\n\n\u2728 Why ColorDo?\n\u2022 Freeform Coloring Experience  \nNo tap-to-fill or number guides. Use your imagination to color each design however you like.\n\n\u2022 Perfect for Kids and Adults  \nFrom cute animals and magical creatures to calming mandalas and flowers, there\u2019s something for everyone.\n\n\u2022 Creative & Calming\nReduce stress, boost focus, or wind down after a busy day. Coloring helps you relax and recharge.\n\n\ud83c\udfa8 Features You'll Love\n\u2022 \ud83c\udfa8 Draw and Color Freely with na",
+    "icon": "/icons/com.coloring.book.pages.colordodo.png"
+  },
+  "com.marmalade.taboo": {
+    "title": "Taboo - Official Party Game",
+    "package": "com.marmalade.taboo",
+    "description": "Can you describe an APPLE without using the words RED, FRUIT, PIE, CIDER or CORE?\n\nTaboo is the ultimate brain-teasing, word-twisting adult party game. Play with video chat and throw a house party on your phone! Split into two teams and take it in turns to describe the words on the cards. Your team has to guess as many as possible before the timer runs out. \n\nIf you use a taboo word by mistake, the other team will buzz and you\u2019ll lose a point. \n\nThink fast and talk your way to victory!\n\nHOW TO PLAY TABOO: \n1. Start a game and invite your friends. \n2. Split into two teams and name your team.\n3. The app chooses a Clue-giver for each team. Each team then takes their turn!\n4. The Clue-giver draws a card. The Clue-giver must describe the word without saying any of the words on the card.\n5. Team",
+    "icon": "/icons/com.marmalade.taboo.png"
+  },
+  "com.redlabgames.romgoldenage": {
+    "title": "ROM: Golden Age",
+    "package": "com.redlabgames.romgoldenage",
+    "description": "WORLD WIDE WAR \u2013 Grow. Conquer. Earn.\n\n\u25a3 Game introduction \u25a3\nUnfold the grand saga on the continent of Calderas!\nConstant fights on the global battlefield with no boundaries.\n\n\u25a0 Rejoice\u2014the days when grinding led to glory have returned!\nClassic hardcore MMORPG / PC & Mobile Cross-platform\n\n\u25a0 Enter the fray\u2014without any national boundaries\nThe entire world is a massive battlefield! \nGlobal One Build/ Simultaneous translation system\n\n\u25a0 Make it yours\u2014the prize, glory, and power promised only to the victorious! \nEndless campaigns ranging from Territory Wars and Siege Wars to the War of Monarchs\n\n\u25a0 Enjoy\u2014make the most of your money in the free marketplace with personal trading system\nItem sealing system, and server/world auction houses\n\n\u25a0 Immerse yourself\u2014begin the grand saga of the continent of",
+    "icon": "/icons/com.redlabgames.romgoldenage.png"
+  },
+  "com.Grand.Napal": {
+    "title": "RP Grand - Open World Game",
+    "package": "com.Grand.Napal",
+    "description": "Your city. Your rules.\nRP Grand is an open world online roleplay game where real players create a living city \u2014 and you decide who you become. If you\u2019re into open world games, you\u2019ll feel at home here.\n\n\ud83c\udfad Choose your role\nThere\u2019s no single storyline. Start from zero, build status, and pick your path:\n\u2014 racer and street driver\n\u2014 business owner with property and an empire\n\u2014 law enforcement keeping order\n\u2014 gang member rising to the top\n\n\ud83c\udf06 A city that feels alive\n\u2022 Multiple servers with active players\n\u2022 Social RP: friends, alliances, rivals, and reputation\n\u2022 Regular updates with new content and city activities\n\n\ud83d\udca5 Action, heists, and city events\n\u2022 Heists and special action events (army raid, ATM events)\n\u2022 Car theft and risky street activities\n\u2022 Gangs vs police: pick a side and climb the ranks\n\u2022",
+    "icon": "/icons/com.Grand.Napal.png"
+  },
+  "com.ksrgland.goat": {
+    "title": "King's Throne: Royal Delights",
+    "package": "com.ksrgland.goat",
+    "description": "King\u2019s Throne: Game of Conquest is an empire simulation MMORPG where you rule a kingdom and experience the medieval royal life: exciting adventures, epic wars, romantic stories, kingdom management and more than you could imagine! Play for free now, and immerse yourself in playing as a medieval king. \n\nKey Features:\n- Rule the Kingdom \u2013 Make good use of your resources to strengthen your kingdom. Always ready for expansion.\n- Recruit Knights \u2013 Assemble legendary heroes along the journey and empower them to fight for you.\n- Raise a Dynasty \u2013 Nurture your children, arrange alliances through marriage, and eventually expand your influence.\n- Undertake the Expedition \u2013 Crush the enemies on your way and foil their plots.\n- Round Table \u2013 Unite other lords as an alliance and fight against other comp",
+    "icon": "/icons/com.ksrgland.goat.jpg"
+  },
+  "com.coloring.gamebookcoloring": {
+    "title": "Coloring - Painting Book",
+    "package": "com.coloring.gamebookcoloring",
+    "description": "We present you the best fun creative coloring game for kids and drawing and coloring for kids with different and free coloring pages! In the coloring game, there are many coloring pages. Download this game and have fun",
+    "icon": "/icons/com.coloring.gamebookcoloring.png"
+  },
+  "com.coloring.kids": {
+    "title": "Coloring book",
+    "package": "com.coloring.kids",
+    "description": "Free and easy coloring book. If you love coloring pages, this drawing game will give inspiration for hours of creativity, play and learning.\n\nThis app is designed to be fun and easy to use for a mixed audience of all ages, from young to old. Easy navigation makes it not only usable for adults, but also easy to use for kids and teenagers. We get lots of positive feedback from people of all ages, kids, teenagers and adults. Even grandparents think it's it fun to paint and color in this app.\n\n300 coloring pages in different categories: horses, dinosaurs, princesses, cars, fairies, dolphins, aircrafts, knights, kids playing, winter and summer.\n\nThis coloring book has lots of features but is easy to use. So it is lots of fun for adults, but also children can play this coloring game with ease. \n",
+    "icon": "/icons/com.coloring.kids.png"
+  },
+  "com.google": {
+    "title": "com.google",
+    "package": "com.google",
+    "icon": "/icons/com.google.png"
+  },
+  "com.coloringbook.oilpainting": {
+    "title": "Oil Painting Coloring Book",
+    "package": "com.coloringbook.oilpainting",
+    "description": "Discover pure relaxation with Oil Painting Coloring Book \u2013 Color by number app with breathtaking oil painting masterpieces!\nTransform your phone into an art studio and enjoy thousands of realistic oil painting designs made for color by number and paint by number fans. No skills needed \u2013 just tap and watch stunning artwork come to life!\nWhy choose Oil Painting Coloring Book:\n\u2022 Exclusive realistic oil painting style with rich textures and brush strokes\n\u2022 Daily new color by number and paint by number pictures\n\u2022 Huge collection: landscapes, flowers, animals, portraits, anime coloring, and more\n\u2022 Super relaxing color by number gameplay \u2013 perfect stress relief\n\u2022 Great for adults and kids who love coloring games and art games\n\u2022 Tons of color by number free pictures every day\n\u2022 Magic color pop eff",
+    "icon": "/icons/com.coloringbook.oilpainting.png"
+  },
+  "com.colorize.pholorize": {
+    "title": "Color to Old Photos - Colorize",
+    "package": "com.colorize.pholorize",
+    "description": "Looking to restore, enhance, and colorize your old photos? Look no further than Colorize Old Photo - Pholorize AI enhancer app. Our advanced AI-based technology makes it easy to fix and clear blurry, low-resolution, or scratched photos with just one tap. Say goodbye to frustrating photo restoration processes and transform your old and damaged photos into high-quality, clear, and colorful images.\n\nOur app is perfect for reviving old, faded, and damaged photos that have lost their charm over time. Our photo restoration feature can fix scratches, tears, and other damage to your images, making them look as good as new. Our AI-based colorization feature can intelligently colorize both black and white and color photos with stunning results. You can also enhance face details, recolor old photo al",
+    "icon": "/icons/com.colorize.pholorize.jpg"
+  },
+  "com.colorsplurge.android": {
+    "title": "Colorize - color changer",
+    "package": "com.colorsplurge.android",
+    "description": "Colorize black and white photos into colorful images or color to black and white. Add color to old photos and change color on pictures to any color to get a colourised photo.Photo color changer is one of the useful apps to color splash a photo easily with an unlimited color pick options. Brighten up  selected  part of your backgrounds with this image color changer app.  This colorizer photo app has photo editor as well to make your photos more beautiful. Then why just wait , start using this color pop photo editor app and enjoy it thoroughly with many features. Get the photo magician out from you to make your pictures into stunning piece of artwork.\n\nWant to make your photos into stunning color splash effects? Then this is the right app for you. Decolorise a background or recolor various p",
+    "icon": "/icons/com.colorsplurge.android.png"
+  },
+  "com.commoditysignal.commoditysignal": {
+    "title": "Commodity Trading Signals USA",
+    "package": "com.commoditysignal.commoditysignal",
+    "description": "CommoditySignal.ai\n\nCommoditySignal.ai software provides Profitable Trading Signals for Gold, Silver, Platinum, Crude Oil and Natural Gas commodity Futures on CME (Chicago Mercantile Exchange), USA.\n \nCommoditySignal.ai is an automated Robo Trading Advisor for trading the Commodity Futures on CME. You can trade more than 15 type of commodity futures like Energy, Metals and Agro commodities futures AI algorithm expertise.\n \nList of CME Commodities for which trading signals are provided: \n\nEnergy Commodities: \n1. Crude Oil\n2. Natural Gas\n3. Gasoline\n\nMetal Commodities:\n4. Gold\n5. Silver\n6. Platinum\n7. Palladium\n8. Copper\n\nAgri Commodities:\n9. Corn\n10. Soybean\n11. Soybean Oil\n12. Soybean Meal\n13. Wheat\n14. Live Cattle\n15. Lean Hog\n16. Feeder Cattle\n\nTimeframes on which trading signals are pro",
+    "icon": "/icons/com.commoditysignal.commoditysignal.jpg"
+  },
+  "com.companyname.pAIntLand": {
+    "title": "Coloring Book - pAIntLand",
+    "package": "com.companyname.pAIntLand",
+    "description": "Unleash your creativity with pAIntLand \u2013 the ultimate AI Coloring Book app!\nThis relaxing coloring app offers a wide variety of beautiful coloring pages and endless creative possibilities. Whether you want to relax, explore your artistic side, or simply enjoy some mindful moments, you\u2019ll find plenty to color: animals, flowers, people, machines, landscapes, and more. Create unique AI coloring pages with text prompts and turn your imagination into art!\n\nFeatures include:\n\n* Wide variety of coloring book categories for all interests\n* AI generation of unique designs from your text or ideas\n* Easy-to-use controls for a smooth and fun experience\n* Offline mode \u2013 color anywhere, anytime without internet\n* Save, share, and print your artwork\n* Perfect for relaxation, stress relief, and digital cr",
+    "icon": "/icons/com.companyname.pAIntLand.jpg"
+  },
+  "com.companyname.stock_it_manager": {
+    "title": "Stock It: Inventory & Billing",
+    "package": "com.companyname.stock_it_manager",
+    "description": "\ud83d\udcca Stock It \u2013 Billing App, GST Invoice Generator & Inventory Software\nStock It is a powerful and easy-to-use free billing app and GST invoice generator that helps businesses streamline their billing, invoicing, and inventory management. Whether you run a retail shop, wholesale business, distributorship, or a service company, Stock It equips you with professional tools to manage everything from your mobile or desktop.\n\n\ud83d\udda5\ufe0f Available on both mobile & desktop. Start your business journey with a Free Trial today!\n\n\u2705 Why Stock It is India\u2019s Best Free Billing Software demo:\n\ud83e\uddfe Invoice Generator \u2013 Billing App\nCreate and share customized GST bills in seconds. Add your business logo, multiple items, taxes, and customer details. Download or share invoices in PDF. No design skills needed!\n\n\ud83d\udce6 Inventory M",
+    "icon": "/icons/com.companyname.stock_it_manager.png"
+  },
+  "com.companyname.universal_name_generator": {
+    "title": "Universal Name Generator",
+    "package": "com.companyname.universal_name_generator",
+    "description": "The Universal Name Generator is an easy-to-use tool for generating names from twenty different categories in the following five genres: Epoch, Fantasy, Science Fiction, Supernatural, Random Words. You can save and edit names in your own lists. The app works even when you are offline, without the need for an online account. Additionally, the user interface is easily customizable and it generates nine names at once.\n\nSupports the following categories:\n-Epoch: Stone Age, Ancient Egypt, Ancient Times, Vikings, Middle Ages, Modern Age\n-Fantasy: Elf, Halfling, Orc, Dwarf, Giant\n-Science Fiction: Human, Android, High-Minded Alien, Combative Alien\n-Supernatural: Angel, God, Vampire, Demon\n-Random words: Infinite number of possible names with customizable length and probabilities.\n\n~88,000 modern l",
+    "icon": "/icons/com.companyname.universal_name_generator.png"
+  },
+  "com.compass.digitalcompassforandroid.directionfinder": {
+    "title": "Digital Compass for Android",
+    "package": "com.compass.digitalcompassforandroid.directionfinder",
+    "description": "Simple & easy to use a compass app. Get accurate directions.\n\nFeatures:\n- Compass\n- Qibla Compass\n- Digital Compass\n- Standard Compass\n- Camera Compass\n- Telescope Compass\n- Map Compass\n- Satellite Compass\n- Compass Styles\n- Weather Updates\n\nDigital Compass app - accurate compass is a direction compass app to deliver crystal clear navigation assistance, whether setting camp, exploring new trails, or navigating uncharted waters. Download this easy-to-use free compass app with altitude support to navigate faster and easily find true north south east west directions.\n\nCompass app - Accurate Compass Begin your next journey with confidence using our Accurate Compass App, the perfect navigation tool for outdoor explorers, travelers, and anyone who needs accurate directional assistance.\n\nOur Digi",
+    "icon": "/icons/com.compass.digitalcompassforandroid.directionfinder.png"
+  },
+  "com.compass.direction": {
+    "title": "Digital Compass",
+    "package": "com.compass.direction",
+    "description": "This is a high precision and insanely beautiful digital compass.\n\nUseful features:\n\u2022 Latitude, longitude and address\n\u2022 Full-screen map\n\u2022 True heading and magnetic heading\n\u2022 Magnetic strength\n\u2022 Slope level meter\n\u2022 Sensor status\n\nCaution!\n\u2022 Do not use the app with magnetic covers.\n\u2022 If you encounter a direction error, calibrate your phone by waving the device in a figure 8, two or three times.",
+    "icon": "/icons/com.compass.direction.png"
+  },
+  "com.compass.qibla.weather.coordinate.gps": {
+    "title": "Compass: North & Qibla Finder",
+    "package": "com.compass.qibla.weather.coordinate.gps",
+    "description": "A simple and accurate compass app for everyday direction and travel. Find Qibla, track GPS location and check detailed weather conditions with ease.\n\n\ud83e\udded Accurate Digital Compass\nFind true north, south, east, and west with a precise digital compass using advanced sensors.\n\n\ud83d\udd4c Qibla Direction Finder\nLocate the Qibla direction accurately from anywhere using GPS and location data.\n\n\ud83c\udf26\ufe0f Weather Forecast\nCheck weather including temperature, hourly forecast, 7-day forecast, humidity, wind speed, pressure, and chance of rain.\n\n\ud83d\udccd GPS Coordinate Tracker\nTrack your current location with latitude, longitude, and accurate GPS positioning.\n\n\ud83c\udfa8 Stylish Compass Themes\nDiscover your compass with unique and modern themes for a better visual experience.\n\n\ud83d\ude80 Why you\u2019ll love it\nA simple and reliable compass with Qi",
+    "icon": "/icons/com.compass.qibla.weather.coordinate.gps.png"
+  },
+  "com.compass_digital": {
+    "title": "Compass Digital",
+    "package": "com.compass_digital",
+    "description": "Compass Digital \u2014 a clean, high\u2011precision compass for Android. See your live heading with clear  N/NE/E/SE/S/SW/W/NW indicators, plus your exact latitude, longitude, and altitude. Whether you\u2019re exploring outdoors or navigating the city, compass digital gives you essential orientation data at a glance.\n\nMain Features\n\n\u2022 Live Heading: Real\u2011time compass direction with cardinal labels.\n\u2022 Exact Coordinates: View your current latitude and longitude instantly.\n\u2022 Altitude Readout: See your current altitude in meters.\n\u2022 Status Indicator: Know when your location is initializing or live.\n\u2022 Optimized UI: Bold, easy\u2011to\u2011read design for quick orientation.\n\u2022 Ad-Supported: Lightweight banners and native units help keep the app free.\n\n How to Use\n\n\u2022 Open the compass digital app and grant location permissio",
+    "icon": "/icons/com.compass_digital.png"
+  },
+  "com.comuto": {
+    "title": "BlaBlaCar: Carpooling and Bus",
+    "package": "com.comuto",
+    "description": "Carpool and Bus: go anywhere with the BlaBlaCar app.\n\nCompare and book the best rides at low prices. Take your pick from thousands of destinations and travel across Ukraine, Poland, Romania, Hungary or Serbia for less!\n\nGreat deals in one app\nCompare bus and carpool rides to find the best way to get there for less. \nUse the app to book rides to thousands of places at low prices.\n\nCut your driving costs\nDriving somewhere? Share your empty seats in minutes and reduce your fuel and toll costs.\nYou're in charge: choose who travels with you by checking ratings and member Verified Profiles.\n\nGo direct by carpool\nBook a seat and travel straight to your destination. Find a ride leaving near you and arrive closer to where you\u2019re headed.\nCheck member profiles and ratings and travel worry free.\n\nBus ",
+    "icon": "/icons/com.comuto.png"
+  },
+  "com.conducivetech.android.traveler": {
+    "title": "FlightStats",
+    "package": "com.conducivetech.android.traveler",
+    "description": "FlightStats is a free real-time flight status and airport tracking application for Android. \n\nTake control of your day-of-travel by downloading FlightStats: \n\n- Quickly access worldwide flight status by flight number, airport or route \n\n- Watch flights as they move across the world on our gorgeous flight tracker \n\n- Share your flight right from the flight overview screen\n\n- Scan essential information like departure/arrival times, delay indexes, gates and weather\n\n- Share current airport conditions like delays and weather\n\n- Check the flight timeline to get in-depth descriptions of all activities about your flight \n\nFlightStats is a leader in global flight and airport information services. Our flight status, trip monitoring and flight alert solutions are trusted by millions of travelers eve",
+    "icon": "/icons/com.conducivetech.android.traveler.png"
+  },
+  "com.conduit.app_ca8270caea68462aab0bfbba94dd00ca.app": {
+    "title": "Property Value App",
+    "package": "com.conduit.app_ca8270caea68462aab0bfbba94dd00ca.app",
+    "description": "My Property Value brings you a simple way to obtain a Free Home Property Appraisal delivered right to your inbox within 48 Hours\n\nFree Home Property Appraisals are compiled by using local Real Estate data of properties sold & for sale, current market conditions, your local real estate professionals knowledge and a short form filled out by you detailing the home or properties current status, features and improvements."
+  },
+  "com.conem.app.pocketthesaurus": {
+    "title": "Pocket Thesaurus",
+    "package": "com.conem.app.pocketthesaurus",
+    "description": "\ud83d\udc8e \u201cLoving your language means a command of its vocabulary beyond the level of the everyday.\u201d  ~ John H. McWhorter \ud83d\udc8e\n\n\nVocabulary building is an essential part of acquiring a new language. Pocket Thesaurus helps you in that by providing everything you need to improve your language skills by enriching your vocabulary. \n\n\nOffline English dictionary containing synonyms and antonyms of more than 90,000 common words. \n\n\nFeatures \n\ud83d\udca1 Purely offline with over 90,000 common words.\n\ud83d\udca1 No Full Screen Ads, so never get interrupted while searching.\n\ud83d\udca1 Smallest offline dictionary with less than <20 MB  download size and no other online dependency.\n\ud83d\udca1Find the easiest meaning(s) of every word with their part(s) of speech.\n\ud83d\udca1 View synonyms and antonyms both by relevance and in alphabetical order.\n\ud83d\udca1 Receive word",
+    "icon": "/icons/com.conem.app.pocketthesaurus.png"
+  },
+  "com.continuum.emi.calculator": {
+    "title": "EMI Calculator",
+    "package": "com.continuum.emi.calculator",
+    "description": "EMI Calculator is a simple loan calculation tool that helps the user to quickly calculate EMI and view payment schedule. Use this Loan EMI Calculator to calculate your EMI (Equated Monthly Instalment), plan your loan repayment in an effective way. You can also easy to compare two loans by using Loan EMI Calculator. \n\n\nFeatures:\n- Easy and fast way to calculate your Loan EMI\n- Easy option available to compare between two loans\n- Representation of payment split up in the table form\n- Calculate EMI on monthly basis\n- Maintain history of different loan and view them at any time\n- Share computed PDF with anyone for EMI & loan planning\n\n\nWhere to Use:\n- Home Loan\n- Car Loan\n- Bike Loan\n- Gold Loan\n- Personal Loan\n- Property Loan\n- Mortgage Loan \n- Compare Loans",
+    "icon": "/icons/com.continuum.emi.calculator.png"
+  },
+  "com.controlla.rokuremoteapp": {
+    "title": "Universal TV Remote Control",
+    "package": "com.controlla.rokuremoteapp",
+    "description": "\ud83d\udcfa Take control of your TV with our Universal Smart TV Remote app! Adjust volume, change inputs, cast from your phone to TV, or use screen mirroring\u2014all without a physical remote. Try it today and simplify your TV experience!\n\nMovie nights, quick channel surfing, or casting a video - our universal remote app makes it all easier! It connects to smart TVs from Samsung, LG, Sony, Hisense, TCL, Sharp, Sanyo, and many others using WiFi. Just grab your phone and take control of everything from inputs to screen mirroring.\n\n\u2753How to Use It\u2753\n\u2705 Install the app\n\u2705 Connect to WiFi (same network as your TV)\n\u2705 Open the app\u2014it will auto-detect your TV\n\u2705 Start controlling your Smart TV\u2014volume, input, channels, or cast content\n\n\u2b50 Key Features:\u2b50\n\u2714\ufe0f Universal Remote via WiFi \u2013 Control your TV without IR; connec",
+    "icon": "/icons/com.controlla.rokuremoteapp.jpg"
+  },
+  "com.cooke.picklight": {
+    "title": "Chat Gallery-Find Photos By AI",
+    "package": "com.cooke.picklight",
+    "description": "\ud83c\udf1f \"Chat Gallery\" - Your Queryable Offline AI Gallery Assistant \ud83c\udf1f\n\n\ud83d\udcf8 Find photos with ease, completely offline, for an accurate album search experience!\n\nUtilizing advanced AI technology, \"Chat Gallery\" can search for photos on your device locally. Just type in a keyword and immediately locate the images you desire. For instance, search for: \"ID card\", \"selfie\", \"rose\", \"group photo\", \"screenshot\", \"gourmet food\", \"concert\", \"invoice list\", and more.\n\n\ud83d\udd11 Core Features:\n1\ufe0f\u20e3 Powerful AI Model - Integrated with TensorFlow and OpenAI CLIP, supporting extensive scene recognition and photo categorization.\n2\ufe0f\u20e3 Reverse Image Search in Gallery - Quickly locate similar or related photos, such as selfie collections, cherished moments of children, or photos with your dog.\n3\ufe0f\u20e3 Offline Operation - No inte",
+    "icon": "/icons/com.cooke.picklight.png"
+  },
+  "com.cooltime.fishingai": {
+    "title": "Fish AI - Fish Identifier",
+    "package": "com.cooltime.fishingai",
+    "description": "\ud83d\udc1f Fish AI - Your Smart Fishing Companion\n\nEver wondered what fish you're looking at?\nFish AI identifies it instantly with just one photo!\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udcf8 Instant Fish Identification\n\u2022 Snap a photo or choose from your gallery\n\u2022 AI analyzes and identifies fish species quickly\n\u2022 Get detailed info: habitat, characteristics, edibility\n\n\ud83c\udfa3 AI-Powered Fishing Recommendations\n\u2022 Personalized tips based on your location & weather\n\u2022 Best fish species to catch today\n\u2022 Recommended times and fishing spots\n\u2022 Tide information and daily fishing tips\n\n\ud83d\udcda Build Your Fish Encyclopedia\n\u2022 Automatically collect every fish you identify\n\u2022 Discover new species and complete your collection\n\u2022 Access detailed information anytime\n\n\ud83d\udcdd Fishing Record Management\n\u2022 Log size, weight, and location of your catches\n\u2022",
+    "icon": "/icons/com.cooltime.fishingai.png"
+  },
+  "de.ingdiba.bankingapp": {
+    "title": "ING Deutschland",
+    "package": "de.ingdiba.bankingapp",
+    "description": "The ING app has everything you need for banking. This keeps your personal finances under control anytime, anywhere \u2013 and mobile banking is so simple and secure that everyone can use it.\n\n- See all your accounts and portfolios at a glance. Transactions are clearly listed. Quickly find individual transactions using the search function.\n- Transfer using a template, photo transfer, or QR code: No more tedious typing of the IBAN.\n- Buy or sell securities and see their performance in interactive charts.\n- Block cards anytime, anywhere in an emergency.\n- Activate mobile payments via smartphone with Google Pay and VISA directly in the app.\n- Receive push notifications about account changes upon request.\n- Find the nearest ATM anywhere with the ATM finder.\n\nOur banking app is simple and secure. We ",
+    "icon": "/icons/de.ingdiba.bankingapp.png"
+  },
+  "com.cooltime.goldsilver": {
+    "title": "Gold Silver Price - Live Rates",
+    "package": "com.cooltime.goldsilver",
+    "description": "\ud83d\udcb0 Gold Silver Price - Real-time Precious Metal Tracker\n\nYour essential app for gold and silver investment! Track live international prices and plan your investment strategy.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcca KEY FEATURES\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\u25a0 Live Prices\n\u2022 Real-time international gold/silver prices\n\u2022 Support for gram (g), ounce (oz) units\n\u2022 17 currencies including USD, EUR, KRW, JPY\n\n\u25a0 Price Charts\n\u2022 1W, 1M, 3M historical charts\n\u2022 Track gold/silver price trends at a glance\n\u2022 Touch to view detailed prices\n\n\u25a0 Price Alerts\n\u2022 Push notifications when target price is reached\n\u2022 Set alerts for rapid price changes\n\u2022 Never miss an investment opportunity\n\n\u25a0 Home Screen Widget\n\u2022 Check prices without opening the app\n\u2022 Convenient home screen widget\n\n\u25a0 Precious Metal News\n\u2022 Latest gold/silver news\n\u2022 Stay",
+    "icon": "/icons/com.cooltime.goldsilver.png"
+  },
+  "com.cooltime.insect_ai": {
+    "title": "Insect Snap AI - Insect ID",
+    "package": "com.cooltime.insect_ai",
+    "description": "AI app that identifies insects and their danger level from a single photo\n\nCurious about the bug at your campsite, the insect your child wants to touch, or the creature that got into your house?\nWith Insect ID AI, just take a photo and identify any insect in 1-3 seconds.\n\n\n\u25b6 Key Features\n\n\u3010AI Insect Identification\u3011\nTake a photo or select from gallery and Gemini AI will analyze the insect.\n- Insect name (Local/English)\n- Accuracy (%)\n- Characteristics and description\n\n\u3010Danger Level Assessment\u3011\nThree-level danger rating: SAFE / CAUTION / DANGEROUS\nFor dangerous insects, we provide toxicity info, symptoms, and first aid measures.\n\n\u3010Observation Records\u3011\nSave identified insects with notes and review them anytime.\n\n\u3010Search & Filter\u3011\nSearch saved records by name or filter by danger level.\n\n\u3010Seaso",
+    "icon": "/icons/com.cooltime.insect_ai.png"
+  },
+  "com.copur.retirementday": {
+    "title": "Retirement Countdown",
+    "package": "com.copur.retirementday",
+    "description": "Retirement Day - Days left - Retirement countdown app for your android phone.\n\nFeatures:\n\ud83c\udf43  Light apk.\n\u23f3  Beautiful Retirement Countdown\n\ud83d\udc54  Working days calculator\n\ud83d\udcc8  Retirement calculator\n\ud83d\udcdd  Minimalist to do list for managing your tasks\n\ud83d\udcdc  Quotes to brighten up your day\n\u2714\ufe0f  Retirement planner suggestions\n \ud83c\udf89  Retirement wish & cool animations at the end\n\u23f3  Create countdown to any Event: Multiple countdown support\n\n\n\n\n\n\nThe setup is very easy, in which you can set the retirement date and the retirement countdown will help to calculate how many days left for your retirement. The Retirement Countdown will keep track of the months, days, hours, minutes, and seconds\n\nWorking days countdown enables you to calculate how many business days there are left from today until retirement\n\nThe Retirement",
+    "icon": "/icons/com.copur.retirementday.png"
+  },
+  "com.copybuilder.aitool": {
+    "title": "Copy Builder: AI Writing Tools",
+    "package": "com.copybuilder.aitool",
+    "description": "With our app, you can easily generate high-quality content with our AI Content Writer, AI Writing Generator, and AI Letter Writer. Our AI technology can even help you easily craft the perfect essay outline and cover letter.\n\nPlus, get Essay Outlines and Writer Assistant AI to help you create content like a pro. So, hurry up and get the Copy Builder app for free now! \ud83d\udd25\n\nAre you looking for an AI Writing Assistant and AI Art Generator to help you create amazing content? Look no further! Copy Builder is the ultimate AI Writing Assistant and AI Art Generator tool! \ud83d\udcbb\n\nCopy Builder is the perfect AI tool for copywriting, essay writing and much more. Get AI-powered help with your writing, from AI Letter Writer to AI Content Writer. With Copy Builder, you can easily generate amazing content with t",
+    "icon": "/icons/com.copybuilder.aitool.png"
+  },
+  "com.coquisoft.parentlove": {
+    "title": "Breastfeeding & Baby Tracker",
+    "package": "com.coquisoft.parentlove",
+    "description": "Designed by an IBCLC & Baby Care Specialist, ParentLove is your all-in-one breastfeeding tracker and baby feeding tracker. Use our newborn tracker for diapers, growth, naps, and pumping with a pump log. Track it all with our baby sleep tracker and real-time syncing for every caregiver.\n\nParentLove keeps partners, grandparents, or nannies in the loop without extra fees. Our intuitive design covers breast or bottle feeds, solids, pumping, baby sleep patterns, diaper changes, and more-so you can focus on your baby instead of juggling multiple apps.\n\n\u00b7 LUXlife award-winning \u00b7\n\nKEY FEATURES:\n\u2714 All-In-One Baby Tracking\nTrack breastfeeding (left/right), formula, solids, pump log, baby sleep, and diaper logs in one place.\n\n\u2714 Unlimited Sharing & Sync\nEveryone sees updates instantly-no confusion abo",
+    "icon": "/icons/com.coquisoft.parentlove.png"
+  },
+  "com.coreaxis": {
+    "title": "NSC First Aid Reference Guide",
+    "package": "com.coreaxis",
+    "description": "The National Safety Council (NSC) is pleased to offer our new First Aid, CPR & AED Reference Guide to help you save lives through timely and proper medical care. While designed to support those people who have completed NSC\u2019s First Aid, CPR & AED training course, this ready reference can be a lifesaving tool for anyone. We encourage you to download the app to your device and keep it with you at all times. You never know when you may be able to save a life. The guide has been designed with multiple ways of quickly finding the medical information you need. You can browse the alphabetical index or search to find the trusted medical information and procedures that you need. The guide is absolutely free to download and to use with no advertising. All of the data is stored on your device so it w",
+    "icon": "/icons/com.coreaxis.png"
+  },
+  "com.correctspelling.checker": {
+    "title": "Correct Spelling Grammar Check",
+    "package": "com.correctspelling.checker",
+    "description": "Effortlessly write in English with the correct spelling using this powerful voice-based spelling checker app. Whether you are a student, professional, or everyday writer, writing emails, notes, or essays, this spell checker for Android makes it easy to catch and fix mistakes on the go. Simply speak into the mic and the app auto-corrects spelling, grammar, and punctuation instantly no need to search manually.\n\nCorrect Spelling is a must-have spelling checker app for anyone looking to improve their English writing, vocabulary, and pronunciation. With its voice-based input, this autocorrect spell checker app is perfect for students, professionals, and non-native speakers who want quick and accurate results.\n\n\ud83d\ude80 Why Choose Correct Spelling?\nWhether you\u2019re preparing a professional email or just ",
+    "icon": "/icons/com.correctspelling.checker.png"
+  },
+  "com.cosetlyaI.virtualtryon": {
+    "title": "Closiva AI \u2013 Virtual Try-On",
+    "package": "com.cosetlyaI.virtualtryon",
+    "description": "\ud83d\udc57 Virtual Try-On & AI Dressing Room\n\nClosiva AI is a virtual fitting room that lets you try on outfits using AI-powered image generation. Upload your own photo or explore ready-made styles to see how different outfits may look on you\u2014before you buy, share, or decide.\n\nDiscover your personal style with a modern AI virtual try-on experience designed to help you visualize outfits easily and creatively.\n\n\u2b50 Key Features\n\ud83e\udd16 AI Virtual Try-On\n\nUpload a clear photo of yourself, choose an outfit, and generate a realistic AI try-on image in just a few moments.\n\n\ud83d\udc5a Ready-Made Outfit Gallery\n\nBrowse curated clothing styles and test how they may look when combined with your photo.\n\n\ud83e\udde5 Upload Your Own Clothes\n\nUpload clothing images from your wardrobe to see how different pieces could appear\u2014without changi",
+    "icon": "/icons/com.cosetlyaI.virtualtryon.png"
+  },
+  "com.costar.costarmobile": {
+    "title": "CoStar Commercial Real Estate",
+    "package": "com.costar.costarmobile",
+    "description": "Easily access the information available with CoStar from your phone! While away from the office, commercial real estate professionals can now find detailed information on properties, space for lease, properties for sale and benefit from the depth of verified, continuously updated information provided by the CoStar service. With the new CoStar app, you now have access to the most accurate & comprehensive property information available from anywhere, and on the go!\n\u00a0\nDisclaimer: CoStar\u2122 app is a mobile extension of the professional suite of CoStar Professional services and is intended only for CoStar Suite users.\n\u00a0\nFeatures:\u00a0\n\u00a0\n\u00b7 \u00a0 \u00a0 \u00a0Answer questions on the spot with access to CoStar information on your phone\n\u00b7 \u00a0 \u00a0 \u00a0Access CoStar\u2019s massive database of over 5.2 Million commercial properties ",
+    "icon": "/icons/com.costar.costarmobile.png"
+  },
+  "com.costarastrology": {
+    "title": "Co\u2013Star Personalized Astrology",
+    "package": "com.costarastrology",
+    "description": "Co\u2013Star is the astrology app that deciphers the mystery of human relations through NASA data and biting truth. 2x App of the Day. Featured in the New York Times, Vogue, Vanity Fair, and more.\n\n> \"Good advice.\" New York Times\n> \"Banging astrology app.\" Dua Lipa\n> \"Connect with people about your astrology sign.\" Conor Oberst\n\nFeatures\n\u2022 Add friends to compare natal charts and see your compatibility.\n\u2022 Read personalized daily horoscopes.\n\u2022 Receive daily push notifications based on your horoscope for the day.\n\u2022 Learn how to read your entire birth chart.\n\nPremium Features\n\u2022 See the full natal chart of somebody who doesn\u2019t have the app.\n\u2022 Get a complete personalized report on how you love and why.\n\u2022 For couples, Eros, a feature that gives you insight on how to navigate everyday relationship situ",
+    "icon": "/icons/com.costarastrology.webp"
+  },
+  "com.countdnai.meeaww": {
+    "title": "MeeAww - AI Photo Editor",
+    "package": "com.countdnai.meeaww",
+    "description": "Transform your photos in seconds with AI magic.\nWith MeeAww, everyone can enhance, restore, and generate amazing photos. No editing skills needed.\n\nAll-In-One AI Photo Editor\nMeeAww is your personal photo editor, AI image generator, and background remover - all in one app. Create studio-quality photos, erase unwanted objects, and generate creative images in seconds.\n\nCore tools include:\n- Magic Eraser: Tap once to remove people, text, or distractions.\n- AI Background Changer: Instantly replace or blur backgrounds.\n- AI Image Generator: Turn ideas into unique visuals with prompts.\n- Photo Enhancer: Fix blurry pictures and sharpen details automatically.\n- AI Image Editor: Retouch lighting, color, and exposure like a pro.\n- Picture Editor Tools: Crop and adjust your images easily.\n\nWhether yo",
+    "icon": "/icons/com.countdnai.meeaww.jpg"
+  },
+  "com.covercraft.aicoverletter": {
+    "title": "CoverCraft - AI Cover Letter",
+    "package": "com.covercraft.aicoverletter",
+    "description": "Are you tired of spending hours making the perfect cover letter for every job application? Look no further! Introducing CoverCraft, your ultimate tool for effortlessly creating professional cover letters with the power of AI.\n\nKey Features:\n\n\ud83d\udcdd AI-Powered Letter Content: Say goodbye to traditional writing methods! CoverCraft makes use of GPT algorithms to generate personalized, well-written, and industry-specific cover letters tailored to your job application.\n\n\ud83c\udfaf Job-Specific Letters: Whether you're applying for a software developer position or a marketing role, CoverCraft understands the unique requirements of each job. Just type the job role and CoverCraft generates a cover letter that aligns perfectly with the skills and qualifications needed for the role.\n\n\ud83e\uddd0 Easy-to-Use Interface: No te",
+    "icon": "/icons/com.covercraft.aicoverletter.png"
+  },
+  "com.covermaker.thumbnail.maker": {
+    "title": "Thumbnail Maker - Channel art",
+    "package": "com.covermaker.thumbnail.maker",
+    "description": "With this  free thumbnail maker for YouTube , you can quickly and easily create stunning thumbnails, banners and cover photos for multiple social media platforms. This offers awesome thumbnails & banners for youtube the best experience you can get with a design app.\n\nApart from the intro thumbnail banner, making your videos and social content appear more beautiful, it has been proven that thumbnails for YouTube videos help your content attract more views and traffic.\n\nWhy thumbnail maker for YouTube Shorts Videos or Social Media Important?\nAttractive thumbnails grab more attention from people on YouTube or Social media. It is estimated that the videos with thumbnail banner intro get 50% more views on various Search Engines. \n \nif you are looking for some twitter banner or shorts for Youtub",
+    "icon": "/icons/com.covermaker.thumbnail.maker.png"
+  },
+  "com.cowcona.pickuplinesgenerator": {
+    "title": "Pickup Lines Maker - AI Flirt",
+    "package": "com.cowcona.pickuplinesgenerator",
+    "description": "Pickup Lines - AI Flirt Generator, Struggling to find the perfect words to break the ice? Let artificial intelligence craft the perfect pickup line for you. Whether you're looking for something funny, smooth, romantic, or confident, our AI-powered generator creates unique and creative lines tailored to your style.\n\nChoose your target audience - men approaching women, women approaching men, or same-sex interactions - and select from six distinct styles: funny, smooth, nerdy, romantic, cheesy, or confident. Each pickup line is generated using advanced AI technology to ensure originality and natural conversation flow.\n\nPerfect for dating apps, social situations, or just having fun with friends. Generate unlimited pickup lines with a single tap, copy them instantly to your clipboard, or share ",
+    "icon": "/icons/com.cowcona.pickuplinesgenerator.png"
+  },
+  "com.crazyplex.schoolscienceexperiments": {
+    "title": "School Science Experiments",
+    "package": "com.crazyplex.schoolscienceexperiments",
+    "description": "Looking for a very simple science experiments to do at home with your kids? Then you've come to the right place. Check out our free school science experiment game for kids, full of fascinating hands-on experiments that are a great way to enjoy the world of science.\n\nLearn interesting science and technology facts by experimenting with different materials that react in surprising ways. In school science experiment game for kids you'll find a lot of experiments can be done using simple ingredients found around your house. Basic materials can help you perform experiments that are simple, safe and perfect for kids. Enjoy our fun science experiments game, make cool project with easy ideas for children, show friends & family what you've discovered and most importantly, have fun!\n\nIn this game we'",
+    "icon": "/icons/com.crazyplex.schoolscienceexperiments.png"
+  },
+  "com.creamtech.footmassage": {
+    "title": "Massage Therapy Guide App",
+    "package": "com.creamtech.footmassage",
+    "description": "Learn professional massage therapy and relaxing massage with easy, step-by-step lessons.\n\nBecome a massage therapist and learn different types of relaxing massages, including: foot massage, facial massage, sports massage, Swedish massage, trigger point massage, and deep tissue massage, learn with simple classes and release the stress and tensions of your everyday.\n\nApply professional massage therapy in everyday life with step-by-step lessons that are simple for you.\n\nRelax, release tension and learn once and for all how to give relaxing massages.\nMake your home a massage spa with easy step-by-step massage lessons\n\nDiscover the many benefits of relaxing massages, because when we receive a relaxing massage, our muscles, circulatory system, and nervous system are stimulated. This relieves ten",
+    "icon": "/icons/com.creamtech.footmassage.png"
+  },
+  "com.create.logo.maker.generator.graphic.designer": {
+    "title": "Logo Maker and Logo Creator",
+    "package": "com.create.logo.maker.generator.graphic.designer",
+    "description": "Custom Logo Maker App \u2013 Design Your Unique Brand Identity!Do you want to have a great branding for your business but do not want to hire a graphic designer? You can use the tools and creative options to make your business successful with Custom Logo Maker App. From content creators to entrepreneurs, this app has something for everyone.\n\nThe app incorporates the same advanced tools used by professional graphic designers because its targets appeal to those with no graphic design experience. Don't be held back by complicated software and create amazing logos with the Graphic Design Logo Creator App.\n\n\ud83d\udcc4 Key Features of the Custom Logo Maker App: \ud83d\udcc4\n\ud83c\udfa8 More than 10,000 templates for any business niche available for editing;\n\ud83c\udfa8 Fully featured Design Logo Editor with user-friendly tools;\n\ud83c\udfa8 Text, sti",
+    "icon": "/icons/com.create.logo.maker.generator.graphic.designer.png"
+  },
+  "com.createo.packteo": {
+    "title": "PackTeo - Travel Packing List",
+    "package": "com.createo.packteo",
+    "description": "PackTeo is an application that helps you quickly and easily create packing lists for all kind of trips, journeys or holidays. It is very simple to use, however, it has multiple sets of features. In PackTeo, you can create packing lists using built-in templates, most-used items catalog, or generator that based on your preferences creates the most tailored list for a particular trip or holiday. Using PackTeo when packing your luggage, suitcase or backpack before your next trip will make sure you do not forget anything.\n\nKey features:\n\n\u2022 Unlimited number of trips\n\n\u2022 Each trip contains:\n- luggage packing list\n- shopping list\n- to-do list before leaving\n\n\u2022 Multiple ways of adding new items to the list:\n- single item\n- list of items\n- from template\n- from catalog\n- using generator\n\n\u2022 Generator a",
+    "icon": "/icons/com.createo.packteo.png"
+  },
+  "com.creativeapplis.namegenerator": {
+    "title": "Name generator",
+    "package": "com.creativeapplis.namegenerator",
+    "description": "you Love styling , name generator ?!  \nWe have the solution , name generator , app for gamers with aesthetic symbols, elegant fonts, and decorative characters !\nWith this cool name generator app, you can change your text to a decorative, stylish name with stylish and enhanced fonts , \nYou can use name genrator app for as many game sessions as you want .\nYou have a choice of plenty of fancy symbols to choose from , to decorate your name .\nThe Symbols creator in the Name Generator app generates a lot of elegant results for gamers .\nAlso there are a plenty of fancy fonts to use with the symbols .\nThe Combination of fancy symbols and elegant fonts , you can create stylish and enhanced names to impress everyone in your gaming squad .\nDownload and use this easy, straightforward app name generato",
+    "icon": "/icons/com.creativeapplis.namegenerator.png"
+  },
+  "com.creativejoy.christmascard": {
+    "title": "Creative Card: Make greeting e",
+    "package": "com.creativejoy.christmascard",
+    "description": "Creating a beautiful e-card is now so easy with this app. Just select a nice greeting card from thousand of templates, add cute holiday stickers, write warmly text and decorate it, apply amazing filter and effect, then you have a so cool e-card for sending to your loved ones!\nCreating an e-card is now fast and simple than ever!\n* Choose a holiday greeting or love card from beautiful collection \n* Add text to the photo, and modify it with color, stroke, shadow, nice font, gradient...\n* Decorate your greeting e-card with cute winter stickers\n* Apply special filter and effect to make your personalized photo more amazing\n* Share your personalized Christmas photos to social apps is so easy\n* You can select your own lovely photo on your device and make your ecard\n* In saved gallery you can find ",
+    "icon": "/icons/com.creativejoy.christmascard.png"
+  },
+  "com.cropyai.app": {
+    "title": "Cropy AI: Car Photo Studio",
+    "package": "com.cropyai.app",
+    "description": "Cropy AI: Elevate Your Car Listings & Boost Sales\n\nIncrease Sales with Professional Car Photos\nCropy AI is the ultimate tool for car dealerships, auto photographers, and distributors. Easily enhance your vehicle photos with AI-driven background and plate editing. Transform ordinary car photos into professional, eye-catching images that drive more sales.\n\nMost Preferred by Car Dealers Globally\nJoin the leading car dealerships and marketplaces worldwide that rely on Cropy AI. Our platform is the top choice for creating consistent, branded, and high-quality images that stand out in a crowded marketplace.\n\nOptimize Your Listings\n\n\t\u2022\tBackground Removal: Automatically remove unwanted backgrounds and replace them with clean, professional backgrounds.\n\t\u2022\tLicense Plate Editing: Add your dealership\u2019",
+    "icon": "/icons/com.cropyai.app.png"
+  },
+  "com.cruiseinfotech.mustachephotoeditor": {
+    "title": "AI Mustache Photo Booth",
+    "package": "com.cruiseinfotech.mustachephotoeditor",
+    "description": "AI Mustache Photo Booth is an advanced photo editing app that uses artificial intelligence to transform your look with realistic mustache, beard, and hairstyle effects. Designed for simplicity and accuracy, the app lets you try different facial styles instantly by uploading a photo or taking a new one.\n\nThe app features smart AI face detection that accurately analyzes facial structure and automatically places mustaches, beards, and hairstyles with proper alignment, size, and angle. This ensures natural-looking results that blend seamlessly with your original image.\n\nAI Mustache Photo Booth offers multiple style categories, including mustaches, beards, and hairstyles for both men and women. From classic handlebar and Fu Manchu mustaches to modern beard styles and trendy hairstyles, the app ",
+    "icon": "/icons/com.cruiseinfotech.mustachephotoeditor.png"
+  },
+  "com.crunchr.app": {
+    "title": "Crunchr Receipt Scanner",
+    "package": "com.crunchr.app",
+    "description": "Winner of the 13th Web Excellence Awards Best Mobile App 2024.\nTrusted by thousands.\n\nWhether you\u2019re a finance manager overseeing a team, a freelancer keeping track of deductible expenses or just someone who likes having their life in order, Crunchr keeps everything organized. No manual spreadsheets, no paperwork, no stress.\n\nDesigned for speed and ease of use, Crunchr takes the pressure out of managing your finances. Snap a photo of your receipt and let our smart AI do the rest \u2014 key details are auto-filled and stored in your dashboard in seconds. No more paper clutter. No more stress. \n\nFor businesses, Crunchr is a powerful tool for managing team expenses and company credit card use. View receipts as they\u2019re uploaded, assign users, organize records by department or project and keep your ",
+    "icon": "/icons/com.crunchr.app.png"
+  },
+  "com.cry.analyzer": {
+    "title": "AYA Cry Analyzer: Baby Talk",
+    "package": "com.cry.analyzer",
+    "description": "Welcome to AYA \u2013 Cry Analyzer, AI Helper & Sleep Support App\n\nCry Analyzer & Baby Translator \u2013 understand your baby\u2019s cries with AI.\n\nIs your baby crying and you\u2019re not sure why?\n\nWith Cry Analyzer & Baby Translator, you can explore possible reasons behind your baby\u2019s cries and better understand their needs in just a few seconds.\n\nThis baby cry analyzer app helps parents interpret baby crying sounds using advanced AI. Simply record your baby\u2019s cry, and the app analyzes sound patterns and suggests possible reasons such as hunger, sleepiness, discomfort, or a need for attention.\n\nAYA also includes an AI Helper \u2014 your smart parenting assistant that helps answer everyday baby care questions and offers gentle guidance for sleep, feeding, crying, and newborn routines.\n\nMillions of parents use Cr",
+    "icon": "/icons/com.cry.analyzer.png"
+  },
+  "com.crycalm.app": {
+    "title": "Baby Feeding Tracker",
+    "package": "com.crycalm.app",
+    "description": "Baby Feeding Tracker helps parents easily record and monitor their baby\u2019s daily activities. Whether you are nursing, bottle-feeding, tracking diaper changes, or logging sleep, this app keeps everything in one simple place.\n\nWith this baby tracker, you can quickly add feeding times, measure durations with the baby feed timer, and review your history in the baby feed log. It\u2019s designed to reduce stress for new parents and provide clear insights into your baby\u2019s growth and well-being.\n\nKey Features:\n\n\ud83c\udf7c Baby feeding tracker \u2013 log breastfeeding, pumping, and bottle feeds.\n\n\u23f1 Baby feed timer \u2013 track feeding duration and intervals.\n\n\ud83d\udcd2 Baby feed log \u2013 review daily, weekly, or monthly records.\n\n\ud83d\udebc Baby feeding and diaper tracker \u2013 record pee and poo changes easily.\n\n\ud83d\ude34 Sleep & activity logging \u2013 moni",
+    "icon": "/icons/com.crycalm.app.png"
+  },
+  "com.crypto.twitter": {
+    "title": "AI Crypto Signals Bot Screener",
+    "package": "com.crypto.twitter",
+    "description": "\ud83d\ude80 Welcome to All In One Crypto: Your Gateway to AI-Powered Crypto Trading! \ud83d\ude80\n\nWelcome to a world where crypto trading is not just smarter, but also more intuitive and secure. Whether you're taking your first steps in crypto or are a seasoned trader, our All In One Crypto App is here to guide you every step of the way.\n\n\ud83e\udd16 AI Crypto Trading Bot & Robot\nForget those complex charts and endless data analysis. Our AI Crypto Trading Bot is like having a smart trading friend who never sleeps, always ready to catch the best trade opportunities for you.\n\n\ud83d\udca1 AI Crypto Trading Signals\nImagine having a crystal ball for the crypto market. Our AI Crypto Trading Signals are the next best thing - delivering you insights that help you make those winning moves.\n\n\ud83c\udfae First validate with result and Run\nOur Auto T",
+    "icon": "/icons/com.crypto.twitter.png"
+  },
+  "com.crystalpeak.fantasynamegenerator": {
+    "title": "FaNG - Fantasy Name Generator",
+    "package": "com.crystalpeak.fantasynamegenerator",
+    "description": "FaNG - is a universal fantasy name generator for tabletop role-playing games, which is an indispensable tool for players and masters. FaNG includes 8 fantasy settings, places, animals and people of 28 different nationalities. It will also allow you save and edit names and create themed lists for easy storage.\n\nFeatures:\n\u2605 8 basic settings:\n    - D&D,\n    - Middle-earth,\n    - Warhammer Fantasy,\n    - Warhammer  40,000,\n    - Pathfinder,\n    - Starfinder,\n    - The Elder Scrolls,\n    - World of Warcraft;\n\u2605 more than 100 races and nationalities;\n\u2605 more than 500,000 names and surnames;\n\u2605 you can save and edit generated names;\n\u2605 names can be stored in different lists.",
+    "icon": "/icons/com.crystalpeak.fantasynamegenerator.png"
   }
 }
