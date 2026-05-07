@@ -56884,5 +56884,683 @@
     "package": "com.dndapps.easyscan",
     "description": "Image Scanner is one of the most useful, reliable and professional Image Scanner and document editor application.\n\nIt is pre-loaded with powerful Image Scanner having optimized document scan algorithm along with basic photo manipulation and enhance effects like color, B&W and Gray. It is absolute offline so need to worry about document security. It\u2019s very easy to use because it has been design and developed by consideration of easy user experience as first priority.\n\nEnjoy Easy and Fast Image Scanner Application.\n\nFeatures available in this app:\n\n\u2b50Take Images from Camera or Gallery\n   * Open Application and pick Images either from Camera or Gallery and Enhance it in this application and share in with other application. Storing All Images in application, for your future use.\n\n\u2b50Direct Load I",
     "icon": "/icons/com.dndapps.easyscan.png"
+  },
+  "com.docquiz.app": {
+    "title": "DocQuiz AI: Study Smarter Quiz",
+    "package": "com.docquiz.app",
+    "description": "DocQuiz AI\u2014Study Smarter, Master Any Subject\n\nAI quiz generator for students, professionals, researchers, and lifelong learners.\n\nUpload ANY PDF, DOCX, or textbook (lecture notes, research papers, certification guides, medical manuals, engineering books, language courses\u2014anything).\nIn 10 seconds, get high-quality, AI-generated MCQs with detailed explanations.\n\nAvailable in 6 languages\u2014study in the language you think in:\n\n\u2022 English \u2022 Yor\u00f9b\u00e1 \u2022 Igbo \u2022 Hausa \u2022 \u0939\u093f\u0902\u0926\u0940 (Hindi) \u2022 \u4e2d\u6587 (Chinese)\n\nWorks 70% offline \u2022 Export as printable PDF \u2022 Track progress \u2022 Retake anytime\n\nHOW IT WORKS:\n\nUpload your PDF/DOCX or paste text\n\nAI instantly analyzes the content & creates smart MCQs with explanations\n\nPractice offline, review answers, improve weak areas\n\nExport your quiz as a clean, printable exam sheet (",
+    "icon": "/icons/com.docquiz.app.jpg"
+  },
+  "com.dog_identifier": {
+    "title": "Dog Breed Identifier - Dogium",
+    "package": "com.dog_identifier",
+    "description": "Meet Dogium, the Dog Breed Identifier that helps you understand the dog in front of you in seconds.\n\nSnap a photo to identify likely breeds, then explore temperament, care tips, and fun facts\u2014so you can make smarter choices for training, play, and daily routines. \ud83d\udc36\n\n\n\nKey features\n\n\u2022 Instant AI-powered dog breed identification from photos\n\n\u2022 Confidence scores for every identified breed, so you can judge results at a glance\n\n\u2022 Detailed breed information: size, traits, and typical characteristics\n\n\u2022 Temperament and behavior insights to help you understand energy level, sociability, and common tendencies\n\n\u2022 Care tips and guidelines for grooming, activity, and general upkeep\n\n\u2022 Full identification history so you can revisit past scans anytime\n\n\u2022 Customizable measurement units to match your pre",
+    "icon": "/icons/com.dog_identifier.png"
+  },
+  "com.dogidentifier.identifications.dos": {
+    "title": "Dog Breed Identifier Scanner",
+    "package": "com.dogidentifier.identifications.dos",
+    "description": "Dog Breed Identifier Scanner uses advanced AI to recognize any dog breed from a single photo. Point your camera at any dog, snap a picture, or upload from your gallery \u2014 get instant breed results in seconds.\n\n\u2605 AI BREED RECOGNITION\nOur machine learning model identifies 370+ recognized dog breeds. From popular breeds like Golden Retrievers and German Shepherds to rare breeds \u2014 get accurate results instantly.\n\n\u2605 MIXED BREED DETECTION\nNot sure what mix your rescue dog is? Dog Breed Identifier Scanner analyzes appearance and shows the likely breed combination with a percentage breakdown.\n\n\u2605 BREED PROFILES\nDiscover detailed profiles for every breed \u2014 temperament, size, physical traits, energy level, grooming needs, history, and care tips curated by dog experts worldwide.\n\n\u2605 CAMERA & GALLERY SUP",
+    "icon": "/icons/com.dogidentifier.identifications.dos.png"
+  },
+  "com.dolvexapplabs.grandtheftsalarymanager": {
+    "title": "Payroll & Salary Calculator",
+    "package": "com.dolvexapplabs.grandtheftsalarymanager",
+    "description": "Tired of staring at the clock? Start watching your wallet grow instead! \ud83d\ude97\ud83d\udca8\n\nTurn your daily grind into a live money meter with Payroll & Salary Calculator. Whether you are a salaried employee, a dedicated freelancer, or an overtime warrior, managing your hard-earned money has never been this fun.\n\nHit 'Start' and watch your earnings tick up every 0.1 seconds during your work hours. It\u2019s the ultimate motivation boost! From complex overtime calculations to managing your precious vacation days and budgeting for your next big purchase, we've got you covered.\n\n\u2728 Why You\u2019ll Love It:\n\n\u23f1\ufe0f Real-Time Salary Tracker\n\u2022 Watch your money grow live, down to the millisecond!\n\u2022 Calculates earnings strictly during your set work hours. The perfect tool for getting through a slow day at the office!\n\n\ud83d\udcb0 Complet",
+    "icon": "/icons/com.dolvexapplabs.grandtheftsalarymanager.png"
+  },
+  "com.domingo.videobackgroundchanger": {
+    "title": "Video Background Changer Pro",
+    "package": "com.domingo.videobackgroundchanger",
+    "description": "Transform your videos instantly with Video Background Changer Pro - the ultimate tool to remove, replace, and customize video backgrounds with ease. Whether you want a green screen effect, swap backgrounds with images, videos, or solid colors, or fine-tune the look of your clips, this app gives you full creative control.\n\nKey Features:\n\t\u2022\tRemove Video Background Automatically - no complicated editing needed.\n\t\u2022\tReplace Background with any photo, video, or custom color.\n\t\u2022\tGreen Screen Editor - replace backgrounds with chroma key (green, blue, or any color).\n\t\u2022\tCustom RGB Color Picker - select any exact shade for your background.\n\t\u2022\tPrecise Foreground & Background Control - scale, move, and position separately.\n\t\u2022\tProfessional Results - make your videos look polished for social media, prese",
+    "icon": "/icons/com.domingo.videobackgroundchanger.png"
+  },
+  "com.dominikgyecsek.networth": {
+    "title": "Net Worth Tracker & Analytics",
+    "package": "com.dominikgyecsek.networth",
+    "description": "Monitor every aspect of your financial portfolio with support for a wide array of asset types\n- Investments: Stocks, ETFs, Crypto, Funds, Trusts\n- Properties: Real Estate, Vehicles, Art, Collectibles, Antiques\n- Valuables: Jewelry, Precious Metals, Cash, Debit Cards\n- Liabilities: Credit Cards, Mortgages, Student Loans, Taxes\n- Each asset type features intuitive icons and easy categorization for instant recognition.\n\n\ud83d\udcb1 Global Currency Support\nChoose from over 160 world currencies as your base currency with automatic conversion. Track assets in different currencies and see unified totals - perfect for international investors and global wealth management.\n\n\ud83d\udcc8 Real-Time Market Data for\n- 66,000+ stocks worldwide\n- 14,300+ cryptocurrencies\n- 13,100+ ETFs\n- 4,200+ trusts\n- 2,200+ funds\n- 160+ cu",
+    "icon": "/icons/com.dominikgyecsek.networth.png"
+  },
+  "com.dora.ai.live3d.wallpaper.parallax": {
+    "title": "Live 3D & AI Wallpaper",
+    "package": "com.dora.ai.live3d.wallpaper.parallax",
+    "description": "Personalize your screen with live 3D & AI wallpaper! \ud83c\udfa8\u2728\n\u2728 Bring your screen to life and personalize your phone with a fun and expressive live wallpaper experience. You like creativity and humor? This app is made for you! By letting you customize wallpaper styles with diverse themes, from silly smiley face wallpaper to realistic parallax wallpaper with stunning 3D wallpaper effects that match your vibe.\n\n\ud83e\udd16 Customize with AI wallpapers\nUnlock your imagination! Use our advanced AI wallpaper function to personalize wallpaper styles from scratch. Simply input your ideas and watch as the AI crafts a live wallpaper that fit you perfectly.\n\n\ud83c\udfa8 Being unique in seconds!\nCustomize 3D wallpaper settings with ease! With just a few taps, you can switch between a silly smiley face theme or a futuristic 3D",
+    "icon": "/icons/com.dora.ai.live3d.wallpaper.parallax.png"
+  },
+  "com.dorms.app": {
+    "title": "Dorms.com",
+    "package": "com.dorms.app",
+    "description": "Student housing and hostels\n \nBook safe student housing and backpacker hostels. Dorms.com\n \nDesigned with students, backpackers and digital nomads in mind, our budget-friendly selection of student accommodations and hostels makes youth travel much easier and safer. From London to Paris, from Berlin to New-York, Dorms.com connects you with the best deals for student housing and backpackers hostels.\n \nDorms.com brings fast, easy and secure global student housing travel. Not sure where to head to next? Our app is full of information to help you get inspired. See what\u2019s hot in Amsterdam, find out the best place for a pint in Dublin, or locate the best beach in Sydney before you hit the road.\n\nWherever you want to go, you can easily find a studio or hostel downtown, in a trendy neighbourhood; a",
+    "icon": "/icons/com.dorms.app.png"
+  },
+  "com.dortes.handwriteai": {
+    "title": "CursiveAI: Text to Handwriting",
+    "package": "com.dortes.handwriteai",
+    "description": "CursiveAI: Text to Handwriting is a text to handwriting converter and handwriting AI app for Android. Convert typed text, PDF, and DOCX content into realistic handwritten notes, assignments, letters, worksheets, and PDF pages. Turn plain text into human handwriting with natural spacing, paper layouts, and fast export.\n\nIf you are looking for a text to handwriting converter, handwriting converter, handwriting AI, handwriting generator, or PDF to handwriting converter, CursiveAI is built for that exact job. Create handwritten notes for study, make handwritten assignments for class, convert text to handwriting for letters and worksheets, and export polished handwritten pages that are ready to save, print, or share.\n\nConvert text to handwriting with realistic results\nCursiveAI helps you create",
+    "icon": "/icons/com.dortes.handwriteai.png"
+  },
+  "com.dorukarslan.networthnow": {
+    "title": "Net Worth X",
+    "package": "com.dorukarslan.networthnow",
+    "description": "Step into a smarter world of asset management with Net Worth X. Just enter your asset amounts\u2014crypto, stocks, cash, or others\u2014and let our intelligent system do the heavy lifting. Enjoy real-time market data, daily background portfolio snapshots, dynamic graphs, and effortless currency conversion, all designed to put your financial future in clear focus. With smart widgets keeping your net worth at your fingertips, managing your wealth has never been this seamless.\n\nJoin now and start mastering your financial journey today!",
+    "icon": "/icons/com.dorukarslan.networthnow.png"
+  },
+  "com.dotnetideas.packinglist2": {
+    "title": "Packing List 2",
+    "package": "com.dotnetideas.packinglist2",
+    "description": "Introducing Packing List 2, the revamped edition of the Packing List by DotNetIdeas. Just like the original Packing List, you can easily create and customize packing lists for any trip, whether you're heading to the beach, hitting the slopes, or jetting off on a business trip.\nWith a simple and intuitive interface, Packing List 2 allows you to quickly add and remove items from your list, and easily organize them into categories such as clothing, toiletries, and electronics. You can also create multiple lists for different types of trips, and save them for future use.\nBut that's not all! Packing List 2 also offers helpful features such as group items by luggage or locations, and the ability to share your lists with friends and family. And with automatic syncing across all your devices, you ",
+    "icon": "/icons/com.dotnetideas.packinglist2.png"
+  },
+  "com.dotnetideas.packinglistfull": {
+    "title": "Packing List - Full",
+    "package": "com.dotnetideas.packinglistfull",
+    "description": "Packing List helps you create and maintain packing lists. It not only lets user to create a list from scratch, but also allows you to generate lists from an existing one. This application comes with several pre-loaded packing master lists. You can simply open the master list(or any existing list). Click on \u201cGenerate List/Mass Change\u201d menu item. Check the items you want for your trip and you will have a new packing list ready in no time. \n\nYou can group items by category, location and luggage. Each items also has note, quantity and weight fields. Mass change features allow you to edit lists more easily. You may also email and share your lists. Printing out a copy of the lists helps you in case of lost luggage. \n\nKey features include:\n\t\u2022 Pre-loaded master lists(for general use, international",
+    "icon": "/icons/com.dotnetideas.packinglistfull.png"
+  },
+  "com.dotori.cleanvoice": {
+    "title": "CleanVoice: AI Noise Remover",
+    "package": "com.dotori.cleanvoice",
+    "description": "Clean Voice is an AI-powered noise suppression recorder and audio enhancement tool.\nRecord crystal-clear audio in noisy cafes, subways, and public places, or enhance your existing audio files with advanced AI technology.\n\n\ud83c\udf99\ufe0f Real-Time AI Noise Suppression Recording\n- AI removes background noise in real-time while recording\n- High-quality 48kHz audio recording\n- Perfect for noisy cafes, subways, and public places\n- Professional-grade audio capture\n\n\ud83c\udfb5 Audio File Enhancement (NEW!)\n- Support for MP3, WAV, M4A, AAC, OGG, FLAC formats\n- Apply same AI noise removal technology to existing files\n- One-click background noise removal from voice recordings\n- Supports all sample rates 8kHz~192kHz (optimized at 48kHz)\n- Mono and stereo audio processing\n\n\ud83e\udd16 Advanced AI Technology\n- Powered by RNNoise dee",
+    "icon": "/icons/com.dotori.cleanvoice.png"
+  },
+  "com.downdogapp": {
+    "title": "Yoga | Down Dog",
+    "package": "com.downdogapp",
+    "description": "With Down Dog you get a brand new yoga practice every time you come to your mat. Unlike following pre-recorded videos, Down Dog won\u2019t make you do the same workout over and over again. With over 60,000 different configurations, Down Dog gives you the power to build a yoga practice you love!\n\nBEGINNER FRIENDLY\nStart in the comfort of your own home at our Beginner 1 Level and begin your yoga journey!\n\nMULTIPLE PRACTICE TYPES\nExplore Vinyasa, Hatha, Gentle, Restorative, and Yin.\n\nRELIEVE YOUR BACK PAIN\nAll our practices work to strengthen and stretch your back - if you want more, you can use the Boost feature to specifically target Backbends, Back Strength, or Low Back Stretches.\n\nCHOOSE VOICES\nChoose from 6 different yoga teachers to be guided by a voice you love.\n\nDYNAMIC CHANGING MUSIC\nMusi",
+    "icon": "/icons/com.downdogapp.png"
+  },
+  "com.dps.torchlight": {
+    "title": "FlashLight : Bright Torch",
+    "package": "com.dps.torchlight",
+    "description": "Flashlight: Bright Torch & LED\n\nFlashlight is a simple, fast, and reliable torch app designed for everyday use. With a clean interface and instant response, it helps you light up dark places quickly and safely. Whether you are navigating a power outage or need a quick light for a night walk, this app provides the brightest illumination at the touch of a button.\n\nKey Features:\n\nBright Flashlight \u2013 High-intensity steady LED light using your device's camera flash.\n\nBlinking Mode \u2013 Adjustable strobe light frequency for visibility or signaling.\n\nSOS Mode \u2013 Built-in international emergency SOS signal for safety in critical situations.\n\nScreen Light \u2013 Use your phone screen as a soft light source, perfect for reading.\n\nRed Light Mode \u2013 Optional red screen light to help preserve your night vision.\n",
+    "icon": "/icons/com.dps.torchlight.png"
+  },
+  "com.dragonnest.yeswriter": {
+    "title": "YesWriter - Writing, Notes",
+    "package": "com.dragonnest.yeswriter",
+    "description": "YesWriter is a fast, intuitive, and reliable writing and note-taking app that is easy to use with rich features. It is the essential tool for creating literary works, writing novels, brainstorming ideas, taking notes, managing to-do lists, recording personal thoughts, and pursuing artistic creativity.\n\n\u2b50 Efficient Recording and Creation\n\u2022 Rich text formatting: Easily customize text color, style, size, and spacing.\n\u2022 Support for text and image mixing, making your writing and notes more creative and engaging.\n\u2022 Create books and organize them by categories to handle daily writing, project management, and long-term creation with ease.\n\u2022 Perfect for writing novels and literary creations, with convenient chapter and story line management tools.\n\n\u2b50 Easy Management and Sharing\n\u2022 Organize your book",
+    "icon": "/icons/com.dragonnest.yeswriter.png"
+  },
+  "com.dragonpass.en.latam": {
+    "title": "Visa Airport Companion",
+    "package": "com.dragonpass.en.latam",
+    "description": "Enhance your travel experience with the Visa Airport Companion app\n\nVisa cardholders with an eligible Visa card issued in Latin America & the Caribbean, Canada and Central Europe, Middle East & Africa can elevate their airport experience with the Visa Airport Companion App.\n\nWith access to lounges worldwide, your Visa Airport Companion app has you covered.  Enjoy a seamless airport experience.\n\nKey Features:\n\nLounge Access: Enjoy access to global airport lounges as part of the Visa Airport Companion Program.\n\nMembership Management: Seamlessly manage multiple Visa Card memberships within one account.\n\nEntitlement Tracking: View your lounge access privileges and track your usage history with ease.\n\n \n\nLanguage Support:\n\nLatin America & Caribbean: Available in English, Spanish, and Portuguese",
+    "icon": "/icons/com.dragonpass.en.latam.png"
+  },
+  "com.drcalculator.android.mortgage": {
+    "title": "Karl's Mortgage Calculator",
+    "package": "com.drcalculator.android.mortgage",
+    "description": "Calculate mortgage payments given principal, interest and term. Reverse calculate any one variable given the other three.\n\nEnter a down payment amount or percentage and let the calculator show how large a mortgage you require.\n\nSee how the monthly payment changes when you factor in additional monthly or annual loan costs such as PMI, HOA, taxes and insurance.\n\nThe calculator supports Fixed and Adjustable Rate Mortgages (ARM) loans with up to five changes in interest rates. Interest-only mortgages loans are also supported.\n\nYou can pay off your mortgage early with extra payments. Add one-off, monthly and annual extra payments. Choose up to ten additional extra payment amounts and payment periods and the calculator will show how much money you can save on the loan.\n\nChoose from weekly to ann",
+    "icon": "/icons/com.drcalculator.android.mortgage.png"
+  },
+  "com.drcalculator.android.mortgagepro": {
+    "title": "Karl's Mortgage Calculator Pro",
+    "package": "com.drcalculator.android.mortgagepro",
+    "description": "This is the Pro version of Karl's Mortgage Calculator. The only change from the free version is that the adverts have been removed.\n\nCalculate mortgage payments given principal, interest and term. Reverse calculate any one variable given the other three.\n\nEnter a down payment amount or percentage and let the calculator show how large a mortgage you require.\n\nSee how the monthly payment changes when you factor in additional monthly or annual loan costs such as PMI, HOA, taxes and insurance.\n\nThe calculator supports Fixed and Adjustable Rate Mortgages (ARM) loans with up to five changes in interest rates. Interest-only mortgages loans are also supported.\n\nYou can pay off your mortgage early with extra payments. Add one-off, monthly and annual extra payments. Choose up to six additional extra",
+    "icon": "/icons/com.drcalculator.android.mortgagepro.png"
+  },
+  "com.dream_studio.animalsforkids": {
+    "title": "Animal Sounds for Kids",
+    "package": "com.dream_studio.animalsforkids",
+    "description": "Animals for kids is a free educational application designed for children aged 6 months to 5 years.\nToddlers through play learn to recognize the names and sounds of animals.\n\nThe application Animals for kids can also be used by the youngest children, who can not yet read. Natural animal sounds, simple operations and lectors available in 13 languages \u200b\u200b(Arabic, English, French, German, Italian, Portuguese, Russian etc.) by reading the animal names occupy and calm your child in a waiting room or in a car.\n\nAdvantages of the application:\n\u25cf natural animal calls,\n\u25cf a large number of animals,\n\u25cf intuitive usage,\n\u25cf pronunciation of names of animals,\n\u25cf animals automatic switching mode\n\u25cf parental lock,\n\u25cf support for 40 languages.\n\nAnimals in the applications are divided into five groups:\n\u25cf birds,\n\u25cf m",
+    "icon": "/icons/com.dream_studio.animalsforkids.png"
+  },
+  "com.dreamai.grownote": {
+    "title": "GrowNote: Baby Growth Tracker",
+    "package": "com.dreamai.grownote",
+    "description": "GrowNote \u2013 Child Growth Tracker & Baby Growth Chart\n\nGrowNote is a simple and powerful child growth tracker designed for modern parents. Easily record your baby\u2019s height, weight, and growth data, and instantly see how your child compares to trusted WHO and CDC growth charts.\n\nWhether you\u2019re tracking a newborn, toddler, or older child, GrowNote helps you monitor every stage with clarity and confidence.\n\n\u2e3b\nSmart Baby & Child Growth Tracking\n\n\u2022 Track height and weight with an easy-to-use interface\n\u2022 Monitor baby growth and child development over time\n\u2022 Automatically calculate growth percentiles\n\u2022 View detailed baby growth charts in seconds\n\nNo spreadsheets. No scattered notes. Just a clean and reliable growth tracking experience.\n\nWHO & CDC Growth Charts\n\nCompare your child\u2019s measurements wit",
+    "icon": "/icons/com.dreamai.grownote.png"
+  },
+  "com.dreamapp.app": {
+    "title": "DreamApp: Journal & Dictionary",
+    "package": "com.dreamapp.app",
+    "description": "Dream Meanings, Interpretation, and Journal | Explore dream themes (Dictionary) | Find mental clarity\n\nSo, what do those strange dreams mean? How to interpret it?\nWith personalized meanings and therapist guidance, get to know your dreams and yourself at a deeper level with the dream interpretation app.\n\nGrounded in tradition and backed by science, we delve into your dreams so you can understand your subconscious mind. DreamApp is a companion who will listen in a friendly manner, give advice, and connect the dots between your dreams and your life.\n\nDiscovering the hidden meanings of your dreams is just the beginning. Do you need help to feel confident in your decisions? Is it difficult to find peace for yourself and your life? Your dreams may be telling you how to take on your biggest chall",
+    "icon": "/icons/com.dreamapp.app.jpg"
+  },
+  "com.dreaminterpretationjj": {
+    "title": "Dream Interpretation",
+    "package": "com.dreaminterpretationjj",
+    "description": "Our dreams hold messages and emotions from the depths of our minds.\nThis app allows users to input their dream content, analyze the symbolic meanings, and provide an interpretation of its message. Explore dream meanings from various cultural perspectives, offering a new way to understand dreams for users worldwide.",
+    "icon": "/icons/com.dreaminterpretationjj.png"
+  },
+  "com.dreamjournal.interpretation": {
+    "title": "Dream pi - meaning of dreams",
+    "package": "com.dreamjournal.interpretation",
+    "description": "Dream Interpretation Journal is an AI-powered dream journal app designed to help you explore the deeper dream meaning behind your nightly experiences. Easily record your dreams and receive insightful dream interpretation based on traditional religious texts and scientific perspectives.\n\nWhether your dreams are symbolic, spiritual, emotional, or mysterious, our app helps you understand them through multiple viewpoints including Hinduism, Buddhism, Christianity, Islam, and modern science.\n\n\ud83c\udf19 Record Your Dreams Easily\n\nUse the built-in dream journal to:\n\nWrite and save detailed dream entries\n\nOrganize dreams by date\n\nReflect on patterns and recurring themes\n\nTrack emotional states\n\nYour personal dream journal keeps your thoughts organized and secure.\n\n\ud83e\udd16 AI-Powered Dream Interpretation\n\nOur in",
+    "icon": "/icons/com.dreamjournal.interpretation.png"
+  },
+  "com.dreamlab.breakupandhope.messages": {
+    "title": "Breakup and Hope Love Messages",
+    "package": "com.dreamlab.breakupandhope.messages",
+    "description": "\ud83d\udc94 Breakup and Hope \u2013 Your Pocket Companion for Healing and Moving On\nGoing through heartbreak? Feeling lost, stuck, or just needing something to hold onto? Breakup and Hope is more than just an app, it's a soft place to land when love falls apart.\n\nWe\u2019ve created a comforting space for those navigating breakups, loneliness, or emotional pain, whether it\u2019s a recent heartbreak or a memory that still lingers. You\u2019ll find love messages and quotes that understand your situation deeply, without clich\u00e9s or pressure to \u201cjust move on.\u201d So, you can send these quotes and messages for you him or her, or you may keep them for yourself.\n\nOur app delivers real, heartfelt texts tailored for the most difficult emotional moments. Whether you\u2019re crying at 3am or reflecting quietly on your past, we\u2019re here wit",
+    "icon": "/icons/com.dreamlab.breakupandhope.messages.png"
+  },
+  "com.dreams_by_oliva": {
+    "title": "Dream Meanings",
+    "package": "com.dreams_by_oliva",
+    "description": "Dream Meanings helps you explore dream symbols and understand possible interpretations of common dreams. Discover meanings behind dream themes, emotions, and symbols through a structured and easy-to-use reference.\n\nThe app provides explanations of dream symbols to support curiosity, reflection, and personal exploration.\n\nDream Symbol Library\n\n\u2022 Explore common dream symbols\n\u2022 Learn possible meanings of dream elements\n\u2022 Understand themes often seen in dreams\n\u2022 Discover interpretations connected to emotions and situations\n\nDream Interpretation\n\n\u2022 Learn how symbols may appear in dreams\n\u2022 Explore different possible meanings\n\u2022 Understand recurring dream themes\n\nSearch and Discovery\n\n\u2022 Search dream symbols quickly\n\u2022 Use advanced search to find specific themes\n\u2022 Browse dream topics easily\n\nLearnin",
+    "icon": "/icons/com.dreams_by_oliva.png"
+  },
+  "com.dreamsbook.app": {
+    "title": "Dreams Book and Interpretation",
+    "package": "com.dreamsbook.app",
+    "description": "This version introduces weekly dream reports, offering insights drawn from your dreams, plus more advisors in psychic, tarot, and love & relationships to guide you through important life decisions.\n\nEmbark on a spiritual journey into the depths of your subconscious with \u201cDreams Book and Interpretation,\u201d your ultimate companion for unraveling the mysteries of your dreams. Our app offers a unique blend of features\u2014including dream journaling, interpretation, a dream dictionary, and in-depth analysis\u2014designed to guide you through the complex landscape of your inner world, providing clarity and profound insights into your true self.\n\n\ud83d\udcad Capture Every Vision:\nWith \u201cDreams Book,\u201d documenting and exploring your nighttime visions becomes effortless. Our intuitive dream journal allows you to record e",
+    "icon": "/icons/com.dreamsbook.app.png"
+  },
+  "com.dressify.aiclotheschanger": {
+    "title": "AI Clothes Changer - Dressify",
+    "package": "com.dressify.aiclotheschanger",
+    "description": "\ud83d\udc57 Dressify \u2013 AI Clothes Changer, AI Dress Up & Virtual Fitting Room\n\nWelcome to Dressify, the all-in-one AI Clothes Changer, AI Dress Up app, and Virtual Fitting Room designed to help you try outfits virtually, explore new styles, and make confident fashion decisions without changing clothes in real life.\n\nEver wondered how an outfit would look on you before buying it? Want to dress up differently for photos, events, or social media? Dressify uses advanced AI technology to generate realistic AI outfits directly on your photo in seconds.\n\n\ud83d\udc5a AI Clothes Changer \u2013 Change Clothes Instantly\n\nDressify makes changing clothes effortless with powerful AI.\n\nHow it works:\n\n\u2022 Upload one photo\n\u2022 Choose an outfit or style\n\u2022 Let AI generate a realistic new look\n\nTry casual wear, formal outfits, party dres",
+    "icon": "/icons/com.dressify.aiclotheschanger.png"
+  },
+  "com.drew.aibusinessplan": {
+    "title": "AI Business Plan & Lean Canvas",
+    "package": "com.drew.aibusinessplan",
+    "description": "AI Business Plan & Lean Canvas is your intelligent assistant for creating complete, professional business plans and Lean Canvas models effortlessly. Whether you're an entrepreneur, student, or consultant, this app helps you turn your business idea into a clear, actionable plan ready to present to investors, partners, or mentors.\n\nSimply describe your business concept, and the AI instantly generates a comprehensive plan covering key sections such as:\n\nExecutive Summary\n\nMarket Analysis\n\nValue Proposition\n\nCustomer Segments\n\nMarketing Channels\n\nFinancial Overview\n\nCompetitive Advantage\n\nRevenue and Cost Structure\n\nYou can also generate a Lean Canvas to visualize your business model and quickly identify strengths, challenges, and growth opportunities. The app organizes all key components into",
+    "icon": "/icons/com.drew.aibusinessplan.png"
+  },
+  "com.drillyapps.babydaybook": {
+    "title": "Baby Daybook - Newborn Tracker",
+    "package": "com.drillyapps.babydaybook",
+    "description": "Join over 2 million parents who trust Baby Daybook \u2013 the all-in-one baby tracker that makes parenting easier from day one!\nTrack feedings, sleep, diaper changes, growth milestones, and health \u2013 with an easy newborn tracker built for busy parents.\n\nWith Sleep Predictions, you\u2019ll get a real-time, personalized sleep schedule that adapts as you log naps and wake times. See ideal nap times on a visual sleep timeline and receive smart reminders before your baby gets overtired. Backed by expert recommendations and tailored to your baby\u2019s sleep patterns, Baby Daybook helps you build healthy routines and better sleep.\n\nTrack every detail easily: breastfeeding, pumping, bottle-feeding, or starting solids.\nReal-time family sync lets you share updates instantly with partners, caregivers, and daycare.\n",
+    "icon": "/icons/com.drillyapps.babydaybook.png"
+  },
+  "com.drink.water.reminder.alarm.tracker": {
+    "title": "Daily Water Tracker - Waterful",
+    "package": "com.drink.water.reminder.alarm.tracker",
+    "description": "Meet your favorite water tracker app with a drink water reminder. Download now, drink water and stay hydrated \ud83d\udca7\n\nDrinking regularly is not a problem with Waterful - drink water reminder app available on Google Play. With this water app, you\u2019ll know exactly when it\u2019s time to drink water and by using drink water reminders you\u2019ll fight dehydration fast. \nUnlike other water trackers, this drinking water reminder app offers water reminder FOR FREE. \nJust one water app with all the free features you need: water tracker, intake calculator, personalized drinking water reminder, hydration coach and h2o statistics.\nSee how Waterful and its water reminder will help you to drink more water \ud83d\udc47\n\n\ud83d\udca7 DRINK ENOUGH WITH WATER INTAKE CALCULATOR\n\nHow much h2o to drink? Check it out! Our water tracker calculates",
+    "icon": "/icons/com.drink.water.reminder.alarm.tracker.png"
+  },
+  "com.drmiaji.kanzulimaan": {
+    "title": "Quran App: Audio, Tafsir, Duas",
+    "package": "com.drmiaji.kanzulimaan",
+    "description": "\ud83c\udf1f WHAT MAKES US UNIQUE\n\n\ud83d\udcda QURANIC ENCYCLOPEDIA\nOnly app that lets you search Quran by SUBJECT\n\u2022 Find all verses about: Mercy, Justice, Prophet, Patience, Knowledge, Forgiveness...\n\u2022 Cross-referenced with verse numbers\n\u2022 Perfect for students & deep study\n\u2022 No other Quran app has this feature!\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83d\udcd6 MOST COMPLETE QURAN COLLECTION\n\n\ud83c\udfa7 Audio Recitations\n\u2705 20+ authentic recitations\n\u2705 Qari Abdul Basit, Sudais, Mishari & more\n\u2705 High-quality MP3 format\n\u2705 Background playback while using other apps\n\u2705 Speed control for learning\n\u2705 Play verse range for memorizing Quran\n\n\ud83d\udcdd Translations\n\u2705 285 translations\n\u2705 95+ languages supported\n\u2705 Compare up to 6 translations side-by-side\n\u2705 Perfect for multilingual families\n\n\ud83d\udcda Tafsir & Commentary\n\u2705 Ibn Kathir Tafsir, Al-Sa'd & Boyanul\n\u2705 Ve",
+    "icon": "/icons/com.drmiaji.kanzulimaan.png"
+  },
+  "com.droid.beard.man": {
+    "title": "Beard Man: Beard Styles Editor",
+    "package": "com.droid.beard.man",
+    "description": "\ud83d\udc73\ud83c\udffb Beard Man App for making beard and changing hairstyles of selfies is arrival!!!\n\ud83d\udc68\ud83c\udffb Are you dying to have different beard styles and strong muscles for entertainment?\n\ud83d\udc73\u200d Do you want to try a good range of accessories to surprise your friends?\n\ud83d\udc71\u200d Do you want a tattoo by one click without mom\u2019s nagging?\n\ud83d\udc68\u200d Go and find your own styles in Beard Man - Beard Styles!  \n\u00a0\n\ud83d\udcaf  An impressive look makes you a trendsetter to your friends.  Beard Man, the interesting and easy-to-use mustache & beard photo editor,\ud83c\udf1f will change your selfies with numerous beard styles, hairstyles as well as multifarious ornaments!\ud83d\udd25 It can even add \u2018muscles\u2019 to your body. With the only one app, you could \u2018become\u2019 a charm bearded man, a cool rapper, a well-built model and so on!\u2764 Just try and edit photo to share in the soc",
+    "icon": "/icons/com.droid.beard.man.png"
+  },
+  "com.droid8studio.sketch.photo": {
+    "title": "Pencil Sketch Photo Art",
+    "package": "com.droid8studio.sketch.photo",
+    "description": "Pencil Sketch Photo maker is an Photography  Application that can make your photo like a real sketch Photo. You can make sketch of your png or jpg photos easily by using This \" Sketch Photo maker \" application. Create Pencil Sketch and Paint of Your Photo Like an Artist.\nJust pick a png or jpg photo from mobile gallery or camera and make drawing like sketch of it easily by using this \"sketch Photo maker\" application. We have include many sketch styles and drawing Styles in this application you can pick any one from them easily. You can make easily Pencil Sketch by using this \"sketch Photo maker\". You can  easily save your sketch photos and share them on social media.\n\n=>>Features of This Photography \"Pencil Sketch\" App .\n\n1: Doodle Style Cartoon Filters of portrait and landscape png or jpg",
+    "icon": "/icons/com.droid8studio.sketch.photo.png"
+  },
+  "com.dropouts.vehicle_identifier": {
+    "title": "Vehicle Identifier: AI Scanner",
+    "package": "com.dropouts.vehicle_identifier",
+    "description": "Spot. Scan. Identify.\n\nTurn your iPhone into a powerful vehicle spotter and scanner with Vehicle Identifier: AI Scanner \u2013 the ultimate tool for car enthusiasts, travelers, and curious minds!\n\nJust snap a photo of any vehicle, whether it\u2019s a motorcycle, car, yacht, plane, or even a rare vintage model and let our cutting-edge AI identify it instantly. \nFrom the model name and manufacturer to the country of origin, estimated price, and detailed background, you get the full picture in seconds.\n\nOur AI is trained on over 45,000+ Vehicles!\n\nWhether you're a passionate vehicle scout, a hobbyist into spotting, or just someone who wants to detect and learn more about what\u2019s on the road (or sea or sky), this app is your go-to identifier.\n\nFeatures:\n\n\u2022 Scan and identify cars, motorcycles, planes, yac",
+    "icon": "/icons/com.dropouts.vehicle_identifier.png"
+  },
+  "com.drpu.breakupmoveonquotes": {
+    "title": "Break Up and Move on Quotes",
+    "package": "com.drpu.breakupmoveonquotes",
+    "description": "An amazing Collection of heart touching break up Picture quotes images and Sayings to provide strength in tough times to overcome a breakup and help to move on in life. \n\nThey say that breaking up is hard to do, and these break up quotes can help you get to a healthy place and put the past behind you. Love starts with a hug, grows with a kiss, and ends with a tear. Instead of crying over your ex, you should spend time laughing over silly breakup quotes. Wipe those tears away so you can move on with your life.\n\nExpress what you are feeling and what you have learnt from your past relationship and experiences. Show your attitude by sharing these amazing quotes and let everyone know that how strong you are. We have compile all flavors of categories of Breakup and Move on quotes such as:\n\nFirst",
+    "icon": "/icons/com.drpu.breakupmoveonquotes.png"
+  },
+  "com.dsign.iponsavingsgoal": {
+    "title": "Savings Tracker: Money Goal",
+    "package": "com.dsign.iponsavingsgoal",
+    "description": "\ud83d\udcb0 Save Smarter with Piggy Bank \u2013 The Ultimate Savings Goal & Cloud Tracker \ud83d\udc37\n\nBuild lasting saving habits with a fun, visual, and smart savings tracker designed to help you reach your goals faster. Piggy Bank Savings Tracker or Savings Tracker: Money Goal is more than just a digital coin bank\u2014it\u2019s your personal financial planner, now with Secure Cloud Sync and Global Currency Support.\n\nWhether you're saving for a new gadget, a dream travel, an emergency fund, or tuition, Piggy Bank makes money tracking simple, motivating, and secure.\n\n\ud83c\udfaf WHY CHOOSE PIGGY BANK?\n\nUnlike basic spreadsheets or manual lists, Piggy Bank keeps you engaged with:\n\u2714 Visual Progress Tracking: Watch your goal image reveal itself.\n\u2714 Cloud Security: Never lose your data, even if you switch phones.\n\u2714 Smart Calculations: K",
+    "icon": "/icons/com.dsign.iponsavingsgoal.png"
+  },
+  "com.dt.vfo": {
+    "title": "Tarot Card Reading and Meaning",
+    "package": "com.dt.vfo",
+    "description": "Get Your First Chat with Trusted Tarot Readers \ud83d\udcaf\n\nUnlock the mysteries of the tarot with the ultimate app for tarot card reading, psychic reading, and mastering the meanings of tarot cards. Start your journey with a free chat, guided by our trusted psychic readers and powered by advanced AI, to gain clarity and answers to life\u2019s most pressing questions. Whether you\u2019re exploring yes or no tarot, seeking guidance about love, career, or health, or diving into the art of tarot divination, our app has everything you need.\n\n\ud83d\udcac Live Chat with AI Psychic Reader\u2028Experience the future of tarot reading with a live psychic chat. Available anytime, this feature provides instant answers to all your questions. Perfect for beginners and experienced users alike, it\u2019s your trusted companion for tarot divinat",
+    "icon": "/icons/com.dt.vfo.png"
+  },
+  "com.duasaudara.nurseryrhymes": {
+    "title": "Nursery Rhymes - Offline Songs",
+    "package": "com.duasaudara.nurseryrhymes",
+    "description": "Offline application contains game and collection of children's songs which is an application for educating children with songs that are age-appropriate for shaping the children character\u2019s. A stand alone application that do not require a link with other applications, just touch and play. It is the perpect app for road trip, flights or just to keep children engaged at home with educational app.\nCopyright of songs and the lyrics on this application belong to origin singers, song writers, musicians and producers. If you are the copyright holder of the songs on this application and do not want your song is displayed, please contact us by developer email and tell us about your ownership status over the song. We will immediately remove the songs or lyrics.\nWe apologize if there are errors on thi",
+    "icon": "/icons/com.duasaudara.nurseryrhymes.png"
+  },
+  "com.dubaipolice.signlanguage": {
+    "title": "Sign Language - \u0644\u063a\u0629 \u0627\u0644\u0625\u0634\u0627\u0631\u0629",
+    "package": "com.dubaipolice.signlanguage",
+    "description": "The application of sign language that was developed in the Dubai Police is one of the applications that have been developed in implementation of the belief in the importance of the Dubai Police Service and the owners take care of motivation (with special needs) the optimal way where the application aims to contribute to public education in all classes on sign language. Use the sign language program to strengthen your skills in communication with the important segment of society. Learn sign language by a competent and professional teacher. Shorten the time and effort easily and enjoy the program to ask the content. The application has a distinct bouquet of educational videos covering more signals used are classified in a clear way to facilitate learning method.\n\n\nApplication Download Now! A",
+    "icon": "/icons/com.dubaipolice.signlanguage.png"
+  },
+  "com.dubscript.dubscript": {
+    "title": "DubScript Screenplay Writer",
+    "package": "com.dubscript.dubscript",
+    "description": "Designed for writers of film, TV, and online scripted projects, DubScript is an industry-strength, open-standard screenplay editor with pro features.\n\nRead Final Draft (.fdx) or Fountain script formats and edit in plain-text. Then output your auto-formatted screenplay to print, PDF, and .fdx.  Also edit plain text Markdown markup files (ending in .md).\n\nPlain-text in. Screenplay out.\n\nCreate a new script and write naturally in the free-flowing plain-text editor -- without the \"screenplay software formatting stuff\" getting in your way. Don't break your writing flow to manually format or indent characters, slug lines, parentheticals, or action. Write uninterrupted-- scenes start with INT. or EXT, capitalize CHARACTER names, double-space between dialog.\n\nIn other words, make your screenplay l",
+    "icon": "/icons/com.dubscript.dubscript.webp"
+  },
+  "com.duckien_dev.firstaid_pro": {
+    "title": "FirstAid Manual\u2013Offline Guide",
+    "package": "com.duckien_dev.firstaid_pro",
+    "description": "\ud83d\ude91 FIRST AID Manual- Your Emergency Medical Assistant\n\nFirst Aid Pro is a comprehensive mobile application that provides instant first aid guidance and intelligent AI support during medical emergencies. Whether you're facing a critical situation or need quick medical advice, we're here to help.\n\n\u2728 KEY FEATURES\n\n\ud83c\udfe5 Detailed First Aid Guides\n- Browse comprehensive first aid instructions for common medical emergencies\n- Step-by-step guidance with clear illustrations\n- Trusted medical information at your fingertips\n\n\ud83e\udd16 AI-Powered Medical Assistant\n- Chat with our intelligent AI for quick medical advice\n- Get personalized responses to your health concerns\n- Available 24/7 for emergency guidance\n\n\ud83d\udcde Emergency Hotlines\n- One-tap access to emergency contact numbers in Vietnam\n- Quick connection to eme",
+    "icon": "/icons/com.duckien_dev.firstaid_pro.jpg"
+  },
+  "com.wildlife.games.battle.royale.free.zooba": {
+    "title": "Zooba: Fun Battle Royale Games",
+    "package": "com.wildlife.games.battle.royale.free.zooba",
+    "description": "\ud83d\udd25 Dive into Zooba: Epic Brawl Battle Royale - A Free Online Multiplayer Shooting Game!\n\nWelcome to Zooba, the ultimate brawl battle royale game where you become a star by battling against online players in an intense multiplayer shooting experience. Ready, set, frag, and fire your way to the top!\n\n\ud83c\udf1f Key Features:\n\u2022 Free online multiplayer game for endless hours of fun\n\u2022 Fast-paced battle royale action with unique shooting mechanics\n\u2022 Choose from a variety of characters with distinct abilities and playstyles\n\u2022 Challenge your friends or play solo in intense battles\n\u2022 Level up and unlock new abilities to dominate the Zooba battlegrounds\n\u2022 Collect and upgrade weapons for devastating firepower\n\u2022 Compete in seasonal events and climb the ranks to become the top star\n\n\ud83d\udca5 Dominate the Zooba Arena an",
+    "icon": "/icons/com.wildlife.games.battle.royale.free.zooba.webp"
+  },
+  "com.Nobodyshot.kuboom": {
+    "title": "KUBOOM 3D: FPS Shooting Games",
+    "package": "com.Nobodyshot.kuboom",
+    "description": "Like PVP FPS games? Want to play a real action shooter game? Ready to take on the challenge?\n \nThen join KUBOOM \u2014 a multiplayer first-person shooter with various shooting modes. In this shooter game, you will find everything you need: unique locations, weapon customization, several game modes to suit your playing style, a marketplace to trade with other players and much more. Compete with millions of players from all over the world, promote your fighter to the world top, join the strongest clan or create your own.\n \nChoose a character and customize it. Get a firearm and show the enemies, who\u2019s the boss of the battlefield. In this multiplayer game, you can find almost any weapon: pistol, shotgun, machine gun, or a sniper rifle. Choosing the weapon, pay attention to its stats: each piece var",
+    "icon": "/icons/com.Nobodyshot.kuboom.png"
+  },
+  "com.criticalforceentertainment.criticalops": {
+    "title": "Critical Ops: Multiplayer FPS",
+    "package": "com.criticalforceentertainment.criticalops",
+    "description": "Critical Ops is a 3D multiplayer FPS designed exclusively for mobile.\n\nExperience intense action, where fast reflexes and tactical skills are essential to success. Are you ready to prove yourself in the most skill-based mobile FPS?\n\nFEATURES\nCritical Ops is a first-person shooter that features competitive combat through beautifully crafted maps and challenging game modes. Battle it out alongside your band of brothers or lead an individual scoreboard. Will you fight as a member of Coalition or The Breach to resolve the next high-stakes standoff?\n\nThe outcome is determined by your skill and your strategy. Every fraction of a second and every small delta in your aim or timing can make all the difference. Critical Ops has no in-app purchases that give a competitive advantage. We guarantee a fa",
+    "icon": "/icons/com.criticalforceentertainment.criticalops.png"
+  },
+  "com.frvr.krunker": {
+    "title": "Krunker FRVR - Multiplayer FPS",
+    "package": "com.frvr.krunker",
+    "description": "Love mobile FPS but don't love waiting half an hour for the latest patch to download? KRUNKER FRVR is the game you've been looking for. \n\nEnter the Krunker universe using any kind of mobile device, and compete in a cross-platform REAL-TIME MULTIPLAYER EXPERIENCE that supports chaotic 10 player matches across a pool of scenic locations.\n\nDiscover HUNDREDS OF UNIQUE COSMETIC ITEMS - from back-mounted laser swords to a straight up shopping trolley.\n\nThis is far from the final form of Krunker FRVR, however...\nJoin us on our journey through the early stages of our BETA RELEASE - there's an awful lot more in store!",
+    "icon": "/icons/com.frvr.krunker.png"
+  },
+  "com.dumplingsandwich.pencilsketch": {
+    "title": "Pencil Sketch",
+    "package": "com.dumplingsandwich.pencilsketch",
+    "description": "Pencil Sketch is an easy-to-use photo editor to make you an artist by creating pencil sketches from your photos!\n\nYou can pick a picture from your gallery or capture one with your camera to generate the sketch. Both black-white and color photo sketch can be easily created by just one button click.\n\nPencil Sketch provides four styles: \"Pencil\", \"Sketch\", \"Doodle\" and \"Comic\". \"Pencil\" style creates pencil sketches with smooth edges and curves, which is a perfect choice if you like handmade drawings and paintings. \"Sketch\" style creates photo sketch with accurate contour. \"Doodle\" option converts a photo into a doodle style cartoon photo. It works great for portrait photos taken from your selfie camera, and you will get a lot of extra attention after posting them to your social channels. \"Co",
+    "icon": "/icons/com.dumplingsandwich.pencilsketch.png"
+  },
+  "com.duolingo.literacy": {
+    "title": "Learn to Read - Duolingo ABC",
+    "package": "com.duolingo.literacy",
+    "description": "From the creators behind Duolingo, the world\u2019s #1 education app, comes Duolingo ABC! Duolingo ABC is the fun, hands-on way for your child to learn to read and write in English! From preschool to first grade, engage your child with delightful stories for kids and bite-sized lessons teaching the alphabet, phonics, sight words, vocabulary, and more.\n\nThe Duolingo ABC kids reading app offers over 700 hands-on reading lessons designed to help kids learn and love to read. We make learning to read both fun and effective with lessons and educational games for kids that include multi-sensory activities, such as tracing, drag-and-drop prompts and more. Our educational learning app offers personalized lessons so your child can learn at their own pace.\n\nDevelop reading comprehension skills with educat",
+    "icon": "/icons/com.duolingo.literacy.png"
+  },
+  "com.zeptolab.bulletecho.google": {
+    "title": "Bullet Echo: PVP Shooter",
+    "package": "com.zeptolab.bulletecho.google",
+    "description": "Like action shooters? Bullet Echo is an exciting PvP tactical top-down shooter. Use stealth, team up, and shoot to win in this shooting game with multiplayer!\n\nChoose from dozens of different heroes with unique play styles, guns and abilities.\nUnite with friends, set a strategy, and be the last team standing when the battle ends!\n\n- UNIQUE TACTICAL STEALTH ACTION: Your vision is limited by the beam of a flashlight, but you can hear enemies' steps and shots.\n- DESIGNED FOR TEAM PLAY: Start playing with friends online right away! The level of your hero is matched with the highest level in the party.\n- MULTIPLE GAME MODES: Team vs Team, Solo and Battle Royale mode with 5 small teams on one map.\n- UNLOCK AND UPGRADE NEW HEROES: Each hero has a unique set of abilities. Rank up to boost your her",
+    "icon": "/icons/com.zeptolab.bulletecho.google.png"
+  },
+  "com.dvh.fishid": {
+    "title": "FishID - Fish Identifier",
+    "package": "com.dvh.fishid",
+    "description": "Fish Identifier is a smart and easy-to-use app that helps you identify fish species in seconds using AI-powered image recognition. Simply take a photo or upload an image, and the app will analyze it to provide accurate identification and useful information.\n\nWhether you are a fisherman, aquarist, student, traveler, or nature lover, Fish Identifier is your perfect companion to explore the underwater world.\nKey Features\n- Instant Fish Identification\nIdentify thousands of freshwater and saltwater fish species with just one photo.\n- Accurate AI Recognition\nPowered by advanced artificial intelligence for fast and reliable results.\n- Detailed Fish Information\nLearn about species name, habitat, characteristics, diet, and behavior.",
+    "icon": "/icons/com.dvh.fishid.jpg"
+  },
+  "com.dynamiqdata.r2s": {
+    "title": "Sheetify: AI Receipt Scanner",
+    "package": "com.dynamiqdata.r2s",
+    "description": "Scan any receipt and watch it land as a clean row in your Google Sheet. Sheetify is the AI-powered receipt scanner, tracker, and organizer that turns paper into structured data, automatically synced to Google Sheets in real time. No manual entry. No spreadsheet wrangling. Just scan, and the data is there.\n\nOrganize expenses effortlessly, anytime. With Sheetify, your all-in-one receipt tracker, receipt scanner, and receipt organizer, managing your receipts and personal finance has never been easier.\n\nInstantly scan any receipt using our smart receipt scanner and turn it into structured data reports that sync directly to Google Sheets.\n\nWhether the goal is keeping books for a business, prepping for tax season, or organizing personal expenses, Sheetify turns every receipt into a structured ro",
+    "icon": "/icons/com.dynamiqdata.r2s.png"
+  },
+  "com.e9foreverfs.note": {
+    "title": "Smart Note - Notes, Notepad",
+    "package": "com.e9foreverfs.note",
+    "description": "Smart Note is a succinct and efficient notepad that allows you to capture and organize your ideas. \nYou can manager your schedules and notes with Smart Note. It gives you a quick and simple notepad editing experience when you write notes or to do list. It makes to take a note easier than any other notepad.\n\n\ud83c\udf1fTAKE NOTES\nSmart Note offers different ways to take notes and capture your thoughts. You can also attach photos or files to your notes for easy reference.\n\n\ud83c\udf1fVOICE NOTES\nSmart Note also provides a way to record audio to record your whimsy.\n\n\ud83c\udf1fTO-DO LIST\nYou can also add to-dos to keep your work and life organized.\n\n\ud83c\udf1fBACKUP DATA\nYou can easily back up your notes in case you lose them. You can choose to back up to Google Drive, or you can choose to back up locally.\n\n\ud83c\udf1fDARK MODE\nYou can choo",
+    "icon": "/icons/com.e9foreverfs.note.png"
+  },
+  "com.easecraft.financialcalculator": {
+    "title": "Financial Calculator",
+    "package": "com.easecraft.financialcalculator",
+    "description": "\ud83c\udfaf All-in-One Financial Toolkit\nCalculate SIP returns, EMI, compound interest, loan eligibility, and much more with our comprehensive financial calculator app. Perfect for investors, home buyers, and financial planning enthusiasts.\nAll-in-One Financial Toolkit\n\nInvestment Calculators\nSIP Calculator\nMutual Fund Calculator\nSWP Calculator\nLumpsum Calculator\nCAGR Calculator\n\nLoan & EMI Calculators\nEMI Calculator\nHome Loan Calculator\nLoan Comparison Calculator\n\nDeposit & Savings Calculators\nFD Calculator\nRD Calculator\nPPF Calculator\nNPS Calculator\nSSY Calculator\n\nBasic & Utility Calculators\nSimple Interest Calculator\nCompound Interest Calculator\nCurrency Calculator\nTime Cost Calculator\nTrip Cost Calculator\nGold Calculator\n\nFinancial Planning Tools\nRetirement Planner\nEducation Planner\nEmergency F",
+    "icon": "/icons/com.easecraft.financialcalculator.jpg"
+  },
+  "com.eastfrisia.aigeometrysolver": {
+    "title": "Geometry Solver - Geometry AI",
+    "package": "com.eastfrisia.aigeometrysolver",
+    "description": "Unlock the power of AI to conquer any geometry challenge with Geometry Solver - Geometry AI! This revolutionary app combines cutting-edge artificial intelligence with comprehensive mathematical expertise to provide instant, step-by-step solutions to all your geometry problems.\n\nKey Features:\nSolve Any Geometry Problem: From basic angles to complex theorems, our AI can handle it all.\nPhoto Input: Simply snap a picture of your geometry question, and let our advanced image recognition do the rest.\nManual Input: Type in your problem for quick and accurate solutions.\nDetailed Step-by-Step Answers: Learn as you go with clear, comprehensive explanations for each solution.\nUser-Friendly Interface: Intuitive design makes problem-solving a breeze for students and professionals alike.\nInstant Results",
+    "icon": "/icons/com.eastfrisia.aigeometrysolver.jpg"
+  },
+  "com.eastfrisia.aiproposalgenerator": {
+    "title": "AI Proposal Generator & Writer",
+    "package": "com.eastfrisia.aiproposalgenerator",
+    "description": "Unlock the power of AI to streamline your proposal creation process with the AI Proposal Generator app. Whether you need to draft a business proposal, freelance project bid, research grant application, or any other type of proposal, our app makes it simple and efficient.\n\nKey Features:\nVersatile Proposal Types: Generate various types of proposals including business, freelance, research, grant, project, and more.\nEasy-to-Use Form: Simply fill out a form with specific information about your proposal needs, and let the AI handle the rest.\nAI-Powered Generation: Leverage advanced AI to create comprehensive and professional proposals in seconds.\nCustomizable Content: Edit and fine-tune the generated proposals to perfectly match your requirements.\nSeamless Sharing: Share your proposals directly ",
+    "icon": "/icons/com.eastfrisia.aiproposalgenerator.png"
+  },
+  "com.eastfrisia.aisloganwriter": {
+    "title": "AI Slogan Maker: Brand Tagline",
+    "package": "com.eastfrisia.aisloganwriter",
+    "description": "Unlock the power of AI to create compelling slogans for your brand or organization with AI Slogan Writer. This innovative app simplifies the process of crafting memorable taglines that resonate with your target audience.\n\nKey Features:\n- Instant Slogan Generation: Enter your brand details and receive unique slogans in seconds.\n- Customizable Input: Tailor your slogans by specifying organization name, description, target audience, language, and desired style/tone.\n- Multiple Options: Generate various slogan ideas to find the perfect fit for your brand.\n- Versatile Applications: Ideal for businesses, startups, marketing campaigns, and personal branding.\n- User-Friendly Interface: Easy-to-use design for a smooth slogan creation experience.\n\nHow It Works:\n- Input your brand information and pre",
+    "icon": "/icons/com.eastfrisia.aisloganwriter.png"
+  },
+  "com.eastfrisia.aistorywriter": {
+    "title": "AI Story Generator: Novel AI",
+    "package": "com.eastfrisia.aistorywriter",
+    "description": "Unleash your creativity with AI Story Writer \u2014 the ultimate story generator for all ages. Craft captivating bedtime stories, thrilling mysteries, epic fantasies, gripping crime tales, and more. Simply select a genre, and let the AI create a unique story complete with its own stunning artwork.\n\nKey Features:\n- Diverse Story Genres: Bedtime, mystery, fantasy, crime, and many more.\n- Custom Artwork: Each story comes with its own beautiful, AI-generated illustrations.\n- Multi-Language Support: Generate stories in multiple languages to reach a global audience.\n- Easy to Use: Intuitive design makes story creation fast and fun for everyone.\n\nWhether you\u2019re a parent seeking a magical bedtime tale or a writer in need of inspiration, AI Story Writer is your go-to app for imaginative storytelling.",
+    "icon": "/icons/com.eastfrisia.aistorywriter.png"
+  },
+  "com.eastfrisia.colorizephotos": {
+    "title": "Colorize Photos: Black & White",
+    "package": "com.eastfrisia.colorizephotos",
+    "description": "Transform your old black and white photos into vibrant, full-color images with Colorize! Our powerful AI technology automatically colorizes your photos, bringing new life to your cherished memories. Simply upload a black and white photo of people, landscapes, buildings, or anything else, and our app will do the rest.\n\nKey Features:\n\nAutomatic Colorization: Effortlessly colorize your photos with a single tap. Our advanced AI handles the complex colorization process for you.\n\nHigh-Quality Results: Enjoy stunning, realistic colorizations that preserve the original detail of your photos.\n\nEasy to Use: A simple, intuitive interface makes colorizing your photos a breeze, even for beginners.\n\nSave & Share: Save your colorized photos directly to your device or share them with friends and family on",
+    "icon": "/icons/com.eastfrisia.colorizephotos.png"
+  },
+  "com.eastfrisia.fontidentifier": {
+    "title": "Font Finder: AI Identifier",
+    "package": "com.eastfrisia.fontidentifier",
+    "description": "Turn your phone into a smart typeface detector. Snap a photo of text or upload an image and let AI identify the font, show details, and suggest similar typefaces in seconds.\n\nWhether you\u2019re designing a logo, recreating a poster, or just curious about a headline you saw, this app makes it easy to discover the fonts around you.\n\nHow it works\n- Take a photo of printed or on-screen text, or upload from your gallery\n- The AI scans the lettering and suggests likely font matches\n- Open each result to see details, similar fonts, and download options\n\nKey features\n\n- Camera & gallery scans: Identify fonts from photos, screenshots, and designs\n- AI-powered matching: Finds the closest matches to your image\u2019s lettering\n- Confidence scores: See how likely each match is to be correct\n- Font profiles: Vi",
+    "icon": "/icons/com.eastfrisia.fontidentifier.jpg"
+  },
+  "com.eastfrisia.paraphrase": {
+    "title": "Paraphrase: Rewrite & Rephrase",
+    "package": "com.eastfrisia.paraphrase",
+    "description": "Transform your writing with Paraphraser, the ultimate tool for creating unique and engaging content. Whether you're working on blog posts, academic papers, articles, or any other text, our app empowers you to express ideas in fresh, original ways.\n\nKey Features:\n- Intelligent Paraphrasing: Rewrite text while preserving meaning and context\n- Multiple Style Options: Choose from various tones to suit your audience\n- Language Selection: Paraphrase in multiple languages\n- Flexible Output Length: Generate shorter, full-length, or expanded versions of your text\n- AI Text Humanization: Make AI-generated content sound more natural\n\nPerfect for:\n- Content creators seeking fresh perspectives\n- Professionals crafting unique business communications\n- Writers battling writer's block\n- Anyone wanting to ",
+    "icon": "/icons/com.eastfrisia.paraphrase.png"
+  },
+  "com.easy.currency.extra.androary": {
+    "title": "Easy Currency Converter",
+    "package": "com.easy.currency.extra.androary",
+    "description": "Currency Converter for more than 200 currencies with live exchange rates and offline mode. Setup your personal currency list and see all the important currencies at first glance.\n\n\u2022 Supports all currencies of the world, some metals and cryptocurrencies (Bitcoin, Ethereum, Litecoin, ...)\n\u2022 Our exchange rates are updated once every second\n\u2022 Offline mode: While offline, the app uses the data from the last connection\n\u2022 Historic graphs: display the exchange rate development since 2011\n\u2022 Search function to quickly find a currency\n\n\nNOTE: Click the \u2018All currencies\u2019 button below your personal currency list to add a new currency.",
+    "icon": "/icons/com.easy.currency.extra.androary.png"
+  },
+  "com.easy.currency.pro": {
+    "title": "Easy Currency Converter Pro",
+    "package": "com.easy.currency.pro",
+    "description": "Currency Converter for more than 200 currencies with live exchange rates and offline mode. Setup your personal currency list and see all the important currencies at first glance.\n\n\u2022 Supports all currencies of the world, some metals and cryptocurrencies (Bitcoin, Ethereum, Litecoin, ...)\n\u2022 Our exchange rates are updated once every second\n\u2022 Offline mode: While offline, the app uses the data from the last connection\n\u2022 Historic graphs: display the exchange rate development since 2011\n\u2022 Search function to quickly find a currency\n\n\nNOTE: Click the \u2018All currencies\u2019 button below your personal currency list to add a new currency.",
+    "icon": "/icons/com.easy.currency.pro.png"
+  },
+  "com.easybrain.jigsaw.puzzles": {
+    "title": "Jigsaw Puzzles - Puzzle Games",
+    "package": "com.easybrain.jigsaw.puzzles",
+    "description": "Get an engaging jigsaw puzzle experience with one of the world\u2019s most-downloaded puzzle games from a top developer!\n\nJigsaw Puzzles is an addictive, easy to play game for seniors with over 13,000 FREE cute HD pictures. No points, no gimmicks, and no missing pieces, simply enjoy hours of fun putting jigsaw puzzles together to calm down and relax.\n\nCreated by game experts and played by millions of puzzle lovers worldwide, Jigsaw Puzzles helps you exercise your short-term memory and concentration, while passing the time with real jigsaw puzzles and without taking up as much room.\n\nIndulge yourself and plunge into the wonderful world of HD jigsaw puzzle games for seniors! Enjoy piecing new bright magic jigsaw puzzles together every day!\n\nOur free puzzle game for adults includes a large number ",
+    "icon": "/icons/com.easybrain.jigsaw.puzzles.png"
+  },
+  "com.easyexpense": {
+    "title": "Receipt Scanner: Easy Expense",
+    "package": "com.easyexpense",
+    "description": "Our receipt scanner automatically scans receipts, crops and extracts key information. Saving you time and organizing your business receipts and expense tracking.\n \nWasting time manually adding up totals and entering receipt info into your computer?\nEasy Expense\u2019s use receipt scanner to start saving time. Simply hold it above a receipt and watch as it magically detects, crops and automatically extracts the key information from a receipt.\n\nTired of searching for lost receipts?\nNever lose a receipt again. All of your receipts are automatically uploaded and stored safely on our servers. Lose the paper copy, no problem. Lose your phone, no problem; simply log back into your account on a new device and all your receipts will be synced.\n\nGet organized today! Stop keeping receipts in a messy shoeb",
+    "icon": "/icons/com.easyexpense.png"
+  },
+  "com.easymobs.pregnancy": {
+    "title": "Pregnancy App",
+    "package": "com.easymobs.pregnancy",
+    "description": "Pregnancy Tracker is a very helpful app for pregnant women. \n\nThis Pregnancy Tracker is one of the top pregnancy apps for you! \n\nUse pregnancy apps and have a happy pregnancy.\n\nWith Amila Pregnancy App you can easily: \n- track your pregnancy\n- get information about your baby \n- calculate the current week of pregnancy \n- calculate the due date (pregnancy date) \n- track your pregnancy weight\n- track baby kicks and contractions\n- track the progress of your growing pregnancy bump\n- make notes of your pregnancy symptoms (morning sickness, changes in your body, doctor appointments)\n- use pregnancy tools that other pregnancy apps don't have\n\nTry this Pregnancy App. The best one in Pregnancy Apps.",
+    "icon": "/icons/com.easymobs.pregnancy.png"
+  },
+  "com.easymodeventures.sway": {
+    "title": "Sway AI: Dating App Assistant",
+    "package": "com.easymodeventures.sway",
+    "description": "Looking to step up your dating game? Sway is here to help. We\u2019re an AI-powered dating profile reviewer designed especially for men. Whether you\u2019re on Tinder, Hinge, Bumble, or another app, we\u2019ve got you covered. Just upload screenshots of your profile, and our smart AI gives you personalized feedback to help you get more matches.\n\nIf you're aiming for a serious relationship or just some casual fun, Sway\u2019s insights will make your profile stand out. Get tips on improving your photos, prompts, and overall vibe. No more guessing\u2014let Sway guide you to more matches and better dates.\n\n**Key Features:**\n- **Smart Feedback:** Our AI provides detailed, personalized advice for your profiles.\n- **Works with Top Apps:** Optimize profiles on Tinder, Hinge, Bumble, and more.\n- **Profile Tips:** Get actio",
+    "icon": "/icons/com.easymodeventures.sway.png"
+  },
+  "com.easymt.meowtalk.cattranslator.dogtranslator.pettranslator": {
+    "title": "Petify AI Scanner: Identifier",
+    "package": "com.easymt.meowtalk.cattranslator.dogtranslator.pettranslator",
+    "description": "Petify AI Scanner: Identifier is an AI Pet Talk & Breed ID app that allows you to talk and communicate with your pet, mimic their sounds, and now identify their breed instantly using AI! This Pet Translator app will enable you to translate cat and dog sounds into a language you understand. Do you want to express your feelings for your pet in his language? It translates from human-to-cat language and human-to-dog language using an advanced simulated pet sound algorithm. So let's talk to your cat and dog and break down the linguistic barrier with Meow Talk or Cat & Dog Translator.\ud83d\udc31\ud83d\udc36\n\nAI Breed Scanner & Identifier\nEver wondered what breed your cat or dog might be? With our new AI-powered Breed Scanner or Identifier, you can find out in seconds! Just snap a quick photo of any cat or dog and le",
+    "icon": "/icons/com.easymt.meowtalk.cattranslator.dogtranslator.pettranslator.png"
+  },
+  "com.ebooks.ebookreader": {
+    "title": "Ebook Reader",
+    "package": "com.ebooks.ebookreader",
+    "description": "eBooks.com's Ebook Reader lets you read your favorite books on the go. Choose from a massive collection of popular books that you can download in a jiffy.\n\nEbook Reader is free, and optimized for Android devices. \n\n- Epub3 format support \n- User-created collections for sorting your books\n- Turn pages with a tap or swipe\n- Never lose your place in the book\n- Landscape or portrait orientation is lockable\n- Easy navigation inside the book\n- Search for text inside books\n- Night-reading mode is easy on the eyes \n- Adjust font size with a tap\n- Login with your existing eBooks.com account \n- Sync your eBooks.com online bookshelf with all your devices \n- Online synchronization for bookmarks, highlights, notes and current reading position with all your Android and iOS devices\n- 3rd-party (imported)",
+    "icon": "/icons/com.ebooks.ebookreader.png"
+  },
+  "com.ecarstrade.eCarsTrade": {
+    "title": "eCarsTrade - Used Car Auctions",
+    "package": "com.ecarstrade.eCarsTrade",
+    "description": "Welcome to eCarsTrade, an online car auction platform for car dealers and automotive professionals. With our easy-to-use mobile app, you can now access a vast selection of high-quality vehicles from leasing companies, short-term rentals, and dealerships across Europe. At eCarsTrade, we\u2019re committed to providing you with a seamless and efficient experience, allowing you to expand your inventory with confidence.\n\neCarsTrade offers car dealers across Europe access to a wide selection of vehicles with low commission rates and transparent fees. Our platform is built to support your business by providing verified vehicles and dedicated multilingual customer service. With over 25,000 cars sold and counting, we aim to help you find the right vehicles for your customers.\n\neCarsTrade in numbers:\n\u2219 2",
+    "icon": "/icons/com.ecarstrade.eCarsTrade.png"
+  },
+  "com.echoailab.videotomp3.converter": {
+    "title": "Video To Mp3: Ringtone Maker",
+    "package": "com.echoailab.videotomp3.converter",
+    "description": "\ud83c\udfb6 Transform your videos into pure music \u2013 convert, cut, and make ringtones in seconds! \ud83c\udfb6\n\nVideo To Mp3: Ringtone Maker is a powerful yet simple tool that lets you convert video to audio, trim songs, and create custom ringtones effortlessly. With the fastest video to mp3 converter, you can turn your favorite videos into high-quality MP3 tracks, edit them with the built-in cutter, and set them as ringtones, alarms, or notifications in just one tap.\n\nKey features you\u2019ll love:\n\ud83d\udd25 Video to MP3 Converter \u2013 Convert MP4 to MP3 and video to audio quickly.\n\u2702\ufe0f MP3 Cutter & Audio Editor \u2013 Trim and cut songs with ease.\n\ud83c\udfb5 Ringtone Maker \u2013 Personalize your phone with custom ringtones.\n\ud83c\udfa7 Multiple Format Support \u2013 Works with MP4, MKV, AVI, FLV and more, saving to MP3, M4A, AAC, FLAC, etc.\n\u26a1 Fast & Easy \u2013 Li",
+    "icon": "/icons/com.echoailab.videotomp3.converter.png"
+  },
+  "com.echopersona.nfcore": {
+    "title": "NFCore - NFC Tag Reader Writer",
+    "package": "com.echopersona.nfcore",
+    "description": "NFCore gives you complete control over NFC tags on your Android device. Whether you're a developer, hobbyist, IT professional, or just someone who wants to get more out of NFC, this app provides every tool you need to read, write, clone, inspect, and emulate tags \u2014 all from one place.\n\nSCAN & READ\nTap any NFC tag to instantly read its contents. NFCore supports all major tag types including NTAG213, NTAG215, NTAG216, MIFARE Classic, MIFARE Ultralight, MIFARE DESFire, ISO 14443, ISO 15693, and FeliCa. View NDEF records, raw memory data, and detailed tag metadata including UID, ATQA, SAK, technology type, memory capacity, and read-only status. Every tag you scan is saved to your local library so you can reference it later.\n\nWRITE\nWrite text, URLs, phone numbers, emails, SMS messages, geograph",
+    "icon": "/icons/com.echopersona.nfcore.png"
+  },
+  "com.eco.cut.paste.photo.editor": {
+    "title": "Background Changer, Remove BG",
+    "package": "com.eco.cut.paste.photo.editor",
+    "description": "\ud83d\ude80 Remove background, change photo background, and create AI photos & videos in seconds!\n\nBackground Changer, Remove BG is more than a background remover \u2014 it\u2019s an all-in-one AI photo & video editor. You can erase backgrounds, edit photos, and transform images into trending AI content like AI Kiss, AI Hug, Future Baby, Anime, and more.\n\n\u26a1 With just a few taps:\n\u2022 Remove background instantly\n\u2022 Change photo background in 1 tap\n\u2022 Create fun, shareable AI content\nNo skills needed \u2014 everything is fast and easy.\n\n\ud83c\udfac Turn your photos into viral AI videos:\n\u2764\ufe0f AI Kiss & AI Hug \u2013 create emotional moments from 2 photos\n\ud83d\udc75 Meet the Old Me \u2013 see your future self with AI aging\n\ud83c\udfa5 Animate photos into short videos for TikTok, Reels, Shorts\n\n\ud83d\uddbc\ufe0f Create unique AI photos:\n\ud83d\udcf8 AI Polaroid \u2013 retro photo style\n\ud83d\udc76 Future",
+    "icon": "/icons/com.eco.cut.paste.photo.editor.png"
+  },
+  "com.eco.ezscanner.scannertoscanpdf": {
+    "title": "PDF Document Scanner - PixScan",
+    "package": "com.eco.ezscanner.scannertoscanpdf",
+    "description": "PixScan - PDF Scanner & Document Scanner for Office & Productivity\n\nPixScan is a powerful PDF scanner and document scanner designed for fast and high-quality scanning. Whether you need to scan contracts, invoices, receipts, reports, or handwritten notes, this app transforms paper documents into photo to PDF files with clarity and precision. With AI-powered technology, PixScan makes document scanning smooth and effortless, perfect for office work, business, and personal use.\n\nWith just one tap, you can scan, edit, sign, and share PDF scanner files instantly. Say goodbye to bulky scanners and enjoy a smart document scanner that fits right in your pocket.\n\n\ud83d\ude80 Main Features of PixScan - PDF Scanner & Document Scanner\n\ud83d\udccc AI-Powered Document Scanner\nPixScan\u2019s PDF scanner automatically detects docu",
+    "icon": "/icons/com.eco.ezscanner.scannertoscanpdf.png"
+  },
+  "com.minimax.ai": {
+    "title": "MiniMax - Your AI Agent",
+    "package": "com.minimax.ai",
+    "description": "Agent Upgraded: Powered by MiniMax-M2\nYour Agent is now powered by our smartest MiniMax-M2 model, built for advanced coding & agentic tasks.\nWhat's New:\nAdvanced Coding: Excels at complex developer workflows, including multi-file edits and test-validated repairs.\nSuperior Performance: Reliably executes complex, long-horizon tool chains with strong planning.\nEfficient & Responsive: Delivers lower latency and higher throughput for a much faster agent experience.\nLimited-Time Offer: Enjoy Agent Pro for free during the M2 model launch!",
+    "icon": "/icons/com.minimax.ai.png"
+  },
+  "com.minimo.launcher": {
+    "title": "Minimo | Minimalist Launcher",
+    "package": "com.minimo.launcher",
+    "description": "Designed for users who want to de-clutter their home screen, Minimo offers a clean and intuitive minimalist interface that prioritizes functionality without unnecessary distractions.\n\nNo icons. No distractions.\n\nKey Features:\n- Open Source: The app is open source, allowing you to review the code, contribute, and ensure transparency in the development process.\n- App Management: Personalize your app experience by favorite apps, renaming apps and hiding those you don\u2019t use frequently, keeping your home screen tidy and organized.\n- Lightweight Performance: Minimo is designed to be resource-efficient, ensuring smooth operation without draining your battery.\n- Privacy Focused: Your data is yours. We don\u2019t track or collect personal information.\n- Helpful Customization: Wallpaper support, font sup",
+    "icon": "/icons/com.minimo.launcher.png"
+  },
+  "com.eco.tvremotecontrol": {
+    "title": "Universal TV Remote Control",
+    "package": "com.eco.tvremotecontrol",
+    "description": "\u26a1 Looking for a way to turn your phone into a universal remote for your TV and mirror or cast your screen easily?\nTry Universal TV Remote Control for Smart TV, the smart and easy-to-use universal remote app that lets you control all your Smart TVs in one place while also supporting screen mirroring and cast to TV features. Whether you need a TV remote, smart TV remote, universal TV remote, or want to mirror and cast your phone screen, this app has you covered.\n\nForget juggling multiple remotes. With a universal remote, you can connect to any Smart TV instantly using the same WiFi network, or quickly cast to TV and mirror screen with the latest miracast and direct mirror technology. It smoothly supports popular brands like Samsung, LG, Roku, Fire TV, Vizio, Sony, and Toshiba.\n\nEnjoy cozy mo",
+    "icon": "/icons/com.eco.tvremotecontrol.png"
+  },
+  "com.ecotectionlife.aimedics": {
+    "title": "Medical AI",
+    "package": "com.ecotectionlife.aimedics",
+    "description": "Medical AI \u2013 Your Personal Health and Wellness Assistant\n\nMedical AI is an intelligent assistant designed to support your health, mind, and lifestyle through interactive conversations and personalized guidance.\n\nIn the app, you can choose from four specialized AI assistants:\n\nGeneral Medic \u2013 Discuss your symptoms and receive helpful health insights, possible causes, and suggestions for recovery.\n\nPsychologist \u2013 Get emotional support, stress-relief techniques, and guidance for improving your mental well-being.\n\nNutritionist \u2013 Receive personalized meal plans, healthy recipes, and nutrition advice tailored to your goals.\n\nTrainer \u2013 Build a workout plan, learn exercises, and stay motivated toward your fitness objectives.\n\nWith Medical AI, you can:\n\nGet tailored recommendations based on your in",
+    "icon": "/icons/com.ecotectionlife.aimedics.png"
+  },
+  "com.ecoxai.ecox": {
+    "title": "Face Swap & AI Video-Ecoxai",
+    "package": "com.ecoxai.ecox",
+    "description": "Transform your world with Ecoxai\u2014the ultimate all-in-one AI creative studio for Face Swap, Video Generation, and 4K Enhancement.\n\nJoin the AI revolution! Whether you want to star in a viral movie scene, generate cinematic videos from text, or restore blurry old photos to HD, Ecoxai gives you professional tools in one tap. With 1,000+ trending templates, your creativity has no limits.\n\n\ud83c\udfad AI Face Swap & Reface\nVideo Face Swap: Place yourself in movie scenes, music videos, or viral memes with seamless AI blending.\nLive Animations: Make your face sing, dance, or act. Turn selfies into hilarious viral clips.\nMulti-Face Swap: Swap faces with the whole squad in one shot!\nBusiness & Marketing: Skip expensive photoshoots. Swap models for e-commerce, fashion, and lifestyle ads instantly.\n\n\ud83c\udfac AI Video",
+    "icon": "/icons/com.ecoxai.ecox.png"
+  },
+  "com.editpaw.mashupmaker": {
+    "title": "EditPaw - Mashup Maker & Remix",
+    "package": "com.editpaw.mashupmaker",
+    "description": "EditPaw: The Ultimate Song Mashup Maker & Music Mixer\n\nUnlock your music creativity with EditPaw Mashup Maker , the most intuitive mashup maker designed for creators and music fans. Whether you want to swap vocals from one song with a different beat or craft a unique remix. No music production experience required!\n\nWHY CHOOSE EDITPAW?\n\nPrecision Vocal & BGM Splitter: Our advanced technology surgically isolates crystal-clear vocals and high-quality background music (BGM) from any audio file.\n\nSeamless Mashup Engine: Automatically sync the BPM (tempo) and key of two tracks for a perfect, harmonious blend every time.\n\nViral BGM Creator: Craft unique sounds and catchy mashups for your TikTok, Instagram Reels, and YouTube Shorts.\n\nSmart Audio Processing: Powered by intelligent algorithms, EditP",
+    "icon": "/icons/com.editpaw.mashupmaker.png"
+  },
+  "com.edjing.edjingdjturntable": {
+    "title": "edjing Mix - Music DJ app",
+    "package": "com.edjing.edjingdjturntable",
+    "description": "Introducing edjing Mix - the brand new version of the famous DJ app - reworked to ensure even greater performance level.\n\nDesigned in partnership with pro DJs, edjing Mix transforms your device into a real DJ setup and stretches the limits of djing on mobile, offering unlimited creative freedom.\n\nAbout edjing Mix\nThis is an all-in one professional level pocket DJ studio - mix songs, audio, instrumentals and more. Developed by industry professionals it will allow you to use professional level features from your phone or tablet.\nAccess millions of tracks coming from TIDAL, SoundCloud and all your local folders and remix in an instant with more than 20 DJ fx and features. Not to mention the sampler and the hardware integration to push even further the boundaries of the mobile djing.\n\nBecoming",
+    "icon": "/icons/com.edjing.edjingdjturntable.png"
+  },
+  "com.educaPix.GeoExpertLite": {
+    "title": "GeoExpert: World Geography Map",
+    "package": "com.educaPix.GeoExpertLite",
+    "description": "Learn to locate all the countries on a map and become a geography expert! Whether you need to improve your knowledge of world provinces, maps, or the flags of each country, GeoExpert geography games has you covered. \n\nGeoExpert is an educational tool in the form of a quiz game, designed to help you learn geography, including ALL of the countries in the world. It's like having a portable world map atlas on your phone or tablet. \n\nIt is rigorously accurate, and we keep it up-to-date with the latest information which is why it is used in various schools to teach geography. If you need to review for a geography quiz on world capitals or just want to learn more about the mountains, rives and world monuments, GeoExpert is sure to be a fun and useful geography app! \n\nTo brush up on your world geo",
+    "icon": "/icons/com.educaPix.GeoExpertLite.png"
+  },
+  "com.educationalapps923.ForexSignals": {
+    "title": "Forex Signals Daily",
+    "package": "com.educationalapps923.ForexSignals",
+    "description": "\"Forex Signals Daily - Professional Trading Signals\"\n\nTransform your forex trading with our premium signals service, powered by expert traders combining technical and fundamental analysis. Each signal comes with precise Stop Loss and Take Profit levels, delivered instantly through push notifications and our Telegram channel.\n\nKey Features:\n*. Professional trading signals with proven accuracy\n*. Real-time notifications (app + Telegram)\n*. Analysis for each signal\n*. Detailed price charts for signal verification\n*. Easy copy-paste functionality for mobile trading\n*. User-friendly interface for quick trade execution\n\nPerfect for both beginners and experienced traders looking to enhance their forex trading strategy. Our signals help you identify profitable opportunities while managing risk thr",
+    "icon": "/icons/com.educationalapps923.ForexSignals.png"
+  },
+  "com.edupass.realestate": {
+    "title": "Real Estate Practice Test 2026",
+    "package": "com.edupass.realestate",
+    "description": "Prepare for the Real Estate License Exam with a 100% free, ad-free study app designed to help aspiring real estate agents master property laws, contracts, finance, and market knowledge to pass on the first attempt.\n\nAccess realistic Real Estate practice tests, exam-style questions, AI-powered explanations, and smart analytics \u2014 all focused on property ownership, real estate transactions, finance, and ethics to boost your readiness and confidence.\n\nStudy efficiently, learn smarter, and achieve your Real Estate license with confidence.\n\n\u2b50 Perfect for Real Estate Candidates & Agents\nThis Real Estate prep app is ideal for:\n \u2022 Students preparing for the Real Estate licensing exam\n \u2022 Aspiring or working real estate agents seeking licensure\n \u2022 Anyone learning property law, finance, contracts, or ",
+    "icon": "/icons/com.edupass.realestate.png"
+  },
+  "com.eduven.cc.ketogenic": {
+    "title": "Keto Diet: Recipes, Meal Plan",
+    "package": "com.eduven.cc.ketogenic",
+    "description": "Keto Diet Recipes Offline - Your Low Carb Diet Manager with Keto Tracker and Custom Meal Plans\n\nReady to conquer your keto goals but struggle to find exciting keto recipes or stay on track without internet? Our Keto Diet app is your all-in-one solution, designed to make your low-carb journey delicious, easy, and successful \u2013 anytime, anywhere!\nWhether you're just starting (Beginner phase), finding your groove (Intermediate), or mastering keto (Advanced), we have curated recipes perfect for your stage.\n\nWhy choose our Keto Diet Plan app?\n\nGlobal Keto Recipes: Say goodbye to boring meals! Explore diverse keto-friendly dishes from around the world that suit your taste and dietary goals.\n\nStructured Meal Plans for Every Level: Find keto meals perfectly suited for your keto journey, categorized",
+    "icon": "/icons/com.eduven.cc.ketogenic.png"
+  },
+  "com.ehi.national.mobile": {
+    "title": "National Car Rental",
+    "package": "com.ehi.national.mobile",
+    "description": "Tap into the power of the Emerald Club\u00ae with the National Car Rental\u00ae app. The National Car Rental app offers features to help you take control of your rental experience on the go.\u200b\n\n\u200bSpeed & Convenience in the Palm of Your Hand\u200b\n\u2022 As an Emerald Club member, profile details are automatically applied to your reservation to help you save time.\u200b\n\u2022 Access current and upcoming trip information as well as past rental history and detailed receipts.\u200b\n\u2022 Search National locations worldwide and view location details, like hours of operation, addresses and phone numbers \u2013 even get arrival directions to the lot.\u200b\n\u2022 Contact Roadside Assistance or 24/7 customer support, and access frequently asked questions.\u200b\n\nTools for the Control Enthusiast\u200b\n\u2022 Reservation Assistance provides you with timely and importa",
+    "icon": "/icons/com.ehi.national.mobile.png"
+  },
+  "com.ehmtech.payroll": {
+    "title": "Payroll Calculator: WorkLogs44",
+    "package": "com.ehmtech.payroll",
+    "description": "How much does your team cost per pay period? Run a full payroll in seconds with Payroll Calculator. No ads, no account needed.\n\nEnter each employee's details once: hourly or salary pay, W-4 filing status, state, deductions, overtime. Set the pay period on the payroll. Get the full cost: gross wages, take-home per employee, and employer payroll taxes (Social Security match, Medicare match, FUTA, SUTA). Save multiple payrolls for different teams, pay periods, or what-if hires.\n\nAnswers to your payroll questions\n\u2022 How much does my team cost per pay period?\n\u2022 What are my employer payroll taxes this run?\n\u2022 What will each employee take home after taxes?\n\u2022 How much FUTA and SUTA do I owe on this payroll?\n\u2022 What's the cost of adding one more hire?\n\u2022 How do my employer costs change if I switch pay ",
+    "icon": "/icons/com.ehmtech.payroll.png"
+  },
+  "com.ehmtech.salary": {
+    "title": "Salary Calculator +",
+    "package": "com.ehmtech.salary",
+    "description": "How much will your paycheck actually be? Find out in seconds with Salary Calculator +. No ads, no account needed.\n\nEnter your hourly pay or salary, pick your state, set your W-4, and see your take-home pay instantly. Add overtime, tips, bonuses, retirement contributions, HSA, garnishments, and custom deductions for a full gross-to-net breakdown. Federal income tax, state income tax, Social Security, Medicare, and state-specific items like CA SDI and NY PFL all show up itemized line by line. Save each scenario as a profile (a job, an offer, a side gig) and switch between them with one tap.\n\nAnswers to your pay questions\n\u2022 How much is my paycheck after taxes?\n\u2022 What's my take-home pay if I'm hourly?\n\u2022 What's my net pay biweekly, semimonthly, or monthly?\n\u2022 How does my 401(k) or HSA change my ",
+    "icon": "/icons/com.ehmtech.salary.png"
+  },
+  "com.ehmtech.tax": {
+    "title": "Sales Tax Calculator - Shop44",
+    "package": "com.ehmtech.tax",
+    "description": "How much will I actually pay after tax? Find out before you check out with Shop44. No ads, no account needed.\n\nEnter a price, set your tax and discount rates, and see your final total instantly. Use the quick calculator for one-off lookups or build shopping lists to track multiple items across stores. Real-time breakdowns show subtotal, discount, tax, and final price as you type.\n\nAnswers to your shopping questions\n\u2022 How much will this cost after sales tax?\n\u2022 What's the final price after a 20% discount plus tax?\n\u2022 Which store gives me a better deal with different tax rates?\n\u2022 What's my total for everything in my cart?\n\u2022 How much am I actually saving with this sale?\n\nQuick calculator\n\u2022 Full keypad with +, \u2212, \u00d7, \u00f7, and % operations\n\u2022 Tax applied automatically to your result\n\u2022 Save calculatio",
+    "icon": "/icons/com.ehmtech.tax.png"
+  },
+  "com.ek.nakhish.apology_letter_samples": {
+    "title": "Apology letter sample",
+    "package": "com.ek.nakhish.apology_letter_samples",
+    "description": "Sometimes when you have made a bad choice, you must write a letter of apology. Where do you start? \n\nWhat is an apology letter? An apology admits that you know you did something wrong. It shows that you take responsibility for your own behavior.  An apology does not make excuses for what you have done or blame others for the choices you made.  An apology shows that you understand that you have harmed others by your actions.  It shows that you feel regret for your actions.  An apology explains how you will repair the harm you have caused.\n\n A good apology explains what you have done to change that will keep you from making the same bad choice again. You may want to write an individual apology letter or a formal or business letter of apology. In any case, send out the letter soon showing tha",
+    "icon": "/icons/com.ek.nakhish.apology_letter_samples.png"
+  },
+  "com.ekas.wallpaperai": {
+    "title": "Cone AI Wallpapers 4K & 6\u041a HD",
+    "package": "com.ekas.wallpaperai",
+    "description": "Dive into the world of unparalleled wallpapers for your smartphone with Cone, an app where every background is a masterpiece created by artificial intelligence. Discover a collection of high-quality, exclusive images designed to transform your device's screen and highlight your individuality.\n\nApp Features:\n\n- Uniqueness and Quality: All wallpapers in Cone are generated by neural networks, offering you unique designs in high resolution.\n- Search by Tags and Color: Find the perfect wallpapers using convenient tag search or select through the color spectrum with an innovative HSV slider.\n- For Everyone: Regardless of your preferences, Cone offers something special for every smartphone user.\n- Light and Dark Theme: Customize the app according to your style with light and dark theme settings.\n",
+    "icon": "/icons/com.ekas.wallpaperai.png"
+  },
+  "com.eklips.magnifier": {
+    "title": "Magnifier",
+    "package": "com.eklips.magnifier",
+    "description": "This app is designed especially for people with vision problems and is very suitable for one-handed use. \nIn addition to the strip and buttons at the bottom of the screen, users can zoom by sliding up and down with one finger on the screen. \nAn innovation is that the volume buttons can be used to zoom in and out. \nThe app is completely free and ad-free.",
+    "icon": "/icons/com.eklips.magnifier.jpg"
+  },
+  "com.elead.dealbuildershowroom": {
+    "title": "CDK Modern Retail CRM",
+    "package": "com.elead.dealbuildershowroom",
+    "description": "CDK Modern Retail CRM is a fully portable, interactive Customer Relationship and Dealership Management toolset available on a mobile tablet. This allows dealership sales staff to complete much of the process via a mobile device \u2013 at any time, from anywhere, without ever accessing sales tools through a traditional PC\n\nThe CDK Modern Retail CRM App provides access to all CRM sales functionality to log prospects, search inventory, quote customers, track test drives, and follow up.  CDK Modern Retail CRM provides ability to manage showroom, phone and internet leads no matter their location, and respond using phone, email or text tools to capitalize on every business opportunity. Real-time integration features with the in-store CRM ensures up-to-date data is available to authorized users at all",
+    "icon": "/icons/com.elead.dealbuildershowroom.png"
+  },
+  "com.electr0069.effectsly": {
+    "title": "Effectsly - AI SFX Generator",
+    "package": "com.electr0069.effectsly",
+    "description": "Effectsly: AI Sound Effects Generator\n\nTransform your creative projects with professional sound effects generated instantly using advanced AI technology. Whether you're a content creator, game developer, filmmaker, or podcaster, Effectsly makes it easy to create the perfect audio for any project.\n\nWhat You Can Do\n\nGenerate unique sound effects from simple text descriptions. Need a spaceship engine, forest ambiance, or retro game sounds? Just type what you need and get professional audio in seconds. No recording equipment or sound design experience required.\n\nBuild your personal sound library. Save your favorite effects, organize your creations, and access them anytime. Download high-quality audio files ready to use in your videos, games, podcasts, or any creative project.\n\nHow It Works\n\n1.",
+    "icon": "/icons/com.electr0069.effectsly.png"
+  },
+  "com.elementarypos.client": {
+    "title": "Elementary POS - cash register",
+    "package": "com.elementarypos.client",
+    "description": "Simple, powerful POS for any business, online or offline.\nRun your business smoothly with Elementary POS - the all-in-one cash register app designed for speed and simplicity. Everything you need in one tool.\n\nLooking for a reliable and easy-to-use cash register app? Elementary POS transforms your Android device into a powerful POS system, complete with inventory management and back-office functionality. Whether you run a small shop, bustling restaurant, cozy guesthouse, or busy service business, Elementary POS has you covered.\n\nKey Features for a Seamless Checkout Experience:\n\n* Fast and Intuitive Cash Register: Process transactions quickly and efficiently with a user-friendly interface. Accept cash, cards (via SumUp), and other payment methods.\n* Inventory Management Made Easy: Track stoc",
+    "icon": "/icons/com.elementarypos.client.png"
+  },
+  "com.elevensoft.yogaapp": {
+    "title": "Yoga Workout App for Beginners",
+    "package": "com.elevensoft.yogaapp",
+    "description": "Introducing the \"Yoga for Weight Loss\" app - Your Free Yoga Guide for Beginners!\n\nGet ready to embark on a transformative journey with our user-friendly and free yoga app. Discover a perfect blend of yoga asanas, targeted exercises, and personalized workout routines designed to help you achieve your weight loss and fitness goals, all from the comfort of your home.\n\n\ud83e\uddd8\u200d\u2642\ufe0f Yoga for Beginners Made Easy\nWhether you're a yoga beginner or an experienced practitioner, our app caters to everyone. With over 100 easy-to-follow yoga poses, you can learn and master the art of yoga step by step. No more worrying about difficult poses; our app is designed to make your yoga experience enjoyable and effective.\n\n\ud83c\udd93 Free Yoga App at Your Fingertips\nSay goodbye to expensive gym memberships or equipment! Our yo",
+    "icon": "/icons/com.elevensoft.yogaapp.png"
+  },
+  "com.elias.car_identifier": {
+    "title": "Car Identifier: WhatCar",
+    "package": "com.elias.car_identifier",
+    "description": "WhatCar: Car Identifier \u2013 Instantly Identify Any Car with AI\n\nEver seen a car and wondered what model it is, how much horsepower it has, or what it costs? With WhatCar and thanks to our next gen AI model, you can find out in seconds!\n\nJust snap a photo of any car, and our powerful AI instantly identifies the make, model, horsepower, estimated price, and other key details about the vehicle.\n\n\ud83d\udd0d Features\n\nIdentify cars from a single photo\n\nGet accurate model and brand names\n\nSee horsepower (PS) and price estimates\n\nLearn interesting facts and general info about the car\n\nFast, easy-to-use, and powered by advanced AI\n\nWhether you're a car enthusiast, curious onlooker, or just want to learn more about the cars around you, WhatCar is an easy to use car model identifier.\n\n\ud83d\udcf8 Point. Tap. Learn. Try ",
+    "icon": "/icons/com.elias.car_identifier.png"
+  },
+  "com.emergedevs.nurseryrhymestagalog": {
+    "title": "Filipino Nursery Rhymes",
+    "package": "com.emergedevs.nurseryrhymestagalog",
+    "description": "Mga Awiting Pambata.\n\nIntroduce your children to the rich musical heritage of the Philippines with our collection of beloved traditional Filipino nursery rhymes. This interactive app brings classic songs to life with beautiful artwork, clear audio, and synchronized lyrics that help children sing along.\n\nFeatures:\n- Traditional Filipino children's songs including \"Bahay Kubo,\" \"Leron Leron Sinta,\" \"Sitsiritsit,\" and many more\n- High-quality audio recordings perfect for young listeners\n- Synchronized lyrics display that highlights words as they're sung\n- Beautiful, colorful artwork for each song\n- Easy-to-use interface designed for children\n- Search functionality to quickly find favorite songs\n- Grid and list view options for browsing\n- Responsive design that works on phones, tablets and TVs",
+    "icon": "/icons/com.emergedevs.nurseryrhymestagalog.png"
+  },
+  "com.emi.calculator.homeloan.carloan.personalloan": {
+    "title": "Home Loan EMI Calculator App",
+    "package": "com.emi.calculator.homeloan.carloan.personalloan",
+    "description": "Home Loan EMI Calculator is an easy-to-use loan calculation tool that helps you to calculate quick EMI for home loan, personal loan, or car loan and view your payment schedules. Our comprehensive Home Loan EMI Calculator provides accurate and instant calculations to help you make informed financial decisions.\n\nUse this Loan EMI Calculator to calculate your EMI (Equated Monthly Instalment), for various loan types, including home loan, personal loan, or car loan, and plan your loan repayment in an effective way.\n\nWhy Choose Our Home Loan EMI Calculator App?\n\nQuick Loan EMI Calculation: Calculate your home loan, personal loan, or car loan EMI effortlessly and rapidly.\n\nPayment Breakdown in Table Format: View a clear and organized table showing the payment split-up.\n\nMonthly EMI Calculation: C",
+    "icon": "/icons/com.emi.calculator.homeloan.carloan.personalloan.png"
+  },
+  "com.emi.loan.easy.calaculator": {
+    "title": "EMI Calculator App",
+    "package": "com.emi.loan.easy.calaculator",
+    "description": "EMI Loan Calculator \u2013 Your Ultimate Loan Calculator & Finance Companion!\n\nLooking for an all-in-one finance app? EMI Loan Calculator is here to simplify your financial planning! Whether you need to calculate EMIs for a Home Loan EMI Calculator, Personal Loan EMI Calculator, Currency Converter, or Car Loan EMI Calculator, this app has everything you need. From Loan EMI Calculator to Mortgage EMI Calculator, you can easily plan your repayments and interest.\n\nWith features like the FD Calculator, you can plan your fixed deposits and expected returns. The Compare Loans feature helps you evaluate loan options to make the best choice. Need to count currency for bank form fill-up? Use the Currency Counter. For cheques, the Amount to Words Converter converts numbers into words effortlessly.\n\nCheck",
+    "icon": "/icons/com.emi.loan.easy.calaculator.png"
+  },
+  "com.iosstudio.iphonelauncher": {
+    "title": "OS 26 Launcher, iLauncher Pro",
+    "package": "com.iosstudio.iphonelauncher",
+    "description": "Transform your Android experience with OS 26 Launcher Pro\u2014the ultimate fusion of speed, style, and sophistication. Designed for those who demand a seamless interface, this launcher breathes new life into your device, combining intuitive navigation with deep customization.\n\nKey Features: Elevate Your Interface\n\nSmart Organization\n\n + App Library: categorize your apps for effortless navigation and a clutter-free experience.\n\n + Custom Folders: Tidy up your home screen by grouping related apps into sleek, manageable folders.\n\n+ Today View: Get a bird's-eye view of your world\u2014access favorite contacts, upcoming calendar events, and more in one swipe.\n\nPrivacy & Personalization\n\n+ App Locker: Keep your sensitive data private by securing individual apps with passcode protection.\n\n + Hide App : Ma",
+    "icon": "/icons/com.iosstudio.iphonelauncher.jpg"
+  },
+  "com.ios.launcher.pro": {
+    "title": "Launcher OS Pro",
+    "package": "com.ios.launcher.pro",
+    "description": "Launcher OS 18 Pro is a versatile app that transforms your Android device's interface into a sleek and intuitive iOS-like experience. Enjoy seamless navigation, elegant design, and enhanced functionality with this customizable launcher, bringing the best of OS to your fingertips on Android.\n\nWith Launcher OS, you can personalize your Android home screen to resemble that of an Phone 15, complete with OS icons, layout, and animations. The launcher provides a variety of customization options, allowing you to adjust icon sizes, grid layouts, and themes to suit your preferences.\n\nLauncher Pro enhances productivity with features like smart search, app organization, and gesture controls. These tools not only streamline navigation but also optimize efficiency, making it easier to access your favor",
+    "icon": "/icons/com.ios.launcher.pro.png"
+  },
+  "com.ioslauncher.launcherios": {
+    "title": "Launcher OS",
+    "package": "com.ioslauncher.launcherios",
+    "description": "Do you love the OS? Launcher OS will sets a new standard for the Android mobile operating system. It makes your phone better than before, more beautiful and luxury. And now it opens up to amazing possibilities for launcher on your phone. With Launcher OS, your phone is the most powerful.\n\nMAIN FEATURES:\n\nApp Library\n- Launcher Phone & OS support: App Library is a new way to organize your apps same as real OS devices\n\nDark Mode\nLauncher OS supports dark mode and light mode.\n\nStyle Folder\nWe design OS Style Folder, you can drag and drop an app to another to create a folder.\n\nWeather and Suggestion widget\nWe provide a Weather and Suggestion\u00a0widget, you can get the weather forecast in recent days.\n\nCustomizable Icon\nIcon and name of application can be modified, you can choose an image and use ",
+    "icon": "/icons/com.ioslauncher.launcherios.png"
+  },
+  "com.emicalc.interestcalc.loanemireminder.loan": {
+    "title": "EMI Loan Calculator & Reminder",
+    "package": "com.emicalc.interestcalc.loanemireminder.loan",
+    "description": "EMI Calculator & Loan Planner is a fast and easy-to-use financial calculator app to calculate EMI, compare loans, and manage repayments with smart reminders.\n\nQuickly calculate loan EMI for personal loans, home loans, car loans, and education loans. Compare multiple loan options and choose the best plan with ease.\n\n\ud83d\udcb0 Loan EMI Calculator\n\u2022 Personal Loan EMI Calculator\n\u2022 Home Loan Calculator\n\u2022 Car Loan EMI Calculator\n\u2022 Education Loan Calculator\n\n\ud83d\udcca Financial Calculators\n\u2022 ROI Calculator\n\u2022 FD Calculator & RD Calculator\n\u2022 Interest Calculator\n\u2022 NPV & Present Value Calculator\n\n\ud83e\uddf0 Daily Finance Tools\n\u2022 GST Calculator\n\u2022 Discount Calculator\n\u2022 Currency Converter\n\u2022 Inflation Calculator\n\n\ud83d\udd04 Loan Comparison Tool\nCompare different loan offers and find the best EMI plan\n\n\u23f0 EMI Reminder\nGet timely reminders ",
+    "icon": "/icons/com.emicalc.interestcalc.loanemireminder.loan.png"
+  },
+  "com.emicalculator.emi_calculator": {
+    "title": "EMI Calculator - Loan Compare",
+    "package": "com.emicalculator.emi_calculator",
+    "description": "\ud83d\udcca EMI Calculator, Loan & Interest \u2013 Compare | Your Complete Loan Planning Tool\n\nPlanning a home loan, car loan, personal loan, or education loan? EMI Calculator makes it easy to calculate your Equated Monthly Installment (EMI), total interest payable, and total repayment amount \u2014 all in seconds!\n\n\ud83c\udfe0 SMART LOAN CALCULATOR\n\u2022 Calculate EMI for Home Loan, Car Loan, Personal Loan, Education Loan, Business Loan & Custom Loans\n\u2022 Instant results with detailed breakdown of Principal, Interest, and Total Payment\n\u2022 Pre-filled default values for each loan type \u2014 start calculating immediately\n\u2022 Support for tenure in Years + Months for precise planning\n\n\ud83d\udcc8 AMORTIZATION SCHEDULE\n\u2022 View complete month-by-month or year-by-year repayment schedule\n\u2022 See exactly how much of each payment goes toward principal vs",
+    "icon": "/icons/com.emicalculator.emi_calculator.jpg"
+  },
+  "com.emmaprod": {
+    "title": "Emma - Budget Planner Tracker",
+    "package": "com.emmaprod",
+    "description": "Meet Emma, your financial super app \ud83d\udc4b\n\n\u25cf All your accounts in one place \n\u25cf Find and track your subscriptions\n\u25cf Set budgets\n\u25cf Weekly reports\n\u25cf Analyze your spending & expenses\n\u25cf Daily balance notifications\n\u25cf Overdraft alerts \n\nBANK LEVEL SECURITY\n\nWorried about sharing your data? We hear you. \n\n\n\u25cf Emma uses SSL 256-bit encryption - the same security protocol that banks use - to ensure that your sensitive, personal information is fully encrypted and securely stored.\n\u25cf Emma uses biometric security authentication for an added level of protection.\n \nCUSTOMER REVIEWS\n\n\u201cThis app is amazing! I used to manually track my expenses using a notepad or a spreadsheet but always used to make mistakes and never found time to update it. This fixes all my budgeting issues and saves me so much time as well as",
+    "icon": "/icons/com.emmaprod.png"
+  },
+  "com.emoji.maker.app": {
+    "title": "AI Funny Keyboard Emoji Maker",
+    "package": "com.emoji.maker.app",
+    "description": "AI Emoji Maker is your all-in-one creative studio to design unique, fun, and expressive emojis in seconds. If you love sharing custom reactions, personalized stickers, and creative emojis with friends, this app is for you.\nWhether you want to describe an emoji in words, convert a photo into a cute icon, or design your own sticker pack, AI Emoji Maker gives you everything in one simple platform.\n\nCreate Emojis from Text in Seconds!\nWith our powerful AI emoji generator app, you can simply type what you imagine and watch it turn into a beautiful emoji.\nJust write something like \u201chappy cat wearing sunglasses\u201d or \u201crobot laughing with pizza,\u201d and the app creates a unique emoji for you.\nThis feature makes AI Emoji Maker more than just an emoji creator. It understands your text prompts and generat",
+    "icon": "/icons/com.emoji.maker.app.png"
+  },
+  "com.emojidesign.app": {
+    "title": "AI Emoji: Sticker Maker",
+    "package": "com.emojidesign.app",
+    "description": "Tired of generic emojis? AI Emoji: Sticker Maker instantly turns your personal photos into a full pack of dynamic, ready-to-use custom stickers for WhatsApp, Telegram, and all major social media platforms!\n\n\ud83d\udd25 Why Choose Our AI Sticker Maker? \nWe are the fastest and smartest way to create character stickers\u2014without the tedious manual work. Our three unique features give you a competitive edge:\n\n\u26a1\ufe0f 9-in-1 Ultra-Fast Generation: Unlike competitors that generate one image at a time, our powerful AI creates 9 unique poses and emotions from your single character photo in one quick generation. Get a complete sticker set in seconds, not minutes.\n\n\u2702\ufe0f Chat-Ready, Zero Editing: Forget manual cropping and background cleaning! Every sticker is automatically cut into a perfect 1:1 ratio and features pre",
+    "icon": "/icons/com.emojidesign.app.png"
+  },
+  "com.encyapp": {
+    "title": "Encyclopedia: Science for kids",
+    "package": "com.encyapp",
+    "description": "\ud83e\uddd1\ud83d\udc69 Did you know that tigers are the largest member of the big cat family?\nAnd that black panthers are not a separate species?\nOur 'Encyclopedia' is full of interesting facts that can be helpful for curious kids. It can give answers to their questions. Explore different articles and topics. Feed your child's curiosity and help them shape their ideas about the world around them.\nOur app brings a world of knowledge right to your fingertips!\n\n\ud83d\udfe2With our app, your child will improve the next skills:\ud83d\udfe2\n1. Erudition\n2. Intellect\n3. Knowledge\n4. Creativity\n5. Memory\n\n\ud83d\udfe2FEATURES:\ud83d\udfe2\n-the application is designed for children from 3 years old;\n-amazing high-quality images;\n-test your knowledge passing quiz;\n-read 'Fact of the Day' each day to learn anything new each day;\n-open rewar badges for each articl",
+    "icon": "/icons/com.encyapp.png"
+  },
+  "com.endeksa.app": {
+    "title": "Endeksa: Value & Sell Property",
+    "package": "com.endeksa.app",
+    "description": "Calculate Property Value with AI, Sell with Top Agents, Explore Investment Opportunities\n\nThe future of real estate is in your pocket! Endeksa, with its AI-powered technology, allows you to easily learn the real market value of lands, fields, residential and commercial properties. It helps you manage your real estate buying and selling decisions with data-driven insights.\n\n\nEndeksa Atlas: Your AI Real Estate Assistant\n\nWith Endeksa Atlas, your AI-powered real estate assistant, get detailed valuations, regional analysis, and trend predictions in seconds.\n\n  Instantly find out your property\u2019s market value.\n  Compare regional prices with parcel-by-parcel queries.\n  Connect directly with the best real estate agents.\n\n\nDiscover the Most Profitable Areas with Highest Investment Scores\n\nWith the ",
+    "icon": "/icons/com.endeksa.app.png"
+  },
+  "com.endevlab.frenchphrasebook": {
+    "title": "French Phrasebook Travel",
+    "package": "com.endevlab.frenchphrasebook",
+    "description": "Unlock seamless travel experiences in France with French Phrasebook Travel! This app is your essential companion for learning French and navigating various travel situations with ease. Whether you're shopping, checking into your hotel, or navigating the airport, our comprehensive phrasebook ensures you can communicate confidently.\n\nPlanning a trip to France? Don't let language be a barrier! French Phrasebook Travel is more than just a French learning app; it's your pocket travel guide and French translator, all in one convenient app. Learn French quickly and efficiently with our situation-based lessons. Perfect for beginners and intermediate learners alike.\n\nThis app offers over 100 phrases for each of the 10 travel scenarios. With high-quality audio pronunciation recorded by native speake",
+    "icon": "/icons/com.endevlab.frenchphrasebook.jpg"
+  },
+  "com.endevlab.japanesephrasebook": {
+    "title": "Japanese Phrasebook Travel",
+    "package": "com.endevlab.japanesephrasebook",
+    "description": "Planning a trip to Japan? Need to learn Japanese quickly for your travels? Japanese Phrasebook Travel is your ultimate travel companion! This app provides over 1000 essential Japanese phrases for travelers, making your journey smoother and more enjoyable.\n\nUnlock seamless communication in Japan with our comprehensive phrasebook. Whether you're at the airport, hotel, restaurant, or shopping, our app provides the phrases you need to navigate any situation with confidence. Learn Japanese for travel easily and effectively.\n\nKey features:\n- Over 1000 essential Japanese phrases\n- 10 practical categories: Accommodation, Shopping, Airport, and more\n- Over 100 phrases per category\n- Powerful search and favorites functionality\n- High-quality audio pronunciation by native speakers\n\nUse Cases:\n- Booki",
+    "icon": "/icons/com.endevlab.japanesephrasebook.jpg"
+  },
+  "com.endevlab.spanishphrasebook": {
+    "title": "Spanish Phrasebook Travel",
+    "package": "com.endevlab.spanishphrasebook",
+    "description": "Spanish Phrasebook Travel \u2013 Learn Spanish for Travel\n\nSpeak Spanish easily on your trip!\nPlanning to visit Spain, Mexico, or Latin America? Spanish Phrasebook Travel helps you communicate confidently with locals. From airports and hotels to restaurants, shopping, and emergencies \u2013 get the essential Spanish phrases you need, always at hand.\n\n[Why Choose Spanish Phrasebook Travel?]\n\n**Extensive Spanish Phrasebook for Travel**\nHundreds of useful Spanish phrases for real-life travel situations: greetings, transportation, dining, shopping, accommodation, sightseeing, and emergencies.\n\n**Native Spanish Audio**\nListen to clear, high-quality recordings by native Spanish speakers. Perfect for pronunciation and listening practice.\n\n**Easy Pronunciation Guide**\nEach phrase includes phonetic spelling ",
+    "icon": "/icons/com.endevlab.spanishphrasebook.jpg"
+  },
+  "com.enesyildirim.howtall": {
+    "title": "Height Finder: AI Photo Scan",
+    "package": "com.enesyildirim.howtall",
+    "description": "Measure Anything Instantly with the Power of AI! \ud83d\udccf\u2728\n\nCurious about how tall your friend really is? Not sure if that new lamp will fit on your desk? HowTall AI turns your smartphone camera into a high-precision measuring tool. Forget the tape measures\u2014just snap a photo and let AI do the work!\n\nWhat Can You Do?\n\nFind Out Your Friends' Height: Settle the debate once and for all! \"Is he really 6 feet?\" Simply take a photo and find out in seconds. It\u2019s the ultimate social icebreaker! \ud83d\ude4b\u200d\u2642\ufe0f\ud83d\ude4b\u200d\u2640\ufe0f\n\nMeasure Any Object: From furniture and packages to home decor. Use common reference objects (like a phone, a credit card, or a power outlet) to calculate the exact height of your target. \ud83d\udcfa\n\nMirror Selfie Measurement: Want to check your own height? No help needed! Just take a mirror selfie and HowTall AI w",
+    "icon": "/icons/com.enesyildirim.howtall.png"
   }
 }
