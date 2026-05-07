@@ -55030,5 +55030,616 @@
     "package": "com.blocoware.taximeter",
     "description": "Drive. Track. Earn.\nTaximeter 55 is a professional GPS taxi meter app designed for drivers who earn by the mile or minute. Perfect for taxi drivers, limo services, shuttles, and even towing businesses \u2014 easy to use, reliable, and packed with features that save time and improve billing accuracy.\n\nKey Features:\n\n\ud83d\ude96 Unlimited Tariffs\nCreate as many tariffs as you need \u2014 charge by distance (miles or km), by time, or both. You can even charge by time only when your speed drops below a custom value.\n\n\ud83d\udcdd Trip Log, Stats & Receipts\nKeep perfect records for billing and bookkeeping. Filter trips by month or year, and search by start/end address or notes.\n\n\u2795 Flexible Extras\nAdd pre-defined extras or custom amounts with one tap. Edit or remove extras anytime during the trip.\n\n\ud83d\udd04 One-Tap Tariff Switching\n",
     "icon": "/icons/com.blocoware.taximeter.png"
+  },
+  "com.blodhgard.easybudget": {
+    "title": "Fast Budget - Expense Manager",
+    "package": "com.blodhgard.easybudget",
+    "description": "Keep your personal or family finances easily under control with Fast Budget.\nYou can check your daily expenses and improve your savings.\nVisualize the flow of your money at a glance with the fully customizable Overview page.\nFast Budget offers numerous tools to help you better manage your money, including various charts, a helpful calendar, and a subscription manager.\nYour data can be shared among your devices or the Fast Budget web app.\n\n\nFast Budget - Expense Manager features:\n\nACCOUNTS AND CREDIT CARDS\nTrack your bank accounts and credit cards to stay on top of your finances.\nVisualize your financial health through customizable charts that show account balances and spending trends over time.\n\nTRANSACTIONS AND SCHEDULED TRANSACTIONS\nInsert your revenues and outgoings in an easy and fast ",
+    "icon": "/icons/com.blodhgard.easybudget.png"
+  },
+  "com.blog.writer.aibloggenerator.blogwriterapp": {
+    "title": "AI Blog Generator",
+    "package": "com.blog.writer.aibloggenerator.blogwriterapp",
+    "description": "This tool allows you to generate well-structured blog entries with a few simple clicks, whether you are a student, content supplier, marketer, or blogger. The software uses intelligent content generation to assist users in creating legible and well-structured articles for a wide range of topics and categories.\nBecause of the app's straightforward and simple structure, users may start writing without having to go through complicated steps. Users can quickly create new blogs or manage existing ones from the main panel. The app's goal is to make blogging easier by offering users with useful tools for planning and brainstorming blog post ideas.\nIntelligent Blog Development.\nUsers can start writing blog content right away by inputting a topic or concept and using the New Blog tool. The tool mak",
+    "icon": "/icons/com.blog.writer.aibloggenerator.blogwriterapp.png"
+  },
+  "com.blogspot.accountingutilities": {
+    "title": "HomeBills \u2014 Utility Tracker",
+    "package": "com.blogspot.accountingutilities",
+    "description": "Track utility bills, meter readings, and monthly expenses in one simple app.\n\n\n\nHomeBills \u2014 Utility Tracker helps you keep all utility payments under control.\nAdd meter readings, calculate bills automatically, and clearly see where your money goes every month.\n\n\n\nDesigned for real life: fast input, clear numbers, and no unnecessary complexity.\n\n\n\nWhy HomeBills?\n\nHomeBills is built for people who want a simple and reliable way to track utility bills without spreadsheets or paperwork.\n\n\n\nKey features:\n\n  Utility bills tracker for electricity, gas, water, heating, and more\n  Support for multiple addresses: apartment, house, rental, office\n  Quick and convenient meter readings input\n  Flexible tariffs: fixed, tiered, and periodic\n  Automatic bill calculation with detailed breakdown\n  Monthly a",
+    "icon": "/icons/com.blogspot.accountingutilities.png"
+  },
+  "com.blogspot.yashas003.colorpalette": {
+    "title": "Color Palette",
+    "package": "com.blogspot.yashas003.colorpalette",
+    "description": "A palette is a collection of colors, i.e. hues and their shades. The color palette has been designed with colors that work harmoniously with each other. \n\nColor Palette allows developers and programmers to get their required color code on the go. With this application, you can explore, create, save and extract the color codes from Images.\n\nMaterial Design\nThe application is beautifully designed with material design rules. The app has a clean and modern look which lets you feel comfortable while using.\n\nDark Theme\nImproves visibility for users with low vision and those who are sensitive to bright light.\n\nCreate Solid Colors\nThe app allows you to create custom solid colors. You can generate an infinite number of colors using the app with simple UI.\n\nCreate Gradient Colors\nGradient color is w",
+    "icon": "/icons/com.blogspot.yashas003.colorpalette.png"
+  },
+  "com.bloomberg.android.plus": {
+    "title": "Bloomberg: Finance Market News",
+    "package": "com.bloomberg.android.plus",
+    "description": "Breaking news on world finance, business, stock market and investments. Access award-winning journalism to help you understand the economics and financial news that\u2019s shaping tomorrow, today.\n\nBefore you change the world. Bloomberg.\nCustomize the app to monitor the stock market and your investment portfolio. Stay up-to-date on trending topics like the US economy, oil prices, Dow Jones, NASDAQ and more.\n\nBloomberg delivers critical business news for modern business leaders and financial professionals. Whether you need to monitor your stock portfolio, or understand the latest world news, Bloomberg provides data-driven insights and analysis, whenever and wherever you need it. \n\nFEATURES:\n- News: Browse featured and trending stories in Business, Markets, Industries, Technology, Politics, Forei",
+    "icon": "/icons/com.bloomberg.android.plus.png"
+  },
+  "com.bloomcodestudio.learnphysics": {
+    "title": "Physics & Quantum Science Lab",
+    "package": "com.bloomcodestudio.learnphysics",
+    "description": "Master the Laws of the Universe\n\nWhy just read about gravity when you can visualize it? Physics & Quantum Science Lab is a comprehensive interactive resource for students, educators, and science enthusiasts. From classical mechanics to particle physics, we bridge the gap between complex formulas and conceptual understanding.\n\nJoin thousands of students across the US, UK, Canada, and Australia who are using our high-impact 3D animated lessons and lectures to master their curriculum. Developed by Bloom Code Studio, this app is a minimalist, high-efficiency toolkit built for academic excellence.\n\nInteractive Mechanics & Motion\n\nVisualize the invisible with our module-based learning system designed for deep comprehension:\n\nKinematics & Dynamics: Master Newton\u2019s Laws of Motion, Acceleration, an",
+    "icon": "/icons/com.bloomcodestudio.learnphysics.png"
+  },
+  "com.bluefish.ocr": {
+    "title": "Text Scanner - OCR",
+    "package": "com.bluefish.ocr",
+    "description": "Real-time & Offline OCR text recognition \n    1. Instant and quick detection and extraction of texts from camera\n    2. Even support text scanning from existing local images like jpeg (image to text)\n    3. Real-time overlay of scanned and detected texts on camera preview\n    4. Camera scanner & Document scanner and thus live transcription from document\n\n Accurate and Reliable \n    1. Detect texts accurately and reliably even under less brightness (you still can use flashlight)\n    2. Our text scanner OCR is based on advanced AI (Artificial Intelligence) developed recently\n    3. You can easily copy and edit scanned text and documents too\n\n Offline: No internet connection is required \n    1. Everything is done locally and offline without internet and network connection\n\n Support multiple l",
+    "icon": "/icons/com.bluefish.ocr.png"
+  },
+  "com.bluefish.translate": {
+    "title": "Translate Offline (Voice, OCR)",
+    "package": "com.bluefish.translate",
+    "description": "Support offline translation  \n   1. No internet connection is required once you download translation model in advance. \n   2. Everything is done locally and offline without internet and network connection. \n   3. More features (e.g., TTS, voice typing, speech recognition) will be supported if you are online. \n\n Support multiple languages (59+)  \n   Afrikaans, Arabic, Belarusian, Bulgarian, Bengali, Catalan, Czech, Welsh, Danish, German, Greek, English, Esperanto, Spanish, Estonian, Persian, Finnish, French, Irish, Galician, Gujarati, Hebrew, Hindi, Croatian, Haitian, Hungarian, Indonesian, Icelandic, Italian, Japanese, Georgian, Kannada, Korean, Lithuanian, Latvian, Macedonian, Marathi, Malay, Maltese, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Albanian, Sw",
+    "icon": "/icons/com.bluefish.translate.png"
+  },
+  "com.bluelionsolutions.mytaxicontrol": {
+    "title": "TaxiController Driver",
+    "package": "com.bluelionsolutions.mytaxicontrol",
+    "description": "\ud835\udde7\ud835\uddd4\ud835\uddeb\ud835\udddc\ud835\udde0\ud835\uddd8\ud835\udde7\ud835\uddd8\ud835\udde5\u2013 \ud835\uddd6\ud835\uddf2\ud835\uddff\ud835\ude01\ud835\uddf6\ud835\uddf3\ud835\uddf6\ud835\uddf2\ud835\uddf1, \ud835\udde3\ud835\uddff\ud835\uddfc\ud835\uddf3\ud835\uddf2\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddf9, \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\ude06-\ud835\ude01\ud835\uddfc-\ud835\udde8\ud835\ude00\ud835\uddf2\n\nTaxiController is a certified, professional taximeter app used by thousands of taxi drivers and companies worldwide. Approved by the U.S. National Conference on Weights and Measures NCWM Certificate #24-053, it replaces costly hardware with a powerful, software-based solution.\n\n\ud83d\ude96 High-Accuracy GPS and OBD-based fare calculation\n\n\ud83d\udee0\ufe0f Continuously updated since 2011\n\n\ud83c\udf0d 200 ready-to-use tariffs from 50 countries\n\n\ud83d\udcd8 User Guide\n\n\ud83d\udd27 Full Feature List\n\n\ud835\udde5\ud835\uddd8\ud835\uddd4\ud835\uddd7\ud835\uddec \ud835\udde2\ud835\udde8\ud835\udde7 \ud835\udde2\ud835\uddd9 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddd5\ud835\udde2\ud835\uddeb \u2013 \ud835\udde1\ud835\udde2 \ud835\udde6\ud835\uddd8\ud835\udde7\ud835\udde8\ud835\udde3 \ud835\udde5\ud835\uddd8\ud835\udde4\ud835\udde8\ud835\udddc\ud835\udde5\ud835\uddd8\ud835\uddd7\n\nUnlike other apps, TaxiController works immediately. Tariffs are selected automatically based on your location and time of day. You can also build your own tariff or customize existing ones in minutes \u2014 no technical knowledge needed.\n\n\ud835\udde7\ud835\udddb\ud835\udde5\ud835\uddd8\ud835\uddd8 \ud835\udde8\ud835\udde6\ud835\uddd8 \ud835\udde0\ud835\udde2\ud835\uddd7\ud835\uddd8\ud835\udde6 \ud835\uddd9\ud835\udde2\ud835\udde5 \ud835\uddd4\ud835\udde1\ud835\uddec \ud835\uddd7",
+    "icon": "/icons/com.bluelionsolutions.mytaxicontrol.png"
+  },
+  "com.bluelionsolutions.srilanka.mytaxicontrol": {
+    "title": "Taximeter-GPS",
+    "package": "com.bluelionsolutions.srilanka.mytaxicontrol",
+    "description": "\ud835\uddd5\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4-\ud835\uddec\ud835\uddfc\ud835\ude02\ud835\uddff-\ud835\udde2\ud835\ude04\ud835\uddfb \ud835\udde7\ud835\uddd4\ud835\uddeb\ud835\udddc\ud835\udde0\ud835\uddd8\ud835\udde7\ud835\uddd8\ud835\udde5\u2013 \ud835\uddd6\ud835\uddf2\ud835\uddff\ud835\ude01\ud835\uddf6\ud835\uddf3\ud835\uddf6\ud835\uddf2\ud835\uddf1, \ud835\udde3\ud835\uddff\ud835\uddfc\ud835\uddf3\ud835\uddf2\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddf9, \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\ude06-\ud835\ude01\ud835\uddfc-\ud835\udde8\ud835\ude00\ud835\uddf2 \n\nTaximeter-GPS is a certified, professional taximeter app used by thousands of taxi drivers and companies worldwide. Approved in the U.S.  (Certificate #24-053), it replaces costly hardware with a powerful, software-based solution.\n\n\u26a0\ufe0f Fare calculation: This app uses a Foreground Service to calculate fares based on distance and time. Tracking occurs during an active trip initiated by the user and is visible via a persistent notification. This ensures accuracy if you use other apps or receive a call \u26a0\ufe0f\n\n\ud83d\ude96 High-Accuracy GPS and OBD-based fare calculation\n\n\ud83d\udee0\ufe0f Continuously updated since 2011\n\n\ud83c\udf0d 200 ready-to-use tariffs from 50 countries\n\n\ud83d\udcd8 User Guide\n\n\ud83d\udd27 Full Feature List\n\n\ud835\udde5\ud835\uddd8\ud835\uddd4\ud835\uddd7\ud835\uddec \ud835\udde2\ud835\udde8\ud835\udde7 \ud835\udde2\ud835\uddd9 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddd5\ud835\udde2\ud835\uddeb \u2013 \ud835\udde1\ud835\udde2 \ud835\udde6\ud835\uddd8\ud835\udde7\ud835\udde8\ud835\udde3 \ud835\udde5\ud835\uddd8\ud835\udde4\ud835\udde8\ud835\udddc\ud835\udde5\ud835\uddd8\ud835\uddd7\n\nUnlike other app",
+    "icon": "/icons/com.bluelionsolutions.srilanka.mytaxicontrol.png"
+  },
+  "com.bluepointer.restoria": {
+    "title": "Old Photo Restore :Restoria AI",
+    "package": "com.bluepointer.restoria",
+    "description": "\ud83c\udf1f Restore, Enhance & Animate Your Memories with AI\n\nRestore, enhance, and even animate your old photos using powerful AI. Fix scratches, sharpen blurry images, add colour, and bring your memories to life as short videos.\n\n- Core Features of Restorai AI \u2013 Old Photo Restoration App\n\u2022 Photo Restoration\nRepair damaged, faded, or old photos,Restore clarity and details instantly\n\n\u2022 Scratch & Damage Removal\nRemove scratches, dust, and noise,Clean up old, damaged pictures effortlessly\n\n\u2022AI Colorization\nConvert black & white photos into realistic colour images,Bring historical memories back to life\n\n\u2022 Photo Enhance : \nSharpen blurry photos, improve resolution, and overall quality\n\n\u2022Face Restoration\nFix blurred or low-quality faces and enhance facial features naturally\n\n\u2022Photo to Video (NEW)\nTurn yo",
+    "icon": "/icons/com.bluepointer.restoria.png"
+  },
+  "com.bng.magiccall": {
+    "title": "MagicCall \u2013 Voice Changer App",
+    "package": "com.bng.magiccall",
+    "description": "Using the MagicCall App you can make fun calls, prank your friends, and surprise your friends on call. MagicCall lets you change your voice during phone calls in real-time. You may want to call in a female voice, or the voice of a male, a kid, or even a cartoon character, this app is there for you.\n\nOur voice changing effects and background sounds like traffic noise and birthday song can fake the whole environment background of the call. Once you choose the background effect, anyone you call will believe that you are trapped in a traffic jam, enjoying a concert or you can wish your friend with the birthday song background.\n\n\u201cThe funniest and smoothest way to ask a girl out!\u201d\n\nThe sound emoticons feature of MagicCall works in real time during a phone call. We have sound emoticons like kiss,",
+    "icon": "/icons/com.bng.magiccall.png"
+  },
+  "com.body.shape.editor.perfect.shape": {
+    "title": "Body Photo Editor",
+    "package": "com.body.shape.editor.perfect.shape",
+    "description": "Shape Do It Right. Unblock Your Body.\nBody Shape Editor is the best for body shaping. Body Editor Free can help you reshape body curves to get the slim body, perfect figure, thin waist, long legs, big hips, enlarge breast!\n\nBody Editor is an magic body shape editor, that you can use to change your physical figure using all sorts of different settings the app offers! What you have here is a perfect body shape editor that lets you make some quick photo edits without having to use more complicated programs like Photoshop.\n\nThe way Body Shape Editor works is simple for edit body - Slim face, Beautify face, Nose editor, Body retouch. After uploading a picture you want to Retouch face or Retouch body, you just have to mark the part of your body that you want to enhance on the lower part of the s",
+    "icon": "/icons/com.body.shape.editor.perfect.shape.png"
+  },
+  "com.bolo.gtc": {
+    "title": "World Quiz - Learn Geography",
+    "package": "com.bolo.gtc",
+    "description": "Discover the World with \"World Quiz\"!\nEmbark on a global adventure from your screen! \ud83c\udf0d\u2728\n\nMap Mastery \ud83d\uddfe: \nUnravel the shapes of 195 countries, including every UN member, Vatican City, and Palestine. Can you recognize a country just by its outline?\n\n195 Flags \ud83c\udf0d\ud83d\udea9:  \nTest your knowledge by identifying the flags of 195 countries, including every UN member, Vatican City, and Palestine. How many flags can you get right?\n\nWorld Capitals \ud83c\udfdb\ufe0f\ud83c\udf10:  \nPut your geography skills to the test! Can you match each country with its capital city? Challenge yourself to name the capital of all 195 countries.\n\nEmoji Challenge \ud83d\uddfd\ud83c\udf63\ud83e\ude86\ud83e\udd98: \nDecode emojis to guess the country! Each level uses familiar symbols to hint at different countries. How well do you know the world\u2019s emoji language?\n\nTraditional Attires \ud83d\udc58\ud83e\udd7b: \nDive into ",
+    "icon": "/icons/com.bolo.gtc.png"
+  },
+  "com.bombbird.terminalcontrol2": {
+    "title": "Terminal Control 2",
+    "package": "com.bombbird.terminalcontrol2",
+    "description": "The second instalment of Terminal Control, the realistic ATC simulation game, now comes with multiplayer!\n\nIn this game, you play as an approach (TRACON) ATC controller handling arrivals and departures in the airspace.\n\nYou gain points for every arrival aircraft that lands safely on the runway, and for every departure aircraft handed off to the area control centre. But beware, every time a plane gets too close to other planes or terrain, you lose points! What high score will you be able to get?\n\nWhether you're a seasoned air traffic controller looking for a casual on-the-go ATC simulation game, an aviation enthusiast wanting to try your hands at being an ATC, or a beginner wanting to explore more in the field of ATC, this game will bring you hours and hours of fun.\n\nIf you are bored playin",
+    "icon": "/icons/com.bombbird.terminalcontrol2.png"
+  },
+  "com.bookaway.users": {
+    "title": "Bookaway: Bus Train & Ferry",
+    "package": "com.bookaway.users",
+    "description": "Search, compare, and book transportation tickets with Bookaway. Save time and money by selecting from local bus, ferry, train, minivan, and private transfer operators.\n\n\nMeet Bookaway: Your Hassle-Free Online Travel Agent\n\n\nBookaway is the ultimate online travel companion. We simplify the process of finding, comparing, and booking transportation tickets globally. With our 24/7 support, you can explore the world confidently and effortlessly.\n\n\nEasy Booking, Anytime, Anywhere\n\n\nOne-Tap Booking: Compare and book transportation tickets worldwide with a single tap. Receive your booking confirmation instantly in your inbox.\n\n\nYour Trip, Your Way: Choose from buses, trains, minivans, private transfers, and ferries. Whether you prefer early mornings or late nights, you have the final say.\n\n\nAccess",
+    "icon": "/icons/com.bookaway.users.png"
+  },
+  "com.bookingauto": {
+    "title": "Bookingauto - car rental",
+    "package": "com.bookingauto",
+    "description": "Bookingauto \u2013 Your Global Car Rental App\nLooking to rent a car, book a rental car, or find car hire services fast and affordably? The Bookingauto app helps you find and compare the best car rental deals in over 400,000 locations worldwide \u2014 with savings up to 70%! Created by travelers for travelers, Bookingauto makes your journey smoother, cheaper, and stress-free.\n\n\ud83d\udccd Car Rental Near Me\nNeed a car urgently? Use the \u201ccar rental near me\u201d feature to instantly find available vehicles in your area \u2014 no matter where you are.\n\n\u2708\ufe0f Airport Car Rental\nBook a rental car directly from any major airport with our special offers. Skip the taxi line and drive away on your own terms.\n\n\ud83d\udd01 One-Way Car Hire\nTraveling from one city to another? Our one-way car rental option lets you pick up and drop off in diffe",
+    "icon": "/icons/com.bookingauto.png"
+  },
+  "com.bookinggroup2.economybookings": {
+    "title": "EconomyBookings Car Rental",
+    "package": "com.bookinggroup2.economybookings",
+    "description": "Going on vacation or a business trip and need a rental car? Download EconomyBookings Car Rental App absolutely for FREE and receive access to value-for-money rental deals in over 20.000 locations in 127 countries worldwide right on your Android phone.\nWith this App all you have to is to choose pick up and drop off locations, select from the wide range of vehicle the one that suits you best, add extras if required and then make a booking. After your reservation is confirmed, your voucher will be sent to your email. After that you may view, amend or cancel your reservation online being on the go.\nEconomyBookings.com operates in the online booking market since 2008 providing a money-saving opportunity to book quality cars supplied by world-largest and local car rental companies.\n\nWhy EconomyB",
+    "icon": "/icons/com.bookinggroup2.economybookings.png"
+  },
+  "com.bookipi.ai.business.assistant.manager.app": {
+    "title": "AI Business App - Bookipi",
+    "package": "com.bookipi.ai.business.assistant.manager.app",
+    "description": "Your AI Business Assistant is here.\n\nBrought to you by the platform trusted by +2.5 million freelancers and business owners worldwide, the Bookipi AI Business App is your all-in-one AI work assistant. Manage every aspect of your business from anywhere, on your terms and schedule.\n\nBookipi AI is more than just a tool\u2014it\u2019s a supportive partner that gets to know your business so it can execute tasks for you. Simply tell it what you need, and it handles the details so you can stay focused on your work. The app is intuitive and helpful, ensuring you remain in control while the AI streamlines your daily tasks.\n\nWhat Can Bookipi AI Business App Do For You?\n\nYour Own Personal Business Assistant\nNavigating complex tasks and transactions takes time. Bookipi\u2019s conversational AI uses natural language,",
+    "icon": "/icons/com.bookipi.ai.business.assistant.manager.app.png"
+  },
+  "com.bookleteditor": {
+    "title": "Book Forge AI",
+    "package": "com.bookleteditor",
+    "description": "\u2728 KEY FEATURES\n\n\ud83e\udd16 AI-Powered Generation\n- Generate complete books from a simple topic or idea in 42-languages\n- AI creates outlines, chapters, and professional content\n- Choose from 9 book types: Fiction, Non-Fiction, How-To, Business, Self-Help, Educational, Technical, Memoir and Comedy\n\n\ud83c\udfa8 Stunning AI Cover Art\n- Beautiful, unique cover images generated for each book\n- Professional quality artwork that captures your book's essence\n\n\u270f\ufe0f Powerful Rich Text Editor\n- Google Docs-style editing experience\n- Format text with bold, italic, colors, and more\n- Add and arrange chapters easily\n- Insert images throughout your book\n\n\ud83d\udcc4 Professional Export Options\n- Export as beautifully formatted PDF\n- Export as DOCX for further editing\n- Print-ready quality output\n\n\ud83d\udcd6 PERFECT FOR\n- Authors looking to jum",
+    "icon": "/icons/com.bookleteditor.png"
+  },
+  "com.borg.tarotcards": {
+    "title": "Tarot Cards",
+    "package": "com.borg.tarotcards",
+    "description": "Unlock the Magic of Tarot Cards: Your Journey to Insight and Clarity\n\nDiscover the timeless wisdom of tarot cards with our beautifully designed app. Whether you're seeking answers, inspiration, or guidance, this app brings the power of tarot cards to your fingertips. Perfect for beginners and seasoned readers alike, our app offers intuitive tools to explore your spiritual path and unlock the secrets of life\u2019s challenges.\n\nWhy Choose Our Tarot Cards App?\n\nA stunning collection of tarot cards featuring detailed artwork and interpretations\nDaily tarot card draws to guide your day with intention and clarity\nCustomisable card spreads for personal and professional readings\nIntuitive navigation and user-friendly features for a seamless tarot experience\nWhether you\u2019re looking for insights into rel",
+    "icon": "/icons/com.borg.tarotcards.png"
+  },
+  "com.bowerydigital.bend": {
+    "title": "Bend: Stretching & Flexibility",
+    "package": "com.bowerydigital.bend",
+    "description": "Bend is the #1 app for daily stretching with over 10 million users. Our quick & convenient stretching routines help you improve your flexibility and maintain your natural range of motion as you get older. We offer hundreds of stretches and yoga poses along with dozens of easy-to-follow stretching routines designed for all ages and experience levels. It's never too early to start stretching everyday!\n\nSTRETCHING IS IMPORTANT!\n\nA simple, daily stretching routine can have a huge impact on your quality of life. Every time you stretch, you invest in your long-term health and longevity.\n\nStretching benefits include:\n\u2295 Increase flexibility & mobility in your muscles and joints\n\u2295 Prevent and relieve pain in your lower back, neck, hips, shoulders and more\n\u2295 Reduce the risk of injury during outdoor ",
+    "icon": "/icons/com.bowerydigital.bend.png"
+  },
+  "com.bpmobile.ifax.free": {
+    "title": "FaxFree: Send Faxes from Phone",
+    "package": "com.bpmobile.ifax.free",
+    "description": "Transform your Android device into a powerful fax machine with our innovative fax app! Say goodbye to the hassle of bulky, expensive fax machines and the complexity of dedicated phone lines. Now, you can send and receive faxes directly from your phone\u2014anytime, anywhere. Whether you're sending important contracts, legal documents, receipts, or personal notes, this fax app simplifies faxing, making it faster, more efficient, and completely portable. With advanced technology and a user-friendly interface, faxing has never been easier or more convenient.\n\nKey Features:\n\nSend and Receive Faxes\nEasily send and receive faxes without needing a traditional fax machine or dedicated phone line. The fax app operates entirely through your mobile device, so you can handle all your faxing needs on the go",
+    "icon": "/icons/com.bpmobile.ifax.free.png"
+  },
+  "com.brainsoft.solve.now.math.helper": {
+    "title": "SolveNow AI: Homework Helper",
+    "package": "com.brainsoft.solve.now.math.helper",
+    "description": "SolveNow AI is an all-in-one AI homework helper designed to make studying easier and faster. Stuck on a tricky algebra problem? Need help with homework? Want to polish your essay before class? This powerful study AI tool is here to support your academic success.\n\nJust scan a question \u2014 be it a quick math equation, word problem, or English task \u2014 and receive instant step-by-step solutions. Acting as both a homework scanner, study tutor and an intelligent essay helper, the app brings together the speed of artificial intelligence and the accuracy of expert-level answers.\n\nNeed a math equation solver or a full math problem solver with explanations? You\u2019ve got it. This app functions as an algebra math solver that breaks down each step in a way that\u2019s easy to understand. Whether you\u2019re preparing",
+    "icon": "/icons/com.brainsoft.solve.now.math.helper.png"
+  },
+  "com.brainsoft.apps.multiplication.table.times.premium": {
+    "title": "Times Tables - Multiplication",
+    "package": "com.brainsoft.apps.multiplication.table.times.premium",
+    "description": "Master the times table through fun, interactive math games!\nLearn times tables with one of the coolest Math Games! \ud83d\udc69\u200d\ud83c\udfeb\n\nWe designed multiplication flashcards especially for you. So you can practice multiplication and guess all the math puzzles! Solve multiplication games tests and improve your grades in elementary school or just kill time profitably. \n\nYou can practice or learn the multiplication table any way you like and nothing will distract you from it.\n\nThis app will be useful for both adults and children:\n- students and school kids - to master the basics of mathematics and arithmetic, mental math, learn the multiplication table, prepare for math tests and exams;\n- adults who want to keep their mind and brain in good shape.\n\n The math game has three modes:\n\n\u2796 Training mode \nYou can ch",
+    "icon": "/icons/com.brainsoft.apps.multiplication.table.times.premium.png"
+  },
+  "com.brainappsville.ebillchecker": {
+    "title": "Electricity Bill Check Online",
+    "package": "com.brainappsville.ebillchecker",
+    "description": "The \"Electricity Bill Check\" app offers a convenient app for users worldwide to check their monthly electricity bills online for free. Simply enter your reference number and hit submit to access a detailed soft copy of your current month's electricity bill, ensuring the amount charged is correct.\n\nDisclaimer. This does not represent Government entity.\n\nKey features of the app include:\n1.\tPrint and save your electricity bill.\n2.\tAccess to a wide range of electricity bills from various regions and companies\n3. Additionally, users can download payment receipts and access various utility services from around the world.\n\nDisclaimer: \nIt is clarified that we do not represent the government entity. Our app only serves the purpose of showing electricity bills to the users for their convenience. th",
+    "icon": "/icons/com.brainappsville.ebillchecker.png"
+  },
+  "com.brainxsoft.twentyquestions": {
+    "title": "Twenty Questions - AI Powered",
+    "package": "com.brainxsoft.twentyquestions",
+    "description": "Experience the awe of our AI-driven Twenty Questions game! Test the boundaries of artificial intelligence as it attempts to deduce any object you're thinking of using clever yes-or-no questions. Marvel at the AI's impressive speed and accuracy in this engaging guessing game and compete with a Large Language Model AI!",
+    "icon": "/icons/com.brainxsoft.twentyquestions.png"
+  },
+  "br.com.intermedium": {
+    "title": "Inter Banking & Money Transfer",
+    "package": "br.com.intermedium",
+    "description": "Creating a world where interactions generate more value\n\nInter is an all-in-one digital banking app designed for those who want to manage money, invest, and use international money transfer.\n\nDigital banking, investing, and international money transfer in a single experience.\n\nManage your account, track spending, and make payments using physical and virtual debit cards through our digital banking app. \n\nYour money is FDIC-insured.\n\nUse Inter as your investing app to invest in stocks and ETFs starting from $5. With zero brokerage, Inter allows you to build and manage your portfolio directly inside the same digital banking app.\n\nInternational money transfer, send money to +60 countries.\n\nEarn gift cards with cashback, join the Inter LOOP rewards program, access the Inter Passport Credit Card",
+    "icon": "/icons/br.com.intermedium.png"
+  },
+  "com.brandiblegames.sneakercraft": {
+    "title": "Sneaker Craft",
+    "package": "com.brandiblegames.sneakercraft",
+    "description": "Build and paint awesome sneakers in the new game from the creators of Sneaker Art! Fun for sneakerheads, casual players, or anyone who wants to be creative! \n\n+ BUILD your own sneakers! Drag parts onto your sneaker and create your own unique low and high-top designs! There are hundreds of combinations!\n+ PAINT sneakers with easy-to-use paint controls and your choice of brushes, sprays, or pencils! Each paint tool creates a different effect! Experiment and find your favorite!\n+ LACE up your shoes! Choose the perfect lace for your design and follow the pattern to tie up your laces for bonus cash!\n+ UNLOCK heaps of pre-made shoes including sneakers, slides, and sports shoes! \n+ REPAIR sneakers for customers! Clean them and restore the paint perfectly to satisfy your customers! Make sure they ",
+    "icon": "/icons/com.brandiblegames.sneakercraft.png"
+  },
+  "com.bravolang.phrasebook": {
+    "title": "Travel Phrasebook | Translator",
+    "package": "com.bravolang.phrasebook",
+    "description": "The \u201cTravel Phrasebook\u201d app has many useful foreign phrases and words (e.g., \u201cThank you!\u201d, \u201cHow much?\u201d or \u201cA table for two, please!\u201d). When you tap a phrase, the app speaks it aloud. There is no guessing as to how to pronounce the words. And if the app is talking too quickly for you, simply tap the snail icon to hear the words more slowly. Listen to pronunciation recorded by native speaker and then record and play back your own voice to practice your foreign language speaking skills!\n\nWhen traveling to foreign countries, make sure you bring the app with you! Ideally you listen to a phrase and repeat it, but if your accent is terrible, you can play the voice on the app to local people (e.g., a waiter or store clerk). Language barrier while travelling abroad will no longer exist!\n\nFEATURES \n",
+    "icon": "/icons/com.bravolang.phrasebook.png"
+  },
+  "com.breakthroughapps.MaryOchsnerYoga.android": {
+    "title": "Yoga+ Daily Stretching By Mary",
+    "package": "com.breakthroughapps.MaryOchsnerYoga.android",
+    "description": "Elevate your fitness journey with Yoga+ Daily Stretching By Mary, the ultimate personalized yoga experience. Discover a wide range of guided classes that focus on enhancing your core power, flexibility, and mind-body balance. Immerse yourself in over 300 tailored sessions led by renowned international yoga instructor, Mary Ochsner.\n\nYoga+ Daily Stretching By Mary seamlessly integrates into your daily routine, offering beginner-friendly routines that are both enjoyable and rewarding. Join our thriving community of 300,000+ dedicated yogis and embrace a healthier, more harmonious lifestyle.\n\nWith Yoga+ Daily Stretching By Mary, each day presents an opportunity for self-improvement, whether it's through invigorating stretches, strength-building exercises, or mindfulness practices. Our meticul",
+    "icon": "/icons/com.breakthroughapps.MaryOchsnerYoga.android.png"
+  },
+  "com.breakup.therapy.therapyforabreakup.therapistforbreakups": {
+    "title": "Fresh Start: Breakup Therapy",
+    "package": "com.breakup.therapy.therapyforabreakup.therapistforbreakups",
+    "description": "Fresh Start for breakup Therapy Get therapy for a breakup & therapy to get over ex. As a therapist for break ups, it offers therapy for getting over someone.\n\nEmbark on your healing journey with Fresh Start: Breakup Therapy, the ultimate therapy for a breakup. Designed as a therapist for break ups, this app offers therapy to get over ex and therapy for getting over someone with personalized tools to guide you through your fresh start. Whether you need therapy to get over an ex or counseling for relationship breakup, Fresh Start: Breakup Therapy is here to support you every step of the way.\n\nFeatures:\n\n- Your Healing Journey: Track your mood and progress with tailored healing activities. Start your therapy for a breakup with mood recording and weekly mindfulness practice to achieve a fresh ",
+    "icon": "/icons/com.breakup.therapy.therapyforabreakup.therapistforbreakups.png"
+  },
+  "com.breathingexercises.meditation.sleep": {
+    "title": "Resona - Breathing exercices",
+    "package": "com.breathingexercises.meditation.sleep",
+    "description": "Find your calm with Resona, a focused breathing app that helps you reduce stress, sharpen focus, boost energy, and sleep better. Follow gentle visual (and optional audio) cues and feel your nervous system settle in just a few minutes.\n\nWHY RESONA\n\u2022 Sleep support: Wind down with slow, steady breathing before bed.\n\u2022 Stress relief: Quick sessions to reset between meetings or study blocks.\n\u2022 Simple & focused: No clutter\u2014just effective breathing.\n\nGUIDED TECHNIQUES (PRESETS)\n\u2022 Calm / Box Breathing (4-4-4-4): Balance and focus with equal inhale/hold/exhale/hold.\n\u2022 Sleep / 4-7-8 (4-7-8-0): A soothing rhythm to quiet the mind and prepare for sleep.\n\u2022 Relax (4-0-6-0): Lengthened exhale to activate the body\u2019s relaxation response.\n\u2022 Energy (5-0-2-0): A short, bright pattern to lift alertness.\n\nFEATUR",
+    "icon": "/icons/com.breathingexercises.meditation.sleep.png"
+  },
+  "com.breathwrk.android": {
+    "title": "Breathwrk: Breathing Exercises",
+    "package": "com.breathwrk.android",
+    "description": "Breathwrk, now a part of Peloton, is #1 breathing app for Sleep, Stress, Focus, and Energy. Breathwrk is a simple yet powerful way to improve your mental and physical wellbeing in just seconds with neuroscience based breathing exercises. Join the millions breathing with Breathwrk across the world today! \n\nPeloton All Access, Guide and App+ Members will have Breathwrk provided for free as part of their membership.  These Members can download the latest version of the Breathwrk App and follow the instructions to log in with their Peloton username or email and password.\n\nBreathwrk makes it fun and easy to learn and master breathwork with guided breathing exercises. Get a full sensory experience with customizable sounds, visuals, haptic vibrations, and breath coaches. Build your practice by se",
+    "icon": "/icons/com.breathwrk.android.png"
+  },
+  "com.breboucas.englishphrases": {
+    "title": "English phrases for travel",
+    "package": "com.breboucas.englishphrases",
+    "description": "Learn how to speak English in the most important travel situations \u2014 listen to the phrase, repeat it, and instantly see what needs improvement.\n\nWhether you\u2019re checking in at the airport, ordering a taxi, or booking a restaurant table, 'English phrases for travel' helps you communicate confidently from day one.\n\n\nWHY DOWNLOAD NOW?\n\n\u2011 Real-time guided pronunciation: voice recognition highlights each word that differs from the model and suggests immediate corrections.\n\u2011 Essential phrases, organized by category: airport, hotel, transportation, restaurant, shopping, medical emergencies, and more.\n\u2011 Clear audio in standard international English: follow the model, repeat, and progress until you reach 100% accuracy.\n\u2011 Visible progress: track your performance in each category.\n\n\nHOW IT WORKS:\n\n- C",
+    "icon": "/icons/com.breboucas.englishphrases.png"
+  },
+  "com.brianlimjj.triptracker": {
+    "title": "Travel Diary: Budget App",
+    "package": "com.brianlimjj.triptracker",
+    "description": "Travel Diary is your ultimate travel expense companion! Easily record expenses with built-in currency conversion and a cost calculator. Upload photos, pin them to a map, rate your experiences, and jot down your thoughts. Track daily spending, filter expenses by category or cost, and stay on budget effortlessly. Simplify your travel planning and relive your adventures with Travel Diary.\n\n\nTRAVEL DIARY SUBSCRIPTION PLANS~\n\nBecoming a PRO user lets you add unlimited trips and expenses\n\nFREE 7 DAYS TRIAL, after trial period it is\n\n- Monthly PRO: $3.98/month\n- Annual PRO: $34.98/year",
+    "icon": "/icons/com.brianlimjj.triptracker.jpg"
+  },
+  "com.dhan.live": {
+    "title": "Dhan: Share Market Trading App",
+    "package": "com.dhan.live",
+    "description": "Trusted by 1 Mn+ users, Dhan is the go-to trading app for traders & investors seeking speed, advanced tools, reliability & awesome customer support.\n\nDhan is a user-first stock market trading app designed to deliver an exceptional online trading and investing experience. Whether you want to invest in stocks, explore intraday trading, option trading, or start your share market investment journey with ETFs and mutual funds, Dhan is your all-in-one trading platform for the Indian stock market.\n\nOne Dhan Account. Multiple Platforms\n\u2705 Dhan Web: Online Trading Platform for BIG SCREEN stock trading\n\u2705 Dhan + TradingView: Advanced Chart Features for Smarter Trading\n\u2705 Options Trader: Dedicated Option Trading App with Strategy Builder\n\u2705 ScanX Stock Screener: Heatmaps, Custom Screens & Share Market Ne",
+    "icon": "/icons/com.dhan.live.jpg"
+  },
+  "com.sbnri.banking.nre.nro.nri": {
+    "title": "SBNRI: NRI Mutual Funds, Tax",
+    "package": "com.sbnri.banking.nre.nro.nri",
+    "description": "\u2606 Build your Indian \ud83c\uddee\ud83c\uddf3  Portfolio with SBNRI - Mutual Funds app for NRIs/OCIs \u2606\n\nMade in India | SBNRI is a Trusted & certified platform for NRIs/OCIs to start investing in India. Utilize your existing NRE/NRO funds to earn returns up to 8-20%* or open a new NRI account with us.\n\n* To invest digitally & track existing Indian investment portfolio\n* Mutual Fund investment made easy\n* Online NRI Mutual Fund KYC\n* To bank in India (NRE/NRO)\n* Avail advisory services on taxation, repatriation, legal & investment planning\n* NRI specialized 24*7 support \n\nSBNRI has made the entire process seamless and digital. You can now invest in Mutual Funds, Gift City, PMS, FDs, Commercial Real Estate, Start-up Funds, Capital Gain Bonds and Pre-IPO from your resident country safely and legally. Zero commissio",
+    "icon": "/icons/com.sbnri.banking.nre.nro.nri.png"
+  },
+  "com.browsec.vpn": {
+    "title": "Browsec: Fast Secure VPN Proxy",
+    "package": "com.browsec.vpn",
+    "description": "Download FREE Browsec VPN. Get a fast & secure proxy server for Android\nBrowsec is a free VPN proxy that protects your online privacy and security while accessing the Internet. It is the number one app if you want protected web surfing with a super unlimited proxy.\nJoin 2 million users who trust Browsec \u2013 one of the best Android VPN! Enjoy fast and safe browsing from any part of the world.\n\n\u261d\ufe0f OUR PRINCIPLES\n\nSAFE CONNECT\nProtect your public wifi connection from hackers trying to steal personal data, passwords, and financial information. We believe the best VPN for Android should encrypt your data from malicious ISPs. And our proxy server does it.\n\nPRIVATE MEANS PRIVATE\nHide your IP address and get maximum protection. Improve your online privacy: no one will ever know what content you pref",
+    "icon": "/icons/com.browsec.vpn.png"
+  },
+  "com.bttc.ai.audio.noise.reducer": {
+    "title": "AI Audio Noise Reducer",
+    "package": "com.bttc.ai.audio.noise.reducer",
+    "description": "Transform your noisy recordings into studio-quality sound with AI Audio Noise Reducer, the professional AI audio enhancer and denoise tool for Android.\n\nWhether you are a podcaster, vlogger, or just recorded a voice memo in the wind, our advanced AI technology helps you remove background noise from audio and video files effortlessly. Say goodbye to distracting hiss, hum, and buzz!\n\nKey Features:\n\nProfessional AI Noise Reduction: Automatically detect and filter out unwanted sounds. The ultimate app to denoise audio recordings and restore clarity.\nVideo Sound Cleaner: Don't let bad audio ruin your footage. Remove background noise from video clips (MP4, MOV, MKV) to make your YouTube, TikTok, and Instagram Reels shine.\nAI Voice Enhancer: Isolate and boost human speech. Improve microphone qual",
+    "icon": "/icons/com.bttc.ai.audio.noise.reducer.png"
+  },
+  "com.budgestudios.googleplay.BabyColoringBook": {
+    "title": "Kids Coloring Games & Drawing",
+    "package": "com.budgestudios.googleplay.BabyColoringBook",
+    "description": "Discover a fun and engaging coloring app for kids! This delightful drawing and painting app is designed for children ages 2-6, with vibrant coloring games, educational tools, and safe, kid-friendly content. Ideal for both boys and girls, it lets toddlers and young kids explore colors, creativity, and fun in a playful, interactive way.\n\nParents love this educational app because it promotes motor skills, color recognition, and creativity, making it a fantastic choice for children ages 2, 3, 4, 5, and 6. Kids can draw, paint, and doodle in a colorful environment designed to inspire endless creativity.\n\nKey Features:\n- Easy Drawing & Coloring Tools: Intuitive tools for simple, joyful drawing, painting, and coloring.\n- Bright Colors & Fun Brush Styles: A wide palette and unique brush styles to ",
+    "icon": "/icons/com.budgestudios.googleplay.BabyColoringBook.png"
+  },
+  "com.budget.mobile": {
+    "title": "Budget Car Hire",
+    "package": "com.budget.mobile",
+    "description": "Get set to Budget and Go! Our free  car and van hire Budget app gives you the power to make car and van rental reservations on the move - and much, much more. To make your Budget go further, download our app now.\n\nWhat can I do with the new Budget mobile app?\n\nYou can:\n\n- Book your car or van at any Budget location across the world\n- Get up to the minute price quotes for your required vehicle and location\n- Add handy extras like GPS, mobile Wi-Fi, child seats and more to your booking\n- Make changes and alterations to your existing 'pay later' bookings\n- Cancel any existing bookings you have with us \n\nFor quick, easy and convenient car rental - make sure you Budget and Go!"
+  },
+  "com.bug.identifier.insect.photo.scanner": {
+    "title": "Bug Identifier- Insect Scanner",
+    "package": "com.bug.identifier.insect.photo.scanner",
+    "description": "Bug Identifier \u2013 Discover Insects with Your Camera\n\nEver wondered what that tiny creature in your garden or home is? Use your phone to identify it in seconds. Simply take a photo or upload one, and the app analyzes the image to help you recognize the insect and learn more about it.\n\nDesigned for everyday users, this easy-to-use bug identifier helps you explore the world of insects without needing expert knowledge. From common garden bugs to interesting outdoor finds, you\u2019ll get helpful details and clear information instantly.\n\nWhat you can do\n\n\u2022 Identify bugs and insects using your camera\n\u2022 Recognize spiders, beetles, butterflies, ants, flies, and more\n\u2022 View useful information about each species\n\u2022 Save your discoveries for later\n\u2022 Simple design for quick and easy scanning\n\u2022 Suitable for g",
+    "icon": "/icons/com.bug.identifier.insect.photo.scanner.png"
+  },
+  "com.bugidentifier.insectidentifier.bugfinder.insectfinder.bugid.bugscanner.insectidentification.insectid": {
+    "title": "Bug Identifier - Insect Finder",
+    "package": "com.bugidentifier.insectidentifier.bugfinder.insectfinder.bugid.bugscanner.insectidentification.insectid",
+    "description": "Looking for a fast and accurate way to identify bugs, insects, and spiders? The Bug Identifier - Insect Finder app is here to help! Powered by advanced AI technology, this easy-to-use app allows you to identify bugs by picture in seconds. Whether you're a curious learner, an outdoor enthusiast, or just want to \"identify insects\" in your home, this app is your go-to solution.\nSimply snap a photo, and let the app do the rest! With a vast database of species, our bug identification tool provides instant results with detailed information about each insect, spider, or bug you encounter. It's perfect for anyone needing a bee identification app, or for those wanting to know more about the little creatures around them.\n\ud83d\udc1dKey Features: \ud83d\udc1d\n\ud83d\udc1b Instant Identification: Identify bugs, insects, spiders, and",
+    "icon": "/icons/com.bugidentifier.insectidentifier.bugfinder.insectfinder.bugid.bugscanner.insectidentification.insectid.png"
+  },
+  "com.builder.flutterpilot": {
+    "title": "AI App Builder - FlutterPilot",
+    "package": "com.builder.flutterpilot",
+    "description": "Build apps fast with AI. Create complete screens, layouts, and workflows in minutes using simple prompts. No coding needed. Everything works directly from your phone, so you can design, edit, and publish your ideas anytime.\n\nFlutterPilot makes app creation feel effortless. Start with templates or describe what you want, and AI instantly generates ready-to-use UI. Customize with an easy drag-and-drop editor, preview changes in real time, and export clean production-ready code whenever you need it.\n\nWhether you\u2019re a student, business owner, designer, or someone with an idea, FlutterPilot helps you bring it to life quickly.\n\nKey Features \u2022 AI app creation from simple prompts\n\u2022 Build apps on your phone or desktop\n\u2022 Drag-and-drop visual editor\n\u2022 Real-time preview of every screen\n\u2022 Ready-made te",
+    "icon": "/icons/com.builder.flutterpilot.png"
+  },
+  "com.busanmrt.metromap4": {
+    "title": "Busan Metro Map & Guide",
+    "package": "com.busanmrt.metromap4",
+    "description": "Busan Metro Map & Guide \u2013 Your Essential Travel Companion in the City\n\nDiscover the easiest and most efficient way to explore Busan with Busan Metro Map & Guide \u2013 the ultimate app designed for tourists and locals alike. Whether you're commuting daily or visiting the city for the first time, this app offers a complete solution for navigating Busan\u2019s public transportation system while providing valuable travel features.\nRequires an active internet connection to access full functionality.\n\n\ud83d\ude87 Key Features:\n\n\ud83d\uddfa\ufe0f Real-time Trip Planning with Citymapper\nPlan your journey from point A to B using Citymapper integration. Get accurate travel times and route suggestions across all modes of public transport in Busan, including metro, bus, and light rail.\n\n\ud83d\udccd Official Metro Map\nAccess a clean and detailed",
+    "icon": "/icons/com.busanmrt.metromap4.png"
+  },
+  "com.busbud.android": {
+    "title": "Busbud: Bus & Train Tickets",
+    "package": "com.busbud.android",
+    "description": "Hello, traveler. Going places? Discover seamless, smart train and bus travel with Busbud \u2013 your go-to bus & train app for booking tickets effortlessly!\n\nExperience a user-friendly interface that makes finding the best schedules and cheap tickets a breeze. Whether it\u2019s a quick hop to the next city or a carefully planned vacation, finding the best bus, train, or carpool routes has never been easier.\n\nWith over 2 million bus, train, ferry, and carpool routes across 89+ countries, we're sure to have the perfect option for your next journey.\n \nYour Trip, Your Way\n\ud83d\udccdAvoid long lines at the counter and book tickets on-the-go with our intuitive bus & train app\n\ud83d\udccdCompare and Find cheap bus tickets and train tickets from 2,200+ carriers\n\ud83d\udccdManage your entire trip right from your phone, from booking to b",
+    "icon": "/icons/com.busbud.android.jpg"
+  },
+  "com.business.plan.maker.template": {
+    "title": "AI Business Plan Generator",
+    "package": "com.business.plan.maker.template",
+    "description": "Hisviz \u2013 AI Business Plan Writer\nCreate a complete, investor-ready business plan in just 15 minutes using our professional business plan maker. Designed for entrepreneurs and small business owners, Hisviz helps you learn how to write a business plan quickly and efficiently, whether you need funding from a bank or want to attract new investors.\n\nWhy Choose Hisviz?\n- Fast & Professional: Our AI business plan generator delivers a polished business plan in record time\u2014perfect for busy founders.\n\n-Comprehensive Approach: Includes every critical section you need, eliminating guesswork and making Hisviz the go-to business plan maker app for serious entrepreneurs.\n\n-Easy to Use: Intuitive interface with clear instructions and real-time guidance, so you never feel overwhelmed.\n\nKey Features\n\nExecut",
+    "icon": "/icons/com.business.plan.maker.template.jpg"
+  },
+  "com.business_aisner_a.zodiac_compatibility": {
+    "title": "Zodiac Compatibility",
+    "package": "com.business_aisner_a.zodiac_compatibility",
+    "description": "Find out your compatibility with your partner.\nWhen calculating your compatibility, we use three types of horoscopes at once:\n- Zodiac horoscope\n- Chinese horoscope\n- Destiny Number\nIt helps to know compatibility on a deeper level.\nLearn more about each zodiac sign.\n\nBut remember - any relationship needs work!\nAll the best.",
+    "icon": "/icons/com.business_aisner_a.zodiac_compatibility.png"
+  },
+  "com.businessai": {
+    "title": "Business AI: Sales & Marketing",
+    "package": "com.businessai",
+    "description": "Business AI is your all-in-one toolkit of powerful, GPT-powered tools designed to supercharge your sales, marketing, and communication workflows. Create high-quality content, analyze files and images, and boost productivity \u2014 all in one sleek app.\n\n\n35+ AI TOOLS:\nUnleash the power of AI to generate, write, plan, analyze, and translate:\n\n\u2714 Communication & Writing\nWrite Emails, Letters, Notes, Replies, Cover Letters, Quotes, Reviews, Comparisons, Pros & Cons, Critiques, Praise, and more.\n\n\u2714 Marketing & Business\nCreate Presentations, Pitch Decks, Taglines, FAQs, Business Names, and Promotions. Extract Contact Info and Keywords instantly.\n\n\u2714 Productivity Tools\nCreate Plans, Lists, and Meeting Notes. Simplify, Summarize, Translate, Correct Grammar, Solve Math, Use Dictionary, Generate Code, and",
+    "icon": "/icons/com.businessai.png"
+  },
+  "com.businessclassgo.hotelbooking.app": {
+    "title": "Booking Hotel, Motel & Hostel",
+    "package": "com.businessclassgo.hotelbooking.app",
+    "description": "We deliver you the discounts and offers available worldwide for your stay. We are the official partner Booking.com affiliate. Our Hotel Booking app compares prices among world-leading travel apps. Booking Hotel, Motel & Hostel app helps you reserve hotel rooms at the best and cheap prices online on hotels booking, and it should always be the lowest price. The best prices for Hotels, Apartments, B&B, Hostels, Motels, Resorts, Villas, Guesthouses. So you can ensure the best and cheapest hotels reservation deals online. Also, find last-minute travel booking offers here.\n\nHow we differ from others:-\n- Our system compares various online travel apps so that you can save your money as well as time.\n- We support 30+ languages and 25+ currencies globally.\n- Genuine and individual customer reviews f",
+    "icon": "/icons/com.businessclassgo.hotelbooking.app.jpg"
+  },
+  "com.businessloancalculator.emicalculator.financetool": {
+    "title": "Loan Emi Calculator",
+    "package": "com.businessloancalculator.emicalculator.financetool",
+    "description": "A user-friendly Android application, EMI Calculator provides individuals with tools that assist with EMI calculations and management. We also provide Tip Calculator, Discount Calculator, Emi Calculator, Business Calculator, Banking Calculator, Retirement Planner Calculator, Emi Analysis Calculator, Sip Calculator, Bond Calculator, TVM Calculator, Value Added Tax Calculator, Return on Investment(ROI) Calculator.\n\nDisclaimer:\n- The calculations provided by this app are for information only and NOT to be considered as financial advice.\n- This Emi Calculator application is a financial calculation tool and not a loan provider or connected to any NBFC or finance services & app is working as a simple calculator app and does not give any lending services.",
+    "icon": "/icons/com.businessloancalculator.emicalculator.financetool.png"
+  },
+  "com.businessname.gen": {
+    "title": "AI Business Name Generator",
+    "package": "com.businessname.gen",
+    "description": "\ud83d\ude80 Business Name Generator: Your AI-Powered Naming Companion\n\nStruggling to find the perfect name for your business? Look no further! Business Name Generator harnesses the power of AI to create unique, creative, and memorable business names in seconds.\n\n\u2728 Key Features:\n\u2022 AI-Driven Naming: Powered by advanced generative AI technology\n\u2022 Instant Results: Generate multiple business name ideas with a single tap\n\u2022 Industry-Specific: Tailored names for various business sectors\n\u2022 Sleek, Modern Design: Intuitive and beautiful user interface\n\n\ud83d\udd0d How It Works:\n1. Select your industry\n2. Click generate\n3. Discover innovative business names with brief descriptions\n\nPerfect for:\n\u2022 Entrepreneurs\n\u2022 Startups\n\u2022 Small Business Owners\n\u2022 Side Hustle Creators\n\u2022 Freelancers\n\u2022 Creative Professionals\n\n\ud83d\udca1 Why Choose B",
+    "icon": "/icons/com.businessname.gen.png"
+  },
+  "com.buzzmoy.babygrowthtracker": {
+    "title": "Baby Growth Tracker",
+    "package": "com.buzzmoy.babygrowthtracker",
+    "description": "Welcome, parents!\n\nCelebrate every milestone and ensure your little one is thriving with the Baby Growth Tracker app. We provide a simple, powerful, and reassuring way to monitor your baby's development from day one.\n\nOur app turns complex growth data into clear, easy-to-understand charts and insights, giving you the peace of mind you deserve. Say goodbye to paper charts and guesswork, and hello to confident parenting.\n\n\ud83c\udf1f KEY FEATURES \ud83c\udf1f\n\n\ud83d\udcc8 Track Essential Metrics: Log your baby's weight, length/height, and head circumference with just a few taps. Our intuitive interface makes data entry quick and effortless.\n\n\ud83d\udcca Visualize Growth Charts: See your baby's progress on beautiful, interactive charts based on official World Health Organization (WHO) and CDC standards. Instantly see which percentil",
+    "icon": "/icons/com.buzzmoy.babygrowthtracker.png"
+  },
+  "com.buzzmoy.debtpayoffcalculator": {
+    "title": "Debt Payoff Calculator",
+    "package": "com.buzzmoy.debtpayoffcalculator",
+    "description": "Take control of your financial future with Debt Payoff Calculator \u2014 the ultimate app to track, manage, and eliminate your debt smarter and faster. Whether you're paying off credit cards, car loans, student loans, or personal debt, this app helps you build a custom payoff plan that actually works.\n\n\ud83d\udcb8 Key Features:\n\nAdd Multiple Debts: Easily enter and manage credit card debt, auto loans, student loans, or any custom debt.\n\nChoose Your Strategy: Pick from Snowball, Avalanche, or Custom Order payoff methods.\n\nTrack Your Progress: Visual progress bars and stats for total paid, current debt, and interest paid.\n\nDebt Prioritization: Assign priority levels and payoff order based on your goals.\n\nExtra Payment Planner: Add extra monthly payments and see how much faster you\u2019ll be debt-free.\n\nDetaile",
+    "icon": "/icons/com.buzzmoy.debtpayoffcalculator.png"
+  },
+  "com.buzzmoy.networthtracker": {
+    "title": "Net Worth Tracker",
+    "package": "com.buzzmoy.networthtracker",
+    "description": "Want to finally get a clear picture of your finances?\n\nMeet Net Worth Tracker \u2014 the simple, elegant way to track what you own, what you owe, and how your wealth is growing over time.\n\nWhether you're saving for your first home, trying to pay off debt, or just want to feel more confident about your money, this app is made for you.\n\n\ud83d\udcb0 Know Your Net Worth, Instantly\nQuickly add all your assets (like savings, investments, real estate) and liabilities (like loans, credit cards). The app calculates your net worth in real-time, so you always know where you stand financially.\n\n\ud83d\udcca See the Bigger Picture\nVisualize your progress with beautiful charts and graphs.\n\u2022 Track how your net worth changes over time\n\u2022 See where your money is going\n\u2022 Understand your financial trends at a glance\n\n\ud83d\udd04 Your Data, Alwa",
+    "icon": "/icons/com.buzzmoy.networthtracker.png"
+  },
+  "com.bypass_ai_content_and_ai_content_detector": {
+    "title": "Bypass AI & AI Text Detector",
+    "package": "com.bypass_ai_content_and_ai_content_detector",
+    "description": "Looking to make your AI-generated text sound more human? Look no further than Bypass AI, the tool for transforming robotic text into content that feels like it was written by a real person. Our advanced algorithms ensure high-quality, original content while preserving the integrity of your work.\n\nOur AI humanize tool is not only sophisticated but also user-friendly. With Bypass AI, anyone can easily humanize AI text without any hassle.\n\nCheck out the key features:\n\n- Outsmart Advanced AI Detectors:\nOur AI text humanizer is designed to fool even the most advanced AI detectors, ensuring that your content remains undetected and credible.\n\n- Generate SEO-Rich Content:\nCreate content that not only connects with readers but also ranks well in search engines. Bypass AI optimizes your text for max",
+    "icon": "/icons/com.bypass_ai_content_and_ai_content_detector.png"
+  },
+  "com.byte9962.makeupgpt": {
+    "title": "MakeupGPT - AI Makeup Artist",
+    "package": "com.byte9962.makeupgpt",
+    "description": "\ud83d\udc84 Try On Any Makeup Look Before You Wear It \u2014 Powered by AI\n\nStop guessing how makeup will look on you. MakeupGPT is your \npersonal AI makeup artist \u2014 apply hundreds of realistic beauty \nlooks to your selfie in seconds, with zero effort and zero waste.\n\nWhether you're prepping for a night out, a wedding, or just \nexploring your style, MakeupGPT lets you experiment fearlessly \nbefore you ever touch a brush.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\u2728 WHY WOMEN LOVE MAKEUPGPT\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\ud83e\ude9e See It On YOUR Face \u2014 Not a Model's\nEvery look is applied to your actual selfie using advanced AI. \nWhat you see is what you'd actually look like. Real. Personal. \nAccurate.\n\n\ud83c\udfa8 Build Your Perfect Look, Your Way\nChoose your vibe (glam, natural, bold), occasion (date night, \nwork, festival), and st",
+    "icon": "/icons/com.byte9962.makeupgpt.png"
+  },
+  "com.bytestorm.artflow": {
+    "title": "ArtFlow: Paint Draw Sketchbook",
+    "package": "com.bytestorm.artflow",
+    "description": "Convert your device into a digital sketchbook with more than 80 paint brushes, smudge, fill and an eraser tool. This fast and intuitive painting and drawing application will unlock the full power of your imagination. With support for pressure sensitive pens (like Samsung's S Pen) your device will be transformed into a real canvas.\n\nImportant: this is a free application with advanced features requiring a pro license in-app purchase. Single licence purchase will activate all devices associated with your Google account.\n\nFeatures (some functions require pro license):\n\u2022\u00a0High performance (GPU accelerated) paint engine\n\u2022\u00a0Canvases up to 6144x6144 with 50 layers*\n\u2022\u00a0Stylus pressure support\n\u2022\u00a0Pressure simulation for touches\u2020\n\u2022\u00a0100+ brushes and tools (including smudge tool and gradient fill)\n\u2022\u00a0Create",
+    "icon": "/icons/com.bytestorm.artflow.png"
+  },
+  "com.goodreads": {
+    "title": "Goodreads: Book Tracker & More",
+    "package": "com.goodreads",
+    "description": "Find and share books you love on Goodreads, the world's largest site for readers and book recommendations. More than 75 million members have added more than 2.2 billion books to their shelves. \n\nGoodreads is a free service. \n\nFIND BOOKS\n\u2022 Scan book covers to instantly read reviews and save it on your Want to Read shelf. \n\u2022 Get personalized recommendations based on your tastes. \n\u2022 Browse featured books and genres to discover more books you'll love. \n\u2022 See what your friends are reading. \n\nTRACK & SHARE BOOKS\n\u2022 Search, rate, and review any book in our catalog.\n\u2022 Keep track of books you want to read and have read.\n\u2022 Add status updates for books you're currently reading.\n\u2022 Join the Reading Challenge to help you read more.\n\u2022 Discuss books through messages, reviews, and groups.\n\u2022 Recommend books ",
+    "icon": "/icons/com.goodreads.webp"
+  },
+  "com.bzezz.magnifier": {
+    "title": "Magnifying Glasses - Magnifier",
+    "package": "com.bzezz.magnifier",
+    "description": "Be aware.This is not optical zoom. It\u2019s a programmed zoom, meaning the image is enlarged through software rather than by physically adjusting the lens.\n\nMagnifying Glasses app with Night Amplifier \u2013 a cutting-edge tool designed to enhance your visual experience like never before! Whether you're reading small text, navigating low-light environments, or trying to capture fine details, this app has you covered.\n\nKey Features:\n30x Digital Zoom: Magnify objects up to 30 times their original size with incredible clarity.\nIntegrated Flashlight: Never struggle to read in dimly lit spaces again \u2013 the built-in flashlight provides just the right amount of light for perfect visibility.\nNight Amplifier: See clearer even in  darkness with our night camera enhancement, making it ideal for nighttime readi",
+    "icon": "/icons/com.bzezz.magnifier.png"
+  },
+  "com.c4mprod.voiturelib": {
+    "title": "Getaround - car rental",
+    "package": "com.c4mprod.voiturelib",
+    "description": "Rent a car in minutes - no paperwork, no agency.\n\n1 - RENT A CAR NEAR YOU\nRent by the hour, the day, or up to a month - all directly from the app.\nBook your car, unlock it with your smartphone, or meet the owner to collect the keys.\n\nCarsharing has never been easier, faster, or safer.\nEnjoy prices up to 30% cheaper than traditional rental agencies, with AXA comprehensive insurance included for complete peace of mind.\n\n2 - A CAR NEAR YOU FOR EVERY OCCASION\nChoose from thousands of cars available in hundreds of cities - at train stations and airports across France, Norway, Spain, Belgium, Germany, and Austria.\n\nWith Getaround, Europe\u2019s leading carsharing platform, find the perfect car for every journey: a city car or family car for everyday trips,an SUV for a weekend in nature, a van for you",
+    "icon": "/icons/com.c4mprod.voiturelib.png"
+  },
+  "com.cactus.app": {
+    "title": "Hair: Style & Analysis",
+    "package": "com.cactus.app",
+    "description": "Hair: Style & Analysis\n\nTransform your look with Hair: Style & Analysis, the ultimate AI-powered hairstyle and color simulator. Instantly discover the perfect haircut, hair color, and style that complement your unique face shape and features all in seconds.\n\nWhether you\u2019re curious about how you\u2019d look with blonde highlights, a pixie cut, or long wavy hair, our advanced AI helps you visualize it all before stepping into the salon. Simply upload your photo, and the app intelligently detects your face structure, skin tone, and hair type to generate ultra-realistic hair transformations that match your personality and vibe.\n\nKey Features:\n\nAI Hair Try-On: Experiment with short, medium, and long hairstyles in real time.\n\nHair Color Changer: Test trending shades from natural browns and blondes to",
+    "icon": "/icons/com.cactus.app.png"
+  },
+  "com.calculator.ai.mathscan.mathsolver": {
+    "title": "Math Scanner: AI Math Solver",
+    "package": "com.calculator.ai.mathscan.mathsolver",
+    "description": "\ud83d\udcf8 Math Scanner: AI Math Solver is a smart and simple solution for math solver, calculus and unit converter, from quick calculations to complex equations. Whether you're a student, parent, or someone brushing up on math, this app helps you scan, solve, and understand math homework with ease.\n\nSay goodbye to number troubles! Simply snap a photo of the math problem, and the app will handle the rest, providing step-by-step solutions and a powerful built-in calculator.\n\n\ud83d\udd0d What You Can Do with Math Scanner: AI Math Solver:\n\n\ud83d\udcf7 Math Scanner\nScan any math problem: calculus, fractions, trigonometry, algebra, geometry, and more, and get answers in seconds. You don't even need to type anything.\n\n\ud83e\udde0 Photo Math Solver\nSnap a picture of any math problem, handwritten or printed, and get instant answers. Po",
+    "icon": "/icons/com.calculator.ai.mathscan.mathsolver.png"
+  },
+  "com.calculator.scientific_calculator": {
+    "title": "Scientific Calculator",
+    "package": "com.calculator.scientific_calculator",
+    "description": "Scientific Calculator app contains all features to do different type of calculations. Scientific Calculator also have unit converter to convert different units.",
+    "icon": "/icons/com.calculator.scientific_calculator.png"
+  },
+  "com.calendai.calendai": {
+    "title": "Kalendra AI Calendar Assistant",
+    "package": "com.calendai.calendai",
+    "description": "Schedule Without Opening Your Calendar.\nKalendra is an AI-powered calendar assistant that understands what you need - and acts on it. No tab-switching, no back-and-forth, no translating simple thoughts into multi-step workflows. Just tell Kalendra what you need, and it handles the rest.\nWhether you're managing a google calendar, outlook calendar, or Apple Calendar - Kalendra unifies them all into one intelligent layer, so you never have to juggle apps again.\nUnify All Your Calendars\n\nConnect your google calendar, outlook calendar, and Apple Calendar in one place\nOne intelligent view across your work, personal, and family calendar\nActs as your daily planner, agenda planner, and business calendar \u2014 all in one\nNo more switching between apps or missing events across accounts\n\nAI That Understan",
+    "icon": "/icons/com.calendai.calendai.png"
+  },
+  "com.callpod.android_apps.keeper": {
+    "title": "Keeper Password Manager",
+    "package": "com.callpod.android_apps.keeper",
+    "description": "Keeper Password Manager keeps your passwords and data secure on any device. The Keeper app maximizes your password security and strengthens your password protection, keeping your personal data secure. Utilize our secure password generator, store passkeys and 2fa codes, autofill your passwords anywhere and sync across all of your devices. Keeper is the proven cybersecurity leader that protects millions of people and thousands of companies globally.\n\nKeeper Password Manager lets you create strong, random passwords and passphrases with its built-in password generator, secure them in an encrypted digital vault you can open on any device, and instantly autofill or securely share credentials across all your sites and apps. Save and sync passkeys and 2FA codes right inside Keeper for one-tap logi",
+    "icon": "/icons/com.callpod.android_apps.keeper.jpg"
+  },
+  "com.camelcaravan.gardendesign": {
+    "title": "Landscape Design:  AI Garden",
+    "package": "com.camelcaravan.gardendesign",
+    "description": "Snap a photo, get instant garden ideas in 10 seconds. \n\nTransform your yard with landscape ai!\n\nThe perfect home outside starts with the Garden AI app.\n\nImagine transforming your backyard or garden in just 10 seconds. Simply snap a photo with Landscape Design: AI Garden, and receive instant, personalized design ideas powered by advanced AI.\n\nWhether you're dreaming of a vibrant playground for the kids, a space for a friendly game of backyard baseball, or simply a lush, perfect grass lawn, our AI designer brings your vision to life instantly. Plan a serene Zen garden, design a beautiful pathway, or explore any style\u2014from a enchanting purple garden to modern minimalist.\n\nDrawing inspiration from global sources like a radio garden and the vast visual libraries of platforms like Pinterest, our",
+    "icon": "/icons/com.camelcaravan.gardendesign.png"
+  },
+  "com.camera.language.translator": {
+    "title": "All Language Translator, Voice",
+    "package": "com.camera.language.translator",
+    "description": "Break language barriers instantly with Language Translator - Translate All Languages, the powerful all-in-one translation app designed for fast, accurate, and real-time communication worldwide. Whether you need a voice translator, text translator, photo translator, conversation translator, or document translator, this smart AI-powered language translator app gives you everything in one place. Perfect for travel, study, business, work, and daily conversations.\n\n\ud83d\udd25 All-in-One Translator App\nThis complete language translator app includes:\n\u2714 Text Translator\n\u2714 Voice Translator\n\u2714 Photo Translator\n\u2714 Camera Translator\n\u2714 Image Translator\n\u2714 Conversation Mode\n\u2714 OCR Text Scanner\n\u2714 Document Translator\n\u2714 Instant Translate Feature\n\u2714 AI Language Detection\nTranslate words, sentences, and full paragraphs in ",
+    "icon": "/icons/com.camera.language.translator.png"
+  },
+  "com.candelalabs.devbytes": {
+    "title": "DevBytes-For Busy Developers",
+    "package": "com.candelalabs.devbytes",
+    "description": "Fun fact: Developers don\u2019t actually spend all day coding. Half their time is lost juggling 17 browser tabs, one endlessly active chat thread, and a mysterious temp123.py file they barely remember creating. Add Reddit, YouTube tutorials, Medium articles, GitHub repos, Slack threads, and a dozen other random tabs into the mix, and what you get is NOT productivity. It is digital gymnastics.\n\nMeet DevBytes, the app that can fix it all \n\nInstead of juggling 10 different apps just to stay updated, DevBytes brings everything you need in one clean, fast, and distraction-free space. No clutter. No ads. Just the essentials that make you a sharper, smarter developer. DevBytes can keep you plugged in without the overwhelm, in just 5-7 minutes a day.\n\nHere\u2019s what you will get with DevBytes:\n\nLightning-",
+    "icon": "/icons/com.candelalabs.devbytes.png"
+  },
+  "com.caomobile.bwpart": {
+    "title": "Black White Photo & Video",
+    "package": "com.caomobile.bwpart",
+    "description": "Do you want to make a partial of the photo to black and white? This app will help you do that easily! Besides, you can also apply many effects or colors to each part of the photo.\n\nThe brush's resizing feature, combined with image zooming, allows you to work precisely to create the most perfect photos.\n\nMain features:\n- Make part of the image black and white.\n- Convert part of the image to monochrome.\n- Highlight the main content of the image.\n- Create BW effects for the desired part of the image.\n- Create sepia effects for the desired part of the image.\n- Create nostalgic effects for the desired part of the image.\n- Create negative effects for the desired part of the photo.\n- Change the color for the desired part of the image.\n- Customize the size for the part of the image that you draw o",
+    "icon": "/icons/com.caomobile.bwpart.png"
+  },
+  "com.carValuer": {
+    "title": "Car Valuer",
+    "package": "com.carValuer",
+    "description": "Car Valuer is your go-to app for instant vehicle valuations, whether you're seeking the current market price for a modern car, classic car, electric vehicle, or motorbike. \n\nPowered by advanced AI and trusted by the Trade Classics community, our app delivers fast and accurate valuations at the tap of a button.\n\nWith Car Valuer, you can:\n\n- Quickly estimate the value of any car, motorcycle, or bike, from the latest models to cherished classics.\n- Get valuations for buying, selling, or insuring your vehicle.\n- Stay informed with the latest market trends through our weekly auction update email.\n- Access expert insights from Trade Classics for classic car auctions and other key market movements.\n\nWhether you're an enthusiast, a collector, a buyer, or a seller, Car Valuer is perfect for getting",
+    "icon": "/icons/com.carValuer.jpg"
+  },
+  "com.car_identifier_app": {
+    "title": "Car Identifier",
+    "package": "com.car_identifier_app",
+    "description": "Identify a car in seconds with our car identifier app. Just snap a photo and get a clear match with confidence scores, key specs, and an estimated vehicle value.\n\nPerfect for buyers, sellers, enthusiasts, and anyone who wants quick, reliable car details. \ud83d\ude97\n\n\n\nKey features\n\n\u2022 Instant AI-powered car identification from photos\n\n\u2022 Detailed specs & characteristics (make/model, body style, and more when available)\n\n\u2022 Professional valuation estimates to help you understand market value\n\n\u2022 Confidence scores for every match so you can judge accuracy at a glance\n\n\u2022 Full identification history to revisit past scans anytime\n\n\u2022 Customizable measurement units (choose what you\u2019re used to)\n\n\u2022 Fun quizzes to test your car knowledge and learn as you go\n\n\n\nHow it works\n\n1) Take or upload a photo of a vehicle",
+    "icon": "/icons/com.car_identifier_app.png"
+  },
+  "com.carai.me": {
+    "title": "Car AI",
+    "package": "com.carai.me",
+    "description": "HOW TO USE CAR AI:\n   1. Connect your adapter to your car\n   2. Ask your car any question in plain English\n   3. Get instant, easy-to-understand answers\n\nWant to save money, avoid unnecessary repairs, and drive smarter? Car AI makes it simple.\n\nWe aren\u2019t another complicated car app. Our goal is to empower every driver to feel confident about their vehicle with minimal effort. You ask, we explain\u2014clear, fast, and friendly.\n\nIf you have any ideas or questions, please email us at support@carai.me.\n\nNOTE: Car AI does not replace professional maintenance or mechanic advice. All insights should be viewed as suggestions. Please consult a certified mechanic before making major repair decisions.\n\nSome features, such as proactive health alerts and personalized driving insights, require a subscriptio",
+    "icon": "/icons/com.carai.me.png"
+  },
+  "com.cardidentifier": {
+    "title": "Cardly: TCG Card Value Scanner",
+    "package": "com.cardidentifier",
+    "description": "Scan, Identify & Value Your Cards Instantly\n\nCard collecting is exciting \u2014 but it can also be frustrating. You pull a rare card, but you\u2019re not sure of its real value or grading score. Your binder is overflowing, and you can\u2019t remember what you already own. Or you\u2019re browsing online and worried you might overpay.\n\nCardly solves all of this. With powerful card recognition, sports card grading insights, and live price tracking, Cardly makes collecting simple, smart, and enjoyable again.\n\nInstant Card Recognition\n\nTake a photo and Cardly identifies your card in seconds.\nIt detects key details like name, set, rarity, and card number across top TCGs and sports cards. Whether it\u2019s a Pok\u00e9mon holo or a graded basketball card, Cardly delivers fast, accurate scans every time.\n\nReal-Time Market & Gra",
+    "icon": "/icons/com.cardidentifier.png"
+  },
+  "com.cardvaluepro.pokemon.scanner": {
+    "title": "Card Value Scanner for Pokemon",
+    "package": "com.cardvaluepro.pokemon.scanner",
+    "description": "Discover the True Value of Your Pokemon Cards \u2014 Scan, Track & Grow Your Collection!\n\nPokemon TCG Card Value Scanner is the ultimate card scanner and collection tracker for Pokemon TCG fans.\nInstantly capture any Pokemon card with your phone\u2019s camera and see real-time market data from TCGplayer marketplace.\nWhether you\u2019re a casual collector, a hardcore trading card collector, or just love Pokmeon games, this app helps you:\n\n\ud83c\udf1f Key Features & Benefits\n\n\ud83d\udc49 Instant Card Scanner: Snap any Pokemon card \u2014 common, rare, EX, GX, V, VSTAR \u2014 and get immediate value.\n\n\ud83d\udc49 Massive Card Database: Access info on over 30,000+ Pokemon cards, so you\u2019ll rarely find an unrecognized card.\n\n\ud83d\udc49 Real-Time Price Checks: Pull live quotes from TCGplayer, and top trading card game markets.\n\n\ud83d\udc49 PokeData & Pokedex: Build you",
+    "icon": "/icons/com.cardvaluepro.pokemon.scanner.png"
+  },
+  "com.caredtbg.carphotobackgroundedit": {
+    "title": "Car Photo Background Edit",
+    "package": "com.caredtbg.carphotobackgroundedit",
+    "description": "Are you a luxury car lover? Want to click photos with the royal cars? Want to upload a car photo background on social media networks?\nIf it's your YES, then this Car Photo Background Edit application is the answer to your all questions.\n\nThe Car Photo Background Edit app will make the dreams come true of crazy car lovers. This Car photo background editor is a photo editing tool. \n\nThis app can also be called a Car photo editor, where you get a huge royal and luxury cars background. You also get multiple editing options to make your car photo background look realistic.\n\nHow To Add Car Photo Background To Favorite Photos?\n\nTake the photo from the camera option or pick it from the phone's gallery. You can flip and rotate the photo. Ease to crop photos by manual crop and auto-crop.\n\nCar Photo ",
+    "icon": "/icons/com.caredtbg.carphotobackgroundedit.jpg"
+  },
+  "com.carpartid.app": {
+    "title": "Car Part Identifier",
+    "package": "com.carpartid.app",
+    "description": "Identify Any Car Part Instantly with AI Technology\n\nSimplify your automotive projects and repairs with the Car Part Identifier app! Powered by advanced AI, our app lets you identify car parts from a single photo in seconds with AI. Whether you're a DIY enthusiast or a professional mechanic, this tool is your go-to solution for quick and accurate car part identification with images and pictures.\n\nHow It Works\nSnap or Upload a Photo: Take a clear photo of the car part or upload an image from your device.\n\nGet Instant Results: Receive the car part name, description, use, and AI confidence level.\n\nShop: Purchase the part online.\n\nWhy Choose Car Part Identifier?\nAI-Powered Precision: Identify car parts with unmatched accuracy using cutting-edge AI and machine learning.\n\nComprehensive Database: ",
+    "icon": "/icons/com.carpartid.app.png"
+  },
+  "com.carrepairestimator.app": {
+    "title": "Estimate Car Repair Costs AI",
+    "package": "com.carrepairestimator.app",
+    "description": "Estimate Car Repair Costs AI \u2013 Vehicle Damage Photo Scanner\n\nEstimate Car Repair Costs AI helps you quickly understand what your car repair might cost and how long it could take\u2014using photos and AI. Take pictures of the damage, add a short description, select your car (or use AI car identification), and get an AI-based repair estimate by damaged part with cost, time, and next steps.\n\nWhether it\u2019s a scratch, dent, bumper damage, fender damage, door damage, paint damage, or other body damage, Estimate Car Repair Costs AI provides a fast car damage estimation so you can make better decisions before contacting a body shop, mechanic, or insurance.\n\nKEY FEATURES\n\nAI Car Damage Estimation from Photos\n\u2022 Upload car damage photos (scratches, dents, bumper damage, paint damage, windshield damage, bod",
+    "icon": "/icons/com.carrepairestimator.app.png"
+  },
+  "com.carwhile.rentalcars": {
+    "title": "Rent a Car\u30fbCheap Rental Cars",
+    "package": "com.carwhile.rentalcars",
+    "description": "The Rent a car - Cheap Car Rental App provides an easy & fastest way to book rental cars. Search & compare rent cars deals from top car rentals providers like Zipcar, Hertz rent a car, Enterprise car rental, Localiza, Turo car rental, Fox rent a car, Discover cars, Right cars global rentals, Dollar car rental, Global rent a car, Avis car rental, Getaround, Sixt rent a car, Budget car rental, Hyrecar, Europcar, Alamo rent a car, National car rental, Thrifty, Silvercar, etc. \n\nOur Cheap rental cars app will allow you to compare & payless car rental easily. We compare more than 1,500 car hire companies in more than 50,000 locations globally and find cheap car rentals near me. Also, get last minute car rentals deals with us. We provide all kinds of cars categories like mini, economy, standard,",
+    "icon": "/icons/com.carwhile.rentalcars.jpg"
+  },
+  "com.garmin.connectiq": {
+    "title": "Connect IQ\u2122 Store",
+    "package": "com.garmin.connectiq",
+    "description": "Your device with your apps \u2014 all in one place. The Connect IQ Store is where you can download free apps, such as Uber and SmartThings, for more functionality. Put music streaming services right on your watch for music on the go. Personalize your devices with widgets, data fields and even custom watch faces. Then, manage all your downloads in the store.",
+    "icon": "/icons/com.garmin.connectiq.webp"
+  },
+  "com.casualplayground.DestroySimulatorTeardownTheHouse": {
+    "title": "WIFI Password Show-WIFI Master",
+    "package": "com.casualplayground.DestroySimulatorTeardownTheHouse",
+    "description": "Connect WiFi Instantly and Find nearby available WiFi networks quickly and connect with just one tap. It\u2019s fast, easy, and secure WIFI Password Show-WIFI Master key app which allows to view WIFI passwords, connect easily with WIFI networks without entering passwords, just simple scan WIFI QR code and connect with WIFI networks without any cost.\n\n Connect WiFi Instantly: Show WiFi Password : WiFi Analyzer is your all-in-one WiFi toolkit that lets you analyze, share, monitor, and improve your wireless network in seconds! Whether you're at home, work, or traveling, this app helps you find WiFi, view saved passwords, check internet speed, and more \u2014 all in one easy place.\n\nWiFi Password Master \u2013 Show All WiFi Passwords helps you find nearby WiFi connections and see all their passwords. You can",
+    "icon": "/icons/com.casualplayground.DestroySimulatorTeardownTheHouse.jpg"
+  },
+  "com.cat.logomaker": {
+    "title": "Logo Maker Design-Logo Creator",
+    "package": "com.cat.logomaker",
+    "description": "Logo Maker is a simple design app that helps you create logos in minutes. Designed for beginners, no prior design experience required. This application helps you make logos, business cards, invitation cards, flyers, and thumbnails as well. The modern logo creator gives you all essential tools to design quickly.\n\nThis graphic maker app lets you create thumbnails, flyers, invitations, and business cards.\n\nMany fonts, icons, backgrounds, and ready-made business logo templates are available for selection. It will be ready quickly, if you choose a design or change the text and colors. This application is a beginner-friendly design app. Who wants to use a simple and useful custom logo design app to create a personalized design.\n\nWhat does the logo maker app provide?\nThe Logo creator app comes wi",
+    "icon": "/icons/com.cat.logomaker.png"
+  },
+  "com.catbreed.identifier.scanner.petid.recognition.detector": {
+    "title": "Cat AI: Breed & Care Guide",
+    "package": "com.catbreed.identifier.scanner.petid.recognition.detector",
+    "description": "Discover your cat\u2019s breed with ease using advanced photo recognition. Simply take or upload a picture, and the app quickly provides detailed insights about your cat\u2019s breed type. Whether your pet is purebred, mixed, or unique in appearance, the tool helps you learn more about their background.\n\nKey Features:\n\nQuick and accurate breed recognition from photos\n\nSupports all cat types, including mixed breeds\n\nSimple and user-friendly design\n\nLearn more about your pet\u2019s characteristics\n\nPerfect for pet lovers, adopters, and anyone curious about their cat\u2019s heritage.",
+    "icon": "/icons/com.catbreed.identifier.scanner.petid.recognition.detector.png"
+  },
+  "com.catium": {
+    "title": "Cat Breed Identifier - Catium",
+    "package": "com.catium",
+    "description": "Identify Any Cat Breed Instantly \u2014 With Just One Photo!\n\nExplore the fascinating world of cats with Catium \u2013 Cat Breed Identifier & Scanner. Whether you're a curious pet owner, a cat enthusiast, or simply spotted a unique feline and want to know its breed \u2014 Catium uses advanced AI to help you identify cat breeds instantly and accurately.\n\nJust snap or upload a photo, and get detailed results in seconds \u2014 including breed names, photos, personality traits, and more.\n\n\ud83d\udc3e Key Features:\n\ud83d\udcf7 Instant Cat Breed Detection \u2014 Take or upload a photo to identify a cat\u2019s breed in seconds.\n\ud83e\udd16 AI-Powered Cat Scanner \u2014 Receive multiple suggestions with confidence levels.\n\ud83d\udcda Breed Profiles \u2014 Learn key details, visuals, fun facts, and typical characteristics.\n\ud83d\uddbc\ufe0f Identification History \u2014 Automatically save past sc",
+    "icon": "/icons/com.catium.png"
+  },
+  "com.cc.invitation.maker.birthday.card.greeting": {
+    "title": "Invitation Maker: Card Creator",
+    "package": "com.cc.invitation.maker.birthday.card.greeting",
+    "description": "Do you want to get rid of the hassle of printing and mailing event invitation to guests?\n\nThe Party invitation maker helps you to design a party invitation card, 1st or 2nd birthday invitation card or any occasion invitation card that you can save and share with your guests in just a few taps. Whether you are hosting a birthday or a wedding anniversary party, this e invite card maker helps you to create stunning invitation cards with a lot of editing features.\n\nThis invitation maker provides you with different types of templates. You can select the best one according to the type of event, and edit it by using different editing tools such as fonts, backgrounds, stickers, effects, etc. Design attractive Birthday Party or wedding invitation cards to invite your friends and family to your next",
+    "icon": "/icons/com.cc.invitation.maker.birthday.card.greeting.png"
+  },
+  "com.cdev.ai_caption": {
+    "title": "AI Caption - Image Caption",
+    "package": "com.cdev.ai_caption",
+    "description": "AI Caption - Image Caption: AI-Powered Captions for Your Photos\n\nWant the perfect caption for your photos? Stop overthinking! AI Caption - Image Caption instantly generates creative, engaging, and personalized captions for your pictures, making your social media posts stand out effortlessly.\n\n\u2728 Why Choose AI Caption?\n\n\ud83d\udcf8 Instant AI Captions \u2013 Get smart, witty, and engaging captions in seconds.\n\n\ud83c\udfad Multiple Tones & Styles \u2013 Whether you want funny, romantic, inspirational, or trendy captions, we\u2019ve got you covered.\n\n\ud83c\udf0d Multilingual Support \u2013 Create captions in multiple languages and connect with a global audience.\n\n\ud83d\udcd6 Genre-Based Captions \u2013 Select captions tailored for travel, fashion, food, fitness, memes, and more!\n\n\ud83c\udfa8 Caption on Image Editor \u2013 Customize fonts, colors, and templates to add text",
+    "icon": "/icons/com.cdev.ai_caption.png"
+  },
+  "com.celestialinsights.palmreading": {
+    "title": "Palm Reader - Fortune Telling",
+    "package": "com.celestialinsights.palmreading",
+    "description": "Discover Your Path with Palm Reader\nEmbark on a journey of self-discovery and future revelations with \"Palm Reader\", brought to you by Celestial Insight. Our app combines the ancient practices of astrology and palmistry to offer you personalized fortune-telling experiences.\n\nWhy Choose Palm Reader?\n\nPersonalized Astrological Forecasts: Enter your birthdate and unlock a world of personalized astrological insights. Understand your strengths, challenges, and the unique opportunities life has in store for you.\nInnovative Palm Reading: Our state-of-the-art palm scanning technology analyzes the lines on your palm, offering you a glimpse into your life, love, and future successes.\nDaily Horoscope Updates: Stay informed with daily horoscopes. Discover what the stars and planets reveal about your d",
+    "icon": "/icons/com.celestialinsights.palmreading.png"
+  },
+  "com.cem256.PhysicsSolver": {
+    "title": "Physics Solver: PhyFella",
+    "package": "com.cem256.PhysicsSolver",
+    "description": "PhyFella\n\nSolve physics problems by simply uploading images from your camera or gallery. PhyFella provides step by step physics solutions through an interactive chat and helps students study with flashcards, quizzes, and cheat sheets.\n\nWhat You Can Do\n\nUpload a physics problem using your camera or photo gallery\nGet instant solutions with clear explanations\nAsk follow up questions in an interactive chat\nStudy smarter with flashcards, quizzes, and study sheets\n\nWhy Choose PhyFella\n\nInstant Understanding\nTurn photos into solved physics problems in seconds with easy to follow steps\n\nLearn by Chat\nAsk questions about any reaction, formula, or calculation and get clear answers instantly\n\nBuilt for Every Student\nNo setup or skills needed. Just upload and learn\n\nStudy Tools Included\n\nFlashcards fo",
+    "icon": "/icons/com.cem256.PhysicsSolver.png"
+  },
+  "com.cem256.SoundEffectGenerator": {
+    "title": "AI Sound Effects Generator App",
+    "package": "com.cem256.SoundEffectGenerator",
+    "description": "Bring your sound effect ideas to life with AI Sound Effects\n\nImagine turning your ideas into amazing sound effects with just a few words. With AI Sound Effects, you can make it happen! Whether you\u2019re creating content, developing a game, or exploring new audio possibilities, AI Sound Effects makes sound design creative and fun.\n\nCreate Unique Sound Effects\nDescribe the sound you want, set the duration, and let AI Sound Effects handle the rest. From futuristic sci-fi tones to natural soundscapes, the possibilities are endless.\n\nListen and Share Instantly\nOnce your sound is ready, you can play it back right away and share it with others. Perfect for creative projects, presentations, or just showing off your unique creations.\n\nBuild Your Own Sound Library\nKeep track of all your generated sound",
+    "icon": "/icons/com.cem256.SoundEffectGenerator.png"
+  },
+  "com.cenango.reacrm": {
+    "title": "Rea - Real Estate Agent AI",
+    "package": "com.cenango.reacrm",
+    "description": "REA AI is the ultimate voice assistant built for real estate agents\u2014ensuring no call, inquiry, or opportunity ever slips through.\nWhile you stay focused on closing deals, REA AI answers calls, shares property details, checks your availability, and even schedules viewings automatically.\n \nThe REA AI mobile app is your on-the-go command center, giving you full visibility and control over your AI assistant anytime, anywhere.\n \nKey Features\n \n\u2022 Real-Time Call Insights \u2013 Track every inquiry instantly with a complete call log.\n\u2022 Transcripts & Recordings \u2013 Review full conversations with detailed transcripts and high-quality audio.\n\u2022 Live Call Handling \u2013 Receive and answer redirected calls directly through the app.\n\u2022 Effortless Scheduling \u2013 View, manage, and stay updated on appointments booked by ",
+    "icon": "/icons/com.cenango.reacrm.png"
+  },
+  "com.cenim.black_white_photo_editor": {
+    "title": "Black and White Photo Editor",
+    "package": "com.cenim.black_white_photo_editor",
+    "description": "Black and White Photo Editor is a simple and effective tool that lets you apply a black and white filter to your photos with a single tap. No complex editing \u2014 just quick and clean results.\n\n\ud83d\uddbc\ufe0f How it works:\n1.Select an image from your device's gallery\n\n2.Tap \"To Black and White\" to apply the filter\n\n3.Your photo will be processed and saved to your device\n\n4.View all edited images in the \"Edited Images\" section\n\n\u26a0\ufe0f Note: Some image formats or corrupted files may not be supported. If an issue is detected, the app will notify you so you can try a different photo.",
+    "icon": "/icons/com.cenim.black_white_photo_editor.png"
+  },
+  "com.ceton.eemntcl": {
+    "title": "Retirement Calculator",
+    "package": "com.ceton.eemntcl",
+    "description": "Plan your retirement in minutes with Retirement Calculator. Enter your age, savings, monthly\ncontributions, and expected returns to see a projected balance at retirement. Compare that projection\nto a target based on your desired monthly income, view suggested monthly saving, and fine tune\nlifestyle assumptions with a slider to understand tradeoffs and keep long term goals on track.",
+    "icon": "/icons/com.ceton.eemntcl.png"
+  },
+  "com.cenim.worldgeographyquiz": {
+    "title": "World Geography Quiz",
+    "package": "com.cenim.worldgeographyquiz",
+    "description": "World Geography Quiz is designed to help students and professionals enhance their knowledge of world geography. Select the number of questions per test, answer at your own pace, and see your final score at the end.\n\nKey Features:\ni. Users select the number of questions they want to attempt per quiz.\nii. Score Display \u2013 Shows results at the end of each quiz.\niii. Offline Access \u2013 Study anytime without an internet connection.\niv. User-Friendly Interface \u2013 Simple and intuitive design for easy navigation.\n\nWho Can Use This App?\ni. Students preparing for geography exams.\nii. Travelers and geography enthusiasts wanting to test their knowledge.\niii. Professionals preparing for competitive exams with geography sections.\niv. Anyone looking to improve their understanding of world geography.",
+    "icon": "/icons/com.cenim.worldgeographyquiz.png"
+  },
+  "com.chagil.master_tungs": {
+    "title": "Master Tung's Acupuncture",
+    "package": "com.chagil.master_tungs",
+    "description": "Unlock the power of Master Tung's Acupuncture with the most comprehensive and user-friendly clinical app available. Whether you are a seasoned TCM practitioner, an acupuncture student, or a professional looking to integrate highly effective distal acupuncture into your clinic, this app provides everything you need to master Tung's Points.\n\nCurated with insights from over 30 years of clinical experience, this guide bridges traditional wisdom with modern technology, giving you instant access to proven treatment protocols.\n\nKey Features:\n\u2022 Extensive Point Library: Access 300+ Master Tung points with detailed information on locations, indications, and clinical applications.\n\u2022 Expert Video Guides: Learn precise Tung's point locations and needling techniques through high-quality, expert-led tuto",
+    "icon": "/icons/com.chagil.master_tungs.png"
+  },
+  "com.chancevisionai.app": {
+    "title": "Chance AI Reverse Image Search",
+    "package": "com.chancevisionai.app",
+    "description": "Chance AI is a powerful Reverse Image Search and AI Lens app that turns your camera into a reliable visual identifier. With a single photo, Chance AI helps you Identify Anything and understand what you see through clear, structured context.\n\nBuilt on advanced Reverse Image Search technology, Chance AI analyzes images and works as an intelligent identifier for objects, people, places, artwork, food, symbols, and more. The AI Lens allows users to Identify Anything quickly, making visual understanding simple, accurate, and accessible for everyday use.\n\nHOW CHANCE AI WORKS\n\n\u2022 Take a photo or upload an image \u2014 no prompt required\n\u2022 The AI Lens analyzes visual details using Reverse Image Search\n\u2022 The identifier delivers instant explanations, insights, and context\n\nChance AI also supports in-image",
+    "icon": "/icons/com.chancevisionai.app.png"
+  },
+  "com.changeclother.ai": {
+    "title": "Try Outfits AI: Change Clothes",
+    "package": "com.changeclother.ai",
+    "description": "Modeli Try Outfits: Change Clothes\nModeli Try Outfits is an app that helps you try on clothes, explore new styles and make wardrobe decisions easier. \nIt lets you visualize your perfect look by simply typing a text describing the clothing you want to try on.\nFirst, upload a photo of yourself. \nSecond, upload Outfit describing the clothing item you wish to try on.\nOur AI technology will then generate this item on your body, providing you with a realistic visualization of how it looks and fits directly on you. \nThis helps you make better decisions about your clothing purchases. Now you won\u2019t have to return items just because they suddenly don\u2019t suit you.\nSaw an interesting outfit on social media? Let Modeli Try Outfits visualize how similar clothing would fit you.\nAnd if you just need ideas ",
+    "icon": "/icons/com.changeclother.ai.jpg"
+  },
+  "com.channelwifi.speedtest.connect": {
+    "title": "WiFi Channel : Wifi Analyzer",
+    "package": "com.channelwifi.speedtest.connect",
+    "description": "WiFi Channel : WiFi Analyzer\n\nWiFi Channel is a utility application designed to display wireless network information and help users understand channel usage in their surroundings. The app shows details about nearby WiFi networks, including channel numbers, signal strength, and frequency bands.\n\nBy viewing channel information, users can better understand how wireless networks are distributed in a given area.\n\n\ud83d\udd27 Key Features\n\n\ud83d\udd39 WiFi Channel Information\nView channel numbers used by nearby WiFi networks.\n\n\ud83d\udd39 Signal Strength Monitoring\nCheck signal strength levels for detected networks.\n\n\ud83d\udd39 Nearby WiFi Scan\nScan available WiFi networks and display basic network details.\n\n\ud83d\udd39 Frequency Band Details\nView supported 2.4 GHz and 5 GHz network information.\n\n\ud83d\udd39 Simple Interface\nDesigned for clear and easy ",
+    "icon": "/icons/com.channelwifi.speedtest.connect.jpg"
+  },
+  "com.charisma.colormagicpro": {
+    "title": "AI Colorize Photo Restoration",
+    "package": "com.charisma.colormagicpro",
+    "description": "Welcome to AI Colorize Photo Restoration & Colorize Video, all-in-one solution for breathing new life into your old, faded blur photo & video. With our AI technology and intuitive interface, AI Colorize Photo Restoration & Colorize Video empowers you to transform black and white to color photo & video. The AI \u200b\u200b\u200b\u200bphoto enhancer feature of colorize photo restoration creates mesmerizing masterpieces by applying photo restore algorithm on damaged, faded, blur photo & video, reviving them to their former glory.\n\ud83c\udfa8Bringing Memories to Life with AI Colorize Photo & Video:\n\u2728Revive Your Past: Revisit your cherished memories by changing black and white to color photo & video with Colorize Photo Restoration AI colorization algorithm. Experience the thrill of watching your old videos as full colorized",
+    "icon": "/icons/com.charisma.colormagicpro.png"
+  },
+  "com.chart.ai.analysis.trading.bot": {
+    "title": "Chart AI - AI Trading Analysis",
+    "package": "com.chart.ai.analysis.trading.bot",
+    "description": "Smarter Chart Analysis with Chart AI \u2013 AI-Powered Visual Trading Insights\n\nChart AI is your intelligent assistant for scanning and understanding trading charts across multiple markets. Whether you trade stocks, forex, or crypto, our app helps you gain visual insights using advanced AI analysis and pattern recognition. Built for those who rely on charts to make better-informed decisions, Chart AI turns screenshots or photos into educational tools for smarter technical analysis.\n\n\ud83d\udd0d Key Features \u2013 Technical Chart Analysis Made Simple\n\n\ud83d\udcc8 AI Chart Scanner & Visual Pattern Recognition\nJust scan or upload any chart, and let the system detect technical patterns like trendlines, breakouts, and reversal signals. From crypto to equities, this chart scanner app identifies candlestick behavior using re",
+    "icon": "/icons/com.chart.ai.analysis.trading.bot.jpg"
+  },
+  "com.chartai.v2.chart_ai_v2": {
+    "title": "Profit AI - Trading Assistant",
+    "package": "com.chartai.v2.chart_ai_v2",
+    "description": "Make data-driven decisions with Profit AI Trading, the advanced tool that transforms raw market charts into clear technical analysis. Leveraging Artificial Intelligence, our platform helps you study market movements, detecting technical patterns that are often missed by the human eye.\n\n\ud83d\udca1 Why Traders Choose Profit AI\n\nProfit AI is your essential companion for analyzing Forex, Crypto, and Stocks. Simply upload your chart, and our Chart AI engine provides a comprehensive technical breakdown. Whether you are a beginner seeking education or an experienced trader saving time, our tools give you the insights you need to understand market structure better.\n\n\u26a1 Core Features: Decode, Analyze & Learn\n\nAI Trend Analysis: Get powerful, AI-based breakdowns of market direction (Bullish/Bearish trends) an",
+    "icon": "/icons/com.chartai.v2.chart_ai_v2.png"
+  },
+  "com.chartlens.aianalyzer": {
+    "title": "ChartLens: AI Analyzer",
+    "package": "com.chartlens.aianalyzer",
+    "description": "\ud83d\udcca ChartLens: AI Chart Analyzer\n\nThe fastest way to understand any chart. Snap a screenshot, upload an image \u2014 and let AI do the reading.\n\nChartLens analyzes chart screenshots and market chart images using multiple AI engines, giving you a clear, plain-language breakdown of what the chart is showing. From candlestick pattern recognition to technical indicator readings, ChartLens turns complex chart visuals into structured, easy-to-understand insights.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\ud83e\udd16 MULTI-AI ENGINE POWER\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nChartLens is backed by the world's leading AI models:\n\u2022 ChatGPT (OpenAI)\n\u2022 Google Gemini\n\u2022 Claude (Anthropic)\n\u2022 DeepSeek\n\u2022 Llama\n\u2022 Grok\n\nSwitch between engines anytime. Compare perspectives. Get a second AI opinion on the same chart \u2014 all in one app.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+    "icon": "/icons/com.chartlens.aianalyzer.png"
   }
 }
