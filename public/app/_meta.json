@@ -30638,7 +30638,8 @@
   "com.cosmo.missioncontrol": {
     "title": "COSMO: Mission Control",
     "package": "com.cosmo.missioncontrol",
-    "icon": "/icons/com.cosmo.missioncontrol.png"
+    "icon": "/icons/com.cosmo.missioncontrol.png",
+    "description": "Keep your kids safe and connected with the COSMO Mission Control parent app and JrTrack kids smart watch. With Mission Control, you have all the tools you need for safety, connection, and convenience right in the palm of your hand.\n\nJrTrack is the all-in-one wearable phone, watch, and GPS tracker that\u2019s safe for kids and trusted by parents. It pairs seamlessly with the Mission Control parent app where you can:\n- Add and manage approved contacts and guardians for safety & security\n- Check your child\u2019s location with reliable GPS tracking\n- Set custom geo-fence \u201cSafeZones\u201d to receive check-in alerts when your child enters or leaves a designated area\n- Set Focus Mode days and times to limit distractions\n- Track your child\u2019s steps and set activity goals\n- Receive emergency alerts when your chil"
   },
   "com.epoch.classup": {
     "title": "Cosmo (formerly ClassUp)",
@@ -59362,5 +59363,648 @@
     "package": "com.growly.lunaspeak",
     "description": "Unlock your potential with LunaSpeak, the intelligent AI language coach designed for real-world fluency. Whether you want to learn English or master Spanish, LunaSpeak offers a judgment-free space to practice speaking anytime, anywhere.\n\nInteractive AI Conversations Step beyond traditional methods. Chat with our AI characters to build confidence. Practice speaking in real-life scenarios, from casual coffee talks to professional meetings.\n\nReal-Time Feedback & Pronunciation Stop wondering if you're saying it right. LunaSpeak provides instant voice analysis, helping you refine your pronunciation and accent training. Speak clearly and sound more like a native.\n\nSmart Grammar & Vocabulary Builder Enhance your language skills with tailored lessons. Our AI tracks your progress, offering personal",
     "icon": "/icons/com.growly.lunaspeak.jpg"
+  },
+  "com.grupoprecedo.palmistry": {
+    "title": "Palmistry - Palm Reading",
+    "package": "com.grupoprecedo.palmistry",
+    "description": "\ud83c\udf1fYour most comprehensive Palmistry and Free Palm Reading app on your mobile!\ud83c\udf1f\n\nAre you looking for a personalized and accurate palm reading about the lines of your hands? Uncover all the secrets that your hands hide with a modern, intuitive, and straightforward approach to palmistry. Whether you are familiar with palmistry or new to this art, our app is the perfect tool to explore your destiny and decipher your personality and the hidden mysteries within your hands.\n\n\ud83c\udf1fHow does our Free Palm Reading and Palmistry app work?\ud83c\udf1f\n\nAll you have to do is create a profile and fill out a brief questionnaire. Here, you will describe the characteristics of your heart, head, and life lines, as well as other traits such as the shape and size of your hand. Receive an instant and detailed result for easy r",
+    "icon": "/icons/com.grupoprecedo.palmistry.png"
+  },
+  "com.thecertificatehub": {
+    "title": "The Certificate Hub(TCH)",
+    "package": "com.thecertificatehub",
+    "description": "Looking for a reliable app that connects you with job opportunities for gas safety certificates, electrical certificates, and EPC jobs? Look no further than TCH! Our innovative platform provides certified technicians with a one-stop-shop for managing their workflow therefore increasing productivity.\n\nWith TCH, you can easily accept job offers, manage your schedule, and submit completed certificates quickly and efficiently. Our user-friendly interface makes it simple to find new jobs, track your progress, and communicate with clients. Plus, our trusted community of skilled professionals ensures that you're always working with the best in the business.\n\nWhether you're looking to build your career as a technician or simply looking to streamline your workflow, TCH is the perfect tool for the j",
+    "icon": "/icons/com.thecertificatehub.png"
+  },
+  "com.rdupletlabs.certificateviewer": {
+    "title": "X509 Certificate Viewer Tool",
+    "package": "com.rdupletlabs.certificateviewer",
+    "description": "X509 Certificate Viewer Tool \u2013 a simple and handy app to view details of X.509 standard digital certificates.\n\nFeatures\n\u26a1 View existing certificates stored on your device\n\u26a1 Import new certificates and inspect their details\n\u26a1 Copy and share specific certificate information with ease\n\n\ud83d\udd12 Note: When importing .p12 or .pfx files, the system may ask for a password. If you didn\u2019t set one, try common defaults like password, 1234, or leave it blank.",
+    "icon": "/icons/com.rdupletlabs.certificateviewer.png"
+  },
+  "com.jupitervalley.sslchecker": {
+    "title": "SSL Certificate Test",
+    "package": "com.jupitervalley.sslchecker",
+    "description": "Stay one step ahead by subscribing to timely notifications regarding any potential certificate errors or upcoming expirations. Protect your business from disruptions caused by expired certificates, safeguarding your operations and reputation.\n\nDon't let expired SSL certificates put your organization at risk to cyber threats and potential business losses.",
+    "icon": "/icons/com.jupitervalley.sslchecker.png"
+  },
+  "com.ncode.vkyc": {
+    "title": "(n)Code Solutions CA",
+    "package": "com.ncode.vkyc",
+    "description": "\u201c(n)Code Solutions CA\u201d is one of INDIA\u2019s Oldest Licensed Certifying Authority.\n\nThis (n)Code App will help in Issuance of PAPERLESS DIGITAL SIGNATURE CERTIFICATES ( DSCs) to INDIVIDUALS and ORGANISATIONS persons.\n\nThe (n)Code App helps you create  eKYC Accounts , DSC Registrations, Manage RA operations, Video capture , Renewal of eKyc Accounts , Tracking of Application at various stages etc.",
+    "icon": "/icons/com.ncode.vkyc.png"
+  },
+  "com.edurev.cacpt": {
+    "title": "CA Foundation ICAI Preparation",
+    "package": "com.edurev.cacpt",
+    "description": "Disclaimer: This app is not affiliated with ICAI (The Institute of Chartered Accountants of India) or any government organization. It is an independent educational platform developed to assist students in their exam preparation. For official information, please visit the ICAI website: https://www.icai.org\n\nCA Foundation / CPT Prep Notes & Mock Tests\" App provides preparation free study material, NCERT Textbooks, Short Notes of all subjects, Question BANK, Quiz, previous year papers Online Tests, Topic Wise Quizzes, NCERT Textbook Quizzes, Online video lectures, Daily insights, Past year question papers & Important tips & tricks for Examination. Most helpful app for CA Foundation / CPT(Charted Accountant Common Proficiency Test) Exam, recommend by toppers\nICAI - The Institute of Chartered A",
+    "icon": "/icons/com.edurev.cacpt.png"
+  },
+  "com.ca.sec.aa.authenticator": {
+    "title": "CA Mobile Authenticator",
+    "package": "com.ca.sec.aa.authenticator",
+    "description": "CA Mobile Authenticator works with CA Advanced Authentication product as two-factor authentication service to make your transactions more secure. \n\nUsing CA Mobile Authenticator, you can register your device and link it to your account. You can activate the device using the QR code or manually specifying the details. This app allows you to authenticate transactions using PUSH Notification as secondary authentication. \n\nNow, you receive a new push notification with Approve or Deny options on the screen. Simply select Approve to approve or Deny to cancel the transaction. \n\n\nHow it works\n1.\tRegister your device for Push Notification\n2.\tReceive a Push Notification.\n3.\tAccept or deny the transaction.\n\nPermissions:\nCA Mobile Authenticator requests access to\n- Your camera to scan QR codes when ac",
+    "icon": "/icons/com.ca.sec.aa.authenticator.jpg"
+  },
+  "com.supervpn.vpn.free.proxy": {
+    "title": "VPN Proxy Speed - Super VPN",
+    "package": "com.supervpn.vpn.free.proxy",
+    "description": "Super VPN is Free VPN Proxy, and VPN Master\n\nWhat is VPN?\nVirtual private network. For purpose of security, data need transport in a encryption tunnel.\n\nWhich app is the best VPN in the world?\n\nUseful - browsing, protect privacy, security agent, WiFi hotspot, fast and stable.\nSimple to use - free, unlimited bandwidth, unlimited traffic, one-touch connection.\n\nAll our efforts are just hope in your heart, Super VPN is the best free VPN app.\n\u2022 Worldwide stable and fast VPN servers\n\u2022 Dedicated servers for movies, series and games\n\u2022 Hide your ip address and location\n\u2022 Stay secure connecting to Wi-Fi hotspotSS\n\u2022 High-level encryption protocols: IKEv2, OpenVPN, VMess, SS\n\u2022 Strict no-log policy\n\u2022 Simple to use, one tap connect to VPN\n\u2022 Unlimited free vpn service\n\u2022 Compatible with all browsers\n\nSup",
+    "icon": "/icons/com.supervpn.vpn.free.proxy.png"
+  },
+  "com.urbanvpn.premium.android": {
+    "title": "Urban VPN Premium",
+    "package": "com.urbanvpn.premium.android",
+    "description": "Urban VPN Premium \u2013 Trusted VPN, complete control at your fingertips.\n\nProtect your identity, secure your device, and hide your IP with Urban VPN Premium for Android. Browse without limits, connect to global VPN servers, unlock geo-restricted websites, and enjoy ultra-fast, reliable connections from almost anywhere in the world.\n\nWhy choose Urban VPN Premium?\n\n\ud83c\udf0d Global Coverage \u2013 600+ VPN servers in 419 locations across 89 countries. Access multiple locations worldwide easily within the app.\n\ud83c\udd95 Urban VPN LinkX Protocol - Introducing our in-house Urban VPN LinkX protocol, based on WireGuard\u00ae VPN technology, engineered for fast and stable VPN connections.\n\ud83d\udd04 Protocol Control - Switch protocols directly inside the app to match your network environment and choose how your VPN connects between:\nU",
+    "icon": "/icons/com.urbanvpn.premium.android.png"
+  },
+  "com.asus.aihome": {
+    "title": "ASUS Router",
+    "package": "com.asus.aihome",
+    "description": "The ASUS Router app unlocks the power to manage your network in just a few taps whenever you want, wherever you go. We are aiming to provide the best WiFi and Internet-surfing experiences you have ever had with these comprehensive features. \n\nKEY FEATURES:\n\n*Router Monitoring and Remote Management\n\n*AiMesh \n\u2026.\u2026.Add AiMesh node\n\u2026.\u2026.AiMesh Network Topology\n\u2026.\u2026.Network management and optimization\n\u2026.\u2026.AiMesh node monitoring and customized settings\n\u2026.\u2026.Full backhaul options\n\n*Parental Controls\n\u2026.\u2026.Time scheduling\n\u2026.\u2026.Content Block\n\n*Client Device Management\n\u2026.\u2026.Safe Browsing\n\u2026.\u2026.Bandwidth limiter\n\u2026.\u2026.Block Internet access\n\u2026.\u2026.Customizable device icon and nickname\n\n*Guest network\n\u2026.\u2026.Create guest network\n\u2026.\u2026.Share WiFi with QR code\n\n*More Features\n\u2026.\u2026.Account binding\n\u2026.\u2026.4G / 5G Auto Mobile Teth",
+    "icon": "/icons/com.asus.aihome.png"
+  },
+  "com.gryffindorapps.world.flags.country.quiz": {
+    "title": "Geography Quiz - World Flags 1",
+    "package": "com.gryffindorapps.world.flags.country.quiz",
+    "description": "How much do you know about country flags or capital cities? If you like quiz like this, this app is for you. This is a game that is fun and relax. With all country flags and capitals in the world, you can try to guess the name of all of them  with high image quality. Learn while having fun playing this quiz. \n\n\nOur application contains 5 continents covered:\n\n * America (North and South)\n * Africa\n * Asia\n * Australia and Oceania\n * Europe\n\t\nYou can choose if you want to play Country flags Quiz  or Capital cities Quiz  inside of every continent!\n\nOur app is made for entertainment and to increase knowledge about Country Flags and Capital Cities. Every time you pass the level, you will get hints. If you can't recognize a flag/ city, you can use hints to get clues even answer to the question. ",
+    "icon": "/icons/com.gryffindorapps.world.flags.country.quiz.png"
+  },
+  "com.grymala.arplan": {
+    "title": "AR Plan 3D Tape Measure, Ruler",
+    "package": "com.grymala.arplan",
+    "description": "AR Floorplan 3D \u2013 Innovative measurement app, augmented reality (AR, lidar scanner) for quick room measurement. AR camera sensor technology allows to lay virtual tape measure ruler on a real-world surfaces, making measurement process and 3D floor planner creation much easier and quicker. Use the device camera sensor - sketch home, draw blueprints, build design.\n\nWith AR Plan 3D ruler app you can:\n1) Tape measure perimeter and height of the room in Metric or Imperial units (cm, m, mm ruler app, inch ruler app, feet, yard).\n2) Tape measure doors, windows, house flooring.\n3) Use the lidar scanner, camera sensor to automatically calculate perimeter, floor square, walls square and other layout values, which might be useful for construction materials quantity estimations.\n4) 3D Floorplanner \u2013 cr",
+    "icon": "/icons/com.grymala.arplan.png"
+  },
+  "com.grymala.aruler": {
+    "title": "AR Ruler App: Tape Measure Cam",
+    "package": "com.grymala.aruler",
+    "description": "AR Ruler app uses augmented reality technology (AR) to tape measure room, home, house, homescapes with your phone camera. Target aim on the detected plane and start to use AR tape measurement tool. Try to room scan and floor plan your house with a new computer technology.\n\niPhone lidar scanner & iPad lidar version:\nhttps://itunes.apple.com/us/app/ar-ruler-app-tape-measure/id1326773975?mt=8\n\n1) AR Ruler app \u2013 allows to tape measure linear sizes in cm, m (meter), mm, inches, feet, yard.\n2) Distance meter \u2013 allows to tape measure distance from device camera to a fixed point on the detected 3D plane.\n3) Angle \u2013 allows to tape measuring corners on 3D planes.\n4) Area and Perimeter \u2013 allows to tape room measurement and area of the house.\n5) Volume scanner \u2013 allows to tape measure size of 3D objec",
+    "icon": "/icons/com.grymala.aruler.png"
+  },
+  "com.grymala.bubblelevel": {
+    "title": "Level Tool: Bubble & Laser App",
+    "package": "com.grymala.bubblelevel",
+    "description": "\ud83d\udccf Level Tool: Digital Precision Leveler & Angle Tool for Construction & Home Improvement \ud83d\udee0\ufe0f\n\nBubble Level & Laser Level: precision digital leveler and measuring tool for construction, home improvement, and DIY projects. Ideal for contractors, carpenters, builders, and renovators. Accurate tools: digital spirit level, laser level, angle lock, surface level checker. Perfect for framing, cabinetry, tile work, and more. Must-have tool for angle and level measurement. Essential power tool companion for alignment and calibration.\n\n\u2728 Advanced Accuracy Tools for Construction & Home Projects:\n\n\ud83d\udfe2 High-Accuracy Digital Spirit Level: Precise horizontal/vertical level measurement with a professional-grade digital level. Crucial tool for construction, better than traditional bubble levels. A must-have p",
+    "icon": "/icons/com.grymala.bubblelevel.png"
+  },
+  "com.grymala.photoruler": {
+    "title": "Tape Measure: Measuring Ruler",
+    "package": "com.grymala.photoruler",
+    "description": "ARCore Ruler app -  Powerful tape measure tool, which takes advantages of the use of Augmented Reality.\nPlease note that AR Ruler app works only on ARCore-supported devices. Check device compatibility: https://developers.google.com/ar/discover/\n\nAR Ruler app uses augmented reality technology (AR) to tape measure the real world with your smartphone\u2019s camera. Target aim on the detected plane and start to use ar tape measure tool: \n\n1) Line - allows to tape measure linear sizes in cm, m, ft, yd, apply mm ruler or inch ruler.\n2) Distance meter - allows to tape measure distance from device camera to a fixed point on the detected 3D plane.\n3) Angle - allows to tape measure corners on 3D planes.\n4) Area and Perimeter. \n5) Volume \u2013 allows to tape measure size of 3D objects.\n6) Path - allows to cal",
+    "icon": "/icons/com.grymala.photoruler.png"
+  },
+  "com.gt.name.dev": {
+    "title": "Nickname Maker: Name Generator",
+    "package": "com.gt.name.dev",
+    "description": "Nickname Maker: Name Generator Start with epic gaming NOW!!! \u2122\ufe0f\n\nCreate a digital identity with our revolutionary nickfinder app - your ultimate companion for crafting a unique game name, stylish username, or standout online name.\n\nOur Nickname Maker: Name Generator provides the tools to create a nickname that resonates with your character and gaming style.\n\nChoose Nickname Maker: Name Generator\n\ud83d\ude80 Tailor-Made for Gamers and Online Personalities: From hardcore gamers to social media enthusiasts, our nickname creator is designed to generate names that add flair and character to your digital persona. Find that perfect game name that catches attention and defines your online alter ego.\n\ud83d\ude80 A Treasure Trove of Creative Options: With over 250 model gamer names and more than 1000 symbols ranging fr",
+    "icon": "/icons/com.gt.name.dev.png"
+  },
+  "com.gulsoft.ai_flashcards": {
+    "title": "AI Flashcards - Smart Study",
+    "package": "com.gulsoft.ai_flashcards",
+    "description": "Master your exams without the busy work. AI Flashcards is the definitive study companion that transforms your PDFs, text, and notes into active recall decks in seconds.\n\nStop wasting hours manually typing out flashcards. Whether you are a medical student tackling complex anatomy, a law student summarizing case briefs, or learning a new language, AI Flashcards automates your preparation so you can focus on what matters: Learning.\n\nUnlike other platforms that hide essential features behind paywalls or clutter your cognitive space with advertisements, our core experience is 100% Free, Unlimited, and Ad-Free. We believe that the tools for learning should be accessible, while advanced AI assistance should be a value-added service.\n\nWHY CHOOSE AI FLASHCARDS?\n\n1. STRUCTURED PDF TO FLASHCARD CONVE",
+    "icon": "/icons/com.gulsoft.ai_flashcards.png"
+  },
+  "com.guness.taximeter": {
+    "title": "Taximeter",
+    "package": "com.guness.taximeter",
+    "description": "Taximeter turns your phone into a professional navigation with digital taxi meter. Calculate fares accurately using real GPS distance and time tracking\n  \u2014 no extra hardware needed.\n\n  REAL-TIME FARE CALCULATION\n  \u2022 GPS-based distance tracking with noise filtering for precise measurements\n  \u2022 Time-based fare calculation with configurable per-minute rates\n  \u2022 Opening fee, minimum fare, and per-km/mile rates \u2014 fully customizable\n  \u2022 Live fare display updates every second while driving\n\n  READY-TO-USE TARIFFS FOR 12+ COUNTRIES\n  Search and apply official taxi tariffs from cities worldwide including:\n  \u2022 USA (New York, Los Angeles, Chicago)\n  \u2022 Germany (Berlin, Munich)\n  \u2022 Turkey (Istanbul, Ankara, Izmir, Antalya)\n  \u2022 UK (London), France (Paris), Spain (Madrid, Barcelona)\n  \u2022 Italy (Rome, Mila",
+    "icon": "/icons/com.guness.taximeter.png"
+  },
+  "com.gymbros.app": {
+    "title": "Liftoff - Ranked Gym Workouts",
+    "package": "com.gymbros.app",
+    "description": "Liftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\n\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\n\nBoost Your Fitness Journey with Liftoff app\n\nConnect and Compete\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share your fitness journey with friends and other gym-goers.\n\n- Community Engagement: Dive into a fitness community that motivates and inspires. Follow friends, exchange tips, and celebrate each other\u2019s successes.\n- Global Leaderboards: See how you stack up against the world. Participate in community challe",
+    "icon": "/icons/com.gymbros.app.png"
+  },
+  "com.gzll.coloringbook": {
+    "title": "SketchAI: Doodle to AI Image",
+    "package": "com.gzll.coloringbook",
+    "description": "Transform Your Doodles Instantly\nNo professional skills? No problem! Just sketch a basic idea on our simple canvas, and watch as your rough lines are reimagined into stunning, high-quality illustrations. Whether it's a quick scribble or a thoughtful sketch, we give your art a professional touch in seconds.\nKey Features:\n\ud83c\udfa8 Instant Magic: Turn any doodle into a vibrant painting with a single tap.\n\ud83d\udd8c\ufe0f Simple Canvas: A clean, easy-to-use drawing interface for everyone\u2014from kids to adults.\n\ud83c\udf08 Multiple Styles: Choose from various artistic styles, from realistic oil paintings to dreamlike 3D renders and vivid anime.\n\ud83d\udcf8 High-Quality Results: Save your masterpieces in high resolution, ready to be shared or printed.\n\u2728 Endless Inspiration: Perfect for concept art, social media avatars, or just seeing yo",
+    "icon": "/icons/com.gzll.coloringbook.jpg"
+  },
+  "com.haatchapp.mobile": {
+    "title": "haatch. - Goal & Habit Tracker",
+    "package": "com.haatchapp.mobile",
+    "description": "Do you aspire to achieve your goals and maintain positive habits, but often struggle to stay on track? Do you find it challenging to see your ambitions through? Are distractions and a lack of focus derailing your progress?\n\nYou're not alone! Achieving your goals and habits requires unwavering focus, self-discipline, and consistent execution. However, life's distractions and responsibilities often get in the way. You need a tool that makes it easier for you to stay on track despite challenges. That's where haatch., your smart goal and habit tracker comes into play as your ultimate goal setting and habit tracking app. \n\nMeet haatch.: Your Smart Goal and Habit Tracker\n\nWhether you're striving for ambitious goals or aiming to build and sustain positive habits, haatch. is your go-to discipline ",
+    "icon": "/icons/com.haatchapp.mobile.png"
+  },
+  "com.haavepaja.aigreenscreen": {
+    "title": "AI Green Screen",
+    "package": "com.haavepaja.aigreenscreen",
+    "description": "Background removal and paint effects with the latest artificial intelligence (AI) technology! Pick any image or video and detect objects and background automatically - and not only for background removal, but for various other cool effects too. The app is based on semantic image segmentation, which is the concept of finding objects and boundaries in images. Google Research DeepLab is a state-of-art deep learning neural network for the semantic image segmentation - and now with AI Green Screen this awesome technology is available as an easy app for everyday use. Simply let AI detect the image objects and pick the effect to apply. True power of artificial intelligence to everybody!\n\nAI Detection Sensitivity\nYou can apply effects to detected objects or everything else (the background). There "
+  },
+  "com.habapps.zodiac": {
+    "title": "Horoscope Compatibility",
+    "package": "com.habapps.zodiac",
+    "description": "This Horoscope app lets you to test Zodiac signs compatibility.\nHow compatible are you with other Zodiac signs.\nFind out personality characteristics for each Zodiac sign.\nFind out the planets and the elements of the Horoscope.",
+    "icon": "/icons/com.habapps.zodiac.png"
+  },
+  "com.hairanalyzer.app": {
+    "title": "Hair Type Identifier: Analyzer",
+    "package": "com.hairanalyzer.app",
+    "description": "Discover your hair's true potential with Hair Type Identifier & Analyzer \u2013 Quick hair type test and scalp analysis app! \ud83d\udc87\u200d\u2640\ufe0f\n\n\ud83d\udd2c INSTANT AI HAIR ANALYSIS\nSimply take a photo and let our advanced AI technology analyze your hair type, texture, and scalp condition in seconds. Get accurate results for straight, wavy, curly, or coily hair (Type 1A-4C).\n\n\u2728 KEY FEATURES:\n\n\ud83d\udcf8 AI Hair Type Detection\n\u2022 Identifies all hair types: Straight (1A-1C), Wavy (2A-2C), Curly (3A-3C), Coily (4A-4C)\n\u2022 Analyzes hair texture, density, and porosity\n\u2022 Instant results with detailed explanations\n\n\ud83e\uddf4 Personalized Product Recommendations\n\u2022 Get tailored product suggestions for YOUR hair type\n\u2022 Learn which ingredients work best for your hair\n\u2022 Discover the perfect hair care routine\n\n\ud83d\udcca Track Your Hair Health Journey\n\u2022 Monit",
+    "icon": "/icons/com.hairanalyzer.app.jpg"
+  },
+  "com.hairkeeper": {
+    "title": "Hair Health & Scanner HairKeep",
+    "package": "com.hairkeeper",
+    "description": "Analyze Your Hair Like Never Before:\n\nUnlock the power of data to transform your hair care journey. Our advanced hair analysis app helps you track, understand, and improve your hair health over time \u2014 all from the palm of your hand.\n\nWhether you're working toward thicker strands, faster growth, or better scalp health, this app is your smart companion for reaching your hair goals.\n\nDisclaimer: We do not offer medical advice. All recommendations should be viewed as suggestions. Please consult your doctor before making any medical decisions.\n\nWhat You Can Do:\nScan your hair using your phone's camera\nGet detailed insights into your hair density, strand health, and scalp condition.\n\nTrack your progress with smart comparisons\nMeasure growth, shedding, and visual changes over time.\n\nUnderstand yo",
+    "icon": "/icons/com.hairkeeper.png"
+  },
+  "com.hairmaxxstudio.hairmaxxapp": {
+    "title": "AI Hair Style&Care - HairMaxx",
+    "package": "com.hairmaxxstudio.hairmaxxapp",
+    "description": "Discover the ultimate hair care experience with HairMax! Whether you want to analyze your face shape, get personalized hair style recommendations, or track your hair health, HairMax is your smart companion.\n\nKey Features:\n\nFace Shape Analysis: Find your face shape and unlock the perfect hairstyles tailored for you.\nHairCare Insights: Get advanced hair care tips for curly hair, straight hair, and more.\nHair Scan Technology: Scan your hair to detect split ends, frizz, density, and scalp health.\nRecession Analysis: Understand hair thinning and get early alerts for hair loss risks.\nHair Health Report: Monitor scalp, density, and shine with AI-powered analytics.\nCurly Hair Focus: Designed for all hair types including natural curls.\n\nWhy HairMax?\nWith AI-driven precision, HairMax gives you actio",
+    "icon": "/icons/com.hairmaxxstudio.hairmaxxapp.png"
+  },
+  "com.hairu.ai": {
+    "title": "HAIR U: AI Haircut Scanner",
+    "package": "com.hairu.ai",
+    "description": "Stop guessing your haircut.\n\nHAIR U scans your face and tells you exactly what haircut fits you \u2014 in seconds.\n\nNo more \u201cwhat should I get?\u201d\nNo more bad cuts.\nNo more awkward barber conversations.\nJust scan \u2192 see \u2192 ask.\n\nWHAT YOU GET\n\u2022 Your face shape (instantly)\n\u2022 Your hair type and structure\n\u2022 Your personalized haircut name\n\u2022 A clear rating of your hair potential\n\u2022 1 simple tip to upgrade your look\n\nTHE REAL VALUE\nYou don\u2019t need theory.\nYou don\u2019t need to \u201clearn style.\u201d\nYou just need to walk into the barber and say:\n\u201cGive me this.\u201d\n\nUNLOCK FULL ACCESS\nGet full analysis + hairstyle recommendations you can actually ask your barber for.\n\nEach style includes:\n\u2022 What it\u2019s called\n\u2022 Why it works for you\n\u2022 What to say to your barber\n\nBuilt for men who care how they look.\nDesigned for speed, clarit",
+    "icon": "/icons/com.hairu.ai.png"
+  },
+  "com.halkmen.carphotoquiz": {
+    "title": "Car photo quiz",
+    "package": "com.halkmen.carphotoquiz",
+    "description": "Select a photo or title.\nChoose from four options.\nHint 50/50\nDivision by levels\n\nProgress\n- overall progress and by levels\n\nAchievements\n- get more stars\n\nUpgrade tree\n- improve different characteristics for stars\n\nSettings\n- font\n- theme",
+    "icon": "/icons/com.halkmen.carphotoquiz.png"
+  },
+  "com.hamdaanstudio.stepcounter": {
+    "title": "Step Counter - Pedometer",
+    "package": "com.hamdaanstudio.stepcounter",
+    "description": "\ud83d\udeb6 Step Counter \u2014 Pedometer & Fitness Tracker\n\nAn automatic step counter that runs in the background, tracking your \ndaily movement without draining your battery. Built with 40+ features \ncovering step tracking, smart notifications, hydration, streaks, \ncharts, gamification, and more \u2014 all stored privately on your device.\n\n\ud83d\udcca DAILY TRACKING\nCount steps automatically all day. Watch your step count, calories burned, and distance walked update in real time on a clear ring. Set a daily step goal and get notified the moment you reach it.\n\n\ud83d\udca7 WATER INTAKE\nLog cups of water throughout the day. A visual progress bar and emoji \nrow show how close you are to your daily hydration goal. Resets \nautomatically at midnight.\n\n\ud83d\udd14 SMART NOTIFICATIONS\n\u2022 Step Goal Reminder \u2014 nudge at your chosen time if goal not ",
+    "icon": "/icons/com.hamdaanstudio.stepcounter.png"
+  },
+  "com.hamsoft.face.blender": {
+    "title": "Multi Face Blender",
+    "package": "com.hamsoft.face.blender",
+    "description": "Try several face photos synthesize easily.\n\nIntermediate stage of my face and celebrities, what does he look like?\nIf you synthesize with all favorite celebrity, what does he look like?\nI want only certain parts to synthesize face. Is there a way to easily?\n\nIf you've done this idea, here is the app you've been looking for.\n\nCombine multiple face to face as you want quickly and easily merges .\nAre wondering how to do it?\nProceed as follows: And you are an expert in this synthesis .\n\n1 . Please select the desired faces of a number .\n2 . More alike who want to adjust. Easily adjustable.\n3 . Please use the eraser. It's possible, except for certain areas synthesis.\n4 . You want to change the skin color? Brightness, brightness, saturation and so easily could change .\n5 . Finger roughly rubbed s",
+    "icon": "/icons/com.hamsoft.face.blender.png"
+  },
+  "com.hamsoft.face.morph": {
+    "title": "Face Morph",
+    "package": "com.hamsoft.face.morph",
+    "description": "Morphing your face!\nReally easy! fast! Funny! Face morpher!\n\nFace Morph features.\n- switch your face to other face\n- automatic face detection\n- face morphing\n- face blending\n- mix your face to animal.\n- morphing your face to animal.\n\nface morph.",
+    "icon": "/icons/com.hamsoft.face.morph.webp"
+  },
+  "com.hamsteclab.chat_journal": {
+    "title": "Chat Journal - AI Mood Diary",
+    "package": "com.hamsteclab.chat_journal",
+    "description": "\"Speak your mind, and let your animal friends embrace it.\"\nChat Journal is a healing mental-care diary where you can vent your feelings as easily as sending a message. No pressure, no judgment\u2014just a safe space for your thoughts.\n\n\u25c6 Perfect for those who:\nStruggle to keep a traditional diary (Goodbye, three-day streak!)\nAre tired of social media but want someone to listen.\nNeed a little more self-love and daily praise.\nFeel lonely or anxious at night and can\u2019t sleep.\n\n\u25c6 Why You\u2019ll Love Chatty Journal:\n\n[Easy Chat-Style Interface]\nWriting a diary is now as simple as chatting. The familiar bubble UI makes it easy to start with just one word. Perfect for beginners!\n\n[Positive AI Animal Friends]\nWhen you write, cute animal characters reply with warm, encouraging messages. They are always on yo",
+    "icon": "/icons/com.hamsteclab.chat_journal.png"
+  },
+  "com.handwriting.text.converter.recognizer.ocr": {
+    "title": "Handwriting to Text Converter",
+    "package": "com.handwriting.text.converter.recognizer.ocr",
+    "description": "Easily convert handwritten notes into editable digital text with our handwriting to text converter app. Scan notes, recognize cursive writing, and export text instantly\u2014perfect for students and professionals.\n\nConvert your PDF files into editable, searchable text in seconds. Easily extract content from scanned PDFs or documents and copy, share, or edit without retyping. Fast, accurate, and user-friendly.\n\nCustomize your app experience with language options, theme settings, and privacy controls. Enable offline mode, adjust text output formats, and set preferences your way.\n\nAdvanced handwriting to text scanner OCR (Optical Character Recognition) engine accurately extracts handwritten content from scanned paper notes and converts it into editable digital text. Unlike typical OCR Handwriting ",
+    "icon": "/icons/com.handwriting.text.converter.recognizer.ocr.png"
+  },
+  "com.handycloset.android.eraser": {
+    "title": "Background Eraser",
+    "package": "com.handycloset.android.eraser",
+    "description": "This is an application for cutting pictures and for making a picture's background transparent.\n\nThe resulting images can be used as stickers with other apps to make a photomontage, collage.\n\n\n- - - Features - - -\n\n\"Magic\" mode\n- Detects image edges to erase easily & accurately.\n\n\"Auto\" or \"Color\" mode\n- Erases similar pixels automatically.\n\nIt's very important to make a picture's background transparent accurately\nif you want to superimpose photos and make good composite photos.\n\nBy using this app, you can do it better.",
+    "icon": "/icons/com.handycloset.android.eraser.png"
+  },
+  "com.hannataylorapps.howtopaintwatercolor": {
+    "title": "How To Paint Watercolor",
+    "package": "com.hannataylorapps.howtopaintwatercolor",
+    "description": "You can learn a lot about watercolor in just 20 minutes a day. You need just devote a little amount of time per day to practicing the techniques we teach you. Use our app to decide what to watercolor paint and get started right away. If you're having trouble deciding what to paint in watercolors, these painting tutorials should assist. We propose you start with the introductory classes that will teach you to learn how to draw a tree or how to draw a rose. You may use acrylic watercolor to create over 200 different things. Once you've mastered the basics of watercolor painting, you can go on to more advanced techniques with us. Learn to use watercolour pencils more effectively, and get the lowdown on mixing your own watercolor paints from pure pigments.\n\nIf you want to learn how to paint wi",
+    "icon": "/icons/com.hannataylorapps.howtopaintwatercolor.png"
+  },
+  "com.hanova.eduroid": {
+    "title": "Eduroid AI: Quiz & Flashcards",
+    "package": "com.hanova.eduroid",
+    "description": "Study Smarter with AI-Generated Quizzes & Flashcards\n\nEduroid AI is an intelligent study app that turns your notes, PDFs, and lectures into interactive learning tools.\n\nCreate AI-powered quizzes, generate smart flashcards, and get clear note summaries in seconds \u2014 all in one place.\n\nDesigned for students, exam preparation, and lifelong learners.\n\nAI Study Tools That Adapt to You\n\ud83e\udde0 AI Quiz Generator\n\nTransform your notes into multiple-choice quizzes. Adjust difficulty and test your understanding instantly.\n\n\ud83d\udcda Smart Flashcards\n\nGenerate Q&A flashcards from any text, lecture, or PDF. Review actively and strengthen long-term memory.\n\n\u270d\ufe0f AI Note Summarizer\n\nConvert long study materials into structured summaries that highlight key concepts.\n\nScan, Import & Create from Anything\n\n\u2022 Scan textbook p",
+    "icon": "/icons/com.hanova.eduroid.png"
+  },
+  "com.hantor.CozyMag": {
+    "title": "Magnifier & Microscope [Cozy]",
+    "package": "com.hantor.CozyMag",
+    "description": "This app is a handy magnifier that helps you to see tiny things easily!\n\nThis app turns your phone into a handy and easy-to-use digital magnifier.\nWith this, you no longer need to carry a magnifying glass! =)\n\n\u2605 The recommended magnifying glass - Various media\n\u2605 Mother's Day Recommended Apps! - Google Korea\n\n* Features\n  \u2299 Magnifier (Magnifying glass)\n  \u2299 Microscope mode (x2, x4)\n  \u2299 LED Flashlight\n  \u2299 Macro Camera\n  \u2299 Freezing the magnifier screen\n  \u2299 Brightness and zoom control\n  \u2299 Enhanced embedded gallery\n  \u2299 Color filters(Negative, Sepia, Mono, Text highlight)\n  \u2299 & more\n\nDo you need a magnifying glass to read small prints?\nDo you use a big magnifier to read the model number of a tiny semiconductor?\nDo you want to take macro pictures easily?\n\nThis app is the magnifying glass that you'",
+    "icon": "/icons/com.hantor.CozyMag.png"
+  },
+  "com.hantor.CozyMagPlus": {
+    "title": "Magnifier & Microscope+ [Cozy]",
+    "package": "com.hantor.CozyMagPlus",
+    "description": "This app is a handy magnifier that helps you to see tiny things easily!\nThis app turns your phone into a handy and easy-to-use digital magnifier.\nWith this, you don't have to carry a magnifying glass anymore! =)\n\n\u2605 The recommended magnifying glass by various media!\n\u2605 Mother's Day Recommended Apps! - by Google Korea\n\n* Features\n  \u2299 Magnifier (Magnifying glass)\n  \u2299 Microscope mode (x2, x4)\n  \u2299 LED Flashlight\n  \u2299 Macro Camera\n  \u2299 Freezing the magnifier screen\n  \u2299 Brightness and zoom control\n  \u2299 Enhanced embedded gallery\n  \u2299 Color filters(Negative, Sepia, Mono, Text highlight)\n  \u2299 & more\n\n* Plus version features\n  \u2605 No ads\n  \u2605 More functions\n  \u2605 More filters\n\nDo you need a magnifying glass to read small prints?\nDo you use a big magnifier to read the model number of a tiny semiconductor?\nDo you",
+    "icon": "/icons/com.hantor.CozyMagPlus.png"
+  },
+  "com.happy.money_manager": {
+    "title": "Money Manager \uff1aBills & Budget",
+    "package": "com.happy.money_manager",
+    "description": "Our app is the ultimate financial management tool, designed to help you take control of your finances and achieve your financial goals. It is easy to use, packed with features, and has everything you need to manage your money effectively. Whether you want to track your expenses, create a budget, or set up a savings plan, our app has got you covered.\n\nKey Features:\n1. Budget Management: Our app makes budgeting easy and efficient. You can set spending limits for different categories, track your progress, and receive alerts when you exceed your budget. With our app, you can stay on top of your finances and achieve your financial goals.\n\n2. Savings Plans: Our app offers multiple savings plans to help you reach your financial goals. Whether you're saving for a vacation, a new car, or a down pay",
+    "icon": "/icons/com.happy.money_manager.png"
+  },
+  "com.happytools.learning.kids.games": {
+    "title": "Bebi: Baby Games for 2-4y kids",
+    "package": "com.happytools.learning.kids.games",
+    "description": "Empower your preschool toddler to learn and have fun playing 500+ educational games, from drawing, coloring and phonics to math, shapes and music.  With Baby Games for Preschool by Bebi, you can support and encourage your toddler to learn unsupervised while having a fun in a 100% ad free, safe environment. \n\nBaby Games for Preschool keeps your toddler occupied and away from video streaming apps by offering 500+ different educational activities, puzzles and games.  It\u2019s free to install, so why not download today and start enriching your toddler\u2019s education?\n\nWhat can 2,3,4 or even 5 year olds learn? \n\n\u25baThe alphabet, phonics, numbers, words, tracing, shapes, patterns and colors\n\u25ba Basic math and science through games and activities\n\u25ba How to recognise and look after animals\n\u25ba All about food an",
+    "icon": "/icons/com.happytools.learning.kids.games.png"
+  },
+  "com.happyverse.wouldyourather": {
+    "title": "Would You Rather? Icebreaker",
+    "package": "com.happyverse.wouldyourather",
+    "description": "Would You Rather? Icebreaker is the go-to social game for every occasion \u2014 whether you're hosting a party, on a road trip, or just looking for fun conversation starters with friends and family.\n\nHOW IT WORKS\nPick between two options. Debate your choices. Laugh at what your friends pick. It's that simple \u2014 and that addictive.\n\nPERFECT FOR EVERY OCCASION\n\n\ud83c\udf89 Party Games\nHosting a get-together? Break the ice instantly with hilarious dilemmas that get everyone talking and laughing. The perfect addition to any girls night game or group hangout.\n\n \ud83d\ude97 Road Trip Game\nTurn long drives into unforgettable memories. No boards, no setup \u2014 just open the app and let the debates begin. Say goodbye to bored passengers and hello to non-stop entertainment.\n\n\ud83d\udc91 Couples Games\nLooking for a fun date night game? Di",
+    "icon": "/icons/com.happyverse.wouldyourather.png"
+  },
+  "com.hardcodedjoy.timelapsevideomaker": {
+    "title": "Timelapse Video Maker",
+    "package": "com.hardcodedjoy.timelapsevideomaker",
+    "description": "A timelapse video is a video that's been created by taking a series of photos at a regular interval (often a few seconds apart), then speeding them up and stitching them together. The result is a video that shows changes in the subject matter over time, but much faster than normal speed. For example, you might see a video of a flower blooming in seconds, or of a sunset in a few minutes.\n\nThis app allows you to create timelapse video from already existing images or video files, or using the device's camera.\n\nCurrent app features:\n\u2022 create timelapse video from image sequence\n\u2022 create timelapse video from video files\n\u2022 images / videos will be included in the order of selection\n\u2022 add soundtrack (select local audio file from your device)\n\u2022 configurable settings for the output video file\n\u2022 NEW! ",
+    "icon": "/icons/com.hardcodedjoy.timelapsevideomaker.png"
+  },
+  "com.harholinskyi.packitsmartabexercises.absworkout.sixpack.abs": {
+    "title": "com.harholinskyi.packitsmartabexercises.absworkout.sixpack.abs",
+    "package": "com.harholinskyi.packitsmartabexercises.absworkout.sixpack.abs"
+  },
+  "abs.a_15mins.challenge.workout.homeworkout.training.a_6pack.sixpack.sixpackabs": {
+    "title": "Six Pack Abs: 15 minutes daily",
+    "package": "abs.a_15mins.challenge.workout.homeworkout.training.a_6pack.sixpack.sixpackabs",
+    "description": "Looking to trim down belly fat and develop defined abs? Interested in weight management through home-based workout sessions that don't require gym equipment?\n\nIntroducing our unique fitness app crafted to help you shape your abs like never before. \n\nShape Up Your Abs in Just 15 Minutes Daily is designed for enthusiasts of all levels. You can comfortably engage in our routines at home or any location of your choice, at any time. With just a few minutes each day, you can steadily achieve the abs you have desired!\n\n\ud83d\udcaa Progressive Workout Plans\nOur workout plans are tiered into three levels providing a gradual progression in fat reduction and abdominal muscle development. They cater to workout beginners as well as pros. We ensure that each day introduces fresh and exciting exercises.\n\n\ud83c\udfc6 A Struc",
+    "icon": "/icons/abs.a_15mins.challenge.workout.homeworkout.training.a_6pack.sixpack.sixpackabs.png"
+  },
+  "abs.pro.core.workout": {
+    "title": "Six Pack in 30 Days - Abs Pro",
+    "package": "abs.pro.core.workout",
+    "description": "ABS WORKOUTS THAT FINALLY MAKE SENSE\nAbs Pro is a focused abs workout app built for clear, simple and effective core training. \nIf you want stronger abs, a visible six pack, or just a solid midsection for everyday life, Abs Pro gives you guided ab workouts you can follow and actually finish.\nYou can use it for a full sixpack project or just to add smart core sessions into your weekly routine.\n\n30 DAY AB CHALLENGE\nThe main plan in Abs Pro is a structured 30 day ab challenge. Each day brings a short, targeted abs workout that fits your schedule and builds on the last one.\nYou can move at your own pace, repeat days when you need, and still feel a clear sense of progression across the full 30 days.\nThe result is a realistic 30 day abs journey that helps you stay consistent instead of quitting ",
+    "icon": "/icons/abs.pro.core.workout.png"
+  },
+  "absworkout.abexercises.formenbelly": {
+    "title": "Six Pack Abs in 30 days",
+    "package": "absworkout.abexercises.formenbelly",
+    "description": "Abs workout app is the best fitness app that helps you gain ab muscles in 30 days! Your abdominal muscles which includes lower abs, upper abs and core muscles are targeted here. There are 5 different fitness plans to do in a routine. There are a variety of daily 8 minute, 10 minute to 20 minute workouts. You can select according to your body. The workouts can be personalised which can be fitted for men or women.\n\nYou can take this 30 day abs challenge and finally have that flat stomach or 6 pack you dreamed of. These ab workouts are for anytime and anywhere you want, at home or at fitness. No equipment is needed for the moves!\n\nApproximately 200 different moves are in the app! We kept the move database various in order to work every muscle of your abdomen area. \n\nWhy Nexoft\u2019s Abs Exercise ",
+    "icon": "/icons/absworkout.abexercises.formenbelly.png"
+  },
+  "ai.blood.trackerapp.bloodsugar.app": {
+    "title": "Blood Sugar, Diabetes Tracker",
+    "package": "ai.blood.trackerapp.bloodsugar.app",
+    "description": "Take control of your daily wellness with Blood Sugar, Diabetes Tracker, a powerful health tracker designed to help you monitor important health data in one place. This app works as a reliable blood sugar tracker and blood pressure monitor to support better health awareness and daily tracking.\n\n\ud83e\ude78 Blood Sugar Tracking:\nEasily record your readings using the built-in blood sugar tracker and maintain a detailed blood sugar log. You can track blood sugar, review blood sugar levels, and monitor sugar levels over time.\n\n\u2764\ufe0f Blood Pressure Monitoring\nUse the integrated blood pressure monitor to log and review your readings anytime. The app functions as a complete blood pressure tracker, allowing you to create a blood pressure log and track blood pressure trends through simple visual charts.\n\n\ud83d\udc93 Heart",
+    "icon": "/icons/ai.blood.trackerapp.bloodsugar.app.png"
+  },
+  "ai.imagetopdf.phototopdf.pdfconverter.jpgtopdf.pdfeditor.pdfmaker": {
+    "title": "Image to PDF - PDF Maker",
+    "package": "ai.imagetopdf.phototopdf.pdfconverter.jpgtopdf.pdfeditor.pdfmaker",
+    "description": "Convert your photos and images into high-quality PDF documents in seconds with Image to PDF \u2013 Photo & JPG to PDF Converter. Whether you need to turn receipts, invoices, notes, certificates, screenshots or any picture into a professional PDF, this app gives you everything you need in one fast, intuitive tool.\n\n\u2605 Why choose this image to PDF converter?\n\u2022 Convert any image (JPG, JPEG, PNG, BMP) to PDF \u2013 select from gallery or snap a photo with the camera.\n\u2022 Merge multiple images into one PDF file, reorder pages, rotate, crop, and adjust image quality.\n\u2022 Compress PDF files by selecting image quality (Low, Medium, High, Original) to save space.\n\u2022 Protect your PDF with password encryption for confidential files or business docs.\n\u2022 Offline operation \u2013 no internet needed, no files uploaded to clou",
+    "icon": "/icons/ai.imagetopdf.phototopdf.pdfconverter.jpgtopdf.pdfeditor.pdfmaker.png"
+  },
+  "air.com.cbn.android_bible": {
+    "title": "CBN Bible - Devotions, Study",
+    "package": "air.com.cbn.android_bible",
+    "description": "Read, listen, and grow closer to God daily with the CBN Bible App. Discover an easy-to-use Bible experience designed to help you understand Scripture, apply it to your life, and share it with others.  \n\nStay inspired with daily devotions and verse images, follow Bible reading plans, and make the Word of God part of your daily rhythm. The redesigned app is simple, fast, and personalized for your journey of faith.  \n\nFeatures include:  \n\n \u2022 Free access to popular Bible translations (NLT, KJV, ESV, NASB, and more)  \n\n \u2022 Audio Bibles you can listen to anywhere (NLT and NASB)  \n\n \u2022 Scripture cross-references and footnotes enrich your Bible study \n \n\u2022  Free Bible reading plans to help you stay on track  \n\n\u2022 365 days of hand-picked daily devotionals   \n\n\u2022 Create your own notes while reading your ",
+    "icon": "/icons/air.com.cbn.android_bible.png"
+  },
+  "air.com.frosby.flourish": {
+    "title": "Calligraphy Art - Flourish",
+    "package": "air.com.frosby.flourish",
+    "description": "Learn the art of handwriting and letter tracing with Flourish - a\u00a0digital calligraphy app for writing flourishing letters on Android phones and tablets. \n\nGet arty with our 30 script font tracing letters (all lower case alphabet and some upper case letters), plus our original, hand drawn 'Calligrams' and practice writing over the worksheets. Become a calligrapher in no time!\n\nDraw flourishing cursive loops at the start and end of your words to give your letters an artful appearance. Then hide your tracing lines and grid, choose a background paper texture and download your design! \n\nUse the traditional ink pens to experience the soothing activity of writing curly, swirly letter flourishes. Or if you prefer italic style letters, our flat head marker pens are great for drawing graffiti tag st",
+    "icon": "/icons/air.com.frosby.flourish.png"
+  },
+  "alpha.aquarium.hd.livewallpaper": {
+    "title": "The real aquarium - LWP",
+    "package": "alpha.aquarium.hd.livewallpaper",
+    "description": "The real aquarium is an amazing free live wallpaper of caribbean fishes for Android. It has differents backgrounds of corals and typical ocean's scenaries to be choosen.\nAlso, this live wallpaper has bubbles, light effects and sounds!\nIt has cool graphs and It has a very low battery consumption.\nTry it and you will not regret it!",
+    "icon": "/icons/alpha.aquarium.hd.livewallpaper.png"
+  },
+  "amazon.shop.barcode.scanner": {
+    "title": "Barcode Scanner & QR Reader",
+    "package": "amazon.shop.barcode.scanner",
+    "description": "QR codes and product barcodes are everywhere! When you scan a product code in a store, Barcode Scanner will show you the best online prices, so you'll never overpay again!\n\nBarcode Scanner supports scanning QR codes for shoes, clothing, medicine, jewelry, watches, books, movies, music, games, electronics, toys, and more.\n\nBy scanning you can achieve:\n\ud83d\udcb0 Price comparison: product prices on eBay, Amazon, Walmart and other e-commerce platforms.\n\ud83c\udf1f For a product, Barcode Scanner gives detailed information, pictures, and best online prices - if sold online.\n\ud83d\udcb0 \ud83d\udcb0 \ud83d\udcb0 Price History: product price last time period show on the result page. You can know the lowest price during last time period.\n\u2615 Product Information: easily obtain product name, specification, category, origin, manufacturer and other info",
+    "icon": "/icons/amazon.shop.barcode.scanner.png"
+  },
+  "amen.blessed.app": {
+    "title": "Blessed - Bible Verse & Prayer",
+    "package": "amen.blessed.app",
+    "description": "Your Complete Daily Path to a Deeper Relationship with God\nLooking for a simple, structured, and meaningful way to connect with God every day? Blessed is your all-in-one spiritual guide, leading you through a daily routine of prayer, Bible reading, learning, and community. Whether you're beginning your faith journey or seeking to deepen it, Blessed makes your daily connection with God personal and fulfilling.\n\n6-Step Daily Journey to a Closer Connection with God.\nOur daily plan is designed to nourish your spirit from morning to night.\n\n1. Morning Prayer: A Shared Moment of Reflection\nStart your day by joining our faith community for a shared moment of prayer and reflection. Read a thoughtful Bible verse together, share your thoughts in the comments, and feel the support of praying with oth",
+    "icon": "/icons/amen.blessed.app.webp"
+  },
+  "and.mms.ezhuthani": {
+    "title": "Ezhuthani  - Tamil Keyboard",
+    "package": "and.mms.ezhuthani",
+    "description": "Ezhuthani  2 - Tamil Soft Keyboard \n\nEzhuthani Version 2 is a unique keyboard for naive users with Tamil99 and Ezhuthani Keyboard Layouts with full fledged Tamil Suggestion Keywords support with Tamil Reply Message Templates.\n\nWe will definitely add more features and more keyboard layouts in the future based on your feedback and encouragements. We tested on major Android phones and Tabs ( version 2.3 and above, for Previous Versions you can use the Ezhuthani 1.0.9 or older versions ).  Use the keyboard layout  the way you want, and leave your comment with changes and features you want in it. \n\nHow to Enable Ezhuthani (Tamil Keyboard) on your Mobile\n\nAndroid Version 2.0 and above\n\nSettings - Locale and Text - Select Ezhuthani (Tamil Keyboard).\nLong press in a text box and select input metho",
+    "icon": "/icons/and.mms.ezhuthani.png"
+  },
+  "app.foxyfitness.situps": {
+    "title": "100 Sit-Ups Six Pack Trainer",
+    "package": "app.foxyfitness.situps",
+    "description": "100 Sit-Ups Six Pack Trainer transforms your Android into your very own FITNESS COACH.\n\nSit-ups are among the most popular strength exercises when it comes to a flat belly and ripped abs for a reason. They\u2019re highly effective and a big step towards your sixpack. Seize the moment, make the most of your motivation and kick-off your journey to perfect abs!\n\nThis innovative app leverages the power of technology to automatically detect your sit-ups using the motion sensor on your device. It diligently keeps track of your sit-up repetitions, assists you in reaching new personal milestones, and provides essential support for achieving your fitness goals. Moreover, a comprehensive training regimen and dynamic voice coaching are seamlessly integrated.\n\nWith this app, you have the flexibility to enh",
+    "icon": "/icons/app.foxyfitness.situps.png"
+  },
+  "app.islamhub.azkar": {
+    "title": "My Azkar - Islamic Dua, Adhkar",
+    "package": "app.islamhub.azkar",
+    "description": "My Azkar - Daily islamic Dua\nAzkar and Dua for Muslims based on time and location\u200b\n\n- Azkar With English translation\n- High Quality Audio\n- Create bookmarks\n- Online and Offline Audio Player\n- translated to17 different languages\n- Material You Design for Android 13\n- include Dark mode, Sleep Timer and more\n\n\n\nMulti Language\u200b\ntranslation in 17 different languages including English, Arabic, French, Spanish and other languages\u200b\n\nHigh Quality Audio\u200b\nwe collect high quality for all recitations of the Azkar and dua\n\n\nCreate Playlist\u200b\nYou can make bookmark playlist, download audio and make a list of your faverite Dua\u200b\n\nFriendly Interface\u200b\nThis app is designed clean and minimal based on Material You Design. The color scheme in Android changes based on the phone's wallpaper. And it also has many da",
+    "icon": "/icons/app.islamhub.azkar.png"
+  },
+  "app.kidplay.doggytime": {
+    "title": "Doggy Time: Dog Training Log",
+    "package": "app.kidplay.doggytime",
+    "description": "Doggy Time - #1 Dog Training App & Puppy Potty Log\n\nThe ultimate dog training app and pet care tracker! While designed as a comprehensive puppy potty log and dog training tool, Doggy Time now supports cats, rabbits, birds, and 35+ other pets. Track training progress, set schedules, and monitor health\u2014all in one simple app.\n\n\u25cf COMPLETE PUPPY & DOG TRAINING APP TOOLS\n\n- Smart puppy potty log with customizable reminders to prevent accidents\n- Obedience training progress log with success tracking\n- Training timers for crate training, sleep training & socialization\n- Step-by-step training guides for new puppy owners\n\n\u25cf COMPREHENSIVE PET HEALTH MONITOR\n\n- Track vaccinations with automatic reminder schedules\n- Monitor medication doses and set medication alerts\n- Log nutrition details, food allerg",
+    "icon": "/icons/app.kidplay.doggytime.png"
+  },
+  "app.kiwwi.sound_meter2": {
+    "title": "Sound Meter",
+    "package": "app.kiwwi.sound_meter2",
+    "description": "Sound level meter app is shows a decibel values by measure the environmental noise, displays measured dB values in various forms. You can experience tidy graphic design with high frame by this smart sound meter app.\n\nFeatures:\n- Indicates decibel by gauge\n- Display the current noise reference\n- Display min/avg/max decibel values\n- Display decibel by graph line\n- Display Elapsed time of decibel \n- Can calibrate the decibel for each devices\n\n**Notes\nMicrophones in most android devices are aligned to human voice. The maximum values are limited by the device. Very loud sounds(over ~90 dB) may not be recognized in most device. So please use it as just an auxiliary tools. If you need more accurate dB values, we recommend a actual sound level meter for that.",
+    "icon": "/icons/app.kiwwi.sound_meter2.png"
+  },
+  "com.scores365": {
+    "title": "365Scores: Live Scores & News",
+    "package": "com.scores365",
+    "description": "Be the 1st to Know! 365Scores helps you become an EXPERT OF THE GAME with Live Scores, Pre-Game Stats and Predictions, In-Depth Data, News Updates, Upcoming Fixtures, Lineups - and everything else you need to stay connected to your favorite players, teams, and competitions.\n\nJoin over 150 million sports fans who rely on 365Scores for real-time updates, pre-game stats and in-depth insights.\n\n* EXTENSIVE SPORTS COVERAGE\nFollow the NFL, NBA, MLB, NHL, MLS, UEFA Champions League, English Premier League, and 2000+ global sports competitions in 10 different types of sports, including top football, soccer, basketball, tennis events and much more \u2013 all in one live scores app.\n\n* LIVE SOCCER RESULTS\nGet all the latest soccer news and updates, right at your fingertips! Follow your favorite teams \u2013 f",
+    "icon": "/icons/com.scores365.webp"
+  },
+  "app.tools.soundmeter.decibel.noisedetector.pro": {
+    "title": "Sound Meter - Decibel Meter",
+    "package": "app.tools.soundmeter.decibel.noisedetector.pro",
+    "description": "The sound meter Pro app uses your microphone to measure noise volume in decibels(dB). With this app, you can easily measure the current level of environmental noise. The best helper to detect noise.\n \nSound meter Pro features:\n- Indicate decibel by gauge\n- Display the current noise reference\n- Display min/avg/max decibel values\n- Display decibel by a graph, easy to understand\n- Can calibrate the decibel for each device\n- Show measurement histories\n- Set warning for high decibel\n- Change white or black theme\n- Transfer into smaller interface\n\nLevels of Noise In decibels (dB) according to the American Academy of audiology, from 20 dB to 120 dB between the division, for example, 60 dB is \"Normal conversation \".\n \nIf the interface is small when you open it, you should know it is a convenient m",
+    "icon": "/icons/app.tools.soundmeter.decibel.noisedetector.pro.png"
+  },
+  "app.vezk.photofish": {
+    "title": "FishCam - Fisheye Filter",
+    "package": "app.vezk.photofish",
+    "description": "\ud83d\udcf8 Transform Your Photos with FishCam \u2013 A Powerful Fisheye Filter App!\nEnhance your photos with unique fisheye effects. FishCam - Fisheye Filter lets you create wide-angle images with just one tap. Capture dynamic perspectives and turn ordinary shots into creative visuals.\n\n\ud83d\udd25 Key Features:\n\u2705 Realistic Fisheye Effect \u2013 Apply high-quality fisheye filters easily.\n\u2705 Easy Sharing \u2013 Post directly to Instagram, TikTok, Facebook, and more.\n\u2705 Save to Your Gallery \u2013 Keep all the images with applied filters.\n\u2705 Intuitive Interface \u2013 Edit and apply effects quickly with a user-friendly design.\n\nFishCam is designed for photographers, content creators, and anyone who enjoys creative photography. Download now and start experimenting with fisheye effects! \ud83d\ude80",
+    "icon": "/icons/app.vezk.photofish.png"
+  },
+  "app.wallpaper3d.parallax.wallpaper4k.livewallpaper.live4d.hd": {
+    "title": "3D Parallax Live Wallpaper",
+    "package": "app.wallpaper3d.parallax.wallpaper4k.livewallpaper.live4d.hd",
+    "description": "\u2728 Unleash Real 3D Parallax on Your Screen\n\nLooking to transform your phone screen with true depth and motion?\nUnleash a new visual experience with real 3D parallax live wallpapers designed to react naturally to your device\u2019s movement.\n\nUnlike ordinary live wallpapers or looping videos, our wallpapers use authentic parallax depth layers to create smooth, immersive motion that feels alive every time you tilt your phone.\n\n\ud83c\udfa8 Stunning 4K Wallpapers with True Depth\n\nExplore a curated collection of high-quality 4K wallpapers enhanced with realistic parallax effects.\nEach wallpaper is carefully crafted to deliver:\n\nNatural depth and perspective\n\nSmooth motion that follows your device\u2019s tilt\n\nA premium, immersive look without visual clutter\n\nFrom calming nature scenes to futuristic designs and mini",
+    "icon": "/icons/app.wallpaper3d.parallax.wallpaper4k.livewallpaper.live4d.hd.png"
+  },
+  "app.wordpix.android": {
+    "title": "WordPix - Guess Word Picture",
+    "package": "app.wordpix.android",
+    "description": "WordPix is a picture word game where you guess the word from images.\nIf you enjoy word puzzles, logic challenges, and visual brain games, WordPix offers a fresh way to train your mind. Each puzzle shows a picture, and your goal is to guess the correct word using visual clues and logic.\n\nThis word guessing game combines picture puzzles and classic word puzzle mechanics. Look at the image, analyze the details, and guess the word step by step. Some answers are obvious, others require careful thinking. WordPix is designed for players who enjoy guess the word games and picture-based challenges.\n\nGuess the Word From Pictures\n\nIn this picture word game, every puzzle is built around an image. You must guess the word from the picture using logic and observation. The game gradually becomes more chal",
+    "icon": "/icons/app.wordpix.android.png"
+  },
+  "appiz.calligraphyname.focusnfilters": {
+    "title": "Calligraphy Name Art : Fonts",
+    "package": "appiz.calligraphyname.focusnfilters",
+    "description": "\u2605 Focus N Filter - Calligraphy Name Art \u2605\n\nFocus n Filter 2018 - Name Art - Create professional name art with Name Art app. Create art profile picture for you with beautiful and unique. Add more than 170 heart stickers, change text font, text color and more.\n\nFocus N Filter is very beautiful and amazing art work creation app. \n\nFocus n Filter - Filter Art to create best looking name art and Focus Signature Art. Create Focus n Filter art work with Name in Stylish Text with Photo Backgrounds, Flag Backgrounds, Draw On Name Filter, Add Symbols and color the symbols and add Stickers to your name art. Focus n Filters lets you create focus name and signatures.\n\nName Art to Write your name in art with Focus and Filter is Fingertip Art app. focus n filters - name art your name in stylish art way. ",
+    "icon": "/icons/appiz.calligraphyname.focusnfilters.png"
+  },
+  "app.xmobiles.seismo": {
+    "title": "Seismo - Earthquake Alerts",
+    "package": "app.xmobiles.seismo",
+    "description": "Seismo delivers real-time earthquake alerts and instant push notifications to keep you informed and safe, wherever you are.\n\nREAL-TIME EARTHQUAKE MONITORING\nStay up to date with the latest seismic activity worldwide. Seismo displays magnitude, depth, location, and timestamp for every earthquake as it happens. Data is sourced from trusted scientific agencies for maximum accuracy and reliability.\n\nINSTANT PUSH NOTIFICATIONS\nReceive alerts within seconds of earthquake detection. Never miss an important seismic event near you or anywhere in the world. Notifications are delivered instantly so you can take action when it matters most.\n\nCUSTOMISABLE ALERTS\nSet your own magnitude thresholds to receive only the alerts that matter to you. Whether you want to track all seismic activity or only signif",
+    "icon": "/icons/app.xmobiles.seismo.png"
+  },
+  "aquarium.live.wallpaper.keyboard": {
+    "title": "3D Aquarium Live Wallpaper",
+    "package": "aquarium.live.wallpaper.keyboard",
+    "description": "Transform your phone with aquarium live wallpaper and an interactive keyboard featuring a stunning 3D aquarium wallpaper. Experience an immersive underwater environment with live wallpaper aquarium effects, beautiful marine life, and a dynamic typing experience. This app combines the beauty of a digital aquarium with a keyboard, allowing you to enjoy a tranquil and colorful aquatic theme on your device.\n\nPersonalize Your Device with a Live Aquarium Experience\n\nWith aquarium live wallpaper, your screen comes to life with tropical fish, vibrant coral, and realistic underwater animations. Whether you prefer a calm marine scene or an active fish aquarium, this app lets you choose from a wide selection of 3D aquarium wallpapers. The keyboard is designed to match your live wallpaper aquarium, en",
+    "icon": "/icons/aquarium.live.wallpaper.keyboard.png"
+  },
+  "apps.tipcalculator": {
+    "title": "Tip Calculator- Split Bill",
+    "package": "apps.tipcalculator",
+    "description": "Easily calculate tips, split bills, and round up totals with this beautifully designed and user-friendly Tip Calculator. Whether you're dining with friends, traveling abroad, or simply double-checking your bill, this app makes tipping effortless.\n\n\u2705 Key Features:\n\ud83d\udcb5 Smart Tip Calculation\nEnter the bill amount, adjust the tip percentage, and see results instantly.\n\n\ud83d\udc65 Split the Bill\nDivide the total amount equally among multiple people in seconds.\n\n\ud83d\udd04 Round-Up Option\nChoose to round up the final total for convenience and cleaner amounts.\n\n\ud83c\udf9a\ufe0f Interactive Tip Slider\nAdjust the tip percentage using a smooth, responsive seek bar.\n\n\ud83c\udfa8 Modern and Minimal UI\nDesigned for simplicity and ease of use, with a clean and attractive layout.\n\n\ud83c\udf17 Dark Mode Support\nAutomatically follows your device's light/dark ",
+    "icon": "/icons/apps.tipcalculator.png"
+  },
+  "arcade.game.maker.block.puzzle": {
+    "title": "Block Puzzle - Wood Blast",
+    "package": "arcade.game.maker.block.puzzle",
+    "description": "Block Puzzle - Wood Blast is a classic yet innovative, fun and addictive block puzzle game that is perfect to pass the time.\n\nBlock Puzzle - Wood Blast has two game modes:\n\u2022 Classic Block Puzzle Mode: Drag different colored blocks onto the board and match as many blocks as possible. The game keeps offering blocks of various shapes until there is no room left on the board.\n\u2022 Cube Adventure Mode: New Mode! New mode! New mode! Interesting world! Various levels! Pure puzzles!\n\nIt's completely free and can be played offline, no internet connection required.\n\nWhich gameplay:\n\u2022 Drag and drop colored tiles onto the 8x8 panel to combine them.\n\u2022 Match rows or columns to clear colored blocks.\n\u2022 Choose the best position for the colored tiles based on their shape.\n\u2022 Earn extra points by matching multip",
+    "icon": "/icons/arcade.game.maker.block.puzzle.png"
+  },
+  "at.ner.SolitaireKlondike": {
+    "title": "Solitaire - Classic Card Games",
+    "package": "at.ner.SolitaireKlondike",
+    "description": "The most relaxing and addictive free classic Solitaire card game! The original Solitaire or Patience is just for you! Enjoy the best free and popular original Solitaire card games in the world for free at any time! It is time to train your brain, challenge yourself and be a Solitaire master. Try this original, classic, and free Patience Solitaire card game!\n\nSolitaire games, also known as Patience in Europe, are Solitaire card games played by a single player. This is not a social casino game. You can enjoy original Solitaire anytime without real money. This is the top choice for free Solitaire card games.\n\nHow to play these free original Solitaire card games? To solve this free Solitaire card puzzle, move all Solitaire cards of the four suits to the Solitaire Foundations. There are 52 Soli",
+    "icon": "/icons/at.ner.SolitaireKlondike.png"
+  },
+  "au.com.btoj.receiptmaker": {
+    "title": "Receipt Maker",
+    "package": "au.com.btoj.receiptmaker",
+    "description": "Make Receipts on the go \nReceipt Maker will help you generate receipts whenever you want. \nReceipt Maker will be your go-to e-receipts app!\n\n\n  How to create e-Receipts \nYou can includes the following information;\n- Receipt number\n- Date\n- Time\n- Amounts\n- Taxes\n- Items\n- Payment methods\n\nAll titles are editable so you can customise as much as you want.\n\nNo need to buy paper based receipt book.\nThis app will be perfect for shop owners, cafe owners, landloads, tenant management, freelancer, small business owners, cleaners, trades people, gig workers etc. \nYou can also use as invoices by changing the title.\nAll the receipts are easy to track.\nGo green with Receipt Maker :)\n\n\n  Key Features  \n- eReceipt maker\n- PDF Receipts generator\n- Send via Email, Text\n- Share via other online tools\n- All",
+    "icon": "/icons/au.com.btoj.receiptmaker.png"
+  },
+  "au.com.bure.apps.freecell": {
+    "title": "FreeCell Solitaire",
+    "package": "au.com.bure.apps.freecell",
+    "description": "FreeCell Solitaire, no ads, no frills. Options include background colour changing, left-handed undo, and foundation location customisation. Unlimited undo and easy restart allow for fun and relaxing gameplay.",
+    "icon": "/icons/au.com.bure.apps.freecell.png"
+  },
+  "au.com.speedinvoice.android": {
+    "title": "Invoice Maker",
+    "package": "au.com.speedinvoice.android",
+    "description": "Invoice maker from SpeedInvoice will give you professional invoices with a choice of +500 background images. This invoice maker is also a estimate generator and is perfect for companies, contractors or freelancers. Work wherever you are!\n\nBring your office on your phone!\nYou can email, print or share any invoice or estimate with other apps such as Facebook, WhatsApp or SMS. You have an invoice template with a professional design that can be sent as a PDF or JPG. SpeedInvoice makes your business look good and is easy to work with! You can profile your business with your logo and a flexible design to create a great looking business invoice. You can sign your invoices, as well as let your customers sign on your phone or tablet to accept an invoice, a quote or estimate. SpeedInvoice is a quick",
+    "icon": "/icons/au.com.speedinvoice.android.png"
+  },
+  "audioeditor.mp3cutter.musiceditor": {
+    "title": "Audio Editor, MP3 Cutter",
+    "package": "audioeditor.mp3cutter.musiceditor",
+    "description": "\ud83c\udfb5 Searching for a professional audio editor and music editor?\n\ud83c\udfb5 Want to edit audio or cut music in multiple formats effortlessly?\n\nLook no further - Audio Editor, MP3 Cutter is your best choice! Experience the power of cutting and editing audio with millisecond precision!\n\nAudio Editor, MP3 Cutter is a professional music editor and sound editor. Whether you want to cut multiple unwanted segments from the audio or keep/delete the selected segment, this audio cutter can meet all your needs. It also acts as a handy music cutter and song editor, allowing you to edit and refine music effortlessly.\n\nAudio Cutter offers zoomable visual audio waveforms for precise cutting and trimming. It supports a wide range of audio formats, allows unlimited edits, and features an intuitive user interface.\n\nFre",
+    "icon": "/icons/audioeditor.mp3cutter.musiceditor.png"
+  },
+  "az.ivytech.animals_en": {
+    "title": "Animals for Kids: Learn",
+    "package": "az.ivytech.animals_en",
+    "description": "Discover the world of animals through fun sounds, colorful visuals and gentle learning games!\n\nKids' World of Animals introduces children to wildlife in an exciting and interactive way. Each animal includes bright illustrations, clear voice pronunciations, and realistic sounds to help young learners explore nature with curiosity and joy.\n\nFrom farm animals to jungle creatures, this app gives children a safe and playful space to learn, tap, listen and recognize animals independently.\n\nKey Features\n\n\u2022 Animal Flashcards \u2013 Tap to hear each animal\u2019s name with friendly voiceovers.\n\n\u2022 Realistic Animal Sounds \u2013 Lions, elephants, birds, pets, farm animals and more.\n\n\u2022 Mini Games \u2013 Matching, tapping, sorting and recognition activities that reinforce learning.\n\n\u2022 Bright Illustrations \u2013 Colorful desig",
+    "icon": "/icons/az.ivytech.animals_en.png"
+  },
+  "babyAnimal.andorid": {
+    "title": "Animal Sound for Kids",
+    "package": "babyAnimal.andorid",
+    "description": "With Baby Animal your baby can enjoy itself and learn name and sound of more than 60 animals animal and hear their pronunciation, \nlisten in 5 languages.\nYou can also set the sound as ringtone!\nPress to listen the sound of the animal and slide to change animal, Click on the name and learn the pronunciation and associate the sound! \nkids  will easly learn how to swap image and play sound \nplay all the animals in each category as a presentation \nyou can use as a ringtone and associate the sound of animal for each contact, the sounds are loaded on the memory card in the Ringtone folder so you can use for other purpose.\n\nSupported Languages\n--English\n--French\n--Spanish\n--Italian\u00a0\n--Portuguese\n\nif you like this app please rate it!\nif you experience some problem, on some device feel free to  con",
+    "icon": "/icons/babyAnimal.andorid.png"
+  },
+  "beetles.puzzle.solitaire": {
+    "title": "Solitaire - Classic Card Games",
+    "package": "beetles.puzzle.solitaire",
+    "description": "Solitaire - Classic Solitaire Card Games by Oakever Games\nreveals a captivating world of classic solitaire card games, making it a perfect match for enthusiasts of classic games and solitaire lovers alike! If you're a real fan of card games, especially of Solitaire Classic, then diving into Solitaire - Classic Solitaire Card Games by Oakever Games is a MUST. It's not merely a game;  it's a journey back to those classic vibes, a real trip down memory lane. You're going to adore it! Don't hesitate! \nPLAY Solitaire - Classic Solitaire Card Games today on your iPad and Phones for FREE on your iPad and phone and start your solitaire journey!\n\nSOLITAIRE \u2013 The Classic Card Game Now on Your Phone!\nSOLITAIRE, the classic card game we all loved on computers, is now super easy to enjoy on your phone ",
+    "icon": "/icons/beetles.puzzle.solitaire.png"
+  },
+  "bible.trivia.quiz.question.answer.spelling.correct.knowledge.test.game": {
+    "title": "Bible Trivia - Word Quiz Game",
+    "package": "bible.trivia.quiz.question.answer.spelling.correct.knowledge.test.game",
+    "description": "\ud83e\udde0Are you ready to test your knowledge and deepen your understanding of the Christian faith? Bible Trivia combines knowledge with fun, providing a new way to learn Christianity. Through daily trivia quizzes, you can train your brain and expand your understanding of the Old and New Testaments, while learning more about the rich stories in the Bible.\n\n\nWarning: Highly addictive! Once you start progressing through the levels, you won\u2019t be able to stop! In Bible Trivia, you learn by levels, and in a short time, you will become a knowledgeable scholar! Play the free trivia quiz game and increase your knowledge now. Engaging Bible questions and answers will guide you through the important facts of Christianity. You'll love this word game if you're a fan of Bible games or trivia puzzle! With new d",
+    "icon": "/icons/bible.trivia.quiz.question.answer.spelling.correct.knowledge.test.game.png"
+  },
+  "bible.word.games.trivia.quiz.puzzle.free": {
+    "title": "Bible Trivia and Word Games",
+    "package": "bible.word.games.trivia.quiz.puzzle.free",
+    "description": "\u271d\ufe0f Learn God\u2019s Word in a Fun and Inspiring Way!\n\nDiscover the beauty of scripture through engaging word games that make learning fun and meaningful. Bible Word Game and Trivia combines entertainment with spiritual growth, offering players an interactive way to deepen their biblical knowledge while enjoying challenging gameplay.\n\nTest your biblical knowledge through exciting puzzle challenges as you work toward the ultimate goal: collecting every book of the Bible!\n\n\ud83e\udde0 Three Engaging Challenges:\nBiblical Trivia - Put your scripture knowledge to the test with thought-provoking questions\nFill the Blanks - Connect letters to complete meaningful Bible-related statements\nWord Connect Wheel - Connect letters to discover hidden biblical terms of various lengths\n\n\ud83d\udcd6 Your Spiritual Journey:\nProgress t",
+    "icon": "/icons/bible.word.games.trivia.quiz.puzzle.free.png"
+  },
+  "bibletrivia.bible.trivia.quiz": {
+    "title": "Bible Trivia",
+    "package": "bibletrivia.bible.trivia.quiz",
+    "description": "Are you ready to challenge your Bible knowledge? The Bible Quiz Game will take you into a world of wisdom and fun! This game contains thousands of selected Bible questions covering classic stories and teachings from the Old and New Testaments to help you deepen your understanding and memory of the Bible.\nIn each level, you can not only test your Bible knowledge, but also easily overcome the difficult questions with the help of the game hints and the function of removing wrong answers, gradually improving your answer level.\n\nHow to play The Bible Quiz Game:\n\u271d Choose the correct answer from the multiple choices for each question; \n\u271d Challenge your quick reflexes as each question has a time limit; \n\u271d Hints and removal of wrong answers are included in the game to help you pass the level easily",
+    "icon": "/icons/bibletrivia.bible.trivia.quiz.png"
+  },
+  "bibvia.bible.trivia.quiz.game": {
+    "title": "Bibvia: Bible Trivia Quiz Game",
+    "package": "bibvia.bible.trivia.quiz.game",
+    "description": "Welcome to Bibvia, a free Bible trivia game designed for anyone who enjoys a meaningful challenge.\n\nExplore Scripture through a fun and engaging multiple choice quiz format that makes learning simple and enjoyable. Play chapter by chapter and experience structured progression that supports steady growth.\n\nEach level presents a new test to gauge your knowledge and deepen your understanding of the Word. Whether you are a beginner or experienced, this app is suitable for all skill levels.\n\nAnswer questions correctly to earn gems and advance through this rewarding experience. Use your points to unlock helpful hints, such as removing two wrong answers or adding more time to the clock.\n\nThis game is designed to make every session both educational and engaging. If you need help, you can easily re",
+    "icon": "/icons/bibvia.bible.trivia.quiz.game.png"
+  },
+  "billiards.shooting.ball.games": {
+    "title": "Billiards: 8 Ball Pool",
+    "package": "billiards.shooting.ball.games",
+    "description": "\ud83c\udfc6 Step into the world of Billiards: 8 Ball Pool, the definitive 8 ball pool simulator designed for enthusiasts of classic billiards sports games.  Experience authentic physics and precise controls as you compete in high-stakes matches. Whether you are a 8ball seasoned pro or a 8 pool casual player, this 8 ball pool games offers a refined environment to sharpen your sports games skills in 8 pool sessions.\n\n\ud83d\udd79\ufe0f As one of the immersive billiards sports games available, our 8 ball pool games mechanics ensure that every shot feels natural. Explore various modes, including challenging 8 ball pool tournaments and relaxing billiards offline games. If you prefer playing without an internet connection, our billiards offline games mode allows you to practice your 8ball technique anytime.\n\n\ud83c\udfb1 Mastering ",
+    "icon": "/icons/billiards.shooting.ball.games.png"
+  },
+  "block.puzzle.sudoku.free.game.classic.offline": {
+    "title": "Block Sudoku Woody Puzzle Game",
+    "package": "block.puzzle.sudoku.free.game.classic.offline",
+    "description": "\ud83e\udeb5 Block Sudoku combines a wood block puzzle game with a sudoku grid. It's a relaxing yet strategic cube block puzzle that will have you hooked in no time! \ud83e\udde9\nBuild rows, columns, or 3x3 squares to remove cube blocks. Keep the board empty and compete against the algorithm to test your IQ! \ud83e\udde0 Play as long as you can to challenge your record in this wooden block puzzle game! \u231b\n\nHow to play Block Sudoku - the Wood Blocks Puzzle Game:\n\u2714 Place wood cube blocks onto the grid to earn basic points. \ud83d\udce5\n\u2714 Build a row, column, or square to clear the board and win extra points. \ud83d\udd33\n\u2714 Streak: Remove cube blocks on every move to earn a Streak reward. \ud83d\udd25\n\u2714 Combo: Destroy multiple lines or squares for extra Combo points. \ud83d\udca5\n\nRelax and challenge yourself on the 9x9 wood block sudoku puzzle board. You can either en",
+    "icon": "/icons/block.puzzle.sudoku.free.game.classic.offline.png"
+  },
+  "block.wood.sudoku.game.classic": {
+    "title": "Wooden Block Adventure",
+    "package": "block.wood.sudoku.game.classic",
+    "description": "Wooden Block Adventure, the ultimate brain-teasing wood block puzzle game that will captivate you from the moment you start playing!\n\nPut your IQ to the test and sharpen your logic skills as you strategically place blocks on the wooden sudoku board, clearing rows, columns, or squares to achieve block-clearing mastery. And the best part? There's no time limit, so you can immerse yourself in the game for as long as you desire and aim to shatter your own high score! Whether you're at home or on the go, Wooden Block Adventure offers endless entertainment, even offline!\n\nPrepare to be enthralled by the unique twist this game brings to the classic sudoku experience. With its addictive gameplay and charming wooden block puzzles, Wooden Block Adventure guarantees hours of engaging fun. Whether you",
+    "icon": "/icons/block.wood.sudoku.game.classic.jpg"
+  },
+  "blockpuzzle.puzzlegames.wood.classic.offline": {
+    "title": "Woodscapes - Block Puzzle",
+    "package": "blockpuzzle.puzzlegames.wood.classic.offline",
+    "description": "Woodscapes - Block Puzzle. Enjoy the wonderful themes!\n\n\u2753 Why choose us?\n* Wonderful themes - Simple and natural interface.\n* 2022 new fun from classic puzzle game.\n* FREE game! NO need WiFi! NO time limit!\n* Suitable for everyone.\n* Leaderboard allows you to compete with wood puzzle fans all over the world.\n* Daily Challenge helps you sharpen mind.\n\n\u2753 How to play?\n* Tap the blocks to move them.\n* Place blocks in a vertical or horizontal line to clear them.\n* Make the score as high as you can.\n\nWe hope you will love Woodscapes - Block Puzzle.",
+    "icon": "/icons/blockpuzzle.puzzlegames.wood.classic.offline.png"
+  },
+  "blockpuzzle.wood.legend.jewel": {
+    "title": "Wood Block Puzzle 3D",
+    "package": "blockpuzzle.wood.legend.jewel",
+    "description": "Solve puzzles and blast wooden blocks along the way!\n\n\u2b50 Endless block puzzle levels and so much fun!\n\u2b50 Super popular game loved by 1M+ players!\n\n\ud83c\udf33 How to Play\n* Drag wood block pieces onto the wooden grid.\n* Filling a row or column to clear wood blocks.\n* Clear multiple lines of wood blocks to earn more points.\n* Merge wood blocks in a row to earn more points.\n* Beat your highest block puzzle IQ games score.\n\n\ud83c\udf33 Game Features\n* Easy to play, but challenging to master!\n* Beautiful graphics and satisfying sound effects.\n* Relaxing wood block game with no time limit.\n* Tetris-like game that all Tetris players would love!\n* Best brain trainer and IQ booster.\n* Playable offline to enjoy this puzzle game anywhere!\n\nLet's enjoy this simple and addictive 3D Wood Block Puzzle Classic game!\n\n\ud83d\udc8c Any qu",
+    "icon": "/icons/blockpuzzle.wood.legend.jewel.png"
+  },
+  "blockpuzzle.wood.sudoku.puzzlegames": {
+    "title": "Wood Block 99 - Sudoku Puzzle",
+    "package": "blockpuzzle.wood.sudoku.puzzlegames",
+    "description": "\ud83c\udf1f Wood Blocks + Sudoku = Your New Favorite Puzzle! \ud83c\udf32\nWelcome to Wood Blocks 99 \u2014 an addictive, brain-boosting game that perfectly blends the strategy of Sudoku with the thrill of block puzzles. \ud83e\udeb5 Slide, stack, and solve your way to victory on a beautiful wooden board. Every move brings you closer to puzzle mastery! \ud83e\udde9\n\n\ud83c\udfae How to Play\n\u2022 Drag & Drop: Place wooden blocks into the 9x9 grid.\n\u2022 Clear the Board: Complete a full row, column, or 3x3 square to clear blocks and earn points.\n\u2022 Combo for Bonus: Clear multiple lines at once to score massive combo points!\n\u2022 \ud83d\udca1 Pro Tip: Keep your grid clean and plan ahead to avoid running out of space!\n\n\u2728 Game Features\n\u2022 \ud83c\udf32 Natural Wooden Theme: A calming visual experience that brings nature right into your gameplay.\n\u2022 \ud83e\udde9 Sudoku-Style Grid: Add depth and strat",
+    "icon": "/icons/blockpuzzle.wood.sudoku.puzzlegames.png"
+  },
+  "blood.sugar.record.tool": {
+    "title": "Blood Sugar - Diabetes Tracker",
+    "package": "blood.sugar.record.tool",
+    "description": "**About This App**\n\nPeople living with diabetes understand the critical importance of blood sugar control. But have you ever found it all too cumbersome? Our smart blood sugar tracker, along with a wealth of information resources, makes it easy for you to record and analyze blood sugar levels, free yourself from the woes of chronic illness, and enhance your quality of life.\n\n**App Features:**\n\n\ud83d\udcdd **Effortless Blood Sugar Tracking**  \nNo more manual hassle of recording blood sugar values; we provide you with a convenient way to track them.\n\n\ud83c\udf7d **Categorized Blood Sugar Values**  \nFilter blood sugar values based on different time periods (e.g., before meals, after meals, fasting) to help you better understand blood sugar fluctuations.\n\n\ud83d\udcd6 **Automatic Blood Sugar Calculation**  \nThe app automati",
+    "icon": "/icons/blood.sugar.record.tool.png"
+  },
+  "bloodsugar.bloodsugarapp.diabetes.diabetesapp": {
+    "title": "Blood Sugar - Diabetes App",
+    "package": "bloodsugar.bloodsugarapp.diabetes.diabetesapp",
+    "description": "Blood Sugar App makes it easy and fast to record, monitor blood glucose, and manage your diabetes!\n\nOur app can make a quick analysis of your blood glucose levels and help you understand the meaning of measurement values. With just one tap, you can convert your blood sugar units (mg/dL, mmol/L). Besides, you will be able to master your health timely by tracking the evolutionary trend of blood sugar.\n\nAs your one-stop blood health companion, we\u2019ve got scientific knowledge and advice for you to prevent diabetes and keep healthy.\n\nKey Features for You:\n \ud83d\udcdd Easy to log, track and monitor your blood glucose levels\n \ud83d\udd0d Blood glucose readings analysis to tell if you are healthy\n \ud83d\udcc9 Clear charts help you monitor blood glucose and also useful to detect abnormalities in glycohemoglobin\n \ud83c\udff7 Customized ta",
+    "icon": "/icons/bloodsugar.bloodsugarapp.diabetes.diabetesapp.png"
+  },
+  "bloodsugartracker.bloodsugartracking.diabetesapp": {
+    "title": "Blood Sugar Tracker - Diabetes",
+    "package": "bloodsugartracker.bloodsugartracking.diabetesapp",
+    "description": "Life with diabetes seems like a minute-by-minute effort to stabilize your blood sugar. Feel too troublesome? This smart blood sugar recorder & best source is here for you to log and analyze without a hitch, preventing you from long-term health problems, and even improving your energy.\n\nWhat you can do with our app:\n\ud83d\udcdd Log your diabetes data with ease\n\ud83c\udf7d Filter blood sugar readings by type of event (before a meal, after a meal, fasting, etc.)\n\ud83d\udcd6 Get auto-calculated blood sugar levels. Know whether you are normal, prediabetes, or diabetes quickly and easily.\n\ud83d\udcc8 Edit the range of your blood sugar level giving your condition\n\ud83d\udd16 Tag your blood sugar records. Add notes like insulin, medication, pregnancy, etc. to specify your readings.\n\ud83d\udcca Inspect clear charts to grasp every change\n\ud83d\udcc6 Track daily, weekl",
+    "icon": "/icons/bloodsugartracker.bloodsugartracking.diabetesapp.png"
+  },
+  "bodyfast.zero.fastingtracker.weightloss": {
+    "title": "Fasting - Intermittent Fasting",
+    "package": "bodyfast.zero.fastingtracker.weightloss",
+    "description": "Intermittent Fasting 16:8 will guide you to a new lifestyle with healthy habits. You\u2019ll lose weight effectively and feel more active! No diet and no yo-yo effect.\n\nIS IT EFFECTIVE?\nIt\u2019s proven that intermittent fasting leads to fast weight loss. During fasting, as your glycogen depletes, your body switches to ketosis, which is referred to as the body's \"fat-burning\" mode. This is an effective way to burn fat.\n\nIS IT SAFE?\nYes. It\u2019s the most natural and safe way to lose weight. Studies show that eating all the time makes your body unable to take a break from digesting, which can result in health problems, such as diabetes. When you fast, you just take a break from eating, it takes some of the load off your liver.\n\nCAN I USE FASTING TRACKER?\nWith various fasting plans, fasting tracker is sui",
+    "icon": "/icons/bodyfast.zero.fastingtracker.weightloss.png"
+  },
+  "bp.bloodapp.bloodtrackerapp": {
+    "title": "Blood Sugar Tracker: Diabetes",
+    "package": "bp.bloodapp.bloodtrackerapp",
+    "description": "Manage your health with the most advanced AI Blood Sugar Tracker and Diabetes Log of 2026.\n\nAre you looking for a reliable way to monitor your glucose levels and stay ahead of your health goals? Trusted Blood Sugar Tracker is an all-in-one diabetes logbook engineered for Type 1, Type 2, and Gestational Diabetes. Our elite glucose tracker simplifies daily logging, providing you with deep insights into your blood sugar levels without the need for complex medical equipment.\n\nWHY TRUSTED BLOOD SUGAR TRACKER IS THE #1 CHOICE:\n\nTHE ULTIMATE GLUCOSE LOGGING EXPERIENCE\n\nInstant Blood Sugar Log: Record your readings in one tap. Our high-speed interface is built for the frequent blood glucose tracker.\n\nSmart A1C Calculator: Get a real-time estimated A1C based on your average readings. No more waitin",
+    "icon": "/icons/bp.bloodapp.bloodtrackerapp.png"
+  },
+  "br.com.blackmountain.photo.tattoosimulator": {
+    "title": "Tattoo Simulator Tattoo Maker",
+    "package": "br.com.blackmountain.photo.tattoosimulator",
+    "description": "Apply the best tattoo design to your photo with the Tattoo Design Maker app! \n\n\u2712\ufe0f\u2712\ufe0f\u2712\ufe0f\n\nWelcome to the world of self-expression and creativity. Introducing our state-of-the-art Inkhunter Tattoo Maker app, the top tool for transforming your ideas into digital ink art. You have complete control over designing your original tattoo designs while seeing them appear naturally on your images thanks to a large selection of preinstalled tattoos and a set of strong customization tools.\nEnter the creative path that lies ahead of you, where you'll be producing wearable works of art rather than just applying tattoo design.\n\nKey Features of Tattoo Maker app:\n\n\u0f3a\u2661\u0f3b 1. Unlimited Tattoos are Pre-Installed:  \u0f3a\u2661\u0f3b\nOur software contains numerous pre-loaded fake tattoo designs that cover a wide range of styles, f",
+    "icon": "/icons/br.com.blackmountain.photo.tattoosimulator.png"
+  },
+  "br.com.hicasys.receipt_quotation": {
+    "title": "Receipt Maker",
+    "package": "br.com.hicasys.receipt_quotation",
+    "description": "Are you still wasting time filling out paper receipt books or dealing with clunky spreadsheets on your computer?\nIt\u2019s time to modernize your business with receipt maker, the #1 app for professionals seeking speed, professionalism, and organization right in the palm of their hand.\n\nWhether you\u2019re a freelancer or a small business owner, your professional image is everything. With our app, you can generate professional receipts and quotes in PDF or image format in less than a minute and send them directly via WhatsApp or Email.\n\n\n\ud83d\ude80 Why choose Receipt and Quote Generator?\nOur app was designed specifically for the busy routine of service providers and merchants. We combine simplicity with powerful features so you can focus on what really matters: selling more and getting paid on time.\n\n\n\ud83d\udccb Key F",
+    "icon": "/icons/br.com.hicasys.receipt_quotation.png"
+  },
+  "bubble.shoooter.tom.kitty.cat": {
+    "title": "Bubble Shooter Classic 2",
+    "package": "bubble.shoooter.tom.kitty.cat",
+    "description": "Experience the thrill of the Classic Bubble Shooter! \ud83c\udfaf\ud83d\udca5\n\n\n\nReady for some popping action? Dive into the most addictive bubble puzzle game on the store! Whether you are a puzzle pro or a beginner, this game will keep you entertained for hours. Aim, match, and smash all the colorful balls in this relaxing adventure.\n\n\n\n\u2728 CLASSIC GAMEPLAY, MODERN FUN\n\nSimple rules, infinite fun! Your goal is to clear the board by matching 3 or more bubbles of the same color. But don't be fooled by the simplicity\u2014each level presents a unique layout that requires logic and strategy to solve. Can you get 3 stars on every map?\n\n\n\n\ud83d\ude80 KEY FEATURES\n\n\n\n\ud83d\udd34 Thousands of Exciting Levels\n\nJourney through a world of bubbles! We have designed over 2000+ levels with increasing difficulty. New challenges are added regularly to",
+    "icon": "/icons/bubble.shoooter.tom.kitty.cat.png"
+  },
+  "bubble.shooter.bear.game.free": {
+    "title": "bubble.shooter.bear.game.free",
+    "package": "bubble.shooter.bear.game.free"
+  },
+  "bubble.shooter.cat.kitty.free": {
+    "title": "Bubble Shooter Classic",
+    "package": "bubble.shooter.cat.kitty.free",
+    "description": "Bubble Shooter Pop - The Ultimate Match 3 Puzzle Adventure!\n\nAre you ready to pop, blast, and aim your way through a magical bubble shooter journey? Join the fun in Bubble Shooter Pop \u2013 the #1 classic bubble pop game loved by millions worldwide! \u2728\ud83c\udf88 Dive into the best free match 3 puzzle game that combines addictive bubble shooting, brain-teasing logic, and thrilling bubble blasting action!\n\nRelax & Train Your Brain with Classic Bubble Popping Fun!\n\nUnwind in a vibrant, colorful world of bubbles \u2013 whether you\u2019re a fan of complex puzzle games or laid-back casual arcade games, this is the perfect time-killer for you! Match 3 colors, clear the board, and conquer every challenge in this addictive bubble saga. Just like Solitaire or Sudoku, it\u2019s a fantastic brain training game to keep your mind ",
+    "icon": "/icons/bubble.shooter.cat.kitty.free.png"
+  },
+  "bubble.shooter.pop.marble.cannon.match.color.three.puzzle.game": {
+    "title": "Bubble Shooter - Pop Puzzle",
+    "package": "bubble.shooter.pop.marble.cannon.match.color.three.puzzle.game",
+    "description": "Bubble Shooter \u2013 Classic Bubble Pop Game Free! Step into the colorful world of bubble shooter, where you can aim, shoot bubble, and clear levels filled with exciting challenges. This bubble game brings the timeless fun of popping bubbles game to your device, offering both relaxing play and tricky puzzles that require focus and skill.\n\nBubble Shooter Gameplay:\n1. Line up your shot with the bubble shooter cannon.\n2. Shoot bubbles to match three or more of the same color.\n3. Watch them explode in a chain of bubble pop reactions.\n4. Keep going until the board is clear and the level is complete.\n\nEvery shot matters. The more accurate you are, the faster you\u2019ll advance in this bubble shooter classic.\n\nFeatures of the Bubble Game:\n\u2713 Free Bubble Games with thousands of levels to explore.\n\u2713 Bubble ",
+    "icon": "/icons/bubble.shooter.pop.marble.cannon.match.color.three.puzzle.game.png"
+  },
+  "bubbleshooter.classic": {
+    "title": "Bubble Shooter Classic",
+    "package": "bubbleshooter.classic",
+    "description": "Enjoy the most addictive Bubble Shooter Classic game! Blast & pop bubbles to unlock new exciting challenges.\n\nIf you consider yourself a fan of vintage games like bubble shooter \u2122, then this classic game should be on your must-have list. Play the thrilling bubble pop game for free, aim carefully to hit the target and unlock fun boosts and power-ups. Put your matching talents to the test in this super fun bubble shooter \u2122 game. Play thousands of new puzzle levels, shoot and pop all the balls, beat all the challenges and win coins. It\u2019s extremely addictive!\n\nBubble Shooter Classic is simple and easy to learn, perfect for both adults and kids to enjoy.\nGot a free minute to spare? Looking for a fun puzzle game to play during long car rides? What can be more fun than shooting and popping colorf",
+    "icon": "/icons/bubbleshooter.classic.png"
+  },
+  "buttocksworkout.hipsworkout.bootyworkout.legworkouts": {
+    "title": "Buttocks Workout - Hips, Butt",
+    "package": "buttocksworkout.hipsworkout.bootyworkout.legworkouts",
+    "description": "Want to burn butt fat? Want to grow your butt?\n\nSuper effective butt workouts help you get a perfect butt faster than other workouts! Just a few minutes a day, in just 4 weeks, you will make your butt even more beautiful!\n\nTraining Plans for Different Goals\nButt fat burning - for those who want to reduce butt fat, get a toned and firm butt.\nButt growth - for those who want to grow their butt. It focuses on building a round and lifted butt fast without growing the thighs.\n\nEach training plan has two difficulty levels, and all plans are designed by professional fitness coach. Beginner friendly, easy to get started and suitable for both beginner and pro.\n\nNo Equipment Needed\nVaried, short and effective workouts every day to make you sweat, and keep daily training simple and fun. No equipment ",
+    "icon": "/icons/buttocksworkout.hipsworkout.bootyworkout.legworkouts.png"
+  },
+  "bzn.christian.addiction.recovery": {
+    "title": "Faitheal -Christian recovery",
+    "package": "bzn.christian.addiction.recovery",
+    "description": "Faitheal is a Christian addiction recovery app, helping you track self-harm behavior, stay sober through Christ, prevent relapse, quit smoking, drugs, alcohol, porn, and any other addictions. Strengthen your walk with God, overcome bad habits, and live a Spirit-led, addiction-free life through biblical encouragement and Christ-centered support.\n\nOur Christ-centered recovery plan combines the latest discoveries in neuroscience with powerful Biblical truths. Along with tracking your sober days, it helps you rewire your mind, renew your spirit, and provides daily Christian motivation to stay sober, quit addictions like smoking, drinking, porn, vaping, drugs, unhealthy food, social media, impulsive sex, gambling, lying, and more, so you can live a healthier, God-glorifying life.\n\nPREVENT RELAP",
+    "icon": "/icons/bzn.christian.addiction.recovery.png"
+  },
+  "canada.ottawa.kurdishscripttranslate": {
+    "title": "Kurdish Script Translator",
+    "package": "canada.ottawa.kurdishscripttranslate",
+    "description": "\u0626\u06d5\u0645 \u0628\u06d5\u0631\u0646\u0627\u0645\u06d5\u06cc\u06d5 \u0646\u0648\u0633\u06cc\u0646\u06cc \u06a9\u0648\u0631\u062f\u06cc \u0646\u0648\u0633\u0631\u0627\u0648 \u0628\u06d5 \u0633\u06a9\u0631\u06cc\u067e\u062a\u06cc \u0644\u0627\u062a\u06cc\u0646\u06cc \u062f\u06d5\u06af\u06c6\u0631\u06ce\u062a \u0628\u06c6 \u0626\u0627\u0631\u0627\u0645\u06cc \u0648 \u0628\u06d5 \u067e\u06ce\u0686\u06d5\u0648\u0627\u0646\u06d5\u0634. \u062f\u06d5\u062a\u0648\u0627\u0646\u06cc \u0628\u06d5 \u0647\u06d5\u0631\u062f\u0648 \u0634\u06ce\u0648\u06d5\u0634 \u0628\u06cc\u0646\u0648\u0633\u06cc. \u200c\u200c\u0647\u06d5\u0631\u0648\u06d5\u0647\u0627 \u062f\u06d5\u062a\u0648\u0627\u0646\u06cc \u0641\u0627\u06cc\u0644\u06ce\u0643 \u06a9\u06d5 \u0628\u06d5 \u062a\u06ce\u06a9\u0633\u062a  .txt \u0647\u06d5\u0644\u06af\u06cc\u0631\u0627 \u0628\u06ce\u062a \u0626\u0627\u067e\u0644\u06c6\u062f \u0628\u06a9\u06d5\u06cc \u0648 \u0634\u06cc\u0648\u0627\u0632\u06cc \u0646\u0648\u0633\u06cc\u0646\u06d5\u06a9\u06d5\u06cc \u0628\u06af\u06c6\u0631\u06cc. \u062f\u0648\u0627\u06cc \u06af\u06c6\u0631\u0627\u0646\u06cc\u0634 \u062f\u06d5\u062a\u0648\u0627\u0646\u06cc \u0626\u0627\u0644\u0648\u06af\u06c6\u0631\u06cc \u0644\u06d5 \u062a\u06ce\u06a9\u0633\u062a\u06d5\u06a9\u06d5 \u0628\u06a9\u06d5\u06cc \u0648 \u0647\u06d5\u0648\u0631\u06d5\u0647\u0627 \u062a\u06ce\u06a9\u06d5\u0633\u062a\u06d5 \u0646\u0648\u06ce\u06cc\u06d5\u06a9\u06d5 \u0647\u06d5\u0644\u0628\u0698\u06ce\u0631\u06cc \u0644\u06d5 \u0641\u0627\u06cc\u0644\u06ce\u06a9\u062f\u0627  \u0628\u06cc\u067e\u0627\u0631\u06ce\u0632\u06cc.   \u0626\u06ce\u0645\u06d5 \u062a\u06d5\u0646\u0647\u0627 \u067e\u06ce\u062a\u06d5\u06a9\u0627\u0646 \u062f\u06d5\u06af\u06c6\u0631\u06cc\u0646 \u0628\u06d5\u06b5\u0627\u0645 \u0648\u0648\u0634\u06d5\u06a9\u0627\u0646 \u0644\u06d5 \u0633\u06c6\u0631\u0646\u06cc \u0628\u06c6 \u0628\u0627\u062f\u06cc\u0646\u06cc \u0646\u0627\u06af\u06c6\u0631\u06cc\u0646. \u0626\u06d5\u06af\u06d5\u0631 \u0626\u0627\u0631\u0648\u06d5\u0632\u06d5\u06cc \u0647\u0627\u0648\u06a9\u0627\u0631\u06cc\u062a \u0647\u06d5\u06cc\u06d5 \u0644\u06d5\u0645\u06d5\u06cc \u062f\u0648\u0627\u06cc\u06cc \u067e\u06d5\u06cc\u0648\u06d5\u0646\u062f\u06cc\u0645\u0627\u0646 \u067e\u06ce\u0648\u06d5 \u0628\u06a9\u06d5\u0646.  amwloodyunis@wlu.ca\n\n\nem bernameye nus\u00een\u00ee kurd\u00ee nusraw be skr\u00eept\u00ee lat\u00een\u00ee degor\u00eat bo aram\u00ee \u00fb be p\u00ea\u00e7ewane\u015f. detwan\u00ee be herdu \u015f\u00eawe\u015f b\u00eenus\u00ee. herweha detwan\u00ee fayl\u00eak ke be t\u00eakst  .txt helg\u00eera b\u00eat aplod bkey \u00fb \u015f\u00eewaz\u00ee nus\u00eenekey bgor\u00ee. dway goran\u00ee\u015f detwan\u00ee alugor\u00ee le t\u00eaksteke bkey \u00fb hewreha t\u00eakeste nw\u00eayeke helbj\u00ear\u00ee le fayl\u00eakda  b\u00eepar\u00eaz\u00ee.   \u00eame tenha p\u00eateka",
+    "icon": "/icons/canada.ottawa.kurdishscripttranslate.png"
+  },
+  "card.games.free.cell.freecell.solitaire": {
+    "title": "FreeCell Solitaire",
+    "package": "card.games.free.cell.freecell.solitaire",
+    "description": "Play classic Free-Cell! Challenge yourself everyday by completing one of the most classic card games.\n\nWe designed the game to be perfect for mobile phones and let you feel like you're playing real solitaire with actual cards on a table. The graphics are sharp and realistic.\n\nThe controls are perfect for all players. You can tap on cards or drag them to move them. Choose how you want to play!\n\nPlay our card game if you enjoy casino card games and casual games NOW!\n\nFeatures of Free-Cell:\n- Play unlimited games for free! No lives!\n- Cards are easy to read\n- Tap on a card or drag a card to move it\n- Unlimited free undos\n- Animation on cards\n- Automatically save your best time and your total number of wins. Beat your personal records!\n- Automatically save your progress",
+    "icon": "/icons/card.games.free.cell.freecell.solitaire.png"
+  },
+  "cat.ereza.sounds.cats": {
+    "title": "Cat Sounds",
+    "package": "cat.ereza.sounds.cats",
+    "description": "Cat Sounds contains 45 different sounds of cats, so you can listen to them at any time, without the need of a data connection!\n\nWant to play with your cat or confuse him? Or maybe you just want to hear some cat sounds? Whatever the reason you have, you will get a nice collection of cat sounds: meowing, hissing, growling, purring, angry cats, little kittens, etc. \n\nApart from playing them, you can also do the following:\n\u2022 Define a set of sounds as favorites, so you can access them quickly.\n\u2022 Define them as notification, phone, alarm or contact ringtones.\n\u2022 Send them through WhatsApp, Telegram, e-mail or MMS.\n\u2022 Add sounds as widgets on the desktop.\n\u2022 Play random sounds.\n\u2022 Use the Prank Mode to play with your cat (or maybe your dog, who knows!). The sound will play when you (or your cat) move",
+    "icon": "/icons/cat.ereza.sounds.cats.png"
+  },
+  "cat_meow_sounds.manitdev.info": {
+    "title": "Cat meow sounds",
+    "package": "cat_meow_sounds.manitdev.info",
+    "description": "Cat Meow Sounds \u2013 Your Purrfect Sound Companion!\nTransform your everyday notifications and alarms with the delightful sounds of cats! Whether you\u2019re looking to relax, add a touch of whimsy to your phone, or simply want a unique ringtone, Cat Meow Sounds is here to elevate your auditory experience.\nKey Features:\n\nSet as Ringtone: Choose from a variety of charming cat meows to personalize your calls.\nSet as Notification: Make your messages more enjoyable with feline-inspired alerts.\nSet as Alarm: Wake up to the soothing sounds of cats, making mornings a little brighter.\nFavorites Sound: Easily save your top picks for quick access anytime.\nOffline App: Enjoy all the sounds without needing an internet connection!\n\nUser Benefits:\n\nPerfect for notifications and ringtones that stand out from the ",
+    "icon": "/icons/cat_meow_sounds.manitdev.info.png"
+  },
+  "ch.d7.astro.mini.app": {
+    "title": "Astro Numerology & Biorhythm",
+    "package": "ch.d7.astro.mini.app",
+    "description": "Buy once, use unlimited. Completely offline and without banner ads. AstroUniversa MINI - The Numerology & Biorhythm App.\n\nNUMEROLOGY ANALYSES\nWith the help of Pythagorean numerology we calculate all life numbers (life path, destiny, personality, soul urge, balance, pinnacles, challenges) and the current day numbers as well as your personal magic square based on your date of birth, name, first name and middle name.\n\nBIOPHASE RHYTHMS\nCreate detailed bio-rhythms with a main bio index over all 11 different biophase values. Curve diagrams and tables from the current day, week and month provide an overview of the period of up to 90 days and give detailed information about your current bio-phases at each stage.\n\nASTRO PROFILE\nIn the astro-profile you will find some information determined by the d",
+    "icon": "/icons/ch.d7.astro.mini.app.png"
+  },
+  "cloud.ledgers": {
+    "title": "LEDGERS - Send GST Invoice",
+    "package": "cloud.ledgers",
+    "description": "LEDGERS App can be used to easily create GST invoices, perform GST search, find GST rates, track purchases and maintain GST compliance.\n\nAccounting knowledge or experience is not required to maintain compliance and file GST returns using LEDGERS App.\n\nGST Invoice\nCreate, track and send professional GST invoice, quotes or bill of supply through Whatsapp, SMS and email. Automated GST rate and GST applicability calculator to ensure error-free invoices.\n\nPurchasing\nOn-board vendors, create and send purchase orders. Track vendor payments, purchase invoices and reconcile input tax credit directly from LEDGERS with GSTN API connect.\n\nConnected Banking\nSend NEFT, RTGS and IMPS payments directly from LEDGERS using your ICICI Bank Current Account. Sync bank statement and reconcile bank transactions ",
+    "icon": "/icons/cloud.ledgers.png"
+  },
+  "club.onepercent.javascript_tutorial": {
+    "title": "Learn JavaScript - OnePercent",
+    "package": "club.onepercent.javascript_tutorial",
+    "description": "Whether you're learning JavaScript Programming as a hobby, for school/college, or to build a career, this tutorial has you covered! It takes you from basics to advanced concepts like data structures \u2014 all with a sleek, interactive interface.\n\nWhy Choose JavaScript Tutorial?\n- Free with no hidden charges!\n- Ad-Free for a distraction-free experience.\n- Available on all platforms.\n\nFeatures You'll Love:\n- Comprehensive Lessons: Master JavaScript Programming from A to Z.\n- Interview Questions: Practice with real interview Q&A.\n- Quizzes: Test your knowledge with multiple difficulty levels.\n- Demo Programs: Visualize concepts with hands-on examples.\n- Clear Syntax: Learn step-by-step with organized syntax explanations.\n\n\n\nWebsite: www.OnePercent.club\n\nFollow Us:\nLinkedIn: https://www.Linkedin.C",
+    "icon": "/icons/club.onepercent.javascript_tutorial.png"
+  },
+  "club.onepercent.javascript_compiler": {
+    "title": "JavaScript Compiler - Run .js",
+    "package": "club.onepercent.javascript_compiler",
+    "description": "JavaScript Compiler is an Advanced IDE enabling you to compile JavaScript Programs on your Mobile Phone for Free. It comes with a code editor with in-built syntax highlighting capabilities.\n\nJavaScript Compiler is\n- Free with no hidden charges!\n- Ad-Free!\n- Available for all platforms!\n\nFeatures :\n\n1. Compile & Run\n- Compile & Run JavaScript Programs\n\n2. Code Editing & Syntax Highlighting\n- Enables you to edit code and automatically detects and highlights syntax\n\n3. Exercise Questions\n- Exercise questions to help you improve your knowledge\n\n4. Programs with Code\n- All the general DSA programs with code\n\n5. Fun Facts\n- Some fun facts about programming and computer science\n\n\nThis app is brought to you by the company OnePercent, based in Bangalore, India.\n\nWebsite: www.OnePercent.club\n\nSocial",
+    "icon": "/icons/club.onepercent.javascript_compiler.png"
   }
 }
