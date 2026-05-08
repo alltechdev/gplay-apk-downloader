@@ -19535,7 +19535,7 @@
   "com.mobile.legends": {
     "title": "com.mobile.legends",
     "package": "com.mobile.legends",
-    "icon": "/icons/com.mobile.legends.webp"
+    "icon": "/icons/com.mobile.legends.png"
   },
   "com.robinhood.gateway": {
     "title": "Robinhood Wallet: Swap Crypto",
@@ -64351,5 +64351,627 @@
     "package": "com.mindmazes.invoiceapp",
     "description": "Invoice App & Receipt Maker is a powerful and easy-to-use invoice maker and billing app designed for freelancers, contractors, and small business owners. Create professional invoices, send estimates, track payments, and manage clients \u2014 all in one fast, simple mobile tool.\n\nWhether you\u2019re a freelancer, handyman, consultant, or business owner, Invoice App & Receipt Maker helps you look professional and get paid faster.",
     "icon": "/icons/com.mindmazes.invoiceapp.png"
+  },
+  "com.mirza.billsplitcalculator": {
+    "title": "Bill Split Calculator",
+    "package": "com.mirza.billsplitcalculator",
+    "description": "Bill Split Calculator is a simple and fast app to divide expenses among friends.\n\nFeatures:\n\u2022 Split bills instantly\n\u2022 Add tip percentage\n\u2022 Calculate per person cost\n\u2022 Clean and easy-to-use interface\n\u2022 Perfect for restaurants, trips, and group expenses\n\nSave time and avoid confusion when splitting bills.",
+    "icon": "/icons/com.mirza.billsplitcalculator.png"
+  },
+  "com.mitra.edge.lighting.borderlight": {
+    "title": "Edge Lighting : Border Light",
+    "package": "com.mitra.edge.lighting.borderlight",
+    "description": "Edge Lighting: Always On Display is a personalized tool which allows you to set beautiful curved rounded corners light and live wallpapers on your mobile home screen and lock screen. Edge lighting color will make your phone screen amazing with gradient borderlight. Grab a chance to beautify your display with lightening edge screen.\n\nYou can use Settings available in the application to customize the Edge light as per your choice like changing the colors, adjust width, type of EDGE lighting border, display notch settings, HD wallpapers and Magical EDGE Lighting.\n\nEDGE Lighting: Border Light is supported on all types of screens including Lighting for Screen Infinity U, Infinity V, Infinity O, Display Notch, New Infinity etc. Always on edge & lighting LED does not consume more battery when you",
+    "icon": "/icons/com.mitra.edge.lighting.borderlight.png"
+  },
+  "com.mitra.ringtonemaker": {
+    "title": "Ringtone Maker - MP3 Cutter",
+    "package": "com.mitra.ringtonemaker",
+    "description": "Bored with these all ready ringtones..!!! Now make your own ringtones by this fast and easy audio editor.\nBy Using this app you can make your own choice\u2019s tones or can compress the audio. \nYou have to just select your favourite song from your file manager and select your favourite lines of that song and just cut it using this Mp3 cutter.\nYou can select audio portion by giving time duration of your selected audio also or by scrolling the waveform.\nYou can also record the audio by given audio recorder option and edit it by this app.\nAfter creating your new ringtone you can give your choice of name to that ringtone.\nIt also supports MP3, AAC, WAV and other music formats.\nSo, Go and download this app and make your own beautiful ringtones and set them as your default ringtone/ alarm tone/ Notif",
+    "icon": "/icons/com.mitra.ringtonemaker.png"
+  },
+  "com.maaf.maafetmoi": {
+    "title": "MAAF et Moi - Assurance MAAF",
+    "package": "com.maaf.maafetmoi",
+    "description": "MAAF customers, with the MAAF et Moi mobile application, access numerous services and the main features of your customer area from your smartphone or tablet.\n\nCONTRACTS\n- Simplify the management of your auto, motorcycle, home, health, professional, savings...  contracts\n\nCERTIFICATIONS\n- Obtain your car, home, school certificates, etc. by downloading them, asking to receive them by email or by post.\n\nHEALTH SERVICES (Biorhythm and Vivazen \u200b\u200bcontracts): \n- Consult your health reimbursements\u2026 and for any questions, chat with your MAAF Sant\u00e9 advisor,\n- Access the MySantclair services,\n- Anticipate your expenses with the health simulator.\n\nCLAIMS\n- Obtain a tow truck in a few clicks in the event of a breakdown or call with geolocation in the event of an accident,\n- Be geolocated in the event o",
+    "icon": "/icons/com.maaf.maafetmoi.png"
+  },
+  "app.mafteiach.app": {
+    "title": "Mafteiach",
+    "package": "app.mafteiach.app",
+    "description": "The app includes:\n\u2022 A complete index of all the Rebbe's Sichos, Farbrengen's and Ma'amorim, in order of date.\n\u2022 All Sichos, easy access, in every format possible: Hanocho Bilti Mugeh, Mugeh, Likuttei Sichos, Hagohos, Audio, and Video.\n\u2022 A complete index of Likuttei Sichos.\n\u2022 A searchable \u05ea\u05d5\u05db\u05df \u05d4\u05e2\u05e0\u05d9\u05e0\u05d9\u05dd of each Sicha in Likuttei Sichos.\n\u2022 And much more.",
+    "icon": "/icons/app.mafteiach.app.png"
+  },
+  "com.atistudios.italk.ar": {
+    "title": "Learn Arabic. Speak Arabic",
+    "package": "com.atistudios.italk.ar",
+    "description": "Learn Arabic with free lessons daily. Let Mondly teach you the Arabic language quickly and effectively. In just minutes you\u2019ll start memorizing core Arabic words, form sentences, learn to speak Arabic phrases and take part in conversations. Fun Arabic lessons improve your vocabulary, grammar and pronunciation like no other language learning method. Beginner or advanced learner, traveler or business professional with a tight schedule? The app works great and dynamically adjusts to your needs.\n\nExplore language exercises for reading, listening, writing and speaking enhanced with a dictionary, verb conjugator and state-of-the-art speech recognition technology - you\u2019ll feel like having your own Arabic language tutor in your pocket.\nDownload the language learning pill today and enjoy the benefi",
+    "icon": "/icons/com.atistudios.italk.ar.png"
+  },
+  "com.atistudios.italk.he": {
+    "title": "Learn Hebrew - Speak Hebrew",
+    "package": "com.atistudios.italk.he",
+    "description": "Learn Hebrew with 5 minutes of practice daily. Mondly is the quick fix that will teach you core Hebrew words and Hebrew phrases for conversation, just like a phrasebook. If you want to learn beyond the basics, there are also Hebrew grammar lessons available.\n\nWith Mondly you can learn Hebrew sentences and expressions FREE with daily Hebrew language lessons online. This app is the effective way for beginners to study verbs, pronunciation and how to speak like a native with daily practice.\n\nThe secret path to language learning\nRemember the Hebrew language classes in school? You started with hundreds of basic words and expressions, continued with tons of Hebrew grammar lessons and at the end of a full semester\u2019s language course you could barely translate a sentence or say \u201cHello!\u201d to a local.",
+    "icon": "/icons/com.atistudios.italk.he.png"
+  },
+  "com.adzgi.igesfree": {
+    "title": "iGes - Simple invoicing",
+    "package": "com.adzgi.igesfree",
+    "description": "iGes is an SFA application of Presales and Invoicing designed for mobile Android devices (phones, tablets, ...), designed for taking orders, Delivery notes, Product catalogs, Invoices, visits, managing routes, receipts, expenses, etc ....\n\nIGes does not need internet connection to work, (it works in off-line mode), so you will not be bound to the existence of coverage or have Wifi, working faster and more fluidly as a native android application.\n\niGes can work independently or connected with any program of Business Management / Invoicing / ERP via ODBC data sources or through CSV files. The connection is always made when the user decides to synchronize data (sending or receiving) and can be made either through the Internet or Wifi.\n\niGes is distributed in 5 versions for every need and ever",
+    "icon": "/icons/com.adzgi.igesfree.png"
+  },
+  "com.adzgi.igesshop": {
+    "title": "iGesShop - La App de compra pe",
+    "package": "com.adzgi.igesshop",
+    "description": "With iGesShop your customers can find, search, see and buy your products or services from their own mobile devices (smartphones or tablets).\nOrders come into your program automatically billing / ERP, so that you can prepare and manage.\n\nHow it works:\n\nFROM YOUR PC FOR COMPANY\n1. Sync your database to the cloud, thanks to iGesPC connectors.\n2. Choose or customers who want to make orders from its terminals and activate them from the BackOffice of iGesShop.\n3. Notify your clients who have been discharged from the system and can now start making orders.\n4. Wait for incoming orders go to your ERP and do not forget to prepare them and check them.\n\nYOUR CLIENTS\n1. receive an email with instructions for installing the app from Google Play iGesShop.\n2. They open the application and identify with th",
+    "icon": "/icons/com.adzgi.igesshop.png"
+  },
+  "com.a2adv.gwfoods": {
+    "title": "G&W Foods, Inc.",
+    "package": "com.a2adv.gwfoods",
+    "description": "Get more out of your shopping experience with the GW Foods Inc. mobile app! Easily clip and organize your coupons, view special offers, and access full details for all of our store locations. From delicious recipe ideas to exclusive store ads, everything you need to save time and money is at your fingertips. Download the app today and enjoy a smarter, more convenient shopping journey with GW Foods Inc!",
+    "icon": "/icons/com.a2adv.gwfoods.png"
+  },
+  "com.usbmis.reader.dwtf1": {
+    "title": "iGeriatrics",
+    "package": "com.usbmis.reader.dwtf1",
+    "description": "iGeriatrics combines American Geriatrics Society's clinical tools & references into one free, easy to use application. iGeriatrics is an excellent AGS resource for all healthcare providers taking care of older adults.\n\n\u2022 Geriatrics 5Ms Quick Guide provides a framework for caring for older adults that aligns with the 4Ms of Age Friendly Health Systems.\n\u2022 Quick Guide to Diabetes Management provides a 5-step framework on diabetes management in older adults, and is based on the recommendations from the American Diabetes Association and the American Geriatrics Society.\n\u2022 Geriatrics Cultural Navigator offers quick guidance on issues and concerns regarding the beliefs, traditions, and customs that would apply to clinical encounters with older adults of diverse ethnic backgrounds.\n\u2022 Quick Guide to",
+    "icon": "/icons/com.usbmis.reader.dwtf1.png"
+  },
+  "com.iguverse.iguverse": {
+    "title": "IguVerse",
+    "package": "com.iguverse.iguverse",
+    "description": "IguVerse is a Web3 application that lets pet owners and pet lovers monetize their favourite pet-related activities and share their love for pets with other users. Create an AI-enhanced unique NFT and get ready to earn $IGUP tokens by doing the things you enjoy.\nIguVerse is not just an app, it's practically an ecosystem integrated into one app.\n\n\u2014 Ride the waves of the smoothest NFT experience by creating one of our NFTs 2.0. Our cutting-edge AI technologies will either carve your pet out of a photo with state-of-the-art precision or will allow you to generate a pet NFT with a wide variety of settings available making it fully customizable.\n\n\u2014 Join our pet-lover tribe in their conquest of social media! Share you pet photos and verify those of other users to earn our $IGU-denominated rewards",
+    "icon": "/icons/com.iguverse.iguverse.png"
+  },
+  "com.mobcrab.learnenglish": {
+    "title": "English Grammar Exercises",
+    "package": "com.mobcrab.learnenglish",
+    "description": "Attention! You have found the best of the best English Grammar Learning, Test & Lesson application. What makes this app stand out from others?\n\n- This app is 100% free. You can practice with 10.000+ English grammar questions without paying!\n- All questions are with detailed explanations. Additionally, we also provide personal support!\n- Lots of great English grammar lessons and English exercises in elementary, intermediate, and advanced levels. Practicing this app is great preparation for your English exam\n- 100+ Grammar topics are included in this English grammar. These topics are structured in a very nice and systematic way. This will help you improve your English grammar, your writing and reading a lot!\n- This English learning app functions perfectly even without the Internet. That mean",
+    "icon": "/icons/com.mobcrab.learnenglish.png"
+  },
+  "com.mobile.bizo.tattoo.two": {
+    "title": "Tattoo my Photo 2.0",
+    "package": "com.mobile.bizo.tattoo.two",
+    "description": "Tattoo App Without Regrets\n\"Tattoo my Photo\" tattoo app lets you try new tattoo designs, without any pain! Tattoo yourself on your own photos. Using our app you will feel like in a virtual tattooing saloon or photo booth machine. Just choose a pic from gallery or take one using camera, choose the inked tattoo design that fits your style, rotate, resize, save and share your effect! Let your friends think that you are really tattooed ;) The list of tattoo flash will help you to make a decision, about what kind of ink you like.\n\nTattoo Design & Maker\nOur editing tool contains a lot of artistic tattoo ideas for kids, both girls and boys, tattoo for women and men (browse for example rose, dragon, polynesian or tribal tattoos and much more!).\n\nRemember, making ink in the real world is not a game",
+    "icon": "/icons/com.mobile.bizo.tattoo.two.png"
+  },
+  "com.kodelabs.klp": {
+    "title": "KODE OS",
+    "package": "com.kodelabs.klp",
+    "description": "Orchestrate amazing building experience on the go with the KODE OS mobile app. \n\nMonitor, control, and optimize your real estate portfolio on the go. Access powerful tools for continuous commissioning, fault detection and diagnostics, interactive reporting and seamless event generation. Get notified first when something is off and identify issues before they become major ones. Keep your buildings running at peak performance from the palm of your hand. \n\nProven to make your building operations simpler, faster, and more pleasant. We hope you give KODE OS a try. \n\nHaving trouble? Please reach out to support@kodelabs.com",
+    "icon": "/icons/com.kodelabs.klp.jpg"
+  },
+  "com.artifexmundi.tso8.gp.full": {
+    "title": "The Secret Order 8 (Full)",
+    "package": "com.artifexmundi.tso8.gp.full",
+    "description": "FANTASTIC HIDDEN OBJECT PUZZLE ADVENTURE GAME FROM THE CREATORS OF ENIGMATIS AND GRIM LEGENDS!\n\nGet to the bottom of the unexplainable events in the Buried Kingdom and save all its inhabitants in this thrilling fantasy experience. The eighth part of the Secret Order series introduces new adventures, riddles, secrets, and a solid amount of fun!\n\nThe Buried Kingdom in on the verge of collapse. Maintaining the balance between peace and chaos has become almost impossible, as the dragons start to behave unpredictably. Who is behind all the magic anomalies?\n\nSarah Pennington returns for another thrilling adventure in the final part of the saga! Explore beautiful locations, encounter unique beasts, solve riddles, reach the finale of this epic quest, and discover the power of friendship!\n\nVeterans",
+    "icon": "/icons/com.artifexmundi.tso8.gp.full.png"
+  },
+  "com.levimeq.IguerotKodesh": {
+    "title": "Iguerot Kodesh FR-HE",
+    "package": "com.levimeq.IguerotKodesh",
+    "description": "The application contains nearly 11,000 original letters in Hebrew and Yiddish taken from the Iguerot Kodech books, as well as almost 9,000 teaching letters from the Lubavitch Rebbe, translated and published by Beth Lubavitch Editions.\n\nFor the original letters and their French translations, you will find the following features:\n\nChoice of language: Hebrew or French,\nSearch by keyword(s),\nSearch by letter number,\nAdding to favorites: save your read letters and access them directly via the dedicated button,\nSend a letter to the Rebbe with the possibility of adding a photo of your handwritten letter,\nSharing letters by email, Facebook or Twitter (future feature),\nRequest for blessing,\nAdjusted the font size for better reading comfort.\n\nAs the Rebbe teaches us: \u201c\u05d0\u05d9\u05df \u05d0\u05dc\u05de\u05e0\u05d4 \u05d9\u05e9\u05e8\u05d0\u05dc\u201d \u2013 the Jewish p",
+    "icon": "/icons/com.levimeq.IguerotKodesh.png"
+  },
+  "com.artifexmundi.tso8.gp.free": {
+    "title": "The Secret Order 8",
+    "package": "com.artifexmundi.tso8.gp.free",
+    "description": "FANTASTIC HIDDEN OBJECT PUZZLE ADVENTURE GAME FROM THE CREATORS OF ENIGMATIS AND GRIM LEGENDS!\n\nGet to the bottom of the unexplainable events in the Buried Kingdom and save all its inhabitants in this thrilling fantasy experience. The eighth part of the Secret Order series introduces new adventures, riddles, secrets, and a solid amount of fun!\n\nTRY IT FREE, THEN UNLOCK THE FULL ADVENTURE FROM WITHIN THE GAME!\n\nThe Buried Kingdom in on the verge of collapse. Maintaining the balance between peace and chaos has become almost impossible, as the dragons start to behave unpredictably. Who is behind all the magic anomalies?\n\nSarah Pennington returns for another thrilling adventure in the final part of the saga! Explore beautiful locations, encounter unique beasts, solve riddles, reach the finale ",
+    "icon": "/icons/com.artifexmundi.tso8.gp.free.png"
+  },
+  "com.rhapsodyreader": {
+    "title": "Rhapsody of Realities Official",
+    "package": "com.rhapsodyreader",
+    "description": "Rhapsody of Realities App 4.0\nA Complete Daily Devotional Experience for Kids, Teens, and Adults\n\nWelcome to Rhapsody of Realities App 4.0, an all-in-one devotional platform designed to help you read, study, watch, listen, and grow daily with God\u2019s Word.\n\nThis new version combines devotionals, inspiring media, community features, rewards, and age-based experiences in one seamless app, making spiritual growth engaging for individuals, families, and groups.\n\nOne App with Three Experiences\n\n1. Adult Experience for focused devotion, study, and community engagement\n\n2. Teevo (Teen) Experience designed specifically for teenagers\n\n3. Kids Experience offering a safe and child-friendly environment\n\nUsers can easily switch between Kids, Teevo, and Adult experiences, each with tailored content and de",
+    "icon": "/icons/com.rhapsodyreader.png"
+  },
+  "com.subsplashconsulting.s_FQVSRJ": {
+    "title": "WG Universe",
+    "package": "com.subsplashconsulting.s_FQVSRJ",
+    "description": "We exist to inspire and equip others to enjoy and proclaim the kingdom of God in the world.",
+    "icon": "/icons/com.subsplashconsulting.s_FQVSRJ.png"
+  },
+  "com.mobile.graffiti": {
+    "title": "Tags - Graffiti Marker",
+    "package": "com.mobile.graffiti",
+    "description": "Tags app is a fresh and easy to use marker drawing app dedicated to graffiti writers!\nTag with the marker of your choice. Control your drips for a nice drippy marker. You can customise all tools, drips, backgrounds or upload a picture.\n\nShare and follow your tags on our instagram page! \nInsta: tagsgraffitiapp\nhttps://www.instagram.com/tagsgraffitiapp/\n\nThis Graffiti app continues to update and get better each week with new content!\n\nSatisfying for burners!\nGreat for learners!\n\nNow drop some fresh tags!\n\n\nIf you like to tag and support graffiti, or just love to have a doodle.\nDownload Tags - Graffiti Marker today.",
+    "icon": "/icons/com.mobile.graffiti.jpg"
+  },
+  "com.mobile.socby.glitch.videomaker": {
+    "title": "Glitch Video Effects Maker",
+    "package": "com.mobile.socby.glitch.videomaker",
+    "description": "Glitch Video Effects Maker is a versatile video editing app that allows you to create stunning videos with various cool glitch and vaporwave effects. The app offers a range of effects including Retro VHS, CR, Old TV, Noise, Monitor, RGB, glitching to vaporwave effects, which takes you back to the 90s and dazz century with just one click. Create your own cyberpunk and vaporwave fashion style movies with numerous cool trippy effects! The unique glitch effect, vaporwave text & sticker, and psychedelic elements make your videos eye-catchers on Instagram.\n\nWith Glitch Video Effects Maker, you can easily add magic glitch transition effects and animated glitch text and stickers to your photos or videos. The app provides a wide range of art fonts, such as handwritten fonts, glitch fonts, vaporwave",
+    "icon": "/icons/com.mobile.socby.glitch.videomaker.png"
+  },
+  "com.mobilegame.wordsearch": {
+    "title": "Word Search",
+    "package": "com.mobilegame.wordsearch",
+    "description": "Get the incredibly addicting word search game that everyone is talking about! Expand your vocabulary and show off your spelling skills as you search for all the hidden words.\n\nWord Search (also known as Word Seek, Word Find, Word Sleuth or Mystery Word) is a word game that consists of the letters of words placed in a grid. The objective of this puzzle is to find and mark all the words hidden inside the box. The words may be placed horizontally, vertically, or diagonally.\n\nWord Search Features:\n- 100+ different categories for your different moods\n- Starts off easy but gets challenging fast\n- Replay categories in Time mode or Classic mode\n- Daily challenges to earn extra rewards\n- Use the Hints when you get stuck\n- Enjoyable graphics with easy controls\n- NO WIFI? NO PROBLEM! Enjoy the word s",
+    "icon": "/icons/com.mobilegame.wordsearch.png"
+  },
+  "com.mobilityware.PyramidFree": {
+    "title": "Pyramid Solitaire - Card Games",
+    "package": "com.mobilityware.PyramidFree",
+    "description": "Looking for a classic card game to play? Look no further than Pyramid Solitaire by MobilityWare - the original Free Pyramid Solitaire game for Android devices.\n\nThis game has been re-imagined and is now better than ever. It's a puzzle game that requires logic and strategy to clear the table.\n\nFree Pyramid Solitaire is a game you can play to challenge your brain and have fun solving each Daily Challenge to receive a crown for that day. With its unique winnable deal, the Daily Challenge lets you earn Jeweled Crowns and Trophies and compete with other players on the Leaderboard. Each new day unlocks a new Daily Challenge deal. You can access each challenge by simply clicking on the Play Menu button.\n\nIf you like the fast-paced game of Tri Peaks, you will love Pyramid Solitaire. Similar to Tri",
+    "icon": "/icons/com.mobilityware.PyramidFree.png"
+  },
+  "com.mobilityware.freecell": {
+    "title": "FreeCell Solitaire: Card Games",
+    "package": "com.mobilityware.freecell",
+    "description": "Welcome to the top destination for lovers of the classic card game! Dive into the world of solitaire gaming, where strategy meets relaxation, all for free. With intuitive controls and smooth game play, FreeCell Solitaire offers an immersive experience perfect for all players.\n\nFreeCell provides a refreshing break from your day, offering relaxing, brain training, and enjoyable challenges. Exercise your brain by playing in this highly strategic version of the timeless classic Klondike Solitaire.\n\nRelaxation and Brain Training: FreeCell Solitaire isn't just about entertainment; it's also a fantastic way to unwind and train your brain. Whether relaxing after a long day or seeking a mental workout, FreeCell offers the perfect balance of relaxation and brain training. Engage your mind as you str",
+    "icon": "/icons/com.mobilityware.freecell.png"
+  },
+  "com.mobilityware.solitaire": {
+    "title": "Solitaire - Classic Card Games",
+    "package": "com.mobilityware.solitaire",
+    "description": "Solitaire by MobilityWare is the original & best free Solitaire card game!\n\nExperience the timeless fun of Solitaire with MobilityWare\u2019s Solitaire game, the most popular and original Solitaire card game on the Play Store. Join over 100 million Solitaire players enjoying the ultimate Solitaire card game experience.\n\nWhy You'll Love Klondike Solitaire Card Games:\nClassic Solitaire card games with a Modern Twist:\n\u2660 Play free, classic Klondike Solitaire with stunning graphics, smooth animations, and a user-friendly Solitaire interface.\n\u2660 Use Solitaire hints and unlimited undos to enhance your Solitaire card games skills.\n\u2660 Effortlessly move Solitaire cards with intuitive tap and drag controls.\n\u2660 Enjoy Klondike Solitaire card games for free - no cash required.\n\u2660 Regular Solitaire updates provid",
+    "icon": "/icons/com.mobilityware.solitaire.png"
+  },
+  "com.mobilityware.spider": {
+    "title": "Spider Solitaire: Card Games",
+    "package": "com.mobilityware.spider",
+    "description": "Spider Solitaire is one of the most popular and original spider card games and spider solitaire classic apps in the world! Join millions enjoying spider solitaire classic offline \u2014 a top spider card games.\n\nPlay Spider Solitaire FREE. Play spider today! It\u2019s an easy way to train your brain with every card move. Enjoy deluxe spider solitaire classic gameplay.\n\nChallenge yourself with Daily Challenges! This spider solitaire no ads game includes classic features and puzzles to sharpen your brain.\n\nExplore WEEKLY EVENTS! Complete hands and earn badges. Become a Spider Solitaire superstar in this deluxe version.\n\nIf you enjoy easy card games for adults and relaxing ad free games like Spiderette, Castle, Freecell, and Hearts \u2013 then this spider solitaire classic game is perfect for you. Play offl",
+    "icon": "/icons/com.mobilityware.spider.png"
+  },
+  "com.mobirix.connectfour": {
+    "title": "4 in a row king",
+    "package": "com.mobirix.connectfour",
+    "description": "two users the piece to drop one by one on the game 7x6 fields board\nfirst straight line for to connect with four pieces  wins(horizontal, vertical, diagonal)\n\n[features]\n- provide a variety of convenience features for users\n- 6 step of the single-player difficulty level configuration\n- 2p: enjoy easy and fast with friends\n- multiplayer support: you can compete with other player by online\n- achievements and leaderboard support\n- tablet devices support\n\nHelp : cs@mobirix.com\n\nHomepage :\nhttps://play.google.com/store/apps/dev?id=4864673505117639552\n\nFacebook :\nhttps://www.facebook.com/mobirixplayen\n\nYouTube :\nhttps://www.youtube.com/user/mobirix1\n\nInstagram :\nhttps://www.instagram.com/mobirix_official/\n\nTikTok :\nhttps://www.tiktok.com/@mobirix_official",
+    "icon": "/icons/com.mobirix.connectfour.png"
+  },
+  "com.mocelet.fourinrow": {
+    "title": "Four in a Row Puzzles",
+    "package": "com.mocelet.fourinrow",
+    "description": "Think you know how to play four in a line? This feature packed game will squeeze your brain for hours thanks to 400+ unique puzzles that will teach you the strategy no matter your initial skill level, different rulesets and board sizes, online multiplayer, tough artificial intelligence and cool themes.\n\nPlay solo or with a friend, in a phone or a tablet, in the board you like most from plastic to wood and colored pencils. MyBackup Pro integration support to save and restore game state.\n\nAlready a Pro in the game? Welcome aboard! Switch to the hard AI level and get ready for real brain action in a solitaire fashion. Or try the skill-based matchmaking for intense games online.\n\nThis is the gravitational four in a row where discs fall from the top and you have to connect 4 chips in a line. Sh",
+    "icon": "/icons/com.mocelet.fourinrow.png"
+  },
+  "com.moeeza3.tipnsplitcalculator": {
+    "title": "Tip Calculator & Bill Split",
+    "package": "com.moeeza3.tipnsplitcalculator",
+    "description": "Tip Calculator \n\nFast & Accurate Bill Splitting\nStop guessing tips or doing mental math at restaurants. Smart Tip Calculator helps you calculate the perfect tip in seconds and split bills effortlessly.\n\n\u2b50 Key Features\n\n\u2714 Instant Tip Calculation\nEnter your bill amount, choose your tip percentage, and see the tip and total immediately.\n\n\u2714 Easy Bill Splitting\nDining with friends? Divide the total equally and know exactly how much each person pays.\n\n\u2714 Tip Before or After Tax\nChoose whether you want to calculate tip on the full amount or pre-tax subtotal.\n\n\u2714 Works Worldwide \u2013 No Currency Selection Needed\nNo need to choose or change currency. The calculator works universally for any country or currency automatically.\n\n\u2714 Minimal & Ad-Free Experience\nEnjoy a clean interface focused only on speed a",
+    "icon": "/icons/com.moeeza3.tipnsplitcalculator.png"
+  },
+  "com.moneywink.sip": {
+    "title": "SIP Calculator",
+    "package": "com.moneywink.sip",
+    "description": "SIP in Mutual Funds is one of the best way to save money and invest. This easy SIP calculator helps you plan your SIP investments. With SIP calculator app you can see estimated gain across different mutual fund categories. You can see both SIP returns as well as one-time (lumpsum) returns.\n\nSIP Calculator and SIP planner helps you see estimated benefits from Equity and Debt funds.\nSIP Planner helps you assess how much you should invest every month to get a desired amount at the end of an investment period.\n\nSystematic Investment Plan (SIP) is a investment scheme offered by mutual fund companies. This SIP calculator helps you calculate the profit gain and returns expected for your monthly SIP investment. You get a rough estimate on the maturity amount for any monthly SIP, based on a project",
+    "icon": "/icons/com.moneywink.sip.png"
+  },
+  "com.moontechnolabs.posandroid": {
+    "title": "POS Billing Maker & Inventory",
+    "package": "com.moontechnolabs.posandroid",
+    "description": "Transform your business with Moon POS - the complete POS system for restaurants, cafes, bars, retail stores, and small businesses. Our point of sale solution combines pos billing, inventory management, receipt maker, and sales tracking in one powerful app.\n\nWhether you run a cafe POS operation, bar POS setup, retail POS store, or restaurant - Moon POS is the affordable alternative to Square and Toast. Perfect POS for small business owners who need enterprise features without enterprise costs.\n\n\ud83d\ude80 COMPLETE POS SYSTEM FOR EVERY BUSINESS\n\nMoon POS delivers intuitive pos billing, real-time inventory management, and seamless payment processing. Our POS system works both pos online and pos offline, ensuring your business never stops.\n\nDASHBOARD & QUICK CHECKOUT\n- Fast pos billing with barcode sca",
+    "icon": "/icons/com.moontechnolabs.posandroid.png"
+  },
+  "com.morsepro.app": {
+    "title": "Morse Pro - Learn and Practice",
+    "package": "com.morsepro.app",
+    "description": "Morse Pro - Learn and Practice is the ultimate tool for learning and practicing Morse Code (CW) on Android. Whether you are a beginner or an expert Ham Radio operator, Morse Pro provides a high-fidelity training experience with zero distractions.\n\nKey Features:\n- Choose between Straight, Iambic A or Iambic B keys\n- Touch-responsive paddles with realistic feedback.\n- Fully customizable settings for timing and audio.\n- Adaptive Training System consisting of vast TX and RX training modules like Random Groups of 5, Koch Method, Q-Codes, Callsigns and more\n- Smart Algorithm prioritizing characters you have most trouble with, ensuring faster learning\n- Real-Time Analytics provide detailed insight over  your Words Per Minute history over time, give you a detailed breakdown of your weak characters",
+    "icon": "/icons/com.morsepro.app.png"
+  },
+  "com.InternityLabs.Launcher.WinX.Foldables": {
+    "title": "Win-X Launcher for Foldables",
+    "package": "com.InternityLabs.Launcher.WinX.Foldables",
+    "description": "We take pride in being the very first to release a launcher for the users who have foldable devices. \nFoldable devices are unique because of their large main screen and a smaller cover screen. \nOur launcher is the first and only to invent an approach to configure both screens independently, therefore a view does not look squished when viewed in cover screen.\n\nThis version of the launcher is tuned in personalized options for the best experience designed for foldable devices out of the box. We highly recommend for you to watch other help videos which can be found at this location. \n\nJust like our standard launcher, this app is also highly configurable, and it comes with Win 11 as a default configuration out of the box. \n\nFor the users who are new to our launcher, you can control each and eve",
+    "icon": "/icons/com.InternityLabs.Launcher.WinX.Foldables.png"
+  },
+  "com.applabstudios.ai.mail.homescreen.inbox": {
+    "title": "Easy Mail - Email Launcher",
+    "package": "com.applabstudios.ai.mail.homescreen.inbox",
+    "description": "No more FOMO! See your emails instantly on your homescreen. With Easy Mail, your email becomes simple, focused, and easy every single day. The average person spends over 2 hours managing their mail\u2014why not make it easy with the launcher designed for productivity?\n\nEasy Mail \u2013 Email Launcher is the easy way to handle email, reduce screen time, and enjoy a clutter-free homescreen.\n\n\u2728 FEATURES FOR EMAIL\n\u25feEasy Homescreen: A clean homescreen built around mail and productivity. No clutter\u2014just the easy way to manage email.\n\n\u25feUnlimited Email Accounts: Add Gmail, Outlook, Yahoo, Hotmail, AOL\u2014or any other mail provider. Check all of your email in one easy unified inbox or separate them with a tap.\n\n\u25feAI Email Assistance: Writing email is now easy. Rephrase, shorten, or polish your mail instantly whi",
+    "icon": "/icons/com.applabstudios.ai.mail.homescreen.inbox.png"
+  },
+  "com.kjvbible.bibledailyverse.pray.devotion": {
+    "title": "Daily Bible - Verse+Audio",
+    "package": "com.kjvbible.bibledailyverse.pray.devotion",
+    "description": "Looking for an easy way to read the Holy Bible (KJV) every day? Daily Bible is a fast, lightweight Bible app built for Bible study, daily devotion, and listening on the go. Read Bible verses anytime, follow Bible reading plans, and keep your favorite scriptures organized with highlights, bookmarks, and notes.\n\nWhether you\u2019re learning at home, commuting, or sharing with your Bible study group, Daily Bible helps you stay close to God\u2019s Word\u2014simply and consistently.\n\nKey Features\nKJV Bible (King James Version)\n- Read the KJV Bible with a clean, easy-to-use layout  \n- Quickly find Bible verses with search and fast navigation\n\nOffline Bible\n- Read your Bible offline without internet (after content is available on your device)  \n- Great for travel, church, and daily reading anywhere\n\nAudio Bible",
+    "icon": "/icons/com.kjvbible.bibledailyverse.pray.devotion.png"
+  },
+  "com.jibjab.android.messages.fbmessenger": {
+    "title": "JibJab: Funny Birthday Cards",
+    "package": "com.jibjab.android.messages.fbmessenger",
+    "description": "\ud83c\udf89 Share Love & Laughter With JibJab, the #1 Ecard & Funny Video App! \ud83c\udf89\n\n84 MILLION Laughing Users Can't Be Wrong! \ud83d\ude02\n\nJoin the JibJab family and discover why millions choose us! For 22 years we\u2019ve been the place for Ecards, funny face in hole videos, and hilarious GIFs. \nWhether it's a birthday, Christmas, or any special day, we've got something to make every occasion memorable.\n\n\ud83c\udf88 Ecards, Videos & GIFs For EVERY Occasion! \ud83c\udf88\n\nCelebrate every holiday and special event with JibJab's iconic blend of humor and creativity:\n\nValentine's Day, Christmas, Halloween, Easter: Perfect cards for every holiday.\n\nMother\u2019s Day, Father\u2019s Day, St. Patrick's Day, Thanksgiving: Unique greetings for every special day.\n\nNew Years, Graduation, Anniversary & More: Celebrate special moments.\n\nHappy Birthday Wishes,",
+    "icon": "/icons/com.jibjab.android.messages.fbmessenger.png"
+  },
+  "com.joejuice.joeloyalty": {
+    "title": "JOE & THE JUICE",
+    "package": "com.joejuice.joeloyalty",
+    "description": "Use the JOE & THE JUICE app to order your favorite juice, coffee, sandwich, or smoothie, for pick-up or delivery, and earn points on every purchase with the new Loyalty Program.\n\nIf you are a new app user, after your first app order, you'll receive a free coffee and enjoy 15% off for 30 days. Exclusion applies. T&Cs apply.\n\nStill not convinced? Here are more good reasons why you are going to love the JOE & THE JUICE app:\n\nPRE-ORDER:\n- Skip the line and save time!\n- Place an order in the app and it will be ready when you arrive, or choose an exact pick-up time.\n- Customize food and drinks to your dietary preferences. Gluten free sandwich? Acai bowl without granola? Protein or collagen in your iced matcha? The app makes it possible.\n- Track the progress of your order and receive a notificati",
+    "icon": "/icons/com.joejuice.joeloyalty.png"
+  },
+  "com.qiga.vio": {
+    "title": "Jovia Dating app: Meet & Date",
+    "package": "com.qiga.vio",
+    "description": "Jovia \u2013 Real Dates Start Here\n\nJovia is a dating app built for people who want more than endless chatting.\nIt\u2019s for those who are ready to meet in real life and go on meaningful dates.\n\nWe believe real connections happen face to face. Jovia helps you match, talk, and move naturally toward meeting in person \u2014 without games or pressure.\n\n\u2764\ufe0f Designed for Real Dates\n\nJovia focuses on helping you meet people who are genuinely interested in dating. Browse profiles, see who\u2019s interested, and start conversations with purpose.\n\n\ud83d\udcac Talk First, Meet When It Feels Right\n\nGet to know each other through chat, then take the next step and plan a real date when you\u2019re ready. No rushing \u2014 just honest connections.\n\n\ud83d\udccd Meet in Real Life\n\nJovia encourages real-world meetings, making it easier to turn online conv",
+    "icon": "/icons/com.qiga.vio.png"
+  },
+  "com.mortgagecalculator.amortizationcalculator.mortgagepaymentcalculator.loancalculator.homeloan": {
+    "title": "Mortgage Calculator",
+    "package": "com.mortgagecalculator.amortizationcalculator.mortgagepaymentcalculator.loancalculator.homeloan",
+    "description": "Mortgage Calculator & Home Loan Calculator app, you can easily calculate your monthly mortgage payments and plan for your financial future.\n\nOur app features a variety of tools to help you make informed decisions about your home loan, including:\n\n* A precise and user-friendly mortgage calculator\n* A comprehensive home loan calculator\n* An amortization calculator\n* A mortgage rate calculation tool\n* A payoff calculator\n* A financial planning tool\n\nWith our app, you can:\n\n* Estimate your monthly mortgage payments\n* Calculate your loan affordability\n* Analyze down payments\n* Visualize your loan repayment schedule\n* Calculate the interest rate on your home loan\n* Explore payoff scenarios\n* Discover the benefits of paying off your mortgage early\n* Maximize your financial efficiency and save on ",
+    "icon": "/icons/com.mortgagecalculator.amortizationcalculator.mortgagepaymentcalculator.loancalculator.homeloan.png"
+  },
+  "com.mp3converter.videomp4tomp3.mp3videoconverter": {
+    "title": "Video To Audio & Mp3 Cutter",
+    "package": "com.mp3converter.videomp4tomp3.mp3videoconverter",
+    "description": "\ud83c\udf1f Fast, Easy and All-in-one Video Converter \ud83c\udf1f\n\nWelcome to Video To Audio & MP3 Cutter, the ultimate app to convert your videos into high-quality MP3 and audio in seconds! Whether you're looking to extract music from a favorite video, trim a song for a custom ringtone, or simply convert video to audio fast and effortlessly - this app is built just for you.\n\n\ud83c\udfb6 Convert Video to Audio:\n- Turn any video into an audio file instantly. Just select your video and choose the output format. In one tap, your video becomes a clear, high-quality audio file.\n- Fast conversion speed. Convert video to MP3 with stunning clarity\n\n\u2702\ufe0f MP3 Cutte Audio Trimmerr:\n- Cut any section of an MP3 or audio file\n- Play preview before saving the cut\n- Save as ringtone, notification sound, or alarm\n\nWhy should you choose o",
+    "icon": "/icons/com.mp3converter.videomp4tomp3.mp3videoconverter.png"
+  },
+  "com.mpga.one_app": {
+    "title": "ONE Daily Devotional",
+    "package": "com.mpga.one_app",
+    "description": "Built with Dr. Mat Park \u2014 sports psychologist, mental performance coach, and founder of Mental Performance Golf Academy \u2014 ONE combines biblical devotionals with the same mental training tools used by elite athletes. Delivered in a guided daily flow, it's designed for athletes, leaders, students, and anyone who performs under pressure.\n\nPersonalized from day one. ONE's onboarding tailors your experience to your identity, faith foundation, priorities, and biggest challenge \u2014 so every session feels relevant.\n\nDAILY DEVOTIONALS\nComplete a guided 6-step daily flow: Scripture, Devotional, ONE Practice (Name \u2192 Reanchor \u2192 Choose), For You, Reflection, and ONE Line. Listen with built-in audio, track your consistency with streaks and calendar history, and revisit any past day.\n\nGRATITUDE PRACTICE\nLo",
+    "icon": "/icons/com.mpga.one_app.png"
+  },
+  "com.yinyang.launcher": {
+    "title": "Yin Yang Minimalist Launcher",
+    "package": "com.yinyang.launcher",
+    "description": "Your phone, but calmer.\n\nYin Yang is a minimalist Android launcher built for focus, less screen time, and a distraction-free home screen. Gentle awareness tools, mindful pauses, and the essentials you need \u2014 one swipe away.\n\nThree pages. One calm phone.\nMinimalism on the home screen, mindfulness one swipe left, productivity one swipe right.\n\n\ud83c\udfe0 Home Screen \u2014 Minimalism, made beautiful\n\nA clean, distraction-free home screen designed to be lived with.\n\n\u2022 Grayscale icons and clean typography for a non-distracting interface\n\u2022 Curated themes \u2014 true-black, pastel, gradient, subtle 3D \u2014 with auto light/dark switching\n\u2022 Live, dynamic, and static wallpapers plus custom fonts and clocks\n\n\ud83c\udf3f Mind Space \u2014 A focus launcher for digital wellbeing\n\nA dedicated page for awareness, focus, and digital wellbein",
+    "icon": "/icons/com.yinyang.launcher.webp"
+  },
+  "com.otp.octopilauncher": {
+    "title": "Octopi Launcher \u2022 Home Screens",
+    "package": "com.otp.octopilauncher",
+    "description": "Octopi Launcher is a brand new home screen launcher for Android, with a few cool features:\n\nFeatures:\n- (Auto scrolling) widget stacks\n- Float/ pin a widget on top of home screens\n- Glass widgets\n- Display drawer icons as tiles\n- App drawer folders and favorite apps\n- Organize apps using tags\n- Launch different apps using swipes on an icon\n- Have different layouts in portrait and landscape mode\n- Foldables support - have totally different layouts on each screen\n- Icon pack and shortcut support\n- Resize individual home screen icons\n- Index bar and reachability mode for drawer\n- Option to hide status and navigation bars\n- Notification badges\n- Private space and work profile support\n- Lock home screen layout\n\nUnlock additional features using a one-time payment, now at a special price for this",
+    "icon": "/icons/com.otp.octopilauncher.png"
+  },
+  "com.mr.dogclicker": {
+    "title": "Clicker - Dog Trainer",
+    "package": "com.mr.dogclicker",
+    "description": "Train your dog for obedience and retrieving using these real sounds! You can use the on screen button or volume buttons to give you the \"real\" clicker feel. The volume is controlled on screen so both volume buttons can be used as \"clicker\" buttons. Enjoy training your fuzzy friend!",
+    "icon": "/icons/com.mr.dogclicker.png"
+  },
+  "com.mreprogramming.ultimateemfdetector": {
+    "title": "Ultimate EMF Detector RealData",
+    "package": "com.mreprogramming.ultimateemfdetector",
+    "description": "A simple EMF detector! The detector is as ACCURATE as the sensor of your device.\n\nBoth Pro and Free have:\n-->Magnetic Field B in microTesla,Gauss and milliGauss\n-->Auxiliary Field H in ampere per meter\n-->Recorder feature. Data can now be saved live on text file for later use on a computer. This requires the permission to read and write on external storage.\n-->Keep screen ON button\n-->XYZ, max-min and graphs.\n-->The classic EMF meter with the needle and LEDs\n\nThe Pro has:\n-->No ads\n-->Recorder feature with timer. Data can now be saved live on text file for later use on a computer. This requires the permission to read and write on external storage.\n-->Keep screen ON button\n-->Sound notification for sudden EMF changes\n-->A few backgrounds and skins for the detector.\n\n\nUse this simple app to ",
+    "icon": "/icons/com.mreprogramming.ultimateemfdetector.png"
+  },
+  "com.mason.wooplus": {
+    "title": "WooPlus: Body Positive Dating",
+    "package": "com.mason.wooplus",
+    "description": "\ud83d\udd25 Featured on BBC, Forbes, Google Play & the App Store! \n\nWooPlus is a body-positive dating app designed to create a safe, inclusive, and respectful space for everyone who's ever felt overlooked or judged elsewhere to feel respected, seen, and valued. We embrace diverse beauty and celebrate every body, and believe that connection goes beyond appearances.\n\nCome as you are\u2014and meet people who see and value you for the real you. \n\nWhether you're seeking meaningful conversations, lasting relationships, or simply authentic connections, WooPlus provides an inclusive space where you are embraced, free, and confident to be your unfiltered self and enjoy love.\n\nWith over 12 million members around the world, WooPlus is one of the most welcoming and inclusive dating communities\u2014and it's growing every",
+    "icon": "/icons/com.mason.wooplus.webp"
+  },
+  "com.indy": {
+    "title": "Swyp",
+    "package": "com.indy",
+    "description": "Swyp and upgrade your lifestyle!\n\nSwyp is the new mobile experience exclusive for 18-29 year-olds in the UAE. We give you heaps of social data, discount vouchers for dining, entertainment, and shopping outlets, unlimited free WiFi at the places you hang out, and access to even more data and voice packages created designed with you in mind.\n\n\nKey benefits\nManage your mobile account through the Swyp app\nEasily view and buy the packages you need\nChoose the add-on option you want\nGo big with high allowances on social apps\nYour usage, your control\nInvite friends. Get Rewarded\nEnjoy discounts at the outlets you love\nGet unlimited WiFi access at Swyp hotspots\n\nHow does it work?\nDownload the app, order the SIM, receive it at home, create an account and off you go. \nIf you have already registered i",
+    "icon": "/icons/com.indy.png"
+  },
+  "com.mrgain.anglefinder": {
+    "title": "Protractor \u2013 Angle Finder",
+    "package": "com.mrgain.anglefinder",
+    "description": "Protractor \u2013 Angle Finder is the ultimate protractor tool for measuring angles, checking surface flatness, and taking real-size measurements\u2014all from your phone.\n\nWhether you're working on home improvement, DIY projects, or need quick leveling anywhere, this digital protractor delivers fast, accurate results without extra equipment.\n\n\u2b50 Key Features:\nMeasure angles with real-time sensor precision using the protractor view\nCheck surface flatness (horizontal and vertical)\nUse the on-screen ruler for real-size measurements\nBoth metric (cm) and imperial (feet/inch) units\nFully offline, no internet connection required\nClean, intuitive interface with live feedback\n\n\u2b50 Why Protractor \u2013 Angle Finder\nLightweight and fast with no unnecessary extras\nWorks great for DIY, carpentry, and home projects\nHel",
+    "icon": "/icons/com.mrgain.anglefinder.png"
+  },
+  "com.mtsoft.tarjetasvisita": {
+    "title": "Business card scanner",
+    "package": "com.mtsoft.tarjetasvisita",
+    "description": "Scan business cards in seconds without typing. It is the card scanning application with the best recognition percentage thanks to Google's OCR engine and the application of artificial intelligence. The operation is very simple: it is only necessary to frame the card on the frame that appears on the phone, press the button to capture the photo and in less than a second all the data on the card will be automatically recognized and digitized, to be formatted in text fields.\n\n The application is capable of recognizing data from more than 35 countries with a minimum error rate.\nThe following characters are currently recognized:\n- Latin, including umlauts and special characters from different languages\n- Cyrillic (Russia, Ukraine and Belarus)\n- Chinese (traditional and simplified)\n- Japanese\n- K",
+    "icon": "/icons/com.mtsoft.tarjetasvisita.png"
+  },
+  "com.muxijinnian.dogwhistle": {
+    "title": "Dog Whistle - Dog Trainer",
+    "package": "com.muxijinnian.dogwhistle",
+    "description": "Ultrasonic Dog Whistle - A Professional Dog Trainer in Your Pocket\n\nStruggling with excessive barking or a dog that ignores your commands? Dog Whistle is a professional ultrasonic training tool that uses high-frequency sound waves audible to dogs but silent to humans, helping you train your dog quietly and effectively.\n\nCore Features\n\nHigh-Frequency Sound Playback\n- Full frequency range coverage from 8 kHz to 28 kHz\n- Operates outside the range of human hearing, so it will not disturb people around you\n- Adjustable duration (1-10 seconds) and volume (10%-100%)\n- Real-time frequency display keeps you informed of playback status\n\n5 Preset Frequency Modes\n- Low Frequency 10 kHz - Gentle training for sensitive dogs\n- Training Frequency 12 kHz - Everyday foundational training\n- Mid Frequency 15",
+    "icon": "/icons/com.muxijinnian.dogwhistle.png"
+  },
+  "com.mweutbycjynwq.morse": {
+    "title": "Morse App",
+    "package": "com.mweutbycjynwq.morse",
+    "description": "Unlock the secrets of Morse code with Morse App!  Whether you're a complete beginner or a seasoned pro, our app provides the tools you need to master this fascinating communication method.  Dive into interactive training modules that guide you through the dots and dashes, and practice your skills with our realistic reception and transmission simulator.  Generate Morse code from text, and even customize the code table with your own characters and mnemonic chants! Track your progress with detailed statistics, identifying areas for improvement and celebrating your successes.  With a built-in phonetic alphabet and extensive customization options, Morse App is your comprehensive companion for learning and mastering Morse code. Download today and start tapping into a new world of communication!",
+    "icon": "/icons/com.mweutbycjynwq.morse.png"
+  },
+  "com.mybizscan": {
+    "title": "MyBizScan - Scan Business Card",
+    "package": "com.mybizscan",
+    "description": "Introducing our innovative Business Card Scanner app, designed to streamline how you manage professional contacts. With this app, you can scan business cards with just a tap and retrieve essential contact details like name, phone number, email, and company information. Gone are the days of manually inputting data or losing important contacts \u2014 simply scan and store.\n\nKey Features:\n\nQuick Scanning: Using cutting-edge OCR technology, our app accurately extracts contact details from business cards, including phone numbers, emails, and addresses.\nEffortless Storage: Organize your scanned contacts in a highly customizable folder structure. Create folders for different industries, regions, or events, and easily manage your growing network.\n\nUser-Friendly Interface: Our intuitive design ensures t",
+    "icon": "/icons/com.mybizscan.png"
+  },
+  "com.mycloudvip.spellingbee": {
+    "title": "Spelling Bee",
+    "package": "com.mycloudvip.spellingbee",
+    "description": "Waste no time, going through old school books and dictionaries to prepare you children or students for a Spelling Bee Competition.\n\nSpelling Bee has over 600 words divided by school year to help you sharpen your skills in this very rewarding skill.\n\nApp works OFFLINE and required NO WI-FI Connection.\n\nYou'll be ready for the Competition in NO TIME!\n\nDownload it FREE Today!",
+    "icon": "/icons/com.mycloudvip.spellingbee.png"
+  },
+  "com.mydiabetes": {
+    "title": "Diabetes:M - Blood Sugar Diary",
+    "package": "com.mydiabetes",
+    "description": "Designed for both smart phones and tablets, this application will help you manage your diabetes better and keep it under control. Whether you are Type 1 or Type 2, have Gestational Diabetes or just want to help and monitor a family member, this is the logbook app for you.\n\nThe application tracks almost all aspects of the diabetes treatment and provides you and with detailed reports, charts and statistics. You can send the reports to your supervising physician via email. Diabetes:M also gives you various tools, so you can find the trends in blood glucose levels and allows you to get an insight about normal and prolonged insulin boluses using its highly effective, top-notch Bolus Advisor.\n\nIt also has a vast nutrition database, to help you keep track of your food intake and nutrition informa",
+    "icon": "/icons/com.mydiabetes.png"
+  },
+  "com.funcube.loa": {
+    "title": "Legend of Ace",
+    "package": "com.funcube.loa",
+    "description": "Legend of Ace (so-called LoA) is a 5v5 MOBA game. But it\u2019s more interesting than the others. \n\nFeatures:\n\nLoA has improved a lot to the game\u2019s strategy. It replaced the item system with a card system. Therefore, players won\u2019t be suffering from item recipes. Instead, there are hundreds of cards to choose to enhance a hero. Every player can have a unique strategy for any hero.\n\nLoA is fast-paced. Each game takes only 10 minutes. So players won\u2019t miss the other beautiful things in their life. Imagine the difference between calling back to girlfriend within 10 mins and 30 minutes \u2026\u2026\u2026\n\nLoA needs lots of teamwork. Each team has five players. Each player has to select a role to play with, such as Tank, Healer, Shooter, Mage, Ganker. Players must cooperate to beat the enemies.\n\nLoA is the best pla",
+    "icon": "/icons/com.funcube.loa.png"
+  },
+  "com.netease.g78na.gb": {
+    "title": "Onmyoji Arena",
+    "package": "com.netease.g78na.gb",
+    "description": "[Game Introduction]\nImmerse yourself in the battle experience, the character story on the battlefield! \"Onmyoji Arena\" is a 5v5 Shikigami competitive battle mobile game under the Onmyoji IP.\nHere, you are not just an observer of the Shikigami story; forge a contract with your desired Shikigami, unleash the unique skill combinations of the Shikigami, activate Shikigami bond tactics and synergies, and on the ever-changing Heian-kyo battlefield, enact the shining moments between you and your Shikigami, unlocking parallel universe Shikigami lives!\nCome and join the hundreds of Shikigami cubs in Heian-kyo, and create your brand-new story on the MOBA battlefield!\n\n[Game Features]\n- Phenomenon-level mobile game \"Onmyoji\" IP, creating a parallel world of Shikigami\n- Fight side by side with over a ",
+    "icon": "/icons/com.netease.g78na.gb.png"
+  },
+  "com.mobilechess.us": {
+    "title": "Magic Chess: Go Go US",
+    "package": "com.mobilechess.us",
+    "description": "A New Strategy Game from the MLBB.US Team! \nWelcome to Magic Chess: Go Go US, the ultimate strategy game combining MLBB.US heroes with fresh and casual gameplay. It's not about fast mechanics, but about wisdom and a touch of luck! Play anywhere, anytime, and have fun with friends!\n\nNew Battleground for MLBB.US Heroes: Strategy Fully Upgraded\nLead your favorite MLBB.US heroes in an all-new way. Recruit, merge, and strategize to form the ultimate lineup.\n\n8-Player Showdown: Outwit to Become the Champion\nFace off against 7 others in a tactical battle of wits. Want more fun? Team up with friends and show them who the real strategist is!\n\nUnique Commander Skills: Your Tactical Edge \nEach Commander brings exclusive skills that let you create bold, personalized strategies to dominate the game.\n\nP",
+    "icon": "/icons/com.mobilechess.us.png"
+  },
+  "com.mojang.minecraftedu_preview": {
+    "title": "Minecraft Education Preview",
+    "package": "com.mojang.minecraftedu_preview",
+    "description": "THIS APP IS FOR SCHOOL AND ORGANIZATIONAL USE. \n\nMinecraft Education Preview allows you to experience upcoming new features, fresh from the development team at Mojang Studios! Please note the following information about Minecraft Education Preview:\n - You will not be able to join non-Preview player\u2019s games\n - Most settings will not be preserved from the retail version of Minecraft Education\n - Any worlds played in Preview will not transfer to the retail version of Minecraft Education\n - Lessons from the Library will work in Preview\n - Preview builds may be unstable and do not represent final version quality\n\nMinecraft Education licenses can be purchased with Admin access to a Microsoft 365 Admin Center account. Talk to your Tech Lead for information on academic licensing. \n\nTerms of use: T",
+    "icon": "/icons/com.mojang.minecraftedu_preview.png"
+  },
+  "com.mojang.minecraftedu": {
+    "title": "Minecraft Education",
+    "package": "com.mojang.minecraftedu",
+    "description": "THIS APP IS FOR SCHOOL AND ORGANIZATIONAL USE. \n\nMinecraft Education is a game-based platform that inspires creative, inclusive learning through play. Explore blocky worlds that unlock new ways to tackle any subject or challenge. \n\nDive into subjects like reading, math, history, and coding with lessons and standardized curriculum designed for all types of learners. Or explore and build together in creative open worlds.\n\nUSE IT YOUR WAY\nWith hundreds of ready-to-teach lessons, creative challenges, and blank canvas worlds, there are lots of ways to make Minecraft Education work for your students. It\u2019s easy to get started, no gaming experience necessary.\n\nPREPARE STUDENTS FOR THE FUTURE\nHelp learners develop key key skills like problem solving, collaboration, digital citizenship, and critical",
+    "icon": "/icons/com.mojang.minecraftedu.png"
+  },
+  "com.youlovehamit.brine": {
+    "title": "Herobrine Addon Minecraft PE",
+    "package": "com.youlovehamit.brine",
+    "description": "Step into a world of horror and adventure with the Herobrine Mod for Minecraft Pocket Edition. This thrilling addon brings the legendary boss Herobrine and a host of terrifying mobs into your game, turning survival into a real challenge. As you explore, you\u2019ll encounter screamers, unexpected attacks, and creepy creatures like Dwaller and monsters from The Fog, lurking in caves and hiding from the light. Herobrine can appear suddenly, stalk you from the shadows, and even control other mobs, turning them into his servants.\n\nTo face him, find or build a special altar, prepare for battle, and equip yourself with the best gear. Inside our launcher, you\u2019ll also find mods for weapons, mutants, parasites, zombies, and dragons, as well as unique Herobrine skins, maps, and textures to make your game",
+    "icon": "/icons/com.youlovehamit.brine.jpg"
+  },
+  "com.pwaservice.modsforminecraftpe": {
+    "title": "AddOns & Mods for Minecraft PE",
+    "package": "com.pwaservice.modsforminecraftpe",
+    "description": "Addons For Minecraft: Minecraft Mods \u2013 Explore Endless Creativity!Bring your Minecraft world to life with the most powerful Addons For Minecraft: Minecraft Mods available today. With our Minecraft Addons App, you can install Mods For Minecraft PE in just one tap.\n\nWhether you\u2019re building, battling, or exploring, this is the perfect companion for every player.\n\n\ud83d\udcc4 Key Features of This Amazing App: \ud83d\udcc4\n\ud83d\udee0\ufe0f Easy installation;\n\ud83d\udd0e Smart search;\n\ud83d\udcf1 Wide compatibility \u2013 works with all versions;\n\ud83d\ude80 Huge library;\n\u2694\ufe0f New gameplay \u2013 get weapons, furniture, vehicles, and much more;\n\ud83d\udcc2 Organized categories;\n\ud83d\udd2e Frequent updates.\n\nTransform Your Minecraft Experience!Discover how Addons For Minecraft: Minecraft Mods can completely change how you play. You can add new gameplay features like cars, planes, and even h",
+    "icon": "/icons/com.pwaservice.modsforminecraftpe.png"
+  },
+  "com.myfawwaz.simplekeyboard": {
+    "title": "Tashkil Keyboard",
+    "package": "com.myfawwaz.simplekeyboard",
+    "description": "Arabic typing is easier to read if there is harokat, this keyboard makes it easy for you to type Arabic with harokat\n accompanied by voice to text which converts the voice into Arabic writing\n extra features with arabicpost\n converter from Latin to Arabic\n How to use\n\n 1. Click set enable keyboard will enter keyboard settings,\n Check / Enable Arabic Harokat default and US default. Arabic 2nd\n\n 2. Click change keyboard harokat will appear keyboard menu select one Harokat keyboard\n a.Arabic Harokat default The main display is Arabic\n  Latin second\n b.  US default.Arabic 2nd main Latin display, 2nd Arabic\n\n 3. Test the keyboard by clicking the text editor on it\n\n\n\n #NOTE\n For some types of cellphones such as this Samsung keyboard cannot be used to enter a pin or password because you use the d",
+    "icon": "/icons/com.myfawwaz.simplekeyboard.png"
+  },
+  "com.mykeyboard.myphotokeyboard.bengalikeyboard": {
+    "title": "Bengali Keyboard",
+    "package": "com.mykeyboard.myphotokeyboard.bengalikeyboard",
+    "description": "Bengali Keyboard allows you to type in Bengali language. You can compose emails, post on social network and write some one messages through Bengali Keypad. \n\nWith Bengali Keyboard you can write all Bengali Alphabets, letters and words. Bengali keyboard is the easiest keyboard to write in Bengali language. Bengali keyboard for all of us who love Bengali language.\n\nYou can use this keyboard to write in Bengali text. No need to copy and paste Bengali text. This app is useful for Nepal people and Bengali speaking people across the world. \n\nBengali Keyboard is a great tool and must to use app for your day with different types of features. Download Bengali Keyboard and type in nepalese language. Share with others.\n\n\nThemes Customisation:\n\n+ Stunning Themes is there to decorate your keyboard.\n+ Y",
+    "icon": "/icons/com.mykeyboard.myphotokeyboard.bengalikeyboard.png"
+  },
+  "com.mykeyboard.myphotokeyboard.gujaratikeyboard": {
+    "title": "Gujarati Keyboard",
+    "package": "com.mykeyboard.myphotokeyboard.gujaratikeyboard",
+    "description": "Gujarati Keyboard allows you to type in Gujarati Keyboard language. You can compose emails, post on social network and write some one messages through Gujarati Keyboard Keypad. \n\nWith Gujarati Keyboard you can write all Gujarati Keyboard Alphabets, letters and words. Gujarati Keyboard is the easiest keyboard to write in Gujarati Keyboard language. Gujarati Keyboard for all of us who love Gujarati Keyboard language.\n\nYou can use this keyboard to write in Gujarati Keyboard text. No need to copy and paste Gujarati Keyboard text. This app is useful for Nepal people and Gujarati Keyboard speaking people across the world. \n\nGujarati Keyboard is a great tool and must to use app for your day with different types of features. Download Gujarati Keyboard and type in Gujarati Keyboard language. Share ",
+    "icon": "/icons/com.mykeyboard.myphotokeyboard.gujaratikeyboard.png"
+  },
+  "com.mykeyboard.myphotokeyboard.kannadakeyboard": {
+    "title": "Kannada Keyboard",
+    "package": "com.mykeyboard.myphotokeyboard.kannadakeyboard",
+    "description": "Kannada Keyboard allows you to type in Kannada language. You can compose emails, post on social network and write some one messages through Kannada Keypad. \n\nWith Kannada Keyboard you can write all Kannada Alphabets, letters and words. Kannada keyboard is the easiest keyboard to write in Kannada language. Kannada keyboard for all of us who love Kannada language.\n\nYou can use this keyboard to write in Kannada text. No need to copy and paste Kannada text. This app is useful for Nepal people and Kannada speaking people across the world. \n\nKannada Keyboard is a great tool and must to use app for your day with different types of features. Download Kannada Keyboard and type in Kannada language. Share with others.\n\n\nThemes Customization:\n\n+ Stunning Themes is there to decorate your keyboard.\n+ Yo",
+    "icon": "/icons/com.mykeyboard.myphotokeyboard.kannadakeyboard.png"
+  },
+  "com.mykeyboard.myphotokeyboard.vietnamesekeyboard": {
+    "title": "Vietnamese Keyboard",
+    "package": "com.mykeyboard.myphotokeyboard.vietnamesekeyboard",
+    "description": "Vietnamese Keyboard allows you to type in Vietnamese language. You can compose emails, post on social network and write some one messages through Vietnamese Keypad. \n\nWith Vietnamese Keyboard you can write all Vietnamese Alphabets, letters and words. Vietnamese keyboard is the easiest keyboard to write in Vietnamese language. Vietnamese keyboard for all of us who love Vietnamese language.\n\nYou can use this keyboard to write in Vietnamese text. No need to copy and paste Vietnamese text. This app is useful for Nepal people and Vietnamese speaking people across the world. \n\nVietnamese Keyboard is a great tool and must to use app for your day with different types of features. Download Vietnamese Keyboard and type in Vietnamese language. Share with others.\n\n\nThemes Customization:\n\n+ Stunning Th",
+    "icon": "/icons/com.mykeyboard.myphotokeyboard.vietnamesekeyboard.png"
+  },
+  "com.samfinaco.paradise": {
+    "title": "Bermuda Adventures Farm Island",
+    "package": "com.samfinaco.paradise",
+    "description": "Looking for a family adventure game? Try our Bermuda Adventures free farming games about village life in paradise cove! Harvest and enjoy adventures in island game.\n\nImagine that a big family gets together to celebrate Grandma\u2019s birthday on a tropical paradise island! But suddenly something went wrong, a plane lost control and made an emergency landing down in Bermuda Island of adventure and family members were scattered in all directions. Now they must not only learn to live on a farm on a tropical lost island, but also find all the relatives lost during landing in our free farming games.\n\nMain features of Bermuda Adventures Farm Island:\n\n\ud83d\udd39 A lot of characters with unique stories and behaviors in farm family adventure time games;\n\ud83d\udd39 Travelers from the past and other interesting neighbours ",
+    "icon": "/icons/com.samfinaco.paradise.png"
+  },
+  "com.toppluva.grandmountain2": {
+    "title": "Grand Mountain Adventure 2",
+    "package": "com.toppluva.grandmountain2",
+    "description": "\ud83c\udfc6 Best Mobile Game of the Year \u2014 Swedish Game Awards 2025\n\ud83c\udfc6 Best Sports Game of the Year \u2014 Pocket Gamer Awards 2025\n\nStrap in and drop in. Grab your skis or snowboard and explore massive open-world mountains. With no ads, and no microtransactions. The ultimate skiing and snowboarding adventure, from a series played by over 30 million players worldwide.\n\nMASSIVE EXTREME SPORT PLAYGROUND\nExplore non-linear ski resorts with busy slopes, deep forests, steep cliffs, untouched backcountry, and lively Apr\u00e8s-Skis. Follow the pistes, ride the lifts, hit the snow park, or freeride down a steep chute. The choice is yours in this winter sports paradise. \n\nHUNDREDS OF CHALLENGES\nSlalom, big air, slopestyle, downhill racing, freeride, ski jumping, and much more. The skill-based challenges are easy to pi",
+    "icon": "/icons/com.toppluva.grandmountain2.png"
+  },
+  "com.noodlecake.altosodyssey": {
+    "title": "Alto's Odyssey",
+    "package": "com.noodlecake.altosodyssey",
+    "description": "Just beyond the horizon sits a majestic desert, vast and unexplored. \n\nJoin Alto and his friends and set off on an endless sandboarding journey to discover its secrets.\n\nSoar above windswept dunes, traverse thrilling canyons, and explore long-hidden temples in a fantastical place far from home.\n\nAlong the way, you\u2019ll grind across vines, bounce atop hot air balloons, ride towering rock walls, and escape mischievous lemurs \u2013 all while uncovering the desert\u2019s many mysteries. \n\nFeatures:\n\n\u2022 A standalone experience. Alto\u2019s Odyssey is the follow-up to the critically acclaimed Alto\u2019s Adventure, but you don\u2019t need to have played one to enjoy the other.\n\n\u2022 Easy to learn, difficult to master. At the heart of the Alto series is an elegant one-touch trick system. Chain together combos, and complete 18",
+    "icon": "/icons/com.noodlecake.altosodyssey.png"
+  },
+  "com.noodlecake.altosadventure": {
+    "title": "Alto's Adventure",
+    "package": "com.noodlecake.altosadventure",
+    "description": "Join Alto and his friends as they embark on an endless snowboarding odyssey. Journey across the beautiful alpine hills of their native wilderness, through neighbouring villages, ancient woodlands, and long-abandoned ruins.\n\nAlong the way you'll rescue runaway llamas, grind rooftops, leap over terrifying chasms and outwit the mountain elders \u2013 all while braving the ever changing elements and passage of time upon the mountain.\n\nFeatures:\n\n\u2022 Fluid, graceful and exhilarating physics-based gameplay\n\n\u2022 Procedurally generated terrain based on real-world snowboarding\n\n\u2022 Fully dynamic lighting and weather effects, including thunderstorms, blizzards, fog, rainbows, shooting stars, and more\n\n\u2022 Easy to learn, difficult to master one button trick system\n\n\u2022 Chain together combos to maximize points and s",
+    "icon": "/icons/com.noodlecake.altosadventure.png"
+  },
+  "com.toppluva.grandmountain": {
+    "title": "Grand Mountain Adventure",
+    "package": "com.toppluva.grandmountain",
+    "description": "Welcome to a Grand Mountain Adventure!\n\nGo explore open-world mountains and ski resorts in this snowy skiing and snowboarding adventure. With complete freedom to ski or snowboard wherever you want, it's up to you what to do: land a massive cliff drop, freeride down a steep chute, clip the gates in a narrow slalom track, stomp the perfect run in a fun-park, get some adrenaline from racing down the mountain, or simply enjoy some casual and relaxing turns in the backcountry.\n\nFeatures:\n* 11 huge open-world mountains awaiting exploration\n* Over 200 different challenges to discover and master\n* 14 types of arcade-like challenges, including Super G, Slopestyle, Freeride, and Big Air\n* 20+ hours of gameplay (and at least 20 more to complete everything)\n* Advanced trick system with flips, spins, c",
+    "icon": "/icons/com.toppluva.grandmountain.png"
+  },
+  "com.myphotophonedialer.colorcallscreen.callthemes": {
+    "title": "My Photo Phone Dialer",
+    "package": "com.myphotophonedialer.colorcallscreen.callthemes",
+    "description": "Set Photo on Phone Dialer with easy phone dialer. Apply Video Particle effects on your photo phone dialer. Make it interesting & Beautiful with animation, graphics, particle effects.\n\nWe came with full feature Phone Dialer with your Photo on it. Now easily set Your photo on phone dialer. My photo Phone Dialer comes with many phone dialer background effects & wallpapers.\n\nDownload photo on caller screen to make your caller screen beautiful and stunning with caller phone dialer themes, effects & backgrounds.\nThis\u00a0Full Screen Photo Caller ID\u00a0app is best app to demonstration you the Caller ID Information on full screen for incoming call or outgoing calls. The Full Screen Caller ID is a replacement of old small caller screen for your phone.\n\nPhoto Caller Screen\u00a0will display high quality full sc",
+    "icon": "/icons/com.myphotophonedialer.colorcallscreen.callthemes.png"
+  },
+  "com.myprorock.magneticsensor": {
+    "title": "Magnetic Sensor | Magnetometer",
+    "package": "com.myprorock.magneticsensor",
+    "description": "Turn your device into a professional-grade magnetic sensor toolkit.\nMeasure magnetic fields with precision and navigate confidently using your phone's built-in hardware. This app transforms your device into a reliable EMF meter, Gauss meter, and offline compass. Designed for teachers, students, DIY enthusiasts, and outdoor adventurers, it provides clear, real-time data without the gimmicks.\n\ud83d\ude80 Key Features\n\u2022\tPrecise EMF & Magnetic Field Meter: Monitor magnetic field strength in real-time using 3-axis (X/Y/Z) magnetometer data. View accurate readings in microtesla (\u00b5T) to detect magnetic interference or strength.\n\u2022\tOffline Compass for Navigation: Access a dependable compass that works without mobile data or Wi-Fi. Perfect for hiking, camping, and orienting yourself in remote locations.\n\u2022\tCus",
+    "icon": "/icons/com.myprorock.magneticsensor.jpg"
+  },
+  "com.mysiponline.calculator": {
+    "title": "SIP Calculator",
+    "package": "com.mysiponline.calculator",
+    "description": "List of Best Mutual Funds Calculators -\n\nSIP Calculator: \nCalculate your future value of monthly sip investment compounded monthly or annually. \n\nSIP Plan Calculator: \nCalculate the optimal SIP amount needed to reach your desired corpus and tailor your investments accordingly.\n\nSIP Top-Up Calculator: Elevate your wealth-building strategy with our SIP top-up calculator. Increase your SIP contributions annually and watch your investments flourish over time.\n\nLumpsum Calculator: \nCalculate projected returns on your lump sum investments and make well-informed financial decisions.\n\nSIP Return Calculator:\nInstantly visualize the monthly SIP returns for all Mutual Fund schemes in your chosen category. Gain deep insights into your SIP investments\u2019 growth potential. \n\nLumpsum Return Calculator: \nVi",
+    "icon": "/icons/com.mysiponline.calculator.png"
+  },
+  "com.myvirtual.businesscard": {
+    "title": "My Virtual Business Card",
+    "package": "com.myvirtual.businesscard",
+    "description": "MVBC is the best online business card offering an innovative platform to manage your professional business cards on your mobile phone. This app can be used over cross-platforms and all smart devices. In fact, traditional business cards can also be scanned and saved in the app. Thus, it gives contactless and eco-friendly Smart digital business cards that can be shared on both Android & iOS devices. One can send emails\ud83d\udce7, messages\ud83d\udcac, make calls\ud83d\udcde, get direction to the addresses\ud83c\udfe2, etc. with this virtual business card app.\n\nFeatures:\n\u2b50 Offer: New user gets 5 free cards at My virtual business card.\n\u2b50 Social Link: You can link your LinkedIn & Facebook profiles to your card.\n\u2b50 Share Cards: Send your cards easily by email or QR code.\n\u2b50 Card Reader: Scan your print card and save them on your tablet or",
+    "icon": "/icons/com.myvirtual.businesscard.png"
+  },
+  "com.namedp.nameletterdp.stylishprofilemaker": {
+    "title": "Letter Name DP Maker - DP Art",
+    "package": "com.namedp.nameletterdp.stylishprofilemaker",
+    "description": "Introducing the Letter Name DP Maker App \u2013 your go-to solution for creating stylish and personalized nickname display pictures (DPs) and profile photos. Unleash your creativity and make your mark on social networks with this easy-to-use and encouraging dp maker app.\nCraft your own stylish nickname or name letter DP with the Letter Name DP Maker app \u2013 a perfect tool to add a touch of uniqueness to your photos, frames, and DPs. Whether it's for your social media profiles, frames, or personalized keychain photo backgrounds, this profile picture creator app has got you covered. Express yourself with love quotes, heart-touching greetings, and a plethora of stylish elements.\nArt and design your name with different gradient colors and amazing DPs to make it likable, fancy, and stylish. Personaliz",
+    "icon": "/icons/com.namedp.nameletterdp.stylishprofilemaker.png"
+  },
+  "com.nametattoodesigns.tattoodesigns": {
+    "title": "Name Tattoo Designs",
+    "package": "com.nametattoodesigns.tattoodesigns",
+    "description": "One of the most popular Name Tattoo Designs is the App. Artists worldwide come across at least one customer demanding a name tattoo designs daily. The history of name tattoos is as old as the tradition of the tattoo itself. The earliest known name tattoo designs were observed on the bodies of the tribes, who etched the names of their ancestors or their chiefs on the bodies. This tradition later spread to the modern era, where name tattoo ideas were used to express love and affection. It could be the name of one\u2019s spouse, fianc\u00e9, crush, parents, kids, friends and even pets. If you plan to surprise your favorite person, there can be no better way to do it than choosing one of these unique Indian name tattoos ideas.\n\nIt is one of the most affectionate and loyalty shows that a person you care ",
+    "icon": "/icons/com.nametattoodesigns.tattoodesigns.jpg"
+  },
+  "com.nandgatesoftware.animalssounds": {
+    "title": "Animal Sounds for kid learning",
+    "package": "com.nandgatesoftware.animalssounds",
+    "description": "An animal sound application for children, kids or your baby, but also, an animal sound application for adults!\n\ud83d\udc36 Animal sound for kids! - An animal sound app for kids and a wonderful kids animal farm. Your kids will love it!\n\ud83d\udc2f Animal noice for Parents and their kids! - A farm game, with animals sounds for kids. Enjoy classic kids games on your mobile!\n\nSweet animal Farm! Kids, Learning animal sounds. Babies and toddlers love animal sounds and animal noises so much. Babies start by learning to form sounds, and then learning to form words.\n\n\ud83e\udd8a Animals sounds for kids offline: Learn more than 12 sounds of animals in a playful way.\n\ud83d\udc34 Animal noises for babies: Discover animal's sounds with your child!\n\ud83d\udc37 Animals soundboard: Animals around a farm or in the stall, exotic animals sounds for kids, in",
+    "icon": "/icons/com.nandgatesoftware.animalssounds.png"
+  },
+  "com.nasuf.whipsoundeffects": {
+    "title": "Pocket Whip Sound",
+    "package": "com.nasuf.whipsoundeffects",
+    "description": "Pocket Whip Sound: Unleash Laughter Anytime with a Crack!\n\nLooking to add some fun to your day? Pocket Whip Sound is your go-to Android app for turning everyday moments into hilarious experiences! Whether you\u2019re teasing a friend, cracking jokes at a party, or simply looking to spice up the mood, this app delivers the classic whip sound effect with just a shake or tap.\n\nWhy Pocket Whip Sound is Essential for Fun Lovers:\nInstant Entertainment: Add humor in a heartbeat! With the Pocket Whip Sound app, you can liven up any situation in seconds. Whether it's a funny moment or a playful tease, just whip out your phone, shake or tap, and let the laughter roll.\n\nFast and Responsive: Designed for speed, the app loads in an instant, so you\u2019ll never miss the perfect moment to crack the whip. No lag, ",
+    "icon": "/icons/com.nasuf.whipsoundeffects.jpg"
+  },
+  "com.nathanatos.Biorhythmmm": {
+    "title": "Biorhythmmm",
+    "package": "com.nathanatos.Biorhythmmm",
+    "description": "Explore your biorhythm cycles with Biorhythmmm, a 100% free app with no ads.\n\nBiorhythmmm displays your personal biorhythms in a simple chart. Look into the past or future to see how your biorhythms could affect your daily life. You can also add biorhythms for your family or friends, and use Compatibility view to compare your biorhythms.\n\nWhat are biorhythms?\n\nBiorhythms are natural cycles that influence the states of our minds and bodies. The three primary cycles are:\n\n* Intellectual cycle influencing mental clarity and concentration\n\n* Emotional cycle governing mood and emotional stability\n\n* Physical cycle affecting strength and energy\n\nThe app also includes support for four other secondary cycles.",
+    "icon": "/icons/com.nathanatos.Biorhythmmm.png"
+  },
+  "com.nbow.audioeditor": {
+    "title": "Ringtone Maker & MP3 Cutter",
+    "package": "com.nbow.audioeditor",
+    "description": "Music Audio Editor MP3 Cutter is powerful and very simple audio editor tool. \n\nyou can create and set ringtone in just few clicks. its easy to cut and merge songs.\n\nFree Easy and Fast with audio trimmer , splicing , mixing , video to audio , convert audio to different formats , volume booster , remove part , compress , reverse .\nClick on collection icon in top bar to access your converted files.\n\nFeatures:\n\n1. Easily Cut  Songs\n\nyou can trim music files very accurate and fast. you can save it and rename it. you can also add fade in and fade out in songs.\n\n\n2. Video to MP3\n\nyou can convert video files to audio file. there are multiple save options. like MP3 ,  AAC , M4A , WAV\n\n3. Merge Multiple Audio to One File\n\nyou can select any numbers of files and save into one file\n\n4. Volume Booster\n",
+    "icon": "/icons/com.nbow.audioeditor.png"
+  },
+  "com.nedelyaapp.dogclicker": {
+    "title": "DogUp: Dog Training & Clicker",
+    "package": "com.nedelyaapp.dogclicker",
+    "description": "DogUp helps you train your dog and organize daily care in one place.\n\nWhether you\u2019re raising a puppy, working on basic obedience, improving leash walking, or building better daily routines, DogUp combines guided lessons, a built-in clicker, care trackers, calendar tools, reminders, and DogUp Assistant support.\n\nGuided lessons for real-life skills\n\nFollow step-by-step lesson packs designed for everyday progress. DogUp includes guided training for:\n\nnew dog foundations\npuppy basics\nleash walking\nrecall\ncalm behavior\ntricks\n\nEach lesson is broken into simple steps with tips, images, and clear progression to help you stay consistent.\n\nBuilt-in dog clicker\n\nTrain anytime with a clicker that\u2019s always ready inside the app. Choose the sound that fits your routine and keep your training tool close ",
+    "icon": "/icons/com.nedelyaapp.dogclicker.png"
+  },
+  "com.neonlume.app": {
+    "title": "Neon Lume - Edge Lighting",
+    "package": "com.neonlume.app",
+    "description": "Transform your device with Neon Lume, the ultimate edge lighting tool. Bring your screen to life with vibrant, customizable glow effects that react to your style.\n\n-- KEY FEATURES --\n\nFoldable Ready: Experience true dual-screen freedom. Assign a unique glow style to your outer cover screen and a completely different effect for your inner main display.\n\nCustom Edge Lighting: Choose from a spectrum of neon colors and animation styles.\n\nGlow Customization: Adjust velocity, corner radius, padding, and offset to fit your specific phone model.\n\nBattery Optimized: High-performance effects that won\u2019t drain your daily power.\n\n-- WHY NEON LUME? -- Designed for simplicity and visual impact, Neon Lume offers a professional-grade personalization experience for every Android user. Whether you are rockin",
+    "icon": "/icons/com.neonlume.app.png"
+  },
+  "com.nexacam.binocularshdcamera": {
+    "title": "NexaCam \u2013 Binoculars HD Camera",
+    "package": "com.nexacam.binocularshdcamera",
+    "description": "NexaCam \u2013 Binoculars HD Camera is a versatile camera app that lets you capture photos and videos using zoom modes, night effects, GPS information overlays, and creative visual filters.\n\nSwitch between different camera layouts and use built-in tools to adjust brightness, apply filters, and capture moments in various lighting conditions.\n\n\ud83d\udd2d Multiple Camera Layouts  \nChoose from different camera modes designed for everyday use:  \n\u2022 Binocular-style layout  \n\u2022 Zoom camera mode  \n\u2022 Night mode camera  \n\u2022 GPS time camera  \n\u2022 Compass camera  \n\n\ud83d\udcf8 Photo & Video Capture  \nCapture photos and record videos directly within the app.  \n\u2022 Take photos anytime  \n\u2022 Record videos easily  \n\u2022 View recent captures instantly  \n\n\ud83c\udf19 Night Mode Camera  \nUse night mode filters to improve visibility in low-light environm",
+    "icon": "/icons/com.nexacam.binocularshdcamera.png"
+  },
+  "com.nexsports.bowling.club.sports.games": {
+    "title": "Bowling Strike\u20133D Bowling Game",
+    "package": "com.nexsports.bowling.club.sports.games",
+    "description": "Bowling like never before! Get ready to strike hard in Bowling Strike Bowling Game, a fun and addictive experience for fans of 3D bowling and competitive games. Whether you're a casual player or aiming to become a bowling champion, this is the bowling game you\u2019ve been waiting for.\n\nChallenge yourself in the exciting world of 3D bowling and experience the thrill of spin bowling game mechanics. Master the art of aiming the perfect shot in this top-notch arcade bowling experience. Bowl like a pro in different modes, environments, and unlock challenges across various bowling nation arenas!\n \nIf you enjoy bowling games or fast-paced competitive games, then this is for you. With smooth controls and realistic physics, your journey in this bowling game is as thrilling as a real bowling clash. Stri",
+    "icon": "/icons/com.nexsports.bowling.club.sports.games.jpg"
+  },
+  "com.newsparkapps.telugutypingkeyboard": {
+    "title": "Telugu typing keyboard",
+    "package": "com.newsparkapps.telugutypingkeyboard",
+    "description": "Telugu Typing Keyboard \u2013 Easy English to Telugu Typing Made Simple!\n\nType Telugu effortlessly using English letters with the Telugu Typing Keyboard app! Just type Telugu words in English (Manglish), and watch them instantly convert into beautiful Telugu script.\n\nThis intuitive keyboard lets you compose, save, and share Telugu messages with ease. Whether you\u2019re chatting, posting on social media, or writing notes, the app makes Telugu typing fast and hassle-free.\n\n\ud83c\udf1f Key Features:\nEffortless Telugu Typing: Type Telugu words using English letters and get instant conversion.\n\nSave Messages: Store your frequently used messages for quick access anytime.\n\nEasy Sharing: Share your Telugu messages seamlessly across all your favorite apps.\n\nStatus Saver: Save and reuse your favorite statuses with jus",
+    "icon": "/icons/com.newsparkapps.telugutypingkeyboard.png"
+  },
+  "com.nexttechgamesstudio.mandala.paint.by.number.sandbox.coloring.pixel.art.number": {
+    "title": "Mandala Color by Number Book",
+    "package": "com.nexttechgamesstudio.mandala.paint.by.number.sandbox.coloring.pixel.art.number",
+    "description": "Mandala Color by Number Book is a unique color therapy game that provides adults with a\nsoothing and relaxing experience. This game is designed to promote mindfulness and creativity\nthrough the therapeutic art of mandala coloring. Mandala therapy has been proven to reduce\nstress and anxiety while improving focus and concentration.\nYou can paint the coloring mandalas with watercolors, crayons, oil paint, and enjoy the coloring\nbook with creative ideas and feel like an artist with a complete variety of anti-stress pictures.\nEngage yourself in hours of peaceful color therapy with dozens of number painting pages\nincluding mandala drawing, flora, fauna, and geometric designs in color blocks.\nHow To Play:\n-The game is simple to play.\n- To play this game, you need to select which picture you want",
+    "icon": "/icons/com.nexttechgamesstudio.mandala.paint.by.number.sandbox.coloring.pixel.art.number.png"
+  },
+  "com.nfa.distancemeter": {
+    "title": "Distance Meter",
+    "package": "com.nfa.distancemeter",
+    "description": "This is a simple measuring tool app that makes some length and height measurements.\n\nWhat does it do?\n\n\u2022 Distance Meter allows you to measure the approximate distance and height of an object with using your phone's camera.\n\u2022 To measure the distance, just stand up, target at the BOTTOM and touch the shutter.\n\u2022 To measure the height, target at the TOP and touch the shutter.\n\nHow to use Distance Meter?\n\nStep 1. You can measure the distance from you to an object by aiming at the BOTTOM (on the ground) of it.\nStep 2. The height of an object can be measured by aiming at the TOP of it.\n\n\u2606Bonus\u2606\nOther measurement tools: Area Meter, Image Meter\n\n\u2022 Area Meter\nYou can also measure an object's area and border widths.\nSet an approximate distance to object and adjust borders, then see the calculated are",
+    "icon": "/icons/com.nfa.distancemeter.png"
+  },
+  "com.niesens.morsetrainer": {
+    "title": "Morse Code Trainer (Learn CW)",
+    "package": "com.niesens.morsetrainer",
+    "description": "**Free: no ads, no privacy intrusion, no hidden fees, fully open source**\n\nThe recommended way to learn Morse code (cw) is not by remembering dots and dashes but by remembering the sound.\n\nThis app plays character, words and phrases in Morse code, gives you a brief moment of time to recognize it and then speaks out loud the answer.  Allowing you to learn Morse code without having to look at or interact with your phone.  Hopefully the app helps you and me learn to copy Morse code in our heads.\n\nFeatures:\n* User setting to repeat character/word/phrases multiple times before going to the next one.\n* User setting to give hint before/after Morse code.  Allows you to practice reading and generating Morse code in your head.\n* Your own custom word list (see below).\n* Set speed, farnsworth spacing,",
+    "icon": "/icons/com.niesens.morsetrainer.png"
+  },
+  "com.nightcamerathermal.digitalmicroscopelenscam": {
+    "title": "Digital Microscope Lens Cam",
+    "package": "com.nightcamerathermal.digitalmicroscopelenscam",
+    "description": "Digital Microscope Lens Cam \u2013 an advanced zooming tool equipped with the latest features, enabling clear viewing of distant objects even in dark or low-light environments. With various color options for zoom filter effects, this tool facilitates the discovery of small objects, complete with photo capture and video recording capabilities.\n\nThis versatile app transcends its microscope function to serve as a Telescope, Binoculars, Magnifier, and Night Camera. Particularly effective in low-light conditions, it boasts a flashlight feature for optimal visibility. Manual camera adjustments further enhance image clarity, especially in dimly lit settings.\n\nExperience enhanced magnification with this top-notch zooming app, allowing for crystal-clear viewing of small objects and text. Whether deciphe",
+    "icon": "/icons/com.nightcamerathermal.digitalmicroscopelenscam.png"
+  },
+  "com.nightmodecamerahdzoom.photoandvideorecorder": {
+    "title": "Night Mode Camera HD Zoom",
+    "package": "com.nightmodecamerahdzoom.photoandvideorecorder",
+    "description": "Advance zooming Night Camera built-in radius app that allows you to see the faraway objects in low light. You have four different color options for night filter effects to find the object with contrast photo shooting and video recording. You can also use this application as a Microscope, Binoculars, Magnifier, Ultra Zoom, Night Camera, and much more with autofocus Flash Light even in the dark places. With the help of this application, you can adjust the camera manually such as exposure which will help in dark places.\n\nFeatures\n\u2022 Easy to use\n\u2022 HD Photo and Video Quality\n\u2022 Simple UI\n\u2022 Amplifier\n\u2022 Saturation\n\u2022 Light mode\n\u2022 Autofocus\n\u2022 Brightness and Contrast Control\n\u2022 Manual focus and continuous autofocus\n\u2022 Front, rear camera\n\u2022 Photo Camera\n\u2022 Flashlight\n\nPermissions:\nWe do not get any informa",
+    "icon": "/icons/com.nightmodecamerahdzoom.photoandvideorecorder.png"
+  },
+  "com.nikk797tech.tip_calculator": {
+    "title": "Tip Calculator & Split Bill",
+    "package": "com.nikk797tech.tip_calculator",
+    "description": "Tip Calculator & Bill Split \u2013 Restaurant Tip Calculator\n\nEasily calculate restaurant tips and split bills between friends with this simple and fast Tip Calculator.\n\nWhether you're dining out, ordering food, or sharing a bill with friends, this app helps you quickly determine the correct tip and total payment.\n\nSimply enter the bill amount, select a tip percentage, and instantly see the tip amount and final bill.\n\nFeatures\n\nFast Tip Calculation\nCalculate tips instantly using common percentages such as 15%, 18%, and 20%.\n\nBill Splitting\nSplit the total bill between multiple people and see how much each person should pay.\n\nCustom Tip Percentage\nAdjust the tip percentage to match your preference.\n\nPer Person Breakdown\nSee how much each person pays including tip.\n\nSimple and Easy Interface\nClea",
+    "icon": "/icons/com.nikk797tech.tip_calculator.png"
+  },
+  "com.nilkamal.bowling.strike.game": {
+    "title": "Bowling Strike - 3D bowling",
+    "package": "com.nilkamal.bowling.strike.game",
+    "description": "Welcome to Bowling Strike, the ultimate destination for Tenpin Bowling enthusiasts! Immerse yourself in the thrilling world of 3D bowling and become a Bowling Master in this action-packed sports game. With stunning graphics, realistic physics, and intuitive controls, Bowling games delivers an authentic bowling experience right to your fingertips.\n\nSimple to play. Flick forward with your finger to throw the ball and knock down the pins. Swipe across the screen to add spin to the ball. The most exciting multiplayer bowling games on your device.\n\nChoose your favorite bowling ball and step onto the lane to test your skills in a variety of challenging environments. Aim carefully, adjust your angle, and unleash the perfect Bowling Strike to knock down all the pins in style. Whether you're a seas",
+    "icon": "/icons/com.nilkamal.bowling.strike.game.png"
+  },
+  "com.niuaigo.mahjong.classic": {
+    "title": "Mahjong Classic: Tile Puzzle",
+    "package": "com.niuaigo.mahjong.classic",
+    "description": "Mahjong Classic \u2013 Relax, match tiles, and sharpen your mind!\n\nExperience the timeless joy of Mahjong Solitaire with Mahjong Classic, a beautifully crafted tile-matching puzzle game. Inspired by traditional Chinese mahjong and modern casual design, Mahjong Classic brings you thousands of carefully crafted boards, calming visuals, and intuitive gameplay perfect for everyone.\n\n\ud83e\udde9 How to Play:\n- Match pairs of identical tiles to remove them from the board.\n- Only free tiles (not blocked or covered) can be paired.\n- Clear all tiles to complete the puzzle and unlock the next challenge.\n- Easy to pick up, relaxing to play, and rewarding to master.\n\n\u2728 Key Features:\n- Thousands of carefully crafted puzzles \u2013 Classic layouts and creative designs keep the fun fresh.\n- Zen-inspired themes & soothing mu",
+    "icon": "/icons/com.niuaigo.mahjong.classic.png"
+  },
+  "com.no.color": {
+    "title": "No.Pix Color by Number & Pixel",
+    "package": "com.no.color",
+    "description": "\ud83c\udfa8\u00a0No.Pix\ud83c\udf53, a total new coloring games for girls(adults and kids)!\n\ud83c\udfa8 Extremely popular, interesting and addictive fun games!\n\ud83c\udfa8\u00a0All pixel art lovers gather here!\n\ud83c\udfa8 Follow color by number cells and complete a beautiful painting in an instant!\u2764\ufe0f\ud83d\ude00\n\ud83c\udfa8 All paintings are\u00a0no wifi art games\u26a1\n\ud83c\udfa8 New Pixel Town Launched! Decorate your own Pixel Town by coloring by number! \n\n\ud83c\udfa0\ud83d\udc8e Happy color by number has never been easier! Just download free coloring games and make your Halloween pixel art paintings color by number right now!\ud83d\udc99\ud83d\udc9b\ud83d\udc9aWe heard that there are a lot of new materials in Pixel Town!\n\nBrand new features of No.Pix Coloring Games:\n\ud83d\udd25 Exclusive original theme material in Pixel Town: Food Street, Underwater World, etc.\n\ud83d\udd25 Color by number\u00a0offline and online.\n\ud83d\udd25\u00a0Thousands of pictures\u00a0in zen coloring-games.\n\ud83d\udd25\u00a0",
+    "icon": "/icons/com.no.color.png"
+  },
+  "com.noise.sound.meter.decibel": {
+    "title": "Sound Meter",
+    "package": "com.noise.sound.meter.decibel",
+    "description": "You want to measure the sound, but you don't have a professional sound level meter.\nAnd you are looking for a tool to measure noise level?\nThis is a great noise meter app for you. The Sound Meter has all features of a professional decibel meter, noise meter. You can now measure noise level with your smartphone.\nThe app uses your device's microphone to measure sound intensity and display it in decibel. Measured values are displayed visually and on the graph that helps you using the app easily.\nIt has a noise reference table that helps you assess whether the current noise level is harmful. So, the decibel meter helps you to take timely action to protect your ears and health.\nThe app saves all measurements, allows you to review and share.\n\nOutstanding features:\n- The sound meter works quickly",
+    "icon": "/icons/com.noise.sound.meter.decibel.png"
+  },
+  "com.noneyetstudios.dogwhistle": {
+    "title": "My Dog Whistle",
+    "package": "com.noneyetstudios.dogwhistle",
+    "description": "Stop the barking and start the training!\n\nMy Dog Whistle is a professional training tool that helps you teach your dog new commands or stop bad behaviors like excessive barking. Unlike other apps, it generates pure ultrasonic frequencies (10,000 Hz \u2013 18,000 Hz) that dogs can hear but humans typically cannot.\n\nWHY IT WORKS Dogs don't react to whistles instantly\u2014they must be trained! Use this app to: \u2022 Find your dog\u2019s unique frequency: Adjust the slider until your dog\u2019s ears perk up. \u2022 Stop Barking: Use a short blast to distract them, then reward them when they stop. \u2022 Teach Recall: Train your dog to come to you with a specific whistle pattern.\n\nKEY FEATURES \u2022 Adjustable Frequency: Slider range from 10kHz to 18kHz. \u2022 Smart Volume Boost: Automatically maximizes volume for the whistle and rest",
+    "icon": "/icons/com.noneyetstudios.dogwhistle.png"
+  },
+  "com.notification.aod": {
+    "title": "Peek AOD - Always On Display",
+    "package": "com.notification.aod",
+    "description": "Unlock the Power of Notifications on Your Lock Screen peek notifications!\n\nScroll through and interact with all current notifications.\n\nMain features of this app is an always on display with notifications icons which you can click it to view its notification details along with a notifications LED light and charging indicator.\n\nTired of missing important notifications while your phone is locked? Peek Display - AOD Plus has you covered! Our app lets you view and interact with notifications directly from your lock screen using always on display, saving you time and effort, empowering you to stay connected and manage your notifications effortlessly.\n\nWith Peek Display - AOD Plus, you can:\n\n* AOD clock on lock screen with too many analog and numerical designs to choose from.\n* Notifications ico",
+    "icon": "/icons/com.notification.aod.png"
+  },
+  "www.hotstar.com": {
+    "title": "www.hotstar.com",
+    "package": "www.hotstar.com"
+  },
+  "com.ntg.solitaire.tripeaks": {
+    "title": "Solitaire Tripeaks: Card Games",
+    "package": "com.ntg.solitaire.tripeaks",
+    "description": "It\u2019s time to take a rest! Let\u2019s play free Solitaire TriPeaks: Card Games for fun and relax yourself!\n\nSolitaire TriPeaks: Card Games is the best free card game for you to kill time! It's fun and easy to play. You just tap any card on the table one higher or lower than the card one the pile to clear it. You will win when you clear all of cards on the table. But it's also challenging, you need to decide the order of collecting. Enjoy this game like Klondike, Spider, FreeCell or any other Solitaire card games free.\n\nDownload this one free Solitaire TriPeaks game and play it NOW!\n\nSolitaire TriPeaks is much fun more than a classic solitaire games. There are a lot of extra features waiting for you to explore in this tripeaks game. \n\nPlay solitaire online with Solitaire TriPeaks Card Games! Expe",
+    "icon": "/icons/com.ntg.solitaire.tripeaks.png"
+  },
+  "com.diginerds.radiohotstar": {
+    "title": "Radio Hotstar-Live Hindi Radio",
+    "package": "com.diginerds.radiohotstar",
+    "description": "Radio Hotstar is India's best live Hindi radio app!\n\n\ud83c\udfb5 Features:\n- 24/7 Live Hindi Music\n- Bollywood Hits & 90s Classics\n- Live RJ Shows daily\n- Song Request feature\n- Push Notifications for shows\n- Radio Gaana channel\n\n\ud83d\udcfb Best Hindi radio app for:\n- Bollywood songs\n- Romantic music\n- Old is Gold songs\n- Morning music\n- Devotional songs\n\nDownload now and enjoy free Hindi radio!",
+    "icon": "/icons/com.diginerds.radiohotstar.png"
+  },
+  "com.nvt.ledlighting": {
+    "title": "Neon Edge Lighting",
+    "package": "com.nvt.ledlighting",
+    "description": "- Personal your phone with Lighting\n- More and more border style and wallpaper\n- Hole, infinity, notch phone style support\n- Save and share your creative with friends\n- Easier to use with themes collection",
+    "icon": "/icons/com.nvt.ledlighting.png"
+  },
+  "com.octsun.tipcalc": {
+    "title": "Tip Calculator & Bill Splitter",
+    "package": "com.octsun.tipcalc",
+    "description": "Looking for a fast and reliable Tip Calculator and Bill Splitter for your next dining out or travel? Whether you are at a busy restaurant in New York, a cafe in Paris, or a bar in London, our app makes calculating tips and splitting bills faster and easier than ever.\n\nStop worrying about the math when the check arrives. Our Easy Tip Calculator is designed for speed, accuracy, and convenience. It\u2019s the perfect companion for travelers, foodies, and anyone who wants to handle gratuity like a pro.\n\nWhy Choose Our Tip Calculator?\n\n\u2705 Instant Tip Calculation: Simply enter the bill amount and see the tip total instantly. No more manual math or awkward moments. \u2705 Smart Bill Splitter: Dining with friends? Split the bill in seconds. Just set the number of people, and our app calculates the total per ",
+    "icon": "/icons/com.octsun.tipcalc.png"
   }
 }
