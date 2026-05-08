@@ -65571,5 +65571,585 @@
     "package": "com.proemi.finance.cashloan.emicalculator.instantloancalculator",
     "description": "EMI Calculator & Loan & Interest is a simple, fast, and accurate all-in-one financial calculator app designed to help you manage loans, investments, income, expenses, and daily financial transactions easily. It helps you plan your finances better before taking any loan or making any investment decision.\n\nThis app is ideal for users who want a clear understanding of their monthly EMI, interest amount, loan tenure, savings, expenses, and overall financial planning in one place.\n\n\u2022 Key Features\n\n\u2022 Easy EMI calculation\n\u2022 Loan interest calculator\n\u2022 Monthly EMI breakdown\n\u2022 Total payable amount calculation\n\u2022 Interest amount calculation\n\u2022 Create and save loan profiles\n\u2022 View and manage saved loan profiles\n\u2022 Compare multiple loan options\n\u2022 Advance EMI & loan tenure calculator\n\u2022 Moratorium calculati",
     "icon": "/icons/com.proemi.finance.cashloan.emicalculator.instantloancalculator.jpg"
+  },
+  "com.professor.doc_converter": {
+    "title": "PDF to Word Converter App",
+    "package": "com.professor.doc_converter",
+    "description": "PDF to Word Converter \u2013 Fast & Easy Document Tool\n\nNever struggle with document formats again. PDF to Word Converter helps you convert files quickly and easily, right from your phone.\n\nConvert PDFs to editable Word documents or turn Word files into high-quality PDFs in just a few taps. Perfect for students, professionals, and anyone working with documents on the go.\n\n Key Features of PDF to Word Converter App: \n\n- Convert PDF to Word instantly\n- Convert Word to PDF with high quality\n- Fast and accurate file conversion\n- Simple and clean user interface\n- Manage recent and converted files easily\n\n PDF to Word Converter \n\nTurn any PDF file into an editable Word document (.docx). Maintain original formatting, text, and layout for easy editing and sharing.\n\n Word to PDF Converter \n\nConvert Word",
+    "icon": "/icons/com.professor.doc_converter.png"
+  },
+  "com.progimax.lightsaber.free": {
+    "title": "Light Saber - Legend",
+    "package": "com.progimax.lightsaber.free",
+    "description": "Bring back the era of the Galactic Republic with our Light Saber app, an immersive experience that transforms your phone into a virtual lightsaber. Simulate the attacks of the galaxy's last heroes and defeat your enemies with style!\n\nPersonalize your saber with different colors and designs to feel like the last hope of the Republic. The app includes sound effects and visual effects that will transport you to a world of adventure and battle against darkness.\n\nWhen you activate your saber, you'll be surrounded by a bright halo and hear the distinctive sounds of the Force. You can even use your fingers to control the movements of your saber, adding an extra level of realism to the experience.\n\nThe Light Saber app is the perfect way to bring your adventure fantasies to life and have fun with i",
+    "icon": "/icons/com.progimax.lightsaber.free.png"
+  },
+  "com.pronunciatorllc.grammarific.tagalog": {
+    "title": "Grammarific: Tagalog Grammar",
+    "package": "com.pronunciatorllc.grammarific.tagalog",
+    "description": "Dive into the linguistic nuances of the Philippines with \"Grammarific Tagalog,\" your comprehensive gateway to mastering Tagalog grammar. This cutting-edge app serves as a cultural bridge and educational tool for all learners eager to excel in this richly expressive language.\n\nKey Features:\n\n- Extensive Grammar Topics: Engage with a vast array of over 100 Tagalog grammar topics, each providing a set of 50 thought-provoking questions to nurture your grammatical prowess.\n\n- Interactive Learning Path: Move beyond basic repetition with our dynamic, interactive question format that inspires active learning and deepens your understanding of Tagalog grammar.\n\n- Dive Deeper: Delve into complex grammatical nuances with the 'Dive Deeper' feature, designed to generate a series of progressive questions",
+    "icon": "/icons/com.pronunciatorllc.grammarific.tagalog.png"
+  },
+  "com.protractorapp.anglemeter.anglefinder.anglemeasurement.log": {
+    "title": "protractor angle measurement",
+    "package": "com.protractorapp.anglemeter.anglefinder.anglemeasurement.log",
+    "description": "Discover the ultimate protractor and altitude measurement app designed for construction and engineering professionals. This Water Level App to check surface alignment app lets you measure angles, verify levels, and determine directions effortlessly. It\u2019s a dependable tool that guarantees precision for your projects.\n\n Protractor & Altitude Measurement: interior angle tool:  Experience an innovative solution for measuring angles with our Protractor and Angle Meter app. Featuring a user-friendly interface and exceptional accuracy, this Protractor & Altitude Measurement app redefines how you measure and inspect angles with ease.\n\n Important note for Protractor Angle Measurement app \nTo access all the features in the unit converter app, your phone must be equipped with an Accelerometer sensor,",
+    "icon": "/icons/com.protractorapp.anglemeter.anglefinder.anglemeasurement.log.png"
+  },
+  "com.pruthivi.utilityhub.sipcalculator": {
+    "title": "SIP Calculator \u2013 Investment",
+    "package": "com.pruthivi.utilityhub.sipcalculator",
+    "description": "SIP Calculator \u2013 Investment is a simple and powerful app to calculate the future value of your Systematic Investment Plan (SIP).\n\nPlan your investments better by estimating returns, total invested amount, and final value instantly.\n\n\ud83d\ude80 Why use SIP Calculator?\n\nSIP (Systematic Investment Plan) is one of the best ways to grow your wealth over time. This app helps you calculate returns and make smarter investment decisions.\n\n\ud83d\udcca Key Features:\n\u2022 Accurate SIP return calculation\n\u2022 Supports daily, weekly, monthly, and quarterly investments\n\u2022 Shows total invested amount, estimated returns, and final value\n\u2022 Real-time calculation updates\n\u2022 Clean and modern UI built with Material 3\n\u2022 Lightweight and easy to use\n\n\ud83d\udca1 Perfect for:\n\u2022 Mutual fund investors\n\u2022 Stock market investors\n\u2022 Long-term financial plann",
+    "icon": "/icons/com.pruthivi.utilityhub.sipcalculator.png"
+  },
+  "com.pruthivi.utilityhub.tipcalculator": {
+    "title": "Tip Calculator \u2013 Split Bill",
+    "package": "com.pruthivi.utilityhub.tipcalculator",
+    "description": "Tip Calculator \u2013 Split Bill is a simple and fast app to calculate tips and split bills instantly with friends.\n\nWhether you're dining out, traveling, or sharing expenses, this app helps you calculate the tip, total bill, and per-person amount \u0628\u0633\u0647\u0648\u0644\u0629 and accurately.\n\n\ud83d\ude80 Why use Tip Calculator?\n\nEasily calculate tip percentages and split bills without confusion. This app ensures fair and quick bill distribution for everyone.\n\n\ud83d\udcca Key Features:\n\u2022 Instant tip calculation with real-time updates\n\u2022 Supports custom tip percentage (0% to 50%)\n\u2022 Quick select common tips (10%, 15%, 20%, 25%)\n\u2022 Split bill easily among multiple people\n\u2022 Shows per-person amount clearly\n\u2022 Clean and modern UI built with Material 3\n\u2022 Lightweight and easy to use\n\n\ud83d\udca1 Perfect for:\n\u2022 Restaurants and dining\n\u2022 Travel and group expen",
+    "icon": "/icons/com.pruthivi.utilityhub.tipcalculator.png"
+  },
+  "com.psoffritti.convertimage": {
+    "title": "Image Converter JPG PNG PDF",
+    "package": "com.psoffritti.convertimage",
+    "description": "Welcome to our advanced Image Converter app, the ultimate solution for all your image conversion and compression needs. Experience seamless conversion across a variety of formats including JPEG (JPG), PNG, WEBP, and PDF. Whether you're looking to convert a single photo or handle batch conversions, our app is designed to do it all with ease and efficiency.\n\nKey Features:\n\n- Versatile Conversion Options: Easily convert images into PDF, JPG, JPEG (JPG), PNG, and WEBP formats.\n- Batch Conversion Capabilities: Save time by converting multiple images simultaneously.\n- Image Compression Tool: Reduce file size without compromising on quality, perfect for optimizing storage and sharing.\n- User-Friendly Interface: Enjoy a straightforward, intuitive interface that makes image conversion a breeze.\n- H",
+    "icon": "/icons/com.psoffritti.convertimage.png"
+  },
+  "com.pupford.pupford": {
+    "title": "Pupford: Dog & Puppy Training",
+    "package": "com.pupford.pupford",
+    "description": "100% FREE ONLINE DOG TRAINING COURSE\n- This 30-day video course (free forever) was created by Youtube's #1 dog trainer, Zak George. He used his decades of experience training dogs with positive reinforcement techniques to guide you day by day through 30 days of training your dog or puppy.\n\nTRACK & RATE YOUR DOG\u2019S PROGRESS\n-Mark specific behaviors (and class days) as completed to keep track of your dog's progress! When you mark each day, you can rate and keep track of your dog\u2019s progress with their training. \n\nTRAIN DAY TO DAY OR BY BEHAVIOR\n- If you've got a specific challenge or problem you're dealing with, you can also train by behavior. These videos are the fastest way to find a solution to what's troubling you.\n\nPUPFORD ACADEMY\n-Go in-depth on over 75 behaviors & tricks with the help o",
+    "icon": "/icons/com.pupford.pupford.jpg"
+  },
+  "com.putramobi.ghost_detector": {
+    "title": "Ghost Radar: Spirit Detector",
+    "package": "com.putramobi.ghost_detector",
+    "description": "Ghost Detector V2 by Putramobi is the ultimate prank tool for those who love paranormal mysteries! Using your smartphone's built-in sensors, this app simulates a professional ghost hunting experience.\n\nKey Features:\n\u2022 Real-time EMF Radar: Detect magnetic anomalies with a visual radar display.\n\u2022 Ghost Vision Camera: Apply high-contrast filters to simulate spirit sightings.\n\u2022 Activity Log: Track \"encounters\" with phantom entities automatically.\n\u2022 Capture & Share: Take a photo of your findings and save it to your gallery.\n\u2022 Haptic Feedback: Feel the vibration when the radar detects a signal.\n\nWhy Ghost Detector V2?\nThis app is designed for entertainment and fun with friends. It uses advanced sensor simulation to provide a spooky atmosphere wherever you are.\n\nDisclaimer:\nThis application is in",
+    "icon": "/icons/com.putramobi.ghost_detector.png"
+  },
+  "com.putramobi.metaldetector": {
+    "title": "Metal Detector Magnetic Sensor",
+    "package": "com.putramobi.metaldetector",
+    "description": "Turn your smartphone into a professional metal detector! \n\nMetal Detector: Smart Scanner uses your device's built-in magnetic sensor (magnetometer) to find metal objects, gold, or silver buried nearby or hidden in walls.\n\nHow it works:\nThis app measures the magnetic field value using the sensor in your phone. The magnetic field level (EMF) in nature is about 49\u03bcT (micro tesla) or 490mG (milli gauss). If any metal is near, the value of the magnetic field will increase.\n\nKey Features:\n- Real-time detection with digital meter\n- Vibration alert when metal is detected\n- Visual graph for magnetic field intensity\n- Easy to use and minimalist interface\n- Free to use\n\nNote: \n- This app requires a magnetic sensor (magnetometer) in your device. Please check your smartphone specifications.\n- Accuracy ",
+    "icon": "/icons/com.putramobi.metaldetector.png"
+  },
+  "com.puzan.morsecode": {
+    "title": "Morse Code Learn and Translate",
+    "package": "com.puzan.morsecode",
+    "description": "Morse Code is an all in one application that includes Morse code translator, Morse Code chart and practice. It helps users to learn Morse code in an interactive way.",
+    "icon": "/icons/com.puzan.morsecode.png"
+  },
+  "com.puzzle.fun.free.woodblockpuzzle": {
+    "title": "Wood Block Puzzle",
+    "package": "com.puzzle.fun.free.woodblockpuzzle",
+    "description": "How to Play:\nWood Block Puzzle is a relaxing and brain-teasing game where you drag wooden blocks onto a 10x10 grid. Your goal is to fit them together without overlaps. Complete full horizontal or vertical lines to clear them and earn points. Plan carefully\u2014when no more blocks can be placed, the game ends!\n\nKey Features:\n-Simple and intuitive drag-and-drop controls.\n-Endless puzzles with various block shapes.\n-Challenge yourself to beat your high score.\n-Clean design with soothing visuals and sounds.\n-Perfect for quick play and relaxing your mind.\n\nDownload now and enjoy this classic block-fitting challenge!",
+    "icon": "/icons/com.puzzle.fun.free.woodblockpuzzle.png"
+  },
+  "com.puzzle.water.sort.color.jam": {
+    "title": "Water Puzzle: Sort Color Jam",
+    "package": "com.puzzle.water.sort.color.jam",
+    "description": "\ud83c\udf08 Welcome to Water Puzzle: Sort Color Jam\nWelcome to Water Puzzle: Sort Color Jam, a relaxing and addictive water sort puzzle game that challenges your logic while helping you unwind. Step into a colorful world where color sorting, strategy, and calm gameplay come together in the perfect puzzle game experience.\nIf you enjoy brain training games, logic puzzles, or soothing color sort challenges, this water puzzle is made for you. With no time limits, offline gameplay, and thousands of handcrafted levels, Water Puzzle: Sort Color Jam is the ideal casual escape for players of all ages.\n\ud83c\udf0a How to Play \u2013 Simple Water Sorting Fun\nTap and Play: Tap one bottle, then tap another to pour the water.\nMatch Colors: Pour only when the top colors match and there\u2019s enough space.\nSort to Win: Each bottle mu",
+    "icon": "/icons/com.puzzle.water.sort.color.jam.png"
+  },
+  "com.pxlapps.app.android.soundeffects3": {
+    "title": "Animal Sounds",
+    "package": "com.pxlapps.app.android.soundeffects3",
+    "description": "Dive into the captivating world of Animal Sounds, the ultimate Android app for wildlife enthusiasts. Discover over 160 animal sounds from around the globe and immerse yourself in a unique auditory adventure.\n\nKey Features:\n\u25a0 Sound Diversity: Listen to a wide array of realistic animal sounds. From lion roars to exotic bird songs, each sound offers an authentic immersion into nature.\n\u25a0 High-Definition Images: Enjoy stunning photos of each animal. Treat yourself to an immersive visual and auditory experience. Every image is in high definition to capture every detail.\n\u25a0 Puzzles: Piece together beautiful animal images and uncover each creature as you complete the puzzles. A fun way to test your logic and problem-solving skills.\n\u25a0 Memory Games: Boost your memory by matching animal pairs. Each pa",
+    "icon": "/icons/com.pxlapps.app.android.soundeffects3.png"
+  },
+  "com.qiblafindercompass.kaabadirection": {
+    "title": "Qibla Finder Compass Direction",
+    "package": "com.qiblafindercompass.kaabadirection",
+    "description": "\ud83d\udd4b Qibla Finder - The Most Accurate Qibla Compass for Namaz\nFind the precise Qibla direction anywhere in the world with our 100% accurate Qibla compass. Whether you're at home, traveling, or in an unfamiliar location, our Qibla finder helps you locate the Kaaba direction instantly.\n\u2728 KEY FEATURES:\n\u2022 Qibla Compass for Namaz - Advanced compass technology ensures accurate Qibla direction for your daily prayers\n\u2022 Kaaba Direction & Location - Real-time GPS-based Kaaba locator shows exact direction to Mecca\n\u2022 3D Qibla Compass - Beautiful 3D visualization makes finding Qibla direction easier than ever\n\u2022 Qibla Direction Offline - Works without internet connection once calibrated\n\u2022 Qibla Widget - Quick access widget for your home screen\n\u2022 Mecca Direction Compass - Precise Mecca pointer with distance",
+    "icon": "/icons/com.qiblafindercompass.kaabadirection.png"
+  },
+  "com.qingot.voice.overseas1": {
+    "title": "Magic Voice Changer",
+    "package": "com.qingot.voice.overseas1",
+    "description": "Record your voice and apply cool and realistic effects with the voice changer. The program is easy to use, produces great sound effects, and is very fun! It also provides smart voice changer to make your voice more like a real person.\nThe voice recording quality is very high. Record your voice or open the sound, apply the effect, and share it with your friends.\nIntroducing our brand-new AI voice changer with multi-role and multi-language support! Record your voice and apply awesome, hyper-realistic voice effects effortlessly.\nThis app is incredibly user-friendly, delivers top-tier sound effects, and guarantees endless fun. The smart voice changer takes it up a notch\u2014making your modified voice sound just like a real person.\nEnjoy high-fidelity voice recording: simply record your own voice o",
+    "icon": "/icons/com.qingot.voice.overseas1.png"
+  },
+  "com.qrtech.qrcodereader.barcodescanner.qrscanner.qrcodescanner": {
+    "title": "QR Code Scanner Barcode Reader",
+    "package": "com.qrtech.qrcodereader.barcodescanner.qrscanner.qrcodescanner",
+    "description": "As an enthusiastic engineering team, we've been building this app with a single philosophy: safe, fast, lightweight, and easy to use. With a state-of-the-art AI-based algorithm, the app can scan and read all QR codes and barcodes.\n\nIn this QR code scanner and barcode reader app, we make sure every aspect is optimized carefully and comes with the best user experience design.\n\nSafety first:\nPrivacy-friendly, no personal data is collected, and no special permission is required.\n\nFast & Lightweight:\nThis is the most lightweight app combining an ultra-high performance engine of the latest QR code scanner and barcode reader.\n\nThis QR scanner app starts very fast, and effectively uses the phone's camera for immediately scanning all types of QR codes and barcodes.\n\nEasy to use:\nEvery feature is de",
+    "icon": "/icons/com.qrtech.qrcodereader.barcodescanner.qrscanner.qrcodescanner.png"
+  },
+  "com.qt.tamilkeyboard.tamiltyping": {
+    "title": "Tamil Voice Typing Keyboard",
+    "package": "com.qt.tamilkeyboard.tamiltyping",
+    "description": "Tamil voice typingkeyboard is the best phonetic keyboard to type Tamil font letters in smartphones.  It is more useful in typing Tamil font on every smartphone with emojis and other typing options. Try the best ever tamil voice keyboard with advanced features of tamil voice typing with tamil keypad.\n\nHow to enable tamil voice typing keyboard:\n-\tInstall and launch Tamil keyboard to enable Tamil font on your smartphone\n-\tTap on Tamil keyboard in the list of all keyboards\n-\tNow tap on enable and select Tamil keyboard\n-\tStart tamil typing on your smartphone\n\nWhy Tamil keyboard:\nEasy and fast: Tamil voice keyboard is more easier and fast than other keyboard apps to enable easy Tamil typing on your smartphone and provide you more comfort in typing.\nSmooth buttons: english to tamil keyboard has m",
+    "icon": "/icons/com.qt.tamilkeyboard.tamiltyping.png"
+  },
+  "com.qt.telugukeyboard.telugutyping": {
+    "title": "Telugu Voice Typing Keyboard",
+    "package": "com.qt.telugukeyboard.telugutyping",
+    "description": "Telugu Voice Typing keyboard with translator assists you to send voice and text messages to your friends and family and it is supported by all the messaging application on your phone. Speech to text Telugu keyboard app provides facility to write the text by voice you just have to speak and the app will write it in Telugu. This app has dual keyboard you can also switch keyboard in English language and you can use English voice typing feature to get text instantly\n\n\nTelugu voice typing keyboard uses high end algorithms to recognize voice, so you just need to speak in the mic by tapping the mic button and you will get the text in Telugu, same goes for English voice typing keyboard, you just need to switch the keyboard to English by tapping the keyboard button and you will get English keyboard",
+    "icon": "/icons/com.qt.telugukeyboard.telugutyping.png"
+  },
+  "com.quantum.ruler.measuretools.photoruler.measurement.arplan.measure.ARMeter.tapemeasure.ruler.heightmeasure.arruler.mea": {
+    "title": "com.quantum.ruler.measuretools.photoruler.measurement.arplan.measure.ARMeter.tapemeasure.ruler.heightmeasure.arruler.mea",
+    "package": "com.quantum.ruler.measuretools.photoruler.measurement.arplan.measure.ARMeter.tapemeasure.ruler.heightmeasure.arruler.mea",
+    "icon": "/icons/com.quantum.ruler.measuretools.photoruler.measurement.arplan.measure.ARMeter.tapemeasure.ruler.heightmeasure.arruler.mea.webp"
+  },
+  "com.quarkbytes.edge": {
+    "title": "Edge Light LED Notification",
+    "package": "com.quarkbytes.edge",
+    "description": "Always On Edge lighting LED notifications will enable you see all the critical notifications at a glance.  You wont miss any important calls, messages, whatsapp, gmail or facebook notifications. Edge lighting & LED notification is not only a great visual way to be notified about various events, but it also helps to be productive.\n\nWhat makes the Always On Edge lighting LED notifications feature so unique:\n1. Stand out of the crowd - Beautiful design patterns like pulse, is only available in this app. Customize as per your like.\n2. Simple Settings - Out of the box, ready to use. No need to be confused with tons of configurations.\n3. No ADs - No annoying popup ads or insecure link clicks.\n4. Privacy - App will never send any private notification data outside the phone. Everything stays withi",
+    "icon": "/icons/com.quarkbytes.edge.png"
+  },
+  "com.quarzo.fourinarow": {
+    "title": "4 in a row",
+    "package": "com.quarzo.fourinarow",
+    "description": "New: ONLINE mode. Play with other players around the world. Includes leaderboards.\n\nWelcome to the classic 4 IN A ROW!\nWho has not played this popular game in his childhood?\nThe objective of the game is to connect 4 tiles of your color on the same line (vertical, horizontal or diagonal).\nThe chips or discs always fall from top to bottom as a result of the force of gravity.\nTouch on a column to drop the tile of your color.\nAlso available a puzzles module. Resolve all the levels and nobody will beat you.\n\nGAME MODES\nThere are four game modes:\n- \"One player\": You will play against the AI (Artificial Intelligence). There are 10 levels of difficulty. Will you be able to connect a 4-in-a-row against the most \"intelligent\" robot?\n- \"Two players\": The classic duel in which each player is playing b",
+    "icon": "/icons/com.quarzo.fourinarow.png"
+  },
+  "com.quarzo.hangmanwords": {
+    "title": "Hangman",
+    "package": "com.quarzo.hangmanwords",
+    "description": "Welcome to the Hangman game!\nWho has not played this game in school?\nWill you be able to find the secret word before the man gets hanged?\n\nWAIT!, THERE'S MORE!\nThere are three game modes:\n- \"Adventure\" : You will have to solve the series of words (for example 3 animals) to advance of level. In addition, by going beyond the levels you will earn extra coins and you will discover new worlds. How far can you get?\n- \"Custom game\" : Allows you to play and practice in the categories you want.\n- \"Two players\" : The classic duel in which each player in turn writes a hidden word and the other player has to guess before being hanged. Challenge your friends!\n\n\u3010 HIGHLIGHTS \u3011 \n\u2714 Minimalist, simple and fun game.\n\u2714 Full game is free, with very few ads (no ads while playing)\n\u2714 Exercise your brain and relax",
+    "icon": "/icons/com.quarzo.hangmanwords.png"
+  },
+  "com.quarzo.paintmandalas": {
+    "title": "Coloring Mandalas",
+    "package": "com.quarzo.paintmandalas",
+    "description": "Coloring Mandalas - the best way to relax and relieve stress!\n\nChoose from a variety of beautiful mandalas and let your creativity flow.\n\nFeatures:\n\n* Customize your own colors\n* Undo feature\n* Page of the day\n* All your colored designs automatically saved to your device\n* Share and amaze your friends with your creativity!\n* Color theme (dark mode available)\n* Supports portrait and landscape orientation with full inmersive mode\n* All templates are available offline\n\nJust one more thing...\n\nRELAX AND ENJOY !!!",
+    "icon": "/icons/com.quarzo.paintmandalas.png"
+  },
+  "com.quintek.turongwika": {
+    "title": "Turong Wika - Learn Tagalog",
+    "package": "com.quintek.turongwika",
+    "description": "Discover how easy it is to learn Tagalog with Turong Wika, your all-in-one Tagalog learning app! Whether you want to start learning the basics, practice speaking Tagalog, dive deep into Tagalog grammar, or need tools to learn the language, Turong Wika is for you.\n\nOur app is designed to provide a comprehensive, immersive, and engaging learning experience. Embark on a language learning journey with the unique features that make Turong Wika your go-to learning app for Tagalog or Filipino.\n\nKey Features:\n- Comprehensive Lessons: Delve into meticulously crafted lessons designed by language experts, ensuring a solid foundation for your learning journey. Covering Tagalog's distinct grammar structure, verb conjugations, vocabulary, pronunciations, and cultural insights, ensuring a well-rounded un",
+    "icon": "/icons/com.quintek.turongwika.png"
+  },
+  "com.quiz.biblequizquest": {
+    "title": "Bible Quiz Quest Adventure",
+    "package": "com.quiz.biblequizquest",
+    "description": "Bible Quiz Quest \u2013 Journey Through God\u2019s Word\n\nStep into an exciting Bible adventure!\n\nBible Quiz Quest makes learning Scripture fun, challenging, and rewarding. Travel through 20 epic stages from Creation to Revelation, unlock 100 levels, and answer over 2,000 hand\u2011crafted questions \u2013 all designed to help you grow deeper in God\u2019s Word.\n\nWhy You\u2019ll Love Bible Quiz Quest\n\t\u2022\tPlay in 6 Languages: English, Spanish, Portuguese, French, Tagalog, and Swahili\n\t\u2022\tEpic Bible Journey: 20 themed stages, 100 levels, 2,000+ questions\n\t\u2022\tVariety of Question Styles: Multiple choice, true/false, and more\n\t\u2022\tScripture References: Every question points you back to the Bible\n\t\u2022\tFamily\u2011Friendly Fun: Perfect for kids, youth, and adults alike\n\n\nChallenge Yourself \u2013 Learn and Have Fun\n\nEarn stars, level up, and w",
+    "icon": "/icons/com.quiz.biblequizquest.png"
+  },
+  "ru.oneme.app": {
+    "title": "MAX",
+    "package": "ru.oneme.app",
+    "description": "MAX is a new digital platform for convenient communication and everyday tasks.\n\nCalls in the messenger stay stable even on weak networks, so you\u2019re always connected.\n\nA fast, lightweight app where you can:\n\u2022 message, make calls and send stickers or voice messages\n\u2022 verify your age, student status or large family status\n\u2022 fill out and sign documents quickly\n\u2022 follow channels from your favorite creators\n\u2022 share your emotions in short round videos\n\u2022 connect on education topics in the Sferum space\n\nEasy to start\nGetting started with MAX is easy. Just download the app and sign in using your phone number. Invite friends using a QR code or referral link. Grant MAX access to your contacts to see who\u2019s already using the app. Start chatting in just a few taps.\n\nCommunication to the max\nMAX is a mess"
+  },
+  "com.quiznbutton.fakecall": {
+    "title": "Fake Call Prank- Animals",
+    "package": "com.quiznbutton.fakecall",
+    "description": "Simulate an incoming call from animals with Fake Call Prank- Animals.\n\nAnswer the fake call and listen to an animal talking to you!\n\nUse the \"Send Message\" feature to have a hilarious fake chat conversation with the animals!\n\nFake Call Prank comes with several animal sounds ranging from cats and dogs to gorillas and lions. Choose your favorite animal to prank your friends.\n\nThe animals come with hilarious caller id names and photos.\n\nDisclaimer: The app does not have an incoming call feature. It only simulates a call as a prank. Have fun!",
+    "icon": "/icons/com.quiznbutton.fakecall.png"
+  },
+  "com.r22software.fisheyepro": {
+    "title": "Fisheye Lens Pro",
+    "package": "com.r22software.fisheyepro",
+    "description": "Fisheye Pro provides you with all the tools you need to create your best wide-angle inspired shots. The effects look great on action camera style shots and many other subjects.\n\n\u2022 Live Camera \u2014 Use fisheye effects live on camera. Record video or take a photo.\n\u2022 Photo Editor \u2014 Apply fisheye filters to any image loaded from your phone\u2019s gallery.\n\u2022 Video Editor \u2014 Load a video from your gallery and cut a clip with a fisheye effect applied.\n\u2022 Select from 16 fisheye lens styles\n\u2022 Enhance your shots with an extensive selection of filters\n\u2022 Share your pictures and videos on any social media or messaging app.\n\nDownload Fisheye Pro now and start creating! All features are free to use.",
+    "icon": "/icons/com.r22software.fisheyepro.png"
+  },
+  "com.raa.transparent.camera.screen.wallpaper.livewallpaper": {
+    "title": "Transparent Screen Wallpaper",
+    "package": "com.raa.transparent.camera.screen.wallpaper.livewallpaper",
+    "description": "Transform  your phone screen background into an engaging, transparent display! Transparent Screen Wallpaper utilizes your device's camera to get a immersive home screen experience. Observe your environment unfold behind your app icons, providing your phone with a modern and fashionable appearance, Moreover our app provides Sakura flowers live wallpaper, ink splatter effect for pictures wallpaper.\n\nTransparent Camera Live wallpaper feature allows users to have a live camera feed as their wallpaper using the camera of phone, giving them a real-time view of their surroundings on their home screen, it makes your phone screen look in a new way,  you can launch any of your applications while being able to see behind your device. It uses the front camera feature to apply camera effect to the home",
+    "icon": "/icons/com.raa.transparent.camera.screen.wallpaper.livewallpaper.png"
+  },
+  "com.raisingdog.app": {
+    "title": "Raising Dog: Puppy Training",
+    "package": "com.raisingdog.app",
+    "description": "Transform your puppy into a calm, happy, well-behaved dog, right from home\nRaising Dog is your all-in-one dog training and puppy care app. You\u2019ll get a personalized training plan built on positive reinforcement whether you\u2019re a first-time dog parent or leveling up obedience. Follow short daily lessons, track progress, and tackle real-life problems like potty accidents, barking, or pulling on the leash. \n\n1. PLAN TAILORED TO YOUR DOG AND GOALS\nEvery dog learns differently. Raising Dog adapts to your pup\u2019s age, breed size, and your goals, so training feels doable and fun. You\u2019ll learn core obedience commands like sit, down, stay, recall, and leave it, then build up to reliable real-world manners. \n\nRaising Dog helps you:\nTeach obedience step-by-step with clear demos\nBuild focus, calmness, an",
+    "icon": "/icons/com.raisingdog.app.png"
+  },
+  "com.ramadandua.duaazkar": {
+    "title": "Athkar Pro: Dua And Azkar Mp3",
+    "package": "com.ramadandua.duaazkar",
+    "description": "Athkar Pro contains Dhikr Dua and Azkar which is the most powerful weapon of the Believer. Dua, according to a Hadith, has the unique ability to change destiny (Tirmidhi). This Hisnul Muslim with Dua and Azkar is a complete book of the Dhikr Dua collection. In the Dua & Azkar app, our team added all Dua and Azkar like Hisnul Muslim, Morning Prayer with Evening Prayer (\u0627\u0630\u0643\u0627\u0631 \u0627\u0644\u0635\u0628\u0627\u062d \u0648\u0627\u0644\u0645\u0633\u0627\u0621). This Dua and Azkar app (Hisnul Muslim) contains all athkar and duas for Muslims with translations. All Dhikr Dua in this Athkar Pro is drawn from Al Quran and Holy Hadith.  If you are searching for an Islamic app and Zikuru Adkar then this is the best Prayer App and an Azkar app for you.\n \n Daily Supplications - Dua and Azkar: \nIn Athkar Pro, users can click the category button in Dua Muslim of zikr and",
+    "icon": "/icons/com.ramadandua.duaazkar.png"
+  },
+  "com.ranjan.malav.morselight_flashlightwithmorsecode": {
+    "title": "MorseLight - Learn Morse Code",
+    "package": "com.ranjan.malav.morselight_flashlightwithmorsecode",
+    "description": "Morselight, as the name suggests, is a flashlight app with Morse code functionality. This has become an open-source project, if you are interested in working on this project drop a mail to the developer.\n\nWhat makes it different from thousands of other flashlight apps -\n\n- With this app, you can not only send messages in Morse code but can also decode the incoming message.\n- Auto decoding with camera\n- Transmission speed of sending Morse code can be changed in settings.\n- Morse code information is provided for the user.\n- Super cool design.\n-  No internet connectivity is required\n\nThe purpose of this app is to facilitate communication between two operators in a short range (depending upon the visibility of the flashlight) especially when there is no cellular network available.\nAn easy to u",
+    "icon": "/icons/com.ranjan.malav.morselight_flashlightwithmorsecode.png"
+  },
+  "com.raretech.ffsc.app": {
+    "title": "FFSC Digital Ledger",
+    "package": "com.raretech.ffsc.app",
+    "description": "The FFSC Digital Ledger replaces the paper ledger that is used at the savings clubs to keep accounting of the activities. Each member of the club will have individual accounting creating a digital footprint of financial transactions, and the club will have a general ledger accounting to ensure transparency of the activity.",
+    "icon": "/icons/com.raretech.ffsc.app.png"
+  },
+  "com.rarevision.vhscamcorder": {
+    "title": "Rarevision VHS: Retro Cam",
+    "package": "com.rarevision.vhscamcorder",
+    "description": "Used by Kendall Jenner, Snoop Dogg, BTS, Ariana Grande, Khloe Kardashian, Wiz Khalifa, Victoria Beckham, Die Antwoord and featured on SNL (S41E01) and in countless TV shows and music videos!\n\nCovered by WIRED, TechCrunch, Mashable, Forbes, Wall Street Journal, Popular Mechanics, The Independent, Macworld, TMZ and many, many others!\n\nIt's 1984, and you've got a VHS camcorder! It'll look that way when you record and send old, messed up-looking retro videos to friends. They'll swear you built a time machine: \"OMG, how'd you shoot that?\"\n\nWith Rarevision VHS, you'll make home movies that look and sound like real retro video tapes pulled out of storage after 30 years. You can change the on-screen date to trick your friends, create flashing cheesy custom titles, glitch up the picture by shaking ",
+    "icon": "/icons/com.rarevision.vhscamcorder.png"
+  },
+  "com.rarevision.vhscamlite": {
+    "title": "Rarevision VHS Lite - 80s Cam",
+    "package": "com.rarevision.vhscamlite",
+    "description": "The original VHS cam app by Rarevision and the most totally awesome VHS camera app of 1984!\n\nUsed by Kendall Jenner, Snoop Dogg, Khloe Kardashian, Victoria Beckham, Wiz Khalifa, BTS, Die Antwoord, Philip Bloom and featured on SNL (S41E01) and in countless TV shows and music videos!\n\nCovered by WIRED, TechCrunch, Mashable, Forbes, Wall Street Journal, Popular Mechanics, The Independent, Macworld, TMZ and many, many others!\n\nIt's 1984, and you've got a VHS camcorder! It'll look that way when you record and send old, messed up-looking retro videos to friends. They'll swear you built a time machine: \"OMG, how'd you shoot that?\"\n\nTrust us, we asked literally everyone and it's unanimous: this app is freakin' rad!\n\nHere's Why You Need It:\n\n\u2022 Four words: Best. Throwback. Videos. Ever.\n\u2022 Create VHS",
+    "icon": "/icons/com.rarevision.vhscamlite.png"
+  },
+  "com.raszapp.studio.wisielec": {
+    "title": "Hangman \u2014 Word Game & Puzzles",
+    "package": "com.raszapp.studio.wisielec",
+    "description": "Discover a brand-new version of the classic Hangman game!\nExciting fun with quizzes, missions, the lucky wheel, and rewards is waiting for you. Earn gold, coins, and points, unlock new modes, and become the master of words!\n\n\ud83d\udd24 Perfect game for puzzle lovers, quiz fans, and classic word game enthusiasts. Train your mind, have fun, and compete!\n\n\ud83e\udde0 Hangman Mode:\n\u2022 Guess words in the classic hangman game\n\u2022 10 thematic categories (countries, technology, animals, sports, food, plants, jobs, cities, names)\n\u2022 3 difficulty levels: easy, medium, hard\n\u2022 Over 10,000 words available\n\u2022 Earn points, gold, and coins for every correct answer\n\u2022 Gain levels and badges\n\u2022 Use gold to unlock new categories or access quizzes\n\u2022 Use hints: buy a letter with an ad or gold\n\n\ud83c\udfaf Missions & Rewards:\n\u2022 Daily Mission \u2013 gu",
+    "icon": "/icons/com.raszapp.studio.wisielec.png"
+  },
+  "com.ravigaconsulting.splitbills": {
+    "title": "Bill Split",
+    "package": "com.ravigaconsulting.splitbills",
+    "description": "Bill Split makes it simple to split restaurant bills, calculate tips, and divide expenses with friends or family. Whether you're dining out, travelling, or sharing household costs, Bill Split helps everyone pay their fair share in seconds.\n\nNo complicated setup. Just enter the bill amount, choose the tip, and split it between participants.",
+    "icon": "/icons/com.ravigaconsulting.splitbills.png"
+  },
+  "com.rdgames.biblebasics": {
+    "title": "Bible Basics Trivia Quiz Game",
+    "package": "com.rdgames.biblebasics",
+    "description": "Enjoy trivia questions provided by President of New Hope Christian College, Dr. Wayne Cordeiro. Bible Basics is one of several Christian faith-based trivia quiz games from RD Games that \u201cteaches\u201d what you don\u2019t know by showing you scripture from the Bible as you answer and learn.\n\nWhen you run out of free lives, you get more the next day to keep you progressing through.\n\nThe game includes questions from 5 main categories, including Old Testament, The Prophets, New Testament, The Gospels and Anything Goes. Bible Basics Trivia is fun and will help you become a more knowledgeable disciple.\n\nDo you know your Bible well? Do you have what it takes to know God and His Word more?\n\nNeed more time to answer a question? Use the hourglass power-up. Not sure which is the right answer of 4 choices? Use ",
+    "icon": "/icons/com.rdgames.biblebasics.png"
+  },
+  "com.receiptmaker": {
+    "title": "Receipt Maker: Sign Print Send",
+    "package": "com.receiptmaker",
+    "description": "Say goodbye to the hassle of managing paper receipts! Our app empowers you to effortlessly create professional PDF receipts on the go, making record-keeping a breeze. Here's why you'll love it:\n\n\ud83e\uddfe Generate Custom Receipts: Whether you're a business owner, freelancer, or just need to track expenses, our app lets you create polished receipts with ease. Simply input details like name, amount, date, and items purchased, and voila! Your receipt is ready.\n\n\u270d\ufe0f Sign with Style: Personalize your receipts by adding your signature directly within the app. No more printing, signing, and scanning\u2014just draw your signature on the screen and seal your receipts with a touch of class.\n\n\ud83d\udd12 QR Code Security: We take security seriously. Each receipt comes equipped with a unique QR code for instant ID verificati",
+    "icon": "/icons/com.receiptmaker.png"
+  },
+  "com.receiptmaker.generator": {
+    "title": "Receipt Maker - Generate Bills",
+    "package": "com.receiptmaker.generator",
+    "description": "Receipt Maker \u2013 Generate Bills is the smart and simple way to create professional receipts and payment proofs.\nWhether you are a freelancer, small business owner, or independent seller, this app helps you generate clean and detailed receipts in seconds without any design skills or complex tools.\n\nCreating receipts is easy.\nChoose from a variety of ready-to-use templates, customize your business name, logo, and colors, then add payment items, totals, and notes.\nYou can also include your signature and contact details so every receipt looks polished and professional.\n\nEach receipt you create is automatically saved in your library.\nYou can edit, duplicate, or organize your receipts anytime and export them as professional PDF files to send to clients, customers, or partners.\n\nReceipt Maker \u2013 Ge",
+    "icon": "/icons/com.receiptmaker.generator.png"
+  },
+  "com.recibospronto": {
+    "title": "Receipt & Invoice",
+    "package": "com.recibospronto",
+    "description": "Create and send receipts, invoices, estimates and credit notes of services and products.\n\nAdd the signature of your company and your customers to the receipt, invoice, estimate and credit notes.\n\nControl payments received, you can add them to your receipt, invoice, estimate and credit note.\n\nRegister your products and services.\n\nRegister your customers and suppliers\n\nRegister your taxes and add to your receipts\n\nGet access to reports of your sales.\n\nHave control of your business, see when the customer paid, what products and services you have registered, and who are your customers and suppliers.\n\nCustomize the fields on your receipts and invoices.\n\nAdd new fields to your receipt and invoice.\n\nControl your payment\n\n\nFunctionalities\n\n* Generate receipts, invoices, estimates and credit notes\n",
+    "icon": "/icons/com.recibospronto.png"
+  },
+  "com.rednucifera.bible.trivia.quiz.game": {
+    "title": "BIBLE TRIVIA - Bible Quiz Game",
+    "package": "com.rednucifera.bible.trivia.quiz.game",
+    "description": "Play the Bible Trivia Quiz Game & Test Your Knowledge! \ud83d\ude4f\n\nLooking for a fun, challenging, and educational way to engage with the Bible? Play Bible Trivia Quiz Challenge, the ultimate Bible quiz game designed for all ages! Compete with friends, challenge yourself, and grow in faith while having fun!\n\n\ud83d\udd25 Features:\n\u2705Chapter-Based Quizzes - Dive into the Bible one chapter at a time. Choose any book and test your understanding with curated questions that follow Scripture closely.\n\u2705 Daily Bible Verse \u2013 Get inspired with a new verse every day!\n\u2705 Multiplayer Mode \u2013 Challenge friends & family in real-time quiz battles.\n\u2705 Thousands of Questions \u2013 Covering Old & New Testament, Bible stories, and more!\n\u2705 Leaderboards & Achievements \u2013 Compete globally and climb the ranks!\n\u2705 Bible Study & Learning \u2013 Perf",
+    "icon": "/icons/com.rednucifera.bible.trivia.quiz.game.png"
+  },
+  "com.rednucifera.bible_quiz_multiplayer": {
+    "title": "Bible Trivia Quiz: Multiplayer",
+    "package": "com.rednucifera.bible_quiz_multiplayer",
+    "description": "Welcome to Bible Trivia Quiz, the ultimate app for testing and expanding your knowledge of the Bible in a fun and interactive way! Whether you're a seasoned Bible scholar or just beginning your journey, our app offers a wide range of quizzes to cater to all levels of expertise.\n\nKey Features:\n\nDiverse Quiz Categories:\nExplore quizzes covering the Old Testament, New Testament, and General Knowledge. Choose from a variety of categories to focus on your favorite subjects or challenge yourself with a mix of topics.\n\nMultiplayer Mode:\nEngage in friendly competition with friends or players from around the world! Challenge others in real-time and see who reigns supreme in Bible knowledge.\n\nLeaderboards:\nClimb the global leaderboards and showcase your expertise. Compete for the top spot and earn b",
+    "icon": "/icons/com.rednucifera.bible_quiz_multiplayer.png"
+  },
+  "com.redtrackr.loanamortizationcalc": {
+    "title": "Loan Amortization Calculator",
+    "package": "com.redtrackr.loanamortizationcalc",
+    "description": "Simplify your financial decisions with Loan Amortization Calculator. This powerful app helps you break down loan payments, estimate interest and principal over time, and explore how extra payments can reduce the total amount you pay.\n\nWhether it's a mortgage, auto loan, or personal credit, this app gives you a clear view of your financial obligations.\n\nHow it works:\n\n- Easy Input: Enter your loan amount, interest rate, term, extra payments (optional), and payment frequency.\n\n- Detailed Results: Instantly view your monthly payment, total interest, total repayment amount, and a full amortization schedule.\n\n- Share & Save: Export your results or share your schedule with others.\n\nTake control of your payments, understand your loan structure, and save money with smart planning.",
+    "icon": "/icons/com.redtrackr.loanamortizationcalc.png"
+  },
+  "com.relax.change.create.andrew.johnson": {
+    "title": "Relax Change Create Meditation",
+    "package": "com.relax.change.create.andrew.johnson",
+    "description": "Meditation is said to have enormous benefits on our mental health and wellbeing. Learn simple but effective relaxation techniques and enjoy better sleep, an increased ability to deal with stress and anxiety, an overall calmer mind and a more positive outlook.\n\nWhether you are starting out on your meditation journey or you have a regular practice, there are a variety of meditations to suit your needs.\n\nInternationally recognised Meditation and Mindfulness Teacher Andrew Johnson guides you on your journey to positivity, gratitude and abundance. Learn the Law of Attraction, beat procrastination and actively create a happier and more fulfilling life.\n\nDownload the app to get a taste for Relax Change Create and subscribe via in-app purchase to unlock all of the below premium content.\n\nMEDITATIO",
+    "icon": "/icons/com.relax.change.create.andrew.johnson.png"
+  },
+  "com.relitygames.englishgrammar": {
+    "title": "English Grammar Test",
+    "package": "com.relitygames.englishgrammar",
+    "description": "\"English Grammar Test,\" the ultimate Android application designed to help you practice and test your English grammar skills. Whether you want to sharpen your language proficiency or prepare for exams, this app provides a seamless platform for enhancing your grammar knowledge.\n\nFeaturing a user-friendly interface and intuitive navigation, \"English Grammar Test\" offers a dynamic learning experience. The app focuses on various grammar aspects, such as tenses, parts of speech, sentence structure, punctuation, and more. With its comprehensive range of exercises and tests, you can build a strong foundation in English grammar.\n\nKey Features:\n\nPractice Exercises: Access a vast collection of interactive practice exercises tailored to various grammar topics. Engage in fill-in-the-blank exercises, se",
+    "icon": "/icons/com.relitygames.englishgrammar.png"
+  },
+  "com.remi.colorphone.callscreen.calltheme.callerscreen": {
+    "title": "Color Phone: Call Screen Theme",
+    "package": "com.remi.colorphone.callscreen.calltheme.callerscreen",
+    "description": "Color Phone: Call Screen Theme App - Transform your calling experience with this cool phone call wallpaper app!\nAre you bored with your calling themes for Android\u2122? Are you looking for a color phone call screen app wallpaper to change and customize your calling background? If you want to have a cool live wallpaper for incoming calls that will make your phone stand out - you\u2019re in the right place! Download Color Phone: Call Screen Theme offline now and make a truly unique calling background wallpaper! \u2728\n\nKey features of Live Call Screen Themes Color Phone App:\n\ud83d\udd25 500+ phone call themes for Android\n\ud83d\udd25 10,000+ colorful themes for incoming calls\n\ud83d\udd25 100+ Accept/Decline buttons to match your color calling screen themes\n\ud83d\udd25 Customize your call screen color phone\n\ud83d\udd25 Simple and easy to use call screen ap",
+    "icon": "/icons/com.remi.colorphone.callscreen.calltheme.callerscreen.png"
+  },
+  "com.musicplayer.playermusic": {
+    "title": "Music Player - Audify Player",
+    "package": "com.musicplayer.playermusic",
+    "description": "\ud83c\udfb5 \"Music Player\" -\u00a0A simple Music Player with a\u00a0powerful equalizer\u00a0packed with all the features better than any other music player available for your Android devices.\n\nThis Music Player is one of the best music player with a\u00a0stylish design.\n\nFeatures of Music Player\n\n1. Browse songs in 6 different ways from the app (Playlist, Genre, folder, Artist, Album and songs).\n\n2. Full widget support with list of songs.\n\n3. Play songs directly from folder inside the App.\n\n4. Elegant themes are available in two sets along with costume themes.\n\n5. Create playlists as per your mood and add songs to them.\u00a0\n\n7. Remove annoying clips from Music Player while scanning the app.\n\n8. Can set Ringtone within the music player.\n\n9. 5-band equalizer with\u00a0powerful bass and virtualizer with reverb settings.\n\n10. Play",
+    "icon": "/icons/com.musicplayer.playermusic.png"
+  },
+  "org.fossify.musicplayer": {
+    "title": "Fossify Music Player",
+    "package": "org.fossify.musicplayer",
+    "description": "Introducing Fossify Music Player \u2013 your gateway to uninterrupted musical enjoyment. Say goodbye to intrusive ads and hello to a seamless music experience designed to accompany you wherever you go.\n\n\ud83d\udeab AD-FREE LISTENING:\nWe understand the value of your time and the sanctity of your music experience. That's why Fossify Music Player is completely ad-free. No distractions, just pure musical bliss. Whether you're at home, on the go, or exploring the great outdoors, enjoy your music without interruptions.\n\n\ud83d\udcf6 OFFLINE ACCESS:\nTake your music with you wherever you go, even to mars. Fossify Music Player operates offline, ensuring you can enjoy your favorite tracks anytime, anywhere, without needing an internet connection.\n\n\ud83d\ude80 LIGHTNING-FAST AND EFFICIENT:\nWorried about draining your battery while indu",
+    "icon": "/icons/org.fossify.musicplayer.webp"
+  },
+  "com.reneph.pawtricks": {
+    "title": "PawTricks - Dog Trick Training",
+    "package": "com.reneph.pawtricks",
+    "description": "Dog Training Made Easy \u2014 step-by-step tricks, puppy obedience & recall training! \ud83d\udc36\u2728\n\nTurn your dog into a superstar! \ud83c\udf1f\n\nWant to teach your dog new tricks? Looking for simple, step-by-step guidance for dog training, basic commands, or creative dog tricks?\n\nPawTricks is your all-in-one dog trainer app for effective dog training at home \u2013 clearly explained step by step and suitable for all ages \u2013 whether you have a playful puppy or a clever senior dog.\n\n\n\ud83d\ude80 HOW IT WORKS\nNo more long, boring theory! PawTricks guides you and your furry friend step by step to real results. Short, easy-to-follow lessons keep both of you motivated and make dog training fun and effective.\n\n\nWHY YOU\u2019LL LOVE PAWTRICKS\n\n\ud83d\udc15 Dog Training for Every Dog\nWith 60+ dog tricks and commands, you\u2019ll learn:\n\n\u2714 Basic commands like ",
+    "icon": "/icons/com.reneph.pawtricks.png"
+  },
+  "com.retro.vhs.glitch": {
+    "title": "Retro Vhs",
+    "package": "com.retro.vhs.glitch",
+    "description": "Step into a neon-drenched world where 80s nostalgia meets cutting-edge mobile gaming! Retro Vhs delivers an electrifying retro synthwave experience wrapped in glitchy VHS aesthetics. Navigate through corrupted digital landscapes, dodge static noise obstacles, and prove your reflexes in this premium lane-based arcade game that will transport you straight back to the golden age of analog media.\n\nExperience two intense gameplay sections: \"Analog Warmup\" eases you in with classic arcade pacing, while \"Digital Corruption\" cranks up the intensity with screen-shaking chaos and unpredictable moving obstacles. Each of the 20 handcrafted levels progressively challenges your skills, demanding lightning-fast reactions and pixel-perfect timing. Your progress is saved automatically, so you can pick up r",
+    "icon": "/icons/com.retro.vhs.glitch.png"
+  },
+  "com.psyfy.app": {
+    "title": "Psyfy: Self-care Companion",
+    "package": "com.psyfy.app",
+    "description": "Feeling overwhelmed, stressed, or just need a cozy place to breathe?\n\nWelcome to Psyfy Village,  your gentle little world for mental wellness. Chat with caring Psyfy villagers, journal your feelings, track your mood, and explore fun self-discovery tools, all while caring for your own adorable Psyfy pet\n\nWHAT YOU CAN DO WITH PSYFY?\n\n\nPsyfy Village Pet Game \nAdopt your Psyfy pet and build a cozy little home in the Psyfy Village. Collect coins by completing simple daily tasks, decorate your space, and grow your world while caring for your mental wellness.\n\nReflective Conversations\nChat with Psyfy to organize your thoughts, explore your feelings, and gain new perspectives in a safe, judgment-free space.\n\nJournaling & Daily Prompts\nUse science-informed prompts and exercises to reflect on your d",
+    "icon": "/icons/com.psyfy.app.png"
+  },
+  "com.retrocamera.photoeffects": {
+    "title": "Vintage Camera & Retro Filters",
+    "package": "com.retrocamera.photoeffects",
+    "description": "Vintage Camera Filters for Timeless Aesthetic!Vintage Camera Filters bring a nostalgic charm to every moment you capture. Retro Camera With Filters adds classic tones that make modern photos feel beautifully aged. Vintage Photo Editor: Film Camera Filters lets you explore expressive looks inspired by old film and treasured memories. Old Camera: Polaroid Filters creates soft, dreamy visuals that feel warm and familiar.\n\nVintage Filter Camera: Retro Photo Editor gives you control over unique colors, textures, and atmospheres. VHS Filter: 90s Camera brings playful distortion and retro screen effects that look straight out of the tape era. With these tools, your photography becomes stylish, expressive, and full of personality.\n\n\ud83d\udcc4 Main Features:\ud83d\udcc4\n\ud83d\udcf7 Live retro preview filters;\n\ud83d\udcf7 More than 40 vin",
+    "icon": "/icons/com.retrocamera.photoeffects.jpg"
+  },
+  "com.riseofbrains.tasbeehcounterpro": {
+    "title": "Tasbeeh Counter Pro - Dhikr",
+    "package": "com.riseofbrains.tasbeehcounterpro",
+    "description": "Tasbeeh Counter Pro \u2013 Bring Peace to Your Soul, Order to Your Life\n\nTasbeeh Counter Pro - Dhikr is a special application that brings the traditional tasbeeh experience into the digital age.\nYou can easily count, record, and repeat your dhikrs anytime you wish.\nWith its minimal design, it appeals to the eye while simplifying your moments of worship.\n\nTasbeeh Counter Pro - Dhikr combines the peace of remembering Allah with modern technology.\nIt brings serenity to your heart and tranquility to your soul.\n\n\u2e3b\n\n\ud83c\udf3f Highlighted Features\n\n\ud83e\uddff Unlimited Dhikr List\nAdd as many dhikrs as you like, each with its own counter.\nHighlight your favorite dhikrs to create a consistent worship plan.\n\n\ud83d\udd22 Realistic Tasbeeh Experience\nEvery tap feels like a real tasbeeh bead.\nWith vibration and sound feedback, it del",
+    "icon": "/icons/com.riseofbrains.tasbeehcounterpro.png"
+  },
+  "com.toto.jcyj.mvmix": {
+    "title": "Offline Music Player - Mixtube",
+    "package": "com.toto.jcyj.mvmix",
+    "description": "Mixtube, listen to all your beloved songs free, anytime, anywhere!\n\nImport all your music and audio files quickly; Easy to play all music & audio file formats. \nAs MP3 player built-in top quality equalizer takes your sounds listening experience to next level.\n\n**Why choose Mixtube Music\uff1f**\n\u2b50 Non-stop songs with you!\nKeep your tube music / audio playing in the background. Whether you are using other apps, or doing other things like housework, work, study, etc.!\n\n\u2b50 Audio Player for All Type of Audio Formats\nNot only an MP3 player, Music Player supports all music and audio formats including MP3, MIDI, WAV, FLAC, AAC, APE, etc. And play them in high quality.\n\nMore you can find:\n\ud83c\udfb5 Offline music player, songs player, audio player, mp3 player with high quality.\n\ud83c\udfb5 View by all songs, artists, album",
+    "icon": "/icons/com.toto.jcyj.mvmix.png"
+  },
+  "com.visionxstudio.musictube": {
+    "title": "ViaMusic: Offline Music Player",
+    "package": "com.visionxstudio.musictube",
+    "description": "ViaMusic is the updated version of Vi Music, rebuilt with new features \nand a new name. Stream online music and play your local audio files \u2014 \nall from one app. Search for songs, artists, albums, or entire playlists \nand start listening in seconds.\n\nStream music from around the world\nViaMusic connects to SoundCloud, giving you access to millions of songs \nupdated daily. Discover trending tracks across genres and languages \u2014 \nHindi, Nepali, Bhojpuri, Spanish, Russian, Chinese, Japanese, and many \nmore. New releases and trending audio from every corner of the world are \nadded continuously so your library never feels outdated.\n\nDownload songs and listen without a connection\nSave any song directly to your device and play it without an internet \nconnection. ViaMusic also reads audio files alrea",
+    "icon": "/icons/com.visionxstudio.musictube.png"
+  },
+  "com.rizauddin.carloancalc": {
+    "title": "Car Loan Calculator",
+    "package": "com.rizauddin.carloancalc",
+    "description": "This is a simple app to calculate monthly payments for a car loan. In order to calculate the monthly instalment, the user must fill in the car price and the down payment values. In addition, users can adjust the period's value and profit rate. Finally, the user can pull down to refresh and reset all values to the default values.",
+    "icon": "/icons/com.rizauddin.carloancalc.png"
+  },
+  "com.rizauddin.homeloancalc": {
+    "title": "Home Loan Calculator",
+    "package": "com.rizauddin.homeloancalc",
+    "description": "- A simple app to calculate monthly payments for home loan.\n- Pull down to refresh (reset all values).\n- Ad-free.\n- Malaysia.",
+    "icon": "/icons/com.rizauddin.homeloancalc.png"
+  },
+  "com.rocketraven.ieltsapp": {
+    "title": "IELTS Speaking Assistant",
+    "package": "com.rocketraven.ieltsapp",
+    "description": "IELTS speaking is not about memorising answers.\nIn the exam, questions often appear unexpectedly, and you need to respond naturally, not sound rehearsed. \n\nIELTS Speaking Assistant helps you practise speaking step by step and understand how good answers are built. You work with real IELTS speaking questions, clear ideas, natural vocabulary and Band 7+ sample answers.\n\nThis app is designed for students who want to know what to say and how to develop their answers in IELTS speaking.\n\nWHAT YOU'LL FIND INSIDE:\n\ud83d\udcab real IELTS speaking questions for Part 1, Part 2 and Part 3\n\ud83d\udcab up-to-date IELTS speaking topics based on recent exams\n\ud83d\udcab clear ideas to help you extend your answers naturally\n\ud83d\udcab IELTS speaking sample answers at Band 7+ and Band 8+ level\n\ud83d\udcab topic-based vocabulary you can actually use in the",
+    "icon": "/icons/com.rocketraven.ieltsapp.png"
+  },
+  "com.aimp.player": {
+    "title": "AIMP",
+    "package": "com.aimp.player",
+    "description": "Attention!\nApp may works incorrectly on devices based on M.I.U.I firmware.\n\nKey features:\n+ Supported formats: aac, ape, dff, dsf, flac, it, m4a, m4b, mo3, mod, mp2, mp3, mp4, mpc, mpga, mtm, ogg, opus, s3m, tta, umx, wav, webm, wv, xm\n+ Supported playlists: m3u, m3u8, xspf, pls and cue\n+ Support for Android Auto and custom Car PCs\n+ Support for OpenSL / AudioTrack / AAudio output methods\n+ Support for CUE Sheets\n+ Support for OTG-storages and custom file providers\n+ Support for user bookmarks\n+ Support for user defined playback queue\n+ Support for album arts and lyrics\n+ Support for multiple playlists and smart-playlists based on folders\n+ Support for internet radio (including Http Live Streaming)\n+ Automatic detection of tags encoding\n+ Built-in 20-band graphic equalizer\n+ Balance, Pitch",
+    "icon": "/icons/com.aimp.player.webp"
+  },
+  "com.aimp.cutter": {
+    "title": "AIMP: Audio Cutter",
+    "package": "com.aimp.cutter",
+    "description": "AIMP: Audio Cutter is small tool to create, edit and manage ringtones.\n\nKey features:\n+ An ability to set audio file as default ringtone for alarm / call / notification\n+ An ability to set audio file as ringtone for specified contact\n+ An ability to convert unsupported by OS file formats to MP3\n+ An ability to crop audio file or existing ringtone\n+ An ability to extract audio part to external MP3 file\n+ An ability to preview / share audio file \n+ Integration with the AIMP player\n+ Supports for night mode",
+    "icon": "/icons/com.aimp.cutter.png"
+  },
+  "com.rollingpanda.paint.pixel.color.by.number": {
+    "title": "Paint Pixel - Color by Number",
+    "package": "com.rollingpanda.paint.pixel.color.by.number",
+    "description": "Welcome to Paint Pixel - Color by Number, the ultimate relaxing pixel art color experience! Whether you\u2019re a fan of art games, love the joy of paint by number, or just want to enjoy stress-free coloring games, this is your perfect companion.\n\nWith hundreds of beautiful pictures across multiple themes - from Cute Animals, Fantasy & Magic, and Nature & Plants to Fruits & Foods, People & Activities, and more - there\u2019s something for everyone in this pixel paint game.\n\nAmazing Game Features\n\u2705 Simple & relaxing color by number gameplay. Just pick a number and start coloring!\n\u2705 Wide variety of themes with 10+ multiple categories.\n\u2705 Exciting Daily Challenge - Unlock 3 surprise images every day and test your creativity!\n\u2705 Unique Jigsaw Image Mode - Paint large images piece by piece (4 parts) for ex",
+    "icon": "/icons/com.rollingpanda.paint.pixel.color.by.number.png"
+  },
+  "com.romerock.apps.utilities.tipcalculator": {
+    "title": "Tip Calculator & Bill Split",
+    "package": "com.romerock.apps.utilities.tipcalculator",
+    "description": "Tip Calculator & Bill Splitter is an easy way to divide the restaurant bill between your friends, helping you to calculate the gratuity and the taxes per person, and after you are done you can share it to your friends. \n\n\ud83d\udc49 Not willing to leave a tip percentage but a fixed tip? Don\u2019t worry! Switch between % or $ and split the bill as simple as that!\n\n\ud83d\udc49 Do you want to know how much to tip if the restaurant tip is split between all the guests on the table? Just use our tip and split calculator and share the total with your friends thru WhatsApp, Facebook, Mail, SMS or any social network you like.\n\n\ud83d\udc49 The app is absolutely free!: We made the most beautiful design, without the need to show any fancy background pictures that only make the app more complicated to use. We kept the functionality sim",
+    "icon": "/icons/com.romerock.apps.utilities.tipcalculator.png"
+  },
+  "com.ronasoftstudios.biblequiz": {
+    "title": "Bible Quiz",
+    "package": "com.ronasoftstudios.biblequiz",
+    "description": "Bible Quiz is a beautifully designed and thoughtfully crafted Bible trivia experience for believers, families, students, and anyone who wants to grow deeper in their knowledge of Scripture. Whether you are new to the Bible or have been studying it for years, Bible Quiz helps you strengthen your understanding of God\u2019s Word in a simple, engaging, and meaningful way.\n\nBible Quiz transforms Scripture learning into an interactive journey. Instead of passively reading, you actively recall, reflect, and engage with biblical stories, teachings, people, places, and events. From Genesis to Revelation, Bible Quiz challenges your knowledge across both the Old and New Testaments, helping you sharpen your memory while deepening your spiritual insight. Each question is carefully structured to encourage l",
+    "icon": "/icons/com.ronasoftstudios.biblequiz.png"
+  },
+  "com.ronstech.malayalamkeyboard": {
+    "title": "Malayalam Keyboard",
+    "package": "com.ronstech.malayalamkeyboard",
+    "description": "Malayalam Keyboard: Manglish & Voice Typing\nExperience the fastest Malayalam typing with the Malayalam Keyboard by Rons Technologies. Whether you prefer native Malayalam input, English-to-Malayalam (Manglish) transliteration, or hands-free Voice Typing, our app is designed to make your communication seamless and fun.\n\nJoin thousands of users who use the most intuitive Malayalam Typing App for WhatsApp, Facebook, and daily messaging.\n\n\ud83d\ude80 Key Features You\u2019ll Love:\n\nMalayalam Keyboard: Type directly in your mother tongue with a layout featuring large, easy-to-read fonts\u2014perfect for all ages and elders.\n\nManglish Keyboard (Transliteration): The easiest English to Malayalam keyboard. Type \"Sughamano\" and get \"\u0d38\u0d41\u0d16\u0d2e\u0d3e\u0d23\u0d4b\" instantly.\n\nMalayalam Voice Typing: Too tired to type? Use our accurate Malaya",
+    "icon": "/icons/com.ronstech.malayalamkeyboard.png"
+  },
+  "com.ronstech.tamilkeyboard": {
+    "title": "Tanglish : Tamil Keyboard",
+    "package": "com.ronstech.tamilkeyboard",
+    "description": "Welcome to Tamil Keyboard\n\nWe split our keyboard app into two\n\n* Tamil keyboard\n* Tamilish Keyboard(English to Tamil keyboard)\n* Status Saver\n* Video downloader\n\nNow Tamil keyboard comes with new feature English to Tamil keyboard, helps Tamil typing in a high speed.\n\nOur English to Tamil converter helps to get your message in your native Tamil within seconds.\n\nOur Tamil keyboard app is differ from other app, you can write your message and save your message in our app itself and at anytime you can send the message to anyone with our dedicated share message button to different messaging and social media application.\n\nOur Tamil keyboard is also easy to write , especially elder peoples can easily write with bigger font for each alphabets in Hindi \n \nThe use of Tamil keyboard comes when chattin",
+    "icon": "/icons/com.ronstech.tamilkeyboard.png"
+  },
+  "com.roshi.myphoto.themedialer": {
+    "title": "Photo Phone Keyboard Dialer",
+    "package": "com.roshi.myphoto.themedialer",
+    "description": "Photo theme keypad dialer to customize and personalize application Dialpad screen according to your choice, you can customize application Dialpad by choosing your best and memorable picture from gallery to set on Dialpad screen background also with Dialpad buttons customization you can change font of buttons and color of buttons to best suit with your theme by comparing it with sample demo screen.\nApplication will access your contacts for the purpose to provide quick call or SMS facility to dial number through a single tap, from contact list you can dial number or tap on SMS option to direct to system SMS app from where you can send SMS to required number, you can also search your favorite contact from contact list inside application.\nApplication will provide at least 15 Dialpad themes for",
+    "icon": "/icons/com.roshi.myphoto.themedialer.jpg"
+  },
+  "com.rotrxitsolution.khatasetu": {
+    "title": "KhataSetu \u2013 Digital Ledger",
+    "package": "com.rotrxitsolution.khatasetu",
+    "description": "KhataSetu is a modern digital ledger (khata) app designed for shop owners, small businesses, and service providers.\n\nManage customer credit (udhaar), record transactions, and track balances easily \u2014 all in one secure app.\n\nKEY FEATURES:\n\n\u2022 Digital Khata for customers and suppliers  \n\u2022 Track credit and payment history  \n\u2022 Add income and expense entries  \n\u2022 Real-time balance calculation  \n\u2022 Cloud backup & secure sync  \n\u2022 PDF report export  \n\u2022 Multi-language support  \n\u2022 Premium plan with advanced features  \n\u2022 Secure login with phone authentication  \n\nWHY KHATASETU?\n\n\u2714 Simple and easy to use  \n\u2714 Fast performance  \n\u2714 Secure cloud storage  \n\u2714 No complicated accounting knowledge required  \n\nWhether you run a small shop, retail business, or service company, KhataSetu helps you manage your accounts",
+    "icon": "/icons/com.rotrxitsolution.khatasetu.png"
+  },
+  "com.rousoftware.morse_defenders": {
+    "title": "Morse Defenders! - Learn Morse",
+    "package": "com.rousoftware.morse_defenders",
+    "description": "Learn Morse Code fast with a challenging arcade training game.\n\nMorse Defenders is a Morse code learning game and CW trainer where you fight enemy waves by sending real Morse code signals (dots and dashes). Train your brain to recognize and send Morse under pressure while progressing through increasingly difficult levels.\n\nTurn Morse code practice into a fast-paced arcade challenge and improve your CW speed, recognition, and accuracy.\n\nLearn Morse Code While Playing\n\nInstead of traditional flashcards or passive lessons, Morse Defenders teaches Morse through active gameplay and repetition.\n\nSend Morse code signals to destroy enemies\n\nLearn dots (dit) and dashes (dah) through gameplay\n\nImprove Morse recognition and sending speed\n\nTrain your brain with fast-paced CW challenges\n\nPerfect for be",
+    "icon": "/icons/com.rousoftware.morse_defenders.png"
+  },
+  "com.rovio.ABstellapop": {
+    "title": "Angry Birds POP Bubble Shooter",
+    "package": "com.rovio.ABstellapop",
+    "description": "Let the bubbles fly in a charming bubble shooter downloaded by more than 45 MILLION players! Match and pop colorful bubbles in over 10,000 captivating level games, and participate in special events to earn awesome rewards! Have lots of fun playing this bubble shooter game!\n \nJoin Stella, Red, Chuck, Bomb, and the rest of the Angry Birds flock in a bubble shooting adventure bursting with a nearly endless supply of challenges! Grab your trusty slingshot and shoot those bubbles to drop the pigs and rescue the impossibly adorable Hatchlings. With special guests and events popping up all the time, there\u2019s always a fun new challenge to take on. Of course accomplishments come with their fair share of rewards! One of a kind bubble pop games! \n \nFEATURES\n\u2013 Super easy to pick up and play. \n\u2013 Levels ",
+    "icon": "/icons/com.rovio.ABstellapop.png"
+  },
+  "com.rscreator.EMI_Calculator": {
+    "title": "EMI Calculator, Home, Car Loan",
+    "package": "com.rscreator.EMI_Calculator",
+    "description": "EMI Calculator : Home, Car, Personal Loan\nEMI Calculator App is a simple loan calculation tool that helps the user to quickly calculate EMI and view payment schedule. Use this Loan EMI Calculator to calculate your EMI (Equated Monthly Instalment), plan your loan repayment in an effective way. You can also easy to compare two loans by using Loan EMI Calculator.\n\n\nWhat To Use EMI Calculator : Home, Car, Personal Loan :\n\n    Home Loan\n    Car Loan\n    Bike Loan\n    Gold Loan\n    Personal Loan\n    Property Loan\n    Mortgage Loan\n    Compare Loans\n\nHow to Use EMI Calculator App?\nWith colourful charts and instant results, our EMI Calculator is easy to use, intuitive to understand and is quick to perform. You can calculate EMI for home loan, car loan, personal loan, education loan or any other fu",
+    "icon": "/icons/com.rscreator.EMI_Calculator.png"
+  },
+  "com.rsoftr.android.earthquakestracker.add": {
+    "title": "Earthquakes Tracker",
+    "package": "com.rsoftr.android.earthquakestracker.add",
+    "description": "Earthquake alerts and information at your fingertips:\n\n* Near real time seismic events notification.\n* Analyze seismic activity by plotting on the graph various seismic data spanning from hours to days, month and years. \n* Custom proximity and magnitude alerts so you never miss an important event. \n* My Zones - define your own zones to monitor by selecting center coordinates and a radius. Use zones list to filter message, sound, voice notification and earthquakes list plus many other features.\n* Push notification with custom filter to receive only events that meet your criteria.\n* Voice announcer will speak event parameters so you don't have to read each time an earthquake take place.\n* See at a glance global seismic activity in real time by using double bar charts. There are two charts: f",
+    "icon": "/icons/com.rsoftr.android.earthquakestracker.add.png"
+  },
+  "com.rsoftr.android.earthquakestracker.pro": {
+    "title": "Earthquakes Tracker Pro",
+    "package": "com.rsoftr.android.earthquakestracker.pro",
+    "description": "Earthquake alerts and information at your fingertips:\n\n* Near real time seismic events notification.\n* Analyze seismic activity by plotting on the graph various seismic data spanning from hours to days, month and years. \n* Custom proximity and magnitude alerts so you never miss an important event. \n* My Zones - define your own zones to monitor by selecting center coordinates and a radius. Use zones list to filter message, sound, voice notification and earthquakes list plus many other features.\n* Push notification with custom filter to receive only events that meet your criteria.\n* Earthquake historical data back to 1900 to analyze by using filters as magnitude, depth, location and time.\n* Voice announcer will speak event parameters so you don't have to read each time an earthquake take pla",
+    "icon": "/icons/com.rsoftr.android.earthquakestracker.pro.png"
+  },
+  "com.rubicon.dev.strikemaster": {
+    "title": "Strike Master Bowling",
+    "package": "com.rubicon.dev.strikemaster",
+    "description": "Features:\n\n\u2022 ONE SWIPE BOWLING - gets you bowling Strikes in no time, but also helps you develop skills to master an awesome banana bend. Free bowling games have been waiting for this - control the speed, trajectory, and spin on your ball in one simple swipe to launch it down the lane.\n\n\u2022 DESIGN YOUR BOWLER - Unique to Strike Master, select face type, hair, eye color, clothes and more to create your own unique bowling character. Use him/her online to show off and make people remember you.\n\n\u2022 SKILL SHOT CHALLENGES - 40+ hand-crafted special shots with pins in lines, pinball-style poppers, ramps and more. 10 pins doesn't seem so easy when they're in a line.\n\n\u2022 CUTTING EDGE - Full of fancy 3D shaders, animated alleys and with the best and most accurate physics engine around, Strike Master Bow",
+    "icon": "/icons/com.rubicon.dev.strikemaster.png"
+  },
+  "app.olauncher": {
+    "title": "Olauncher. Minimal AF Launcher",
+    "package": "app.olauncher",
+    "description": "Are you using your phone, or is your phone using you?\nOlauncher is a minimal AF Android launcher with just enough features. By the way, AF stands for AdFree. :D\n\n\ud83c\udfc6 Olauncher for Android remains the nicest home screen interface of any phone I've ever used. - @DHH\nhttps://x.com/dhh/status/1863319491108835825\n\ud83c\udfc6 Top 10 Android launchers of 2024 - AndroidPolice\nhttps://androidpolice.com/best-android-launchers\n\ud83c\udfc6 8 best minimalist Android launcher - MakeUseOf\nhttps://makeuseof.com/best-minimalist-launchers-android/\n\ud83c\udfc6 Best Android Launchers (2024) - Tech Spurt\nhttps://youtu.be/VI-Vd40vYDE?t=413\n\ud83c\udfc6 This Android Launcher Helped Me Cut My Phone Use in Half\nhttps://howtogeek.com/this-android-launcher-helped-me-cut-my-phone-use-in-half\n\nPlease check out our user reviews to learn more.\n\n\nFEATURES YOU MIG",
+    "icon": "/icons/app.olauncher.png"
+  },
+  "com.rvappstudios.magnifyingglass": {
+    "title": "Magnifying Glass + Flashlight",
+    "package": "com.rvappstudios.magnifyingglass",
+    "description": "The Simplest, Easiest-to-Use Magnifying Glass in the App Store \u2013 Flashlight (LED Torch Light), Digital Magnifier, Restaurant Menu Reader, and Prescription Bottle Reader all-in-one.\n\nHave you ever been in a sticky situation where you\u2019re in a restaurant and can\u2019t read the small print on the restaurant menu? Let the best magnifying glass with flashlight (LED Torch Light) handle all your fine print reading needs. Simply turn on the magnifier and watch as it auto focuses the text, while providing you the ability to zoom in/out further.\n\nCommon Uses For Magnifier: \n- Restaurant Menu Reader\n- Medicine Bottles/Prescription Bottle Reader\n- Serial Numbers From Back Of Device (TV\u2019s, DVD, Refrigerator, etc.)\n\nFeatures:\n- High Contrast Mode\n- Magnify Zoom from 1.0X \u2013 5.0X.\n- Save Captured Pictures In L",
+    "icon": "/icons/com.rvappstudios.magnifyingglass.png"
+  },
+  "com.phmartin.pigjump": {
+    "title": "Pig Jump",
+    "package": "com.phmartin.pigjump",
+    "description": "\ud83d\udc37 Why you\u2019ll love it\n\u2022 Physics-based gameplay: fun, dynamic, and unpredictable\n\u2022 Superpowers to unlock and master\n\u2022 Endless runs with increasing challenge\n\u2022 Tons of crashes, fails, and hilarious moments\n\n\ud83d\ude24 Why you\u2019ll hate it\n\u2022 Harder than it looks\n\u2022 You will crash. A lot.\n\n\ud83d\udd79\ufe0f Easy to play, hard to master\n\u2022 Simple controls, but real depth\n\u2022 Each run is different, and every mistake is part of the fun\n\n\u26a1 Constant progression\n\u2022 Unlock new skills and equipment, discover new ways to play, and keep beating your best score\n\u2022 Join a community where everyone improve and shares their craziest runs\n\n\u2764\ufe0f Made with passion\n\u2022 A fully indie game created by a solo developer\n\u2022 Crafted with love and attention to detail\n\nSo pick your pig, hit the gas\u2026 and hold on tight!",
+    "icon": "/icons/com.phmartin.pigjump.png"
+  },
+  "com.playshifu.peppapig": {
+    "title": "Peppa Pig by PlayShifu",
+    "package": "com.playshifu.peppapig",
+    "description": "\u2605 Bring Peppa Pig to life with PlayShifu\u2019s magical app! \u2605\n\nWatch your child's eyes light up as they embark on unforgettable adventures with their favorite friend, the SMART Peppa Pig plushie! This app transforms playtime into a magical experience. Connect your device seamlessly to your child's cuddly Peppa Pig plush via Bluetooth and unlock a world of fun adventures and popular songs from the hit series.\n\nKey Features:\n\u2606 Storytime Magic: Enjoy a vast library of beloved Peppa Pig stories, perfect for calming bedtime routines or stimulating young minds.\n\u2606 Sing-Along Fun: Encourage early language development with a collection of catchy Peppa Pig songs and musical stories.\n\u2606 Personalized Playlists: Create custom playlists tailored to your child's preferences for endless entertainment.\n\u2606 Intera",
+    "icon": "/icons/com.playshifu.peppapig.png"
+  },
+  "com.storytoys.lego.duplo.peppa.pig.googleplay": {
+    "title": "LEGO\u00ae DUPLO\u00ae Peppa Pig",
+    "package": "com.storytoys.lego.duplo.peppa.pig.googleplay",
+    "description": "LEGO\u00ae DUPLO\u00ae Peppa Pig brings together the beloved world of Peppa Pig and the creativity of LEGO DUPLO, offering a fun and playful learning experience.\n\nLittle ones aged 2-6 can explore, build, and engage in oinktastic pretend play adventures with Peppa and her friends. \n\n\u2022 Play with Peppa Pig, her family and friends! \n\u2022 Role-play and storytelling\u2014perfect for little ones \n\u2022 A wide and varied range of activities \n\u2022 Jump in muddy puddles or build a treehouse!  \n\u2022 Fun problem-solving challenges \n\u2022 Build with colorful 3D LEGO DUPLO bricks \n\u2022 Play together to nurture social skills\n \nWhen young children have fun and play, it creates the perfect conditions to learn and grow. We have designed this app to help young kids develop a balance of the IQ skills (cognitive and creative) and EQ skills (soc",
+    "icon": "/icons/com.storytoys.lego.duplo.peppa.pig.googleplay.png"
+  },
+  "com.netflix.NGP.WorldOfPeppaPig": {
+    "title": "World of Peppa Pig NETFLIX",
+    "package": "com.netflix.NGP.WorldOfPeppaPig",
+    "description": "NETFLIX MEMBERSHIP REQUIRED.\n\nCelebrate 20 years of \"Peppa Pig\" by stepping into Peppa's world, where play and learning go hand-in-hand. Solve puzzles, explore creative activities, watch full episodes of the series and discover more surprises. This game is now included with your Netflix membership.\n\nAD-FREE, UNLIMITED ACCESS FOR NETFLIX MEMBERS\nFeaturing the award-winning show\u2019s friendly characters, \"World of Peppa Pig\" offers a place to play \u2014 free from in-game ads and other interruptions. Embrace creativity and let the learning and fun begin! \n\nPLAY & LEARN\nA perfect place for Peppa fans to play games and explore creative activities. Join Peppa and friends as they\u2026\n\u2022 Build toys\n\u2022 Solve puzzles\n\u2022 Nurture guinea pigs in Peppa\u2019s garden\n\u2022 Make delicious smoothies for Candy Cat\n\nCREATE\nUnleas",
+    "icon": "/icons/com.netflix.NGP.WorldOfPeppaPig.png"
+  },
+  "com.aladinfun.piggytravel.android": {
+    "title": "Piggy GO - Clash of Coin",
+    "package": "com.aladinfun.piggytravel.android",
+    "description": "Welcome to Piggy Go\ud83d\udc37!\n-This is a BOARD&SOCIAL free game.\n-PLAY WITH FRIENDS AND FAMILY!\n-Join team, help each other and BECOME RICH TOGETHER!\n-Collect gold coins and become rich beyond your wildest dreams!\n-You can play the game for free and enjoy socializing and playing in a variety of ways!\n-You can roll the dice on your board, steal gold coins, attack friends, teleport to your friends' boards and say Hello!\n-There's even more colorful features and activities, cards, collecting, socializing, competitions, merge,character development and everything in between!\n-In this crazy board game, anything is possible!\n\nColorful Board\nThrowing DICE will yield treasures, which may be the following events!\n- \ud83d\udcb0Gold Coins\ud83d\udcb0: Gold coins are used to build towns and LEVEL UP\uff01\n- \ud83e\udd11Raid from VAULT\ud83e\udd11: Epic treas",
+    "icon": "/icons/com.aladinfun.piggytravel.android.png"
+  },
+  "com.rvappstudios.word.search.puzzle.game": {
+    "title": "Word Search Games: Word Find",
+    "package": "com.rvappstudios.word.search.puzzle.game",
+    "description": "Ready to challenge your brain \ud83e\udde0 with a fun word search game? With over 10000+ words and a vast range of levels, this word search game will keep you engaged for hours. It also has many bonus word puzzles and more. Test your vocabulary and learn new words \ud83e\udd13 as you progress in the game. With an easy-to-use interface, you can enjoy a smooth gaming experience and challenge yourself while having fun. Download the word search game now and start building your word power \ud83e\udd29!\n\nBeginners, as well as advanced pro players, will enjoy playing this fun word search game \ud83d\ude0e. This word search game is a thoughtfully designed family game. Children, teens, teenagers, college students, homemakers, office-goers, and adults will love this word search game. Playing word search puzzles for adults can be a great way f",
+    "icon": "/icons/com.rvappstudios.word.search.puzzle.game.png"
+  },
+  "com.ryusoft.brokenwallpaper": {
+    "title": "Broken Screen Wallpaper Prank",
+    "package": "com.ryusoft.brokenwallpaper",
+    "description": "Trick your friends and create hilarious moments with a realistic Broken Screen Wallpaper Prank on your device. \n\nIf you are looking for a fun way to simulate a cracked display, this app provides highly convincing shattered glass effects to make anyone believe your phone is damaged. A well-timed Broken Screen Wallpaper Prank is the perfect way to get a shocked reaction from family and friends.\n\nExplore a vast collection of fake broken display visuals, ranging from subtle screen scratches to a completely smashed screen illusion. Every Broken Screen Wallpaper Prank in our library is carefully designed in high resolution to look incredibly authentic. Whether you prefer a spiderweb crack, a glitchy LCD effect, or a heavy impact shatter, you will find the right damaged screen visual to suit your",
+    "icon": "/icons/com.ryusoft.brokenwallpaper.png"
+  },
+  "com.beemo.ai.flutter_beemo": {
+    "title": "BIMOBIMO",
+    "package": "com.beemo.ai.flutter_beemo",
+    "description": "BIMOBIMO makes sure you're never alone. Here's what's cool about us:\n- Talk and Listen: Send messages to characters and hear what they say back!\n- Make or Find Characters: Find characters made by others or make your own. It's fun and easy!\n- Create with Tools: Use our tools to make any character you want. You get to choose how they look and sound.\n-Simply share your memorable exchanges on social media to earn additional interaction opportunities!",
+    "icon": "/icons/com.beemo.ai.flutter_beemo.png"
+  },
+  "com.miligo.beemo": {
+    "title": "Beemo",
+    "package": "com.miligo.beemo",
+    "description": "In this journey we embarked on with the concept of 'Your City is Your Wallet', we continue to grow with the new regions added to our application in public transportation with the Beemo application. In cities where Beemo actively serves, payments can be made on public transportation vehicles in valid provinces, with the QR code created when you click the 'Pay on Transportation' button in the application.\n\nWith this update, we made a basic visual change on the home screen. Now, you can press the 'Pay at Work' button when you want to make a physical payment with a QR code in the workplace, and the 'Pay on Transportation' button when you want to pay with a QR code in public transportation.\n\nThank you for choosing to beemo! Your comments are highly valuable for us. By commenting, you can also s",
+    "icon": "/icons/com.miligo.beemo.png"
+  },
+  "com.ryzenrise.vaporcam": {
+    "title": "90s - Glitch VHS Video Effects",
+    "package": "com.ryzenrise.vaporcam",
+    "description": "#Trending Flash Warning Effects Available Now. Make your flash warning kiss Videos!\n\nHype up your stories with insanely cool flash, glitch & Vaporwave & VHS effects. Turn your video into a psychedelic or modern digital aesthetic masterpieces. Back to 1942 and dazz century with this amazing VHS photo editor and mega photo editor.\n\n1. Mix Glitch and Vintage Effects, Mega Photo Effects!\nRecord aesthetic and trippy videos with numerous powerful real-time video filters and animated text. Ranging from RGB glitches & VHS trippy sketch, also with pixelated filters to vaporwave effects.Let our power director 90s be your pocket video edit app now.\n\n2. Animated Text\nTurn your text into stunning animations. Create awesome animated GIF text or video. You can overlay the colorful background with text an",
+    "icon": "/icons/com.ryzenrise.vaporcam.png"
+  },
+  "com.sabodev.animalsounds": {
+    "title": "Animal Sounds Learning Game",
+    "package": "com.sabodev.animalsounds",
+    "description": "\ud83c\udfb5 Key Features\n- Over 30 animals with realistic sounds and high-quality images.\n- Kid-friendly interface: simple, colorful, and easy to use.\n- No internet required, completely free with no ads.\n\n\ud83c\udf1f Interactive play: hear the sound, pick from 4 options, learn Vietnamese names.\n\n\ud83c\udfae How to Play\n- Listen to the animal sound.\n- Choose the correct image from 4 choices.\n- Discover names and natural sounds as rewards.\n\n\ud83d\udc3e Animals Included\n- Farm animals: dog, cat, chicken, duck, cow, pig.\n- Wild animals: lion, tiger, elephant, monkey, bear.\n- Sea animals: dolphin, whale.\n- Birds: eagle, penguin.\n\n\ud83c\udfaf Educational Benefits\n- Builds listening and recognition skills.\n- Expands animal vocabulary and memory.\n- Boosts focus, logic, and learning interest for kids 2-8.\n\n\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 Perfect for parents, preschool te",
+    "icon": "/icons/com.sabodev.animalsounds.png"
+  },
+  "com.ninjakiwi.btdadventuretime": {
+    "title": "Bloons Adventure Time TD",
+    "package": "com.ninjakiwi.btdadventuretime",
+    "description": "The Bloons have invaded the Land of Ooo and it\u2019s up to Finn, Jake and the monkeys to stop them! Bloons Adventure Time TD is an awesome crossover between the award-winning animated series Adventure Time and the #1 Tower Defense game, Bloons TD!\n\u00a0\nGET YOUR HERO ON!\n*Pop Bloons as your favorite Adventure Time characters like Finn, Jake, Princess Bubblegum, Marceline and more!\n*Recruit brand-new monkey heroes like Captain Cassie, C4 Charlie, and Sai the Shadow!\n\nA NEW ADVENTURE!\n*Play your way through over 15 adventures and 50 maps!\n*Original story featuring the voice cast of the animated series!\n\nMAKE THE BLOONS GO BOOM!\n*Equip your heroes with 200+ weapons and items from Adventure Time and Bloons TD history!\n*Build your defenses with over 50 allies including fan favorites BMO, The COBRA, and",
+    "icon": "/icons/com.ninjakiwi.btdadventuretime.png"
+  },
+  "com.hybeim.puzzle17": {
+    "title": "Puzzle SEVENTEEN",
+    "package": "com.hybeim.puzzle17",
+    "description": "Hello, Puzzleteen crew!\nWelcome to Puzzle SEVENTEEN, a match-3 puzzle game featuring SEVENTEEN members! Get ready for exciting puzzles and adorable chibi SEVENTEEN characters!\n\nEmbark on adventures made just for CARATs!\n\n\ud83c\udf82 Puzzle SEVENTEEN 1st Anniversary Party is here!\nPuzzle SEVENTEEN has finally reached its 1st anniversary!! (\ud83d\udc4f\ud83d\udc4f) From a special live broadcast with DINO to a variety of in-game events and generous rewards, don\u2019t miss out on all the celebration!\n\n\ud83c\udf82 Card Collection system now available\n\u2728 The Card Collection System is now available through a seasonal exclusive event! Collect cards through events, leagues, friends, team members, and boxes to complete sets. \n\n\ud83e\udde9Puzzle SEVENTEEN is Right Here\nWelcome, Puzzleteen crew, to Puzzle SEVENTEEN! Are you ready for an exciting adventure ",
+    "icon": "/icons/com.hybeim.puzzle17.png"
+  },
+  "com.hybeim.intheseom": {
+    "title": "BTS Island: In the SEOM Puzzle",
+    "package": "com.hybeim.intheseom",
+    "description": "Welcome to the match-3 puzzle game made by BTS!\nPlay match-3 puzzles on [BTS Island: In the SEOM] and explore the island with the BTS members (RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook). Listen to BTS songs while you play match-3 puzzles on this relaxing island. \n\n\u25b6Game Features\n- Anyone can enjoy this match-3 puzzle game! \n- From ARMY that loves BTS, to gamers who love puzzles, there are levels for everyone.\n- Check out levels made personally by BTS! \n- New levels updated every week! Try your hand at new levels and climb the SeomBoard rankings.\n- Check out the touching story of BTS\u2019s growth.\n- From Tropical Island to Winter Island, Desert Island, and Shadow Island, explore the islands BTS is on.\n- Install cool decorations! Turn the desolate island into an island for BTS.\n- Dress up BTS i",
+    "icon": "/icons/com.hybeim.intheseom.png"
+  },
+  "com.sachin.app.aos": {
+    "title": "Always On Screen - AMOLED",
+    "package": "com.sachin.app.aos",
+    "description": "Always On Screen app brings the always on display feature to your device. No need to turn your screen on again and again just to see the time or date.\nGet information such as time, date, battery percentage, notifications, etc. always on your screen with Always On Screen. The best always on display app with lots of customization options.\n\nKey features:\n\u2022 Different types of clocks (Digital, Analog, Image, etc.)\n\u2022 Animated clocks\n\u2022 Rearrangable Widgets (Music controls, Weather, Next Alarm, Today's \n  schedule)\n\u2022 Display modes with Wave to show and Lift to show options\n\u2022 Screen timeout to save battery\n\u2022 Custom colors and gradient colors\n\u2022 Customizable Fonts\n\u2022 Fingerprint unlock\n\u2022 Minimal battery consumption\n\u2022 Detailed notification view.\n\u2022 Colored notifications with unread count badge.\n\u2022 Enhanc",
+    "icon": "/icons/com.sachin.app.aos.png"
+  },
+  "com.saleh.grammar": {
+    "title": "English Grammar Test offline",
+    "package": "com.saleh.grammar",
+    "description": "Grammar Level Assessment: Take tests designed to determine your current grammar level and track your progress accordingly.\n\nOffline Access: \nTake grammar tests anytime, anywhere, even without internet.\n\nSuitable for All Levels: \nWhether you're a beginner or an advanced learner, find tests tailored to your proficiency level.\n\nComprehensive Coverage: \nCovers various grammar topics, including tenses, parts of speech, and punctuation.\n\nDetailed Explanations:\n Understand answers with detailed explanations for each question.\n\nProgress Tracking: \nMonitor performance and identify areas for improvement.\n\nUser-Friendly Interface: \nEasy navigation for a seamless learning experience.\n\nCustomizable Tests: \nTailor tests to focus on specific grammar topics or difficulty levels.",
+    "icon": "/icons/com.saleh.grammar.png"
+  },
+  "com.sario.whistle": {
+    "title": "Dog Whistle - Stop Barking",
+    "package": "com.sario.whistle",
+    "description": "Dog Whistle: The only one Original Dog Whistle sound app!\n\nTap the Dog Whistle - High Frequency on the screen to hear the sound.\nLoud noise maker, Use it to train your dog!\n\nINSTRUCTIONS:\nHold the phone and tap the screen to hear the sound.\nTap on power icon to enable the infinite playback.\nTap on lock icon to use the app in background too.\nChoice the sound frequency with the slider.\n\nDog whistles app play a sounds in the high frequency range that dogs can hear. Humans can only hear up to 20 kHz, but dogs can hear over 20 kHz. Since dog whistles are silent to humans, but loud to dogs, they are perfect for training dogs.\nThis Dog Whistle app can play high pitched frequency sounds anywhere in the range from 100 to 22,000 Hz and is useful to train dog.\n\nThere are dozen of sound, all in HD, po",
+    "icon": "/icons/com.sario.whistle.png"
+  },
+  "com.scanbizcards": {
+    "title": "ScanBizCards Lite - Business C",
+    "package": "com.scanbizcards",
+    "description": "ScanBizCards is the most versatile business card app for Android!\n\nAre you tired of keeping track of your scattered business cards? This business card organizer lets you keep all of your business cards in your pocket via an app! \n\n** Latest additions to ScanBizCards **\nWe\u2019ve added new OCR engine for better scan results\nScanning is 5x faster than the previous version\nBatch scanning - batch scan multiple business cards\n\n\nBusiness Card Scan app: Our unique business card scanner app offers you the option to scan a business card on your phone OR submit the card for a 100%-accurate human transcription.\n\nExport business card to CRM: Are you a sales person utilizing CRM (customer-relationship management) software? We've got you covered there as well. ScanBizCards can export cards to CRM platforms ",
+    "icon": "/icons/com.scanbizcards.png"
+  },
+  "com.tosgame.android.gp": {
+    "title": "Temple of Shadows",
+    "package": "com.tosgame.android.gp",
+    "description": "[Immerse in Exciting Battles]\nFull-auto battle mode! Use sophisticated strategy to break enemy formations and let your ninjas battle automatically!\n\n[Confront Enemies in Arena]\nChallenge different enemies and earn scores for a higher rank and better rewards!\n\n[An Unknown Journey Full of Amazement]\nImmerse yourself in the mysterious and exciting plot and revisit the game's possibilities!\n\n[Unique and Exquisite Designs]\nSpecialized costumes make your characters more stylish! Their skills will be changed together, too!\n\n[Summon Ninjas to Get Stronger]\nUse gear and scrolls to make your ninjas stronger! Cultivate them in different ways to make you invincible!\n\n[Call Your Friends to Play Together]\nJoin a guild to become the best group! Conquer dungeons and defeat enemies to create your legend!\n\n",
+    "icon": "/icons/com.tosgame.android.gp.jpg"
+  },
+  "com.scannerradio": {
+    "title": "Scanner Radio - Police Scanner",
+    "package": "com.scannerradio",
+    "description": "Listen to live audio from over 8,000 fire and police scanners, NOAA weather radio stations, ham radio repeaters, air traffic (ATC), and marine radios from around the world.  Turn on notifications to receive alerts anytime a scanner has more than 2500 listeners (to find out about major events and breaking news).\n\nFEATURES\n\n\u2022 View scanners located near you.\n\u2022 View the top 50 scanners (those that have the most listeners).\n\u2022 View scanners added most recently (new scanners are being added all the time).\n\u2022 Add scanners you listen to the most to your Favorites for quick access.\n\u2022 Browse the directory by location or genre (public safety, aviation, railroad, marine, weather, etc).\n\u2022 Turn on notifications to be notified when major events are happening (details below).\n\u2022 Add Scanner Radio widgets and",
+    "icon": "/icons/com.scannerradio.png"
   }
 }
