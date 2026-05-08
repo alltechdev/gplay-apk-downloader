@@ -66151,5 +66151,612 @@
     "package": "com.scannerradio",
     "description": "Listen to live audio from over 8,000 fire and police scanners, NOAA weather radio stations, ham radio repeaters, air traffic (ATC), and marine radios from around the world.  Turn on notifications to receive alerts anytime a scanner has more than 2500 listeners (to find out about major events and breaking news).\n\nFEATURES\n\n\u2022 View scanners located near you.\n\u2022 View the top 50 scanners (those that have the most listeners).\n\u2022 View scanners added most recently (new scanners are being added all the time).\n\u2022 Add scanners you listen to the most to your Favorites for quick access.\n\u2022 Browse the directory by location or genre (public safety, aviation, railroad, marine, weather, etc).\n\u2022 Turn on notifications to be notified when major events are happening (details below).\n\u2022 Add Scanner Radio widgets and",
     "icon": "/icons/com.scannerradio.png"
+  },
+  "com.sensemobile.action": {
+    "title": "Kapi Cam - Y2K & CCD Camera",
+    "package": "com.sensemobile.action",
+    "description": "KAPI Cam is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\n\n\u2022 Simulates real DV and CCD effects, taking you back to the millennium in one second.\n\u2022 Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\n\u2022 Supports real-time preview of effects, allowing you to easily capture your favorite images.\n\u2022 Simple and easy-to-use operation interface, making creation at your fingertips.\n\nKAPI Cam is crafted by a small team focused on imaging simulation technology. We are committed to providing users with authentic, high-quality, and interesting retro effects. In the future, we will launch more DV, CCD, and fil",
+    "icon": "/icons/com.sensemobile.action.png"
+  },
+  "com.gamebee.bheemrunner": {
+    "title": "Adventure Runner: Hero Journey",
+    "package": "com.gamebee.bheemrunner",
+    "description": "Adventure Runner: Hero Journey brings you into an exciting world of fast-paced action and endless fun. This captivating running game invites you to explore stunning landscapes, conquer thrilling challenges, and become the ultimate hero in a world full of excitement and surprises.\nRun, jump, slide, and dodge through vibrant environments while overcoming obstacles and collecting rewards. Whether you're navigating dense forests, exploring ancient temples, or sprinting through snow-covered mountains, every level offers a unique experience that will keep you engaged for hours.\nKey Features:\t\n1. Play as Diverse Characters:\nChoose from a roster of adventurous heroes, each with unique skills and abilities to help you tackle various challenges.\n\n3. Exciting Power-ups and Boosters:\nOutsmart obstacle",
+    "icon": "/icons/com.gamebee.bheemrunner.png"
+  },
+  "com.oakever.arrows": {
+    "title": "Arrows GO!",
+    "package": "com.oakever.arrows",
+    "description": "Welcome to Arrows GO! A clean arrows puzzle escape built to calm a busy mind. Your goal is simple: guide each arrow out without a collision. The minimalist design cuts visual noise, reduces chaos, and helps you organize thoughts as you play. Plan the order, open paths, and enjoy a quiet flow. No timer. No pressure. Offline anywhere.\n\nWhat makes Arrows GO! great\n- Minimalist arrows puzzle escape that declutters the screen and the mind\n- Works offline with quick loading and a clean interface that keeps attention on arrows\n- Calm play loop for smart brains: think clearly, move each arrow with intent\n- Smooth tap controls, clear path feedback, and satisfying arrow out moments\n- Works offline with quick loading and a clean interface that keeps attention on arrows\n- Hints support focus when the ",
+    "icon": "/icons/com.oakever.arrows.png"
+  },
+  "com.septudio.javascriptcoding": {
+    "title": "JavaScript Coding",
+    "package": "com.septudio.javascriptcoding",
+    "description": "JavaScript Coding \u2014 Learn, Practice & Run JavaScript\n\nA complete JavaScript learning environment right on your device. Write and run code instantly with a professional editor, interactive console, step-by-step tutorials, hands-on coding challenges, and built-in Chart.js for data visualization.\n\nCode Editor & Console\n\u2022 Full-featured editor with syntax highlighting\n\u2022 Interactive JS Console (REPL) for instant experimentation\n\u2022 Run code directly on your device \u2014 no server needed\n\u2022 Customizable themes, font size, and editor settings\n\n60+ Step-by-Step Tutorials\n\u2022 JavaScript Basics \u2014 variables, loops, functions, arrays, objects\n\u2022 DOM & Browser \u2014 selectors, events, forms, fetch API\n\u2022 Async & Promises \u2014 callbacks, async/await, error handling\n\u2022 ES6+ Features \u2014 destructuring, generators, proxies, sym",
+    "icon": "/icons/com.septudio.javascriptcoding.png"
+  },
+  "com.septudio.javascriptguide": {
+    "title": "Javascript Guide",
+    "package": "com.septudio.javascriptguide",
+    "description": "JavaScript Guide \u2014 Learn JavaScript from Scratch\n\nJavaScript Guide is your complete companion for mastering JavaScript. Designed for beginners and anyone wanting to build strong JavaScript skills, this app breaks down complex concepts into bite-sized, practical lessons you can complete at your own pace.\n\nLearn the essential JavaScript skills that power modern web development. Build a rock-solid foundation that will serve you throughout your entire coding journey, whether you're building websites, web apps, or exploring frameworks like React, Vue, and Node.js.\n\nWhat You'll Master\nVariables and data types (let, const, strings, numbers, booleans)\nType conversion and comparisons (=== vs ==, truthy/falsy)\nControl flow (if/else, switch, loops)\nFunctions (regular functions, arrow functions, param",
+    "icon": "/icons/com.septudio.javascriptguide.png"
+  },
+  "com.seshadri.padmaja.expense": {
+    "title": "Day-to-day Expenses",
+    "package": "com.seshadri.padmaja.expense",
+    "description": "Day To Day Expenses: Your FREE, Simple, and Secure Personal Expense Tracker\n\nTake Control of Your Finances Effortlessly!\n\nDay To Day Expenses is the ultimate expense and money manager app designed for Android devices. With its intuitive and user-friendly interface, tracking your spending has never been easier. Whether you\u2019re at home or on the go, this app allows you to record your income and expenses quickly and efficiently, just like jotting down notes in a pocket notebook.\n\nKey Features:\n\n Seamless Expense Tracking:\n Enter your income and expenses, and let the app handle the calculations for you.\n  \nCategorize Your Finances:\nOrganize your transactions with a range of default categories or create your own. Colorful icons make it easy to identify each category at a glance.\n\nDetailed Report",
+    "icon": "/icons/com.seshadri.padmaja.expense.png"
+  },
+  "com.shinetech.persiankeyboard": {
+    "title": "Farsi Keyboard : Persian To En",
+    "package": "com.shinetech.persiankeyboard",
+    "description": "Farsi Keyboard is the best app for Persian Alphabet writing.\n\nPersian keyboard app will allow you to write message, story, posts, blogs, Emails in Persian or Farsi Alphabet language in any social media apps and chat apps.\n\nyou will find eye catchy and user-friendly Persian keyboard to write Persian typing language.\n\nPersian keyboard has easiest keypad to write Persian alphabets, letters and words.\n\nyou just type Persian words you can find suggestions of that Persian words automatically in this application.\n\nThe most exciting feature of this application is you can translate English to Persian and any Persian word to any other language like English, Marathi, Odis, Kannada and all other Indian languages as well as all international languages like Spanish, French, Italian, German, Swedish etc.",
+    "icon": "/icons/com.shinetech.persiankeyboard.png"
+  },
+  "com.ss.squarehome.key": {
+    "title": "Square Home Key",
+    "package": "com.ss.squarehome.key",
+    "description": "Unlock premium features of Square Home with this key!\n\nSquare Home is the best launcher with metro UI of Windows.\nIt's easy to use, simple, beautiful and powerful for any of phone, tablet and TV box.\n\nMain features:\n- Vertical scrolling in a page and horizontal scrolling from page to page.\n- Perfect metro style UI and tablet support.\n- Beautiful tile effects.\n- Shows notifications and count on tile.\n- Smart app drawer : Sort the best apps to the top based on app usage patterns\n- Quick access to your contacts.\n- Plenty options for customization.\n\nClick the following link to install Square Home from Google Play.\n\nhttps://goo.gl/5bxYWx",
+    "icon": "/icons/com.ss.squarehome.key.png"
+  },
+  "com.shinetech.tamilkeyboard": {
+    "title": "Tamil Keyboard and Translator",
+    "package": "com.shinetech.tamilkeyboard",
+    "description": "Tamil   Keyboard is the best app for Tamil   Alphabet writing. \n\nTamil   keyboard app will allow you to write message, story, posts, blogs, Emails in Tamil   or Tamil   Alphabet language in any social media apps and chat apps.\n\nyou will find eye catchy and user-friendly Tamil   keyboard to write Tamil   typing language.\n\nTamil   keyboard has easiest keypad to write Tamil   alphabets, letters and words.\n\nyou just type Tamil   words you can find suggestions of that Tamil   words automatically in this application.\n\nThe most exciting feature of this application is you can translate English to Tamil   and any Tamil   word to any other language like English, Marathi, Odis, Kannada and all other Indian languages as well as all international languages like Spanish, French, Italian, German, Swedish",
+    "icon": "/icons/com.shinetech.tamilkeyboard.jpg"
+  },
+  "com.shoutcafe.emicalculator": {
+    "title": "Home Loan EMI Calculator",
+    "package": "com.shoutcafe.emicalculator",
+    "description": "EMI Calculator helps you calculate your monthly loan EMI instantly and plan your finances smartly. Use this Loan EMI Calculator for home loan, personal loan, car loan, and SIP investment with fast and accurate results.\n\nKey Features:\n\n\u2714 Home Loan EMI Calculator\n\u2714 Personal Loan & Car Loan EMI Calculator\n\u2714 SIP & Investment Calculator\n\u2714 Interest & Principal breakup\n\u2714 Monthly and yearly repayment details\n\u2714 Simple, clean & easy-to-use interface\n\nWith this EMI Calculator app, you can easily check:\n\nMonthly EMI amount\n\nTotal interest payable\n\nTotal loan amount\n\nLoan tenure impact on EMI\n\nThis app is useful for:\n\nHome buyers\n\nSalaried professionals\n\nFinancial planners\n\nAnyone comparing loan options\n\nWhy choose this EMI Calculator?\n\n\u2714 Fast & accurate EMI calculation\n\u2714 Easy-to-understand loan breakd",
+    "icon": "/icons/com.shoutcafe.emicalculator.png"
+  },
+  "com.sht.ec": {
+    "title": "EMI Calculator - Bank, Finance",
+    "package": "com.sht.ec",
+    "description": "EMI (equated monthly installment) calculator used for calculating one part of the equally divided amount, based on monthly.\n\nBank EMI\nIt can do banking sector based EMI calculation.\n\nActual Amount Calculation\nEMI, period, interest rate knows then we can calculate actual amount.\n   \nInterest Rate Calculation\nActual amount, EMI, period knows then we can calculate interest rates\n\nTerm Calculation\nAmount, EMI, interest rate we know then calculate period of EMI.\n\nHistory of calculated EMI\nAll the calculation history will be stored for future usage. We can refer to it.\n\nDisplay options\nFont family, Size change options are available\n\nFLAT RATE EMI\nFinance based EMI calculation.\n\nVILLAGE INTEREST\nSimple interest and compound interest based calculation.",
+    "icon": "/icons/com.sht.ec.png"
+  },
+  "com.shvagerfm.bestronger": {
+    "title": "Home workouts BeStronger",
+    "package": "com.shvagerfm.bestronger",
+    "description": "STOP WAR IN UKRAINE!\nDon't be lazy - be Stronger!\n100+ workouts and 500+ exercises for you!\n\nBest collection of home workouts without equipment for men and women. Different progressive (challenge workouts), round, HIIT, weightloss workouts etc.\n\nHome workout programs Be Stronger - a personal fitness trainer for home workouts. You do not need a gym to have a beautiful and healthy body.\nThe app contains the latest fitness trends like hard 75 challenge, daily sixty workout, 7-minute scientific workout as well as old-school, time-tested workout programs.\n\nThe application includes the following progressive training plans:\n- 100 Push-ups - workout for chest, arms and shoulders\n- 100 Dips - workout on parallel bars\n- 50 Pull-ups - workout from 0 to 50 pull-ups on bar\n- 300 Squats - workout for st",
+    "icon": "/icons/com.shvagerfm.bestronger.png"
+  },
+  "com.simplesipcalculator.android": {
+    "title": "SIP Calculator",
+    "package": "com.simplesipcalculator.android",
+    "description": "SIP & Investment Calculator \u2013 Smart Financial Planning\n\nPlan your investments with clarity using SIP & Investment Calculator, a structured financial projection tool designed to help you estimate long-term growth across multiple investment strategies. Whether you are starting a SIP or analyzing an existing portfolio, this app provides clear, data-based projections using your inputs.\n\nCore Calculation Tools\n\nSIP Calculator\n- Calculate projected maturity value of monthly SIP investments.\n- View total invested amount and estimated gains.\n- Adjust investment duration and expected return rate.\n- Optional annual Step-Up SIP for realistic planning.\n\nCost of Delay Analysis\n- Compare investing today versus starting later.\n- See the projected difference in final maturity value.\n- Understand the long-",
+    "icon": "/icons/com.simplesipcalculator.android.png"
+  },
+  "com.sink.apps.girl.voice.changer": {
+    "title": "Girl Voice Changer PRANK",
+    "package": "com.sink.apps.girl.voice.changer",
+    "description": "Voice Changer is an entertainment Prank App. Girl Voice Changer Changes your voice into Different tone with applying effects. Voice Changer with Effects is great to have fun with while you are with a group of friends or in a party. It let you hear your Voice in different Tones, really amusing. Our Voice Changer  modify your voice. It is Smart voice changer, it smartly changes your voice with adding different frequencies and you can hear modified voice. Change voice with our app, its very interesting and funny voice changer. Change your voice and have fun listening to your modified voice. Record your voice, apply effects, and share them with your friends. Share it on social media.\n\nScary Voice: The App will change the tone and frequency of your voice ,As if some Ghost voice. Also refer as u",
+    "icon": "/icons/com.sink.apps.girl.voice.changer.png"
+  },
+  "com.sipcalculators.app": {
+    "title": "SIP Calculator",
+    "package": "com.sipcalculators.app",
+    "description": "About This App\nMutual fund SIP calculator for investment. SIP planner to start SIP online\nSIP Calculator is a powerful and easy-to-use mutual fund SIP calculator designed to help you plan smart investments and estimate returns instantly. This advanced SIP planner allows you to calculate SIP returns, track growth, and compare SIP vs lumpsum investments with accuracy.\nWhether you are a beginner or an experienced investor, this app helps you start SIP online, understand compounding, and build long-term wealth with confidence.\n\ud83d\udcca Key Features of SIP Calculator\n\u2022\tSIP Calculator for mutual fund investment \n\u2022\tAdvanced SIP Planner for goal-based planning \n\u2022\tSWP Calculator (Systematic Withdrawal Plan) \n\u2022\tSIP + SWP combined calculator \n\u2022\tStep-Up SIP Calculator (increase investment yearly) \n\u2022\tSIP Calc",
+    "icon": "/icons/com.sipcalculators.app.png"
+  },
+  "com.sirapp": {
+    "title": "Invoice Maker & Quick Receipt",
+    "package": "com.sirapp",
+    "description": "All-in-One Small Business Manager App!SIR keeps you organized, professional, and productive! From automated inventory management and professional invoice maker to generating and tracking estimates, reciepts, payment vouchers, purchase orders, work orders, and more, SIR does it all for you. \n\nBest Invoice Maker & Invoice Generator with Templates Create instant invoice via professional invoice maker with templates to include your company logo, brand color, and information. Send invoices quickly before leaving your customer. Use the pre-existing invoice templates and receive a read notice.\n\nUse Inventory Tracker for Inventory ManagementSIR is the only app that allows users to add multiple companies and warehouses, and assign multiple users with access from various devices. Inventory managemen",
+    "icon": "/icons/com.sirapp.png"
+  },
+  "com.sjh.fontstyle.calligraphy": {
+    "title": "Calligraphy",
+    "package": "com.sjh.fontstyle.calligraphy",
+    "description": "The Calligraphy Stylish Font app is designed to help you practice and create beautiful, artistic writing using this digital tool. This app offers a wide range of calligraphy fonts and brush lettering styles.\n\nThe Calligraphy Letters app is suitable for both beginners and advanced users who want to create custom lettering designs. Users can experiment with different cursive alphabet or fancy font styles and create impressive digital calligraphy text style on their devices.\n\nPen feature - You can draw your own signature or autograph. You can use various drawing options such as markers or fountain pen with different colors. You can erase it with an eraser or delete it and create another art.\n\nCalligraphy Stylish Font app font collection: -\nBrush, Curly, Decorative, Fancy, Halloween, Handwriti",
+    "icon": "/icons/com.sjh.fontstyle.calligraphy.jpg"
+  },
+  "com.skyapper.learnjavascript": {
+    "title": "Learn JavaScript",
+    "package": "com.skyapper.learnjavascript",
+    "description": "If you are searching for an application to learn JAVASCRIPT programming basic to advance without any programming knowledge . You are at right place. Whether you an experienced programmer or not , this application is intended for everyone who wish to learn the JAVASCRIPT programming.\n\nThis free app will teach you how to design a web page using JAVASCRIPT. it is easy to start, easy to learn.\n\nFeatures :\n\n- Great User Interface.\n- All topics are offline.\n- Topics into proper way.\n- Easy to understand.\n- Practice programs.\n- Copy and Share features.\n- Step by step learning\n- JAVASCRIPT Interview Question and Answer.\n\nTopics :\n\n- Basic Tutorial\n- Advance Tutorial\n- JAVASCRIPT  OOPs , BOM and DOM\n- JAVASCRIPT Online Compiler \n- Interview Que. and Answer\n\n\n>> Basic Tutorial :\nStart from basic JAV",
+    "icon": "/icons/com.skyapper.learnjavascript.png"
+  },
+  "com.skyeagle.learnjavascript": {
+    "title": "Learn Javascript",
+    "package": "com.skyeagle.learnjavascript",
+    "description": "Learn Javascript in a app greatly improved learning environment with more lessons, real practice opportunity. Learn Javascript web and app development training Completely FREE by Learning the most widely used web programming language in the world.\n\nIf you are searching for an application to learn Javascript programming basic to advance without any programming knowledge . You are at right place. Whether you an experienced programmer or not , this application is intended for everyone who wish to learn the Javascript programming.\n\nLearn Javascript offline tutorial for beginners as well as professional developer. This free app will teach you how to design a web page using Javascript. it is easy to start, easy to learn.\n\nFeatures :\n\n- Great User Interface.\n- All topics are offline.\n- Topics int",
+    "icon": "/icons/com.skyeagle.learnjavascript.png"
+  },
+  "com.skyfall.radiationmeter": {
+    "title": "Magnetic Field Detector",
+    "package": "com.skyfall.radiationmeter",
+    "description": "Magnetic Field Detector - Radiation Detector  is an android app that detects all types of EMF radiation or magnetic field. Radiation emits from tiny electronic devices. Magnetic field detectors can detect radiation and measure magnetic fields.\n Detect radiation and a magnetic field near you. \n  EMF Meter - Magnetic Field sensor  also detect the presence of metal by measuring the value of the magnetic field. This Magnetic field detector app uses a magnetic sensor that shows magnetic field level \u03bcT (microtesla).\n Radiation meters and radiation detectors  detect EMF radiation from any electronic devices or magnetic devices.\nAn  electromagnetic detector  or meter measures radiation and electromagnetic fields through android phone sensors.\n Magnetic Field Detector  or magnetometer detects elect",
+    "icon": "/icons/com.skyfall.radiationmeter.png"
+  },
+  "com.skypaw.decibel": {
+    "title": "Decibel X - Pro Sound Meter",
+    "package": "com.skypaw.decibel",
+    "description": "\"Decibel X\" is one of very few sound meter apps on the market that has highly reliable, pre-calibrated measurements and supports frequency weightings: ITU-R 468, A and C. It turns your phone device into a professional sound meter, precisely measures the sound pressure level (SPL) all around you. This extremely useful and beautiful sound meter tool will not only be an essential gadget for many uses but also bring you a lot of fun. Have you wondered how quiet is your room or how loud is a rock concert or sport event? \"Decibel X\" will help you answer all of those.\n\nWHAT MAKES \"DECIBEL X\" SPECIAL:\n\n- Trusted accuracy: the app is carefully tested and calibrated for most devices. The precision is matching with real SPL devices\n- Frequency weighting filters: ITU-R 468, A, B, C, Z\n- Spectrum analy",
+    "icon": "/icons/com.skypaw.decibel.png"
+  },
+  "com.jio.media.jiotvplus": {
+    "title": "Jiotv+",
+    "package": "com.jio.media.jiotvplus",
+    "description": "Unlimited Entertainment with JioTV+ designed exclusively for JioFiber & AirFiber users. Whether you're a sports fanatic, a family seeking kid-friendly content, or someone craving seamless entertainment, JioTV+ caters to your every need. Immerse yourself in a personalized journey, unlocking access to an impressive 1.5 million+ content titles, spanning 10+ languages and encompassing 20+ genres. \n \nWith one connection, enjoy all-in-one entertainment \u2013 stream TV shows, live matches, trending web series, and the latest movies. Experience the best of both worlds with seamlessly integrated live TV and OTT content on a single platform. Indulge in big-screen binge-watching by accessing OTT content and live channels directly on your TV through JioTV+.  \n \nKey Features: \n- Access 15 OTT Subscriptions"
+  },
+  "com.sleep.sleeptracker.sleepsounds.sleepcycle": {
+    "title": "Sleep Tracker & Alarm - Moonap",
+    "package": "com.sleep.sleeptracker.sleepsounds.sleepcycle",
+    "description": "\ud83c\udf19 Sleep Tracker & Alarm - Moonap - Manage Sleep Disorders and Improve Sleep Health\n\nSleep Tracker: Sleep Recorder is a comprehensive sleep tracker app designed to help you improve sleep quality, manage sleep disorders, and establish healthy sleep habits. With advanced sleep tracking, snore detection, and personalized insights, the app helps you fall asleep faster, sleep deeper, and wake up feeling refreshed. It supports users experiencing insomnia, restless sleep, light sleep, or other common sleep problems.\n\nWhether you are dealing with sleep fragmentation, snoring, sleep apnea symptoms, or difficulty maintaining a regular sleep schedule, Sleep Tracker provides a full-featured solution to monitor your sleep cycles and restore your natural circadian rhythm.\n\nHow Sleep Tracker & Sleep Sound",
+    "icon": "/icons/com.sleep.sleeptracker.sleepsounds.sleepcycle.png"
+  },
+  "com.sleep.snore.insomnia": {
+    "title": "Sleep Tracker: Sleep Cycle",
+    "package": "com.sleep.snore.insomnia",
+    "description": "Sleep better, Relax more. Sleep Tracker is here to help you fall asleep easily, record sleep noises, track sleep cycles to help you sleep better than before!\n\nSleep Tracker will track your sleep with your phone and get a detailed sleep analysis report so you can identify sleep problems and improve your sleep quality. Track your sleep cycles and use the data to help you sleep better now.\n\nDownload Sleep Tracker today \u2013 wake up easier and fall asleep faster!\n\n\u2b50\ufe0f 4 Reasons why you need Sleep Tracker:\n\n\u2728 1. We help you fall asleep easier and faster with relaxing sleep musics;\n\u2728 2. We keep tracking your sleep pattern during your sleep;\n\u2728 3. Detailed and accurate sleep reports for better understanding of your sleep: deep sleep, light sleep, sleep noises and more;\n\u2728 4. We wake you up smoothly wit",
+    "icon": "/icons/com.sleep.snore.insomnia.png"
+  },
+  "com.smartmob.tattoo.design.apps": {
+    "title": "Tattoo designs for Name Editor",
+    "package": "com.smartmob.tattoo.design.apps",
+    "description": "Tattoo my photo with my name is the best tattoo design apps for men. This tattoo design ideas inspire you for tattoo design on my hand. Tattoo my photo editor of name let you add many tattoo designs in your photos without pain! With virtual tattoo design app you just choose one pic from gallery or take one using camera and after that you choose the tattoo stickers.\n \nYou can get exclusive tattoo design images which are made by our tattoo artists. This tattoo photo editor app has 1000 tattoo design images. You can select tattoos of your choice and play tattoo design before applying to your body.\n \nNow get a fabulous makeover with tattoo design apps. You can put on the best tattoo design on your body to leave the impression. Making tattoos in real world is not a game; it will stay in your bo",
+    "icon": "/icons/com.smartmob.tattoo.design.apps.png"
+  },
+  "com.smartpdf.reader.manager.pro": {
+    "title": "JPG to PDF: PDF Maker & Editor",
+    "package": "com.smartpdf.reader.manager.pro",
+    "description": "JPG to PDF Converter is a free, fast and offline app to convert images to PDF, scan documents, compress PDF files and manage all your PDFs in one place.\n\nSometimes you have a bunch of photos \u2014 receipts, invoices, ID cards, certificates, handwritten notes \u2014 and need to send them as a single professional PDF. Or you want to scan a paper document with your phone camera and save it as a PDF instantly. This is the app for that.\n\nConvert JPG to PDF\nSelect any JPG, PNG, JPEG or photo from your gallery and convert it to PDF in seconds. Supports jpg to pdf, png to pdf, jpeg to pdf and picture to pdf. Merge multiple images into one PDF or convert them one by one \u2014 your choice. All formats supported, zero quality loss, works completely offline.\n\nPhoto to PDF & Image to PDF\nConvert any photo to pdf or",
+    "icon": "/icons/com.smartpdf.reader.manager.pro.png"
+  },
+  "com.smartwho.smartdistance": {
+    "title": "Distance Meter - AR Ruler",
+    "package": "com.smartwho.smartdistance",
+    "description": "Distance Meter is a complete measurement toolkit with AR distance measuring and 9 professional tools \u2014 all in one app. Powered by Google ARCore, the app detects your device\\'s hardware and selects the best measurement engine for maximum accuracy.\n\nWhether you\\'re leveling a shelf, measuring room dimensions, or checking angles, Distance Meter has the right tool for every job.\n\n\n[9 Measurement Tools]\n\nDistance Meter goes far beyond a simple ruler. It includes 9 specialized tools:\n\n\u2022 Bubble Level \u2014 Circular spirit level with realistic 3D liquid and bubble animation. Check if surfaces are perfectly horizontal.\n\n\u2022 Clinometer \u2014 Slope and angle gauge measuring 0\u00b0 to 90\u00b0. Ideal for roofs, ramps, and terrain slopes.\n\n\u2022 Plumb Bob \u2014 Digital plumb bob with gravity-based pendulum. Verify perfect vertic",
+    "icon": "/icons/com.smartwho.smartdistance.png"
+  },
+  "com.smartwho.smartmetaldetector": {
+    "title": "Magnetic Field Meter",
+    "package": "com.smartwho.smartmetaldetector",
+    "description": "Magnetic Field Meter turns your smartphone into a professional EMF detector, metal detector, RF signal analyzer, stud finder, ghost hunter, and digital compass \u2014 all in one app. It uses your device\\'s built-in magnetometer to deliver accurate, real-time measurements with no extra hardware.\n\n\u25a0 How Does It Detect Metal?\nYour phone\\'s magnetometer measures the surrounding magnetic field in microtesla (\u03bcT). Ferrous metals \u2014 iron, steel, nickel, cobalt \u2014 distort the Earth\\'s natural field (25\u201365 \u03bcT), and this app detects those distortions with vibration, sound, and color-coded visual feedback.\n\nNote: Non-ferrous metals (gold, silver, copper, aluminum) do not affect magnetic fields and require professional electromagnetic induction equipment to detect.\n\n\u25a0 Adaptive AI Detection Engine\nMost EMF ap",
+    "icon": "/icons/com.smartwho.smartmetaldetector.png"
+  },
+  "com.smartwho.vibrationmeter": {
+    "title": "Vibration Meter - Seismograph",
+    "package": "com.smartwho.vibrationmeter",
+    "description": "Vibration Meter is a professional-grade vibration analysis tool that turns your phone into a precision instrument. Measure vibration intensity in real time with beautiful analog gauges, record seismic waveforms, analyze frequency spectra, and monitor vibration 24/7 \u2014 all from your pocket.\n\nWhether you need to check floor vibration from construction, monitor earthquake activity, assess structural integrity, or detect environmental vibration \u2014 this app provides everything in one place.\n\n\n[Real-Time Vibration Meter]\n\n- 13 gauge designs: 10 analog styles with chrome bezels + 3 SpeedView variants\n- Live vibration measurement with Min, Max, Average statistics\n- 5 measurement units: mm/s, cm/s\u00b2, Gal, g, m/s\u00b2\n- Color-coded intensity levels with MMI scale descriptions\n- Approximate Richter magnitud",
+    "icon": "/icons/com.smartwho.vibrationmeter.png"
+  },
+  "com.smplea.spellingbee": {
+    "title": "SpellBee - Spelling Words",
+    "package": "com.smplea.spellingbee",
+    "description": "Play SpellBee, the addictive and brain-boosting word puzzle game!\n\nDive into the captivating world of words with SpellBee, the addictive and brain-boosting word puzzle game. Perfect for word enthusiasts and puzzle lovers, SpellBee challenges you to create as many words as possible from a set of seven unique letters, with one letter at the heart of it all.\n\nHow to Play:\n\nCreate Words: Form words using the given letters, ensuring each word is at least four letters long and includes the center letter.\nChallenge Yourself: Find the hidden \"\"pangram\"\" that uses all seven letters.\nScore High: Earn points based on word length and rarity. Can you reach the esteemed rank of Genius?\n\nFeatures:\n\nDaily Puzzles: Enjoy a new puzzle every day, keeping your mind sharp and entertained.\nTrack Progress: Monit",
+    "icon": "/icons/com.smplea.spellingbee.png"
+  },
+  "com.sofish.tilemahjong.gp": {
+    "title": "Tile Mahjong Classic",
+    "package": "com.sofish.tilemahjong.gp",
+    "description": "Tile Mahjong Classic: Relaxing Tile Match Game\nLooking for a calming Mahjong game for adults and seniors? Tile Mahjong Classic is a relaxing Mahjong tile matching game that blends strategy, brain puzzles, and soothing gameplay. Match tiles, clear boards, and enjoy peaceful puzzle challenges anytime, anywhere \u2014 no internet required!\n\n\ud83c\udc04 Classic Mahjong Tile Matching\nExperience the timeless joy of Mahjong. Match three identical tiles to clear the board and progress through beautifully crafted levels. Easy to learn yet strategically rewarding, this matching game is perfect for adults who enjoy relaxing brain games.\n\n\ud83c\udf3f Relaxing Brain Games for Seniors\nSharpen your mind without stress or time limits. Each puzzle enhances observation, memory, and pattern recognition, making it an ideal Mahjong ga",
+    "icon": "/icons/com.sofish.tilemahjong.gp.png"
+  },
+  "com.softick.android.freecell": {
+    "title": "FreeCell",
+    "package": "com.softick.android.freecell",
+    "description": "FreeCell Solitaire \u2013 A Classic Card Game with a Modern Touch\n\nDiscover the timeless fun of FreeCell Solitaire, the ultimate card game that combines strategy, patience, and skill. Whether you're a seasoned player or new to solitaire games, our specially optimized version for Android provides the perfect balance of classic gameplay and modern features.\n\nWhy You'll Love FreeCell Solitaire:\n- Effortless Gameplay: Our intuitive touch controls make playing FreeCell a breeze. Drag, drop, and move cards seamlessly with smart hints that guide you. The game prevents invalid moves and highlights possible plays, so you can focus on strategy, not controls.\n- Play Your Way: Enjoy FreeCell in both vertical (portrait) and horizontal (landscape) orientations. Switch effortlessly based on your preference or",
+    "icon": "/icons/com.softick.android.freecell.png"
+  },
+  "com.solid.invoice": {
+    "title": "Invoice & Receipt Maker",
+    "package": "com.solid.invoice",
+    "description": "Invoice Maker and Billing App For Monthly Expenses!\nInvoice App For Android - Simplify Your Billing Process!\nAre you looking for a reliable and efficient way to manage your invoices and receipts? Look no further than the Estimate Invoice Maker And Billing App, your ultimate invoice app for Android. Tailored for freelancers, small business owners, and anyone who needs to issue invoices on the go, this Estimate Invoice Maker And Billing App ensures you never miss a beat in billing.\n\nSay goodbye to traditional billing headaches and welcome a streamlined, digital solution with Business Receipts Tracker!\n\n\ud83d\udcc4 Estimate Invoice Maker And Billing App Key Features:\ud83d\udcc4\n\ud83d\udd8bQuick and Easy Invoice Creator and Bill Organizer;\n\ud83d\udccaComprehensive Bill Tracker App;\n\ud83e\uddfeFree Receipt Maker App Free;\n\u23f1Instant Invoice Gene",
+    "icon": "/icons/com.solid.invoice.png"
+  },
+  "com.solitaire.card": {
+    "title": "Classic Solitaire",
+    "package": "com.solitaire.card",
+    "description": "Enjoy the timeless charm of Classic Solitaire \u2013 a classic FREE card game offline loved by players around the world! \n\nThe most addictive and original free Solitaire or Patience is waiting for you!Classic never fades. Classic Solitaire is more than just a solitaire card game \u2014 it's a relaxing way to relieve stress, challenge yourself, and become a Solitaire or Patience master!\n\nSolitaire, also known as Patience, is one of the world's most popular classic card games, designed for all ages, including adults, seniors, and classic card game lovers. If you love other free classic solitaire card games, like FreeCell, Spider, Pyramid, TriPeaks, or Yukon, you'll feel right at home with this smooth and satisfying single-player Classic Solitaire experience.\n\nWhether you have a few minutes to unwind o",
+    "icon": "/icons/com.solitaire.card.png"
+  },
+  "com.solitaire.fish.klondike.card.aquarium": {
+    "title": "Solitaire 3D Fish",
+    "package": "com.solitaire.fish.klondike.card.aquarium",
+    "description": "Solitaire relax games meet 3D ocean settings - a fresh take on free Solitaire card games that will relax your brain.  \n\nMillions of Solitaire fans are enjoying Solitaire 3D Fish now! Join them and have great fun with Solitaire, relaxing games, and beautiful graphic design. \n\nDouble the fun and solitary time with classic solitaire games, marine companions, and card collections in just one game!\n\nSolitaire 3D Fish lets you experience challenging and fun classic Solitaire while collecting dozens of unique and stylish solitaire fish. \n\n\ud83d\udc1a Highlights \n\ud83c\udf0a Make the most out of your solitary time and enjoy yourself in timeless Solitaire card games with extra features.\n\ud83c\udf0a Play solitaire relaxing games, experience the unique Star Chest feature, and unleash your creativity to design your aquariums. \n\ud83c\udf0a D",
+    "icon": "/icons/com.solitaire.fish.klondike.card.aquarium.png"
+  },
+  "com.solitaire.klondike.my.magic.dragon.friends.cardgames": {
+    "title": "Solitaire Dragons",
+    "package": "com.solitaire.klondike.my.magic.dragon.friends.cardgames",
+    "description": "Solitaire Dragons is one of the most exciting solitaire games, combining classic card games with magical dragon games adventure. Play klondike solitaire, collect powerful dragon companions, and build your own dragon city while mastering relaxing yet strategic solitaire gameplay.\n\nA UNIQUE BLEND OF SOLITAIRE GAMES AND DRAGON GAMES\n\n1\ufe0f\u20e3 Solitaire Dragons transforms traditional solitaire games into an unforgettable fantasy journey. If you enjoy classic card games like klondike solitaire, this dragon game adds a fresh layer of discovery, collection, and adventure.\n\n2\ufe0f\u20e3 Every completed solitaire game helps you progress through a magical world filled with dragons, islands, and hidden treasures. Solve card puzzles, unlock new dragon species, and expand your growing dragon city as you continue you",
+    "icon": "/icons/com.solitaire.klondike.my.magic.dragon.friends.cardgames.png"
+  },
+  "com.solitaire.klondike.patience.ocean.aquarium": {
+    "title": "Solitaire",
+    "package": "com.solitaire.klondike.patience.ocean.aquarium",
+    "description": "Gobble up Solitaire fun! Celebrate Thanksgiving in your cozy undersea world.\n\nThis Thanksgiving, step into a warm and vibrant underwater adventure with Solitaire.\nExplore colorful aquariums, collect stunning marine creatures, and enjoy engaging solitaire card games at your own peaceful holiday pace. If you need a quiet break from the festive hustle, dive into Solitaire games and unwind with relaxing card gameplay. Build aquariums, gather solitaire fish, and enjoy classic solitaire anytime.\nYou can enjoy innovative solitaire games, collect solitaire fish, and build your own dream aquariums!\n\n\u2728 Collect Fish and Build Solitaire Aquariums\nBeyond the timeless Patience solitaire gameplay, Solitaire brings you a lively ocean world filled with solitaire fish, decorations, and aquatic plants. As yo",
+    "icon": "/icons/com.solitaire.klondike.patience.ocean.aquarium.png"
+  },
+  "com.soundeffecttools.voiceavatar.changer": {
+    "title": "Call Voice Changer",
+    "package": "com.soundeffecttools.voiceavatar.changer",
+    "description": "Voice Changer APP\n\nThen, this funny voice changer and free voice changer app is definitely what you need to change your voice.\n\n\ud83d\udd09Key Features of Voice Changer - Audio Effects: \ud83d\udd09\n\n\ud83d\udd09Voice Transformation/Change Voice:\n\n- Impress your friends in real-time by choosing the voice of any celebrity, actor, or anime character during your chats.\n- Easily change your voice into different voice avatar and voice effects\n\n\ud83d\udd09 Change Your Voice: Want to sound like a girl, woman, lady, child, baby girl, robot, cave, an alien, or even a famous celebrity? With Call Voice Changer, the possibilities are endless. Experience the thrill of transforming your voice into a myriad of fun and exciting characters with just a few taps.\n\n\ud83d\udd09Sound Effects & Voice Emoji Playback:\n\n- Liven up your game live streams or voice cha",
+    "icon": "/icons/com.soundeffecttools.voiceavatar.changer.png"
+  },
+  "com.haegin.playtogether": {
+    "title": "Play Together:Cozy Social Life",
+    "package": "com.haegin.playtogether",
+    "description": "Create your avatar, make friends, and explore a cozy social world.\n\nWelcome to PLAY TOGETHER, a vibrant virtual world full of fun mini games and social activities.\n\n\u25cf Create a character that is uniquely you and make all kinds of friends.\nCustomize your character from head to toe in your unique style. The possibilities are endless with a variety of skin tones, hairstyles, body types, and costumes to choose from. Maybe, you'll find that special someone in your life as you chat with and befriend various people from around the world!\n\n\u25cf Turn your humble abode into the home of your dreams and invite friends over for a Home Party!\nChoose a house from a wide range of styles and concepts and a countless number of furniture pieces to make your dream home fantasy a reality right before your eyes. In",
+    "icon": "/icons/com.haegin.playtogether.webp"
+  },
+  "com.virtualapplications.play": {
+    "title": "Play!",
+    "package": "com.virtualapplications.play",
+    "description": "PlayStation 2 Emulator for Android. \n\n*WARNING* This is still under active development and will probably not work with all your favorite games.\n\nPlease check the compatibility list for information about working games.",
+    "icon": "/icons/com.virtualapplications.play.png"
+  },
+  "com.leagueapps.mobile.client": {
+    "title": "LeagueApps Play",
+    "package": "com.leagueapps.mobile.client",
+    "description": "LeagueApps Play is a team management and communications app that is totally free for players, parents, coaches, staff, and admins to download\u2013\u2013and it's ad-free too.\n\nYou just need to be registered to a team or tournament supported by LeagueApps to use the Play app to view schedules and notifications, RSVP, send communications, and more. Simply sign in to the app with the same email and password credentials used when you registered for the team.\n\nAnyone can search for and follow publicly available tournaments\u2014no login required. Family, friends, fans, recruiters, officials, etc. can find tournaments, follow their teams, view schedules and standings, and get push notifications for any game changes, and more.\n\nPlay helps coaches and admins better manage their teams, communications, games and e",
+    "icon": "/icons/com.leagueapps.mobile.client.jpg"
+  },
+  "com.mana.stickdemon.slayerfight": {
+    "title": "Stickman Demon Fight Warrior",
+    "package": "com.mana.stickdemon.slayerfight",
+    "description": "Every battle must come to an end, and the last fights are always the fiercest. Are you ready for an epic 3v3 stickman fighting game?\n\nIn Stickman Demon Fight Warrior, you will face dark forces threatening humanity: shadow lords, cursed warriors, undead stickmen, and monstrous creatures. Each battle is packed with nonstop action, powerful skills, and thrilling combat that will test your limits.\n\nChoose your stick heroes, upgrade their abilities, and become a legendary shadow hunter. Fight to protect humanity and prove yourself against warriors from other realms.\n\nHow to Play\nDodge, jump, and unleash your power to crush enemies. With simple yet responsive controls, anyone can dive into the action and master devastating skills to defeat the shadows.\n\nGame Features\n\n* Multiple modes: Classic b",
+    "icon": "/icons/com.mana.stickdemon.slayerfight.png"
+  },
+  "com.Owings.DemonRPG": {
+    "title": "Demon RPG",
+    "package": "com.Owings.DemonRPG",
+    "description": "The Demon who ruled Hell, betrayed!\nThe outskirts of hell, the adventure of the demon begins to get back the throne.\n\nFeatures\n\u25cfIf you merge the same item, you can get the next stronger item\n\u25cfYou can use various skills to lead effective combat and growth\n\u25cfCraft swords, shields, and potions to defeat evil monsters\n\u25cfMore than 100 various items!\n\u25cfCheck twist plot in the end!\n\nPlease contact owings37@gmail.com for game-related inquiries.",
+    "icon": "/icons/com.Owings.DemonRPG.png"
+  },
+  "com.indie.jz3d.google.en": {
+    "title": "Demon God",
+    "package": "com.indie.jz3d.google.en",
+    "description": "\u3010Nezha's New Skin \u00b7 Season of the Dragon's Roar\u3011Ignites the Battlefield! \ud83d\udd25\nSamadhi flames incinerate the shackles of the three realms as Nezha ascends, cloaked in blazing fury and reborn as the Dragon-Soul War God! Wielding the exclusive \"Blazing Dynasty\" skin, he strides forth on scorched earth\u2014dragon-scale armor ablaze with glory, spear-tip crackling with celestial lightning. Come to grab it!\n**Classic Features**\n\n--SELECT LEGENDARY CLASSES--\nDemon or God? \nYou decide whether you will be born. Choose your partner during the journey!\n\n--CLAIM RICH REWARDS FOR FREE--\nFree VIP 10 for you after you created a role.\n\n--MAKE POWERFUL FANTASTIC SKILL COMBOS--\nYou will get excellent visual performance and super exciting battle scenes here.\n\n--MORPH 100+ OUTFITS & MOUNTS--\nMorph various Outfits & ",
+    "icon": "/icons/com.indie.jz3d.google.en.png"
+  },
+  "com.hg.devilsfree": {
+    "title": "Devils & Demons - Arena Wars",
+    "package": "com.hg.devilsfree",
+    "description": "Fight hordes of savage demons and undead while you clash with powerful boss enemies like necromancers and dragons. Take on a myriad of quests in a living fantasy world with many events, encounters and of course epic war loot. Enjoy the action, excitement and fun as you increase the power of your group of heroes and pave your way to the top. Embrace the legend of Devils & Demons and write your own story!\n\nIn a magic age, where dragons ruled and the world of Desola was at the height of its glory, a demonic portal opened its infernal abyss in the shadowlands. The realm was ravaged by Devils & Demons. As the battle between monsters and men raged, endless streams of diabolic reapers brought death and despair to humankind. The army of man was outnumbered and in disarray. It is your duty to assem",
+    "icon": "/icons/com.hg.devilsfree.png"
+  },
+  "com.mobirix.mbpdh": {
+    "title": "Demon Hunter Idle",
+    "package": "com.mobirix.mbpdh",
+    "description": "All that remains are the shattered remnants of monsters, strewn along the path of the hunter wielding a massive greatsword and an arcane firearm.\nJoin the ultimate hunter's quest to restore balance to a world engulfed in darkness!\n\n[Features]\n\u25a0 Pixel Characters & Stylish Action\n \u2013 Enjoy stylish pixel-art action with adorable characters!\n\n\u25a0 Fast, Idle Leveling\n \u2013 AFK rewards and easy controls for unlimited level up anytime, anywhere!\n\n\u25a0 Awakening\n \u2013 Unleash your character's potential with awakening and unlock unique costumes!\n\n\u25a0 Class Change\n \u2013 Choose a unique class and customize your character to suit your playstyle!\n\n\u25a0 Familiars\n \u2013 Make pacts with familiars with unique skills for unparalleled power!\n\n\u25a0 Demonic Tower\n \u2013 Ascend the Demonic Tower and claim incredible rewards!\n \n-------------",
+    "icon": "/icons/com.mobirix.mbpdh.png"
+  },
+  "com.pcsx3.app": {
+    "title": "DamonSX2 Pro - PS2 Emulator",
+    "package": "com.pcsx3.app",
+    "description": "Features:\n- Best compatibility of games.\n- Best game controller.\n- Save and load game state easily.\n- Fast game speed as on the original device.\n- Easy network gaming.\n- Saves your battery as much as possible\n- Support for zipped/7z/rar ROMs\n- Prefect Run PS2 Rom on X64 ARM devices\n\n\nIf you have any questions or problems with this App,\nplease contact us and we will respond as quickly as possible to help you.",
+    "icon": "/icons/com.pcsx3.app.png"
+  },
+  "com.damonsx2.playstation2": {
+    "title": "DamonSX2 Emulator - Premium",
+    "package": "com.damonsx2.playstation2",
+    "description": "DamonSX2 is the open source PS2 LGPL emulator.\nSupported Feature :\n- Quick save/load with slots\n- Support for zipped ROMs\n- Display simulation (LCD/CRT)\n- Fast-forward support\n- Gamepad support\n- Tilt to stick support\n- Touch control customization (size and position\n- Supported Multi-format game ROM, Include: -.iso\\bin\\img\\nrg",
+    "icon": "/icons/com.damonsx2.playstation2.png"
+  },
+  "com.sowarquran.souratassafat.maktoba": {
+    "title": "Dua and Azkar",
+    "package": "com.sowarquran.souratassafat.maktoba",
+    "description": "Azkar & Dua is a beautiful app with a modern design to help you read dhikr and duas on a daily basis and on key occasions.\n\n A Hadith says, dua is a means of beseeching Allah Almighty for the fulfillment of all our needs no matter how mundane or insignificant as it may be; or significant as facing overwhelming odds in the battlefield (Tirmidhi).\n\nKey Features:\nAzkar & Duas from holy Quran and Sunnah\nThe Holy Quran\nIstighfar counter\nHisn al-Muslim\nAudio Duas\nQibla direction\n\nShare and recommend this beautiful application to your friends and relatives. May Allah bless us in this world and hereafter.\n\n\u201cWhoever calls people to right guidance will have a reward like that of those who follow him...\u201d - Sahih Muslim, Hadith 2674",
+    "icon": "/icons/com.sowarquran.souratassafat.maktoba.png"
+  },
+  "com.spellroyale.app": {
+    "title": "Spelling Bee:Battle",
+    "package": "com.spellroyale.app",
+    "description": "Spelling Bee Battle \u2013 The Ultimate Word Game Showdown!\nStep into the arena where spelling meets competition. Spelling Bee Battle is the perfect mix of classic spelling bee challenge and fast-paced word duels. Whether you\u2019re playing offline or battling online players, test your spelling speed and vocabulary mastery in every round.\n\n\ud83c\udfae Game Modes:\n\nSingle Player (Offline & Online) \u2013 Train your spelling skills against smart AI or real players.\n\n1v1 Duel Mode \u2013 Go head-to-head in quick spelling duels. First to spell wins!\n\nBattle Royale Mode \u2013 10+ players compete. Only one spelling champ survives!\n\n\u2728 Key Features:\n\n\u2705 10,000+ English Words with increasing difficulty.\n\n\u2705 Supports 10+ Languages including English, Spanish, Turkish & more.\n\n\u2705 Spelling Bee Style Gameplay with real-time pressure.\n\n\u2705 O",
+    "icon": "/icons/com.spellroyale.app.png"
+  },
+  "com.splendapps.decibel": {
+    "title": "Sound Decibel Meter",
+    "package": "com.splendapps.decibel",
+    "description": "Want to measure sound level? This is smart sound level meter app for Android!\nOur decibel meter uses your built-in microphone to measure sound volume in decibels (dB) and also displays samples on helpful graph.\n\nNOTE: Microphones in most devices are aligned to human voice and the maximum values are limited by the hardware. Very loud sounds (~90 dB and more) may not be recognized. Automatic gain control used in some devices may interfere with the operation of this noise meter.\n\n\nAbout Us\n\u2022 Visit SplendApps.com: http://splendapps.com/\n\u2022 Our Privacy Policy: http://splendapps.com/privacy-policy\n\u2022 Contact Us: http://splendapps.com/contact-us\n\n\nFollow Us\n\u2022 Facebook: https://www.facebook.com/SplendApps/\n\u2022 Instagram: https://www.instagram.com/splendapps/\n\u2022 Twitter: https://twitter.com/SplendApps",
+    "icon": "/icons/com.splendapps.decibel.png"
+  },
+  "com.splitbill.tipcalculator.tipcounter": {
+    "title": "Hunain Split - Tip Calculator",
+    "package": "com.splitbill.tipcalculator.tipcounter",
+    "description": "Hunain Split - Tip Calculator makes bill splitting effortless and accurate. Quickly calculate tips, divide totals among friends, and enjoy stress less payments with a clean design.",
+    "icon": "/icons/com.splitbill.tipcalculator.tipcounter.jpg"
+  },
+  "com.sports.eightball.pool.rival": {
+    "title": "Infinity 8 Ball\u00ae Pool King",
+    "package": "com.sports.eightball.pool.rival",
+    "description": "Latest Updates:\nNew Season! Many new gifts are waiting for you! Come and upgrade your pool cues and pool table! Come and be a pool king!\nFirefly Challenge: Beat against the pool masters to catch fireflies, climb the world leaderboard, unlock rare treasure king chests, and catch exclusive rewards for king.\n\nInfinity 8 Ball\u2122 Pool King has undergone a complete upgrade!\nEasier shots! Cooler tables! Richer game modes! Amazing rewards! More pool masters! Whether it's 8 ball, 9 ball, or snooker, if you're a pool master, join and play! To be the king of pool!\n\nHere, you can enjoy:\n\nA fantastic gaming experience!\nNo more struggling to rotate your phone for aiming! Beat and clear the table more easier online! The angles in Infinity 8 Ball\u2122 Pool King are easier to adjust, the balls are easier to shoo",
+    "icon": "/icons/com.sports.eightball.pool.rival.png"
+  },
+  "com.sproject.connect4": {
+    "title": "com.sproject.connect4",
+    "package": "com.sproject.connect4"
+  },
+  "com.square_enix.pool": {
+    "title": "8 Ball Shoot It All - 8 Pool",
+    "package": "com.square_enix.pool",
+    "description": "First-ever in pool games with 3D graphics & real-time 3D Zoom! So authentic, feel like you're at a real 8ball pool table, aiming for victory! \n\nExplore a world of free 8 ball pool game & 9 ball pool game in classic 2D pool or realistic 3D pool. \n\nReal Pool 3D  Top-class pool game with many modes: 8-ball, 9-ball, Quick mode (Rush games). It offers real-time 3D online game. Enjoy 3D online multiplayer pool, thrill of billiards 3D pool, real pool & online pool.\n\nZoom while taking shots,  play like actual 8ball pool table, going balls. Be pool king & strike in billiards city where infinity 8 ball adventures await. With realistic pool-8, be eight-ball, nine-ball champion.\n\nMaster Spin & Curved Shots in Poll.  Enjoy breakshot pool & shooting ball games. Our physics, ball physics bring new realm ",
+    "icon": "/icons/com.square_enix.pool.png"
+  },
+  "com.zigzagame.paranoize": {
+    "title": "Paranoize",
+    "package": "com.zigzagame.paranoize",
+    "description": "Eleven years after a mysterious, colossal object fell into the mountains of Japan, destiny stirs once more. In a secluded dojo, a blind youth trains with his wooden sword, driven by a voice only he can hear.\n\nAn all-star cast brings the story to life in a fully voiced animated series.\n\nStep into the forefront of the comics and manga experience\u2014\nThe Age of Cinematic Comics is here.\n\n*Use of headphones or earphones is recommended for optimal experience.\n\n\u25c6Cast (Japanese Voice Actors)\n\u3000Junya Enoki\u3000\u3000\u3000\u3000  Mariya Ise\n\u3000Miyu Tomita\u3000\u3000\u3000\u3000  Chika Anzai\n\u3000Takahiro Sakurai\u3000\u3000 Tomori Kusunoki\n\u3000Sayaka Sembongi\u3000  Takuya Eguchi\n\u3000Marina Inoue\u3000\u3000\u3000\u3000Yuki Ono\n\u3000Show Hayami\u3000\u3000\u3000  Shizuka Itoh\n\u3000Yoko Hikasa\u3000\u3000\u3000\u3000 Yume Miyamoto\n\u3000Koki Uchiyama\u3000\u3000\u3000Shion Wakayama\n\u3000Yoshimasa Hosoya\u3000Mamiko Noto\n\u3000Shin-ichiro Miki\u3000\u3000  Yoji Ueda\n\u3000Tomo",
+    "icon": "/icons/com.zigzagame.paranoize.webp"
+  },
+  "com.nino.tulpa.google": {
+    "title": "The NOexistenceN of you AND me",
+    "package": "com.nino.tulpa.google",
+    "description": "\u2014\u2014\u2014\u2014\u25a0 Game Introduction \u25a1\u2014\u2014\u2014\u2014\nThis is a short surreal psychological horror visual novel, and you are the protagonist.\nOne day, a mysterious girl suddenly appears in your room...\n\n\u3010Your task is simple\u3011\n\u00b7 Say hello to the girl~\n\u00b7 Respond to \"the girl's existence\" through hundreds of choices.\n\u00b7 Explore the essence of \"being\" and uncover the truth of the \"world.\"\n\n\u3010And your mission is even simpler\u3011\n\u00b7 Say hello to the girl~\n\u00b7 As the king, listen to the advice of your subjects\u2014especially your \"loyal ministers.\"\n\u00b7 Bake a strawberry cake, eat the cake, eat the cake\u2014will you really let her eat the cake?\n\u00b7 Stop FONTAINEBLEAU\u2019s plot! Don\u2019t hand over the time machine!\n\u00b7 Travel to the Silvery Forest, defeat the Demon Lord, and fulfill the Dreamer\u2019s mission.\n\u00b7 Go on a date with the girl at the end of th",
+    "icon": "/icons/com.nino.tulpa.google.png"
+  },
+  "com.srctechnosoft.eazytype.gujarati.free": {
+    "title": "Quick Gujarati Keyboard Emoji",
+    "package": "com.srctechnosoft.eazytype.gujarati.free",
+    "description": "\u0aae\u0acb\u0aac\u0abe\u0a87\u0ab2 / \u0a9f\u0ac7\u0aac\u0acd\u0ab2\u0ac7\u0a9f \u0aae\u0abe\u0a82 \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0\u0aae\u0abe\u0a82 \u0ab2\u0a96\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0a96\u0ac2\u0aac \u0a9c \u0ab8\u0ab0\u0ab3 . \u0a86 \u0a8f\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8 \u0ab8\u0a82\u0aaa\u0ac2\u0ab0\u0acd\u0aa3\u0aaa\u0aa3\u0ac7 \u0aae\u0aab\u0aa4 \u0a9b\u0ac7 \n\nQuick Gujarati Keyboard provides the option to type Emoji icons in your message like on Whatsapp,facebook messenger or texting SMS.\nThis is a Soft Keyboard to type Gujarati on your Phone. You can type easily on any app like Gmail, Facebook, Whatsapp. You can write blogs in Gujarati in your web browser. \nThis keyboard works as default keyboard in android phones/tablets for typing/texting in Gujarati. Just type in English and press spacebar your English word will be converted into Gujarati script automatically. \nThis keyboard provides word suggestions to type in more faster manner. This Keyboard also provides option to type text in English.If you want to type in English just press toggle button to switch En",
+    "icon": "/icons/com.srctechnosoft.eazytype.gujarati.free.png"
+  },
+  "com.srctechnosoft.eazytype.kannada.free": {
+    "title": "Quick Kannada Keyboard",
+    "package": "com.srctechnosoft.eazytype.kannada.free",
+    "description": "Easy way to type Kannada\nQuick Keyboard provides the option to type Emoji icons in you message like Whatsapp,\nThis is a Soft Keyboard to type Kannada on your Phone. You can type easily on any app like Gmail, Facebook, Whatsapp. you can write blogs in Kannada in web browser. This keyboard works as default keyboard in android phones/tablets. No need to learn specific Kannada keyboard. Just type in English and press space you English word will be converted into Kannada script automatically. This keyboard provides word suggestions to type in a fast way. This Keyboard provides English typing option to type in English. if you want to type in English just press toggle button to switch English to Kannada or Kannada to English.  \nIf your are able to read \"\u0c97\u0ccd\u0cb0\u0cbf\u0cd5\u0c9f\u0cbf\u0c82\u0c97\u0ccd\" (Kannada text) in your mobile p",
+    "icon": "/icons/com.srctechnosoft.eazytype.kannada.free.png"
+  },
+  "com.srctechnosoft.eazytype.marathi.free": {
+    "title": "Quick Marathi Keyboard",
+    "package": "com.srctechnosoft.eazytype.marathi.free",
+    "description": "\u0907\u091c\u0940\u091f\u093e\u0907\u092a \u0935\u093e\u092a\u0930\u0942\u0928 \u0905\u0917\u0926\u0940 \u0938\u094b\u092a\u094d\u092f\u093e \u092a\u0926\u094d\u0927\u0924\u0940\u0928\u0947 \u0906\u0923\u093f \u092a\u091f\u093e\u092a\u091f \u0924\u0941\u092e\u094d\u0939\u0940 \u0924\u0941\u092e\u091a\u094d\u092f\u093e \u090f\u0902\u0921\u094d\u0930\u0949\u092f\u0921 \u095e\u094b\u0928 \u0935\u0930 \u092e\u0930\u093e\u0920\u0940 \u091f\u093e\u0907\u092a \u0915\u0930\u0942 \u0936\u093e\u0915\u093e\u0932\u0964\n\u0935\u093e\u091f\u094d\u0938 \u090f\u092a\u094d\u092a \u0938\u093e\u0930\u0916\u094d\u092f\u093e \u0938\u094d\u092e\u093e\u0908\u0932\u0940\u091c, \u090f\u0938.\u090f\u092e.\u090f\u0938. \u0906\u0923\u0940 \u092b\u0947\u0938\u092c\u0941\u0915 \u0935\u0930 \u0935\u093e\u092a\u0930\u093e, \u0907\u091c\u0940\u091f\u093e\u0907\u092a  \u0915\u093f\u092c\u094b\u0930\u094d\u0921 \u0935\u0930\u0942\u0928\u0964\nEazyType has Changed to Quick\n\ud83d\ude39\ud83d\ude48\ud83d\ude49\ud83d\ude4f\ud83c\udf39\ud83c\udf45\ud83c\udf4c\ud83c\udf78\ud83d\udc18\ud83d\udc17\ud83d\udc14\ud83d\udc2b\ud83d\udc98\ud83d\udc97\ud83d\udc9f\ud83d\udc9e\ud83d\udc9b\ud83d\udc5a\ud83d\udc8f\ud83d\udc90\ud83d\udc20\ud83d\udc12\nThis is a Soft Keyboard to type Marathi on your Phone. You can type easily on any app like Gmail, Facebook, Whatsapp. you can write blogs in Marathi in web browser. This keyboard works as default keyboard in android phones/tablets. No need to learn specific Marathi keyboard. Just type in English and press space you English word will be converted into Marathi script automatically. This keyboard provides word suggestions to type in a fast way. This Keyboard provides English typing option to type in English. if you want to type in English just press toggle butto",
+    "icon": "/icons/com.srctechnosoft.eazytype.marathi.free.png"
+  },
+  "com.sriandroid.justkannada": {
+    "title": "Just Kannada Keyboard",
+    "package": "com.sriandroid.justkannada",
+    "description": "First Kannada App to reach 20,00,000 Downloads!\n\n\u0cb8\u0cbf\u0cb0\u0cbf\u0c97\u0ca8\u0ccd\u0ca8\u0ca1\u0c82 \u0c97\u0cc6\u0cb2\u0ccd\u0c97\u0cc6, \u0cb8\u0cbf\u0cb0\u0cbf\u0c97\u0ca8\u0ccd\u0ca8\u0ca1\u0c82 \u0cac\u0cbe\u0cb3\u0ccd\u0c97\u0cc6, \u0cb8\u0cbf\u0cb0\u0cbf\u0c97\u0ca8\u0ccd\u0ca8\u0ca1\u0c82 \u0cae\u0cca\u0cac\u0cc8\u0cb2\u0ccd\u0c97\u0cc6!\n\nNo 1, Kannada Keyboard. \nSupport Nudi, Inscript and Transliteration Layouts.\n\nFor Voice Input, tap Mic icon, settings key, and Kannada in Languages. \n\nPlease buy yearly subscription via Play Store to support future developments.\n\nReport any issues or requests here or mail to justindickeyboards@gmail.com\nOr\nSubscribe for beta versions here https://play.google.com/apps/testing/com.sriandroid.justkannada",
+    "icon": "/icons/com.sriandroid.justkannada.png"
+  },
+  "com.ss.edgegestures": {
+    "title": "Edge Gestures",
+    "package": "com.ss.edgegestures",
+    "description": "EdgeGestures lets you perform your most frequent actions quickly with simple gestures on the screen edges. It makes one-handed usage much more convenient and efficient.\n\nSupported Gesture Types: Tap, Double tap, Long press, Swipe, Swipe diagonally, Swipe and hold, Pull and slide, and Pie controls.\n\nKey Supported Actions:\n1. Launch any application or shortcut.\n2. System navigation: Back, Home, and Recent apps.\n3. Expand status bar: Notifications or Quick settings.\n4. Scroll to top (Android 6.0 or higher).\n5. Power menu dialog.\n6. Adjust brightness or media volume.\n7. Fast scroll.\n8. Toggle split screen.\n9. Switch to the previous app.\n\nCustomization: The edge area is fully customizable. You can adjust the thickness, length, and position to perfectly suit your preferences. EdgeGestures requir",
+    "icon": "/icons/com.ss.edgegestures.webp"
+  },
+  "com.starflowersolutions.mortgagepmtcalcfree": {
+    "title": "Mortgage Payment Calculator",
+    "package": "com.starflowersolutions.mortgagepmtcalcfree",
+    "description": "How much will that house really cost per month or every two weeks?  Want to know BEFORE you buy it and sign your life away?\n\nThen use my Mortgage Home Loan Payment Calculator and find out in just a few minutes.\n\nThe Mortgage Home Loan Payment Calculator Pro turns you into a negotiator extraordinaire and a well-informed future home-owner when shopping for a house by quickly and easily calculating a monthly loan payment or an affordable purchase price on location with your mobile device.\n\nThis app fully supports tablets and phone screens of all sizes.\n\nSAFE - We DO NOT collect any personal information with this app.  It only requests the minimum permissions necessary to perform its functions.\n\nThe app will also show you the payment schedule for your proposed mortgage.  Just enter all of your",
+    "icon": "/icons/com.starflowersolutions.mortgagepmtcalcfree.png"
+  },
+  "com.ssolstice.camera.oldsoul": {
+    "title": "OldSoul \u2013 Film Camera",
+    "package": "com.ssolstice.camera.oldsoul",
+    "description": "OldSoul \u2013 Film Camera is named after a feeling \ud83d\udda4\nAn old soul is someone who finds beauty in patience, depth, and the quiet weight of time. This app is made for those who feel drawn to the ritual of film photography \u2014 slowing down, trusting the moment, and accepting imperfection \ud83c\udf9e\ufe0f\n\nSlow down and experience photography the way it used to be \ud83c\udf2b\ufe0f\n\nOldSoul \u2013 Film Camera is a cinematic film camera simulator inspired by real analog cameras and the discipline of shooting on film. You load a roll, commit to every frame, rewind when you\u2019re done, and wait for the images to reveal themselves. No instant preview, no endless retakes \u2014 only intention, patience, and surprise \u2728\n\nChoose from carefully crafted film stocks inspired by legendary analog emulsions \ud83c\udf9e\ufe0f\nFrom the gentle warmth of Fuji Color 100 and ",
+    "icon": "/icons/com.ssolstice.camera.oldsoul.png"
+  },
+  "com.starnest.arruler.ruler": {
+    "title": "AR Ruler: Tape Measure Tools",
+    "package": "com.starnest.arruler.ruler",
+    "description": "\ud83d\udcd0 AR Ruler: Tape Measure Tools anything with Your Camera\n AR Ruler: Tape Measure Tools is a powerful AR measuring app that turns your phone into a smart tape measure, ruler, and protractor using Augmented Reality (AR) technology.\n\nWith this camera measurements app, you can measure distance, polyline, circle, rectangle, height, angles, area and perimeter directly in the real world quickly. Like Measure the dimensions of boxes, suitcases, household items: tables, cabinets, doors, floors and packages to estimate product sizes with various shapes, reduce size discrepancies during shipping and home renovation.\n\nAR Ruler: Tape Measure Tools is ideal for home renovation, DIY projects, construction, interior design, engineering, and everyday measuring tasks.\n\n\u2b07\ufe0fWhy Choose AR Ruler?\n_Convenience Au",
+    "icon": "/icons/com.starnest.arruler.ruler.png"
+  },
+  "com.stfactory.anglemeter": {
+    "title": "Angle Meter",
+    "package": "com.stfactory.anglemeter",
+    "description": "Angle Meter\n\nThe Angle Meter application is a tool for measuring angle or inclination. It uses arc tangent of gravity between two axes and provide accurate results depending on quality of sensors.\n\nFeatures\n\n\u2022 Option to measure angle or slope on surfaces not parallel to ground with relative angle mode.\n\u2022 Interval of 0-180 or 0-360 degrees with angle complement.\n\u2022 2 orientation axes.(Move your device left/right or back/forward direction) \n\u2022 Option to save recordings in the database, view them as lists or charts, and get a copy of the measurement history (as xls files or charts).\n\u2022 Option to measure the angle of an object in picture through image measurement screen.\n\u2022 Image gallery to display images in preview mode or with details.\n\u2022 Various customization options.\n\nInstructions\n\n\ud83d\udca1 - User Man",
+    "icon": "/icons/com.stfactory.anglemeter.png"
+  },
+  "com.stfactory.anglemeterpro": {
+    "title": "Angle Meter Pro",
+    "package": "com.stfactory.anglemeterpro",
+    "description": "SHORT DESCRIPTION\n\nAngle Meter with advanced features\n\nFULL DESCRIPTON\n\nAngle Meter\n\nThe Angle Meter application is a tool for measuring angle or inclination. It uses arc tangent of gravity between two axes and provide accurate results depending on quality of sensors.\n\nFeatures\n\n\u2022 Option to measure angle or slope on surfaces not parallel to ground with relative angle mode.\n\u2022 Interval of 0-180 or 0-360 degrees with angle complement.\n\u2022 2 orientation axes.(Move your device left/right or back/forward direction) \n\u2022 Option to save recordings in the database, view them as lists or charts, and get a copy of the measurement history (as xls files or charts).\n\u2022 Option to measure the angle of an object in picture through image measurement screen.\n\u2022 Image gallery to display images in preview mode or wi",
+    "icon": "/icons/com.stfactory.anglemeterpro.png"
+  },
+  "com.storeline.mortgagepaymentcalculator": {
+    "title": "Amortization Loan Calculator",
+    "package": "com.storeline.mortgagepaymentcalculator",
+    "description": "Take Control of Your Home Financing with Our Mortgage Calculator!\n\nWondering how much your new home will truly cost each month? Our easy-to-use Mortgage Payment Calculator is the perfect tool to estimate your monthly mortgage payments, including PMI, HOA fees, property taxes, and more.\n\nWith just a few simple inputs, you'll quickly get a clear view of your potential monthly expenses, helping you make smarter decisions about your home purchase and long-term budget. Adjust interest rates, loan terms, and down payments to see how each impacts the total cost of your mortgage\u2014whether you're planning for a fixed-rate mortgage or an adjustable-rate mortgage (ARM).\n\nKey Features:\n\nMonthly and bi-weekly mortgage payment estimates including taxes, insurance, PMI, and HOA fees.\n\nCompare different int",
+    "icon": "/icons/com.storeline.mortgagepaymentcalculator.png"
+  },
+  "com.strikezone.app": {
+    "title": "Strike Zone Bowling Coach",
+    "package": "com.strikezone.app",
+    "description": "Five balls. One pattern. Which one do you throw?\n\nStrike Zone is your digital bowling coach \u2013 ball database, arsenal analysis, live coaching, score tracker, and challenges in one app.\n\n\ud83c\udfb3 BALL SCANNER & DATABASE\nSnap a photo of any bowling ball and identify it instantly. 2,950+ balls in the database with full specs (RG, Diff, core, cover, finish). Every ball is automatically assigned to one of 8 slots \u2013 from Tank (Heavy Oil) to Spare. See the slot, strength rating, and whether it fits your bowling arsenal.\n\n\ud83c\udfaf ARSENAL ANALYSIS\nYour arsenal at a glance: grade breakdown, lane condition spectrum, interactive arsenal map, and cover/core mix. Spot gaps, get personalized ball recommendations per slot. Compare up to 6 balls with radar chart. Surface tracking, layout editor (PAL, Dual Angle, VLS, 2L",
+    "icon": "/icons/com.strikezone.app.png"
+  },
+  "com.studio360apps.magnifier": {
+    "title": "Magnifier - Magnifying Glass",
+    "package": "com.studio360apps.magnifier",
+    "description": "Having problem to read small prints? Look no further. With Magnifier you will see everything big and clear.\n\nMagnifier will turn your phone into an awesome digital magnifying glass. You can turn on the camera flash to see thing better, or you can freeze the image to read the text comfortably.\n\nThe app is also very user-friendly, and with gestures, you can easily control exposure and zoom. There is also a negative mode to increase contrast and a video magnifier functionality that can come in handy in some situations.\n\nKey features:\n\u2713 Ultra high magnification\n\u2713 Control zoom and exposure with gestures\n\u2713 Flashlight for low light situations\n\u2713 Negative mode for high contrast\n\u2713 Freeze, save or share images\n\u2713 Awesome image visibility\n\u2713 Really simple to use",
+    "icon": "/icons/com.studio360apps.magnifier.png"
+  },
+  "com.studiosf.dhikrmatik": {
+    "title": "Tasbeeh Counter",
+    "package": "com.studiosf.dhikrmatik",
+    "description": "\ud83d\udcff Tasbeeh Counter & Dhikr App\n\n\ud83c\udf1f Track your Dhikr easily with Tasbeeh Counter!\nThis powerful tasbeeh app is designed to help you manage your daily Dhikr, Dhikr & Prayer, and spiritual routine in the most practical way. With this Dhikr and prayer app, you can stay focused and reach your goals \u0628\u0633\u0647\u0648\u0644\u0629.\n\n\u2728 Key Features\n\n\ud83c\udf1f Your Tasbeeh Counter always with you\nEnjoy a modern and easy-to-use digital tasbeeh counter anywhere. This advanced tasbeeh counter app allows you to perform your daily Dhikr smoothly.\n\n\ud83c\udf1f Create your personal Dhikr lists\nPlan and organize your Dhikr, Dhikr&Prayer, and daily routine with custom lists. Set goals for each Dhikr, edit or delete them easily using this Dhikr counter.\n\n\ud83c\udf1f Continue where you left off\nEven if you close the app, your tasbeeh counter will never reset unl",
+    "icon": "/icons/com.studiosf.dhikrmatik.png"
+  },
+  "com.subnext.tipcalcbillsplit": {
+    "title": "Tip Calculator and Bill Split",
+    "package": "com.subnext.tipcalcbillsplit",
+    "description": "Calculate tips and split bills quickly and easily. \n\nFeatures:\n\u2022 Quick tip calculation with common percentages\n\u2022 Split bills among multiple people\n\u2022 Simple and intuitive interface\n\u2022 No ads or subscriptions",
+    "icon": "/icons/com.subnext.tipcalcbillsplit.png"
+  },
+  "com.sudev.connect4": {
+    "title": "com.sudev.connect4",
+    "package": "com.sudev.connect4"
+  },
+  "com.sugarapple.workout": {
+    "title": "Workout At Home: No Equipment",
+    "package": "com.sugarapple.workout",
+    "description": "\ud83d\ude80 Fithy: Home Workout \u2013 Fitness at Home\n\nStay fit and healthy with Fithy Workout, your all-in-one solution for effective workout at home. No gym, no equipment\u2014just simple daily routines to help you burn fat, build muscle, and improve your fitness anytime, anywhere.\n\nDesigned for all levels, Fithy offers easy-to-follow home workout programs with clear instructions and images. Whether you want to lose weight, stay active, or build strength, you can start your fitness at home journey in just a few minutes a day.\n\n\ud83d\udcaa Workout Anytime, Anywhere\n\nChoose from a variety of home workouts:\n\nFull Body Workout\nAbs, Chest, Arms, Legs, Back & Shoulders\nQuick daily workouts\n\nAll exercises are optimized for no equipment workouts, making it easy to stay consistent.\n\n\ud83d\udd25 Burn Fat & Get Stronger\n\nBoost your resu",
+    "icon": "/icons/com.sugarapple.workout.png"
+  },
+  "com.sugarapps.smartruler": {
+    "title": "Smart Ruler",
+    "package": "com.sugarapps.smartruler",
+    "description": "Smart Ruler is an easy app to measure the length of any object.\nNow its very easy to measure length of device using this smart ruler app. In this app, you can easily measure the length of object in inches and centimeters, copy measurement to clipboard, share measurement using social media sites.\n\nSmart Ruler is beautiful, functional and easy to use tool on every smartphone or tablet. Ruler app will give you accurate measurement.\n\nSmart Ruler Features:\n- accurate measurement\n- easy to use\n- simple calibration\n- single line measurement\n- Centimeters and inches\n- measure length between two markers\n- copy to clipboard\n- share measurement \n- no permission required",
+    "icon": "/icons/com.sugarapps.smartruler.png"
+  },
+  "com.sukhavati.pvp.ball.classic": {
+    "title": "Billiards 8 Ball: Pool Games",
+    "package": "com.sukhavati.pvp.ball.classic",
+    "description": "Billiards 8 Ball: King of Pool Game \u2013 Dive into the world's top billiards game! This is the ultimate 8 ball pool experience, a realistic 3D online pool game where skill reigns supreme. Challenge players worldwide in intense PvP duels. Are you ready to become the true 8 pool king and 8 pool master?\n\n\ud83c\udfaf Master the Real Pool Game\n\nRealistic Physics & Controls: Experience true-to-life 8 ball dynamics with smooth, intuitive controls. Every spin, bank shot, and collision feels authentic.\n\nPlay Your Way: Enjoy competitive online multiplayer matches or practice anytime in offline mode.\n\nGlobal Tournaments: Prove your skills in global tournaments, climb leaderboards, and claim exclusive rewards.\n\n\u2694\ufe0f Compete & Conquer in 8 Pool Online\n\nChallenge Anyone: Challenge friends directly or face random oppon",
+    "icon": "/icons/com.sukhavati.pvp.ball.classic.png"
+  },
+  "com.sunfire.decibelmeter.soundmeter": {
+    "title": "Decibel Meter - Sound Meter",
+    "package": "com.sunfire.decibelmeter.soundmeter",
+    "description": "Are you looking for a tool to measure sound level and measure environmental noise? This is smart Sound Level Meter app for Android!\n\nSound Meter work efficiently to find the level of environmental noise including acoustic. Sound Detector is known as SPL Meter or Decibel Meter (dB Meter). Through Sound Detector or Noise Detector you can easily detect too much loud or too much low sound in order to prevent your hearing functionality.\n\nDecibel Meter will use the phone microphone to measure environmental noise decibels (dB) and show a value for reference.\n\nFeatures:\n\ud83c\udf1f Clearly display the current sound level through Dashboard and Chart.\n\ud83c\udf1f Display the current noise reference.\n\ud83c\udf1f Display MIN/AVG/MAX decibel values.\n\ud83c\udf1f Reset the current sound level.\n\ud83c\udf1f Start/Pause collecting noise samples.\n\ud83c\udf1f The curr",
+    "icon": "/icons/com.sunfire.decibelmeter.soundmeter.png"
+  },
+  "com.sunsercompany.firephotoframe": {
+    "title": "Fire Photo Frame",
+    "package": "com.sunsercompany.firephotoframe",
+    "description": "Fire Photo Frame allows you to decorate your photos with stunning fire-themed frames and turn ordinary pictures into powerful, eye-catching creations.\n\nThe app includes more than 60 high-quality fire photo frames, featuring flame effects, burning borders, glowing fire designs, and dramatic backgrounds.\n\n\ud83d\udd25 Main Features\n\n\u2022 60+ unique fire photo frames\n\u2022 Select photos directly from your phone gallery\n\u2022 Touch the photo area to start editing\n\u2022 Adjust photos with zoom, rotate, drag, and scale gestures\n\u2022 Crop photos to perfectly fit inside frames\n\u2022 Save edited fire photo frames to your gallery\n\u2022 Set saved photo frames as Screen wallpaper\n\u2022 Share your framed photos with friends and family\n\n\ud83d\udcf1 Easy to Use\n\nChoose a fire frame, add your photo, adjust it using simple finger gestures, and save your cr",
+    "icon": "/icons/com.sunsercompany.firephotoframe.png"
+  },
+  "com.superplaystudios.disneysolitairedreams": {
+    "title": "Disney Solitaire",
+    "package": "com.superplaystudios.disneysolitairedreams",
+    "description": "Welcome to Disney Solitaire, the ultimate solitaire card game that transforms classic tripeaks solitaire into an exciting experience filled with Disney magic! \n\nPlay through beautifully designed levels inspired by iconic Disney and Pixar scenes while solving fun and challenging puzzles.\n\nStep into the enchanting realm of Disney Solitaire, where every postcard recreates an iconic scene from the worlds of Disney and Pixar! \nFrom the moment you start playing, you\u2019ll find yourself immersed in colorful scenes featuring some of your favorite characters like Buzz Lightyear, Aladdin, Elsa, and Moana.\n\nThis isn\u2019t just another solitaire game; it\u2019s a vibrant experience packed with excitement, strategy, and whimsical charm.\nDisney Solitaire redefines the solitaire card games experience with innovative",
+    "icon": "/icons/com.superplaystudios.disneysolitairedreams.png"
+  },
+  "com.supers.graffiti.drawgraffiticreator.ArtCreator.LogoMaker": {
+    "title": "Graffiti Name Art - Logo Maker",
+    "package": "com.supers.graffiti.drawgraffiticreator.ArtCreator.LogoMaker",
+    "description": "Graffiti Name Art \u2013 Logo Maker\n\nGraffiti Name Art \u2013 Logo Maker is a powerful and easy-to-use app designed for creating stylish and artistic graffiti name designs and logos. Whether you want to design a unique graffiti-style name, create street art-inspired logos, or add a creative touch to your projects, this app provides a seamless experience with a variety of customization options.\n\nKey Features:\nWide Selection of Graffiti Fonts: Choose from a variety of bold and artistic graffiti-style fonts to create eye-catching name art.\n\nCustomizable Design Elements: Personalize your artwork by adjusting colors, textures, shadows, and backgrounds to make your graffiti stand out.\n\nEasy-to-Use Interface: The user-friendly design ensures a smooth experience, making it accessible for both beginners and ",
+    "icon": "/icons/com.supers.graffiti.drawgraffiticreator.ArtCreator.LogoMaker.png"
+  },
+  "com.svgapps.android.receiptmaker": {
+    "title": "Receipt Maker - Sign & Send",
+    "package": "com.svgapps.android.receiptmaker",
+    "description": "Receipt Maker app allows you to create professional receipts in seconds. You can choose from different themes and colors to make receipts and send them straight away.\n\n\nWith the Receipt Maker app, you can create customized receipts and print, email, SMS, or share them. You can sign these receipts and send them to your customers with a single tap. Make the receipt with minimal information like customer name, service, amount, payment method, and receiver name.\n\n\nApp Features:\n\n\n- Create professional receipts\n- Export receipts in the PDF format\n- Email, SMS, print, or share receipts\n- Choose from different themes\n- Multiple color options for each theme\n- Duplicate receipt with a single tap\n- Payment methods\n- Add multiple businesses\n- Add members to your business\n- Add logo to your business\n-",
+    "icon": "/icons/com.svgapps.android.receiptmaker.jpg"
+  },
+  "com.sweefitstudios.drawgraffiticreator": {
+    "title": "Draw Graffiti - Name Creator",
+    "package": "com.sweefitstudios.drawgraffiticreator",
+    "description": "After the success of our Draw Graffiti app we bring you this Name Creator so you can learn to draw your name in graffiti step by step.\n\nDraw Graffiti Creator includes different styles of graffiti for everyone. In an easy way, you will get fantastic graffiti. You just have to grab a paper and a pencil, write your name, choose the style you like and follow the instructions step by step.\n\nEnjoy!",
+    "icon": "/icons/com.sweefitstudios.drawgraffiticreator.png"
+  },
+  "com.sweetvrn.tools.soundmeter": {
+    "title": "Sound Meter Decibel",
+    "package": "com.sweetvrn.tools.soundmeter",
+    "description": "Sound Meter Decibel designed to determine the level of environmental noise, including acoustic. A noise meter is known as a sound pressure meter or db meter. With the help of a sound level meter or sound decibel meter, you can easily detect too much loud or too soft sound to interfere with your hearing.\nThe application detects measure decibels using the phone's built-in microphone.\n\nATTENTION! This instrument is not a professional decibel meter measuring device . Most microphones on mobile devices are tuned to human voice (40-60 dB). Voice calls don't require high-performance microphones. Therefore, the maximum value of the Sound Meter Decibel is LIMITED by manufacturers.",
+    "icon": "/icons/com.sweetvrn.tools.soundmeter.png"
+  },
+  "com.swidrinc.brokenscreen_wallpaper2023": {
+    "title": "Broken Screen Wallpaper 2025",
+    "package": "com.swidrinc.brokenscreen_wallpaper2023",
+    "description": "Broken Screen Wallpaper app brings a completely fresh collection of high resolution wallpapers that looks stunning on all kind of devices screen. If you are into Broken Screen Wallpaper then its a Best app for you.\n\n\nCheck out this fantastic collection of Cracked Screen wallpapers, for your phones download now Cracked Screen background images for your phone or tablet, set us your Realistic Broken Screen wallpapers on the home screen, and lock screen high-quality wallpaper HD easy to use offline wallpaper and online install now for free.\n\n\nThis app provides you with Wallpaper with a damaged screen for you to enjoy and prank your family and friends. The wallpapers are of the highest quality Ultra HD and 4k. and they are easy and free to use.\n\n\nDownload this Broken Screen Wallpaper 2024 app a",
+    "icon": "/icons/com.swidrinc.brokenscreen_wallpaper2023.png"
+  },
+  "com.swipetoback.gestureapp": {
+    "title": "Swipe Back - Edge Gesture",
+    "package": "com.swipetoback.gestureapp",
+    "description": "Swipe to Back - Edge Gesture app allows you to set the navigation on any app, contact, calendar, music player, calculator and on any android device. \n\n**ACCESSIBLITY PERMISSION **\n\nWe require activate accessibility service because we have to use Accessibility API to do action BACK, RECENT, HOME, & more.\n\n\nEDGE ACTIONS :-\n\u2022 Back\n\u2022 Setting\n\u2022 Screenshots\n\u2022 Browser\n\u2022 Power Summary\n\u2022 Toggle down notification\n\u2022 Split screen\n\u2022 Voice command\n\u2022 Dialer\n\u2022 Date and time setting\n\u2022 Power Dialog\n\u2022 Home\n\u2022 Recent Apps\n\nSteps for use Swipe to Back - Edge Gesture app :- \n1. Enable accessibility service to use swipe edge gesture app\n2. You get intro screen to understand the navigation gesture\n3. In enable navigation services you get Left, Right and Bottom view Enable/Disable option\n4. Swipe LEFT-RIGHT-BOTTOM ",
+    "icon": "/icons/com.swipetoback.gestureapp.png"
+  },
+  "com.yodo1.roda": {
+    "title": "Rooms of Doom - Minion Madness",
+    "package": "com.yodo1.roda",
+    "description": "The most exciting collection of mini games known to Man! Crafted by the evil scientist Dr. Doom:\nWelcome to my LAB! In my quest to take over the world, I am working to create the perfect minion! Soon Dr. Doom will be name feared by ALL! MUWAHAHAHA!\nNo idea is too farfetched for me. I zapped a Bee and Bear together to create BumbleBear, a rabbit and turtle to make Turbit.\nHelp me discover which minion combination is the most powerful by running them through my Rooms of Doom. A combination of mini games.\nIn my Rooms you will:\n - Mix bees with bears, and TVs with snails to create crazy hybrid minions!\n - Test them in the ever-changing Room's of Doom to see how long they last!\n - Upgrade minions for extra score bonuses and awesome skins!\n - Unlock Rare and Epic minions with room crushing skill",
+    "icon": "/icons/com.yodo1.roda.png"
+  },
+  "com.betadwarf.minionmasters.googleplay": {
+    "title": "Minion Masters",
+    "package": "com.betadwarf.minionmasters.googleplay",
+    "description": "Clash against other Masters, fight epic battles and join the rumble in Minion Masters, the popular PvP tower defense game.\n\nMinion Masters is an arena pvp game: pick among many Masters with unique abilities and collect fierce demons, cute creatures, devastating spells, and much more! \nDive into the heart of the action as you embark on a journey filled with rumbling clash and tower defense mastery. The game is easy to pick up and learn but hard to Master!\n\n\ud83c\udccf Create your perfect deck\nStep 1: Pick your Masters. Your Master can be the key to a powerful synergy with your minions and is also your last tower defence. \nStep 2: Choose among 260+ Minions and build your deck, truly CCG like! Will you overwhelm your opponent with a swarm of monsters? Summon powerful and unstoppable units capable of ch",
+    "icon": "/icons/com.betadwarf.minionmasters.googleplay.webp"
+  },
+  "com.com2us.legendsummoner.android.google.global.normal": {
+    "title": "Minion Rumble",
+    "package": "com.com2us.legendsummoner.android.google.global.normal",
+    "description": "Time for a full-scale legion vs. legion .io battle\u2014lead your Summoner, Champions, and Minions to crush the enemy legions!\nCharming heroes set off on an epic journey! Meet a mighty mage, a skilled bowmaster fairy, a marvelous swordmaster, and a shooter who follows the path of war.\nSummon adorable and charming animal Champions\u2014like a capybara and a cat\u2014to lead your legion and crush waves of enemy hordes!\nAs you level up, choose which stat to upgrade\u2014Summoner, Champion, or Minions\u2014and survive relentless zombie-like enemy attacks! Experience a thrilling and heart-pounding Roguelike RPG right at your fingertips!\nEnjoy casual action packed with satisfying hits and effortless controls!\n\n[Game Features]\n\n- Legion Battle: Choose your Summoner, each with unique abilities and weapons, and lead a legi",
+    "icon": "/icons/com.com2us.legendsummoner.android.google.global.normal.png"
+  },
+  "com.syido.decibel": {
+    "title": "Decibel Meter-Sound Noise Test",
+    "package": "com.syido.decibel",
+    "description": "Decibel Meter (Sound Meter)  also referred to as a Sound Pressure Level (SPL) meter, noise level meter, decibel meter(dB meter), sound level meter, or frequency analyzer, is a highly practical tool for conducting sound level meter or measuring environmental noise-meter levels.\nDecibel Meter - Free Sound Noise Test is an intelligent sound level meter application for Android!\nThe noise level meter or sound pressure level Meter(SPL meter), Measure environmental noise to avoid noise pollution from damaging your hearing.\nDecibel Meter (dB Sound Meter)  can help you measure ambient noise\n\nWe use a decibel meter to measure and display the volume in decibels (dB) on our phone as a chart\n\nFeatures:\n- Noise-meter: Real time measurement of environmental noise and sound level meter\n- Frequency analyze",
+    "icon": "/icons/com.syido.decibel.png"
+  },
+  "com.tafsystems.morsetrainer": {
+    "title": "Morse Trainer",
+    "package": "com.tafsystems.morsetrainer",
+    "description": "The app for learning and practicing Morse code.",
+    "icon": "/icons/com.tafsystems.morsetrainer.png"
+  },
+  "com.tahatec.morse_code_translator": {
+    "title": "Morse Code: Learn & Translate",
+    "package": "com.tahatec.morse_code_translator",
+    "description": "Morse Code Translator & Tools is your companion for learning, decoding, and playing Morse code. Packed with powerful features, this app is designed for everyone\u2014from beginners to Morse code experts. Whether you want to translate text into Morse code, decode Morse signals, or practice your skills, this app has got you covered.\n\nKey Features:\n1. Text-to-Morse and Morse-to-Text Translation\nEffortlessly encode your messages into Morse code and decode Morse signals into readable text.\nCopy, share, and save your translated messages with ease.\nIntuitive UI for quick and accurate translations.\n2. Real-Time Playback\nExperience Morse code like never before with sound, flashlight, and vibration playback options.\nPlay your encoded messages as audible beeps, visual flashlight blinks, or tactile vibrati",
+    "icon": "/icons/com.tahatec.morse_code_translator.png"
+  },
+  "com.taiviet.InputMethod": {
+    "title": "Tai Viet Keyboard",
+    "package": "com.taiviet.InputMethod",
+    "description": "Tai Viet Keyboard is developed and built with user practice in mind. User-friendly interface and keyboard layout application.",
+    "icon": "/icons/com.taiviet.InputMethod.png"
+  },
+  "com.takeofflabs.fontmaker": {
+    "title": "Fontmaker - Font Keyboard App",
+    "package": "com.takeofflabs.fontmaker",
+    "description": "Fontmaker - Font Keyboard App is the ultimate tool for creating cursive and handwritten fonts to customize your messaging. With font maker, you can easily customize your text with unique fonts that use your own handwriting to reflect your individual style with your own cursive keyboard.\n\nBe unique with your very own font keyboard and wow friends on Messenger, Instagram, Snapchat, TikTok, Facebook, and more! Express yourself like never before by adding a personal touch to your social media posts and messages. Use your own handwriting or create custom fonts to make your content truly unique, generate your own handwriting cursive font.\n\nKey Features:\n Font creator: Create custom handwriting fonts\nFont keyboard: Use your own fonts as a keyboard  for social media and messaging\nEnhance your onli",
+    "icon": "/icons/com.takeofflabs.fontmaker.png"
+  },
+  "com.tamil.english.typing.keyboard.emoji.tamil.language": {
+    "title": "Tamil Keyboard",
+    "package": "com.tamil.english.typing.keyboard.emoji.tamil.language",
+    "description": "Main Purpose of Tamil Keyboard 2020\n\nTamil Keyboard 2020: Easy Typing Keyboard is the best mobile typing app for the Tamil English language with different themes. Free English Tamil keyboard 2020 is used for Tamil and English Typing at the same time.\n\nTamil Keyboard 2020: Tamil Typing Keyboard is free app for android mobiles in the Tamil native language that type Tamil & English. Tamil English Keyboard is fast Tamil typing app and easy Tamil typing with all Tamil words and Tamil Alphabets. Fast Tamil Typing Keyboard for android is the best Tamil lovers with easy and Fast typing speed Keyboard. \n\nTamil Keyboard 2020: Easy Typing Keyboard is Tamil words auto-correct functionality of new Tamil keyboard which is a fast typing keyboard with English keypad will provide to your mobile an amazing ",
+    "icon": "/icons/com.tamil.english.typing.keyboard.emoji.tamil.language.png"
+  },
+  "com.tamil.keyboard.tamil.language.keyboard.app": {
+    "title": "Tamil keyboard",
+    "package": "com.tamil.keyboard.tamil.language.keyboard.app",
+    "description": "\u2605How to install Tamil Keyboard? In the Description at the last I have given the instructions of installation of Tamil Typing Keyboard.\n\nTamil Keyboard: Tamil Language Keyboard is Best Tamil Language with Stylish Themes and New Emoji\u2019s. Tamil Language Keyboard is an easy typing of Tamil language and make it simple for all Tamil Typing Keyboard user who want to write English to Tamil and switch Tamil to English at the same time. Tamil Typing Keyboard special design for these people who love Tamil Language. \n\nTamil Keyboard is best mobile Keyboard for typing in Tamil language. Tamil Typing Keyboard allows the user to write and type message in Tamil language and Tamil text words. Send message, email, and update status in Tamil.\n\nTamil Keyboard: You can suggest us to update our Tamil Typing Key",
+    "icon": "/icons/com.tamil.keyboard.tamil.language.keyboard.app.png"
+  },
+  "com.tamil.typing.keyboard.tamil.app": {
+    "title": "Tamil Keyboard : Tamil Typing",
+    "package": "com.tamil.typing.keyboard.tamil.app",
+    "description": "Tamil Keyboard - Fast Typing, Voice & Emoji\n\nType in Tamil and English easily with this powerful Tamil Keyboard app. Send messages, emails, or update social media posts with fast, accurate typing and smart auto-correction.\n\nThis keyboard supports English to Tamil conversion and includes a Translator Keyboard to switch between Tamil and English quickly. Communicate effortlessly with friends and family in your preferred language.\n\n Key Features\n Easy Tamil Typing\nType quickly with word suggestions, auto-correction, and predictive input. Perfect for fast Tamil typing anywhere.\n\n Voice Typing\nSpeak and convert your voice into text instantly with Tamil Voice Keyboard, making typing effortless.\n\n Translator\nTranslate messages instantly using Tamil Translator, supporting English to Tamil and Tami",
+    "icon": "/icons/com.tamil.typing.keyboard.tamil.app.png"
+  },
+  "com.tamil.voice.typing.tamilkeyboard": {
+    "title": "Tamil Voice Typing - Keyboard",
+    "package": "com.tamil.voice.typing.tamilkeyboard",
+    "description": "Tamil Voice Typing Keyboard And Select Voice Typing Option To get Tamil Text by giving your Voice.\n        Click on Mic button to speak in Tamil . It Automatically give you Tamil text of your words after your speaking is finished.\n\nGive Tamil Voice and get Tamil Text typed readily.\nFast Tamil Typing with Tamil Speech to text.\nTamil Voice Typing With Speech To Text Tamil Keyboard.\n\nTamil Speech Typing will reduce time and effort in typing Tamil . It will make Tamil typing easy and simple for everyone.",
+    "icon": "/icons/com.tamil.voice.typing.tamilkeyboard.png"
+  },
+  "com.tamil.voicekeyboard.language.voicetyping.chat": {
+    "title": "Tamil Voice Typing Keyboard",
+    "package": "com.tamil.voicekeyboard.language.voicetyping.chat",
+    "description": "Tamil Voice Keyboard is specially design for those people who want to text or write SMS, poetry or lesson and also something in Tamil language. Tamil Voice Keyboard bring you another variety of using keyboard. Tamil voice typing is considered reliable while having a fast conversation due to voice recognition feature.  Easy Typing Tamil Voice Keyboard, has all latest tools to make keyboard more elegant. Speak to text Tamil keyboard is a simple and user friendly app. The text will appear after you done speaking text. \n\nVoice to text Tamil keyboard app is the simplest way to type messages in your voice when you cannot type them with your hands. Download this Tamil Voice keyboard for Tamil speakers and text transcriber. Speech to text Tamil keyboard app gives you the best user interface and be",
+    "icon": "/icons/com.tamil.voicekeyboard.language.voicetyping.chat.png"
+  },
+  "com.tamilkeyboard.voicetyping.speechtotext.chat": {
+    "title": "Tamil Voice Keyboard",
+    "package": "com.tamilkeyboard.voicetyping.speechtotext.chat",
+    "description": "Tamil voice typing is a simple app that allows you to convert your Tamil voice note into text. It is voice to text converter app in which you only have to speak words of your choice and it will convert the voice into text automatically. Now you don\u2019t have to use typing keyboard any more, just speak in Tamil and it will convert it into Tamil font automatically. The text appears after you done speaking and the converted text can be shared with your selected contacts or in any messaging app. The speech to text converter app is the fastest way of sending messages when you cannot type them using typing keyboard. Tamil speech to text app will let you type messages through voice typing. voice to text-Tami keyboard makes mobile typing easy with its voice recognition feature, so you can focus on yo",
+    "icon": "/icons/com.tamilkeyboard.voicetyping.speechtotext.chat.png"
+  },
+  "com.tamilkeyboard.voicetyping.translation.dictionary.speechtotext": {
+    "title": "Easy Tamil Voice Keyboard App",
+    "package": "com.tamilkeyboard.voicetyping.translation.dictionary.speechtotext",
+    "description": "Tamil voice typing Keyboard is an Easy Tamil speaking keyboard app that makes voice typing faster than ever before. It has removed the hassle to type long text messages, rather you can use voice typing feature of the voice keyboard by taping the mic to speak & get Tamil text instantly and yes there is no need to type with hands, just speak and get text. Easy Tamil voice keyboard helps to type when you are driving and you cannot type then the app will assist you to write what you are saying in mic. You can set it as your default keyboard. This Fast voice typing keyboard has numeric keypad for the user to use it easily without any problem.\n\nTamil Voice translator Keyboard is specially design for those people who want to text or write SMS, poetry or lesson and also something in Tamil language",
+    "icon": "/icons/com.tamilkeyboard.voicetyping.translation.dictionary.speechtotext.png"
+  },
+  "com.tamilvoicetypingkeyboard.easytamilenglishkeyboard": {
+    "title": "Tamil Keyboard",
+    "package": "com.tamilvoicetypingkeyboard.easytamilenglishkeyboard",
+    "description": "Tamil Voice Keyboard and voice recording is best voice typing application to write English and Tamil. This keyboard is ultra fast and efficient Tamil voice keyboard. The fast Tamil Keyboard can easy recognize Tamil Language all words , and Convert Speech to text.\n\nTamil Voice typing keyboard app is one of the famous and demanding app in South India , Sri Lanka , Singapore and Malaysia at a time.\n\nTamil Text typing Keyboard let users write both from English to Tamil and Tamil to English. Our APP contains keyboard specially for Tamil keyboard typing users.\n\nFeatures:\nVoice Typing Keyboard in all Languages\nMultiple keyboard Themes\nElegant APP Design\nEasy To Use for typing in the Free Tamil Language keyboard 2020.\nFast Typing in the Trending Tamil Typing keyboard 2020.\nFree Tamil Keyboard Work",
+    "icon": "/icons/com.tamilvoicetypingkeyboard.easytamilenglishkeyboard.png"
+  },
+  "com.tanvirhaque.tasbeeh_counter": {
+    "title": "Tasbeeh Counter",
+    "package": "com.tanvirhaque.tasbeeh_counter",
+    "description": "Tasbeeh Counter \u2013 Simple, Modern & Ad-Free Zikr Companion\n\nTasbeeh Counter is a beautifully designed digital Tasbeeh app created for Muslims to make daily Zikr (Dhikr) easy, peaceful, and distraction-free. With its ad-free experience and clean modern design, this app helps you focus on your remembrance of Allah without interruptions.\n\n\ud83c\udf1f Key Features:\n\nAd-Free Experience \u2013 Count your Zikr without ads or distractions.\n\nModern UI Design \u2013 Clean, smooth, and user-friendly interface.\n\nCustom Goal Selection \u2013 Choose from 33, 100, 1000, or enter your own custom Tasbeeh goal.\n\nCarousel Tasbeeh Selection \u2013 Quickly switch between different Tasbeeh options or add your own custom Tasbeeh input.\n\nDark Mode Support \u2013 Easy on the eyes, perfect for night use.\n\nSound & Vibration Toggle \u2013 Get haptic or audi",
+    "icon": "/icons/com.tanvirhaque.tasbeeh_counter.png"
   }
 }
