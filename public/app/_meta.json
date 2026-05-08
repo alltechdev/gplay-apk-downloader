@@ -66758,5 +66758,657 @@
     "package": "com.tanvirhaque.tasbeeh_counter",
     "description": "Tasbeeh Counter \u2013 Simple, Modern & Ad-Free Zikr Companion\n\nTasbeeh Counter is a beautifully designed digital Tasbeeh app created for Muslims to make daily Zikr (Dhikr) easy, peaceful, and distraction-free. With its ad-free experience and clean modern design, this app helps you focus on your remembrance of Allah without interruptions.\n\n\ud83c\udf1f Key Features:\n\nAd-Free Experience \u2013 Count your Zikr without ads or distractions.\n\nModern UI Design \u2013 Clean, smooth, and user-friendly interface.\n\nCustom Goal Selection \u2013 Choose from 33, 100, 1000, or enter your own custom Tasbeeh goal.\n\nCarousel Tasbeeh Selection \u2013 Quickly switch between different Tasbeeh options or add your own custom Tasbeeh input.\n\nDark Mode Support \u2013 Easy on the eyes, perfect for night use.\n\nSound & Vibration Toggle \u2013 Get haptic or audi",
     "icon": "/icons/com.tanvirhaque.tasbeeh_counter.png"
+  },
+  "com.taptapstudio.youdevotionlite": {
+    "title": "YouDevotion Daily Devotionals",
+    "package": "com.taptapstudio.youdevotionlite",
+    "description": "An excellent daily devotional app for Christians with readings from 15 classic daily devotional books updated with digital features for today's smartphones and tablets.\n\nThis app contains the following popular classic devotionals \n\u2022 Daily Light on the Daily Path by Samuel Bagster \n\u2022 Streams in the Desert by Mrs. Charles Cowman \n\u2022 Morning and Evening by Charles Spurgeon \n\u2022 Faith's Checkbook by Charles Spurgeon \n\u2022 Daily Strength for Daily Needs by Mary Tileston \n\u2022 Leaves of Life by Margaret Bird Steinmetz \n\u2022 The Believer's Daily Treasure, Abraham Lincoln's favorite devotional \n\u2022 Daily Blessings, selected devotional writings by J.C. Philpot\n\u2022 Daily Comfort, selected devotional writings by J.R. Miller\n\u2022 Daily Wisdom, selected devotional writings by J.C. Philpot\n\u2022 Our Daily Walk by F.B. Meyer \n",
+    "icon": "/icons/com.taptapstudio.youdevotionlite.png"
+  },
+  "com.tarra.tasbih": {
+    "title": "Dhikr Counter \u2013 Tasbih, Zikr",
+    "package": "com.tarra.tasbih",
+    "description": "Dhikr Counter \u2013 Zikr, Tasbih, Misbaha\n\nDhikr Counter is an intuitive, user-friendly mobile application designed to help you keep track of your dhikr (remembrance of Allah) digitally. Whether you are reciting prayers, invoking blessings, or seeking spiritual connection, this app is the perfect tool to assist you in counting and displaying dhikr text as you go.\n\nKey Features:\nEasy Dhikr Counting\nWith a simple tap, the app helps you track the number of times you\u2019ve recited specific dhikr phrases. It provides a smooth and seamless experience with easy-to-use buttons and options.\n\nCustomizable Dhikr Text\nThe app allows you to input your own dhikr text or select from a predefined list of common dhikrs like \"Tasbih,\" \"Salawat,\" \"Tahlil,\" and more. You can easily create personalized lists of dhikr",
+    "icon": "/icons/com.tarra.tasbih.png"
+  },
+  "com.tasakiapps.pdf.converter.imagetopdf.jpgtopdf.createpdf": {
+    "title": "PDF Maker - Image to PDF",
+    "package": "com.tasakiapps.pdf.converter.imagetopdf.jpgtopdf.createpdf",
+    "description": "PDF Maker \u2013 Image to PDF | JPG to PDF | Free & Offline PDF Converter\n\nPDF Maker \u2013 Image to PDF is a fast, powerful, and completely FREE PDF maker and PDF converter that helps you convert images to PDF, photos to PDF, JPG to PDF, and PNG to PDF instantly \u2014 without subscriptions, without forced payments, and without watermarks.\n\nUnlike many PDF converter apps that lock features behind expensive subscriptions or demand immediate payment, PDF Maker lets you create, scan, edit, and share PDFs completely FREE.\n\n\u2705 Convert Images & Photos to PDF\n\u25c6 Convert JPG to PDF, PNG to PDF, JPEG to PDF\n\u25c6 Turn photos, receipts, notes, IDs, and documents into PDFs\n\u25c6 Select images from gallery or camera\n\u25c6 Create single or multi-page PDFs instantly\n\u25c6 Perfect for homework, assignments, office documents, invoices, ",
+    "icon": "/icons/com.tasakiapps.pdf.converter.imagetopdf.jpgtopdf.createpdf.png"
+  },
+  "com.tasbeeh.konceptnext": {
+    "title": "Tasbeeh counter zikr",
+    "package": "com.tasbeeh.konceptnext",
+    "description": "Seamlessly integrate the remembrance of Allah into your daily life with a Tasbeeh Counter designed for modern spiritual living.\n\nThe Tasbeeh Counter app reimagines the traditional misbaha for the digital age. Built for those who prioritize their daily Zikr, this app offers a refined and meditative counting experience. Whether you are performing your morning Adhkar or seeking a moment of peace during a busy day, our interface ensures your focus remains on your prayer, not your screen.\n\n\ud83c\udf1fExperience Mindful Counting\nForget complicated menus. Our app provides a tactile, responsive environment that mirrors the rhythmic feel of physical prayer beads. With every tap, you are one step closer to your spiritual goals.\n\n\u2728 Highlighted Features:\nTactile Engagement: High-precision tap detection ensures ",
+    "icon": "/icons/com.tasbeeh.konceptnext.png"
+  },
+  "com.tasbeeh.my": {
+    "title": "My Tasbeeh App: Dhikr Counter",
+    "package": "com.tasbeeh.my",
+    "description": "My Tasbeeh App is a clean, ad-free, open-source digital tasbeeh counter, built to help you stay consistent with your dhikr, zikr, and adhkar - anytime, anywhere. Whether after salah, during travel, or in quiet reflection, count with ease and stay focused on the remembrance.\n\nKey Features:\n\u2022 One-tap tasbeeh counting with optional vibration feedback\n\u2022 Unlimited counters: set names & targets for each tasbeeh session\n\u2022 Auto-switch between counters when a target is reached\n\u2022 Daily adhkar reminders & optional auto-reset each day\n\u2022 Saves your progress automatically - pick up exactly where you left off\n\u2022 Large, clear display and night mode for easy reading\n\u2022 Lightweight, works offline and ad-free\n\u2022 Fully open-source - transparent, trustworthy, built for the Ummah\n\nWhy choose My Tasbeeh App?\nBecaus",
+    "icon": "/icons/com.tasbeeh.my.jpg"
+  },
+  "apps.syrupy.fullbatterychargealarm": {
+    "title": "Full Battery Charge Alarm",
+    "package": "apps.syrupy.fullbatterychargealarm",
+    "description": "Full Battery Charge Alarm lets you know when your battery is fully charged\ud83d\udd0b, so you can unplug your phone/tablet.\n\nStop unnecessary charging, take care of your device, save power and electricity.\u2714\ufe0f\n\nNew optional beta feature, low battery alarm/charge reminder (turn it on in settings first to use the feature), helps you charge your device on-time too!\ud83d\udd0c\n\n\nNote: If you are using Huawei, OnePlus, Xiaomi or Meizu, you may need to follow the following instructions to help prevent unwanted termination of the app/alarm or other issues:  \nFor Huawei: https://bit.ly/2KGXE9c  \nFor OnePlus: https://bit.ly/2XyVU80  \nFor Xiaomi: https://bit.ly/2RFNuGr  \nFor Meizu: https://bit.ly/2Lnk0Ms  \n\n\nWith configurable alarm options such as alarm ringtone, you can customize the alarm the way you want it to be.\n\n\nD",
+    "icon": "/icons/apps.syrupy.fullbatterychargealarm.png"
+  },
+  "app.yog.zeelwalls": {
+    "title": "Zeel Walls - 4K Wallpapers",
+    "package": "app.yog.zeelwalls",
+    "description": "Zeel Walls is one of the best 4K Wallpaper App. We aim to provide you with extraordinary 4K backgrounds that look Fantastic as your Phone Wallpaper on your lock screens and home screen. Our UHD wallpapers are crispy and Aesthetic to look at. \n\nThousands of 4k Wallpapers at your finger tip. \n\nDaily New Wallpapers. Fresh wallpapers that keeps you entertained and satisfied with Zeel Walls . We deliver a by-weekly updates to our Wallpaper collections and Desktop Wallpapers too (coming soon)\n\nCategory that we work on - \n\n~ Nature Wallpapers  - from Natural landscapes like forest, Ocean, Scenery to Starry nights, countryside roads, we have it all.\n~ Anime Wallpapers - Aesthetic Wallpapers, Anime Scenery inspired by the animes like Your name, Garden of Words, Weathering with you, to a extraordion",
+    "icon": "/icons/app.yog.zeelwalls.png"
+  },
+  "air.com.psd.FirstAid": {
+    "title": "First Aid",
+    "package": "air.com.psd.FirstAid",
+    "description": "This game is one of the games developed to suit all ages, in this game the player identify the most important basics of the first aid by choosing the right aid that should be given to injured person at each stage, the player will get a feedback if he or she choose a wrong answer in addition recognize the steps that should not be used which may affect injures life, for example the position of his or her body.",
+    "icon": "/icons/air.com.psd.FirstAid.png"
+  },
+  "ai.flavorish.app": {
+    "title": "Flavorish | Save Any Recipe",
+    "package": "ai.flavorish.app",
+    "description": "Save recipes from Instagram, Facebook, TikTok, YouTube, websites, cookbooks, handwritten notes, and more, all in one app! Turn them into meal plans and grocery lists in seconds.\nWith Flavorish, your go-to recipe app, organizing, saving, and cooking has never been easier.\n\nSave recipes from anywhere\n- Save from Social Media: Save recipes directly from Instagram, Facebook, TikTok, and YouTube\u00a0in a clean, easy-to-read format.\n- Save from Images:\u00a0Snap photos of handwritten recipes, cookbooks, menus, or food and convert them into editable recipes with AI.\n- Save from Text: Paste a recipe in plain text and let AI automatically turn it into a structured recipe with detailed ingredients, instructions, and notes.\n- Unlimited Web Imports:\u00a0Save and customize recipes from any website or blog.\n- Deep R",
+    "icon": "/icons/ai.flavorish.app.png"
+  },
+  "app.noteshub.www": {
+    "title": "NotesHub: Notes, Kanban Boards",
+    "package": "app.noteshub.www",
+    "description": "Fully cross-platform, vendor-agnostic, Markdown-based note-taking app plus Kanban and whiteboarding tool.\nYou can sync your data with GitHub, your own Git server, or just keep it in file system locally on your phone.\n\nUse the power of Markdown to format your notes, and create tables, lists, images, diagrams, etc.\nMarkdown will help to keep your notes in the same style regardless of whether you copied text from the internet or wrote from scratch.\n\nUse Kanban boards as a tool to visualize your work and maximize your efficiency.\nThis will help you to organize your time, focus on what matters, and achieve more.\n\nIf you need quickly visualize your idea, our whiteboarding feature will be handy for you.\nAdd different shapes, make connections between them, add hand-drawn notes, or add reusable ele",
+    "icon": "/icons/app.noteshub.www.png"
+  },
+  "app.ijsjesradar.ijsjesradar": {
+    "title": "ice cream radar",
+    "package": "app.ijsjesradar.ijsjesradar",
+    "description": "Do you ever crave a delicious ice cream... but you're often just a little too late for the ice cream truck? Have no idea if the truck is coming today or if it has already passed by? Do you hear the jingle, but you're not sure if it's just nearby or already on your street?\n\nThen this app is the solution! With this app, you can track your favorite ice cream truck on a map. Set your location and get an automatic notification when the truck is about to arrive.\n\nIn summary, with this app you can:\n- Track where the ice cream trucks are in real-time\n- Receive a notification when an ice cream truck is nearby\n- Request the ice crema truck to your location when it's available\n- View the available flavors and price list for each truck"
+  },
+  "app.instaauto.parts": {
+    "title": "Insta Auto Parts",
+    "package": "app.instaauto.parts",
+    "description": "Insta Auto Parts is your all-in-one app for finding and purchasing high-quality auto parts at unbeatable prices. Whether you\u2019re a car enthusiast, mechanic, or just need a quick replacement, our easy-to-use platform connects you with thousands of parts for all major vehicle brands.\n \n\ud83d\udee0 Key Features:\n\t\u2022\tSearch by make, model, or part number\n\t\u2022\tReal-time inventory and price updates\n\t\u2022\tFast shipping across Canada \n\t\u2022\tTrack your orders and view purchase history\n\t\u2022\tSave your vehicle profile for quicker access\n\t\u2022\tAccess exclusive app-only deals\n \nWith a secure checkout process and excellent customer service, Insta Auto Parts makes car maintenance and repair simple and affordable. Download now and get the parts you need\u2014fast",
+    "icon": "/icons/app.instaauto.parts.png"
+  },
+  "air.astibine.carwash": {
+    "title": "Clean Car Wash: Repair, Design",
+    "package": "air.astibine.carwash",
+    "description": "If you're looking for a great and funny car app, car wash and repair salon game is one of the best workshop garage and car washing games for you It's a unique interactive washing game where you can use unique cleaning tools with cross-functionality. It's educational game to learn how to clean, repair and paint so many different cars from beginning to end at the car wash station, car mechanic and auto repair shop games and develop your attention and perseverance. So Let\u2019s do car repairing and smart car wash simulator in the auto mechanic game at this car factory with amazing features of car maker and workshop garage in clean car wash games. where teaches you the importance of cleaning the car to make it more attractive and have an unforgettable time creating something by your own carwash wo",
+    "icon": "/icons/air.astibine.carwash.png"
+  },
+  "app.club15": {
+    "title": "15th Club Golf GPS Rangefinder",
+    "package": "app.club15",
+    "description": "15th Club GPS Rangefinder\u2013 Featured on Google Play as the \"Best Golf App to Improve your Game\".\n\nThis isn\u2019t just another golf GPS range finder. 15th Club GPS has real-time data, interactive golf maps, easy scorekeeping, and accurate shot tracking, to help you make confident decisions, eliminate guesswork, and actually improve\u2014round after round. \nDesigned for speed so everything is easy to find and use -- distances, golf scorecard, shot tracking, golf statistics --- at your finger tips.\n\nWhether you're a beginner learning to play golf or a scratch golfer looking to lower scores, 15th Club GPS Rangefinder gives you the features to play golf smarter and faster, practice better, and track your progress every step of the way. \n\nDesigned to Make You a Better Golfer\n\nGolf course maps for every co",
+    "icon": "/icons/app.club15.png"
+  },
+  "air.com.gaetanoconsiglio.EscapePrison2": {
+    "title": "Escape Prison 2  - Adventure",
+    "package": "air.com.gaetanoconsiglio.EscapePrison2",
+    "description": "The second chapter of the famous Escape Adventure Game, you must try to break the code behind the security computers and open the doors. \nEscape the prison 2 is a jailbreak adventure game, break free! The prison can look like an uncharted territory but if you look carefully, you will find in your cell many objects and tools that may help you in the jail break, try to use them or combine them, break the code and open the doors.\nEscape the prison 2 is a \"Room Escape\" puzzle adventure game and you are a prisoner under close surveillance, there are jail guards around you and every exit is blocked by computer systems, you must try to solve the riddles and  escape from the prison, break free!\nGet ready and try this uncharted adventure game, you will find in your cell many objects and tools that ",
+    "icon": "/icons/air.com.gaetanoconsiglio.EscapePrison2.jpg"
+  },
+  "air.air.A81DojoMobile": {
+    "title": "81Dojo (World Online Shogi)",
+    "package": "air.air.A81DojoMobile",
+    "description": "This app is the smartphone version of the online shogi site \"81Dojo\" (http://81dojo.com) under the patronage of the Japan Shogi Association.\n81Dojo is characterized by its unique and advanced functionalities such as the interactive post-game analysis support, very real playing environment including professional byoyomi voice, and the internationalization. Most of those functionalities are copied to this app. 81Dojo stays with you all the time, while you take it with your smartphone to anywhere you go to. Why not take a little break and enjoy some short games at 81Dojo?\n\n(81Dojo is completely free of charge, free download and free playing.)\n\n[Note]\n1. If you are not familiar with 81Dojo yet, it is recommended that you first try the web browser version and get used to its unique features and",
+    "icon": "/icons/air.air.A81DojoMobile.png"
+  },
+  "app.text_expansion.octopus": {
+    "title": "Text Expander: Fast Typing",
+    "package": "app.text_expansion.octopus",
+    "description": "Text Expander: Fast Typing\n\nText expander expands keyword with long phrases. Type fast like an octopus!\n\nHave to type the same phrases again and again, everyday?\n\nFast Typing text expander can do the job for you.\n\nCreate a short keyword for long phrase, anytime you type the keyword, text expander will replace it with corresponding full phrase.\n\nNo matter how long the sentence is, text expander will type it for you.\n\nSave time for inputing words, sentences, emojis, date time, or anything!\n\nFeatures\n\n\u2714\ufe0f Text expander\n\u2714\ufe0f Folder grouping\n\u2714\ufe0f Show keyword suggestion when you type\n\u2714\ufe0f Phrase list: multiple phrases for one keyword\n\u2714\ufe0f Easily paste image or send image to other apps. (Vary by app, depending on the app's capabilities.)\n\u2714\ufe0f Instantly open your favorite websites and links. No need to open",
+    "icon": "/icons/app.text_expansion.octopus.png"
+  },
+  "app.disciplined.productive.structured.habit.tracker": {
+    "title": "Disciplined - Habit Tracker",
+    "package": "app.disciplined.productive.structured.habit.tracker",
+    "description": "Over 1,000,000 people use Disciplined to build habits that stick.\n\nNamed one of the best apps of 2024. No complicated systems, no bloat. Just build your daily habit streak \u2014 and don't break it.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\nWHAT MAKES DISCIPLINED DIFFERENT\n\nMost habit trackers overwhelm you with features you never use. Disciplined does one thing well: it keeps your habit streak alive and makes breaking it feel painful.\n\nSimple daily checklist \u2192 check off your habits \u2192 watch your streak grow.\n\nThat's it. No productivity system to learn. No onboarding maze. Open the app, check your habits, close it.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\nKEY FEATURES\n\n\u2705 Daily Habit Tracking\nBuild any habit \u2014 fitness, reading, meditation, hydration, cold showers. Check it off in seconds.\n\n\u2705 Streak Tracking\nYour streak counter i",
+    "icon": "/icons/app.disciplined.productive.structured.habit.tracker.png"
+  },
+  "aplikasi.buta.warna": {
+    "title": "Tes Buta Warna Lengkap",
+    "package": "aplikasi.buta.warna",
+    "description": "A complete color blind test can be used for screening. If there is a problem, please check with your doctor or other health professional to confirm the problem.",
+    "icon": "/icons/aplikasi.buta.warna.png"
+  },
+  "app.mmap.mobile": {
+    "title": "Soundmap - Find Your Songs",
+    "package": "app.mmap.mobile",
+    "description": "Soundmap is for REAL MUSIC FANS! Find songs, trade songs, complete artists quests, build your ultimate collection, and show how much you love MUSIC!\n\nMap Drops: Walk around with the app open to collect songs from nearby drops. Each song can be common, uncommon, rare, shiny, or epic. Get those drops before they are claimed by someone else!\nTrade: Have a song you want? See if anyone is trading them on the market. Put up your best offer and negotiate!\nQuests: Love an artists? Complete their artists quests to collect all their discography!\n\nLocation Permission Declaration: Soundmap is a location-based app where you explore the world and find music. Users have to opt in to share location either always or while using the app. Both permission requests will be presented during onboarding. By signi",
+    "icon": "/icons/app.mmap.mobile.png"
+  },
+  "app.badminton.horse.trials": {
+    "title": "Badminton HT",
+    "package": "app.badminton.horse.trials",
+    "description": "The official Badminton app is your mobile companion for staying updated with all the latest information and updates related to the Badminton Horse Trials.",
+    "icon": "/icons/app.badminton.horse.trials.png"
+  },
+  "air.com.gaetanoconsiglio.EscapePrison": {
+    "title": "Escape Prison - Adventure Game",
+    "package": "air.com.gaetanoconsiglio.EscapePrison",
+    "description": "Break prison Alcatraz, find a way out! Escaping the prison\nBreak Out of Alcatraz, in few words it's the Ultimate Prison Escape Adventure!\n\nIn Escape Prison: Adventure Game, you\u2019re trapped in a high-security penitentiary and must craft a meticulous escape plan. Will you find a way out, or be left behind? Navigate Alcatraz-inspired settings filled with clues, traps, and gripping prisoner stories. Every choice could be your last, and every moment brings you closer to freedom\u2026 or failure. If you\u2019re searching for a way to be released from jail, your journey begins here.\n\nEscaping Prison Key Features:\nPlan Your Escape: Solve intense prison puzzles, unlock hidden doors, and disable high-tech security systems as you strategize your prison breakout.\nExplore the Prison: From dark dungeons to eerie c",
+    "icon": "/icons/air.com.gaetanoconsiglio.EscapePrison.png"
+  },
+  "app.avax.health": {
+    "title": "AVAX Blood Pressure Diary",
+    "package": "app.avax.health",
+    "description": "AVAX blood pressure tracker helps you to control and manage your hypertension on a daily basis. For this purpose, our blood pressure app has all the important features from history curves and statistics to medication reminders and PDF reports ready for you.\n\nCORE FUNCTIONS\n- Easy recording of readings (manually or via Bluetooth*)\n- Comprehensive graphs and statistics\n- PDF reports to download or send to your doctor (manually or automated monthly)\n- Recording of medication intake & medication reminder\n- Reminder take a measurement\n- Status charts and \"level system\" based on your activity\n- Unlimited data import and export from and to XLSX and CSV\n- Acquisition of supplementary measured values (e.g. blood glucose, weight, body temperature, oxygen saturation)\n- Many customization options to m",
+    "icon": "/icons/app.avax.health.png"
+  },
+  "ahapps.shortcuts": {
+    "title": "Create shortcuts",
+    "package": "ahapps.shortcuts",
+    "description": "Access everything you need on your device with one tap.\nStop digging through endless folders or the Settings menu. Create personalized shortcuts for your most important data and place them exactly where you want on your Home Screen for instant access, or add them to a single, organized window that can be accessed from your Quick Settings to keep your home screen clutter-free (Requires Android 7 and above).\n\nYou can create shortcuts for:\n \u2022 Files & Media: Open specific photos, PDFs, or documents instantly.\n \u2022 Folders: Jump directly to your most-used storage directories.\n \u2022 Websites & Links: Instantly open your favorite web pages.\n \u2022 Contacts: Access your frequent contacts with dedicated shortcuts.\n \u2022 System Settings: Access deep system settings without navigating the Settings app.",
+    "icon": "/icons/ahapps.shortcuts.png"
+  },
+  "app.smartwatchstudios.solitaire": {
+    "title": "Solitaire Wearable",
+    "package": "app.smartwatchstudios.solitaire",
+    "description": "You\u2019ll love playing this rewarding game of skill and concentration.\nLooks and feels just as Windows Solitare that we played for a long time. \n\nTo win Solitaire, you must get all the cards onto the Foundation piles. The Foundations are ordered by suit and rank, each Foundation has one suit and you must put the cards onto them in the order.\n\nYou can always end the app and continue your ongoing game later. \nAvailable through in-app-purchase are 18 more variants of the game, e.g. Spider, FreeCell & Golf.\n\nCompatible with all Wear OS watches!",
+    "icon": "/icons/app.smartwatchstudios.solitaire.png"
+  },
+  "app.organicmaps": {
+    "title": "Organic Maps\u30fbOffline Map & GPS",
+    "package": "app.organicmaps",
+    "description": "Organic Maps is a fast, detailed offline map and GPS navigation app for travel, hiking, trekking, and cycling adventures. Plan, import, and record routes, and enjoy smooth guidance without draining your battery or using an internet connection. Explore places and navigate safely during your outdoor adventures and travels around the world. The app offers unlimited map downloads and biweekly updates. OpenStreetMap-based, volunteer-made, privacy-first, 100% offline, and 100% free.\n\nOFFLINE: The app works 100% offline \u2014 including search and navigation. You can explore the map and navigate without an internet connection, saving on mobile data and roaming fees. And with no background data transfers, your battery lasts much longer.\n\nFAST: Zooming, search, and route calculations work noticeably fas",
+    "icon": "/icons/app.organicmaps.webp"
+  },
+  "apps.infinite.icecreamtrucksound": {
+    "title": "Ice Cream Truck Sounds",
+    "package": "apps.infinite.icecreamtrucksound",
+    "description": "These are very simple ice cream truck sounds in a mobile application.\n\nDo you want to hear an ice cream truck sound for some purposes of yours? Well, we have this \"Ice Cream Truck Sounds\" application ready for you to use!\n\nWith the ice cream truck sound, you can:\n- Make everyone think there is an ice cream truck nearby\n- Surprise people\n- Any other creative implementation you can think of using the sound\n\nWe hope you enjoy using this \"Ice Cream Truck Sounds\" application!",
+    "icon": "/icons/apps.infinite.icecreamtrucksound.png"
+  },
+  "app.storybook.story": {
+    "title": "Storybook: Calm Bedtime, Sleep",
+    "package": "app.storybook.story",
+    "description": "Nurturing Bonds, One Story at a Time\n\nTransform Bedtime with Storybook\n\nWelcome to Storybook, the award-winning app designed to help parents improve their children's sleep, manage anxiety, and boost self-esteem through guided relaxation techniques, narrated bedtime stories, affirmations, and soothing music. Trusted by over 3 million families worldwide, Storybook creates meaningful, screen-free bedtime routines that build a lasting bond between parents and children. \n\n ***Storybook is recommended by leading psychologists, therapists, and child well-being experts.*** \n\n\nBenefits for Families:\n\n\u2022 STRENGTHEN FAMILY BONDS Create special moments and deepen your connection with your children through engaging stories and relaxing massages.\n\u2022 PROMOTE DEEP SLEEP Encourage restful sleep and minimize ",
+    "icon": "/icons/app.storybook.story.png"
+  },
+  "air.heart.rate": {
+    "title": "Heart Rate Monitor - Pulse PRO",
+    "package": "air.heart.rate",
+    "description": "Pulse PRO \u2013 Camera Rhythm Tracker\n\n\ud83d\udcf1 Discover your smartphone\u2019s hidden abilities!\n\nWith Pulse PRO, you can use your phone\u2019s camera to visualize rhythmic activity from your fingertip. It\u2019s a great way to observe your body\u2019s response after exercise or during moments of rest.\n\n\ud83d\udd27 How it works:\n\n1. Place your fingertip gently over the phone's camera.\n2. The camera and flashlight detect subtle changes in light on your finger\u2019s surface.\n3. The app analyzes the visual pattern and displays a rhythm chart.\n\n\ud83d\udca1 What Pulse PRO offers:\n\n* Quick rhythm visualization\n* Simple check-in after rest or physical activity\n* Tips for maintaining an active lifestyle\n* All data stored locally on your device\n\n\u26a0\ufe0f Important Notice:\n\nThis app is intended for personal wellness use only and is not a medical tool. It doe",
+    "icon": "/icons/air.heart.rate.png"
+  },
+  "app.pg.grandpiano": {
+    "title": "Grand Piano and Keyboard",
+    "package": "app.pg.grandpiano",
+    "description": "\ud83c\udfb9 Grand Piano & Keyboard \u2013 Real Piano, Real Practice, Real Music!\nExperience the power of a full 88-key grand piano right on your Android device!\nWhether you\u2019re a beginner learning scales, a musician composing on the go, or a performer rehearsing on stage, Grand Piano & Keyboard brings you the authentic sound and feel of a professional instrument \u2014 all from your phone or tablet.\n\n\n\ud83c\udfb5 Play, Learn & Practice \u2013 Anytime, Anywhere!\nGrand Piano is more than just a virtual piano app \u2014 it\u2019s your complete musical companion with built-in tools for music theory, chords, scales, recording, and performance.\n\n\n\ud83c\udf1f App Features:\n\u2705 88-Key Realistic Piano \u2013 True grand piano layout with 7 full octaves\n\u2705 Ultra-Fast Response Time \u2013 Instant key feedback for a smooth, almost real-time playing experience without mu",
+    "icon": "/icons/app.pg.grandpiano.png"
+  },
+  "app.kiwwi.magnifier": {
+    "title": "Magnifier",
+    "package": "app.kiwwi.magnifier",
+    "description": "The best magnifying glass app in the google play. Easy to use and functional.\nWith Magnifier you will see everything big and clear.\n\nFeatures \n-zoom: from 1x to 10.9x\n-Freezing magnified\n-Take Photos\n-Flashlight\n-Embedded photo viewer",
+    "icon": "/icons/app.kiwwi.magnifier.png"
+  },
+  "air.com.tensquaregames.letsfish": {
+    "title": "Let's Fish: Fishing Simulator",
+    "package": "air.com.tensquaregames.letsfish",
+    "description": "It\u2019s time to go fishing with Let\u2019s Fish, the best fishing simulator and free online game of 2024! \n\nLooking for free fishing games (bass fishing, ice fishing, fly fishing, sport fishing, big fish fishing and more) or best outdoor games? Great! Lets Fish offers the best summer fishing and winter fishing experience, so u don't have to search for any other hobby games anymore. With Let's Fish you have your hobby in your pocket, all the time ! Sport fishing, free and better than other free fishing apps in 3D. \n\nSo.. join the most popular Sport Fishing Game in the World! Invite and compete with friends to hunt down your next catch (salmon? bass? tuna? shark? whale?) and reel your fish in! Enjoy a virtual adventure in nature\u2019s great outdoors and visit stunning fishing locations through relaxing ",
+    "icon": "/icons/air.com.tensquaregames.letsfish.png"
+  },
+  "app.simplecompass": {
+    "title": "Compass: Direction & Level",
+    "package": "app.simplecompass",
+    "description": "Compass is a precise, beautifully designed compass and inclinometer built for hikers, campers, surveyors, and anyone who needs reliable direction and tilt readings.\nREAL-TIME COMPASS - A smooth, animated compass dial rotates in real time as you move. Cardinal and intercardinal labels, degree markings every 30 degrees, and fine tick marks every 2 degrees give you a clear heading at a glance.\nTRUE NORTH & ALTITUDE - Enable True North with a single tap. The app uses on-device magnetic declination calculations so you get accurate geographic north without needing an internet connection. Grant precise location to see your altitude in both meters and feet \u2014 perfect for hiking and outdoor navigation. Location is only used when you choose to enable it.\nSUN TRACKER - See where the sun is right now, ",
+    "icon": "/icons/app.simplecompass.png"
+  },
+  "app.type_korean": {
+    "title": "Hangul - type korean",
+    "package": "app.type_korean",
+    "description": "Master Korean Typing | Type Like a Native!\n\nUnlock the power of Korean typing with our cutting-edge app, designed to help you type faster and more accurately in Hangul. Whether you\u2019re a Korean beginner or looking to refine your skills, this is the perfect practice tool for you!\n\nWhy Choose Our Korean Typing App?\n\n\t\u2022 Real-Time Typing Practice \u2013 Enhance your typing speed with interactive exercises.\n\t\u2022 Learn Hangul Easily \u2013 No need for a separate Korean keyboard; our app includes a built-in Korean keyboard.\n\t\u2022 Instant Feedback \u2013 Identify mistakes, improve accuracy, and confidently type.\n\t\u2022 Minimalist & Intuitive Design \u2013 No distractions, just pure Korean learning.\n\t\u2022 Fun & Engaging Challenges \u2013 Test your skills with fun exercises and daily practice.\n\nWho Is This App For?\n\n\t\u2022 Korean learners w",
+    "icon": "/icons/app.type_korean.png"
+  },
+  "air.fourdWhiteboard.debug": {
+    "title": "Whiteboard: Draw Paint Sketch",
+    "package": "air.fourdWhiteboard.debug",
+    "description": "Turn your device into a powerful, real-time digital whiteboard with Whiteboard: Draw, Paint & Doodle. Whether you need to visualize a professional design, explain a complex idea to a colleague, or give your children a creative outlet, this app provides the perfect drawing tools for every scenario.\nCarry a versatile sketchpad in your pocket. Whenever you are struck by inspiration, simply launch the app and shape your vision. Our interface is designed to maximize your screen space, giving you more room to draw with your finger, paint, and doodle without clutter.\nChoose Your Creative Mode:\n\u2022\tWhiteboard: A professional interface for brainstorming, diagramming, and technical discussions.\n\u2022\tKids Board: A fun, mess-free drawing pad for children to explore colors and shapes.\n\u2022\tDoodle Desk: The per",
+    "icon": "/icons/air.fourdWhiteboard.debug.png"
+  },
+  "altergames.carscanner": {
+    "title": "CRAB Car Scanner",
+    "package": "altergames.carscanner",
+    "description": "We created a simple OBD scanner with a user-friendly, visually pleasing interface so you can enjoy driving without being distracted by complex settings. Display key performance parameters of your vehicle directly on your car's screen or Android device. Set acceptable ranges for parameters, and the system will automatically notify you of any deviations.\n\nThe OBD scanner is available as a free app, so you can test all its features right away. But if you want a little extra, try integrating it with AGAMA Car Launcher for a small one-time fee.\n\nThis integration extends the concept of a \"unified interface\" for all in-car apps. Music, navigation, radar detector, and now OBD data can all be displayed together in a cohesive style right on the main screen. This looks aesthetically pleasing and make",
+    "icon": "/icons/altergames.carscanner.jpg"
+  },
+  "allmail.ai.email.app": {
+    "title": "Email- Fast, All Inbox Access",
+    "package": "allmail.ai.email.app",
+    "description": "Innovative AI email management application, this is the ultimate all-in-one solution for all mailboxes such as Gmail, Outlook and more.\nWith our app, you can easily integrate and manage all your email accounts in one place, saving valuable time and effort.\n\nBut that's not all - our application goes beyond simple email management. With advanced artificial intelligence technology, it provides smart features such as AI-driven email grammar and spell checking. When you write or reply to an email, use the AI Check function to check the grammar or spelling accuracy of the email content you write in real time and generate correct content, helping you save checking time and optimize the tedious work of reply writing.\n\nWhether you're a busy professional managing multiple email accounts at once, or ",
+    "icon": "/icons/allmail.ai.email.app.png"
+  },
+  "app.typejapanese": {
+    "title": "Kana - type japanese",
+    "package": "app.typejapanese",
+    "description": "Master Japanese Typing | Type Like a Native!\n\nUnlock the power of Japanese typing with our cutting-edge app, designed to help you type faster and more accurately in Japanese. Whether you\u2019re a Japanese beginner or looking to refine your skills, this is the perfect practice tool for you!\n\nWhy Choose Our Japanese Typing App?\n\n\t\u2022 Real-Time Typing Practice \u2013 Enhance your typing speed with interactive exercises.\n\t\u2022 Learn Japanese while you type \u2013 No need for a separate Japanese keyboard; our app includes a built-in Hiragana keyboard.\n\t\u2022 Instant Feedback \u2013 Identify mistakes, improve accuracy, and confidently type.\n\t\u2022 Minimalist & Intuitive Design \u2013 No distractions, just pure Japanese learning.\n\t\u2022 Fun & Engaging Challenges \u2013 Test your skills with fun exercises and daily practice.\n\nWho Is This App ",
+    "icon": "/icons/app.typejapanese.png"
+  },
+  "air.org.smapps.mahjong": {
+    "title": "Mahjong Treasures - solitaire",
+    "package": "air.org.smapps.mahjong",
+    "description": "1 000 000 players worldwide! Try unique 3d board solitaire now! Win tournaments and have a journey around the world!\nEmbark a lot of unique levels, taste deluxe & epic majong battles with other players. \nOur features:\n\ud83d\udd38 Mahjong tournament gameplay.\n\ud83d\udd39 1300+ mahjong pyramids.\n\ud83d\udd38 40+ wonderful countries.\n\ud83d\udd39 10+ bonus mahjong tiles.\n\ud83d\udd38 A lot of interesting quests & treasures.\n\ud83d\udd39 Super boosters: \"Fireworks\", \u201cBomb\u201d and \u201cShuffle\u201d.\n\ud83d\udd38 Vivid graphics and festive atmosphere!",
+    "icon": "/icons/air.org.smapps.mahjong.png"
+  },
+  "app.mrcook.twa": {
+    "title": "Recipe Keeper - Mr. Cook",
+    "package": "app.mrcook.twa",
+    "description": "Never lose a recipe again. Mr. Cook is your AI-powered kitchen companion that saves, organizes, and brings all your recipes together.\n\n\u2b07\ufe0f SAVE RECIPES FROM ANYWHERE\n\u2022 Save social media recipes with one tap\n\u2022 Import recipes from 400+ cooking websites instantly\n\u2022 Scan handwritten family recipes in seconds\n\u2022 Store everything in your personal digital cookbook\n\u2022 Never lose a recipe again\n\n\u2728 CREATE WITH AI\n\u2022 Generate recipes from ingredients you already have\n\u2022 Get personalized suggestions for your dietary needs\n\u2022 Perfect for allergies, restrictions, and preferences\n\u2022 Turn \"what's in my fridge?\" into dinner\n\n\ud83d\udcd6 ORGANIZE YOUR COLLECTION\n\u2022 Beautiful, searchable digital cookbook\n\u2022 Powerful filters to find any recipe instantly\n\u2022 Smart categories and tags\n\u2022 Edit and customize every recipe\n\u2022 Access from",
+    "icon": "/icons/app.mrcook.twa.png"
+  },
+  "air.com.pixelfederation.seaport.explore.collect.trade": {
+    "title": "Sea Port: Cargo Boat Tycoon",
+    "package": "air.com.pixelfederation.seaport.explore.collect.trade",
+    "description": "Play Sea Port, a cargo ship transport and ship collecting game! Build a city on an island, collect and manage all the ships you can get your hands on! This is a relaxing game and port city builder which will make you a sea and ocean captain. Just choose your ships, strategy and build a city in an awesome ship tycoon.\n\nDo you have what it takes to be the captain in ship tycoon games and can you build a cargo transport business? Build a city to be a transport tycoon, collect materials to upgrade your cargo ships and set sail and master the sea trade! Build a large fleet of ships from boats to huge cargo transport ships. To become the captain of transport ship games you need to master the strategy and management of your fleet. Build your port town or build a city and then progress to a large ",
+    "icon": "/icons/air.com.pixelfederation.seaport.explore.collect.trade.png"
+  },
+  "air.com.divination.iching": {
+    "title": "Visionary I Ching-Paul O'Brien",
+    "package": "air.com.divination.iching",
+    "description": "I Ching author: Paul O'Brien.\n\nSuccess and happiness arise from how well you manage the changes in your life, the quality of the decisions you make. The I Ching, or Book of Changes, is a sophisticated divination system that will help you make better decisions and enjoy perfect timing, as you achieve or receive what you want or need. The Visionary I Ching is a modern, non-sexist version of the ancient oracle that will stimulate your intuition, provide timeless wisdom and show you how to develop any situation or resolve any dilemma.\n\nWhen using Visionary I Ching, find a quiet place and take a minute to calm your mind. Get clear about the situation or decision on your mind and enter it into the app as a topic (not a question). Then cast the coins. The reading you produce will provide uncanny ",
+    "icon": "/icons/air.com.divination.iching.png"
+  },
+  "app.llcloud.auradisplay": {
+    "title": "Aura: LED Notification Light",
+    "package": "app.llcloud.auradisplay",
+    "description": "AuraDisplay is a notification light app that turns your camera cutout into a glowing notification LED ring. Get beautiful, animated notification rings around your punch hole camera \u2014 like a modern notification LED, but better.\n\nIf you miss the notification LED on your phone, AuraDisplay brings it back. Every notification lights up a colorful ring around your front camera using the app's own color. It works on your lock screen, home screen, and Always-On Display.\n\n\ud83d\udd14 NOTIFICATION LED \u2014 FREE FEATURES\n\u2022 Notification light rings matched to each app's icon color\n\u2022 Animated LED styles: Pulse, Flash, Wave, Orbit, Static\n\u2022 Per-app notification control \u2014 enable or disable any app\n\u2022 Fine-tune ring position and scale for any punch hole camera\n\u2022 Always-On Display notification support (AMOLED screens)\n\u2022",
+    "icon": "/icons/app.llcloud.auradisplay.png"
+  },
+  "any.shortcut": {
+    "title": "Links-Shortcut Manager",
+    "package": "any.shortcut",
+    "description": "Unleash the Power of Shortcut on Your Android!\n\nTired of endless tapping and navigating through menus? Shortcut puts everything you need right at your fingertips. Create custom shortcuts for apps, files, Links within apps, and even specific system settings, directly on your homescreen. Streamline your mobile experience and boost your productivity with powerful, personalized shortcuts.\n\nTake Control of Your Apps & Files:\n\n* App Shortcuts: Launch your favorite apps instantly.\n* Split Screen Master: Launch two apps simultaneously in split-screen mode with a single tap. Perfect for multitasking!\n* File Access: Quickly access your photos, videos, documents, and audio files.\n* Links: Dive directly into specific pages within your apps, saving you time and clicks.\n* In-app shortcuts: Access key fe",
+    "icon": "/icons/any.shortcut.png"
+  },
+  "app.mywed.android": {
+    "title": "Wedding Planner by MyWed",
+    "package": "app.mywed.android",
+    "description": "Wedding Planner by MyWed is an all-in-one wedding planning app. Download the app and you will be able to: make a guest list, keep track of important tasks, control expenses and manage vendors. Sync all data across devices and plan your wedding with future spouse and family. \n\nMyWed app is the top wedding planning tool trusted by over 3,000,000 couples all over the world. Try our Wedding Planner and you will be amazed by its possibilities!\n\n\ud83d\udc97 Sync & Invite\nThe MyWed app automatically sync all data. Invite partner and organize your wedding together. You can also manage the wedding from different devices. We guarantee the safety and security of your data!\n\n\ud83d\udc97 Wedding Guestlist\nThe app will help you manage your guest list. Add guests and companions, make a seating plan, track meal selections an",
+    "icon": "/icons/app.mywed.android.png"
+  },
+  "ai.insects.identifier.bug.finder": {
+    "title": "Insect Identifier",
+    "package": "ai.insects.identifier.bug.finder",
+    "description": "Insect Identifier is a powerful tool that uses artificial intelligence to identify insects in real time. Simply take a photo of an insect with your phone's camera and the app will instantly identify it, providing you with detailed information about its species, habitat, behavior, and more.\n\nFeatures:\n\u25cf Instant identification: Bug & Insect Identifier uses state-of-the-art artificial intelligence to identify insects in real time.\n\n\u25cf Detailed information: For each insect, Bug & Insect Identifier provides detailed information, including its scientific name, common name, habitat, behavior, and more.\n\n\u25cf  Large database: Bug & Insect Identifier has a large database of over 40,000 insect species, making it the most comprehensive insect identifier app available.\n\n\u25cf  Easy to use: Bug & Insect Identi",
+    "icon": "/icons/ai.insects.identifier.bug.finder.png"
+  },
+  "apps.r.speedometer": {
+    "title": "GPS Speedometer: Speed Tracker",
+    "package": "apps.r.speedometer",
+    "description": "GPS & Navigation - your GPS Speedometer app!\n\n\ud83d\ude80 Discover Your Speed Like Never Before! \ud83d\ude80\nDo you ever find yourself wondering, \"How fast am I going?\" Whether you're driving a car, riding a bike, or even on a train, our GPS Speedometer app is here to keep you informed and in control. This isn't just any speed app \u2013 it's your ultimate speed tracker that turns your device into a powerful speedometer, giving you real-time data at your fingertips.\n\nOur GPS Speedometer app utilizes cutting-edge GPS technology to provide accurate speed tracking. You'll know exactly how fast you're going, whether in mph, km/h, knots, m/s, or ft/s. Perfect for any vehicle or activity, from cars to bicycles, and even trains with our unique Train Speed Live Meter feature!\n\n\u2705 Speedometer: Instantly see your current spe",
+    "icon": "/icons/apps.r.speedometer.png"
+  },
+  "app.moertel.retro.iconpack.neon": {
+    "title": "Retro Mode - Icon Pack (Neon)",
+    "package": "app.moertel.retro.iconpack.neon",
+    "description": "Proudly made in Hamburg \u2764\ufe0f by pixel artist Moertel\nThe most complete pixel art icon pack on the Play Store - updated monthly. Embark on a digital road trip to the 90s and enjoy your phone like never before.\n\nF E A T U R E S\n\u2022 4050 icons included\n\u2022 12 wallpapers included\n\u2022 6 widgets included\n\u2022 Widgets: Digital clock (Android 10+)\n\u2022 Widgets: Analog clock\n\u2022 Widgets: Date\n\u2022 Widgets: Greeting with time of day\n\u2022 Widgets: Calendar\n\u2022 Widgets: Text shortcut\n\u2022 20+ launchers supported (list below)\n\u2022 Updated monthly with new icons and features\n\nD E S I G N\n\u2022 Crisp pixel art design in neon colours\n\u2022 No shadows, no outlines\n\nW I D G E T S\n\u2022 Pick from 8 different widget colours\n\u2022 Optionally combine colours to gradients\n\u2022 Text in widgets is freely configurable (up to 500 characters)\n\u2022 Choose from 8 placeh",
+    "icon": "/icons/app.moertel.retro.iconpack.neon.png"
+  },
+  "air.nn.mobile.app.main": {
+    "title": "NeuroNation - Brain Training",
+    "package": "air.nn.mobile.app.main",
+    "description": "With NeuroNation scientific brain training you bring your brain day by day on trot. Whether it's weaker memory, dwindling concentration or thinking too slowly - only 15 minutes of training a day can make problems disappear and give your brain new momentum. Join the worldwide community of over 23 million members and treat yourself to a piece of science - right in your pocket.\n\nGerman health insurances are reimbursing our medical device NeuroNation MED. If you have a prescription, please download the \"NeuroNation MED\", not the \"NeuroNation\" app.\n\nWhy doing brain training with Neuronation? \n- DIFFERENT EFFECTS: Various studies have repeatedly proven this: With brain training, you can improve your memory and increase your thinking speed and concentration.\n\n- PERSONALIZATION: NeuroNation perfor",
+    "icon": "/icons/air.nn.mobile.app.main.jpg"
+  },
+  "air.com.pixelfederation.TrainStationGame": {
+    "title": "Train Station: Classic",
+    "package": "air.com.pixelfederation.TrainStationGame",
+    "description": "Join hundreds of thousands train dispatchers, collect thousands of train engines and learn real-life railroad stories about them.\n\nManage your station, your railroad, earn resources by managing transport of passengers, gold, cargo and gain various materials with freight trains engines. Use them to build up your train station line and to transport more passengers and cargo with trains! Become a railway magnate in this awesome train simulator, finish hundreds of achievements, ship cargo to contract partners to gain awesome rewards. Cooperate with your friends to become a railroad tycoon, or compete with them in leaderboards to show off the power of your train yard fleet.\n\nExplore with friends the epic collection line of steam, diesel, electric, maglev and hyperloop railroad engines from manu",
+    "icon": "/icons/air.com.pixelfederation.TrainStationGame.jpg"
+  },
+  "ai.mira.videochat": {
+    "title": "Fun Random Video Chat - Mira",
+    "package": "ai.mira.videochat",
+    "description": "Mira is an entertainment platform where artificial intelligence gives a new touch to human communication. Generate your avatar with AI, start video chatting incognito, and continue conversation with your partner without any mask if you wish so.\n\nA unique fusion of common yet functional video chat and advanced artificial intelligence models, Mira was designed to take the communication experience of its users to the next level. It features an ultimate application for those who would like to enjoy making new acquaintances and chatting with people while exploring a wide array of image generation capabilities.\n\nMIRA\u2019S KEY FEATURES\n\n\u25b7 Create and \u0441ustomize\nWe believe that every person is exceptional and authentic. So are the characters that the Mira users can create using the state-of-the-art art",
+    "icon": "/icons/ai.mira.videochat.jpg"
+  },
+  "app.loopad.loopad": {
+    "title": "Padmaster: Music & Beat Maker",
+    "package": "app.loopad.loopad",
+    "description": "\ud83c\udfb9 Padmaster is exciting music and beat maker, with various features that can help you to make your own music and generate beats. Customized music pad studio with a lot of sound packs for everyone's taste! Unique music mixer - Record your session! Create amazing grooves with the extraordinary melody creator!\n\nWhy you should use our beat and music maker? Our music loops are up to 45 seconds, created by professional producers! And that is just one of the features that differs us from similar apps. Fulfill your dream - Become a DJ!\n\nPadmaster is an app for all music creators. It\u2019s convenient to use. Make awesome beats with a single touch of a button and switch music with ease. The music you make will be visualized for you to enjoy. You can also share your creation to show how amazing your DJ'i",
+    "icon": "/icons/app.loopad.loopad.png"
+  },
+  "app.callflash.flashlight.flashlightcall.torch.light.flashalert": {
+    "title": "Flash Alert - Call & SMS",
+    "package": "app.callflash.flashlight.flashlightcall.torch.light.flashalert",
+    "description": "Flash Alert - Call & SMS  is your go-to solution for Helps you stay informed of calls, text messages, and app notifications with bright LED alerts. Designed for everyone\u2014from those in noisy environments to individuals needing visual alerts\u2014this app helps you stay connected with bright LED alerts in various situations\n\nWhether you\u2019re at a concert, in a meeting, or simply on silent mode,  Flash Alert - Call & SMS  guarantees that you\u2019ll always be informed with bright LED flash notifications.\n\n\ud83d\udcf2 Download Flash Alert - Call & SMS today and let every notification shine!\n\n\ud83d\udd26 Key Features of Flash Alert - Call & SMS:\nFlash Call Alert & SMS Notifications\n- Get LED flash alerts for incoming calls and text messages.\n- Ideal for loud environments, quiet zones, or when you need a discreet notification.",
+    "icon": "/icons/app.callflash.flashlight.flashlightcall.torch.light.flashalert.png"
+  },
+  "apps.r.calculator": {
+    "title": "Calculator",
+    "package": "apps.r.calculator",
+    "description": "Scientific Calculator With History - The Perfect Tool for Every Math Lover!\nAre you looking forward to making your Math calculations easier for complex math tasks? Our tool has all your bases covered. Well, you do not need to worry about anything - if it is a Scientific Calculator With History, a Basic Calculator App, a Graphing calculator, or A fractional app, we have got your back.\n\nThis application also supports Wear OS devices!\n\n\ud83d\udcc4Our Calculation Tool Key Features:\ud83d\udcc4\n\ud83e\uddeeScientific Calculator with History: It can perform any scientific operations like Trigonometric, Logarithmic, and Exponential functions, etc. It also reviews History as a Scientific Calculator with history. See your last 100 expressions and answers with dates, which means you can easily track what is used to calculate the r",
+    "icon": "/icons/apps.r.calculator.png"
+  },
+  "app.yog.joywalls": {
+    "title": "Joy Walls - 4k Wallpapers App",
+    "package": "app.yog.joywalls",
+    "description": "Joy Walls aims to provide you Unique 4K Wallpapers that satisfy your customization needs!\nGet the best out of your phone with beautiful 4k Quality Wallpaper that Makes your Homescreen Look Stunning.All Walls come in 3 different color variations. So you get to choose the one that suits your liking. \n\nThe Artworks are crafted by keeping personalization needs in mind. Walls are highly about getting your Customization level up! \n\nJoy Walls offers you some unique Categories like distorted, Setup specific, pattern, textures, Nature, cute vector Artwork, and much more. It keeps on growing with weekly updates (as it already has been receiving from the day of release). Each week I am adding unique, Pleasant, eye candy wallpapers. While making sure users are satisfied with what they get out of Joy W",
+    "icon": "/icons/app.yog.joywalls.png"
+  },
+  "applock.lockapps.fingerprint.password.applocker": {
+    "title": "App Lock - Fingerprint Lock",
+    "package": "applock.lockapps.fingerprint.password.applocker",
+    "description": "Secure your digital world with App Lock - Fingerprint Lock! Lock apps, hide photos, videos and chats with password, pattern or fingerprint. \n\n50 million+ users trust App Lock - Password App for powerful privacy protection. Enjoy smart features like intruder selfie, icon disguise, and custom lock themes \u2014 download now for 100% security!\n\n--- APP HIGHLIGHTS ---\n\n\ud83d\udee1\ufe0f Lock All Your Apps\nSecure it all \u2014 WhatsApp, Messenger, Facebook, Google Play, PayPal, and Settings. Keep your private chats and data safe from prying eyes and enjoy true peace of mind.\n\n\ud83d\udcf8 Intruder Camera\nCatch intruders in action! The App Locker takes photos with spy camera and sends alerts when anyone enters the wrong password.\n\n\ud83d\udd15 Hide Notifications \nUse App Lock - Password App to block sensitive notifications from appearing on ",
+    "icon": "/icons/applock.lockapps.fingerprint.password.applocker.png"
+  },
+  "app.moertel.retro.iconpack.light": {
+    "title": "Retro Mode - Icon Pack (Light)",
+    "package": "app.moertel.retro.iconpack.light",
+    "description": "Proudly made in Hamburg \u2764\ufe0f by pixel artist Moertel\nThe most complete pixel art icon pack on the Play Store - updated monthly. Embark on a digital road trip to the 90s and enjoy your phone like never before.\n\nF E A T U R E S\n\u2022 4050 icons included\n\u2022 15 wallpapers included\n\u2022 6 widgets included\n\u2022 Widgets: Digital clock (Android 10+)\n\u2022 Widgets: Analog clock\n\u2022 Widgets: Date\n\u2022 Widgets: Greeting with time of day\n\u2022 Widgets: Calendar\n\u2022 Widgets: Text shortcut\n\u2022 20+ launchers supported (list below)\n\u2022 Updated monthly with new icons and features\n\nD E S I G N\n\u2022 Crisp pixel art design in plain white\n\u2022 No shadows, no outlines\n\nW I D G E T S\n\u2022 Text in widgets is freely configurable (up to 500 characters)\n\u2022 Choose from 8 placeholders (day, month, year, hour, minute, am/pm, greeting, weekday)\n\nT U T O R I A L",
+    "icon": "/icons/app.moertel.retro.iconpack.light.png"
+  },
+  "app.vinztech.tickit": {
+    "title": "Habit Tracker - TickOff",
+    "package": "app.vinztech.tickit",
+    "description": "Habit Tracker\n\nLooking for a Habit Tracker App that simplifies building habits, tracking progress, and maintaining consistency? TickOff - Habit Tracker App is here to revolutionize the way you cultivate positive habits and manage your daily goals. Designed to be simple yet powerful, this Habit Tracker app offers all the tools you need to succeed, complete with a journal feature to record your journey along the way.\n\nWhy Choose TickOff - Habit Tracker App?\n\nTickOff isn't just another Habit Tracker; it's your personal assistant for habit formation and self-improvement. Whether you're striving to develop a daily routine, achieve long-term goals, or stay motivated, TickOff's intuitive design and robust features make it the ideal Habit Tracker for everyone.\n\nFeatures Of TickOff Habit Tracker Ap",
+    "icon": "/icons/app.vinztech.tickit.png"
+  },
+  "application.app.development.appdevelopment.learnapp.learn.androidapp.makeapps.programming": {
+    "title": "Learn App Development",
+    "package": "application.app.development.appdevelopment.learnapp.learn.androidapp.makeapps.programming",
+    "description": "Looking to build your skills in mobile app development? Do you aspire to become a mobile app developer?\n\nWith the Learn App Development: Mobile App Tutorials, you can learn the best technologies in mobile app development. Whether you want to learn app development with flutter, swift, react, native android or native ios, you can lean them all on this Mobile App Development Tutorial app.\n\nThis learning app is suited for beginners who want to get started with mobile app development or for those who want to constantly brush up their skills at mobile app development. You can learn with native app development technologies or programming languages such as Java or Kotlin for Android or Swift for iOS Development.\n\nOn the app, you can also learn cross-platform open source technologies such as Flutte",
+    "icon": "/icons/application.app.development.appdevelopment.learnapp.learn.androidapp.makeapps.programming.png"
+  },
+  "app.web.copypassword": {
+    "title": "Password Manager - Clipboard",
+    "package": "app.web.copypassword",
+    "description": "A powerful and feature-rich password management app.\nStart using it immediately without any login required.\nYour data is completely protected and kept private.\n\nThis app perfectly solves all your password management, data organization, and security protection needs. Equipped with powerful features including unlimited tab creation, drag and drop, alphabetical sorting, dark mode, notification system, biometric authentication, CSV export, tab notes, and more to meet all your requirements.\n\n\u25a0 Password Management\nSecurely store your important passwords and instantly copy and paste them when needed.\n\n\u25a0 Unlimited Tab Management\nCreate unlimited tabs and organize them perfectly by category.\n\n\u25a0 Flexible Rearrangement\nFreely rearrange tabs and tasks to achieve your optimal workflow.\n\n\u25a0 Notification ",
+    "icon": "/icons/app.web.copypassword.png"
+  },
+  "air.com.beachbumgammon": {
+    "title": "Backgammon - Lord of the Board",
+    "package": "air.com.beachbumgammon",
+    "description": "Dive into the holiday spirit with Lord of the Board! Lord of the Board turns the classic backgammon game into the ultimate mobile experience! Test your skills as you play online with real opponents from all over the world. \n\nJoin the largest Backgammon community and dive into the classic world of this timeless board game, where strategy and skill come together for an unforgettable gaming journey. \n\nImmerse yourself in the Lord of the Board experience, where every move counts and every match brings a new challenge! Join Backgammon players worldwide in playing the ultimate online table game! \n\nLearn how to play live backgammon, master the complete strategy, and become the Backgammon king! Enjoy a vintage table game experience with classic backgammon sets, game dice, and gameplay.\n\nYou may be",
+    "icon": "/icons/air.com.beachbumgammon.png"
+  },
+  "all.backup.restore": {
+    "title": "SMS Backup & Restore",
+    "package": "all.backup.restore",
+    "description": "With SMS Backup & Restore, text message recovery app, you will never lose your data again!\n\nYou found the solution, one app to Backup and Restore SMS, Contact backup, Call Logs & More!\n\nYou can backup and restore: \nText messages, Apps, Contacts, SMS, Call Logs, and Calendars to your Storage and Drive. \n\n\ud83d\udd25The fast data backup and restore tool for Android - phone rescue! \ud83d\udd25\n\n\u26a1Phone Rescue - Contact backup and message recovery\u26a1\nIf you intend to do a factory reset on the phone, please make sure to back up your data on Storage and Drive. If not, please copy the entire backup folder (\"AllBackupRestore\" by default) to your phone's storage.\n\n\u26a1Automatic Back Up\u26a1\nIf you schedule automatic backups and you use some apps such as Task Killer or Memory Clear, please make sure you add SMS Backup & Restore ",
+    "icon": "/icons/all.backup.restore.png"
+  },
+  "appscodevalley.firstaid.emergency.techniques.medicines88": {
+    "title": "Emergency Techniques & Guides",
+    "package": "appscodevalley.firstaid.emergency.techniques.medicines88",
+    "description": "The First Aid - Emergency Techniques app is vital for saving a life. Basically when you give basic mediational care to a person who is experiencing a sudden illness. First aid in an emergency is the way of giving treatment to the person who is suffering from minor injuries and also serious injuries until the patient reaches the right destination for medication, to save the life.\n\nFirst aid - Emergency Techniques refer to the emergency or instantaneous care you should provide when someone is injured or sick until the full medication is available. For minor issues, first aid - CPR care may be sufficient. For serious issues, first aid care: in case of emergency should be accustomed until advanced care becomes available. Never always trust myths because it based on traditions and they don\u2019t ne",
+    "icon": "/icons/appscodevalley.firstaid.emergency.techniques.medicines88.jpg"
+  },
+  "appscodevalley.memes.funny.gif.generator.maker.creater22": {
+    "title": "Meme Maker Meme Generator",
+    "package": "appscodevalley.memes.funny.gif.generator.maker.creater22",
+    "description": "Create Memes is an act of fun, and it has become a trend nowadays. We saw many Funny Memes - Meme Stickers daily that circulate around different social sites. If you are a meme lover and wanna make some Funny Memes of different categories then you reached the right place, because the Meme Generator - Meme Editor app lets you make different amusing and hilarious Meme Stickers quickly and easily. Having more than 50+ Memes templates of different categories with captions makes the Create Meme more amazing. Now you can make your own high-quality Funny Memes with ease by Meme Generator - Gif Memes app. Moreover, you can make custom Funny Memes or Meme Stickers also with the help of Meme Creator - Meme Builder and share them with your friends over social sites and save them in your phone gallery",
+    "icon": "/icons/appscodevalley.memes.funny.gif.generator.maker.creater22.png"
+  },
+  "appthena.io.vanish": {
+    "title": "Vanish - Chat Anonymously",
+    "package": "appthena.io.vanish",
+    "description": "Vanish is a chat app for meeting new people and starting conversations right away. Create a simple profile, open the app, and chat with people who are online now. Whether you want to talk to strangers, make new friends, join a group chat, or just have someone to talk to when you are bored, Vanish makes it fast and easy to get started.\n\nNo long setup. No endless swiping. No wasting time. Just open the app, find people, and start chatting.\n\nVanish keeps things simple and private. You are not tied to a detailed profile or your real identity. You can jump in, be yourself, and talk freely without mixing your personal life into it.\n\nVanish is built for people who want real conversations in the moment. If you feel like talking now, you can jump in and start messaging straight away. You can meet r",
+    "icon": "/icons/appthena.io.vanish.png"
+  },
+  "apptech.arc": {
+    "title": "ARC Launcher\u00ae 2024 & 4D Themes",
+    "package": "apptech.arc",
+    "description": "Best and Top notch Launcher of 2021-2022-2023 , 2024 Launcher which is highly customizable & performance driven Arc Launcher with cool look themes and features\n\nMake your home screen extremely fast ,stylish easy safe and secure\n\nArc Launcher comes with 3D/2D Themes with all customization's you would desire for you phone, like themes on  Sci-fi and Futuristic ,gaming,superheroes,superstars and more. It is not just about the Science Fiction movies feel,  it has amazing performance driven features to save your 3x time daily\n\nArc Launcher TOP Features\n\u221a Live Themes ,premium themes,pre-made themes , wallpapers , DIY and more\n\u221a Inbuilt Music Player to control any music app within arc launcher\n\u221a Weather & News Update with 23+ languages & Countries\n\u221a  Icon Packs compatibility with Icon Packs avail",
+    "icon": "/icons/apptech.arc.png"
+  },
+  "apptech.arc.pro": {
+    "title": "ARC Launcher\u00ae Pro Themes DIY",
+    "package": "apptech.arc.pro",
+    "description": "\ud83d\udd25A highly customizable & performance driven 3D Launcher with  \u2764\ufe0f 4.5/5 Top Ratings on PlayStore , 64k+ User Reviews\ud83d\udd25\n\nMake Your Android Home Screen extremely Fast,Cool,Stylish,Small,Safe and easy to use\n\nArc 3D Launcher comes with Premium 3D Themes with all customizations you would desire for you phone, customize like anything in this 3D Sci fi Futuristic styled Launcher, it is not just all about the Science Fiction movies feel but it has so much performance \n\n\ud83d\udd25\ud83d\udd25TOP Core Arc Launcher 3D Features\ud83d\udd25\ud83d\udd25\n\n\u26a1\ufe0fArc 3d Launcher has built in\n\u221a Music Player\n\u221a News Update\n\u221a Weather Update\n\u221a Performance Centre\n\u221a To Do Notes and Reminder\n\n\u26a1\ufe0fArc AI Voice Assistant\n\u221a Arc Launcher loves to follow voice commands: just say \n\u221a Change Wallpaper\n\u221a Change Theme\n\u221a Open Youtube, Contacts etc To launch App\n\u221a Add Conta",
+    "icon": "/icons/apptech.arc.pro.png"
+  },
+  "ar.com.lrusso.taxicalculator": {
+    "title": "Taxi Calculator",
+    "package": "ar.com.lrusso.taxicalculator",
+    "description": "Free App that allows a taxi driver to control the income that gets from every trip in a taxi and to get different charts about how much money was made by hours or month.\n\nJust record every trip and how much money you earn in a fast and easy way in order to know the income of the day and in the current month. Generate charts tu know how much money was made by working hours or in the entire month.\n\nGetting in control of your income has never been that easy!",
+    "icon": "/icons/ar.com.lrusso.taxicalculator.png"
+  },
+  "arproductions.andrew.worklog": {
+    "title": "Work Log",
+    "package": "arproductions.andrew.worklog",
+    "description": "Work Log is a quick, easy and free way to keep track of your shifts and calculate the number of hours worked and wages paid over your pay period. \n\n\n\u2605 Fast, simple and straightforward way to track your hours, expenses, tips, mileage and more\n\n\u2605 Save time with features like automatic break deduction and pay period settings\n\n\u2605 Use widgets to punch in and out quickly, or as a shortcut to add a new shift. (tap on the punch in time to cancel it)\n\n\u2605 Punch In and out, or enter your hours manually\n\n\u2605 Customize how Work Log looks with options like date and time formatting, when your week starts and a light or dark theme\n\n\u2605 View your hours in a variety of ways such as by week, month, pay period or all of your shifts at once\n\n\u2605 Set your pay period to automatically calculate how many hours you worked ",
+    "icon": "/icons/arproductions.andrew.worklog.png"
+  },
+  "ascendik.drinkwaterreminder.hydration.watertracker.drinkwater": {
+    "title": "Drink Water Reminder & Tracker",
+    "package": "ascendik.drinkwaterreminder.hydration.watertracker.drinkwater",
+    "description": "Stay hydrated and healthy with our water tracker app! This app is your ultimate drink water reminder, ensuring you never miss a sip. Perfect for those on a weight loss diet, it helps maintain optimal hydration levels, preventing dehydration. Track your H2O intake with ease and get personalized water drinking reminders. Whether you\u2019re aiming for better skin health, disease prevention, or just want to keep your liquid intake in check, this app is your go-to solution. Download now and let our water tracker guide you to a healthier lifestyle! \ud83c\udf4f\n\n\nFeatures: \n\n\ud83d\udca7 Personalized water intake - Based on your weight and gender, drink water reminder app will recommend your daily water intake to prevent dehydration. H2O can also improve your skin health and help with a weight loss diet.\n\n\ud83e\udd64 Long list of ",
+    "icon": "/icons/ascendik.drinkwaterreminder.hydration.watertracker.drinkwater.png"
+  },
+  "au.com.scbrokers.calc": {
+    "title": "Loan Calculators",
+    "package": "au.com.scbrokers.calc",
+    "description": "SC Loan Calculator is designed to provide buyers, borrowers and related professionals with easy access to calculators that compute loan repayment, stamp duties, buy vs rent comparisons, borrowing capacities, budget planners and much more all in one application!\n\n- Loan Repayment Calculator\n- Borrowing Power Calculator\n- Stamp Duty Calculator\n- Mortgage Switching Calculator\n- Rent vs Buy Calculator\n- Income Annualisation Calculator\n- Budget Planner\n- Saving Plan Calculator",
+    "icon": "/icons/au.com.scbrokers.calc.png"
+  },
+  "autoparts.shop": {
+    "title": "Buycarparts: car parts, tyres",
+    "package": "autoparts.shop",
+    "description": "Buycarparts is a great app for quickly and safely finding the right  spare parts for your car.  \nUsing Buycarparts on your smartphone gives you lots of tangible advantages.\n\nSavings:\n- Always low prices\n- Free delivery with purchases over 120 \u20ac.\n- Discounts and special offers.\n- Personalised offers.\n- Deposit account.\n\nPromptness:\n- Over 1,000,000 spare parts for 1234 models by 45 car makers in one catalogue. \n- Convenient, user-friendly and intuitive car parts catalogue.  \n- Prompt shipping to over 200 countries worldwide.\n- Orders processed and ready to ship within 24 hours. \n- Speedy response to any of your queries. \n\nSafety and Convenience:\n- Quality parts from trusted suppliers only.\n- Minimum 2 years of guarantee on all item selection.\n- Delivery by DHL, UPS, GLS.\n- Option to return "
+  },
+  "asav.roomtemperature.us": {
+    "title": "Room Temperature Thermometer",
+    "package": "asav.roomtemperature.us",
+    "description": "Room Temperature Thermometer and Meter Measure temperature unit type Celsius \u00b0C, Fahrenheit \u00b0F, and Kelvin \u00b0K. Measure room temperature and indoor temperature.\n\nIndoor Thermometer for Room Temperature helps you to get estimate room temperature of room or your environment. Simple thermometer measures ambient temperature inside and outside. Room thermometer app can displays the current room temperature and thermometer also gives temperature of CPU and also for your room and office. Today Thermometer App measures current temperature with accurate digital thermometer tool. Features: - Current temperature, Humidity Calculator, CPU Processes, CPU Temperature, Smart thermometer, Feels Like temperature, battery temperature meter.\n\n\nSimple designed indoor and ambient thermometer app measures accura",
+    "icon": "/icons/asav.roomtemperature.us.png"
+  },
+  "battery.clean.master.antivirus.ora": {
+    "title": "Ora Battery, Cleaner Antivirus",
+    "package": "battery.clean.master.antivirus.ora",
+    "description": "With Ora Battery, you can estimate the battery life and how long the charge is needed. Your Android device will run safely, and store more data by cleaning junk, antivirus, app manager, and many handy tools. Ora Battery is a handy device manager & junk cleaner tool that helps you master your device easily.\n\nEstimate Battery Life\n\u2714 Estimate how long your phone can stand by \n\u2714 Estimate how long your phone can be fully charged when charging\n\nAdvanced app remover & app manager\n\u25ba App analyzer: Ora Battery can identify apps that overuse mobile data, or take up too much storage space, allowing you to clean them out more easily\n\u25ba Easily analyze apps based on storage, data consumption, or usage\n\u25ba Find the APK files that have been installed\n\nOra Battery top features\n\u2714 Junk Cleaner - Clean out any us",
+    "icon": "/icons/battery.clean.master.antivirus.ora.png"
+  },
+  "au.com.parrotfish.phonemic.lite": {
+    "title": "Phonics - Sounds to Words",
+    "package": "au.com.parrotfish.phonemic.lite",
+    "description": "Start off learning the sounds a, m, s, t and the revision level. One In-App purchase gives you access to the remaining levels and sounds - no more to pay. \n\nNo internet access required and no adds.\n\n** ideal for beginning readers, pre-schoolers about to start school, kindergarten kids, and those having difficulty with reading. It is a companion to our Parrotfish Sight Words app **\n\nUnderstanding language, learning sight words and learning how sounds make words through a structured phonics program are proven to be the best ways for kids to learn to read. \n\nThis is a complete structured approach to teaching beginning phonics. When completed children should be able to read, write and spell simple words such as cat and fan, and blends such as brush and hang. (For teachers this covers single so",
+    "icon": "/icons/au.com.parrotfish.phonemic.lite.png"
+  },
+  "audio.equalizer.volume.booster": {
+    "title": "Volume Booster - Sound Speaker",
+    "package": "audio.equalizer.volume.booster",
+    "description": "Volume Booster - Loud Sound Speaker & Equalizer is a powerful app to boost volume of your phone and tablet louder, boost the volume of megaphones and headphone.\nVolume Booster & Extra Loud Sound Speaker helps super boost your Volume, Music, Speaker, Audio, Voice. Making the all sounds of your device much louder. Useful for movies, audio books, music and games. It not only work for your phone or tablet, but also works for your headphone and external speaker. \ud83d\udce3\ud83c\udfba\n\nVolume Booster & Equalizer improve your music quality and amplify bass. This max volume booster for android helps you adjust the sound\u00a0effects with 5/10 band equalizer, bass booster, 3D virtualizer, Stereo surround sound effects, sound booster! \ud83c\udf1f\ud83c\udf88\n\n\ud83d\ude80Volume Booster & Loud Sound Speaker\n* Max volume booster, boost volume up to 200%\n* ",
+    "icon": "/icons/audio.equalizer.volume.booster.png"
+  },
+  "audio.volume.booster.sound.equalizer": {
+    "title": "Volume Booster - Loud Speaker",
+    "package": "audio.volume.booster.sound.equalizer",
+    "description": "Volume Booster is an amazing, light and free Sound Booster, loud sound speaker, max volume booster & Amplifier for all your sounds stronger and clearer. Volume booster & Sound Booster increases the phone volume up higher than the system defaults, making\u00a0the all sounds and audio of your device much louder.\ud83d\udce3\ud83d\udd25      \nSuper Volume Booster for all music lovers and users who need super loud device voice!\nWhether you're listening to music, playing games, watching movies or watching videos online in your browser, this Volume Booster will work for you.\u00a0Also uses just as great as an extreme volume booster for headphones, external speakers & Bluetooth.\ud83c\udfb8\ud83c\udfbb\n\n\ud83c\udfb7 Volume booster & Sound Booster\n* Max volume booster, boost volume up to 200%\n* Fast to adjust,volume boost slider, or 30% 60% 100% max button\n* Ef",
+    "icon": "/icons/audio.volume.booster.sound.equalizer.png"
+  },
+  "beauty.camera.coocent": {
+    "title": "Beauty Camera - Selfie Camera",
+    "package": "beauty.camera.coocent",
+    "description": "Beauty Camera - Selfie Camera (ButyFace) is a comprehensive beauty camera and photo/video editing app that meets all your needs. With the help of Beauty Camera \u2013 Sweet Snap, you can make every moment more special. Beauty Camera & Sweet Camera is packed with professional editing tools and various effects to enhance your selfies. \ud83d\udcf7\n\nOne of the standout features of Beauty Camera - Selfie Camera (Beauty Face Makeup Camera) is its collection of amazing and beautiful color filters, ideal for daily selfies. The beauty face camera function also helps you achieve flawless and clean skin, using natural beauty camera beauty techniques. \ud83d\udcaf\n\nFurthermore, this app allows you to beautify your selfies with just one tap. You can whiten your teeth, smoothen your skin, and reshape your face effortlessly. With",
+    "icon": "/icons/beauty.camera.coocent.png"
+  },
+  "be.rodekruis.FABL": {
+    "title": "First Aid in Africa",
+    "package": "be.rodekruis.FABL",
+    "description": "The First Aid in Africa from the Red Cross app puts all the information you need about first aid in your pocket. Moreover, all our content is evidence-based!\n\nIntroduction\nCan you administer first aid? Every year 7.6 million people are injured in an accident. With the updated First Aid app of the Belgian Red Cross Flanders, you always have reliable information on how to act in case of these accidents, both in an urban and rural context. Whether it's a snake bite, severe bleeding, choking, or fever, the app clearly tells you what to do in an emergency. You can also use the app for first aid in a road accident or when somebody fell into a pit and has broken limbs. With the official First Aid app of the Belgian Red Cross Flanders (in collaboration with your local Red Cross), you are always pr",
+    "icon": "/icons/be.rodekruis.FABL.png"
+  },
+  "beautyhut.magic.beauty.makeup.camera": {
+    "title": "Magic Beauty Makeup Camera",
+    "package": "beautyhut.magic.beauty.makeup.camera",
+    "description": "Instant make your desired photo more beautiful, give yourself a full magic virtual makeover, and take your selfie photo with a magic camera. It\u2019s professionally designed by our experts to enhance the best pictures and selfie photos for a perfect.\n\nMagic selfie beauty camera is powered by AI to perfectly face tune selfies. Edit photos like a pro and have flawless selfies with the makeover app. amazing photo editing tools such as neon spirals and drip effects will take your pics art experience to the next level. Fabulous picture editor and face editor also offers a beauty camera for auto retouch or snapping selfies with funny selfie camera filters.\n\nPretty Makeup Camera | Filter Makeup Photo Editor is a beauty photo editor, \ud83d\ude18for you with a makeup function and you can make your face more beau",
+    "icon": "/icons/beautyhut.magic.beauty.makeup.camera.png"
+  },
+  "beauty.camera.makeup.filter": {
+    "title": "Makeup Camera & Selfie Editor",
+    "package": "beauty.camera.makeup.filter",
+    "description": "\ud83d\udcf8 Blushify is a all-in-One Beauty Camera \u2013 Your Personalized Makeup & Selfie App!\n\nWant perfect makeup, natural beauty effects, and stunning selfies in seconds?\nThis all-in-one beauty camera has everything you need \u2014 makeup tools, face editing, filters, and AR effects \u2014 to help you look your best anytime, anywhere!\n\n---\n\n \ud83d\udc84 Powerful & Easy Makeup Tools\nFrom subtle to bold, create your signature look with ease:\n\n- \ud83d\udc8b Lipstick \u2013 Try vibrant or natural shades for every mood  \n- \ud83c\udf38 Blush \u2013 Add a healthy glow and fresh cheeks  \n- \ud83d\udc40 Colored Contacts \u2013 Instantly change eye color for a new vibe  \n- \ud83d\udd8c Eyebrows \u2013 Shape and fill for a polished look  \n- \u2728 Eyelashes \u2013 Long, lush lashes in one tap  \n- \u270f\ufe0f Eyeliner \u2013 Define and shape your eyes perfectly  \n- \ud83c\udfa8 Eyeshadow \u2013 Layer colors for a 3D eye effect  \n-",
+    "icon": "/icons/beauty.camera.makeup.filter.png"
+  },
+  "bibi.pet.games.dinosaurs": {
+    "title": "Bibi Dinosaurs games for kids",
+    "package": "bibi.pet.games.dinosaurs",
+    "description": "Bibi.Pet Dinosaurs will take you back in time to discover the prehistoric world.\nTogether with the T-Rex, the Triceratops and all the others, you will be able to have fun with lots of educational activities designed for pre-schoolers.\n\nYou will be able to draw on the rocks, put together dinosaur puzzles, play memory games, develop logical reasoning and fine motor skills with pairing activities.\n\nAnd as always, Bibi.Pet will accompany you as you discover all the educational activities available.\nSuitable for ages 2 to 5 and designed together with experts from the educational field.\n\nThe funny little animals that live there have particular shapes and speak their own special language: the Bibi\u2019s language, which only children can understand.\nBibi.Pet are cute, friendly and scatterbrained, and ",
+    "icon": "/icons/bibi.pet.games.dinosaurs.png"
+  },
+  "bid.myfont.app": {
+    "title": "Quick Font Creator",
+    "package": "bid.myfont.app",
+    "description": "Quick Font Creator is a professional tool built for type designers and lettering enthusiasts who want to transform their handwriting into a real font file. Before getting started, we assume you already know what TTF means and have a basic understanding of Unicode.\n\nExporting fonts is a paid feature\u2014but keep in mind, this is the only app available today that can generate full TTF fonts natively on a mobile device. No internet connection required, no waiting for uploads, no scanning paper sheets\u2014your strokes turn into a font file instantly, right on your phone.\n\nHere\u2019s what makes it special:\n\n\u2728 Key Highlights\n\u270f\ufe0f Effortless workflow: Draw directly on the screen, tap Generate, and you\u2019ll instantly have a ready-to-install font\u2014no vectors, no complex settings.\n\u23f1\ufe0f Lightning fast results: Most use",
+    "icon": "/icons/bid.myfont.app.png"
+  },
+  "bloodpressure.tracker.bp.monitor.log.systolic.diastolic.reminder": {
+    "title": "Blood Pressure Tracker",
+    "package": "bloodpressure.tracker.bp.monitor.log.systolic.diastolic.reminder",
+    "description": "Blood Pressure Tracker turns scattered readings into a clear trend line your doctor can act on. Log systolic and diastolic values in seconds, track medication effects across weeks, and walk into your next appointment with a report instead of numbers scribbled on paper.\n\nBuilt for people managing hypertension, prehypertension, white coat hypertension, masked hypertension, resistant hypertension, and the comorbid diabetes and kidney disease that make blood pressure control a daily priority.\n\n\ud83d\udccb BLOOD PRESSURE LOGGING\nCapture every reading with context:\n- Systolic and diastolic entry with classification (normal, elevated, stage 1, stage 2, crisis)\n- Pulse rate and irregular heartbeat flag\n- Time of day and arm used\n- Position: sitting, standing, lying down\n- Before or after medication\n- Home, ",
+    "icon": "/icons/bloodpressure.tracker.bp.monitor.log.systolic.diastolic.reminder.png"
+  },
+  "bebi.family.games.dino.world": {
+    "title": "Fun Dinosaur Games for Kids",
+    "package": "bebi.family.games.dino.world",
+    "description": "Welcome to Dino World - a calm, kid-safe collection of dinosaur games made for real family life. If you\u2019re comparing games for toddlers, think quick rounds, big easy taps, and gentle \u201cyou did it!\u201d moments. It fits the small pockets of the day - five minutes before dinner, a quiet couch break, a short ride - so your child can play, succeed, and move on feeling proud.\n\nWhy parents choose it\nBuilt for ages 2\u20135: gentle toddler games for 3 year olds that grow in small, confidence-building steps.\nPlay that teaches: bite-size toddler learning games blend puzzles, matching, sorting, caring, and simple dino facts - kids learn while they play.\nFriendly by design: clear goals, kind sounds, easy controls - more focus than noisy baby games and endless clips.\n\nWhat kids do (and learn)\nPuzzles & building",
+    "icon": "/icons/bebi.family.games.dino.world.png"
+  },
+  "biggiant.prisonescape": {
+    "title": "Prison Escape Puzzle Adventure",
+    "package": "biggiant.prisonescape",
+    "description": "ESCAPE GAME \u2013 FIND CLUES, ITEMS & SOLVE PUZZLES TO ESCAPE\nDo you love the thrill of escaping the prison adventure games?\nOr maybe you like to challenge your brain with mind teasing challenges of escape room puzzles?\n\nA blend of prison escape and puzzle adventure, in Prison Escape Puzzle you need to find a way out by using your mind and logic.\n\nCan you escape the prison and complete all escape puzzles? Prove that you are the master evader by solving the puzzle prison / prigione scaping challenges.\n\nESCAPE PRISON\nYou suddenly find yourself charged as a criminal and locked up in an old city prison in Alcatraz. You quickly realize that you need to play the role of prison escapist and survive. Solve puzzles and find items that will aid you in your\nescape. Delight your mind by playing the follow",
+    "icon": "/icons/biggiant.prisonescape.jpg"
+  },
+  "beauty.skin.care.app": {
+    "title": "Skincare and Face Care Routine",
+    "package": "beauty.skin.care.app",
+    "description": "Embark on a journey to radiant skin with our comprehensive skincare app. Discover a treasure trove of expert-approved tips, tricks, and routines tailored to your unique skin type. From gentle cleansing techniques to nourishing face masks and targeted treatments, we've got you covered. Unlock the secrets to achieving a flawless, glowing complexion with our user-friendly interface and personalized guidance. Say goodbye to skin woes and hello to confidence!\n\nEveryone wants to look beautiful. The skincare routine is part of each woman's life. The face care app for beauty tips suggests the most appropriate daily face care tips. Also, get your personalized skin advisor in the skin and face care app.\n\nUnlock the secrets to flawless skin with our skincare app. Get personalized advice, daily tips, ",
+    "icon": "/icons/beauty.skin.care.app.png"
+  },
+  "block.puzzle.game.stack.classic": {
+    "title": "Block\u00a0Puzzle:\u00a0Stack\u00a0Infinity",
+    "package": "block.puzzle.game.stack.classic",
+    "description": "Explore the infinite challenges of Block Puzzle: Stack Infinity, a captivating puzzle game that promises endless fun and brain-teasing excitement! \ud83d\ude03\ud83d\ude80\n\nBlock Puzzle: Stack Infinity immerses you in the timeless joy of classic block puzzle gameplay, offering a soothing yet intellectually stimulating experience designed to relax your mind and sharpen your strategic skills. Whether you're into puzzle games, brain games, or challenging block puzzles, this game is suitable for you.\ud83c\udf89\ud83d\udd79\ufe0f\n\n\ud83d\udca5\ud83d\udcaaGame Features\ud83e\udde9\ud83d\udca1\n\u25cf Offline Accessibility: No WIFI? No problem! Enjoy the game anytime, anywhere, without an internet connection. Perfect for unwinding at home or keeping yourself entertained on the go.\ud83d\udcaa\n\u25cf Enjoyable Graphics and Sounds: Immerse yourself in the game's stunning graphics and delightful sound effects, ",
+    "icon": "/icons/block.puzzle.game.stack.classic.jpg"
+  },
+  "bodyeditor.photoeditor.makeup.face": {
+    "title": "Body & Face Editor",
+    "package": "bodyeditor.photoeditor.makeup.face",
+    "description": "Body & Face Editor app is the best photo editing app to enhance your natural beauty and reshape your body with powerful editing tools - all in just a few taps!\n\nUsing this body editor app, reshape your body curves, enlarge breasts and hips, slim your waist, smooth your skin, or even increase your height, and much more. This powerful photo editor has all the tools to help you instantly give your simple photos the perfect look.\n\nYou don't need any editing skills - select your photo, use any of the body editor tools, and get amazing results in seconds!\n\n\u2728Body & Face Editor Key Features:\n\n\ud83d\udd25 Body Shaper\n- Slim your waist, reshape your body, or enhance your curves. Make your body fit and stylish with Body Editor.\n\n\ud83d\udc40 Face Editor\n- Edit your face to look slimmer and more beautiful with the Face Ed",
+    "icon": "/icons/bodyeditor.photoeditor.makeup.face.png"
+  },
+  "blockpuzzle.new1010.jewelgames.puzzlegames": {
+    "title": "Block Puzzle",
+    "package": "blockpuzzle.new1010.jewelgames.puzzlegames",
+    "description": "\ud83c\udf08 Block Puzzle\u2014A Classic Matching Puzzle, Stress-Free Game to Help you Relax and Rebuild Focus!\n\n\u2728 OFFLINE & FREE! No timers. No pressure. Just pure brain-soothing fun!\n\nHow to Play?\n\ud83d\udc49 Just drag the blocks to fill up the lines to eliminate them.\n\ud83d\udc49 Clear all blocks on the board to beat the levels.\n\ud83d\udc49 Success with your high score and compete with other players!\n\nGame Features\n\u2714 Simple and free to play but challenging to master.\n\u2714 Train your brain and develop your logical ability.\n\u2714 For all ages. Block games for kids and adults.\n\u2714 A Tetris-like creative block puzzle free game.\n\u2714 Thousands of puzzle levels with various goals.\n\u2714 Ranking with players from all over the world.\n\u2714 Play games without the internet without wifi.\n\u2714 Free offline game to download and play.\n\n\ud83d\udc8e Block Puzzle fun block game is",
+    "icon": "/icons/blockpuzzle.new1010.jewelgames.puzzlegames.png"
+  },
+  "bodyfast.zero.fastingtracker.weightloss.fastic.lifefasting.yazio": {
+    "title": "Fasting + Intermittent Fasting",
+    "package": "bodyfast.zero.fastingtracker.weightloss.fastic.lifefasting.yazio",
+    "description": "Intermittent Fasting Tracker app for women and men. Lose Weight effectively without dieting and yo-yo effect.\n\nIf you want to lose weight, improve metabolic health, heart health, gut health, mental clarity, and blood sugar regulation, or start your journey towards a healthier and happier lifestyle then our intermittent fasting app is perfect for you. With the help of our intermittent fasting tracker free app you can easily achieve all the above-mentioned goals in a few weeks with zero restrictions on your diet. This is what makes our fasting timer app unique and more powerful than other intermittent fasting tracker free apps.\n\nFasting + Intermittent Fasting is a user-friendly and easy-to-use intermittent fasting tracker free app that is made for those people who want to lose weight through",
+    "icon": "/icons/bodyfast.zero.fastingtracker.weightloss.fastic.lifefasting.yazio.png"
+  },
+  "bludocs.iconpack.poppin": {
+    "title": "Poppin icon pack",
+    "package": "bludocs.iconpack.poppin",
+    "description": "Poppin icon pack is delivered in its FULL VERSION, \"in-app purchases\" are reserved for donations, which means that there are no paid features.\n\nThe icons of Poppin are drawn High Definition, you can increase or decrease the size with your Launcher without losing quality.\n\nI designed Poppin icon pack by drawing all the icons by hand.\nThis gives him much of his originality. \nA cartoon style with a little bit of humor. \n\nPoppin is for the whole family, from the smallest to the biggest.\nI hope you enjoy it.\nPoppin icon pack works as a gallery so users are able to pick pictures\nto use them in other apps.\nPoppin icon pack can work offline.\nOption to change app theme (Light, Dark, Amoled, Transparent, Auto-Dark, Auto-Amoled).\n\n\nPoppin uses the following launchers:\n\n- Nova\n- Action\n- ADW\n- ADW Ex\n",
+    "icon": "/icons/bludocs.iconpack.poppin.png"
+  },
+  "br.com.bondia.iching": {
+    "title": "I-Ching: Book of Changes",
+    "package": "br.com.bondia.iching",
+    "description": "The most complete App for IChing study and oracular consultation.\n\nFeatures:\n\n- Full translation to portuguese and english\n\n- Oracle and full trigram/hexagram reference, including changing lines information\n\n- Allows you to store and put notes for your consultations\n\n- Generation of related hexagram, where applicable\n\n- Introductory information to the bases of the I-Ching\n\n- Structured references of all the trigrams and hexagrams, with useful search features\n\n- The reference material is based on Richard Wilhelm translation (book prefaced by C.G.Jung)\n\n- Full offline functionality (does not require internet connection)\n\n- Algorithm of randomness based on the method of rods (for those who do not know, in the method of the rods, the occurrences between mutable yins and yangs are not equal, ha",
+    "icon": "/icons/br.com.bondia.iching.png"
+  },
+  "br.com.davesbalthazar.metronome_bpm_digital": {
+    "title": "Metronome Beat Tempo and Tap",
+    "package": "br.com.davesbalthazar.metronome_bpm_digital",
+    "description": "The BPM Digital Metronome lets you play different types of beats in measures 2/4, 3/4, 4/4 or any other measure.\n\nDifferent types of metronome sounds for you to record or study.\n\nVisual indication of beats per minute BPM and Tap Button.\n\nCreated and used by musicians, you can train your favorite musical instrument like acoustic guitar, guitar, bass, keyboard or drums using the metronome to improve your accuracy in hitting the correct tempo.\n\nThe TAP function allows you to find the BPM of a song, following the beats of the original song.\n\nRequested features such as:\n- running in the background, keep listening to the metronome while using your mobile.\n- Different metronome sounds\n- Tap Function\n- Easy and simple to use look\n- Choose the tempo and beat",
+    "icon": "/icons/br.com.davesbalthazar.metronome_bpm_digital.png"
+  },
+  "bubble.level.ruler.pro": {
+    "title": "Bubble Level PRO",
+    "package": "bubble.level.ruler.pro",
+    "description": "This is ad-free (no ads) version of Bubble level.\nDetect inclination easily with this precise bubble level app. Where can you use bubble ruler? It is mostly used in carpentry, construction, and photography. To hang a painting on the wall, or to level a table, you just need to put your Android device against the wall and make sure the bubble in the tube travels in the center position. Simple and portable.\n\nThis Bubble Level app provides not just spirit level, but also a straight ruler and 2D ruler, making the measurement more comprehensive. The tools in this Bubble Ruler is user-friendly. In the ruler functions, you can change the unit of the measurement, and in the bubble level function, you can lock the interface and change the bubble level mode. \n\nTips\nPlace the device on a relatively fl",
+    "icon": "/icons/bubble.level.ruler.pro.png"
+  },
+  "br.noises.relax.rain": {
+    "title": "Rain Sounds - Sleep and Relax",
+    "package": "br.noises.relax.rain",
+    "description": "Unwind, relax, and fall asleep faster with Rain Sounds - Sleep and Relax. Enjoy a collection of high-quality rain sounds carefully selected to help you sleep better, meditate, focus, or simply find peace. Whether you prefer a gentle drizzle, a distant thunderstorm, or rain by the ocean, you\u2019ll find the perfect soundscape here.\n\n\ud83c\udfa7 Features:\n\nHigh-quality rain and nature sounds\n\nCreate your own mix by combining different sounds\n\nAdjustable volume for each sound\n\nBeautiful and minimal interface\n\nLight and dark themes\n\nWorks offline \u2014 no internet needed\n\nSleep timer & alarm clock\n\nSave your favorite combinations\n\nWorks with other music or relaxation apps\n\n\ud83c\udf27\ufe0f Types of rain you\u2019ll find:\n\nLight rain\n\nHeavy rain\n\nThunderstorm\n\nRain on leaves\n\nRain on roof\n\nRain by the beach\n\nAnd many more...\n\nIf y",
+    "icon": "/icons/br.noises.relax.rain.png"
+  },
+  "br.com.zeroum.oxford.bigquestions": {
+    "title": "Big Questions Quiz Game",
+    "package": "br.com.zeroum.oxford.bigquestions",
+    "description": "Big Questions is a quiz game with content from Oxford University Press. Play on your own or against your friends in an exciting multiplayer contest that tests your knowledge. Choose your favourite topics and prove you're the best at answering questions!\n\nFEATURES\n\u2022 Designed by language learning specialists\n\u2022 Interactive quiz game that tests your skills using text, images, audio and speech\n\u2022 Hundreds of questions across 16 topics: numbers, colours, time, school, people, home, food & drink, animals, things, free time, health, travel, technology, environment, science and lucky dip (a variety of topics)\n\u2022 Choice of three ability levels to suit the language level of the learner: Easy, Medium, Hard\n\u2022 Suitable for use in the classroom, at home or on-the-go\n\u2022 Single-player or Multiplayer mode usin",
+    "icon": "/icons/br.com.zeroum.oxford.bigquestions.png"
+  },
+  "breakthroughapps.com.mcyogi": {
+    "title": "MC YOGI - Yoga and Meditation",
+    "package": "breakthroughapps.com.mcyogi",
+    "description": "Elevate your life through yoga, meditation, and creativity with the MC Yogi: Yoga & Meditation app. Subscribe to the app and join world-renowned artist and yoga teacher MC Yogi for transformative classes, daily inspirations, and a vibrant community\u2014all designed to help you feel healthier, calmer, and more connected.\n\nBuild the ultimate yoga and meditation habit to achieve your goals, from reducing stress and increasing mindfulness to enhancing flexibility and unlocking creative flow. Practice full-length yoga classes, guided meditations, or quick mindfulness routines wherever you are.\n\nStay motivated with tools like streak tracking and daily quotes, helping you build a consistent practice to bring more peace, joy, and energy into your life.\n\nPerfect for all levels\u2014whether you\u2019re just start",
+    "icon": "/icons/breakthroughapps.com.mcyogi.jpg"
+  },
+  "bubble.level.spirit.level.ruler.tools": {
+    "title": "Bubble Level - Spirit Level",
+    "package": "bubble.level.spirit.level.ruler.tools",
+    "description": "The Bubble Level & Ruler is an incredibly useful portable tool that we provide on smartphones, offering three types of level tools: horizontal, vertical, and planar bubble levels. It displays the current tilt angle of your phone in real-time and can be calibrated at any time.\n\nAt the same time, we also offer rulers with both centimeters and inches, allowing you to measure actual distances using your smartphone.\n\nBy effectively combining the bubble level and ruler, you can easily complete various complex combination measurements, such as hanging pictures, checking if a table is level, determining nail positions, and many other common household tasks. It's very practical.\n\nThe Bubble level tool is free to use forever. Download and try it out now!",
+    "icon": "/icons/bubble.level.spirit.level.ruler.tools.png"
+  },
+  "bucket.list.life.goals": {
+    "title": "Future Life Goals Planner",
+    "package": "bucket.list.life.goals",
+    "description": "Future Life Goals is an offline app. This app will help you to organize and manage your future goals, targets and bucket list. Also you can track your saving using the same app.\n\nFeatures \n01. Filter list items under 3 tabs (Pending, Achieved and All)\n02. Create Multiple Lists (Premium Feature)\n03. You can categorize your life goals\n04. Create multiple categories\n05. Track money savings to achieve your goals\n06. Clean UI\n07. Responsive\n\nSo if you are looking for an app to manage your future life goals list or any other list, Download this app. You will not regret !\n\nContact us:\napps@flivion.com\n\nWebsite:\nhttps://www.flivion.com/apps",
+    "icon": "/icons/bucket.list.life.goals.jpg"
+  },
+  "bubble.tea.sort.boba.diy.sorting.games": {
+    "title": "Bubble Tea Sort: DIY Boba Tea",
+    "package": "bubble.tea.sort.boba.diy.sorting.games",
+    "description": "Get casual boba DIY here! Welcome to casual bubble tea Sort world with heart-warming and charming!\n\nCasual boba games that no DIY boba tea drink fanatics can resist in casual cute games! Mix, match, and serve up a plethora of bubble tea flavors in the most adorable cat boba tea shop environment. Cute casual boba games for all bubble tea fans out there! With its simple yet challenging mechanics and cute aesthetics in cute games, you can become an excellent cat boba tea Maker by playing bubble tea Sort, the ultimate culmination of boba DIY cute games.\n\nHow to Play boba games in bubble tea Sort: \n- As a boba DIY shop owner and cat boba tea Maker, you need to sort an array of bubble tea ingredients and cater to fanatics by serving up diverse beverages! Simply accept an order, align the appropr",
+    "icon": "/icons/bubble.tea.sort.boba.diy.sorting.games.png"
+  },
+  "camsurf.com": {
+    "title": "Camsurf: Chat Random & Flirt",
+    "package": "camsurf.com",
+    "description": "Camsurf is a free video chat messenger app for making new friends, finding a date or simply meeting random strangers instantly cam to cam. \n\nOn Camsurf you can:\n\u25cf Talk to people from 200+ countries \n\u25cf Video chat anonymously without logging in\n\u25cf Instant cam to cam chat with strangers\n\u25cf Filter connections by location and language \n\u25cf And much more\u2026\n\n\u25b7 Be Social: Flirt & Date or Find Friends Worldwide\n\nCamsurf is a social network that was created to bring people together from around the world. Since launching in 2015 Camsurf has helped make over a BILLION connections and is now the fastest growing social app for meeting strangers! \n\n\u25b7 Free Random Chat Messenger\n\nCamsurf is already the fastest growing random video chat site on the web and with our brand new Android app you can enjoy all the fea",
+    "icon": "/icons/camsurf.com.webp"
+  },
+  "cc.underthehood.lutin.app": {
+    "title": "Routineday Daily Habit Tracker",
+    "package": "cc.underthehood.lutin.app",
+    "description": "Routineday is a\nRoutine \u00b7 Todo \u00b7 Journal app\nthat lets you build habits at\nyour own pace and in your own way.\n\n[\ud83d\udc4d Ideal if you]\n- Want to develop healthy habits\n- Struggle to stick to your plans\n- Tend to forget your todos\n- Want to make your days more meaningful\n- Want to track habits and journal your progress\n- Want flexibility beyond daily routines (like twice a week)\n\nWhether you love detailed planning or prefer flexible routines,\nRoutineday makes it easy to start and keeps consistency effortless.\n\n[\ud83d\udcac What Users Are Sayin]\n- \"Tried so many habit apps, but finally found 'The one'. Love it!\"\n- \"First time seeing such flexible repeat options and explained so well!\"\n- \"Routine notes & flexible days? Just what I needed!\"\n- \"UX is super intuitive. Everything works just as expected.\"\n- \"Tried",
+    "icon": "/icons/cc.underthehood.lutin.app.jpg"
+  },
+  "ch.gridvision.pbtm.androidtimerecorder": {
+    "title": "Time Tracker - Timesheet",
+    "package": "ch.gridvision.pbtm.androidtimerecorder",
+    "description": "Gleeo Time Tracker is a simple and easy to use time tracking tool, optimized for your touch-screen device. \n\nRecord time with minimal effort, easily switch between projects and tasks, or access on-the-fly statistics to see your recorded times at a glance.\n\nFeatures\n\n\ud83d\udd38 Create Projects and assign Tasks to them.\n\ud83d\udd38 Enter unique details for each time entry.\n\ud83d\udd38 Record multiple tasks at the same time.\n\ud83d\udd38 Alternatively enter time ranges manually.\n\ud83d\udd38 Edit existing data in the timeline.\n\ud83d\udd38 Organize your entries by high-level domains, projects, and individual tasks.\n\ud83d\udd38 Turn each domain on or off to easily organize and view different kinds of activities.\n\ud83d\udd38 on-the-fly reports for a fast overview.\n\ud83d\udd38 Optional backup to local memory and to Google drive.\n\ud83d\udd38 Export and import data in CSV format, and analyze your ",
+    "icon": "/icons/ch.gridvision.pbtm.androidtimerecorder.png"
+  },
+  "camera.magnifying.glass.magnifier": {
+    "title": "Magnifier",
+    "package": "camera.magnifying.glass.magnifier",
+    "description": "Magnifier is the simple tool that helps you see the details that matter. Whether you're reading fine print, examining tiny objects, or trying to make out text in low light, Magnifier makes it quick and easy. \ud83c\udf81\ud83c\udf89\n\nKey Features:\n\ud83d\udd0d Smooth Zoom Control: Zoom in up to 10x to see things clearly.\n\ud83d\udca1 Built-in Flashlight: Instantly light up dark spaces.\n\ud83d\udcf8 Capture & Save: Snap and save images with a tap.\n\ud83d\uddbc\ufe0f Image Gallery: View, share, or delete saved images anytime.\n\ud83e\uddca Freeze Frame: Pause the live image for steady viewing.\n\ud83c\udf1e Adjust Brightness: Find your ideal screen brightness for any environment.\n\nIdeal For:\n\ud83d\udccd Reading small print on packaging, receipts, or documents\n\ud83d\udccd Checking prescription labels or expiration dates\n\ud83d\udccd Reading menus in dim lighting\n\ud83d\udccd Spotting product serial numbers\n\ud83d\udccd Finding small item",
+    "icon": "/icons/camera.magnifying.glass.magnifier.png"
+  },
+  "ch.icoaching.typewise": {
+    "title": "Typewise Custom Keyboard",
+    "package": "ch.icoaching.typewise",
+    "description": "Custom large keyboard with 4X fewer typos!\n\nTypewise is an Android & iPhone keyboard app that helps you to make fewer typos, improve typing speed, customize the keyboard the way you want (different keyboard themes, keyboard fonts, emoji keyboard) while enjoying 100% privacy.\n \nFeatured on: TechCrunch, Wired, Esquire, The Telegraph, Tech Radar, Mac Observer\n \n\ud83d\udca1 Did you know?\nCurrent keyboards are based on the 140-year-old mechanical typewriter layout (QWERTY). Typewise is different. It\u2019s the first font app that is specifically designed for smartphones. It\u2019s revolutionary yet easy to use, and after a couple of messages you\u2019ll love it.\n \nTypewise provides you with a wide range of keyboard background options, emojis, text fonts, and other features, such as auto paste keyboard and emoji keyboar",
+    "icon": "/icons/ch.icoaching.typewise.png"
+  },
+  "ch.icoaching.wrio": {
+    "title": "Typewise Offline Keyboard",
+    "package": "ch.icoaching.wrio",
+    "description": "This app is the offline version of the popular, privacy-friendly \"Typewise Keyboard\" app. This offline version adds an additional layer of security. Note: online features will not be available in this app.\n\nThis app also includes Typewise PRO features:\n- Type in multiple languages without switching\n- Get personalized word suggestions\n- Additional 16 awesome themes\n- Create your own text replacements\n- Turn on key vibration and set the perfect intensity\n- Turn on tablet mode\n- Change emoji style\n- Change swiping behavior\n- Change space button sensitivity\n- Automatically go back to letters after a space\n- Flick down to undo auto corrections\n\n\ud83d\udca1 Did you know?\nCurrent keyboards are based on the 140-year-old mechanical typewriter layout. Typewise is different. It\u2019s the first keyboard that is spe",
+    "icon": "/icons/ch.icoaching.wrio.png"
+  },
+  "ch.smalltech.battery.free": {
+    "title": "Battery HD",
+    "package": "ch.smalltech.battery.free",
+    "description": "This is the perfect battery monitor for your phone or tablet. It is simple, beautiful and can be calibrated specially for your device.\n\nNow you can get alerts when your phone charges or discharges to a specific percentage!\n\nInstantly know how many hours you have left for: \n- Listening to music \n- Watching video\n- Talking on the phone\n- Internet Browsing ( WiFi, 3G or 4G ) \n- Standby \n- Time left to recharge\n- Time to use your LED Flashlight\n- Play 2D and 3D Games\n- Reading books\n- GPS navigation\n- Video chat\n- Taking photos\n- Recording videos\n\nUse this app to see all this battery information at a glance in the widget or the notification bar.\n\nCheck the usage chart to understand better your daily usage.\n\nIf you have a new or rare device, please run calibration tests to share your results wi",
+    "icon": "/icons/ch.smalltech.battery.free.png"
+  },
+  "chat.laki.android": {
+    "title": "LaKi-Group Voice Chat Room",
+    "package": "chat.laki.android",
+    "description": "Welcome to join LaKi!\n\nLaKi is a voice chat application for all people who like to party and make friends all over the world.\n\nWhen you are in the voice room in the LaKi application, you can connect the microphone with friends all over the world, and you can chat with your friends in the room by voice, which will reduce your social phobia. Come on, friends all over the world are waiting for you to share your happiness in LaKi!\n\nFeatures:\n\n[Various voice chat rooms around the world]\nWe use the most advanced voice chat technology in the world, which will ensure that the sound is clearer when you chat with your friends. Rooms all over the world are waiting for you.\n\n[Hold a party in your own voice room]\nYou can create a room of your own with exquisite gifts, sports cars and other decorations ",
+    "icon": "/icons/chat.laki.android.png"
   }
 }
