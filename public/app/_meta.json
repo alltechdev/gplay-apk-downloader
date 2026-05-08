@@ -63693,5 +63693,663 @@
     "package": "com.lazyqr.alwayson.amoled.alwayson.display.digitalclock.liveclock.wallpaper",
     "description": "Always On Display Clock - AOD. Only clock you will ever need on your device.\n\nThe Always On Display Clock - AOD app will revolutionize your lock screen experience! \n\nThis always on display clock widget keeps everything you need on your display, even when your phone is idle. With a huge lock screen clock and customizable display features, you can now make your phone more efficient.\nChoose Always On Display Clock - AOD!\nThe Always On Display is your assistant right on your lock screen. Whether charging your phone or sitting idle, this AOD digital clock app ensures you have all the information you need right when needed. The always on display clock brings convenience and style to your phone.\n\nKey Features\n\u23f0 Huge Lock Screen Clock\nEnjoy a huge lock screen clock that\u2019s easy to read at a glance.",
     "icon": "/icons/com.lazyqr.alwayson.amoled.alwayson.display.digitalclock.liveclock.wallpaper.png"
+  },
+  "com.lbrc.PeriodCalendar": {
+    "title": "Period Tracker and Calendar",
+    "package": "com.lbrc.PeriodCalendar",
+    "description": "\ud83e\udd38Period Tracker and Calendar - Menstrual Tracker\n\nPeriod Tracker and Calendar is an extremely elegant and easy-to-use application that helps women keep track of periods, cycle, ovulation, and fertile days. Whether you are concerned about conceiving, pregnancy, birth control, contraception, or regularity of period cycles, Period Tracker and Calendar can help.\n\nPeriod Tracker and Calendar is also a CE Class I Medical Device (EU) designed to support individuals in tracking menstrual cycles and monitoring related symptoms on a daily basis. The application processes user-entered data to provide algorithm-based predictions of upcoming periods and estimated fertile windows, supporting better awareness of menstrual health patterns.\n\nOur tracker is easy to use and offers everything you need:\n- Trac",
+    "icon": "/icons/com.lbrc.PeriodCalendar.png"
+  },
+  "com.leaf.woodblock": {
+    "title": "Wooden Block Puzzle - Jigsaw",
+    "package": "com.leaf.woodblock",
+    "description": "Wooden Block Puzzle - Jigsaw is a relaxing yet challenging game that you can test your IQ with brain-teaser logic puzzles. This woody game is easy to learn but difficult to master!\n\n\ud83e\udde9\ud83e\udde9\ud83e\udde9 HOW TO PLAY WOODEN BLOCK PUZZLE - JIGSAW \u2b50\u2b50\u2b50\n1) Your objective is to complete the woody puzzle.\n2) Place the pieces below onto the wooden board.\n3) Create your own playing strategy to earn your best score.\n4) Use free hints or replay whenever you are stuck.\n5) There is no time limit, so enjoy the playing process!\n\nMAIN FEATURES:\n\ud83e\udd92 A fun block match game for kids and adults.\n\ud83e\udd92 Forever Free to play.\n\ud83e\udd92 Offline, play anytime and anywhere on Earth.\n\ud83e\udd92 Lightweight size, install this brain game with no hassle.\n\ud83e\udd92 Many supported languages.\n\ud83e\udd92 Realistic wood texture, satisfying visual effects.\n\ud83e\udd92 Super cute animal jigsa",
+    "icon": "/icons/com.leaf.woodblock.png"
+  },
+  "com.learn.javascript.programming": {
+    "title": "Learn JavaScript & DSA",
+    "package": "com.learn.javascript.programming",
+    "description": "\ud83c\udfc6 Master JavaScript Programming, Data Structures & Algorithms (DSA) and Web Development\n\nLearn JavaScript from scratch with structured lessons, real-world coding examples, quizzes, and practice problems.\nThis app is designed for beginners, students, and aspiring web developers who want to build strong programming logic and earn certificates.\n\nWhether you want to learn JavaScript for web development, crack coding interviews, or strengthen your DSA skills, this app gives you everything in one place.\n\n\ud83d\ude80 What You\u2019ll Learn\n\n\u2714 JavaScript Programming (Beginner to Advanced)\n\u2714 Variables, Functions, Loops, Closures\n\u2714 DOM Manipulation & Event Handling\n\u2714 ES6+ Features (Arrow Functions, Promises, Async/Await)\n\u2714 Objects, Arrays & Asynchronous JavaScript\n\u2714 Data Structures & Algorithms (DSA) in JavaScript",
+    "icon": "/icons/com.learn.javascript.programming.png"
+  },
+  "com.learnsimpli.learnjs": {
+    "title": "JavaScript Tutorial",
+    "package": "com.learnsimpli.learnjs",
+    "description": "\u270e About Application\n\u261e In Learn JavaScript tutorial app you will learn javaScript in a detailed explanation with example\n\n\u261e This application contains chapters from the basics of JavaScript to advance chapters\n\n\u261e All Concepts are explained with code snippets to understand the syntax of the methods and which makes it easy to understand and implement.\n\n\u261e Application has a search feature that helps to search any topic\n\nFeatures of the application: \n\u25c8 Easy user interface.\n\u25c8 All concepts are included.\n\u25c8 Detailed explanation.\n\u25c8 Easy and step-by-step tutorial.\n\u25c8 Answered frequently asked questions.\n\u25c8 Explanation with syntax with code snippets.\n\u25c8 Read and practice the course offline.\n\u25c8 Code snippets highlighter\n\n\u270d Course\n\u261eCourse Overview\n\u261eIntroduction\n\u261eBasics\n\u261eData types\n\u261eVariables declarations\n\u261eVar",
+    "icon": "/icons/com.learnsimpli.learnjs.png"
+  },
+  "com.ledgerbookapp": {
+    "title": "Ledger Book",
+    "package": "com.ledgerbookapp",
+    "description": "Free and the best ledger book app cum bookkeeping app, which helps to manage your customer/Supplier Credit and Debit entries with many advantages, compared to traditional ways of maintaining physical book/papers.\n\nFear of your data leak to unknown sources ?\n\nWe bring a personalized online Ledger Book (Udhar Khata) App which simplifies credit account management for business owners.\n        \nMerchants can use Ledger Book application to record credits and payments of customers. Also, there is no fear of losing records as all the data is stored online dedicated secure servers, so you can access your records anytime with your phone number and password.\n\nWhy use this app ??\n\nIt will become very convenient to managing entries of your customers, track each entry made, get reminders forgiven due da",
+    "icon": "/icons/com.ledgerbookapp.png"
+  },
+  "com.lemongame.freecell.solitaire": {
+    "title": "FreeCell Solitaire",
+    "package": "com.lemongame.freecell.solitaire",
+    "description": "FreeCell Solitaire is one kinds of funny card game, but it's not like other solitaires. You need no luck to win, only skill is required. All cards are opened from the start and the deal has the solution, you can win, think and move wisely.\n\nKey Features:\n- deals with different difficulty\n- every completed deal has score\n- customizable background and card \n- magnetic card movement\n- supermove: multiple card dragging\n- drag or tap to move\n- undo option \n- optimized battery usage for very long gameplay\n\nEasy to use: FreeCell solitaire has been built specifically for your phone and tablet to bring you the best card games experience ever\u2026 for you to fall in love with it over and over again.",
+    "icon": "/icons/com.lemongame.freecell.solitaire.png"
+  },
+  "com.lensbuddy.photographer": {
+    "title": "Lens Buddy - Self Timer Camera",
+    "package": "com.lensbuddy.photographer",
+    "description": "Your ultimate handsfree camera experience is here!\n\nYou take your own photos.\n\nLens Buddy is a simple yet powerful timer camera app that will take pictures of you and your loved ones without the need to press buttons or even hold the device. Just set your desired time interval between the shots and let the camera roll!\n\nLeave your Bluetooth clicker home and do your own photoshoot! \n\nTake your social media presence to the next level! Once you finished taking your photos you can easily rate your pictures within the app that will help you to keep or export the best ones.\n\nStop taking screenshots from videos - Lens Buddy offers higher quality photos and and easier way to take them!\n\nWant to take a group photo without having someone left out? \nIs there no one around to take a picture of you? \nA",
+    "icon": "/icons/com.lensbuddy.photographer.jpg"
+  },
+  "com.lerp.pano": {
+    "title": "Wide Camera - Panorama 360 HD",
+    "package": "com.lerp.pano",
+    "description": "WideCamera help you stitch multiple photos into a single one with high quality.\n\nNo other hardware is needed,enjoy the experience of a photographer just with YOU MOBILE PHONE!\n360 photo shooting tutorial:\nhttps://youtu.be/1yuaGFQx2RY\n\nMore other tutorials:\nhttps://youtu.be/g4gsuGunL_U\n\n\n\nAll features:\n1. Take high-resolution photos, which can handle up to 80M pixels\n\n2. There are 4 built-in shooting modes available, supporting vertical panoramic, wide Angle panoramic, spherical panoramic\n\n3. Support manual focus, Easily shoot blockbuster movies\n\n4. Support more than 20 kinds of filters, support 4k filters\n\n5. Support one-click Hitchcock\n\n6. Time-lapse photography makes it easier for you to record time-lapse videos",
+    "icon": "/icons/com.lerp.pano.png"
+  },
+  "com.allpoetry.app": {
+    "title": "Poetry.app Allpoetry",
+    "package": "com.allpoetry.app",
+    "description": "Join the largest poetry community\n- Designed for any poet - from beginners to experts\n- Encouragement with friendly feedback\n- Like a big writing group where every poem gets several encouraging comments\n- Detailed critiques when you're ready\n- Over 20 free courses on haiku, metaphor, sonnets, and much more run by our volunteer teachers\n- Community print publications - see your poem in print\n- Radio shows, call in and read your poem out loud\n\nAward Winning Poets\n- Experts encourage amateurs to improve - every poet is welcome\n- The best poems are featured on the front page\n- Many have won national contests\n\nWriting Groups\n- Private forums for friends or focused critiques with a particular theme\n- Smaller sub-communities within the larger one\n\nDozens of Contests\n- Totally free, and some with ",
+    "icon": "/icons/com.allpoetry.app.png"
+  },
+  "com.levelpro.bubble.ruler": {
+    "title": "Inclinometer Pro: Angle Meter",
+    "package": "com.levelpro.bubble.ruler",
+    "description": "Inclinometer, angle meter, and level tool in one professional app. Inclinometer Pro combines precise angle finder, spirit level, and protractor functions to help you measure slopes, pitch, and roll with accuracy you can trust.\n\n\n\nEngineered for professionals, this tool ensures accuracy across all measurement modes. You can calibrate your device manually, lock readings, and rely on precise pitch and roll detection \u2014 ideal for mechanical setups, installations, and slope calculations.\n\n\n\nKey Features\n\n\u2022 Dual-axis inclinometer: measure pitch and roll angles with real-time precision.\n\n\u2022 Angle finder & protractor: determine exact degrees for construction, woodworking, or DIY projects.\n\n\u2022 Level tool & spirit level: instantly check surface flatness and ensure perfect alignment.\n\n\u2022 Balance tool: vi",
+    "icon": "/icons/com.levelpro.bubble.ruler.png"
+  },
+  "com.leverx.godog": {
+    "title": "Dog Training App \u2014 GoDog",
+    "package": "com.leverx.godog",
+    "description": "POSITIVE-BASED DOG TRAINING. BUILT-IN DOG CLICKER. TRAIN YOUR DOG ANYTIME, ANYWHERE!\n\nAre you a happy dog owner? Do you want to know how to train your dog in easy-to-follow steps? Download GoDog \u2014 smart guide for dog training and taking good care of your pet.\n\nHere you will find a full lesson\u2019s pack with step-by-step video instructions verified by professional dog trainers, built-in dog whistle and clicker, health and care diary, time walking schedule, useful articles, and other features that help your dog stay healthy and happy!\n\nDOG TRAINER APP\nThese are easy-to-grasp and reproduce lessons for your dog that assist you with essential behavioral training. Teach your puppy to be socialized and well-adjusted without overpaying for dog trainer\u2019s services. All lessons are made together with hi",
+    "icon": "/icons/com.leverx.godog.png"
+  },
+  "com.lexos.smartemi": {
+    "title": "EMI Calculator: Finance App",
+    "package": "com.lexos.smartemi",
+    "description": "\u2728 EMI Calculator: Finance App \u2013 Smart Loan & EMI Planner \u2728\n\nLooking for a fast, accurate and professional EMI Calculator?  \nThis all-in-one Loan Calculator & Finance Manager helps you calculate EMI for Home Loan, Car Loan, Personal Loan, Education Loan & Business Loan instantly with global currency support \ud83c\udf0d.  \nDesigned for maximum ASO performance, this app ranks for top finance keywords including: EMI calculator, loan calculator, home loan EMI, interest calculator, amortization, EMI planner, finance app, loan compare, EMI chart & more.\n\n\n\n\n\n\ud83d\udd25 Key Features\n\n\ud83d\udd22 1. Multi-Loan EMI Calculator\n\n\u2022 Home Loan EMI\n\n\u2022 Car Loan EMI\n\n\u2022 Personal Loan EMI\n\n\u2022 Education Loan EMI\n\n\u2022 Business Loan EMI\n\n\u2022 Supports all global currencies \ud83c\udf0d\n\n\u2022 Instant EMI, Total Interest & Total Payment\n\n\u2022 Clean, accurate & fast",
+    "icon": "/icons/com.lexos.smartemi.png"
+  },
+  "com.lie.detector.simulator.test": {
+    "title": "Real Truth & Lie Detector",
+    "package": "com.lie.detector.simulator.test",
+    "description": "\ud83c\udf89 Entertain your friends with the Lie Detector Simulator Test, a playful app designed for humorous situations when you suspect someone might not be telling the whole truth.\n\n\ud83d\udd0d This app creates the illusion of a fingerprint-based lie detector, delivering amusing results such as TRUE (real), MAYBE, or FALSE (lie).\n\n\ud83d\udc49 You can press the top left corner to set the system to True, or press the top right corner to set it to False.\n\n\ud83d\udd90\ufe0f Simply ask your friend to press and hold their finger on the simulated scanner. The app, mimicking a lie detector, will then display a pretend result\u2014adding to the fun by making it seem like their fingerprint is being analyzed for honesty.\n\n\u26a0\ufe0f Remember, the Lie Detector Simulator Test is a free app made solely for entertainment purposes. It does not have the capabil",
+    "icon": "/icons/com.lie.detector.simulator.test.png"
+  },
+  "com.lie.detector.test.prank.fingerprintscanner": {
+    "title": "Lie Detector Test for Prank",
+    "package": "com.lie.detector.test.prank.fingerprintscanner",
+    "description": "Too bored and want to find a fun game with your friends?\nYou can play the truth or lie game and Lie Detector Test for Prank app will help you detect the truth easily.  Check liars easier than ever with this app; there are 2 methods to check such as fingerprint, and eyes... All you have to do is place those in the scanner and Lie Detector Test for Prank will tell you the truth. \n\nUsing the fingerprint scanner on this lie detector test, identify the truth or lie to prank your friends. This truth detector test functions as a phony fingerprint truth detector for amusement. Easily maintain your finger on the detector while speaking or thinking to determine the truth or lie. Lie Detector Test for Prank can tell you whether someone is talking the truth or a lie.\n\n\ud83d\udc4dFingerprint Scanner\nJust place a",
+    "icon": "/icons/com.lie.detector.test.prank.fingerprintscanner.png"
+  },
+  "com.lie.detector.test.prank.scan.truthtest": {
+    "title": "Lie Detector Test Prank - Scan",
+    "package": "com.lie.detector.test.prank.scan.truthtest",
+    "description": "\ud83d\ude39 Lie Detector Test Prank - Scan to know who is lying\nHow can I know if my friend is lying or telling the truth?\nUse this app as a real lie detector.\n\u26a1 Lie Detector Test Prank is a fun simulation game to detect if you are telling the truth or lying.\n\u26a1 You can use it to prank your friends or family. Ask them a question, the rest let our lie detector simulator analyze and give the answer. They are lying, they are telling the truth!\n\n\ud83d\udc46 Fingerprint Scanner\nIn the Lie Test app, a simulated scanner works when you place your finger on the screen to scan your fingerprint. After a few seconds of simulating the analysis, the lie detector gives the results. Yay, you told the truth.\n\n\ud83d\udc40 Eye Scanner\nPut your eyes close to the camera, the Lie Detector Prank application will have a waiting time for the an",
+    "icon": "/icons/com.lie.detector.test.prank.scan.truthtest.png"
+  },
+  "com.lifebuddy.homeworkout": {
+    "title": "Home Workout: Fitness No Tools",
+    "package": "com.lifebuddy.homeworkout",
+    "description": "Embark on your wellness journey with LifeBuddy, your dedicated fitness ally tailored for home and gym enthusiasts alike. Focused on achieving results without the need for equipment, LifeBuddy redefines the way you engage in upper body workouts, daily fitness routines, and comprehensive home workouts for men.\n\nLifeBuddy is not just a workout app\u2014it's a revolution in personalized fitness planning and tracking. From workouts for men that you can do at home to weight loss regimes, this app brings gym-quality workouts into your living room, empowering you with the tools to transform your fitness journey.\n\nWhat LifeBuddy Offers:\n\nUpper Body Workouts for Men: Specialized routines that target the chest, shoulders, and arms, enabling men to build strength and muscle from the comfort of their homes.",
+    "icon": "/icons/com.lifebuddy.homeworkout.png"
+  },
+  "com.light.simplenavbarfree": {
+    "title": "Simple Navigation Bar - Floati",
+    "package": "com.light.simplenavbarfree",
+    "description": "Essential and powerful navigation keys for smart phones are just a one swipe away.\nSimple Navbar comes with easy to use Floating Navigation bar panel to replace soft keys such as back, home, recent and notification drawer. \n\nSimple Navigation Bar free app helps if you have failed and broken button or trouble using buttons or navigation bar panel is not working properly.\n\nYou can also configure app shortcuts and other actions on they keys single press and long press events. Its smart navigation bar app works as assistive touch for android.\n\nKey Features:\n- Auto hide navigation bar.\n- One swipe to access and hide.\n- Single press actions for home, back, recent and notification keys.\n- Long press actions for home, back, recent and notification keys.\n- Change background color, icon color, icon ",
+    "icon": "/icons/com.light.simplenavbarfree.png"
+  },
+  "com.light_saber.lightsaber": {
+    "title": "Jedi Ligthsaber Simulator",
+    "package": "com.light_saber.lightsaber",
+    "description": "Real lasersaber simulator where you can choose bettween two choices, the dark side or the light side. There are diferents colors of lasers to choose.\n\nShake and move your saber like in a real battle, you will hear the sounds of the lightsaber, like those of the knights.\n\nFor troopers we have the lasergun, with more than ten different sounds. \n\nFor all the galactic fans. Try to feel the force in your hands and fight.",
+    "icon": "/icons/com.light_saber.lightsaber.png"
+  },
+  "com.limesdevelopment.morse_code_f": {
+    "title": "Morse code - Learn and Play",
+    "package": "com.limesdevelopment.morse_code_f",
+    "description": "# Morse Code Teacher - Learn & Practice Morse Code\n\n**Master Morse Code with the Ultimate Learning App**\n\nWhether you're a beginner taking your first steps into Morse code or an experienced operator looking to sharpen your skills, Morse Code Teacher offers a comprehensive, scientifically-designed learning experience that adapts to your pace.\n\n## \ud83c\udf93 INTELLIGENT LEARNING SYSTEM\n\nOur app uses spaced repetition algorithms combined with letter frequency analysis to optimize your learning journey. You'll master the most common letters first, building a solid foundation before progressing to less frequent characters. The system intelligently reviews letters at the perfect intervals to cement them in your long-term memory.\n\n## \ud83d\udd24 MULTIPLE LEARNING MODES\n\n**Visual Learning**\nWatch Morse code patterns",
+    "icon": "/icons/com.limesdevelopment.morse_code_f.jpg"
+  },
+  "com.limesdevelopment.morsecode": {
+    "title": "Morse code - learn and play",
+    "package": "com.limesdevelopment.morsecode",
+    "description": "- Learn Morse Code with different modes of learning, using the letter frequency and spaced repetition to help you learn. \n- Customize your input, choose between tapping to simulate the real telegraph machine, or use buttons to input your code! \n- Flash, vibrate or beep your morse code\n- Customize the speed and the frequency of your sound generator\n- Track your statistics for each letter\n- Use multiple choice or short answer learning modes to boost your learning experience\n- Learn mode introduces new letters one by one, starting with more common ones\n- Words mode helps you learn from 10,000 most common words in English\n- Recognize letter plays a sound, after which you need to guess the correct letter.\n- Use the code translator to translate morse code to text, or text to morse code. \n- If yo",
+    "icon": "/icons/com.limesdevelopment.morsecode.png"
+  },
+  "com.linecorp.foodcam.android": {
+    "title": "Foodie - Filter & Film Camera",
+    "package": "com.linecorp.foodcam.android",
+    "description": "Live life according to your tastes.\nThe Foodie camera app is the essential companion for the modern sociable foodie.\nDiscover a fun and fast way to spice up the perfect memory of a perfect meal.\n \n+ Over 30 professional quality live filters\nIncluding the Yum, Positano, Tropical, Picnic, Sweet, Fresh, BBQ, Romantic, Crispy, and Chewy filter series.\n+ Easy and accurate smart guide feature for taking top-down photos of food\nCapture the perfect atmosphere and mood when taking food photos from above.\n+ Season videos with tasteful live filters\nShoot vivid videos of your dining adventures.\n+ Edit bland scenes into delectable masterpieces\nUse diverse filters and detailed edits to give your photos everything from adorable charm to film camera warmth.\n+ A timer for capturing the perfect moment\nPerfe",
+    "icon": "/icons/com.linecorp.foodcam.android.png"
+  },
+  "com.linkdesks.iBubble": {
+    "title": "Bubble Shooter Legend",
+    "package": "com.linkdesks.iBubble",
+    "description": "Bubble Shooter Legend is an addictive bubble shooter game with 3000+ puzzles, join millions now in the best free bubble shooter game ever!\n\nBubble Shooter Legend is a classic bubble match 3 game. Pop, tap and tilt your way through over 3000 addictive bubble puzzles with excitement and packed with adventure!\n\nFeatures:\n- More than 3000 magic levels to complete! And more puzzles are coming soon.\n- Easy and fun to play, challenging to master\n- 4 Special Boosters help you get high score.\n- Cute dragon pups boost your points.\n- Pop bubble with extension line.\n- Bubble pop with lightning bubble.\n\nHow to Play bubble game:\n1.Tap where you want to pop bubble\n2.To group 3 or more bubbles to make them burst\n3.Clear all the bubbles on the screen to level up, and try to get 3 stars on each level.\n4.Pop",
+    "icon": "/icons/com.linkdesks.iBubble.png"
+  },
+  "com.livedepth.parallax.livewallpaper": {
+    "title": "LiveDepth: Parallax Wallpaper",
+    "package": "com.livedepth.parallax.livewallpaper",
+    "description": "\ud83c\udfa8 LiveDepth: Parallax Wallpaper \u2014 Bring Your Screen to Life!\n\n\u2728 Transform Your Phone with Stunning 3D Parallax Wallpapers!\nSay goodbye to flat, boring backgrounds \u2014 LiveDepth makes your home & lock screens pop with motion and depth like never before!\n\n\ud83c\udf0c Why You\u2019ll Love LiveDepth\n\n- Immersive Parallax Effects \u2013 Walls that move with your phone motion, giving real 3D depth and dynamic feel.\n\n- Interactive Touch & Motion \u2013 Watch your wallpaper react to tilt and shake!\n\n- Huge Wallpaper Library \u2013 Explore trending categories like anime, landscapes-, neon, seasonal themes, and more.\n\n- DIY Customization Wallpaper \u2013 Edit wallpapers your way.\n\n- Fresh Weekly Updates \u2013 New wallpapers and effects added regularly to keep your screen looking fresh.\n\n- Easy & Smooth Experience \u2013 Simple UI that\u2019s perfect",
+    "icon": "/icons/com.livedepth.parallax.livewallpaper.png"
+  },
+  "com.livephoto.live_wallpaper.aquariumfish": {
+    "title": "Aquarium Fish Live Wallpaper",
+    "package": "com.livephoto.live_wallpaper.aquariumfish",
+    "description": "aquarium fish wallpapers features aquarium fish live wallpaper to personalize your phone.\naquarium fish video wallpaper make your screen unique and elegant.\nMoving 4d wallpapers. fish tank with colorful sea fish and water garden.\nAnimated backgrounds with 3d ocean waves , koi fish and underwater. \naquarium fish theme on your home screen or lock screen.\nThis 4k wallpaper is awesome with fishbowl and real fish water.",
+    "icon": "/icons/com.livephoto.live_wallpaper.aquariumfish.jpg"
+  },
+  "com.livephoto.live_wallpaper.brokenscreen": {
+    "title": "Broken Screen Live Wallpaper",
+    "package": "com.livephoto.live_wallpaper.brokenscreen",
+    "description": "broken screen wallpapers features broken screen live wallpaper to personalize your phone.\n3d broken screen video wallpaper make your screen unique and elegant.\nMoving 3d wallpapers.\nAnimated backgrounds with 3d cracked screen effect , prank and glass. \n3d broken screen theme on your home screen or lock screen.",
+    "icon": "/icons/com.livephoto.live_wallpaper.brokenscreen.png"
+  },
+  "com.livephoto.live_wallpaper.fishaquarium3d": {
+    "title": "3d Fish Aquarium Wallpaper",
+    "package": "com.livephoto.live_wallpaper.fishaquarium3d",
+    "description": "3d fish aquarium wallpapers features fish aquarium live wallpaper to personalize your phone.\nAnimated backgrounds with 3d underwater effect , real fishes and ocean. \n3d fish aquarium theme on your home screen or lock screen.",
+    "icon": "/icons/com.livephoto.live_wallpaper.fishaquarium3d.png"
+  },
+  "com.lm.rolls.gp": {
+    "title": "Film Cam -Vintage Roll Camera",
+    "package": "com.lm.rolls.gp",
+    "description": "Sorry, we are late, but we have launched a new brand camera with realistic effect. The film inside the camera will never expire, and the color of many special films such as Kodak, Fuji, Agfa and so on has been truly restored.\nWe will occasionally launch new films, with a focus on discontinued films to meet the needs of photography enthusiasts as much we can.",
+    "icon": "/icons/com.lm.rolls.gp.png"
+  },
+  "com.loadupgames.bibletrivia": {
+    "title": "Bible Trivia",
+    "package": "com.loadupgames.bibletrivia",
+    "description": "How well do you know your Bible Trivia?\n\nBible Trivia has never been so much fun. Challenge yourself or have a Bible Trivia night with friends and family in Party Mode! \n\nFEATURES\n\n- Single Player Mode.\n- Party Mode (Up to 4 Players).\n- Perfect for Group Trivia Nights.\n- Quick, Pick-up-and-Play Sessions.\n- Family-Friendly Trivia for All Ages.\n\nSo what are you waiting for? Download it now and get your brain ready for Bible Trivia!",
+    "icon": "/icons/com.loadupgames.bibletrivia.png"
+  },
+  "com.loadupgames.bibletriviachallenge": {
+    "title": "The Bible Trivia Challenge",
+    "package": "com.loadupgames.bibletriviachallenge",
+    "description": "How well do you know your Bible Trivia?\n\nTest your Bible knowledge in The Bible Trivia Challenge!\n\n**** Includes Android TV!!! ****\n\nBible Trivia has never been so much fun. Challenge yourself or have a Bible Trivia night with friends and family in Party Mode! \n\nFEATURES\n- Single Player Mode.\n- Party Mode (Up to 4 Players).\n- Perfect for Group Trivia Nights.\n- Quick, Pick-up-and-Play Sessions.\n- Family-Friendly Trivia for All Ages.\n\nSo what are you waiting for? Download it now and get your brain ready for The Bible Trivia Challenge!",
+    "icon": "/icons/com.loadupgames.bibletriviachallenge.png"
+  },
+  "com.loan.continuum.emi.calculator.finance": {
+    "title": "EMI Calculator - Finance Tool",
+    "package": "com.loan.continuum.emi.calculator.finance",
+    "description": "EMI Calculator is a simple loan calculation tool that allows users to easily calculate EMI and view payment schedules. Use the Loan EMI Calculator to calculate your EMI (Equated Monthly Instalment) and plan your loan repayment effectively. You may also easily compare two loans using the Loan EMI Calculator.\n\n\u2714\ufe0f The EMI Calculator app estimates your loan amount and monthly payment.\n\u2714\ufe0f With this EMI Calculator app, you may calculate the following values by entering all other values:\n- EMI Amount\n- Loan Amount\n- Interest Rate\n- Period (In Months and Years)\n\u2714\ufe0f A simple solution is to compare two loans.\n\u2714\ufe0f Calculate EMI on a monthly basis.\n\u2714\ufe0f Statistics show monthly principal amount, interest rate, and remaining balance.\n\u2714\ufe0f The Easy Calculator tool allows you to find the taxes to be paid simply",
+    "icon": "/icons/com.loan.continuum.emi.calculator.finance.png"
+  },
+  "com.loanfdrdemicalculator.emicalculator": {
+    "title": "EMI Calculator : Finance App",
+    "package": "com.loanfdrdemicalculator.emicalculator",
+    "description": "Loan EMI calculator app & loan calculator. Finance calculator: loan interest calculator. Loan calculator financial tool. Car loan EMI calculator: EMI interest calculator & financial calculator. Fd calculator & sip calculator help to calculate interest. Our EMI Calculator app includes a return calculator & retirement calculator as well.\n\nMAIN FEATURES:\n\u2714\ufe0f EMI Calculator app is a special kind of loan calculator that calculates your EMI Loan amount and monthly payment.\n\u2714\ufe0fThis EMI Calculator app allows you to calculate the following values by inputting all the other values:\n- EMI Amount\n- Loan Amount\n- Interest Rate\n- Period (In Months and Years)\n\u2714\ufe0fThe easy option is to compare between two loans.\n\u2714\ufe0fRepresentation of payment is split up in the table form.\n\u2714\ufe0f Graphical representation of complete",
+    "icon": "/icons/com.loanfdrdemicalculator.emicalculator.png"
+  },
+  "com.loanplanner.emiloancalculator": {
+    "title": "EMI Calculator - Loan Planner",
+    "package": "com.loanplanner.emiloancalculator",
+    "description": "EMI Calculator & Loan Planner for Home, Car, and Personal Loans in India and Pakistan.\n\nCalculate your EMI and understand your monthly payments before taking a loan. Plan your finances with clear and accurate calculations.\n\n\u2501\u2501\u2501 EMI CALCULATOR \u2501\u2501\u2501\n\nCalculate Equated Monthly Installment (EMI) for different types of loans. Enter loan amount, interest rate, and tenure to see:\n\u2713 Monthly EMI payment\n\u2713 Total amount payable\n\u2713 Total interest payable\n\u2713 Interest as a percentage of total payment\n\u2713 Simple and convenient input controls\n\nSupports calculations for various loan types and lenders.\n\n\u2501\u2501\u2501 LOAN PAYMENT SCHEDULE \u2501\u2501\u2501\n\nView a detailed amortization schedule with a complete breakdown:\n\u2713 Principal paid each month\n\u2713 Interest paid each month\n\u2713 Remaining loan balance\n\u2713 Progress tracking of repayment\n\u2713 E",
+    "icon": "/icons/com.loanplanner.emiloancalculator.png"
+  },
+  "com.lochmann.viergewinntmultiplayer": {
+    "title": "4 in a Row Multiplayer",
+    "package": "com.lochmann.viergewinntmultiplayer",
+    "description": "Play \"4 in a Row\" against the computer or friends from all over the world!\n\n\"4 in a Row\" is one of the most popular strategy games in the world, this app gives you three different game modes.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\nDetails\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\"4 in a Row\" is a game classic for two players. Goal of the game is to line up four discs of your color to a horizontal, vertical or diagonal line. Alternating, you and your opponent drop discs into the grid and try to complete a line of four discs against the computer, friends or strangers from all over the world!\n\nWe've packed the beloved strategy and tactics game in a free app, which features three game modes:\n\n- Singleplayer: Play alone on one device against the computer Here you can learn \"4 in a Row\" or train your strategy and tact",
+    "icon": "/icons/com.lochmann.viergewinntmultiplayer.png"
+  },
+  "com.loku.parralel.always.ondisplay.amoled.free": {
+    "title": "Always On Display - Amoled",
+    "package": "com.loku.parralel.always.ondisplay.amoled.free",
+    "description": "Always on Display - AMOLED display time , date , notifications and other information without having to touch the phone. Try the new feature from Samsung Galaxy S7 , Galaxy S7 edge and Galaxy S8 .This will help you to have a clock on your mobile screen without touching it.\n\nAlways On Display app is designed for this proposes to show some basic information in black screen whenever you want. All this information will be permanently displayed on your screen.\n\n Always on Amoled features !\n\n*\tDisplay battery level.\n*\tChange font size, color.\n*\tAuto ON/OFF Screen feature.\n*\tEasy to use Always on Amoled.\n*\tDisplay notifications information.\n*\tGreat design and awesome performance.\n*\tEnable/Disable showing notifications \n*\tChange clock style (digital, analog).\n* \tYou can select the color of the text",
+    "icon": "/icons/com.loku.parralel.always.ondisplay.amoled.free.png"
+  },
+  "com.ls.arabic": {
+    "title": "Dua & Azkar\u062f\u0639\u0627\u0621 \u0630\u0643\u0631 \u0623\u0630\u0643\u0627\u0631",
+    "package": "com.ls.arabic",
+    "description": "Stay Connected with Allah \ufdfb \n\nThis app brings together 9 carefully chosen chapters, each dua focused on practical needs often overlooked in our daily lives. The content is presented in a clean, easy-to-use design.\n\nEnjoy a simple, modern, and user-friendly layout with audio recitations, transliteration, translations, Hadith references, and helpful recommendations where needed.\n\nKey Features\n\n\u2014 6 Arabic fonts, including the Nurani Font\n\u2014 Translations in 7 major languages\n\u2014 Arabic only display option\n\u2014 Daily Adhkar reminders\n\u2014 20 colour themes to personalize the app\n\u2014 Practical features in settings to enhance your experience\n\nExtra Home Screen Features\n\n\u2014 Tasbeeh Counter \u2013 12 preset Dhikr included\n\u2014 Add Your Own Dua \u2013 Create a personal list of Duas in any language not already included in the",
+    "icon": "/icons/com.ls.arabic.png"
+  },
+  "com.lt.ieltspracticetest": {
+    "title": "IELTS Practice Band 9",
+    "package": "com.lt.ieltspracticetest",
+    "description": "Achieve Your Dream Score with IELTS Practice Band 9!\n\nWhether you are aiming for a 6.5 or striving for a perfect Band 9, IELTS Practice Band 9 is your ultimate all-in-one preparation companion. \n\nKey Features:\n\n- Practice Test Library: Access an extensive collection of full-length, highly authentic practice tests covering all four skills: Listening, Reading, Writing, and Speaking.\n- Real Exam Simulation Timer: Train under true exam pressure with our built-in countdown timers. Manage your time effectively for Reading and Writing sections.\n- Sample Answers & Models: Explore hundreds of high-quality sample essays for - Writing Task 1 (Academic & General) and Task 2, along with band-9 standard model answers for Speaking Parts 1, 2, and 3.\n- Essential Vocabulary & Grammar Builder: Learn the mos",
+    "icon": "/icons/com.lt.ieltspracticetest.png"
+  },
+  "com.lucasigle.biblequizzes": {
+    "title": "Discover the Bible - the Quiz",
+    "package": "com.lucasigle.biblequizzes",
+    "description": "Discover the fascinating world of the Bible like never before with the Bible Quiz App! Immerse yourself in a journey through the entire Bible.\n\nExperience the epic stories of the Old and New Testaments in over 60 exciting quizzes. Each quiz takes you deeper into the history of the Bible as you test and expand your knowledge. Earn points to unlock new levels. From Creation to Revelation, you can explore the Bible at your own pace.\n\nEach question not only includes the correct answer but also provides a detailed explanation that gives you the background of the question. This way, you not only learn facts but also understand the context of the Bible.\n\nDownload the Bible Quiz App today and discover the stories of the Holy Scriptures in an entertaining and interactive way. Test your knowledge, l",
+    "icon": "/icons/com.lucasigle.biblequizzes.png"
+  },
+  "com.luck.luck2022.luckmovie.luckwallpaper": {
+    "title": "Tip Split Calculator",
+    "package": "com.luck.luck2022.luckmovie.luckwallpaper",
+    "description": "Tip Split Calculator is a simple and easy-to-use app designed to help you divide bills and calculate tips without hassle. It provides a smooth and straightforward experience, making it convenient to handle shared expenses anytime.",
+    "icon": "/icons/com.luck.luck2022.luckmovie.luckwallpaper.png"
+  },
+  "com.luminousapps.mandalascoloringbook": {
+    "title": "Mandalas Coloring Book Relax",
+    "package": "com.luminousapps.mandalascoloringbook",
+    "description": "\ud83c\udf1f Free coloring book app for to relax and enjoy! Part of the Coloring Book Pro family!\n\n\ud83d\ude0e No subscription necessary. All coloring pages are available without any premium subscriptions and new coloring collections are added regularly!\n\n\ud83c\udfa8 Featuring Mandala, Flowers, Paisley and Patterns coloring book collections and themes!\n\n\ud83c\udfa8 Bring your coloring pictures to life with our spectacular variety of color palettes, including gradient patterns and solid color sets!\n\n\ud83c\udfa8Over a hundred palette sets are present featuring 11 colors in each palette, that means there are over 1000 color combinations in all our palettes!\n\n\ud83c\udf1f Simply tap to fill each section of the coloring page. For more added fun there is a special gesture swipe mode so you can easily spread the color across the page! Use your finger or eve",
+    "icon": "/icons/com.luminousapps.mandalascoloringbook.png"
+  },
+  "com.lunarisapps.biorhythm": {
+    "title": "Biorhythm Calculator",
+    "package": "com.lunarisapps.biorhythm",
+    "description": "The application calculates your personal biorhythm predictions for today and each day you want according to https://en.wikipedia.org/wiki/Biorhythm. The results are displayed graphically as a curve, as percentage value and the tendency forecast as an arrow.\nThe physical state, the emotional state and the intellectual state are calculated. Furthermore the app allows the calculation of the intuitive state as well as the average over all biorhythms.\nIt is also possible to calculate biorhythms for other persons you are able to add as many users as you want. The number off possible contacts is unlimited. \n\nThe calculated biorhythms are:\n\u2022 physical, the cycle is 23 days\n\u2022 emotional, the cycle is 28 days\n\u2022 intellectual, the cycle is 33 days\n\u2022 intuitive, the cycle is 38 days\n\nThe meanings of the d",
+    "icon": "/icons/com.lunarisapps.biorhythm.png"
+  },
+  "com.madovergames.pandaworld.bubbleshooter.pop.fun.family.baby.games": {
+    "title": "Panda World : Bubble Shooter",
+    "package": "com.madovergames.pandaworld.bubbleshooter.pop.fun.family.baby.games",
+    "description": "Play Panda World Bubble Shooter! Join Mama Panda and her panda on an exciting adventure through magical lands in Panda World Bubble Shooter! Be ready to pop bubbles, rescue pandas, and defeat tricky enemies like the sneaky Snow Leopard in this fun and addictive bubble shooter game. With thousands of exciting levels, cute animal friends like mama corgi, this free bubble pop games will keep you entertained for hours via its challenging nature.\n\nFrom the creators of Classic Bubble Shooter Game, Bubble Shooter Original Game, Bubble Shooter Games 2024, Bubble Shooter Pro 2024, and Bubble Shooter Rainbow, MadOverGames presents a brand-new bubble-popping adventure for 2025.\n\nWhy You\u2019ll Love Panda World Bubble Shooter? \ud83d\udc3c\ud83c\udfaf\n\n  Classic Bubble Shooter Gameplay \u2013 Easy to play but challenging to master!",
+    "icon": "/icons/com.madovergames.pandaworld.bubbleshooter.pop.fun.family.baby.games.jpg"
+  },
+  "com.magespider.tipcalculator": {
+    "title": "Tip and Split \u2013 Tip Calculator",
+    "package": "com.magespider.tipcalculator",
+    "description": "Split bills in seconds!\nWhether you're dining out with friends or sharing expenses, Tip and Split \u2013 Tip Calculator makes calculating tips and splitting bills effortless and fast.\nJust enter your bill amount, choose the number of people, and set your tip percentage \u2014 the app instantly calculates the tip total and amount per person.\n\ud83d\udd39 Key Features\n\u2714 Fast bill splitting\n\u2714 Adjustable tip percentage\n\u2714 Split between 1 \u2013 50 people\n\u2714 Real-time calculation \u2014 no waiting\n\u2714 Clean and modern UI\n\u2714 Totally offline \u2014 no data collected\n\u2714 One-screen simple experience\n\ud83d\udd10 100% Private & Offline\nNo sign-ups, no ads, no data tracking. All calculations stay on your device.\nPerfect for:\n\ud83c\udf7d\ufe0f Restaurants \u2022 \ud83c\udf55 Caf\u00e9s \u2022 \ud83c\udf89 Group outings \u2022 \ud83e\uddfe Shared payments\nStop stressing over mental math \u2014 make every bill fair for everyon",
+    "icon": "/icons/com.magespider.tipcalculator.jpg"
+  },
+  "com.magmamobile.game.fourinarow": {
+    "title": "4 in a row",
+    "package": "com.magmamobile.game.fourinarow",
+    "description": "4 in a row is a simple but challenging puzzle game. \n\nThe goal is to connect a line of four horizontal,vertical,or diagonal discs before your opponent does. \n\nWith this 4 in a Line game, you can play with a friend who sits next to you or play against your phone. \nConnect 4 pawns to win.\n\nThe artificial intelligence embeded in the game allows a player to play a very easy mode but also much harder and challenging modes.\n\nWill you be able to beat the most difficult level designed ?",
+    "icon": "/icons/com.magmamobile.game.fourinarow.png"
+  },
+  "com.magneticonemobileworks.businesscardreader": {
+    "title": "Business Card Reader Multi CRM",
+    "package": "com.magneticonemobileworks.businesscardreader",
+    "description": "Business Card Reader Multi CRM is the easiest, fastest and secure solution for transferring information from paper business cards into the CRM systems using the camera of your smartphone. Take a picture of a business card and the application will scan and instantly export all card data directly to your CRM. In addition, this app will help you learn more about a potential client, partner or colleague. It is one of the best apps for CRM systems.\n\nAnyone who works in the business sector don\u2019t want to spend too much time looking for business cards that were presented at meetings, events, or conferences, and then manually enter every detail to spreadsheets or CRMs. Digitizing business cards is the best solution and Business Card Scanner is a convenient way to do this.\n\nSimplify the way of filli",
+    "icon": "/icons/com.magneticonemobileworks.businesscardreader.png"
+  },
+  "com.magnifier.camera.flashlight.magnifierglass": {
+    "title": "Magnifying Glass:10x Magnifier",
+    "package": "com.magnifier.camera.flashlight.magnifierglass",
+    "description": "Always struggling with small things that are difficult to visible ?\nMagnifying Glass:10x Magnifier is perfect Magnifier Application for you to see all tiny things on your phone. See the tiny text on any object clearly and large using Magnifying Glass:10x Magnifier.\n\nMagnifying Glass:10x Magnifier is daily usable tool to give you smart features of Magnifying Images, Magnifying PDF, OCR Scanning, QR Code Scanner, AI QR Code Scanner. \ud83d\udd0d\n\nZoom camera with custom settings of Brightness and Flashlight. You can control brightness as well as Flashlight while zooming in camera. You can also adjust perfect zoom with slider.\n\nMagnifying Glass: 10x Magnifier gives your Real time Magnification feature as well as saved image Magnification. So, you can take close picture of tiny object and take close look",
+    "icon": "/icons/com.magnifier.camera.flashlight.magnifierglass.png"
+  },
+  "com.magnifier.magnifyingglass": {
+    "title": "Magnifier - Magnifying Glass",
+    "package": "com.magnifier.magnifyingglass",
+    "description": "Magnifying Glass turns your phone into a functional and easy to use digital magnifier.\n\nYou don't need to carry a magnifier anymore. When you want to magnify small things and texts, Magnifying Glass can be the solution.\n\nMagnifier is a completely free app. Simplest tool that anyone can use it without training. The best app that help you magnify small text. With Magnifier, you will read clearly and easily, and never missing anything. What's more, you can zoom in or zoom out the camera by your fingers. Magnifying Glass can use flashlight whenever you need.\n\nFeatures:\n\ud83c\udf1f Magnify: from 1x to 10x.\n\ud83c\udf1f Flashlight: Use flashlight in dark places or during night.\n\ud83c\udf1f Freeze: After freezing, you can view magnified photos in more detail.\n\ud83c\udf1f Take Photos: Save magnified photos on your phone.\n\ud83c\udf1f Photos: Browse",
+    "icon": "/icons/com.magnifier.magnifyingglass.png"
+  },
+  "com.magnifying.glass.magnifylight.microscopeapp": {
+    "title": "Magnifier App-Magnifying Glass",
+    "package": "com.magnifying.glass.magnifylight.microscopeapp",
+    "description": "Magnifying Glass-Magnify Light App comes with Magnifying Glass to read tiny labels or view tiny objects, this digital-looking glass does everything you want to do with Magnifier. It can also be used as a microscope app with simplest and easy use of zooming and flashlight.\n\nMagnifier app with light easily blow up any text on newspapers, magazines, or business cards even in dark. Using Magnifying Glass-Magnify Light App you can easily read out the medical reports that are always difficult to read and other small and little reports.\nMagnifying Glass-Magnify Light is a free and easy to use application. It is simplest tool that anyone can use it without any confusion. Magnifier app helps you to magnify small text. With Magnifying Glass you can read clearly and easily and will never miss anythin",
+    "icon": "/icons/com.magnifying.glass.magnifylight.microscopeapp.png"
+  },
+  "com.magnifyingglass.nl": {
+    "title": "Magnifying Glass - Microscope",
+    "package": "com.magnifyingglass.nl",
+    "description": "Turn your phone into a powerful magnifying glass with a clear zoom camera and flashlight.\nRead small text, labels, menus, and fine print effortlessly anytime, anywhere.\nPerfect for low-vision users and anyone needing fast, high-quality magnification.\n\nThis Magnifying Glass App is designed for users who want fast, high-quality magnification without hassle. Whether you're at home, outdoors, or in low light, this app provides crystal-clear visibility with just one tap.\n\n\u2b50 Key Features\n- \ud83d\udd0d High-Power Magnifier: Zoom in on text, objects, and small items with a sharp, stable camera magnification.\n- \ud83d\udca1 Bright LED Flashlight: Ideal for reading in dark environments or low-light situations.\n- \ud83d\uddbc\ufe0f Freeze & Capture: Freeze the magnified image to inspect details without shaky hands.\n- \ud83c\udf9a\ufe0f Adjustable Contr",
+    "icon": "/icons/com.magnifyingglass.nl.jpg"
+  },
+  "com.magoosh.flashcards.gmat.idioms": {
+    "title": "GMAT Idiom Flashcards",
+    "package": "com.magoosh.flashcards.gmat.idioms",
+    "description": "Master the most important GMAT idioms for sentence correction and reading comprehension with free flashcards for your Android phone. Practice every day to improve your verbal score!\n\n\u261e 160 cards written by our expert tutors\n\u261e Cards cover different difficulty levels\n\u261e Track your progress as you study\n\u261e Smart algorithm focuses your practice for efficient learning\n\nThis app gives you free access to all of Magoosh\u2019s GMAT idiom cards. Sign in with a Magoosh account (or create a new one) to save your progress to the web.\n\nWritten by GMAT experts\nAll of the sentences were written and explained by Magoosh\u2019s expert tutors, led by Mike McGarry. He has been teaching the GMAT for more than 10 years.\n\nReview that really sticks\nAcademic research has found that memories are formed by repeated exposure to",
+    "icon": "/icons/com.magoosh.flashcards.gmat.idioms.png"
+  },
+  "com.magoosh.flashcards.gmat.math": {
+    "title": "GMAT Math Flashcards",
+    "package": "com.magoosh.flashcards.gmat.math",
+    "description": "Master GMAT math formulas and solve GMAT questions with free flashcards for Android. Practice every day to prep for the test and get a better GMAT quant score!\n\n\u2022 425 math cards written by our expert GMAT tutors\n\u2022 Includes GMAT practice questions, solutions, and common mistakes\n\u2022 Cards cover all difficulty levels\n\u2022 Track your progress as you study\n\u2022 Smart algorithm focuses your practice for efficient learning\n\nThis app gives you free access to all of Magoosh\u2019s GMAT math flash cards. Sign in with a Magoosh account (or create a new one) to save your progress to the web. You can continue your practice online at http://gmat.magoosh.com/flashcards/math/\n\nWritten by GMAT experts\n===\nAll of the formulas were selected and explained with usage examples by Magoosh\u2019s expert GMAT tutors, led by Mike M",
+    "icon": "/icons/com.magoosh.flashcards.gmat.math.png"
+  },
+  "com.magoosh.flashcards.gre": {
+    "title": "GRE Vocabulary Flashcards",
+    "package": "com.magoosh.flashcards.gre",
+    "description": "Magoosh has helped MILLIONS of students pass their GRE!\n\nMaster the 1500 most important GRE words with free flashcards! Practice every day to improve your vocab knowledge. Study to rectify your benightedness and prepare to trounce the GRE verbal section!\n\n\n\u2022 1500 vocab words picked by an expert GRE tutor\n\n\u2022 Definitions and example sentences for every word\n\n\u2022 Decks for every difficulty level\n\n\u2022 Track your progress as you study\n\n\u2022 Smart algorithm focuses your practice for efficient learning\n\n\nThis app gives you access to all of Magoosh\u2019s GRE vocab flash cards.\n\n\nWho makes the flashcards?\n\n===\n\nThe entire GRE wordlist is selected and defined with usage examples by Magoosh\u2019s expert GRE tutor, Chris Lele. He has been teaching the GRE for more than 10 years, runs a popular vocabulary series on Y",
+    "icon": "/icons/com.magoosh.flashcards.gre.png"
+  },
+  "com.magoosh.flashcards.sat": {
+    "title": "SAT Flashcards: Prep & Vocab",
+    "package": "com.magoosh.flashcards.sat",
+    "description": "Master important SAT concepts with Magoosh's SAT flashcards! It's easy to use and will help you memorize key concepts quickly!\n\n\u2022 English and Math SAT concepts \n\u2022 350 vocab words picked by an expert SAT tutor\n\u2022 Definitions and example sentences for every concept and word\n\u2022 Decks for every difficulty level\n\u2022 Track your progress as you study\n\u2022 Smart algorithm focuses your practice for efficient learning\n\nThis app gives you access to all of Magoosh\u2019s SAT flashcards. Sign in with a Magoosh account (or create a new free one) to save your progress to the web so that you can continue your practice online at https://sat.magoosh.com/flashcards\n\nWritten by SAT experts\n=====\nThe entire SAT wordlist is selected and defined with usage examples by Magoosh\u2019s expert SAT tutors, headed by Chris Lele. He ha",
+    "icon": "/icons/com.magoosh.flashcards.sat.png"
+  },
+  "com.magoosh.gmat": {
+    "title": "GMAT Prep & Practice - Magoosh",
+    "package": "com.magoosh.gmat",
+    "description": "Get Ready for the GMAT with Magoosh \u2013 Your Best Study Partner!\n\nMagoosh has helped millions of students ace the Graduate Management Admission Test (GMAT), and our app is updated and ready for the new GMAT Focus Edition. With Magoosh, you get a straightforward and effective way to prepare for your GMAT test, right from your phone or tablet.\n====\n\nReal Practice, Real Progress\n=======================\n\u2022 Practice with over 800+ GMAT questions for all three sections: Quantitative Reasoning, Verbal Reasoning and Data Insights. \n\u2022 Every question has a video explanation, helping you understand the concept quickly.\n\nVideos That Teach You Fast\n=======================\n\u2022 Watch over 200 video lessons on Math, Verbal, and Data Insights. These lessons make hard topics easy.\n\u2022 Keep track of what you learn ",
+    "icon": "/icons/com.magoosh.gmat.png"
+  },
+  "com.magoosh.gre.flashcards.grammar": {
+    "title": "English Grammar Practice",
+    "package": "com.magoosh.gre.flashcards.grammar",
+    "description": "Master English grammar with our highly rated free flashcards. Whether your goal is to ace an English grammar test, or to just improve your writing and speaking skills, you will find this app extremely helpful.\n\n\u261e All English grammar flashcards crafted by an expert English tutor: more flashcards coming soon\n\u261e Explanations of essential concepts frequently seen on English grammar tests\n\u261e Decks for different types of English grammar tests: more flashcards coming soon\n\u261e Track your learning progress\n\u261e Smart algorithm that helps you learn English grammar effectively\n\nThis app gives you free access to Magoosh\u2019s grammar flashcards at https://gre.magoosh.com/flashcards/grammar. Sign in with a Magoosh account (or create a new one) to save your progress to the web and prepare an English grammar test o",
+    "icon": "/icons/com.magoosh.gre.flashcards.grammar.png"
+  },
+  "com.magoosh.ielts.flashcards.vocabulary": {
+    "title": "IELTS Exam Preparation: Vocabu",
+    "package": "com.magoosh.ielts.flashcards.vocabulary",
+    "description": "Prep for the IELTS exam with Magoosh! Learn the 600 most important IELTS English vocabulary words with our easy to use flashcards and master your vocab with full definitions, example sentences and more! Best of all, you can study using our flashcards for free!\n----------------------------------------------------------------\nMASTER YOUR IELTS VOCAB - STUDY WITH MAGOOSH\n----------------------------------------------------------------\n- Practice & learn 600 English vocab words picked by an expert IELTS exam tutor\n- Complete definitions & example sentences for each word\n- Decks of flashcards for multiple difficulty levels; easy, intermediate and advanced\n- Track your progress, identify your strengths and areas for improvement\n- Smart algorithm optimizes the flashcards for accelerated learning ",
+    "icon": "/icons/com.magoosh.ielts.flashcards.vocabulary.png"
+  },
+  "com.magoosh.ielts.lessons": {
+    "title": "IELTS Exam Preparation, Lesson",
+    "package": "com.magoosh.ielts.lessons",
+    "description": "Everything you need to prep for the IELTS exam! Access over 90 video lessons written by expert IELTS tutors, regularly updated learning resources, study guides, and more with Magoosh\u2019s most comprehensive IELTS preparation app yet! \n\n-------------------------------------------\nMASTER YOUR IELTS EXAM\n-------------------------------------------\n- Content developed by IELTS expert tutors\n- Track your progress in real time\n- Identify your strengths and areas for improvement\n- Over 90 in-depth video lessons\n- Plan & prep your studying with study schedules\n- Study IELTS skills, reading, listening, writing, grammar, and speaking\n- Access our regularly updated blog, full of useful strategies & learning resources\n\nWRTTEN BY EXPERT IELTS TUTORS\nEvery word, definition and example sentence in this app ",
+    "icon": "/icons/com.magoosh.ielts.lessons.png"
+  },
+  "com.magoosh.toefl.flashcards.vocabulary": {
+    "title": "TOEFL Vocabulary Flashcards",
+    "package": "com.magoosh.toefl.flashcards.vocabulary",
+    "description": "Don't just stare at wordlists\u2014master the 600 most important TOEFL vocabulary words with the highly-rated free flashcards for your Android phone or tablet. Practice every day to improve your vocab knowledge.\n\n- 600+ vocab words picked by an expert TOEFL tutor\n- Definitions and example sentences for every word\n- Decks for every difficulty level\n- Track your progress as you study\n- Smart algorithm focuses your practice for efficient learning\n\nThis app gives you free access to all of Magoosh\u2019s TOEFL flashcards. Sign in with a Magoosh account (or create a new one) to save your progress to the web. You can continue your practice online at https://toefl.magoosh.com/flashcards/vocabulary\n\nWritten by TOEFL experts\n------------------------\nThe entire TOEFL wordlist is selected and defined with usage",
+    "icon": "/icons/com.magoosh.toefl.flashcards.vocabulary.webp"
+  },
+  "com.mahaveerstudios.learnjavascript": {
+    "title": "Learn JavaScript",
+    "package": "com.mahaveerstudios.learnjavascript",
+    "description": "The best way to learn JavaScript programming is by practicing examples, solving questions, and taking quizzes. Learning JavaScript through exercises is an easy and effective way to master programming quickly. In this app, each topic includes its examples with unique outputs, helping you learn JavaScript more effectively.\n\nIf you're interested in web development, the Learn JavaScript App is the perfect solution. It efficiently teaches you how to create web development programs. Our app offers 200+ JavaScript exercises with outputs, questions, and quizzes. All programs are thoroughly tested and are compatible across all platforms.\n\nPlease use these examples as references and try them out on your own.\n\nFEATURES:\n\u2022 Ad-free\n\u2022 Offline mode\n\u2022 Enhanced stability\n\nPROGRAM TOPICS:\n\u2022 Basics\n\u2022 Numbers",
+    "icon": "/icons/com.mahaveerstudios.learnjavascript.png"
+  },
+  "com.mahaveerstudios.learnjavascriptfree": {
+    "title": "Learn JavaScript",
+    "package": "com.mahaveerstudios.learnjavascriptfree",
+    "description": "The best way to learn JavaScript programming is by practicing examples, solving questions, and taking quizzes. Learning JavaScript through exercises is an easy and effective way to master programming quickly. In this app, each topic includes its examples with unique outputs, helping you learn JavaScript more effectively.\n\nIf you're interested in web development, the Learn JavaScript App is the perfect solution. It efficiently teaches you how to create web development programs. Our app offers 200+ JavaScript exercises with outputs, questions, and quizzes. All programs are thoroughly tested and are compatible across all platforms.\n\nPlease use these examples as references and try them out on your own.\n\nFEATURES:\n\u2022 Ad-free\n\u2022 Offline mode\n\u2022 Enhanced stability\n\nPROGRAM TOPICS:\n\u2022 Basics\n\u2022 Numbers",
+    "icon": "/icons/com.mahaveerstudios.learnjavascriptfree.png"
+  },
+  "com.mahjong.classic.tile.match.puzzle": {
+    "title": "Mahjong Classic: Tile Match",
+    "package": "com.mahjong.classic.tile.match.puzzle",
+    "description": "\ud83c\udc04 Step into a calm and engaging Mahjong experience where every stage brings a fresh challenge! Pair matching tiles, clear the board, and enjoy a relaxing journey filled with satisfying puzzles and clever gameplay.\n\n\ud83c\udfae How to Play\n\n- Tap on matching tiles to remove them from the board\n- Clear all tiles to complete the level\n- Only unlocked tiles can be selected \u2014 choose wisely and plan your moves carefully!\n\n\ud83c\udf1f Highlights\n\n\ud83c\udc04 Traditional Mahjong gameplay with a modern twist\n\ud83e\udde9 Diverse and visually appealing layouts\n\ud83c\udf3f Soothing sounds and relaxing visuals\n\ud83d\udca1 Power-ups to help you overcome tricky levels\n\ud83c\udfa8 Simple, clean, and user-friendly interface\n\n\ud83e\udde0 Why You\u2019ll Love It\n\n\u25cf Boost your brain with fun and strategic puzzles\n\u25cf Unwind and relieve stress anytime, anywhere\n\u25cf Sharpen memory and concentration",
+    "icon": "/icons/com.mahjong.classic.tile.match.puzzle.png"
+  },
+  "com.mahjongfree.classic.solitaire.tilemaster": {
+    "title": "com.mahjongfree.classic.solitaire.tilemaster",
+    "package": "com.mahjongfree.classic.solitaire.tilemaster"
+  },
+  "com.mak.tamil": {
+    "title": "Tamil Keyboard",
+    "package": "com.mak.tamil",
+    "description": "A light weight keyboard to type in Tamil language in your Android mobile",
+    "icon": "/icons/com.mak.tamil.png"
+  },
+  "com.makemake.earthquake": {
+    "title": "Earthquakes Today: Tracker",
+    "package": "com.makemake.earthquake",
+    "description": "Stay safe and informed with Earthquakes Today \u2014 a powerful, free earthquake tracker and alert app that delivers seismic data from around the world.\n\nWhether you're in a high-risk zone or just curious about global tectonic activity, Earthquakes Today helps you track, analyze, and get notified about the latest earthquakes \u2014 anytime, anywhere.\n\nKey Features:\n\nEarthquake Notifications\n\u2022 Get earthquake notifications based on magnitude, location, and proximity\n\nLive Earthquake Map\n\u2022 View recent earthquakes on an interactive world map\n\u2022 Color-coded markers show magnitude and depth\n\u2022 Tap for detailed data, including location, time, and intensity\n\nEarthquake Summary\n\u2022 See the strongest, closest, and most recent earthquakes near you\n\u2022 Auto-updating list of global seismic activity\n\nPowerful Filters &",
+    "icon": "/icons/com.makemake.earthquake.png"
+  },
+  "com.makienkovs.animalsounds": {
+    "title": "Animal Sounds",
+    "package": "com.makienkovs.animalsounds",
+    "description": "Open the app and be surprised at how diverse and unusual sounds animals can make! Learn the voices of animals, their names and appearance with the whole family.\n\nThe application contains 108 animals, the collection is constantly being updated.\n\nThe animals are divided into 8 categories:\n- pets\n- domestic birds\n- wild southern animals\n- wild northern animals\n- wild birds\n- marine animals\n- reptiles\n- insects\n\nThe app contains the names of all the animals, so it is perfect for children to study on their own.\n\nOnly real photos of animals are used without a background, so that nothing distracts from studying.\n\nThe application has intuitive swipe management. When you click on the photo, the sound that this animal makes is played, when you click on the text, its name is pronounced.\nWhen you clic",
+    "icon": "/icons/com.makienkovs.animalsounds.png"
+  },
+  "com.malayalam.english.typing.keyboard.emoji.malayalam.language": {
+    "title": "Malayalam Typing Keyboard",
+    "package": "com.malayalam.english.typing.keyboard.emoji.malayalam.language",
+    "description": "Main Purpose of Malayalam Keyboard 2020\n\nMalayalam Keyboard 2020: Easy Typing Keyboard is the best mobile typing app for the Malayalam English language with different themes. Free English Malayalam keyboard 2020 is used for Malayalam and English Typing at the same time.\n\nMalayalam Keyboard 2020: Malayalam Typing Keyboard is free app for android mobiles in the Malayalam native language that type Malayalam & English. Malayalam English Keyboard is fast Malayalam typing app and easy Malayalam typing with all Malayalam words and Malayalam Alphabets. Fast Malayalam Typing Keyboard for android is the best Malayalam lovers with easy and Fast typing speed Keyboard. \n\nMalayalam Keyboard 2020: Easy Typing Keyboard is Malayalam words auto-correct functionality of new Malayalam keyboard which is a fast",
+    "icon": "/icons/com.malayalam.english.typing.keyboard.emoji.malayalam.language.png"
+  },
+  "com.malayalam.keyboard.malayalam.language.keyboard.app": {
+    "title": "Malayalam Keyboard",
+    "package": "com.malayalam.keyboard.malayalam.language.keyboard.app",
+    "description": "\u2605How to install Malayalam Keyboard? In the Description at the last give you the instruction of installation of Malayalam Typing Keyboard.\n\nMalayalam Keyboard: Malayalam Language Keyboard is Best Malayalam Language with Stylish Themes and New Emoji\u2019s. Malayalam Language Keyboard is an easy typing of Malayalam language and make it simple for all Malayalam Typing Keyboard user who want to write English to Malayalam and switch Malayalam to English at the same time. Malayalam Typing Keyboard special design for these people who love Malayalam Language. \n\nMalayalam Keyboard is best mobile Keyboard for typing in Malayalam language. Malayalam Typing Keyboard allows the user to write and type message in Malayalam language and Malayalam text words. Send message, email, and update status in Malayalam.",
+    "icon": "/icons/com.malayalam.keyboard.malayalam.language.keyboard.app.png"
+  },
+  "com.malayalamkeyboard.handwritingkeyboard": {
+    "title": "Malayalam Handwriting Keyboard",
+    "package": "com.malayalamkeyboard.handwritingkeyboard",
+    "description": "Unlock the power of expression with our innovative Malayalam Keyboard app. Seamlessly type, chat, and communicate in Malayalam with ease and precision. Our user-friendly keyboard layout, complete with intuitive predictive text and autocorrect features, ensures smooth and effortless typing. Whether you're composing messages, emails, or social media posts, our keyboard app offers a seamless Malayalam typing experience, empowering you to express yourself fluently and authentically.\n\nMalayalam Handwriting Keyboard app provides you with a feature for typing using drawing. English and Malayalam languages are converted from handwriting to actual text. The app also converts Hand Drawn Emojis and Shapes to Phone Emojis and Shapes. You can also draw emojis and type using it. App has a User-Friendly ",
+    "icon": "/icons/com.malayalamkeyboard.handwritingkeyboard.png"
+  },
+  "com.mandala.pattern.coloring.book.paint.by.number": {
+    "title": "Mandala Pattern Coloring Game",
+    "package": "com.mandala.pattern.coloring.book.paint.by.number",
+    "description": "Welcome to Mandala Pattern Color By Number, the ultimate destination for adults seeking a relaxing and immersive coloring experience! Dive into the world of colors, patterns, and creativity with our unique and captivating paint by number coloring game. Rediscover your inner artist as you bring stunning mandala designs to life, one color at a time.\nDiscover the therapeutic power of coloring with our app, designed to help you unwind, de-stress, and express your creativity in a fun and enjoyable way. Whether you're a coloring enthusiast or a novice looking to explore the world of coloring, Mandala Pattern Color By Number offers something for everyone.\nKey Features:\n1. Color By Number: Mandala Pattern Color By Number is all about coloring intricate mandala patterns using a simple and intuitive",
+    "icon": "/icons/com.mandala.pattern.coloring.book.paint.by.number.png"
+  },
+  "com.mandala.pattern.happy.paint.by.number.coloring.game": {
+    "title": "Mandala Color by Number Book",
+    "package": "com.mandala.pattern.happy.paint.by.number.coloring.game",
+    "description": "Mandala Color \u2013 A Captivating Coloring Game\n\nEmbark on a journey of creativity and relaxation with \"Mandala Color,\" a unique coloring game that transcends the boundaries of traditional coloring experiences.     Immerse yourself in a world of intricate designs, vibrant colors, and meditative gameplay, as you unleash your artistic expression on digital canvases inspired by the ancient art of mandalas.\n\nKey Features:\n\n-Mesmerizing Mandalas\nExplore a vast collection of beautifully crafted mandalas, each designed to evoke a sense of tranquility and balance.     From simple and elegant patterns to more complex and detailed designs, \"Mandala Color\" offers a diverse range of artistic possibilities.\n\n-Unleash Your Creativity\nBreak free from the constraints of traditional coloring books.     With an",
+    "icon": "/icons/com.mandala.pattern.happy.paint.by.number.coloring.game.jpg"
+  },
+  "com.manix.glitchphotovideoeffect": {
+    "title": "Glitch Video Effect : Photo &",
+    "package": "com.manix.glitchphotovideoeffect",
+    "description": "During the past few months, we have seen a lot of glitch fonts and effects used on various horror movie or video. It's a trend in a lot of sci-fi these days \nThat tends to mimic malfunctioning effects on fonts, images and videos, providing them with a certain movement. It also makes use of jagged lines or \nWaves, frozen or static looking visuals as well of inverted colors on images.\n\nPhoto and videos are one big, easy way you can signal this glitch.\n\nThis all will help you to create a horror movie like effect on your photo and scary video and show your friends your creativity by shocking them.\n\nIn this Glitch Video Effect : Photo & Video Editor app there is more than 20+ effect which you can apply on your videos.\n\nWith this Glitch Video Effect : Photo & Video Editor App you give 40+ Glitch",
+    "icon": "/icons/com.manix.glitchphotovideoeffect.png"
+  },
+  "com.maomishen.morse_code_training": {
+    "title": "Morse Code - Practice",
+    "package": "com.maomishen.morse_code_training",
+    "description": "Morse Code Practice is an app specially designed for Morse Code lovers and learners. It provides a rich series of learning and practice functions to help you master the reading and writing skills of Morse code, improve the accuracy of dictation, and strengthen the tapping skills of Morse code.\n\nThe main function:\n\nLearning mode: The application provides simple and easy-to-understand Morse code learning materials, suitable for Morse code beginners. You can learn the basic principles and usage of Morse code through the application.\nDictation Practice: In the Dictation Practice mode you can practice reading and writing Morse code. From basic letters to common phrases, you can gradually increase the difficulty to ensure your Morse code skills continue to improve.\nDictation Practice: Dictation ",
+    "icon": "/icons/com.maomishen.morse_code_training.png"
+  },
+  "com.marathi.english.typing.keyboard.emoji.marathi.language": {
+    "title": "Marathi Typing Keyboard",
+    "package": "com.marathi.english.typing.keyboard.emoji.marathi.language",
+    "description": "Main Purpose of Marathi Keyboard\n\nMarathi Keyboard 2020: Easy Typing Keyboard is the best mobile typing app for the Marathi English language with different themes. Free English Marathi keyboard 2020 is used for Marathi and English Typing at the same time.\n\nMarathi Keyboard 2020: Marathi Typing Keyboard is free app for android mobiles in the Marathi native language that type Marathi & English. Marathi English Keyboard is fast Marathi typing app and easy Marathi typing with all Marathi words and Marathi Alphabets. Fast Marathi Typing Keyboard for android is the best Marathi lovers with easy and Fast typing speed Keyboard. Marathi Keyboard Typing: Marathi words auto-correct functionality of new Marathi keyboard which is a fast typing keyboard with English keypad will provide to your mobile an",
+    "icon": "/icons/com.marathi.english.typing.keyboard.emoji.marathi.language.png"
+  },
+  "com.marathi.keyboard.for.android": {
+    "title": "Desh Marathi Keyboard",
+    "package": "com.marathi.keyboard.for.android",
+    "description": "Desh Marathi Keyboard is the most popular app to type both Marathi and English.\n\nDifferent ways to type\n- Marathi: Type in English and get Marathi words\n- Voice: Speak and get Marathi with voice typing\n- Handwriting: Draw and write Marathi letters with handwriting\n- Alphabets: Type by choosing each Marathi character\n- English: Easily turn off Marathi and type in English\n\nLanguage key\nThe key on the left side of the space bar lets you toggle Marathi on/off.\n- Keep it turned on to get English to Marathi suggestions \n- Turn it off when you're typing English\n- Long-press on this key to choose between English/Alphabets/Handwriting modes\n\nPowerful features to make your chats more fun\n- Stickers for WhatsApp and other messaging apps\n- Stylish fonts\n- Emoji row for easy access\n- Keyboard themes\n- ",
+    "icon": "/icons/com.marathi.keyboard.for.android.png"
+  },
+  "com.marathi.keyboard.marathi.language.keyboard.app": {
+    "title": "Marathi Keyboard",
+    "package": "com.marathi.keyboard.marathi.language.keyboard.app",
+    "description": "\u2605How to install Marathi Keyboard? In the Description at the last give you the instruction of installation of Marathi Typing Keyboard.\n\nMarathi Keyboard: Marathi Language Keyboard is Best Marathi Language with Stylish Themes and New Emoji\u2019s. Marathi Language Keyboard is an easy typing of Marathi language and make it simple for all Marathi Typing Keyboard user who want to write English to Marathi and switch Marathi to English at the same time. Marathi Typing Keyboard special design for these people who love Marathi Language. \n\nMarathi Keyboard is best mobile Keyboard for typing in Marathi language. Marathi Typing Keyboard allows the user to write and type message in Marathi language and Marathi text words. Send message, email, and update status in Marathi.\n\nMarathi Keyboard: You can suggest ",
+    "icon": "/icons/com.marathi.keyboard.marathi.language.keyboard.app.png"
+  },
+  "com.margoapps.jpgtopdf": {
+    "title": "PDF Photos: Convert JPG to PDF",
+    "package": "com.margoapps.jpgtopdf",
+    "description": "\u2b50 Convert JPG and photos into high-quality documents with PDF Photos \u2013 the best JPG to PDF converter. Turn any image into a document in just seconds, directly on your device. No internet required. Try it now! \ud83d\udcf2\nPDF Photos is a fast and easy-to-use app that allows you to convert your JPG to PDF quickly. Whether you need to convert photos to documents for sharing, storing receipts, or archiving, PDF Photos is the perfect tool. It\u2019s efficient, secure, and works offline \u2013 ensuring your files remain private.\nKey Features\n\u2022\t\ud83d\udcf7 Convert JPG to PDF: Choose one or more JPG photos and convert them into a single document. Whether you're converting a single image or an entire photo album, it\u2019s quick and simple.\n\u2022\t\ud83c\udfa8 Design and layout options: Customize page size (A4, Letter, etc.) and orientation (portra",
+    "icon": "/icons/com.margoapps.jpgtopdf.png"
+  },
+  "com.markodevcic.js_code_pad": {
+    "title": "JavaScript Coding Editor & IDE",
+    "package": "com.markodevcic.js_code_pad",
+    "description": "A fully functioning offline node.js runtime on your mobile device.\n\nIt lets you run JavaScript and TypeScript code and scripts offline on your phone, without any internet connection or server setup. \n\nYou can use it as a compiler, a console, an engine, a runtime, WebView, or an IDE. \n\nWhether you are a professional developer, a student, or a hobbyist, JavaScript CodePad will help you practice and improve your coding skills anytime, anywhere.\n\nBuilt in tsc compiler transpiles your TypeScript code to JavaScript offline.\n\nUse the WebView mode to access the built-in Web Browser Window and DOM interface. Combine HTML, CSS, and JavaScript and learn building Web apps. \n\nOrganise your code into modules and run multiple JS files using Node.js as a runtime (Internet connection required).\n\nYou can ru",
+    "icon": "/icons/com.markodevcic.js_code_pad.png"
+  },
+  "com.sonypicturescore": {
+    "title": "SONY PICTURES CORE",
+    "package": "com.sonypicturescore",
+    "description": "Epic Quality. Limitless Entertainment. Explore a huge selection of the latest blockbusters, classic hits, and hidden gems from Sony Pictures. Experience next-level picture and sound quality with Pure Stream technology and IMAX Enhanced movies on Sony Pictures Core - the best app to use on your BRAVIA TV.\nGo epic with the largest IMAX Enhanced library. Your BRAVIA TV showcases IMAX Enhanced content as it\u2019s meant to be seen with stunning expanded visuals and DTS audio to bring you a theater-quality experience. Watch our IMAX Enhanced movies here first along with the most IMAX Enhanced titles available anywhere.\nPush the limit with Pure Stream, the ultimate in streaming picture quality. Stream HDR titles with Pure Stream technology at lightning speed up to 80Mbps - so fast it\u2019s like watching ",
+    "icon": "/icons/com.sonypicturescore.jpg"
+  },
+  "com.marsai.tipeasy": {
+    "title": "Tiptop Split - Tip Calculator",
+    "package": "com.marsai.tipeasy",
+    "description": "Tiptop Split \u2014 The Fastest Way to Calculate Tips & Split Bills\n\nTired of awkward moments when the check arrives? Tiptop Split makes tipping and bill splitting fast, easy, and stress-free.\n\n\u2728 KEY FEATURES\n\n\ud83d\udcb0 Instant Tip Calculator\n\nChoose from common tip percentages (10%, 15%, 18%, 20%, 25%) or enter a custom amount.\nSee the tip and total update in real time.\n\ud83d\udc65 Easy Bill Splitting\n\nSplit the bill evenly among any number of people.\nInstantly view the per-person amount, perfect for group dinners and outings.\n\u26a1 Lightning Fast\n\nClean, intuitive interface with no sign-up required.\nWorks offline \u2014 no internet needed.\n\ud83c\udfa8 Beautiful Design\n\nModern, minimal UI with dark mode support.\nDesigned for one-handed use.\n\ud83c\udf7d\ufe0f PERFECT FOR\n\nRestaurant dinners with friends\nCoffee runs with coworkers\nGroup lunches a",
+    "icon": "/icons/com.marsai.tipeasy.png"
+  },
+  "com.masnoon.subashamazkaar.readazkaar": {
+    "title": "Subah Sham Ke Azkar-Dua Azkar",
+    "package": "com.masnoon.subashamazkaar.readazkaar",
+    "description": "Subah Sham Ke Azkar-Masnoon Azkar read the essential prayers for morning and evening from the alternation of time. Subhu sham ki duaen and the golden words of Allah \u2018s blessing are to remember and revise again and again. My morning start is with the name of Allah Rabul Ezat in terms of morning supplications Subah Sham Ke Azkar-Masnoon Azkar. Suba o sham ke azkars are specifically compiled with the selection of some Surah and ayats from the Holy Quran.\n\nThe Subah Sham Ke Azkar-Masnoon Azkar are particular for morning time and there are some blessings of the surahs and words which have their effect for the beginning of the day. When you start your every new day with the bountiful remembrance of Allah, the Subah Sham Ke Azkar-Masnoon Azkar sunehri azkar consequently gives you in the strict pr",
+    "icon": "/icons/com.masnoon.subashamazkaar.readazkaar.png"
+  },
+  "com.sonos.acr": {
+    "title": "Sonos S1 Controller",
+    "package": "com.sonos.acr",
+    "description": "This app controls systems that include the earliest Sonos products: Zone Players, Play:5 (Gen 1), Bridge, Connect (Gen 1) and Connect:Amp (Gen 1) \n\nEasily control your system. \nAdjust volume levels, group rooms, save favorites, set alarms, and more. \n\nStream from popular services.\nConnect your streaming services and browse all your music, podcasts, radio, and audiobooks in a single app.  \n\nListen to Sonos Radio. \nEnjoy thousands of stations free on your system, including live radio from around the world, genre stations, artist-curated stations, and original programming from Sonos.\n\nIf you are a California resident, for more information about our privacy practices, please see:\nCalifornia Privacy Notice: https://www.sonos.com/legal/privacy#legal-privacy-addendum-container",
+    "icon": "/icons/com.sonos.acr.png"
+  },
+  "com.maxfinance.emicalculator.loan": {
+    "title": "Loan EMI Calculator",
+    "package": "com.maxfinance.emicalculator.loan",
+    "description": "Easily calculate your loan EMI, interest, and total cost with the EMI Loan Calculator app. Whether it\u2019s a personal loan, home loan, car loan, student loan, or mortgage, our app provides accurate and reliable calculations to help you plan your finances effectively.\n\nKey Features:\nAuto Loan Calculator: Calculate EMIs for car or auto loans quickly and accurately.\nHome Loan Calculator: Plan your mortgage payments with ease.\nStudent Loan Calculator: Manage your education loan with smart calculations.\nPersonal Loan Calculator: Understand your monthly installments and total cost.\nLoan Interest Calculator: Determine interest amounts for any loan type.\nMortgage Loan Calculator: Get detailed repayment schedules for home loans.\nCustomizable Loan Settings: Enter your loan amount, tenure, and interest ",
+    "icon": "/icons/com.maxfinance.emicalculator.loan.jpg"
+  },
+  "com.maxlab.parallax3dlivewallpaperlite": {
+    "title": "Parallax 3D Live Wallpaper",
+    "package": "com.maxlab.parallax3dlivewallpaperlite",
+    "description": "Incredible 3D parallax, volumetric backgrounds in your phone! Try it for free!\n\nShare with your friends!\n\nTry a lite version to estimate the quality of wallpaper!\n\nBuy the full version with all 3D images!\n\n\u2666 More than 15 (stay tuned!) incredible 3D images with excellent quality\n\n\u2666 Handy switching of 3D images\n\n\u2666 No cache needed\n\n\u2666 Quick settings\n\nAdditional information:\n\n\u2666  Wallpaper supports phones and tablets (landscape and portrait orientation)\n\u2666  Battery saving:\n  - Consumption of resources is only if visible\n  - Frames per second limit\n\u2666  OpenGL ES 2.0 required\n\nSome of the described functions are only available when purchasing the full version. Application can be extended to the full version by downloading the paid version. When you taking in-app purchases, you get lifetime access to",
+    "icon": "/icons/com.maxlab.parallax3dlivewallpaperlite.png"
+  },
+  "com.maya.newmyanmarkeyboard": {
+    "title": "Unicode Keyboard",
+    "package": "com.maya.newmyanmarkeyboard",
+    "description": "Myanmar English keyboard is especially designed for Myanmar people who write messages, text in local Myanmar language. Myanmar keyboard for samsung is  easy typing of Myanmar language available.\n\nHow to use keyboard\n\n- Enable fast keyboard.\n- Select fast keyboard.\n\n\u201cFast keyboard & Voice Translator\u201d provide another way of typing in the form of bagann keyboard version with;\n\nstylish emoji stickers is a keyboard for android with cute emoji for messages,\n-smiley emoji stickers for customization of your keyboard with chat,\n-smiley face emoji  with animated emojis stickers.\n\nPrivacy Policy\n\n Fast keyboard will never ask for your personal data like password, credit card number, id card number etc. For more information, please read our privacy policy carefully.\n \nFeatures:-\n\nBackground photo with",
+    "icon": "/icons/com.maya.newmyanmarkeyboard.png"
+  },
+  "com.maya.newpersiankeyboard": {
+    "title": "Persian Keyboard App",
+    "package": "com.maya.newpersiankeyboard",
+    "description": "Farsi keyboard for android is fast typing keyboard with smileys, cute emojis, stylish stickers, beautiful background themes. Persian voice keyboard is easy typing app for Both English Farsi languages.\n\nFast keyboard provide another way of typing in the form of Farsi keyboard with;\nStylish emoji stickers is a keyboard for android with cute emoji for messages.\nSmiley emoji stickers for customization of your keyboard with chat.\nSmiley face emoji  with animated emojis stickers.\n\n\nHow to use Farsi keyboard\n\nEnable Farsi keyboard.\nSelect Farsi keyboard.\n\nPrivacy Policy\n\nFarsi keyboard will never ask for your personal data like password, credit card number, id card number. For more information, please read our privacy policy carefully.\n\nFeatures\n\nBackground my photo keyboard with stylish themes\n\n",
+    "icon": "/icons/com.maya.newpersiankeyboard.png"
+  },
+  "com.maya.newvietnamesekeyboard": {
+    "title": "Vietnamese English Keyboard",
+    "package": "com.maya.newvietnamesekeyboard",
+    "description": "Vietnamese English keyboard is especially designed for Vietnamese people who write messages, text in local Vietnamese language. Vietnamese keyboard for samsung is  easy typing of Vietnamese language available on Google play store.\n\nHow to use Vietnamese keyboard\n\n- Enable Vietnamese keyboard.\n- Select Vietnamese keyboard.\n\nVietnamese keyboard provide another way of typing in the form of Vietnamese text typing with;\n\n- stylish emoji stickers is a keyboard for android with cute emoji for messages.\n- smiley for customization of your keyboard with chat.\n- smiley face emoji  with animated emojis.\n\nPrivacy Policy\n\nVietnamese keyboard will never ask for your personal data like password, credit card number, id card number etc. For more information, please read our privacy policy carefully.\n \nFeatu",
+    "icon": "/icons/com.maya.newvietnamesekeyboard.png"
+  },
+  "com.mayur.emicalculator": {
+    "title": "EMI calculator & Interest",
+    "package": "com.mayur.emicalculator",
+    "description": "\ud83d\udcb0 EMI Calculator & Interest \u2013 All-in-One Finance Calculator\n\nEasily calculate your EMI, Fixed Deposit (FD), SIP, and Recurring Deposit (RD) with this fast and simple calculator app.\n\nThis app helps you plan your finances smartly with accurate results and an easy-to-use interface.\n\n\u26a1 Key Features:\n\u2714 EMI Calculator (Loan EMI)\n\u2714 Fixed Deposit (FD) Calculator\n\u2714 SIP Investment Calculator\n\u2714 Recurring Deposit (RD) Calculator\n\u2714 Public Provident Fund (PPF) Calculator\n\u2714 Instant and accurate results\n\u2714 Simple & clean UI\n\u2714 Lightweight & fast app\n\n\ud83d\udcca Plan your loans and investments efficiently:\n\u2022 Home Loan EMI\n\u2022 Personal Loan EMI\n\u2022 Car Loan EMI\n\u2022 Investment growth (SIP, FD, RD, PPF)\n\n\ud83d\udca1 Whether you're planning a loan or saving money, this app gives you quick and reliable calculations.\n\n\ud83d\ude80 Download now and ",
+    "icon": "/icons/com.mayur.emicalculator.png"
+  },
+  "com.mboard.manglishkeyboard.malayalamkeyboard": {
+    "title": "MBoard | Manglish keyboard | M",
+    "package": "com.mboard.manglishkeyboard.malayalamkeyboard",
+    "description": "Manglish and malayalam keyboard with offline prediction.\nFun stickers.\nThemes to choose from. \nworks offline.\nNO ADS",
+    "icon": "/icons/com.mboard.manglishkeyboard.malayalamkeyboard.png"
+  },
+  "com.mckimquyen.lenslauncher": {
+    "title": "Fisheye Launcher",
+    "package": "com.mckimquyen.lenslauncher",
+    "description": "Fisheye Launcher: A Whole New Way to Explore and Launch Your Apps!\n\n\u270d\ufe0f Are you tired of the same old, tedious process of scrolling through endless lists of apps and swiping through cluttered home screens? With Fisheye Launcher, you\u2019ll never look at app navigation the same way again. This revolutionary launcher brings an exciting and highly efficient approach to organizing and accessing your apps, designed to save you time and enhance your overall experience.\n\n\u270d\ufe0f What Makes Fisheye Launcher Different?\nForget about the conventional app drawers and screens full of icons scattered across multiple pages. Fisheye Launcher introduces two key features that set it apart from the crowd:\n\n\u270d\ufe0f Equispaced Grid\nUnlike traditional launchers, Fisheye Launcher arranges all your apps into a perfectly spaced ",
+    "icon": "/icons/com.mckimquyen.lenslauncher.png"
+  },
+  "com.medm.medmbg.diary": {
+    "title": "Blood Sugar Diary for Diabetes",
+    "package": "com.medm.medmbg.diary",
+    "description": "Easily track your blood sugar, A1C, cholesterol, medications, blood pressure, weight, and more \u2014 manually or automatically from hundreds of supported Bluetooth-enabled meters. \n\nBlood Sugar Diary for Diabetes is designed to make everyday health tracking simple and stress-free for individuals managing Type 1, Type 2, or Gestational diabetes. The app has a clean, intuitive interface and works with or without registration, so you stay in control from the start.\n\nLog your vitals in seconds, spot trends over time, stay organized, and easily share clear reports with your doctor and family when you need them.\nYou decide where your data lives: keep it safely on your smartphone, or optionally back it up to MedM Health Cloud for extra convenience and peace of mind.\n\nFREE TO START, POWERFUL WHEN YOU ",
+    "icon": "/icons/com.medm.medmbg.diary.png"
+  },
+  "com.meetanshi.hangmanWord": {
+    "title": "Hangman Word Master Challenge",
+    "package": "com.meetanshi.hangmanWord",
+    "description": "Hangman Word Master Challenge is the ultimate word guessing game for players of all ages! Challenge your brain, improve your vocabulary, and enjoy endless fun as you try to guess the hidden words before the Hangman is completed.\n\nWhether you are playing alone or with a friend, Hangman Word Master Challenge offers exciting gameplay, colorful themes, and multiple difficulty levels. Compete in 2 Player Mode with friends or family, or enjoy single-player challenges to train your mind.\n\n\u2b50 Key Features\nSuitable for all ages \u2013 kids, adults, and seniors\n2 Player Mode \u2013 challenge friends on the same device\nHundreds of words and multiple difficulty levels\nFun and addictive gameplay \u2013 guess the word before the Hangman finishes\nColorful, modern, and engaging design\nOption to enable or disable sound ef",
+    "icon": "/icons/com.meetanshi.hangmanWord.png"
+  },
+  "com.skyensolutions.eduplayce.eduplayce": {
+    "title": "Studiely: Your Daily Study App",
+    "package": "com.skyensolutions.eduplayce.eduplayce",
+    "description": "Select your curriculum. Type your topic. Study smarter \u2014 in seconds.\n\nStudiely is the AI study app built for school students in the UK, US, Australia, Canada and beyond. Choose your curriculum and exam board, pick your grade level, and Studiely instantly generates everything you need to study \u2014 calibrated to exactly what your examiner expects. No textbook hunting. No uploads. No wasted time.\n\nStart with 5 one-time free credits \u2014 no subscription needed, no card required. Try every study tool before you commit.\n\nMEET NYLA \u2014 YOUR AI STUDY TUTOR\n\nNyla is your personal AI tutor, available 24/7. She knows your curriculum, your exam board and your grade level \u2014 so every answer is syllabus-relevant and exam-ready. Ask anything. Get instant, accurate answers. \n\nSTUDY TOOLS\n\nSUMMARY NOTES\nAI-generat",
+    "icon": "/icons/com.skyensolutions.eduplayce.eduplayce.png"
+  },
+  "com.vishalvyas.dev778.dailyyou": {
+    "title": "DailyYou",
+    "package": "com.vishalvyas.dev778.dailyyou",
+    "description": "DailyYou: Your Ultimate AI-Powered Wellness & Health Companion\n\nTake control of your health journey with DailyYou, the cutting-edge, all-in-one platform designed to simplify your nutrition, fitness, and medical management. Whether you\u2019re looking to lose weight, track your gym progress, or keep your medical history organized, DailyYou combines advanced Artificial Intelligence with a premium, user-friendly interface to provide a seamless wellness experience.\n\n\ud83e\udd57 AI-POWERED NUTRITION AT YOUR FINGERTIPS\nStop guessing your calories. With our integrated Google Gemini AI technology, tracking your food is as easy as snapping a photo.\n\nInstant Image Analysis: Take a picture of your plate, and our AI instantly identifies the food and calculates calories, protein, carbohydrates, and fats.\nPrecision an",
+    "icon": "/icons/com.vishalvyas.dev778.dailyyou.png"
+  },
+  "com.daily.study.bible": {
+    "title": "Daily Study Bible - Earn Money",
+    "package": "com.daily.study.bible",
+    "description": "\ud83d\udcdc Daily Study Bible - Earn Real Money: Read, Quiz, and Earn \ud83d\udcb0\ud83c\udf1f\n\nDaily Study Bible - Earn Real Money is your all-in-one app for spiritual growth and financial rewards. Dive into the Bible with daily readings and quizzes, and earn real cash as you deepen your faith. \ud83d\udcda\ud83d\udcb8\n\nKey Features: \u2728\n\nDaily Bible Readings: Start your day with inspiring passages from the Bible. Each reading is designed to provide guidance and insight. \ud83c\udf05\n\nEngaging Quizzes: Test your knowledge with daily quizzes that follow your readings. The more you know, the more you earn! \ud83e\udde0\n\nEarn Real Cash: As you read and quiz, you earn points that can be converted into real money. It's that simple! Use your earnings to support your spiritual journey or treat yourself. \ud83c\udf89\n\nWhy Daily Study Bible - Earn Real Money? \ud83e\udd14\n\nSpiritual and Financia",
+    "icon": "/icons/com.daily.study.bible.png"
+  },
+  "com.tribex.shabbat": {
+    "title": "Shabbat.com",
+    "package": "com.tribex.shabbat",
+    "description": "The Shabbat.com app is a free world-wide Jewish community, effectively a Jewish social network connecting members for Shabbat hosting, events, Jewish dating, and much more. Members can host or be hosted for Shabbat and help each other and build a kinder world.\n\nShabbat.com offers the following features:\n\n- Members available for Shabbat in 120 countries and 4000 cities\n- Uploading pictures and status updates to a global feed using your camera's photo app or your gallery\n- Full featured messaging\n- Audio of the weekly Shabbat Parsha (Torah Portion) featuring Rabbi Juravel\n- Candle lighting times worldwide\n- Swipe-able dating profiles\n- Video sharing and friending\n- Feedback from other Shabbat.com members\n\nThis app requires certain permissions to provide you with the best possible experience:",
+    "icon": "/icons/com.tribex.shabbat.png"
+  },
+  "com.trainerize.trainwithchita": {
+    "title": "Chita",
+    "package": "com.trainerize.trainwithchita",
+    "description": "Everything you need in your pocket. Let's do this! Chita xxx",
+    "icon": "/icons/com.trainerize.trainwithchita.png"
+  },
+  "com.meihillman.ringtonemaker": {
+    "title": "Ringtone Maker - MP3 Cutter",
+    "package": "com.meihillman.ringtonemaker",
+    "description": "Ringtone Maker & MP3 Cutter is  a very compact and practical ringtone production tool, has the following powerful features:\n1. Cut the music files stored on the phone, made a unique ringtone.\n2. Record new sound, sound recording will be cut and produced as ringtones.\n3. Scan music stored in your phone and various audio files, music editing and clipping.\n4. Have a built-in file browser, easy to find and open the music.\n5. Powerful audio editing features, millisecond-level perfect cut.\n6. Software supports audio formats MP3, WAV, AAC, AMR, 3GPP, 3GP, M4A.\n7. The software will produce a good music file as the default ringtone or warning tone, can be added to a contact as a ringing tone.\n8. Waveform display, and there are five scaling.\n9. Touch to adjust the ringtone by starting and ending loc",
+    "icon": "/icons/com.meihillman.ringtonemaker.png"
+  },
+  "com.melody.cool.back_pro": {
+    "title": "Edge swipe gesture pro",
+    "package": "com.melody.cool.back_pro",
+    "description": "**Usage of AccessibilityService API:**\n1. Switch on the gesture service of \"Edge Swipe Gesture Pro.\" After enabling this switch, locate \"Edge Swipe Gesture Pro\" in the accessibility settings page and turn on the switch. Once enabled, the app can utilize the capabilities of the accessibility service to provide floating window functionality on the device. It allows adding global floating windows and executing \"Global Actions\" such as Back, Return to Home Screen, Open Recent Apps, Open Power Dialog, Open Split Screen, Pull Down Notifications, Open Quick Settings, Lock Screen, and Take Screenshots.\n\n2. Toggle on the top gesture switch of \"Edge Swipe Gesture Pro.\" After enabling this switch, by default, a touch overlay layer is added to the right side of the phone's status bar (based on Accessi",
+    "icon": "/icons/com.melody.cool.back_pro.png"
+  },
+  "com.memoryto.ielts.app.twa": {
+    "title": "IELTS Vocabulary Flashcards",
+    "package": "com.memoryto.ielts.app.twa",
+    "description": "\u26a1\ufe0fBoost Your IELTS Vocabulary with Smart Flashcards\ud83d\ude0e\n\nGetting ready for the IELTS exam?\nThis app helps you build the essential English vocabulary you need to succeed on the IELTS \u2014 through smart flashcards, spaced repetition, and visual learning. Whether you\u2019re aiming for Academic or General Training, this app helps you learn faster, retain more, and feel confident on test day.\n\nVocabulary is key to performing well across all four sections of the IELTS: reading, writing, listening, and speaking. Our focused flashcard decks help you understand, remember, and use new words effectively in real contexts.\n\n\ud83d\ude80 Why IELTS Learners Trust This App\n\n\u2705 IELTS-Focused Word Lists\nLearn vocabulary commonly used in IELTS tasks, academic passages, everyday conversations, and essay questions. Decks are organi",
+    "icon": "/icons/com.memoryto.ielts.app.twa.png"
+  },
+  "com.mera.islam.duaazkar": {
+    "title": "Dua Azkar",
+    "package": "com.mera.islam.duaazkar",
+    "description": "Dua Azkar provides a complete collection of authentic Islamic supplications and remembrances that Prophet Muhammad (PBUH) recommended for Muslims to recite at specific times and during daily activities. The app is designed with a user-friendly interface that makes it easy to navigate through various categories.\n\nThe app includes:\n\nFull morning and evening azkar with counters to track repetitions\n\nDuas for daily activities (sleeping, eating, entering home, etc.)\n\nSpecial occasion duas (for anxiety, distress, repentance, etc.)\n\nRamadan-specific supplications\n\nPrayer-related duas\n\nEach entry includes the original Arabic text, phonetic transliteration for those unfamiliar with Arabic, and translation in multiple languages. References to authentic Hadith collections are provided for each suppli",
+    "icon": "/icons/com.mera.islam.duaazkar.png"
+  },
+  "com.metal.detector.field.magnetic.analyzer": {
+    "title": "EMF Scanner - Metal Detector",
+    "package": "com.metal.detector.field.magnetic.analyzer",
+    "description": "EMF Scanner - Metal Detector is an application that helps you measure magnetic field, detect electromagnetic fields and track EMF levels using the device\u2019s magnetic sensor. The EMF scanner shows magnetic field values \u200b\u200band follows electromagnetic field fluctuations across different environments, allowing users to review EMF signals and analyze surrounding electromagnetic fields.\n\nKey features of EMF Scanner - Metal Detector\n\ud83d\udce1 EMF Scanner tracks changes in electromagnetic fields, EMF levels, EMF signals and magnetic field values \u200b\u200bnear electronic devices or various locations. It functions as a field detector and smart EMF detector for easy monitoring.\n\n\ud83e\uddf2 Metal Detector mode identifies metal objects and hidden metal through the device's magnetic sensor, working like a practical metal detecto",
+    "icon": "/icons/com.metal.detector.field.magnetic.analyzer.png"
+  },
+  "com.mhhijab.hangman_game": {
+    "title": "Hangman Game: Guess The Word",
+    "package": "com.mhhijab.hangman_game",
+    "description": "Hangman Game: Guess The Word\n\nExperience the classic thrill of Hangman, now with a bilingual twist!\n\nKey Features:\n\nBilingual Word Challenges: Dive into a vast collection of 500 words, split evenly with 250 in Arabic and 250 in English. Perfect for language enthusiasts and those looking to improve their skills in either language.\nTry Limit: Each word comes with a challenge - you have a maximum of 6 tries to guess it right. Sharpen your guessing skills and vocabulary with each round.\nOffline Gameplay: Enjoy the game anytime, anywhere without the need for an internet connection. Perfect for passing time while traveling or unwinding at home.\nScoreboard System: Keep track of your linguistic prowess! The scoreboard records your correctly guessed words and the mistakes you've made, helping you m",
+    "icon": "/icons/com.mhhijab.hangman_game.png"
+  },
+  "com.microscopesmartzoom.camera": {
+    "title": "Microscope Smart Zoom Camera",
+    "package": "com.microscopesmartzoom.camera",
+    "description": "Pictures that are greatly magnified are usually shaky and blurry. With this magnifier camera, low-quality pictures are no longer possible. Amazing image stabilization (IS) capabilities are provided by this application.\n\nHD Microscope with Magnifying Zoom Using a camera, you can see details that even people with normal vision cannot, from reading small text at a distance to studying signs from a great distance. Use the camera on your smartphone as a microscope by putting it close to small items.\n\nHave you ever been in a situation where you were trying to read something's fine print but were unable to? Use this application to improve the visibility of objects or text in low-light conditions, such as the labels on medication bottles, bank notes, restaurant menus, prescriptions, visiting cards",
+    "icon": "/icons/com.microscopesmartzoom.camera.png"
+  },
+  "com.midasplayer.apps.bubblewitchsaga2": {
+    "title": "Bubble Witch 2 Saga",
+    "package": "com.midasplayer.apps.bubblewitchsaga2",
+    "description": "From the makers of Candy Crush Saga, Bubble Witch Saga & Farm Heroes Saga comes Bubble Witch 2 Saga!\n\nStella and her cats need your help to fend off the dark spirits that are plaguing their land. Travel the realm bursting as many bubbles as you can in this exciting bubble shooting puzzle adventure. Win levels and free Witch Country piece by piece. Play this epic saga alone or with friends to see who can get the highest score!\n\nBubble Witch 2 Saga is completely free to play but some optional in-game items will require payment.\n\nBy downloading this game you are agreeing to our terms of service; http://about.king.com/consumer-terms/terms\n\nBubble Witch 2 Saga features:\n\u2022 The next exciting instalment to the Bubble Witch franchise \n\u2022 New and improved game modes\n\u2022 Enchanting graphics that will le",
+    "icon": "/icons/com.midasplayer.apps.bubblewitchsaga2.png"
+  },
+  "com.mifthi.ledgerbooks": {
+    "title": "Ledger Books",
+    "package": "com.mifthi.ledgerbooks",
+    "description": "This app will change your life to another level by helping you in managing your personal/business financial records and calculations with its tons of unique features available for FREE!\n\n\nFeatures\n=======\n* Create and use unlimited number of Ledger Books.\n* PDF statements with letterheads & letterheads manager.\n* Automation dispatcher for quickly managing pending automation.\n* Transaction dispatcher for managing automation on the go.\n* No Data is collected or shared. The backup system of this app utilizes your own Google drive within your own control.\n* Transactions details can be automatically send through Gmail, SMS and WhatsApp.\n* Automatic bulk Gmail\n* Automatically notifies through Gmail, SMS and WhatsApp when due date.\n* Send Gmail, SMS and WhatsApp on behalf of you.\n* Spreadsheet st",
+    "icon": "/icons/com.mifthi.ledgerbooks.png"
+  },
+  "com.milinix.englishgrammartest": {
+    "title": "English Grammar: Learn & Test",
+    "package": "com.milinix.englishgrammartest",
+    "description": "English Grammar - Learn, Practice & Test\nEnglish Grammar app makes it easy to improve your English grammar and get ready for an English grammar test or just improve your writing and speaking quickly. With English Grammar app, you can study for FREE with 300 grammar lessons and 20000 tests (10000 with explanation). Best of all, you can access these features anywhere and anytime when you download our app.\n\n300 grammar lessons and 20000 grammar questions will gradually improve your skills. When you complete your English test you see which aspects of English grammar you are good at and which of them require more practice. Prepare for IELTS, TOEFL, SAT, MCAT, LSAT, GMAT and GRE.\n\n\u2605 10000 Tests with Explanation \u2605 (New feature)\n\n\u2605 Confused Words (New feature)\nThis section contains a lot of common",
+    "icon": "/icons/com.milinix.englishgrammartest.png"
+  },
+  "com.milinix.ieltsvocabulary": {
+    "title": "IELTS\u00ae Vocabulary Flashcards",
+    "package": "com.milinix.ieltsvocabulary",
+    "description": "IELTS\u00ae Vocabulary Flashcards\n\nHow do you determine the best English vocabularies for the IELTS test?\nWhich words are the most important and the most effective for the IELTS exam? \nThe answer is here. Cambridge tests are the best references and books to prepare for the IELTS test. Our experts extracted all important words in these books by their repetition and categorized them. IELTS Vocabulary Flashcards app is the ideal solution for learning words efficiently by showing them just before you would forget. \n\nThe International English Language Testing System (IELTS) became the world\u2019s most popular English-language test for study, work and migration purposes. IELTS Vocabulary Flashcards is the app that covers the most important words used for the real IELTS exam and help you to achieve your g",
+    "icon": "/icons/com.milinix.ieltsvocabulary.png"
+  },
+  "com.military.binocularsspy45x.zoomcamera": {
+    "title": "Military Binoculars HD Camera",
+    "package": "com.military.binocularsspy45x.zoomcamera",
+    "description": "Now you can easily capture amazing high-resolution photos and videos. Easily take photos and record videos of far away objects.\n\nYou can use Military Binoculars in any situations where is necessary to save important views. Use it to capture imagery of the enemy's camp. Take note of the military capabilities of the enemy. Use it to take images of aircrafts in the sky. You can use it to have an eye on people far far away. Use it for hunting purposes. The support of the brightest flashlights makes it very useful when trekking and looking for food when camping.\n\nUse it as a replacement for your military microscope, magnifier, military telescope, magnifying glass, monocular, DSLR, GoPro, Zoom camera and camcorder with powerful image processing.\n\nFeatures:\n\u2022 Manually focus or Auto-Focus\n\u2022 Contin",
+    "icon": "/icons/com.military.binocularsspy45x.zoomcamera.png"
+  },
+  "com.minato.aquarium.fish": {
+    "title": "Aquarium Live Wallpaper 3D",
+    "package": "com.minato.aquarium.fish",
+    "description": "Aquarium Live Wallpaper 3D \nDeep down in the ocean, water is hiding many wonderful things you want to explore it.\nAquarium live wallpaper 3D app will show you that there are many species of fish and sea animals you would certainly like to see. Beautify your phone tropical aquarium fish images with light , bubble and backgroud hd.\nIf you're a fan of the ocean with coral fish with bubble with the aquarium Hd would be your choice.\nYou will have moments of relaxation upright on your phone screen live wallpaper.\nThere are twelve breathtaking ocean fish wallpapers on your disposal so you can change them whenever you want.\nChoose the exotic fish wallpaper HD you like the most and watch how the bubble of different size start to float on your screen turning it into a real aquarium  live wallpaper.\n",
+    "icon": "/icons/com.minato.aquarium.fish.png"
+  },
+  "com.linecorp.LGFARM": {
+    "title": "LINE BROWN FARM",
+    "package": "com.linecorp.LGFARM",
+    "description": "Story:\nEveryone's favorite LINE character, Brown, has taken up farming!\nHe's having a bit of trouble getting started, so the rest of the Brown clan have come to help him out!\nLearn how to make the best farm ever with Uncle Brown, the \"god of farming\"!\n\nLive the farmer's life in LINE Brown Farm! Whether you're helping other LINE characters, visiting your LINE friends' farms, or shooting the breeze with the many others of the Brown clan, there's tons of farming fun to be had!\n\n\u25a0\u25a0 Update Notice \u25a0\u25a0\n\n???: Adorable little crops! Feel my light!\nI'm a big bear, but fear not!\nMega Brown, the guardian god of the farm,\nhas come down to bless your fields!\nA myth of a giant bear was passed down from the time of Uncle Brown\u2019s uncle\u2019s uncle...!\nClimb the Sacred Tree right now and wake up the Mega Browns!",
+    "icon": "/icons/com.linecorp.LGFARM.png"
+  },
+  "com.mindmazes.invoiceapp": {
+    "title": "Invoice App & Receipt Maker",
+    "package": "com.mindmazes.invoiceapp",
+    "description": "Invoice App & Receipt Maker is a powerful and easy-to-use invoice maker and billing app designed for freelancers, contractors, and small business owners. Create professional invoices, send estimates, track payments, and manage clients \u2014 all in one fast, simple mobile tool.\n\nWhether you\u2019re a freelancer, handyman, consultant, or business owner, Invoice App & Receipt Maker helps you look professional and get paid faster.",
+    "icon": "/icons/com.mindmazes.invoiceapp.png"
   }
 }
