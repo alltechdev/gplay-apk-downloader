@@ -69950,5 +69950,657 @@
     "package": "com.mfans.filimo",
     "description": "\u0645\u062d\u0628\u0648\u0628 \u062a\u0631\u06cc\u0646 \u0633\u0631\u0648\u06cc\u0633 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0627\u0631\u0627\u0626\u0647 \u062f\u0647\u0646\u062f\u0647 \u0641\u06cc\u0644\u0645 \u0648 \u0633\u0631\u06cc\u0627\u0644 \u0647\u0627\u06cc \u0631\u0648\u0632 \u0628\u062f\u0648\u0646 \u0634\u06a9 \u0641\u06cc\u0644\u06cc\u0645\u0648 \u0627\u0633\u062a. \u0627\u06cc\u0646 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0645\u062c\u0645\u0648\u0639\u0647 \u06a9\u0627\u0645\u0644\u06cc \u0627\u0632 \u0628\u0647\u062a\u0631\u06cc\u0646 \u0641\u06cc\u0644\u0645 \u0647\u0627\u060c \u0633\u0631\u06cc\u0627\u0644\u200c\u0647\u0627 \u0648 \u0627\u0646\u06cc\u0645\u06cc\u0634\u0646\u200c\u0647\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646\u06cc \u0648 \u062e\u0627\u0631\u062c\u06cc \u0631\u0627 \u062f\u0631 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u062e\u0648\u062f \u0642\u0631\u0627\u0631 \u0645\u06cc \u062f\u0647\u062f. \u0627\u0645\u0627 \u0627\u06cc\u0646 \u0628\u0631\u0646\u0627\u0645\u0647 \u0686\u0647 \u0648\u06cc\u0698\u06af\u06cc \u0647\u0627\u06cc\u06cc \u062f\u0627\u0631\u062f\u061f\n\u2022  \u062f\u0648\u0628\u0644\u0647 \u0641\u0627\u0631\u0633\u06cc \u0628\u0633\u06cc\u0627\u0631\u06cc \u0627\u0632 \u0641\u06cc\u0644\u0645\u200c\u0647\u0627\u06cc \u067e\u0631\u0637\u0631\u0641\u062f\u0627\u0631 \u0631\u0627 \u062f\u0631 \u0627\u062e\u062a\u06cc\u0627\u0631 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u062f.\n\u2022  \u0627\u0637\u0644\u0627\u0639\u0627\u062a\u06cc \u0645\u062b\u0644 \u0646\u0627\u0645 \u06a9\u0627\u0631\u06af\u0631\u062f\u0627\u0646\u060c \u0628\u0627\u0632\u06cc\u06af\u0631\u0627\u0646\u060c \u0633\u0627\u0644 \u0633\u0627\u062e\u062a\u060c \u0646\u0645\u0631\u0647 \u0628\u06cc\u0646\u0646\u062f\u06af\u0627\u0646 \u0648 \u2026 \u0647\u0631 \u0641\u06cc\u0644\u0645 \u06a9\u0647 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u062f\u0631 \u0627\u0646\u062a\u062e\u0627\u0628 \u0634\u0645\u0627 \u0628\u0631\u0627\u06cc \u062f\u06cc\u062f\u0646 \u06cc\u0627 \u0646\u062f\u06cc\u062f\u0646 \u0622\u0646 \u0641\u06cc\u0644\u0645 \u0645\u0648\u062b\u0631 \u0628\u0627\u0634\u062f.\n\u2022  \u0627\u0645\u06a9\u0627\u0646 \u0646\u0648\u0634\u062a\u0646 \u06a9\u0627\u0645\u0646\u062a \u0646\u06cc\u0632 \u0648\u062c\u0648\u062f \u062f\u0627\u0631\u062f \u062a\u0627 \u0628\u06cc\u0646\u0646\u062f\u06af\u0627\u0646 \u0628\u062a\u0648\u0627\u0646\u0646\u062f \u0646\u0638\u0631\u0627\u062a \u062e\u0648\u062f \u0631\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u0627\u062b\u0631 \u0628\u0627 \u06cc\u06a9\u062f\u06cc\u06af\u0631 \u0628\u0647 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0628\u06af\u0630\u0627\u0631\u0646\u062f.\n\u2022  \u067e\u06cc\u0634 \u0646\u0645\u0627\u06cc\u0634 \u06a9\u0648\u062a\u0627\u0647 (Trailer) \u0646\u06cc\u0632 \u0627\u0632 \u062f\u06cc\u06af\u0631 \u0627\u0645\u06a9\u0627\u0646\u0627\u062a\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0641\u06cc\u0644\u06cc\u0645\u0648 \u0628\u0647 \u0634\u0645\u0627 \u06cc\u06a9 \u062a\u0635\u0648\u06cc\u0631 \u06a9\u0644\u06cc \u0627\u0632 \u0641\u0636\u0627\u06cc \u0641\u06cc\u0644\u0645 \u06cc\u0627 \u0633\u0631\u06cc\u0627\u0644 \u0645\u06cc \u062f\u0647\u062f.\n\u2022  \u062f\u0633\u062a\u0647 \u0628\u0646\u062f\u06cc \u0641\u06cc\u0644\u0645 \u0647\u0627 \u0628\u0631 \u0627\u0633\u0627\u0633 \u0698\u0627\u0646\u0631 \u06cc\u06a9\u06cc \u0627\u0632 \u0648\u06cc\u0698\u06af\u06cc\u200c\u0647\u0627\u06cc \u062e\u0648\u0628 \u0641\u06cc\u0644\u06cc\u0645\u0648 \u0627\u0633\u062a.\n\u2022  \u0642\u0641\u0644 \u06a9\u0648\u062f\u06a9 \u0641\u06cc\u0644\u06cc\u0645\u0648 \u0628\u0627\u0639\u062b \u0645\u06cc\u200c\u0634\u0648\u062f \u06a9\u0647 \u0628\u0627 \u062e\u06cc\u0627\u0644 \u0631\u0627\u062d\u062a \u0627\u0632 \u0627\u06cc\u0646 \u0628\u0631\u0646",
     "icon": "/icons/com.mfans.filimo.png"
+  },
+  "com.deem.app.twa": {
+    "title": "Deem for business travel",
+    "package": "com.deem.app.twa",
+    "description": "Deem Mobile is designed for anyone who wants business travel to be fast and easy. With full functionality to book flights, hotels, rental cars, and even Uber for Business, Deem Mobile makes it simple to manage an entire trip from a single app.\n \nDeem Mobile can create a personalized experience for any traveler by remembering your preferences, loyalty memberships, and frequently traveled destinations. And by presenting compliant travel options, Deem Mobile prevents the wrong travel options from being booked in the first place. \n\nManage Bookings\nModify or cancel reservations on your own with your mobile device.\n \nDesigned for Everyone\nDeem Mobile provides features like adjustable text size, VoiceOver, and a clean design to help users with hearing, cognitive, or motor impairments.\n\nEcoCheck\nE",
+    "icon": "/icons/com.deem.app.twa.png"
+  },
+  "com.dems.tmd": {
+    "title": "DEMS",
+    "package": "com.dems.tmd",
+    "description": "Complete Solution for Managing Outstation,Local Trip Expenses. Easily manage outstation and local trip expenses in one app. Track fuel, tolls, meals, and lodging, upload receipts, and generate clear trip reports. Perfect for employees, businesses, and frequent travelers.",
+    "icon": "/icons/com.dems.tmd.png"
+  },
+  "com.deempay.app": {
+    "title": "DeemPay",
+    "package": "com.deempay.app",
+    "description": "DeemPay is revolutionizing the way you manage money by combining task-based earning with seamless banking and bill payment services.\nWe allow users to earn money by completing simple tasks and turning everyday actions into tangible rewards. By merging simple task-based earning with seamless bill payments, banking transactions, and secure financial tools, we create a one-stop platform where users can grow their income while managing their finances effortlessly.\n\nIt's more than just convenience \u2013 it's an innovative way to help users build wealth while taking control of their financial lives.\n\nFeatures of DeemPay:\n\n\u2022   Earn Extra Cash: Get rewarded for completing simple tasks. Your efforts are instantly turned into real money that you can use.\n\n\u2022   Pay Bills with Ease: No more missing deadlin",
+    "icon": "/icons/com.deempay.app.jpg"
+  },
+  "com.colmex.dem_colmex": {
+    "title": "DEM",
+    "package": "com.colmex.dem_colmex",
+    "description": "Comprehensive descriptive dictionary of Spanish in its Mexican variety.\n\nThe Mexican Spanish Dictionary is the result of a set of research on the vocabulary used in the Mexican Republic since 1921. The research has been carried out since 1973 at the Center for Linguistic and Literary Studies of El Colegio de M\u00e9xico.\n\nThe Mexican Spanish Dictionary is a comprehensive dictionary of Spanish in its Mexican variety, prepared on the basis of an extensive study of the Corpus of Contemporary Mexican Spanish (1921-1974) and a set of data from after that last date to the present.\n\nThis is an original work, of a descriptive nature, made with exclusively linguistic criteria. All the vocabulary it includes has been used or is used in Mexico, at least since 1921.\n\nWhen you open the dictionary, the space",
+    "icon": "/icons/com.colmex.dem_colmex.png"
+  },
+  "com.shanggame.shtm": {
+    "title": "D-MEN: The Defenders",
+    "package": "com.shanggame.shtm",
+    "description": "Choose and assemble the ultimate team of legendary heroes to protect the earth from invasion. This innovated new game combines the best parts of collecting your favourite heroes, and levelling their skills and abilities, and defeating waves of enemies that have come to destroy your home!\n\nWelcome to D-MEN: The Defenders\uff01\n\nRealms\nLong before there were humans on earth, titans and gods clashed over the control of the Realms. To protect the inhabitants of each realm, the mightiest of all the gods sealed the passage to each world. A millennium has passed since then and the seal has been broken by Hela herself! The time has come to not only protect your world but of all beings in all the realms!\n\nStandard Features\n\nImprove, Adapt, and Fight\nChoose from a wide range of legendary heroes to stand ",
+    "icon": "/icons/com.shanggame.shtm.png"
+  },
+  "com.starmakerinteractive.starmaker": {
+    "title": "StarMaker: Sing Karaoke Songs",
+    "package": "com.starmakerinteractive.starmaker",
+    "description": "Want more music-loving friends? Bring out the singer in you in StarMaker\u2014\u2014The popular Karaoke App is featured by Google Play\ud83c\udfc6\nStarMaker is a popular singing app and music community with 50M+ users globally! Sing karaoke songs, share your special music moments and enjoy the community!\n\n\ud83c\udfa4Sing Karaoke Songs\nNo matter if you like Pop, Hip Hop, R&B, or Folk, you can now pick your favorites from millions of songs, sing along with the high-quality backing music and rolling lyrics, edit your recordings with professional video filters,voice and audio editor. Share on social platforms like Whatsapp, Facebook, Instagram, Twitter, Snapchat and more.\nAlso, you can now duet with top artists and sing together with a group of friends just like a superstar! Be a star and start your own music concerts! \n\n\ud83d\udccc ",
+    "icon": "/icons/com.starmakerinteractive.starmaker.png"
+  },
+  "com.soarinfotech.coupert": {
+    "title": "Coupert - Coupons & Cash Back",
+    "package": "com.soarinfotech.coupert",
+    "description": "Coupert \u2014 Your Smart Shopping Assistant\nCoupert is a free shopping assistant used by over 8 million users. It helps you save time and money while shopping online.\nCoupert helps you discover available coupon codes to apply at checkout. In addition, users can earn cashback on eligible purchases and compare prices across supported stores.\n\nWHY CHOOSE COUPERT?\nAccess Coupon Codes Across 200,000+ Stores\nCoupert helps you discover available coupons at checkout. Our coupon database is updated regularly with new offers.\nCashback & Rewards\nEarn cashback on eligible purchases, with rates that can reach up to 40% depending on the store and promotion. Rewards can be redeemed through supported options such as PayPal and gift cards.\nMobile & Desktop Support\nUse Coupert across supported mobile and deskto",
+    "icon": "/icons/com.soarinfotech.coupert.png"
+  },
+  "X.com": {
+    "title": "X.com",
+    "package": "X.com"
+  },
+  "com.sixdays.truckerpath": {
+    "title": "Trucker Path: Truck GPS & Fuel",
+    "package": "com.sixdays.truckerpath",
+    "description": "Trucker Path is the #1 truck navigation (Truck GPS) trusted by millions of CDL truck drivers. We focus on building maps for Truck Drivers, providing best-in-class trucker tools for truck navigation (Truck GPS), and finding the cheapest discounted fuel, truck stops, truck parking, weigh stations, and CAT scales. \n\nWe have Pilot Flying J, Love\u2019s Travel Center, Petro TA, Blue Beacon, Roady\u2019s, KwikTrip, Weigh Stations, CAT Scales, Diesel Fuel Prices, Rest Area, Truck Parking, Truck GPS, Truck Navigation, all in our Truck Maps.\n\nACCESS 40,000+ TRUCKING PLACES\n\u2605 Truck Maps with Truckstops and Truck Parking spots: Pilot Flying J, Loves, TA Truck, Travel Plazas, AM Best, CAT scale, free parking\n\u2605 Truck Maps containing thousands of independent truck stops, Rest Areas, Walmart, \n\u2605 Weather and live r",
+    "icon": "/icons/com.sixdays.truckerpath.png"
+  },
+  "com.usablenet.mobile.walgreen": {
+    "title": "Walgreens",
+    "package": "com.usablenet.mobile.walgreen",
+    "description": "Get the best of Walgreens at your fingertips. Refill prescriptions, access health services for your family, create custom photo keepsakes, shop, save and more.  \n \nPrescriptions & Pharmacy\n\u2022 Refill in a snap by scanning your prescription bottle\n\u2022 Receive refill updates and alerts\n\u2022 Track order status for the whole family\n\u2022 Never miss a refill with auto refills\n\nHealth Services\n\u2022 Book vaccinations for the whole family\n\u2022 Schedule COVID-19 and flu tests and check eligibility for antiviral prescription treatment\n\u2022 Get virtual online visits with a healthcare provider 24/7 for most non-emergency conditions\n\u2022 Find support for diabetes, pain management, mental health and more\n\u2022 Get FREE prescription and general health advice 24/7 from a pharmacy expert with Pharmacy Chat\n\nPhoto\n\u2022 Upload photos fro",
+    "icon": "/icons/com.usablenet.mobile.walgreen.png"
+  },
+  "com.fyers.trader": {
+    "title": "FYERS: Stocks & Option Trading",
+    "package": "com.fyers.trader",
+    "description": "FYERS is the best trading platform, designed with insights from over 1M+ traders and investors. Whether you're new to the share market application or an experienced trader, FYERS provides a seamless way to trade stocks, futures, options, commodities, mutual funds, ETFs, IPOs, SGBs, and corporate bonds.\n\nWhy choose FYERS?\nFYERS offers the best trading application for traders and investors, bringing together advanced tools and features to enhance your trading experience. Features such as:\n\nFree Demat & Trading Account\n\u2219 Open a free Demat account in just 5 minutes through paperless KYC\n\u2219 Zero Demat AMC ensures cost-effective trading\n\u2219 Enjoy competitive charges: \u20b920 or 0.3% per executed order for delivery and MTF, and up to \u20b920 per order for other segments\n\u2219 Specialised accounts available: Min",
+    "icon": "/icons/com.fyers.trader.png"
+  },
+  "com.gameram.gameram": {
+    "title": "Gameram: Find gaming teammates",
+    "package": "com.gameram.gameram",
+    "description": "Gameram is a social network created for everyone who plays games and wants to share their passion.\t\t\t\t\t\t\t\t\t\t\nIt doesn\u2019t matter if you prefer mobile games, long PC sessions, epic battles on consoles like PlayStation, Xbox or Nintendo, or even classic board games \u2013 Gameram welcomes you. This is the place where gamers meet, chat, play together, and create real community.\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\nHere you can easily FIND new friends and teammates.\t\t\t\t\t\t\t\t\t\t\nPost your gaming IDs, join multiplayer adventures, or look for a partner for casual and ranked matches. Whether you want serious teammates for competitive games or just a buddy to relax with, Gameram helps you discover people with the same interests. Over time you can form a long-lasting squad and community around your favorite title.\t\t\t\t\t\t\t\t\t\t",
+    "icon": "/icons/com.gameram.gameram.png"
+  },
+  "com.gameone.candycruiseswap.free": {
+    "title": "Candy Charming - Match 3 Games",
+    "package": "com.gameone.candycruiseswap.free",
+    "description": "Play \ud83c\udf6cCandy Charming!\ud83c\udf6c Enjoy fun match 3 free games! Over 8 million candy charmers are playing our free match 3 games! Candy Charming is a new and free match 3 games full of fun and joy!  There\u2019re 3000+ challenging match 3 levels waiting for you! And we will regularly add new levels. This fun candy match 3 game won\u2019t disappoint you.\n\nExploring magical candy kingdoms, challenging different match 3 levels, helping lovely candy fairy to crush candy! Can\u2019t wait to try this match 3 game? Get the matching game for free now! Besides, We update this free game monthly to bring you better experience. Don\u2019t miss this match 3 games!\n\nBored at home? Play this free game full of huge\ud83c\udf81rewards with your friends and family. This free game is a great tool to help you relax. \ud83d\udc4fYou can enjoy thousands of candy ",
+    "icon": "/icons/com.gameone.candycruiseswap.free.jpg"
+  },
+  "com.games.layerman": {
+    "title": "Layer Man 3D: Run & Collect",
+    "package": "com.games.layerman",
+    "description": "Yo, check it out! Layer Man is an insanely exciting hyper-casual mobile game that guarantees players an entertaining and addictive experience. The game is all about a stickman runner who races through a crowded runway to collect as many hoops as possible without hitting any obstacles.\n\nOne of the most awesome things about the game is how simple it is. All you gotta do is collect layers scattered throughout the runway to build a slinky toy. The more layers you collect, the longer the slinky toy becomes, which can give you a sweet boost on the final stage of the level. It's easy to understand, but challenging to master, which keeps things interesting.\n\nAs you're running through the runway, you gotta navigate through various obstacles to avoid collisions. If you bump into an obstacle, you los",
+    "icon": "/icons/com.games.layerman.png"
+  },
+  "com.gameresort.penguingame": {
+    "title": "Adventure Beaks",
+    "package": "com.gameresort.penguingame",
+    "description": "Begin your quest with Adventure Beaks, the only platformer where you assemble an expedition party of elite Penguin adventurers!\n\nExplore ancient ruins and exotic lands on a journey to discover the secret of the Artifacts!\n\nRun, jump, slide, and dive your way through tricky traps, enemy hoards, and cavernous mazes, all with simple, responsive touch controls!\n\n- 50 tricky levels to explore, each with it's own surprise!\n- 16 brutal Challenge Levels\n- 150 mind-bending side Missions!\n- 198 crazy clothing items to dress your penguins with!",
+    "icon": "/icons/com.gameresort.penguingame.png"
+  },
+  "com.games2win.drivingacademy": {
+    "title": "Driving Academy Car Simulator",
+    "package": "com.games2win.drivingacademy",
+    "description": "\ud83d\ude97 Master the Ultimate Car Simulator \u2013 Driving Academy! \ud83d\udea6\n\nStep into the most realistic car simulator and parking game, designed for fans of car games and racing games. Learn road rules, enhance your driving skills, and enjoy the thrill of an authentic experience in one of the best driving simulators available. Pass your tests, practice parking, and explore exciting challenges in stunning open-world cities!\n\n\ud83c\udfc1 Why Driving Academy Stands Out:\n\n\ud83d\udea6 Learn the Rules of the Road: Practice with over 80 real-world traffic signs in a fun and interactive way.\n\ud83d\ude97 Realistic Vehicle Controls: Enjoy advanced driving physics and smooth handling for an authentic experience.\n\ud83c\udfae Master Parking Skills: Take on challenging scenarios to sharpen your precision.\n\ud83c\udf06 Explore Realistic Cities: Navigate bustling streets ",
+    "icon": "/icons/com.games2win.drivingacademy.png"
+  },
+  "com.gamevil.fishing.global": {
+    "title": "Fishing Superstars",
+    "package": "com.gamevil.fishing.global",
+    "description": "[New features for Season 5]\n\n* Bring honor to your guild! Real-time battles, guild grand-prix function added!\n- \u201cGuild-only Competition\u201d added where any guilds can participate in real-time.\n- Conquer fishing spots to bring honor to your guild and receive abundant rewards!\n\n* A fishing competition not for freshmen, Champions League!\n- The highest level fishing competition composed only of the strongest fish!\n- Win week-long competitions among the experts and receive a special title with rewards!\n\n* Break down equipment and piece adding functions added!\n- Now you can break down equipment that you don\u2019t use to make a stronger equipment.\n- Acquire better fishing rods and rare items by adding the pieces from breaking down your fishing rod!\n \n[Special features only available in Fishing Superstar",
+    "icon": "/icons/com.gamevil.fishing.global.png"
+  },
+  "com.gamma.pdfreader": {
+    "title": "PDF Reader - PDF Scanner",
+    "package": "com.gamma.pdfreader",
+    "description": "If you\u2019re looking for a powerful, user-friendly PDF Reader, this app has everything you need. With its all-in-one functionality, you can view, scan, add text, sign, and organize your PDF files with ease. Designed to make managing documents simple and efficient, this app also supports Word, Excel, and PPT files for enhanced usability. \n\n Comprehensive Features to Manage Your PDFs  \n- PDF Reader: Open and read any PDF file effortlessly. Navigate smoothly through pages, zoom in on text, and enjoy an intuitive reading experience. For nighttime reading, use the built-in night mode to reduce eye strain.  \n- PDF Viewer: Quickly load and view your documents with precision. Use bookmarks to jump back to important sections or pages instantly.  \n- PDF Scanner: Scan documents, receipts, or notes using",
+    "icon": "/icons/com.gamma.pdfreader.jpg"
+  },
+  "com.zedsecure.vpn": {
+    "title": "ZedSecure",
+    "package": "com.zedsecure.vpn",
+    "description": "ZedSecure is a modern networking client built on Xray-core and V2Ray-core, designed to provide secure, private, and efficient internet connections. It is a client application and does not operate as a VPN service. The app does not collect or store personal user data, and is built with a strong focus on privacy, transparency, and user control.\n\nZedSecure supports a wide range of advanced protocols including VMess, VLESS, Shadowsocks, Trojan, Hysteria2, SOCKS, and HTTP, ensuring flexibility and compatibility across different network environments. It is optimized for high performance, delivering fast connection speeds, low latency routing, and efficient resource usage with modern Proxy and TUN modes.\n\nSecurity and privacy are at the core of ZedSecure. The app uses strong encryption to protect",
+    "icon": "/icons/com.zedsecure.vpn.png"
+  },
+  "com.gamoper.candysweetstory.free": {
+    "title": "Candy Pop Story : Match 3",
+    "package": "com.gamoper.candysweetstory.free",
+    "description": "Luckily you've arrived a great place with Candy Sweet Story. Whip your way through hundreds of sweet match 3 challenges by matching candies in epic adventure! Master your moves strategically and match up more than three identical candies to be rewarded with a variety of board clearing boosters.\n\nHow to play:\n- Swap and gather 3 or more of the same candies blast to score points\n- Try to solve puzzles by breaking bread and ice barriers\n- Collect adorable cakes for the preparation of chick levels\n- Match 4 or more candies to create candy boosters and power-ups\n- Achieve the target points to level up\n\nGame features:\n- Candy Sweet Story with 1000+ compelling levels in different sceneries\n- Completely free to play\n- Sweet and delicious UI & cool animation effects.\n- Easy and fun to start but a c",
+    "icon": "/icons/com.gamoper.candysweetstory.free.png"
+  },
+  "com.gamovation.sudoku": {
+    "title": "Sudoku Game - Daily Puzzles",
+    "package": "com.gamovation.sudoku",
+    "description": "Experience the Ultimate Sudoku Puzzle Game! Free to Download, Play Sudoku Online or Offline!\n\nDive into the world of Sudoku game with thousands of sudoku free puzzles designed to challenge and enhance your logical thinking and brain activity. Whether you\u2019re a beginner sudoku or a seasoned Sudoku master, this number puzzle game offers endless fun challenges and a variety of math puzzles to suit every sudoku skill level.\n\nWhy Sudoku? Sudoku is more than just a popular classic number puzzle game; it\u2019s a brain game activity that sharpens your mind, improves your problem-solving skills, and enhances your logical thinking with a memory boost. With this classic sudoku number puzzle app, you can enjoy the ultimate Sudoku experience, anytime and anywhere!\n\nKey Features:\n\n\ud83c\udf1f Thousands of Free Puzzles",
+    "icon": "/icons/com.gamovation.sudoku.jpg"
+  },
+  "com.uprock.mining": {
+    "title": "UpRock: AI Rewards & Tasks",
+    "package": "com.uprock.mining",
+    "description": "\ud83d\udd25 Stop letting your internet go to waste. Turn it into daily rewards with UpRock!\n\n\ud83d\ude80 Install now to start earning rewards by powering the open AI web.\n\nYour internet connection has unlocked value. Simply connect to the network to start earning rewards efficiently and securely. But we are more than just a rewards app; we are a movement.\n\n\ud83c\udf0d The Mission Behind the Rewards: By contributing, you become part of the world's first people-powered AI data network.\n\nMULTIPLY YOUR REWARDS \u26a1 Don't just wait - boost your rewards! UpRock offers multiple ways to build your balance:\n\n\ud83c\udfae Play Games: Discover new games and earn rewards for every minute you play. \n\n\ud83d\udcdd Take Surveys: Share your opinion and get rewarded for your time. \n\n\u2705 Complete Tasks: Finish simple digital tasks to boost your earnings. \n\n\ud83d\udcc5 Dail",
+    "icon": "/icons/com.uprock.mining.png"
+  },
+  "com.gau.go.launcherex": {
+    "title": "GO Launcher -Themes&Wallpapers",
+    "package": "com.gau.go.launcherex",
+    "description": "GO Launcher \u2013 New Themes Arrival!\n\n\ud83c\udfa8Features on the Go Launcher include:\n\n\u221a GO Theme: Provide 10000+ free mobile themes for android\n\u221a Go Wallpaper: Daily update various sorts of HD wallpapers, including beauty, pet and the great landscape from all over the world\n\u221a Transition Effect: 20+ screen and drawer animation effects\n\u221a APPs management: Hide & Lock APPs to protect phone security and intruders who try to unlock your APPs without your permission will be taken photos\n\u221a Dr. Clean: Boost your phone speed\n\u221a DIY Live Wallpaper: DIY your live wallpapers with massive stickers, animations and wallpapers\n\nYou can find launcher themes, icons, HD wallpapers & widget in GO Launcher, and customize your home screen, menu and even lock screen interface with 3D effects.\n\nCool launcher App of your mobile",
+    "icon": "/icons/com.gau.go.launcherex.png"
+  },
+  "com.gathercultivatecountry.attack": {
+    "title": "Bubble Shooter",
+    "package": "com.gathercultivatecountry.attack",
+    "description": "Bubble Shooter, the timeless puzzle game, is coming soon.\nMatch three or more to pop the bubbles in this classic bubble shooting game.\n\n1. 1,000++ exciting levels to challenge your brain.\n2. More than 30 types of elements.\n3. Easy to learn. Clear the challenges to become the master!\n4. Beautiful graphics. Smooth shooting experience.\n\n\nYou can download this game for your girlfriend or elderly parents.\nLift your finger and simply tap the screen to enjoy the fun.\n\n\nNotes:\nThis game is completely free. No Wi-Fi required to play this game. This is truly an offline game.",
+    "icon": "/icons/com.gathercultivatecountry.attack.png"
+  },
+  "com.gazeus.dominoes.battle.board.game": {
+    "title": "Dominoes Battle: Domino Online",
+    "package": "com.gazeus.dominoes.battle.board.game",
+    "description": "Dominoes Battle is a new version of the classic board game also called Dominos, Domino, Bones, or Domin\u00f3!\n\n\nDominoes Features:\n- Set up matches in Dominoes and challenge your friends and family or try to defeat the robots with reasoning, attitude, and a dash of luck. Even better... challenge others players from anywhere in the world on our Dominos online and a multiplayer mode!\n\n- Dominoes Ranking with multiple categories! Keep playing to always stay in the top Domino's online positions!\n\n- Customize tables and tiles with a lot of different options!\n\n- Unlockable emojis in Dominoes!\n\n- 4 different Dominoes game modes: Choose your favorite mode Turbo Dominos, Draw Dominos, All Fives Dominos, and Block Dominos. 100% for free!\n\n- Matches with 2 or 4 players: choose whether to set a Domino's m",
+    "icon": "/icons/com.gazeus.dominoes.battle.board.game.png"
+  },
+  "com.ge.kitchen": {
+    "title": "SmartHQ",
+    "package": "com.ge.kitchen",
+    "description": "Effortlessly control and monitor your smart appliances from GE Appliances, Profile, Caf\u00e9, Monogram, Fisher & Paykel, and Haier \u2013 all in one app.  \n\nKEY FEATURES:\n\u2022 REMOTE CONTROL \u2013 Monitor and control your appliances from anywhere, ensuring peace of mind and convenience.  \n\u2022 VOICE INTEGRATION \u2013 Use your voice to manage your appliances with Amazon Alexa and Google Assistant.\n\u2022 STAY INFORMED - Receive timely notifications about your appliances, including alerts and updates.\n\u2022 SOFTWARE UPDATES - Keep your appliances running smoothly with the latest software updates and access new features as they become available.  \n\u2022 PERSONALIZED EXPERIENCE - Create shortcuts for frequently used functions and download new modes for your appliances.  \n\u2022 MONITOR ENERGY & WATER USAGE - Gain insights into your a",
+    "icon": "/icons/com.ge.kitchen.jpg"
+  },
+  "com.geargames.aow": {
+    "title": "Art of War 3:RTS strategy game",
+    "package": "com.geargames.aow",
+    "description": "\u0410 unique classic real-time strategy game with direct control - for true commanders who are not afraid to face the enemy in real-time PvP battles! For those who want to feel the thrill of victory over a real opponent! For those who can think like a strategist and act decisively in any battlefield situation! For those who just want to fight and blow stuff up! It\u2019s no place for the timid!\nAre you ready for the challenge, Commander?\nArt of War 3: Global Conflict (AOW) - is a real-time strategy online game in the best tradition of old classic PC RTS games. Command, conquer and defeat your enemy on the battlefield in this modern warfare game! Like other PvP games you may have played, you have to fight against other players in PvP battles, invent new combat tactics, develop your victorious strate",
+    "icon": "/icons/com.geargames.aow.png"
+  },
+  "com.geeko.bellewholesale": {
+    "title": "Bellewholesale-Fashion Store",
+    "package": "com.geeko.bellewholesale",
+    "description": "Welcome to Bellewholesale APP.\nWanna dress unique? With Bellewholesale APP you can discover your own style by mixing and matching 100,000+ items on the APP. Get you involved in tens of thousands of women with fashion attitude big party. \nSave big\n-Big Discount Up to 70% Off\n-Best Price Crazy Zone From $8.99\n-Coupons and theme activities on a regular basis.\n\nMain features included:\n-Wholesale Price, No MOQ\n-Prices 50-80% cheaper than market price.\n-Over 500+ daily new arrivals.\n-Function of recommending popular items.\n-Customer reviews tell you firsthand item information.\n-Recently view record.\n-Coupons and theme activities on a regular basis.\n\nSecure shopping\nSecure payment via PayPal or credit card (VISA, MasterCard)\nPayPal verified and validated for 100% security all the time.",
+    "icon": "/icons/com.geeko.bellewholesale.jpg"
+  },
+  "com.google.android.sbrowser": {
+    "title": "com.google.android.sbrowser",
+    "package": "com.google.android.sbrowser"
+  },
+  "com.geekyouup.android.ustopwatch": {
+    "title": "Ultimate Stopwatch & Timer",
+    "package": "com.geekyouup.android.ustopwatch",
+    "description": "Beautifully designed Stopwatch and Countdown timer for Android Phones, Tablets and Wear OS Watches\n\nTicking Sound, Countdown Alarm and Lap Time functionality\n\nNotification whilst stopwatch running in the background on compatible devices. \n\nTo save battery the application itself doesn't run in the background, but it simulates it using system events.\n\nDesigns by Marie Schweiz (http://marie-schweiz.de)\n\n+Rich Hyndman @geekyouup on X\n\nOpen Source at http://github.com/geekyouup/ultimatestopwatch\n\nFor those of you that preferred the old style, it is published at https://play.google.com/store/apps/details?id=com.geekyouup.android.oldtimer",
+    "icon": "/icons/com.geekyouup.android.ustopwatch.png"
+  },
+  "com.generagames.ninjadash.samuraironin.jumprpg": {
+    "title": "Ninja Dash Run - Offline Game",
+    "package": "com.generagames.ninjadash.samuraironin.jumprpg",
+    "description": "Become a master ninja in this action game. Slash your katana to kill your enemies and slay big bosses throught an epic adventure. Jump over demons, run to survive and dash to hit your opponents. Is up to you to decide how to complete your mission.\n\nEnjoy fun cartoon graphics in this arcade demon hunter. No wifi required, so you can get a full offline game experience.\n\nA peaceful landscape or the roofs of a classic japanese village, there are lots of stages to visit. Be sure to train and you will achieve the victory even in the desert.\n\nCustomize your ninja with different armors, from a knight helmet to a powerful sword, you have plenty of options, maybe some runner shoes is your favourite. You can also choose what ninja you would play, a new young apprentice, a robot from the 2022 year, or",
+    "icon": "/icons/com.generagames.ninjadash.samuraironin.jumprpg.jpg"
+  },
+  "com.generagames.resistance": {
+    "title": "Cover Fire: Offline Shooting",
+    "package": "com.generagames.resistance",
+    "description": "Download Official Cover Fire, is one of the best shooting games you\u2019ll ever play on a mobile, now for free and offline.\n\nBest action shooter game, easy controls, realistic 3D graphics and fun offline missions. Get your best shooting gun and take to action!\n\nPlay offline in a challenging single-player campaign, survive in competitive sniper shooting battle online and don't stop shooting in cool war events, such as Zombies Survival or Black Ops.\n\n\nGame Features\n\n\u2022 Shooting Online and Offline on mobile\n12 New Chapters in a thrilling story mode. Battle in army missions, sniper 3d ops, drive vehicles or fun shooting from helicopters with a heavy gun.\n\n\u2022 New Shooting Game and best Sniper 3d shooting game\nUnlock unique army weapons and shoot cool guns. Customize and upgrade your best guns skills ",
+    "icon": "/icons/com.generagames.resistance.jpg"
+  },
+  "com.generamobile.ramboat": {
+    "title": "Ramboat - Offline Action Game",
+    "package": "com.generamobile.ramboat",
+    "description": "Ramboat - Shooting Action Game Play Free & Offline. Help Mambo and his elite team in this mission impossible. Overcome all the challenges, upgrade your guns, drive fast, and defeat your enemies on one of the best offline games. Be a warrior and join the army in this run and gun full of challenges, feel the adrenaline in this survival mode, a endless game. Jump and shoot in this offline game, one of the best shooting games.\n\nBe a hero in this offline arcade shooter, join Mambo and his crazy troop of heroes to escape from hundreds of enemies in this shooting game offline full of action, missions & challenges, jumping and dodging as fast as possible while shooting powerful weapons to your enemies. Do you like running? Addicted to jump and shoot? You\u2019ll LOVE Ramboat - Shooting Action Game Play",
+    "icon": "/icons/com.generamobile.ramboat.jpg"
+  },
+  "com.geoguessr.app": {
+    "title": "GeoGuessr",
+    "package": "com.geoguessr.app",
+    "description": "Welcome to the world of GeoGuessr! Embark on an epic journey that takes you from the most desolate roads in Australia to the busy, bustling streets of New York City. Search for signs, language, flags, nature, internet top domains, or just about any clue that helps you to find where you are.\n\nEMBARK ON YOUR OWN JOURNEY\nHow far can you go in GeoCrusher? Want to explore your favorite map? Start a Country Streak and see how long it can get? Take on the explorer hat and challenge yourself in our different single player modes.\n\nCOMPETE AGAINST OTHERS\nPut your skill to the test against players all around the world. Duel against other players on your skill level or compete in our Battle Royale modes and see who will make it to the end. How far can you climb on the leaderboard?\n\nPLAY WITH YOUR FRIE",
+    "icon": "/icons/com.geoguessr.app.png"
+  },
+  "com.gettr.gettr": {
+    "title": "GETTR",
+    "package": "com.gettr.gettr",
+    "description": "Break away from Big Tech and join an inspiring, uplifting, positive social media platform for all! GETTR wants to bring enjoyment back to your social media experience by supporting freedom of independent thought and rejecting political censorship.\n\nOffering the best in class technology, GETTR offers the voice of freedom to its users, allowing for unfiltered discourse and sharing of information, news, and thoughts with your friends, family, and those around the world!\n\nWith GETTR, you have:\n\nThe Freedom to Share Independent Thoughts - Share messages, news, photos, videos and more. Stay connected with friends, family and network with people around the world. Join new communities that represent your interests.\n\nThe Ability to Speak Your Mind With MORE - post messages up to 777 characters, you",
+    "icon": "/icons/com.gettr.gettr.webp"
+  },
+  "com.ubnt.usurvey": {
+    "title": "WiFiman",
+    "package": "com.ubnt.usurvey",
+    "description": "WiFiman is here to save your network from sluggish surfing, endless buffering, and congested data channels. With this free-to-use (and ad-free) app, you can:\n\n* Detect available WiFi networks and Bluetooth LE devices instantly.\n* Scan network subnets for additional details on detected devices, such as Bonjour, SNMP, NetBIOS, and Ubiquiti discovery protocols.\n* Connect to your UniFi network remotely via Teleport - a free, zero-configuration VPN.\n* Conduct download/upload speed tests, store results, compare network performance, and share insights with others.\n* Relocate your access points (APs) to nearby data channels to instantly increase signal strength and reduce traffic volume.\n* Test the connection speed between your UniFi Dream Machine or UDM Pro and mobile devices.\n* See enhanced deta",
+    "icon": "/icons/com.ubnt.usurvey.png"
+  },
+  "com.gf.busdriving.publictransport.citypassenger.drivinggames": {
+    "title": "Bus Simulator : 3D Bus Games",
+    "package": "com.gf.busdriving.publictransport.citypassenger.drivinggames",
+    "description": "\ud83c\udfc1 \ud83c\udfc1 \ud83c\udfc1 City Coach Bus Simulator Game Adventure!\n\nGamePark presents a city coach bus simulator named as Bus Simulator - 3D Bus Games in which you have to drive a bus and take the passengers from one place to another. The game controls are simple and unique and you will be able to test your driving simulation skills here.\n\n\ud83e\udd29 The fun doesn't stop there!\n\nA variety of buses will be available for your entertainment which will be bought from in game currency. You will be able to drive a bus in beautiful 3d city environments where you will be able to perform missions like bus driving, bus parking and many more. Let's have fun in our city coach bus simulator game. People also call it Bus Wala Game.\n\n\u26a1 Bus Simulator - 3D Bus Games Features\n\n\ud83d\udea9 Pick up and drop off passengers on various routes (career",
+    "icon": "/icons/com.gf.busdriving.publictransport.citypassenger.drivinggames.jpg"
+  },
+  "com.giantssoftware.fs16": {
+    "title": "Farming Simulator 16",
+    "package": "com.giantssoftware.fs16",
+    "description": "Manage your own farm and drive massive machines in an open world!\n\nFarming Simulator 16 allows you to manage your own realistic farm in extraordinary detail. Plant, grow, harvest, and sell five different crops, raise cows and sheep, and sell timber at your own pace. Buy new fields to expand your farm land. Take direct control of harvesters and tractors, or hire AI helps and manage your growing farm from the full screen management map.\n\nAs the newest in the series of Farming Simulator games, this game has the best of agriculture simulation. The game features massive tractors and other machines from over 20 brands of agricultural manufacturers, including New Holland, Case IH, Ponsse, Lamborghini, Horsch, Krone, Amazone, MAN and more.\n\nFeatures of Farming Simulator 16 include:\n\n- New 3D graph",
+    "icon": "/icons/com.giantssoftware.fs16.png"
+  },
+  "com.giantssoftware.fs18.google": {
+    "title": "Farming Simulator 18",
+    "package": "com.giantssoftware.fs18.google",
+    "description": "Become a modern farmer in Farming Simulator 18! Immerse yourself in a huge open world and harvest many types of crops, take care of your livestock - cows, sheep, and pigs - take part in forestry, and sell your products on a dynamic market to expand your farm!\n\nYou have access to a huge selection of over 50 farming vehicles and machines, faithfully recreated from over 30 of the biggest names in the industry, including AGCO\u2019s most respected brands: Challenger, Fendt, Massey Ferguson and Valtra. Drive and use brand new equipment and harvest sugar beet, potatoes, wheat, canola, corn, and for the first time sunflowers.\n\nWith a deep and powerful simulation experience, a vast open world and a wide fleet of vehicles including brand new machines, Farming Simulator 18 invites you aboard the most com",
+    "icon": "/icons/com.giantssoftware.fs18.google.png"
+  },
+  "com.gila.FishingGames.MegaFish": {
+    "title": "BanCa Fishing: hunt fish game",
+    "package": "com.gila.FishingGames.MegaFish",
+    "description": "Banca Fish is an online shooting and fishing game, which transplants the playing method of the popular offline fishing table game, and also innovates the single-player mission mode, challenge competition mode and so on.\nWhen you start the game, you are connected to a beautiful underwater world, there are countless colorful fish waiting for you to hunt. It  has a lot of special features and aims to provide professional and easy-to-use weapons and nets for all levels of fishing hunters.\nThis exciting online game opens up a new era for players. Just pick up your gun and start shooting fish. The greater the power of your weapon, the greater the chance of killing the big fish, and the more rewards you get.\n\nInnovative gameplay. We have added single player mode, arena, and power mode based on th",
+    "icon": "/icons/com.gila.FishingGames.MegaFish.png"
+  },
+  "com.gismart.realpianofree": {
+    "title": "Piano - Music Keyboard & Tiles",
+    "package": "com.gismart.realpianofree",
+    "description": "\ud83c\udfb9 Piano by Gismart is an electric keyboard simulator app packed with virtual instruments to help you learn chords and music notes for free! Become a pro pianist using fun & engaging music games to learn piano keys without ever getting bored! \ud83d\udc4d\n\nPerfect for those who never have the time for real-world piano lessons. Fulfill that pianist dream and complete lessons on a smartphone. No heavy equipment needed. This is the only totally realistic musical instruments learning app out there! \n\nPacked full of songs made by musicians for musicians and beginners, this is real piano made easy. Simply download the app right now and learn to play the piano keyboard on your phone or tablet for free! \n\nOur digital learn the piano tool isn\u2019t just for piano games fanatics. It lets you choose sounds from a nu",
+    "icon": "/icons/com.gismart.realpianofree.png"
+  },
+  "com.gitiman.eagle.vpn": {
+    "title": "Eagle VPN - Secure & Fast VPN",
+    "package": "com.gitiman.eagle.vpn",
+    "description": "Eagle VPN - free VPN for Android \n100% free Proxy! Totally unlimited bandwidth! Super fast and high VPN speed! The best unlimited free Proxy clients for android.\n\nEagle VPN Free Proxy VPN, super fast VPN to proxy sites, watch videos and movies, protect WiFi security and protect privacy. Turbo charge your video streaming experience.\n\nWhy choose Eagle vpn ?\n\u2013 Large number of servers and high-speed bandwidth\n\u2013 Simple, one click connect to VPN\n\u2013 No log is saved from any users\n\u2013 No registration or login required\n\u2013 Unlimited time, unlimited data, unlimited bandwidth\n\u2013 Protect your security and privacy\n\u2013 No additional permissions required\n- Fast VPN For Telegram, Best VPN For WhatsApp\n\n\ud83d\udc8e FREE & Unlimited\n100% unlimited free VPN proxy!\nNo credit card information needed. No trials offered.\nTruly un",
+    "icon": "/icons/com.gitiman.eagle.vpn.png"
+  },
+  "com.glassdoor.app": {
+    "title": "Glassdoor | Jobs & Careers",
+    "package": "com.glassdoor.app",
+    "description": "Find the right job faster with the Glassdoor app. Shortcut your search with our new AI-guided experience and get matched instantly to roles that are compatible with your goals. Get personalized insights on company and culture-fit based on real employee reviews. Stay linked in with coworkers and industry leaders to get career advice, resume and interview tips, and answers to tough questions through candid conversations in Bowls.\n\nGlassdoor now offers:\n\nINSTANT JOB MATCHES & EASY APPLY \nGet matched with open roles that check all your boxes: pay, job title, location, and more! Find the right fit faster and apply with just a few quick taps.\n\nSALARY TRANSPARENCY\nMake sure you\u2019re getting the salary you deserve. Glassdoor can help you discover what others in your position are making\u2014from entry-le",
+    "icon": "/icons/com.glassdoor.app.webp"
+  },
+  "com.glive.niki": {
+    "title": "Niki Live - Live Stream&Party",
+    "package": "com.glive.niki",
+    "description": "Niki Live - The world's most popular entertainment party social live streaming platform!\nGlobal live streaming, endless fun. The hottest hosts from around the world are waiting for you on Niki Live! Singing, chatting, online parties, voice chat rooms, connecting\uff0cPK battles\u2014all here waiting for you! Come join the fun\uff5e^\u03c9^\n\nDownload Niki Live now. Paly with global users and go to High High High!\n\n---------\u2764 Highlights of Niki Live \u2764---------\nNiki Live is a live streaming party app that offers Massive international live streams.\n\ud83d\udd25 Here, you can sing, dance, chat, interact with users, show your talents. No matter what your talent is, Niki Live is the ultimate stage for you!\n\ud83d\udd25 Here, you can join millions of active users, watch talented hosts, become their fans, and interact with them, enjoy thei",
+    "icon": "/icons/com.glive.niki.png"
+  },
+  "org.amnezia.vpn": {
+    "title": "Amnezia VPN",
+    "package": "org.amnezia.vpn",
+    "description": "Free open-source software for creating a personal VPN on your virtual server, as well as for connecting to Amnezia VPN services: Amnezia Free and Amnezia Premium.\n\nAll services use protocols with traffic obfuscation and protection against blocking.\n\nTo create a VPN on your own server, simply provide the IP address, username, and password of your server (VPS), and Amnezia will create and configure your personal VPN in just a couple of minutes, which you can then connect to.",
+    "icon": "/icons/org.amnezia.vpn.png"
+  },
+  "tech.hexa": {
+    "title": "Ultra VPN \u2014 Super Secure Proxy",
+    "package": "tech.hexa",
+    "description": "Protect your Android devices with best-in-class online security using private and secure VPNs. Toggle the always-on setting to keep UltraVPN running while you browse the web, shop online, play online games, or watching uninterrupted videos. Best of all, your encrypted data doesn't come at the expense of speed as UltraVPN uses the fastest, optimized global servers. Protect your personal identity and data from hackers and security threats with the ability to secure your IP address and location. Download UltraVPN  to start protecting yourself online today.\n\nEnjoy ultimate security with Ultra VPN, equipped with elite military-grade encryption to shield your personal information from cyber threats. Boost your security and internet protection with Ultra VPN's advanced mobile security features, e",
+    "icon": "/icons/tech.hexa.jpg"
+  },
+  "com.global.ztmslg": {
+    "title": "Puzzles & Survival",
+    "package": "com.global.ztmslg",
+    "description": "Match-3 Puzzle meets Strategy! Solve the mysteries and build an impenetrable sanctuary. The future of humanity is in your hands.\nTip: Use your brain to defend your brain!\n\n\u2014\u2014APOCALYPTIC FEATURES\u2014\u2014\n\u203b STRATEGY + MATCH-3\u203b\n- Solve puzzles to kill zombies\n- Arm yourself with strategy and tactics\n- A combination of a tactical wargame and casual puzzle gameplay\n- An innovative post-apocalyptic experience\n\n\u203b BUILD A SANCTUARY\u203b\n- Lead survivors in the last bastion of humanity\n- Craft cutting-edge equipment to smash your enemies \n\n\u203b FORMIDABLE HEROES\u203b\n- Superhuman powers emerged alongside the zombie virus\n- Recruit Heroes from the notorious Noah's Tavern\n- Heroes improve your military and economical strength\n\n\u203b FRIENDS OR FOES\u203b\n- No one can survive alone, fight alongside your allies\n- Watch out for ",
+    "icon": "/icons/com.global.ztmslg.png"
+  },
+  "com.glovo": {
+    "title": "Glovo: Food & Grocery Delivery",
+    "package": "com.glovo",
+    "description": "Glovo is the number one app for ordering anything you want! With more than 240,000 restaurants and stores available, and delivery in minutes. Want to order food straight to your door? Or get a grocery delivery of your essentials? We save you time, when you don\u2019t have it. Order food, groceries and gifts in your city without leaving home. With Glovo, you have the city in the palm of your hands.\n\n WHY USE GLOVO? \n\n\u2605 Over 80 million downloads worldwide.\n\u2605 Order from 25 countries including Spain, Portugal, Romania, Morocco, Italy, Poland, Croatia, Ukraine, Georgia, Kazakhstan, Kyrgyzstan, Tunisia, Kenya, Uganda, Ivory Coast, Ghana, Nigeria, Bulgaria, Serbia, Armenia, Slovenia, Bosnia-herzegovina, Montenegro, Moldova & Andorra.\n\u2605 More than 240,000 restaurants, supermarkets and stores available g",
+    "icon": "/icons/com.glovo.png"
+  },
+  "com.glow.android.nurture": {
+    "title": "Pregnancy Tracker App | Glow",
+    "package": "com.glow.android.nurture",
+    "description": "Meet Glow Nurture - your AI-powered pregnancy tracker, due date calculator, and parenting companion! Whether you're pregnant or planning to be, Glow Nurture is here to guide you every step of the way, offering personalized insights and support during this special journey.\n\n\u2714\ufe0f Pregnancy Tracker: Track your pregnancy week by week, understand your body's changes, and see your baby's growth with Glow Nurture. Our AI technology provides accurate and customized updates, ensuring you know what to expect at every stage of your pregnancy.\n\n\u2714\ufe0f Due Date Calculator: Never miss a milestone with our AI-powered Due Date Calculator. By inputting your last menstrual period or conception date, Glow Nurture will provide you with an accurate due date and keep you updated on your pregnancy's progression.\n\n\u2714\ufe0f P",
+    "icon": "/icons/com.glow.android.nurture.png"
+  },
+  "com.glu.zbs": {
+    "title": "Left to Survive: Zombie Games",
+    "package": "com.glu.zbs",
+    "description": "Zombie Apocalypse has arrived! Play epic zombie shooter online and fight for your survival!\n\nLeft To Survive is a TPS Action Zombie Shooter game with a post-apocalyptic world setting where zombies have enslaved the Earth and taken control.\nLife is no longer what it used to be: humans are fighting for survival, and the Earth belongs to the undead from now on. Save the human race from zombie apocalypse! Join tournaments, collect an arsenal and get valuable gear, build a base \u2013 a new home for many survivors, start expeditions to meet the heroes of this post-apocalyptic reality, challenge other players in PvP matches and helicopter raids, and show your shooting skills. Zombie action game begins\u2026 now!\n\nProtect humanity from HORDES OF ZOMBIES\nThe world is teeming with the undead. No place to run",
+    "icon": "/icons/com.glu.zbs.jpg"
+  },
+  "com.gluak.f24": {
+    "title": "Futbol24 soccer livescore app",
+    "package": "com.gluak.f24",
+    "description": "Futbol24 \u2013 the fastest soccer live score app for android! Established in 2000, Futbol24 has since provided users with detailed information on in-play action in football competitions worldwide. Get real-time info in a matter of seconds when a goal is scored or a player receives a booking or a red card. This is the complete offer of the best mobile live score app on the market:\n\nlive information on in-play action in real time\nfree push notifications for games and competitions\ncalendar with upcoming fixtures \nup-to-date tables for all leagues\nin-depth analyses of squads\nresults from previous encounters\nmatch favorite prediction\n\nWith Futbol24 you are always on top of the game, whether you follow the action on your smartphone or tablet \u2013 soccer live scores are available around the clock.\n\nFoll",
+    "icon": "/icons/com.gluak.f24.png"
+  },
+  "com.goibibo": {
+    "title": "Goibibo: Hotel, Flight & Train",
+    "package": "com.goibibo",
+    "description": "Book your trip easily with Goibibo \u2013 India\u2019s leading all-in-one travel booking app.\nPlan and book flights, hotels, homestays, trains, buses, and cabs in one place. Whether you\u2019re planning a holiday, weekend getaway, family vacation, business trip, or pilgrimage, Goibibo helps you book your trip smoothly with the best prices, trusted stays, and instant refunds.\nGoibibo is a complete travel booking app for domestic and international flights, affordable hotels, premium resorts, homestays, IRCTC train tickets, bus tickets, and cab services. Compare prices, discover great travel deals, and manage all your bookings easily in one secure app. Millions of travellers across India trust Goibibo to plan and book their trips with confidence.\n \nNew to Goibibo? Enjoy exclusive first-time user offers:\n\u2013 F",
+    "icon": "/icons/com.goibibo.webp"
+  },
+  "com.wireguard.android": {
+    "title": "WireGuard",
+    "package": "com.wireguard.android",
+    "description": "The official app for managing WireGuard VPN tunnels.",
+    "icon": "/icons/com.wireguard.android.png"
+  },
+  "com.zaneschepke.wireguardautotunnel": {
+    "title": "WG Tunnel",
+    "package": "com.zaneschepke.wireguardautotunnel",
+    "description": "WG Tunnel is a WireGuard VPN client that strikes the balance between simplicity and robustness, making it the ideal client for casual and power users alike.\nWhether you simply want to automate when you're connected to your VPN or you're a power user with advanced privacy use cases, WG Tunnel has you covered.\n\n- **Auto-Tunneling:** Automatically activate tunnels based on Wi-Fi SSID, Ethernet connections, or mobile data networks.\n- **Split Tunneling:** Flexible support for routing specific apps or traffic through the VPN.\n- **App Modes:** Support for multiple tunnel modes, including standard VPN, kernel, lockdown (custom kill switch), and proxy modes.\n- **AmneziaWG Integration:** Full support for AmneziaWG, providing robust censorship evasion.\n- **Proxying Options:** Built-in HTTP and SOCKS5",
+    "icon": "/icons/com.zaneschepke.wireguardautotunnel.png"
+  },
+  "com.gokids.livecolorings": {
+    "title": "Coloring book! Game for kids 2",
+    "package": "com.gokids.livecolorings",
+    "description": "Children's artistic coloring! Learn colors with kids in our educational game for kids. Our coloring pages for kids will help to learn colors for kids and develop fantasy and imagination in kids. Color and bring color pictures to life with our coloring book for kids!\n\nTo all the little artists, we are happy to present our funny and entertaining coloring book for kids!\nLive Coloring Pages offer you a great opportunity to enliven the pictures by yourself! Just add colors to the images and enjoy the animation! When you complete the picture - it comes to life! Featured characters move, smile, dance and do their usual business!\n\nWhen you are sad or just want to have some fun - turn on Live Coloring Pages and dive into colorful pictures!\n\nJust imagine, now you have a real art album with cartoons ",
+    "icon": "/icons/com.gokids.livecolorings.png"
+  },
+  "org.plus18.android": {
+    "title": "18+",
+    "package": "org.plus18.android",
+    "description": "Privately browse the web and access age restricted content.  18+ privacy browser anonymously confirms your age when you purchase VPN access through an in-app purchase so that you can access content without restriction.",
+    "icon": "/icons/org.plus18.android.png"
+  },
+  "com.golden.fishing.android.avidly": {
+    "title": "Fishing Carnival - Fish Game",
+    "package": "com.golden.fishing.android.avidly",
+    "description": "\ud83c\udf89 Welcome to Fishing Carnival! Looking for a brand new casual fishing game? Like to compete with multi-players at a time? Fishing Carnival has got you covered! Join to enjoy the best arcade fishing game online for free\uff01\ud83c\udf89             \n\nWe brings the thrills and chills of gorgeous images and effects. On the basis of classic arcade fishing, we also add story mode of confrontation between East seas and West seas. Besides, the game has a variety of scenes and modes, including Turtle Envoy, Captain Crab Defection, Ghostly Captain, Mermaid Treasure, Dragon Emperor Descent, and Sea Monster Hunting Grounds, etc. Every scene has its unique manner of playing and special rewards! \nPlay Fishing Carnival to experience the most classical and exciting fishing game, enjoy the thrill of being an instant mil",
+    "icon": "/icons/com.golden.fishing.android.avidly.png"
+  },
+  "com.brainbuddy.android": {
+    "title": "Brainbuddy: Quit Porn Forever",
+    "package": "com.brainbuddy.android",
+    "description": "Brainbuddy is the #1 porn-recovery app, built to help you crave less and live more. Whether your goal is to cut back or quit pornography entirely, Brainbuddy\u2019s neuroscience approach can help you change your relationship with porn, sex and dopamine.\n\nWith a core 100-day, evidence-based education program, progress tracking, supportive community, and a multitude of tools (think meditations, games, and more!), you\u2019ve got everything you need to change your relationship with porn at the tap of a button. \n\nReboot your brain. Reboot your life.\n\n**WHY THOUSANDS CHOOSE BRAINBUDDY** \n\nKNOW YOURSELF TO CONQUER YOURSELF\u2028\nOur unique self-test identifies if your porn use is potentially having a negative impact on your life. Awareness is the first step to positive change. \n\nREWIRE YOUR BRAIN \nBased on yea",
+    "icon": "/icons/com.brainbuddy.android.webp"
+  },
+  "com.familyfirsttechnology.pornblocker": {
+    "title": "DETOXIFY - Porn App Blocker",
+    "package": "com.familyfirsttechnology.pornblocker",
+    "description": "IMPORTANT:\n- Requires $5.50/mo subscription after the 3-day free trial. \n- If you financially cannot afford the in-app purchase then please send your email to Support@FamilyFirstTechnology.com for our upcoming scholarship program. \n- If VPN does not stay on / frequently disconnects, turn off battery optimization https://dontkillmyapp.com\n\nKnown ISP compatibility issues: Some internet service providers (ISP) disallow blockers. If this happens, the blocker will either not work or no \n longer have access to the Internet. This is not a Detoxify bug and is standard across all network-based blockers. Test the app thoroughly during your risk-free 3 day free trial. Contact support if you need assistance to determine this.\n\nKnown device-type compatibility issues: Some phone manufacturers like Oppo ",
+    "icon": "/icons/com.familyfirsttechnology.pornblocker.png"
+  },
+  "com.quittrapp.quittr_mobile_application_2": {
+    "title": "QUITTR - Quit Porn Now",
+    "package": "com.quittrapp.quittr_mobile_application_2",
+    "description": "Join over 1,500,000 users. Become porn free and regain control of your life.\n\nQUITTR is a porn-recovery app designed to help you regain control and live with purpose. Whether you want to cut down or quit entirely, QUITTR\u2019s neuroscience-backed system helps you reshape your relationship with porn, sex, and dopamine.\n\nWith a structured 90-day science-based recovery program, real-time progress tracking, an encouraging community, and a full suite of tools\u2014including meditations, interactive challenges, and more\u2014you have everything you need to take charge of your habits. Reset your brain. Reset your life.\n\nWHY CHOOSE QUITTR\n\nREWIRE YOUR MIND\nBuilt on extensive research in addiction science, our brain-rewiring system guides you step by step to regain control.\n\nMAKE EVERY DAY COUNT\nDaily exercises ",
+    "icon": "/icons/com.quittrapp.quittr_mobile_application_2.png"
+  },
+  "com.pixsterstudio.pornblocker": {
+    "title": "Porn Block Plus",
+    "package": "com.pixsterstudio.pornblocker",
+    "description": "Porn Block is the ultimate solution to block pornographic and adult content on your smartphone, designed to enhance your productivity and focus.\n\nKey Features\n\nBlock Adult Content  \nWith Porn Block's adult content blocker enabled, you won\u2019t be able to access adult content or websites through your browser. This feature also extends to social media apps, filtering out any words or content related to adult material, and keeping your experience clean and focused.\n\nUninstall Protection  \nThis unique feature prevents you from uninstalling Porn Block without permission from your accountability partner. By requiring device administrator permission, this ensures that the app remains active and continues to protect you, setting it apart from other apps.\n\nAccountability Partner  \nYou can add an accou",
+    "icon": "/icons/com.pixsterstudio.pornblocker.jpg"
+  },
+  "com.gombosdev.ampere": {
+    "title": "Ampere",
+    "package": "com.gombosdev.ampere",
+    "description": "Did you ever felt, that one Charger/USB cable set charges your device really fast and the other not? Now, you can prove this with Ampere.\n\nMeasure the charging and discharging current of your battery. \n\nPRO features:\n- Widgets\n- Notification\n- Alerts on device \n- Alerts on Android Wear\n\nNot every device is supported because there are devices which lacks an appropriate measurement chip (or the interface) and they can not be supported at all. Please read the list of not supported phones at the end of the description.\n\nThe app is not meant to be mA accurate. It is only good for evaluate which Charger/USB cable combo is working the best for you on the same device.\n\n----\n\nPlease read also the FAQ: http://goo.gl/R8XgXX \n\n----\n\nStart the app and wait ca. 10 seconds (\"measuring\" is on the display)",
+    "icon": "/icons/com.gombosdev.ampere.png"
+  },
+  "com.gonliapps.learnamericanenglish.forkidsandbeginners": {
+    "title": "Learn English for beginners",
+    "package": "com.gonliapps.learnamericanenglish.forkidsandbeginners",
+    "description": "Learn English free with fun games and native audio.\nBeginner vocabulary course with the most important English words.\n\nDreaming of speaking English fluently? With our app, learning English has never been easier or more enjoyable. Discover a free basic English course designed to help you master essential vocabulary through practical and fun lessons.\n\nLearn through play, even offline!\n\n\u25cf Beginner-friendly English game: start your journey with engaging and interactive lessons\n\u25cf Key words with images and audio: boost memory using clear visuals and native pronunciation\n\u25cf American English voice: improve your accent with native audio from day one\n\u25cf Offline access: learn anywhere, anytime, without internet\n\u25cf Practical lessons and exercises: improve reading, writing, and speaking\n\u25cf Fun quizzes: eac",
+    "icon": "/icons/com.gonliapps.learnamericanenglish.forkidsandbeginners.jpg"
+  },
+  "com.outtiefivethou.zeroday.klwp": {
+    "title": "Zeroday for KLWP Pro [Locked]",
+    "package": "com.outtiefivethou.zeroday.klwp",
+    "description": "!STOP! This is a KLWP preset and not a stand alone app. You must have KLWP Pro installed to use this preset. The free version of KLWP will not allow you to import presets.\n\nYou can find KLWP here\nhttps://play.google.com/store/apps/details?id=org.kustom.wallpaper\n\nKLWP Pro key (required to import presets)\nhttps://play.google.com/store/apps/details?id=org.kustom.wallpaper.pro\n\nNow with that out of the way lets get down to business. \n\nThis preset installs directly into KLWP all on its own. To find it simply open KLWP and go to the Explore tab.\n\nThis preset uses 2 home screens. The right screen is the settings panel. I did this so you could slide back and fourth when making changes to see the results in real time as you're customizing. Pretty handy huh?\n\nIf you need help setting this up PLEASE",
+    "icon": "/icons/com.outtiefivethou.zeroday.klwp.png"
+  },
+  "com.a23.nothingwidgets": {
+    "title": "NothingOS 2.0 for KWGT",
+    "package": "com.a23.nothingwidgets",
+    "description": "You can access official NothingOS Widgets in this pack. There are 80+ NothingOS Widgets with Game/App icons!\nNote - This is not standalone app\nYou have to install KWGT: https://play.google.com/store/apps/details?id=org.kustom.widget\nand KWGT Pro Key: https://play.google.com/store/apps/details?id=org.kustom.widget.pro to access it's elements!\n\nThank You.",
+    "icon": "/icons/com.a23.nothingwidgets.jpg"
+  },
+  "com.widget.icon.theme": {
+    "title": "Themie: Wallpapers & Themes",
+    "package": "com.widget.icon.theme",
+    "description": "\ud83c\udf38  Themie: Wallpapers & Themes \u2013 Aesthetic Home Screen Customization \nCustomize your phone in a different way with aesthetic themes, wallpapers, widgets, and app icons \u2013 everything you need to design a unique home screen in one app. Whether you love pastel, minimal, neon, or cute kawaii styles, you\u2019ll find plenty of options to match your vibe\n\nPersonalize your phone with a fantastic selection of fun and original themes. 100+ themes (app icon changer, widget and background). Includes a wide range of wallpapers such as anime and cute styles. Themes: Widgets & Wallpaper provides you diversity themes easy to customize for android app icons, Kpop themes, aesthetic themes, cute themes, neon themes, anime themes, light themes, Halloween themes and match with every android devices.  \n\n\ud83d\udc96  Key Featu",
+    "icon": "/icons/com.widget.icon.theme.png"
+  },
+  "app.rdtunnel.pro": {
+    "title": "RDTunnel.Pro- Super fast Net",
+    "package": "app.rdtunnel.pro",
+    "description": "You can use this VPN very easily, You can use  internet by turn rd tunnel pro VPN, and you can access blocked websites \nby turn to this VPN.\n\nRD Tunnel Pro is a  VPN application for mobile coming from rdtunnel.pro. \nIt is a VPN client that offers users online protection as they surf and browse through the web.\n It also allows for unlimited connection speeds, letting them take full advantage of their internet \n service provider's maximum bandwidth.",
+    "icon": "/icons/app.rdtunnel.pro.png"
+  },
+  "dastan.prince.bdfreevpn": {
+    "title": "BD NET VPN",
+    "package": "dastan.prince.bdfreevpn",
+    "description": "BD NET VPN is a FREE VPN Client that secures your connection and unblock geo-restricted websites/apps\n\nFeatures:\n\u2705 Free and Unlimited\n\u2705 Secures your connection\n\u2705 Bypass Geo-Restrictions\n\u2705 Bypass Network-Restrictions\n\u2705 Multiple Protocol Supported",
+    "icon": "/icons/dastan.prince.bdfreevpn.png"
+  },
+  "com.goodgamestudios.bigfarmmobileharvest": {
+    "title": "Big Farm: Mobile Harvest",
+    "package": "com.goodgamestudios.bigfarmmobileharvest",
+    "description": "Big Farm: Mobile Harvest is a farm simulator game that you can play online with friends, family, and farmers around the world. Build your own community and have fun creating  the farm life of your dreams. \n\nFarm with friends: Big Farm: Mobile Harvest is a farming simulator online game that lets you join up with your friends and create a beautiful farm village of your very own.\n\nFarming simulator experience: Build your farm and plant, grow and harvest your favorite fruits and vegetables.\n\nAll done with your farm chores? Time to look after your animal friends:  A good farmer keeps their four-legged friends happy. Have fun caring for cows, goats, chickens, horses, pigs, and many other cuddly companions.\n\nFarm, harvest, and trade: Did you harvest extra corn but need some strawberries? In the m",
+    "icon": "/icons/com.goodgamestudios.bigfarmmobileharvest.png"
+  },
+  "com.free.hookup.dating.apps.wild": {
+    "title": "Wild: Adult Casual Dating App",
+    "package": "com.free.hookup.dating.apps.wild",
+    "description": "WILD - The Fast & Safe way for Adult Singles to meet & date in New York, Los Angeles, Houston, Chicago, San Diego, Las Vegas, San Antonio, Phoenix, Philadelphia and other cities in the US! Forget other dating apps/sites, Wild is the only Free dating app you'll ever need! We have included all of your favorite features into one app and even more:\n\nFree Chat - It's 100% FREE to chat with your matches.\nSend unlimited Messages to anyone if you become a VIP.\n\nPowerful Search Filter - You can look for Long-term Relationship, Casual Encounters, and Friendship! No need to waste time on people with different intentions!\n\nAnonymous - You can anonymously browse with just a private photo!\n\nPrivacy Protect - Only your matches can see your private photos!\n\nReal People - Date with real people! 100% users ",
+    "icon": "/icons/com.free.hookup.dating.apps.wild.png"
+  },
+  "com.adultswim.videoapp.android": {
+    "title": "[adult swim]",
+    "package": "com.adultswim.videoapp.android",
+    "description": "Lay back and enjoy 24/7 Marathons of our most popular shows.\n\nLogin with a cable provider to watch our nightly on-air simulcast and unlock additional content.\n\nAd Choices:  policies.warnerbros.com/privacy/en-us/#adchoices\n\nTerms of Use: policies.warnerbros.com/terms/en-us/\n\nDo Not Sell My Personal Information: privacycenter.wb.com/do-not-sell",
+    "icon": "/icons/com.adultswim.videoapp.android.png"
+  },
+  "com.fwbhookup.xpal": {
+    "title": "FWB Hookup & NSA Dating: XFun",
+    "package": "com.fwbhookup.xpal",
+    "description": "XFun \u2014 Prime Dating App for Adult Singles\nXFun is a prime dating app out there for adult singles to meet, chat and date with each other. Adult friends who join this pure dating is not only for long-term relationships, but also for casual dating like friends with benefits and no strings attached relationship. It is an app for adult friends and hot couples, depending on their ideal desires, whether it would be an exciting fwb dating or an unforgettable nsa date. As one of the top dating apps, XFun provides better services for all members to connect with right partners.\n\n\ud83c\udf1fOpen Community for Adults\nIf you are tired of long-term traditional relationship, welcome to join this dating platform where you can meet different kik friends. XFun is dedicated to building an open community for adult singl",
+    "icon": "/icons/com.fwbhookup.xpal.png"
+  },
+  "com.mintgames.adultcoloring": {
+    "title": "Adult Color - Paint by Number",
+    "package": "com.mintgames.adultcoloring",
+    "description": "Adult Color - Paint by Number, the ultimate coloring app, is here to help you relax and unwind! Immerse yourself in the world of color by number, paint by number, coloring books, and pictures. With a wide selection of over 10,000 coloring pictures, you can unleash your creativity and bring each artwork to life with your own unique style! Get ready for a delightful coloring experience that will leave you feeling like a true artist. \ud83d\udc69\ud83c\udffb\u200d\ud83c\udfa8\n\nAdult Color - Paint by Number isn't just a regular coloring game\u2014it's a beautiful coloring book filled with tons of categories that are easy to explore and control. You can even color with just one hand! Whether you're at home, on the go, or anywhere in between, simply open the app and get ready for a super relaxing coloring experience.\n\nDiscover new art an",
+    "icon": "/icons/com.mintgames.adultcoloring.png"
+  },
+  "com.slots.adult.sexy.free.lucky.casino.spin.vegas.game": {
+    "title": "Adult Vegas Casino Slots",
+    "package": "com.slots.adult.sexy.free.lucky.casino.spin.vegas.game",
+    "description": "Are you ready to dive into the heart of Las Vegas excitement right from your mobile device? Look no further than Adult Vegas Casino Slots, the ultimate slot game app that brings the sizzling allure of Vegas right to your fingertips.\n\nWhy Choose Adult Vegas Casino Slots?\n\n-User-Friendly Interface: Our app is designed for easy navigation, ensuring that you can find your favorite slots and start spinning in no time.\n\n-Regular Updates: Stay engaged with regular updates that introduce new slot games, features, and promotions to keep the excitement going.\n\n-Secure and Reliable: Trust in our secure platform, developed by reputable names in the industry. Your data and transactions are always protected.\n\nKey Features:\n\nSizzling Hot Slots with Beautiful Graphics: \nGet ready for an unforgettable gami",
+    "icon": "/icons/com.slots.adult.sexy.free.lucky.casino.spin.vegas.game.png"
+  },
+  "com.goodville.goodgame": {
+    "title": "Goodville: Farm Game Adventure",
+    "package": "com.goodville.goodgame",
+    "description": "Welcome to Jane\u2019s farm of dreams\u2014your next favorite farming adventure starts here!\n\nGoodville blends relaxing, fun farming gameplay with emotional well-being in a way that feels natural and engaging. Built on game design expertise and a science-based approach to mental health, it offers more than just farming.\n\nJoin Jane, build and renovate her family farm, and uncover the secrets hidden throughout Goodville. Along the way, you\u2019ll meet a cast of vivid, unforgettable characters who will support you throughout your farm journey, making every step feel meaningful and never lonely.\n\nWe have collaborated with the World Health Organization. Jump in and meet Florence, our new character and WHO public consultant.\n\nUnique interactive content produced with the involvement of psychologists and scient",
+    "icon": "/icons/com.goodville.goodgame.webp"
+  },
+  "com.getyourmarriageon.iu2": {
+    "title": "Intimately Us - For Couples",
+    "package": "com.getyourmarriageon.iu2",
+    "description": "** #1 CLEAN & CHRISTIAN-FRIENDLY INTIMACY APP FOR COUPLES **\n\nIntimately Us is the fun and sexy app for married couples that want to spice up their intimate life & deepen their connection. It\u2019s 100% clean and Christian-friendly - meaning no nudity, porn, crass, or raunchy material. \n\nWe believe you can\u2019t build an intimate & passionate marriage without great sex. We also believe married couples crave a fun, clean, and honest approach to avoid traps and misinformation. \n\nAll married couples need help in the bedroom department at some point! Your intimate life can get stuck in a rut with the same routines over and over. That\u2019s why you need GREAT ideas and games to spice things up without the yuck. \n\nLet\u2019s face it, you want results in your intimate life that last a loooong time and that keep y",
+    "icon": "/icons/com.getyourmarriageon.iu2.png"
+  },
+  "com.akmilabs.smash": {
+    "title": "Smash Vault: Sex Tracker",
+    "package": "com.akmilabs.smash",
+    "description": "Smash Vault is your ultimate companion for logging and reviewing your romantic encounters. Effortlessly track your relationships, hookups, sneaky links, partners, and their unique traits and much more. Smash Vault helps you stay organized and adds excitement to your love life, all while ensuring your data remains private and secure.\n\nKey App Features:\n\n\u2022 Smash Calendar View: Easily visualize your romantic and sexual history with our intuitive calendar.\n\u2022 In-Depth Statistics: Get detailed statistics on each encounter and partner, making it the ultimate sex tracker.\n\u2022 Map of Events and Locations: Track where your romantic and sexual adventures take place with a comprehensive map view.\n\u2022 Add Multiple Partners: Log and manage details of multiple partners seamlessly.\n\u2022 Partner Traits: Add and t",
+    "icon": "/icons/com.akmilabs.smash.png"
+  },
+  "com.yourstoryinteractive.sails.pirate.adventure": {
+    "title": "Romance Club - Stories I Play",
+    "package": "com.yourstoryinteractive.sails.pirate.adventure",
+    "description": "Become a character in a story you\u2019ll love! The choice is yours:\n\u2726 Pick your own look and style\n\u2726 Romance: Cute or Sexy? Bold or Shy? Guy or Girl? \n\u2726 What happens next? Every story has multiple endings!\n\u2726 Fantasy, drama, supernatural, horror, adventure, and more\n\u2726 Dozens of original stories with more to come\n\nWhich story will you try first?\n\n\u2756 DRACULA: A LOVE STORY \u2013 Experience a whirlwind romance spanning centuries: palace secrets of the Ottoman Empire, love and loathing at the royal court, and friends and enemies whose lives span an eternity\u2026\n\n\u2756 HEAVEN'S SECRET \u2013 You died and went to... the Angels and Demons Academy? Devilish lecturers, angelic sweethearts, and the temptation to break Heaven's rules\u2014what else awaits you in this dangerous, fantastical afterlife?\n\n\u2756 CHASING YOU \u2013 When a rou",
+    "icon": "/icons/com.yourstoryinteractive.sails.pirate.adventure.png"
+  },
+  "com.google.android.apps.assistant": {
+    "title": "Google Assistant Go",
+    "package": "com.google.android.apps.assistant",
+    "description": "Lightweight and fast, yet still packed with your favorite features, the Google Assistant is now available on Android (Go edition).\n\nUse your voice to get directions to the nearest coffee shop, make calls hands free during your commute, and unwind by playing your favorite tunes. You personal Google is here to help. Ask your Google Assistant questions and get things done. Use it anytime, anywhere.\n\nWith the Google Assistant Go, you can:\n\n\u2022 Make quick phone calls on the go (\u201cCall Sameer\u201d)\n\u2022 Send text messages (\u201cText Sara I am running late\u201d)\n\u2022 Play music (\u201cPlay some jazz on YouTube\u201d)\n\u2022 Navigate places (\u201cGet me directions to the nearest coffee shop\u201d)\n\u2022 Preview your upcoming events (\u201cTell me about my day\u201d)\n\u2022 Weather information (\u201cDo I need an umbrella today?\u201d)\n\u2022 Answers (\u201cHow tall is Mount Evere",
+    "icon": "/icons/com.google.android.apps.assistant.png"
+  },
+  "com.creebtunnel.vpn": {
+    "title": "CREEB VPN",
+    "package": "com.creebtunnel.vpn",
+    "description": "Experience the fastest free VPN app for Android. CREEB VPN gives you unlimited, secure, and private internet access with just one tap. CREEB VPN is built with Secured Protocol to keep You Safe and secure from Internet snoopers, CREEB VPN Mask your connection allowing you to browse free and securely without been Monitored.\n\n\u26a1 FEATURES\n+ Free VPN \u2014 No subscription required\n+ Fast & stable connection with unlimited bandwidth\n+ One-tap connect \u2014 simple and easy to use\n+ Browse anonymously and hide your IP address\n+ Bypass geo-restrictions and access blocked content\n+ Supports SSH, DNSTT, UDP, V2Ray & WIREGUARD\n+ No logs \u2014 your activity is never recorded\n+ Works on all Android devices\n+ Secure public Wi-Fi protection\n\n\ud83c\udf0d BYPASS RESTRICTIONS & ACCESS BLOCKED CONTENT\nCREEB VPN lets you access any ",
+    "icon": "/icons/com.creebtunnel.vpn.jpg"
+  },
+  "dev.creebtunnel.app": {
+    "title": "CREEB TUNNEL",
+    "package": "dev.creebtunnel.app",
+    "description": "CREEB TUNNEL is a VPN App that Secure Your Internet Connection Routing through SSH, OVPN, DNS, UDP, and V2Ray. CREEB TUNNEL is built to keep your internet activities secure and enhance free internet access to surf the internet and bypass geo-restricted content. CREEB TUNNEL is Built-in with Fast and Secure Server Tailored from different region giving a seamless swift Internet Connection.\n\n========== FEATURES ==========\n\n+ MOBILE FRIENDLY UI \n+ FAST & SECURE CONNECTION\n+ SERVER CUSTOMIZATION \n+ CONFIG CUSTOMIZATION\n+ IMPORT & EXPORT CONFIG SETUP\n+ IP & GEO REGION LOOKUP\n+ VPN WIFI SHARE\n+ FILTER APP/ APP PROXIFER\n\nCREEB TUNNEL is committed to enhancing your online privacy while providing unrestricted access to content worldwide.",
+    "icon": "/icons/dev.creebtunnel.app.png"
+  },
+  "com.creeb.Injector": {
+    "title": "CREEB INJECTOR (SSH/DNS/UDP)",
+    "package": "com.creeb.Injector",
+    "description": "Creeb Injector is a VPN Application built to establish a free and secure Internet connection routing through multiple tunnel techniques such as SSH, DNS, UDP AN V2RAY, it's a network tool to keep you secure around the Internet, it Encrypt Your Internet Activities allowing you to browse freely and securely without been monitored. \n\nWith Creeb Injector You can Enjoy Seamless & Swift Internet Experience, Browse and stream your favorite content on the internet without been interrupted, creeb injector is your freedom from blocked or restricted internet content Try it out NOW!\n\nFEATURES OF CREEB INJECOR\n\n+  Mobile Friendly Ui\n+  Fast & Secure Connection\n+  Encrypt Config Setup\n+  Host Checker\n+  IP  & Geo Region lookup\n+  VPN WIFI Share\n\nTUNNELING & PROTOCOAL MODE\n\n+  SSH \u27a1\ufe0f DIRECT\n+  SSH \u27a1\ufe0f SSL",
+    "icon": "/icons/com.creeb.Injector.png"
+  },
+  "com.hodanny.instagrid": {
+    "title": "9square for Instagram",
+    "package": "com.hodanny.instagrid",
+    "description": "9square FOR INSTAGRAM\n\nThe #1 best free app to crop your pictures into 3x1, 3x2, 3x3, 3x4, 3x5 grids and upload directly to Instagram.  Impress all your Instagram followers with high resolution grids that you can create from your personal pictures!  Gain more followers and attention by having the best looking grids on Instagram.\n\nMAIN FEATURES:\n\u2605 Crop any picture into 3x1, 3x2, 3x3, 3x4, 3x5 grids\n\u2605 High resolution images\n\u2605 Post images directly to Instagram\n\u2605 Save to SDCard\n\u2605 Very simple and easy to use",
+    "icon": "/icons/com.hodanny.instagrid.png"
+  },
+  "com.google.android.apps.tasks": {
+    "title": "Google Tasks",
+    "package": "com.google.android.apps.tasks",
+    "description": "Stay on top of your to-dos with the Google Tasks mobile app. Easily capture, manage and get reminded about your tasks from anywhere, at any time. Your to-dos sync across all your devices, and integrations with Gmail and Google Tasks help you get tasks done\u2014 faster.\n\nWith Google Tasks,  you can:  \n\u2022 View, create, edit, and manage tasks while you\u2019re on the go \n\u2022 Stay organized by creating tasks lists for different topics or priorities\n\u2022 Prioritize your tasks by using drag-and-drop to reorder them or by marking your most important tasks with a star \n\u2022 Track multi-step tasks with subtasks, helping you break down to-dos into smaller components \n\u2022 Set dates and get notifications  to ensure you complete tasks on time.\n\u2022 Create tasks directly from emails in Gmail, with a convenient link back to th",
+    "icon": "/icons/com.google.android.apps.tasks.png"
+  },
+  "com.twittervid.twa": {
+    "title": "X Twitter Video Downloader",
+    "package": "com.twittervid.twa",
+    "description": "X Downloader allows you to download any X/Twitter video directly to your device with just a single click. X Downloader is a free Twitter video downloader with ultra fast download speed. Download Twitter videos as an MP4 in HD, ensuring high quality playback.\n\nTo use this tool, simply enter the link/URL of the Tweet you wish to download into the input field and click the \"Load Videos\" button.  Then, select whichever quality you want and click the \"download\" button. The video will then be downloaded to your device in MP4 format. This is essentially a Twitter to MP4 tool, since it allows you to convert any Tweet to MP4. This tool is an all-in-one Twitter video saver.\n\nX Downloader is also a Twitter GIF downloader, meaning you can download any Twitter GIF. Simply enter your Tweet link click on",
+    "icon": "/icons/com.twittervid.twa.png"
+  },
+  "Com.surfshark.app": {
+    "title": "Com.surfshark.app",
+    "package": "Com.surfshark.app"
+  },
+  "com.symantec.securewifi": {
+    "title": "Norton VPN \u2013 Fast & Secure",
+    "package": "com.symantec.securewifi",
+    "description": "Stay safer online with top-performing VPN and much more. \n\nGet fast and reliable VPN with advanced privacy and malware protection plus parental control to keep your family and your devices safer online.  \n\nAvailable products after install: \n\nNorton VPN Standard \nProtect your mobile online privacy when connected to Wi-Fi at home or while on-the-go. Norton VPN helps ensure private, fast internet access wherever you are. \n\u25a0 Change Location: Seamlessly connect to your ideal country and city so you can enjoy what you\u2019re doing more securely, privately, and without interruption.\n\u25a0 Content Access: Access your favorite shows, videos, and websites more privately around the world.\n\u25a0 Auto Connect: Automatically turn on your VPN whenever you connect to a public network, so your data stays safer and mor",
+    "icon": "/icons/com.symantec.securewifi.png"
+  },
+  "com.google.android.stardroid": {
+    "title": "Sky Map",
+    "package": "com.google.android.stardroid",
+    "description": "Sky Map helps you identify stars, planets, nebulae, and constellations in real-time.\n\nOriginally developed as Google Sky Map, it is now open source.\nFind us online:\n\u2b50 Official Website: stardroid.app\n\u2b50 Open Source: Contribute on GitHub\n\u2b50 Join the Community:\n\u00a0\u00a0\u00a0 \u2022 Facebook @stardroidapp\n\u00a0\u00a0\u00a0 \u2022 X @skymapdevs",
+    "icon": "/icons/com.google.android.stardroid.png"
+  },
+  "com.google.toontastic": {
+    "title": "Toontastic 3D",
+    "package": "com.google.toontastic",
+    "description": "3\u2026 2\u2026 1\u2026 ACTION! With Toontastic 3D you can draw, animate, and narrate your own cartoons. It\u2019s as easy as play. Just move your characters around onscreen, tell your story, and Toontastic records your voice and animations and stores it on your device as a 3D video. Toontastic is a powerful and playful way to create interstellar adventures, breaking news reports, video game designs, family photo albums, or anything else you might imagine! \n\n\nWhat people are saying:\n\u2022 Parents' Choice Gold Award: \"Toontastic 3D is a wonderful creative outlet for all budding storytellers, young scientists, or those who increasingly blur the lines between the two - perhaps this is where the next documentary makers and Pixar artists will get their start.\"\n\u2022 Five star rating from Common Sense Media - \"Kids are in ",
+    "icon": "/icons/com.google.toontastic.png"
+  },
+  "com.goplaytoday.guildofheroes": {
+    "title": "Guild of Heroes: Adventure RPG",
+    "package": "com.goplaytoday.guildofheroes",
+    "description": "A magical world of old school action RPG adventure is calling for heroic wizards and knights. Discover medieval cities and dark dungeons, fight against monsters or raid dragon\u2019s dens. The age of magic is here so you\u2019d better get ready to meet devious dwarves and ancient elves, nasty orc shamans and troll sorcerers. Epic action, dark caves, quests and raids await.\n\nHowever, the epic journey through the huge, colorful game world is not all fairy tales and mystic dungeons and dragons. It\u2019s also filled with PVP battles against mages in the arena and Guild Wars controlled by other players!\n\nGet involved:\n\u2605 Action-packed fantasy RPG with impressive game graphics\n\u2605 Equip character classes such as mage, archer and warrior, interchangeable at any time\n\u2605 PVP against other teams in arena Guild Wars\n\u2605",
+    "icon": "/icons/com.goplaytoday.guildofheroes.png"
+  },
+  "com.grandcashslots.free.gp": {
+    "title": "Grand Cash Casino Slots Games",
+    "package": "com.grandcashslots.free.gp",
+    "description": "\ud83d\udd25 Start your slot journey with 10,000,000 WELCOME COINS! Experience the thrill of authentic casino action and chase the Grand Jackpot! Enjoy the endless fun from GRAND CASH SLOTS\uff01\ud83d\udd25\n\n\ud83c\udf89 Splendid and magnification machine, Incredibly novel Slots you have ever seen so far! Chance to get 10,000,000,000+ of world free casino slot games Jackpots!\ud83c\udf89\n\n\ud83d\udc8e More details of Grand Cash Slots game\uff01 \ud83d\udc8e \n\ud83c\udfb0[Zeus] Collect temple symbols then face the LIGHTNING STORM!\n\ud83c\udfb0[EGYPT SCARAB] Find mysterious EGYPT SCARAB TOGETHER. \n\ud83c\udfb0[PIRATE CAPTAIN] Explore the unknown, Discover HUGE TREASURE!\n\ud83c\udfb0[Golden Piggy] Old school casino slot + brand new gameplay! More PIGGIES! More FREE SPINS! More JACKPOTS!\n\ud83c\udfb0[Fortune Dragon] RESPIN or FREE GAMES? Choose your own way to WIN! Dragon will bring you GOOD LUCK!\n\ud83c\udfb0[Little Hot Devil] Col",
+    "icon": "/icons/com.grandcashslots.free.gp.png"
+  },
+  "com.grandsons.dictsharp": {
+    "title": "Dict Box: Universal Dictionary",
+    "package": "com.grandsons.dictsharp",
+    "description": "Dict Box - Dictionary & Translator App for All Languages.\n\n- No internet required.\n- Fast & easy to use.\n- Pronunciation for any text.\n- Translate word by camera.\n- Translate text directly in web browser and other apps.\n- Word correction for mistyped words.\n- Ability to find similar phrases or sentences.\n- Ability to install more dictionaries & more languages.\n- Web dictionaries (Oxford, Cambridge, Wiki, etc).\n- Word reminder.\n- Picture dictionary.\n- Review words with Flashcards.\n- Word list management.\n- Cloud backup.\n- Synchronize word lists across multiple devices.\n\nYou can install more dictionaries in different languages:\nEnglish, Spanish, Arabic, French, Portuguese, Russian, German, Turkish, Vietnamese, Japanese, Korean, Chinese, Italian, Persian, Farsi, Thai, Hebrew, Urdu, Dutch, Kur",
+    "icon": "/icons/com.grandsons.dictsharp.png"
+  },
+  "com.graphionica.app": {
+    "title": "Graphionica: insta story maker",
+    "package": "com.graphionica.app",
+    "description": "Graphionica is a stylish free photo editor, where you can create awesome beautiful Instagram stories and make designs for any social network. Create beautiful collages, combine several photos and videos at the same time, add drawings, stickers, and textures for backgrounds. You can add text on photo or video, add stickers on photo or video, add lettering on photo or video, add inscription on photo or video and plan social network feed. You can erase the background from any photo and save the result as your own sticker. You can erase video! Surprise your Instagram followers! Add awesome fonts to your Instagram stories! You'll also find unique editable templates for Instagram (stories).\n\n\u2714 Add free ready letterings from regularly replenished sticker packs or write your own text with one of m",
+    "icon": "/icons/com.graphionica.app.png"
+  },
+  "com.gravity.rider.balance.run.bike": {
+    "title": "Gravity Rider: Space Bike Race",
+    "package": "com.gravity.rider.balance.run.bike",
+    "description": "Tackle moto racing trials, defeat your racing rivals, finish in record time and get on the road to becoming a bike rider champion. Select a motocross bike for extreme motorcycle racing, a race car if you're in the mood for extreme car driving or even an ATV road bike.\n\nRace to the finish at turbo fast speed, but watch out \u2013 moto jumps, zero gravity fields, asphalt elevators & drift tracks will challenge you! Play to keep your space bike steady and don\u2019t turn into a skiddy car in this road bike balance skill game.\n\nLeverage the power of the realistic motorcycle racing engine: free fall along blocks to build bridges, balance on extreme asphalt ramps and flip jump over traps and trials to defeat other riders.\n\nCompete in turbo fast trials against 3 of your rider rivals. Play on the asphalt - ",
+    "icon": "/icons/com.gravity.rider.balance.run.bike.png"
+  },
+  "com.hidea.cat": {
+    "title": "Cats&Soup: Relaxing Cozy Games",
+    "package": "com.hidea.cat",
+    "description": "First time here? Cats & Soup has a [Frog Raincoat set] just for you!\nHere is a peaceful animal forest where cats boil their delicious soup!\nAn idle relaxing cat game perfect for cat moms and dads\n\n\n1. Cat Raising Game in Fairytale-Like Illustration\nThere has never been a cat game like this one!\nEach cat\u2019s features are so distinct in cartoonish illustration, including Ragdoll, Norwegian forest cat, Birman, Himalayan, Maine Coon, Siberian, British Shorthair and more!\nMeet the cats in the fairytale-like forest!\n\n2. Interact With the Cute Cats\nDress cats in various costumes like hats, accessories, and clothes.\nTake photos of your cute animals.\nYou can receive hearts by feeding them fish caught from the mini-game!\nName your own cats just the way you like as well!\n\n3. Relaxing ASMR Sound and BGM",
+    "icon": "/icons/com.hidea.cat.jpg"
+  },
+  "com.ifreegroup.moesim": {
+    "title": "5ber.eSIM",
+    "package": "com.ifreegroup.moesim",
+    "description": "Do you want to experience eSIM?\nDo you want your SIM card to support multiple numbers and switch between them?\nDo you want to turn your phone into one that supports eSIM?\nDo you want to get the best and cheapest traffic package anywhere in the world when travelling?\nNow, 5ber.eSIM can help you.\nWelcome to 5ber.eSIM.\nThe most professional eSIM Solution for existing devices: 5ber.eSIM.\n\nDownload the app, have a 5ber.eSIM card, and you can upgrade your device to support eSIM.\nWith 5ber.eSIM, you can use any Android device and any carrier network worldwide,  and it supports up to 10 eSIM numbers\uff01\n\nCome on, let's experience eSIM now!\n\n5ber.eSIM will continue to provide you with a better eSIM experience. We hope you will continue to pay attention to us. Our contact information:\nOfficial website:",
+    "icon": "/icons/com.ifreegroup.moesim.png"
+  },
+  "com.iogame.gearworld": {
+    "title": "Gear Defenders",
+    "package": "com.iogame.gearworld",
+    "description": "Gear Defenders \u2013 A Revolutionary Placement-Adventure Game: Build Your Tactical Fortress, One Gear at a Time\nTired of strategy games that demand endless grind? Meet Gear Defenders \u2013 a fresh blend of \"idle collection\" and \"strategic adventure\" that lets you effortlessly generate powerful troops with simple taps, assembling your very own war machine block by block.\n\u3010Craft Your War Engine Like a Puzzle\u3011\nPlace soldiers around the Power Core, and watch them work like magic to continuously spawn combat units. From basic infantry to elite knights, every troop is a \"gear\" in your fortress \u2013 drag, drop, and strategize to build the ultimate defense line\uff01\n\u3010Unlock 10+ Troop Types\u3011\nOn your adventure, you\u2019ll unlock over 10 unique soldier types: resilient infantry, long-range archers, shield bearers, and ",
+    "icon": "/icons/com.iogame.gearworld.jpg"
+  },
+  "com.irisstudio.backgrounderaser": {
+    "title": "Ultimate Background Eraser",
+    "package": "com.irisstudio.backgrounderaser",
+    "description": "Ultimate Background Eraser provides a fast and easy way to change photos backgrounds. Just touch the area you want to erase and auto eraser tool will do the rest of the work for you. You can also erase your photos background manually by finger touch or with Lasso (Image Cutting) tool.\n\nRemove background from your photos & save the transparent image in PNG or JPG format! The resulting images can be used as stamps with other apps to make a photo-montage, collage or with beautiful Background (Use Our Backgrounds or Yours).\n\nFeatures:\n\n***** Auto Erase\n       - One Touch Background Removal\n\n***** Manual Erase\n       - Finger Rub Background Removal\n\n***** Lasso Eraser (Cut Photos In  OR Cut Photos Out)\n       - Area Selection Background Removal \n\n***** Restore\n       - Finger Rub Background Ret",
+    "icon": "/icons/com.irisstudio.backgrounderaser.png"
+  },
+  "com.ironhorsegames.idlewasteland": {
+    "title": "Idle Atomic: RPG Survival",
+    "package": "com.ironhorsegames.idlewasteland",
+    "description": "Crawl through rad radiation, fight mutants in the wasteland and carve out a shelter in the fallout in this incremental Idle RPG! Use skills to prestige across Idle Atomic: RPG Survival!\n\nThis is an Incremental Idle RPG game like you\u2019ve never seen. Tap to upgrade to survive the rad end of times. Tap to capture idle creatures, fight mutant hordes and build armor to withstand the radioactive fallout!\n\nIdle Atomic: RPG Survival Features:\n\nIncremental Survival\n- Idle & dig up scrap\n- Craft rad gear to withstand the fallout\n\nIdle Action\n- Battle against Mutant Mobs\n- Use your Abilities Carefully: Survival is key\n\nCraft Gear\n- Mine scrap to build rad armor for survival\n- Collect items to craft new idle weapons\n- Craft components for epic loot to survive the fallout\n\nMaster the Rad Apocalypse in I",
+    "icon": "/icons/com.ironhorsegames.idlewasteland.png"
+  },
+  "com.ironhidegames.kingdomrush.mp": {
+    "title": "com.ironhidegames.kingdomrush.mp",
+    "package": "com.ironhidegames.kingdomrush.mp",
+    "icon": "/icons/com.ironhidegames.kingdomrush.mp.png"
+  },
+  "com.ironhidegames.android.kingdomrushfrontiers": {
+    "title": "com.ironhidegames.android.kingdomrushfrontiers",
+    "package": "com.ironhidegames.android.kingdomrushfrontiers",
+    "icon": "/icons/com.ironhidegames.android.kingdomrushfrontiers.png"
+  },
+  "com.ironhidegames.android.ironmarines": {
+    "title": "Iron Marines Offline Strategy",
+    "package": "com.ironhidegames.android.ironmarines",
+    "description": "From the creators of the award-winner Kingdom Rush comes the most extraordinary offline space odyssey.\n \nFight challenging offline real time strategy battles on amazing and unknown planets. Command brave soldiers, mighty mechas, and powerful aliens against hordes of space monsters, swarms of insectoids, and robot armies in a galaxy far away.\n\nPLAN, ATTACK AND BEAT ALL THE ENEMIES ADAPTING YOUR STRATEGY by changing the role of your troops even in the thick of the offline combat.\n\nRECRUIT AND TRAIN THE GREATEST HEROES in the galaxy, leading them into dangerous territory against near-impossible odds.\n\nTURN THE TIDE OF BATTLE with orbital strikes, intelligent mines, support troops, turrets, and a wide array of special weapons.\n\nArmies of robots, crushed starships, gigantic monsters, unknown ra",
+    "icon": "/icons/com.ironhidegames.android.ironmarines.png"
+  },
+  "com.is.core.app": {
+    "title": "Comera - Video Calls & Chat",
+    "package": "com.is.core.app",
+    "description": "Comera is a free-messaging app that allows you to talk to your friends and family via one-to-one chats, voice calls, and video calls through connectivity over mobile data or Wi-Fi. It also enables you to connect through group chats and lets you share photos, videos, documents, locations, and a whole lot more.  \n\nWhy Comera? \n\n- FREE CALLS & MESSAGES: No limitations on the messages and calls, including audio and video calls, placed internationally. Talk FREE for unlimited hours. \n\n- GROUP CHATS: Communicate with multiple people at once for even faster communication \n\n- NO ADS: A seamless communication experience without the annoying ads.  \n\n- SAFE AND SECURE: Comera is embedded with features like End-to-End Encryption to keep your messages and calls completely safe and private.  \n\n- TALK AN",
+    "icon": "/icons/com.is.core.app.png"
+  },
+  "com.seraphic.openinet.pre": {
+    "title": "Open Browser - TV Web Browser",
+    "package": "com.seraphic.openinet.pre",
+    "description": "Open Browser is a web browser designed for Android TV. It delivers a superb web browser experience to over 200 countries and regions since its born.\n\nMORE THAN A WEB BROWSER\nWhat is more?\nBesides the fastest and most secure & seamless browsing experience, Open Browser selects personlized contents for you based on AI powered recommendation engine. The recommendation covers global OTT portfolios, such as Music, Movies, News, Games, etc. It\u2019s completely FREE to download & browse, no hidden charges.\n\nLESS IS MORE\nWith handpicked functions, you can embrace brilliant contents from world wide web.\n* Multiple tabs\nBrowse different web pages simutaneously and switch between them in an easy way.\n* Multi-language\nMulti-language support makes barrier-free browsing.\n* USB keyboard and USB mouse\nExplore",
+    "icon": "/icons/com.seraphic.openinet.pre.png"
+  },
+  "com.ishafoundation.app": {
+    "title": "Sadhguru - Yoga & Meditation",
+    "package": "com.ishafoundation.app",
+    "description": "Connect with Sadhguru and practice Isha Yoga on the official Sadhguru App! Discover Yoga for beginners and benefit from free Yoga and meditation practices that can help you overcome stress and anxiety, and establish lasting calm and joy, in just a few minutes a day.\n\nSadhguru App and Isha Yoga practices are now available in 12 languages \u2013 German, Russian, French, Spanish, German, Hindi, Telugu, Gujarati, Kannada, Marathi, Malayalam, and Tamil.\n\nStart your day with Sadhguru\u2019s daily quotes, stay up to date with his latest articles, listen to his podcasts, and watch videos on a wide range of topics including spirituality, success, Yoga, meditation, relationships, health, fitness, and living a joyful and stress-free life.\n\nSadhguru\u2019s Guidance and Wisdom\n- Start your day with Sadhguru \u2013 Quotes ",
+    "icon": "/icons/com.ishafoundation.app.png"
+  },
+  "com.iskslowtest.mislen": {
+    "title": "Isekai:Slow Life",
+    "package": "com.iskslowtest.mislen",
+    "description": "What the-? Been transported to ISEKAI and turned into an adorable walking mushroom?! \ud83d\ude31 \n\nIn this wonderful new world, you will begin by managing and developing a small town while meeting and engaging with various types of beautiful and bizarre characters. Discover unknown lands with them as you wander at your leisure and enjoy the quiet life. \n\n\ud83c\udf33 [Make a family in another world and enjoy a relaxing life] \nExplore fateful encounters with many different races: A gentle vampire nurse, an artistic octopus teacher, a cute siren \u201cdrinking companion\u201d...... While away the sweet, relaxing days of ISEKAI life.\n\n\ud83d\ude38Assemble Your Familiar Squad and Take on Epic Trials \n\nTranscenders can now explore fantastical locations with extraordinary monsters, and develop them into legendary familiars to break thro",
+    "icon": "/icons/com.iskslowtest.mislen.png"
+  },
+  "com.islamicworld.qurankareem": {
+    "title": "Al Quran MP3 Audio Offline App",
+    "package": "com.islamicworld.qurankareem",
+    "description": "\ud83d\udcd6 Al Quran MP3 \u2013 Full Audio, Translation, Tafsir & Offline Quran App with multiple reciters lAbdul Rahman Al-Sudais, Mishary Rashid Alafasy, Saad Al-Ghamdi, Maher Al Muaiqly, and more   \n\nStrengthen your Iman by reading, listening, and understanding the Quran anytime, anywhere \u2013 even without internet.\n\nAl Quran MP3 (\u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645) is the ultimate Islamic app offering the complete Quran with high-quality MP3 recitation, 20+ translations, Tafsir, transliteration, offline audio, prayer times with Azan, Qibla direction, daily Islamic reminders, AI Mufti, and a Zakat calculator \u2013 everything a Muslim needs for spiritual growth in one place.\n\nWhether you're looking to read Quran offline, understand Tafsir, find prayer times or calculate Zakat, this all-in-one Quran app is built for you. Ideal for",
+    "icon": "/icons/com.islamicworld.qurankareem.jpg"
+  },
+  "com.islamhq.quranqiblaprayertimings": {
+    "title": "Full Quran Audio MP3 Offline",
+    "package": "com.islamhq.quranqiblaprayertimings",
+    "description": "\ud83d\udcd6 QuranHQ \u2013 Al Quran Majeed, MP3 Quran Audio Offline, Prayer Times, Ramadan 2026 & Qibla Finder \ud83c\udf19\n\nQuranHQ is the ultimate Islamic app for Muslims seeking Al Quran Majeed with offline MP3 recitation, accurate prayer times, Ramadan Calendar 2026, Qibla direction, and AI-powered Islamic guidance. Read the Holy Quran in Arabic with translation, listen to verse-by-verse recitation, and stay updated with Ramadan Sehri & Iftar timings.\n\n\ud83d\udce5 Download QuranHQ now \u2013 your all-in-one Quran reading, listening, and Islamic learning app!\n\n\ud83d\udd4c QuranHQ Features \u2013 Your Ultimate Al Quran Companion\n\n\ud83d\udcd6 Read Quran Majeed \u2013 By Surah & Para\n\u2714 Read the Holy Quran in Arabic with translations in English, Urdu, and other languages.\n\u2714 Navigate by Surah (Chapters) or Para (Juz) for a smooth reading experience.\n\u2714 Experienc",
+    "icon": "/icons/com.islamhq.quranqiblaprayertimings.png"
+  },
+  "com.istomgames.redsiren": {
+    "title": "Red Siren: Robot and Mecha War",
+    "package": "com.istomgames.redsiren",
+    "description": "Fly the most advanced robot destroyer spaceship of the galaxy, the Red Siren. Defend steel mines on real alien planets, fight hostile alien mechs and robots in an endless war for sky dominance. Join the Force and play your part in real space ship battles.\n\nThe year is 2138. Power hungry mining colonies wage warfare to achieve supremacy over the abundant planets of a faraway star cluster. With the support of civil society and modern robotics, the private companies have colonized the surrounding planets, utilizing their natural sources worldwide. Since the new mining technology is not available for everybody, people are organized in groups, building robots and looting planets. War was inevitable. In response, the Exacorp established Red Siren combat squad. As a highly trained pilot, you take",
+    "icon": "/icons/com.istomgames.redsiren.png"
+  },
+  "com.itunestoppodcastplayer.app": {
+    "title": "Podcast Republic - Podcast app",
+    "package": "com.itunestoppodcastplayer.app",
+    "description": "Podcast Republic serves 2M+ podcasts and 500M+ episodes worldwide everyday! Our Android app is the top quality podcast app with over 4M downloads, 90K+ authentic reviews. An app you can trust!\n\nPodcast Republic makes it easier for you to manage your podcasts, online radio streaming, audio books and RSS news & blog feeds within a single app, full of amazing features and highly customizable. All the cool features of this app are at your disposal for free. We know you are addict to your podcasts. We know you like to have your podcasts in your pockets. We invite you to try our app and have an amazing experience of enjoying your favorite contents from all over the world. A podcast player for podcast patrons, podcast makers, podcast creators and podcast addicts.\n\nOrganized Your Way\nCustomize you",
+    "icon": "/icons/com.itunestoppodcastplayer.app.png"
   }
 }
