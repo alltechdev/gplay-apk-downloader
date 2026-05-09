@@ -71226,5 +71226,632 @@
     "package": "com.ludo.master.hippo",
     "description": "\ud83d\udc76\ud83d\udc66\ud83d\udc67\ud83d\udc68\ud83d\udc69\ud83d\udc74\ud83d\udc75\nLudo Master\u2122 is the ludo game played between friends and family. \nPlay the dice game and be the ludo king!\n\n\ud83c\udf1fFeatures of Ludo Master.\ud83c\udf1f\n\u2605 Online/Private Multiplayer Modend \nLudo Master\u2122 is a cross platform multiplayer ludo game played between 2 to 6 players. \nYou can play the ludu game with your friends and family, while also support offline mode, play with  a computer.\n\n\u2605 Enjoyable but also challenging.\nThe gameplay is simple at first and will become immensely challenging once you play with higher level players. \n\n\u2605 Simple rules and easy to play.\n- A token can start to move only if the dice rolled is a 6.\n- The token move clock-wise according to the number of rolled dice.\n- Knocking out other's token will give you an extra chance to roll the dice again.\n- All the tokens must reach ",
     "icon": "/icons/com.ludo.master.hippo.png"
+  },
+  "com.ludo.master.hippo.lite": {
+    "title": "Ludo Master\u2122 Lite - Dice Game",
+    "package": "com.ludo.master.hippo.lite",
+    "description": "\"Ludo Master\u2122 Lite is an offline ludo game for free played between friends and family. \nPlay a quick game of Ludo when you are bored.\nPlay the dice game and be the Ludo King!\n\nReviews of Ludo Master\u2122 Lite\nThis game is performed\n from 2 to 4 gamer or you may play with bot computer. Each participant has to race their all 4 tokens to destination.\n\nExciting Features of Ludo Master\u2122 Lite\n\u2726 Play this dice game with friends and family\n\u2726 Use very little data - works smoothly on 2G, 3G, 4G!\n\u2726 Play Ludo the dice game in offline mode vs Computer or select the easy single menu player mode.\n\n\u2605 Simple rules and easy to play.\n- A token can start to move only if the dice rolled is a 6.\n- The token move clock-wise according to the number of rolled dice.\n- Knocking out other's token will give you an extra c",
+    "icon": "/icons/com.ludo.master.hippo.lite.png"
+  },
+  "com.azercell.ss.app": {
+    "title": "Azercell",
+    "package": "com.azercell.ss.app",
+    "description": "Advantages:\n\u2022\tBalance Control\n\u2022\tHistory of number operations and payments\n\u2022\tOrder of Internet packages\n\u2022\tControl of roaming line and activation of roaming packages \n\u2022\tRenewal/change of current package\n\u2022\tBalance top-up via digital wallet\n\u2022\tand some other more useful services...\nNotes:\n-\tYou may use/download \u201cAzercell\u201d application either on your computer/desktop or on your smartphone supporting Android and IOS operation systems. \n-\t\u201cAzercell\u201d application is provided for use in 3 languages (Azerbaijani, Russian, English) and the use of mobile application is free of charge.\n-\tWhen downloading the application for the first time, you will be shown a detailed information about user guidelines and step-by-step \u201cUser Guide\u201d. \n-\tYou may apply to 24/7 Customer Care offices with any queries and offers",
+    "icon": "/icons/com.azercell.ss.app.png"
+  },
+  "ru.ok.android": {
+    "title": "OK: Social Network",
+    "package": "ru.ok.android",
+    "description": "Odnoklassniki is a social network with millions of users around the world. In OK you can call friends, livestream, send stickers and gifts, find new friends in groups and share moments. Have fun listening to music, watching videos and playing games!\n\nHOBBIES\n\u2014 Cooking, DIY, gardening, traveling, fishing, fashion, cars and pets -  find all the most interesting things about your hobby in OK;\n\u2014 Watch thousands of videos about your favorite topic;\n\u2014 Haven\u2019t found your hobby? Use the search bar, OK has millions of interesting posts.\n \nMOMENTS\n\u2014 Share your moments! Post photos and videos that will disappear after 24 hours;\n\u2014 Use frames, stickers and animated texts to make your moments look even better;\n\u2014 Add any links to the moments.\n\nCOMMUNICATION\n\u2014 Free audio and video calls with up to 100 par",
+    "icon": "/icons/ru.ok.android.jpg"
+  },
+  "com.ispring.islearn": {
+    "title": "iSpring LMS",
+    "package": "com.ispring.islearn",
+    "description": "Enable your teams to access training materials from iSpring LMS and learn whenever it\u2019s convenient \u2014 all through a single mobile platform.\n\nEnjoy an intuitive mobile LMS interface in 30 languages. The app doesn\u2019t require onboarding \u2014 trainees can start taking courses immediately. Training content automatically adapts to any screen size and orientation, ensuring a consistent experience with courses and quizzes across desktops, tablets, and smartphones.\n\nKey benefits for trainees:\n\nTake courses offline: They can save content to their mobile device and access it anytime, even without an internet connection. Learning progress is preserved, and all data syncs automatically once they\u2019re back online.\n\nReceive timely reminders: Your learners can stay on top of training programs with push notificat",
+    "icon": "/icons/com.ispring.islearn.png"
+  },
+  "com.smart_id": {
+    "title": "Smart-ID",
+    "package": "com.smart_id",
+    "description": "Smart-ID is the easiest, most convenient and safest way to authenticate yourself online \u2013 check your online bank account, access e-services and confirm transactions.\n\nSmart-ID allows you to give signatures equal to handwritten signatures (except Basic level), which complies with EU regulations about qualified electronic signatures.\n\nSmart-ID is currently available for:\n-\tEstonian, Latvian, Lithuanian residents\n-\tEstonian e-residents\n-\tBelgium residents\n\n\nEASY \nGet started by downloading Smart-ID app.\n\nFollow the steps in the app to confirm your identity and complete the registration process. Once you\u2019ve done that, you\u2019re good to go \u2013 no other confirmation needed! \n\nCONVENIENT\nYour Smart-ID is always within an easy reach!\n\nYou can use Smart-ID in as many smart devices as you want and gain a",
+    "icon": "/icons/com.smart_id.png"
+  },
+  "com.ludo.multiplayer.game.free": {
+    "title": "Timepass Ludo: Play & Compete",
+    "package": "com.ludo.multiplayer.game.free",
+    "description": "Experience the Ultimate Ludo Game \u2013 Timepass Ludo: Play & Compete!\n\nDive into the classic Ludo board game with an exciting modern twist! Whether you're playing online with friends or offline against AI, Timepass Ludo offers the most thrilling Ludo experience for all ages. Ready to become the ultimate Ludo champion? Play the best Ludo game and enjoy fun-filled matches anytime, anywhere!\n\n\ud83c\udfae Play Anytime \u2013 Online or Offline!\nChallenge your friends and family in real-time multiplayer matches, or play offline Ludo with smart AI opponents. Timepass Ludo lets you enjoy the game wherever and whenever you want, whether you're online or offline. It\u2019s the perfect way to experience the classic Ludo board game!\n\n\ud83d\ude80 Exciting Features:\n\n\u2728 Classic Ludo Board Game: Enjoy the traditional Ludo game that you k",
+    "icon": "/icons/com.ludo.multiplayer.game.free.png"
+  },
+  "com.lulu.times.lives": {
+    "title": "LuluLive-Live video call",
+    "package": "com.lulu.times.lives",
+    "description": "Make private, easy video calls on LuluLive and feel real.\nIt's designed to help you connect with friends in a genuine way through video calls.\nWhy choice LuluLive?\n1\u3001Instant real-time video chat\nOur low-latency technology makes every video call smooth and natural - no matter how far you are, calls always feel special.\n2\u3001Share relaxing moments:\nFrom funny jokes to late-night conversations, find people who can really get along with you and listen to you.\n3\u3001Easy to use\nLuluLive's interface is simple. Just one tap to start a secure face-to-face video call with a new friend - without any hassle.\n4\u3001Privacy and security protection\nExperience and privacy are our important priorities. LuluLive provides a variety of premium security features to provide a safe and enjoyable environment for everyone.\n",
+    "icon": "/icons/com.lulu.times.lives.png"
+  },
+  "com.luma.IdleFarm": {
+    "title": "Idle Farm: Farming Simulator",
+    "package": "com.luma.IdleFarm",
+    "description": "Welcome to Idle Farm: Harvest Empire, the ultimate farming simulator where you can cultivate your dream farm and build a thriving business empire! Dive into the world of farming management, where every decision counts, and every crop brings you closer to becoming a true farming tycoon.\n\nRUN YOUR OWN FARM\nStart your journey by planting crops, harvesting them, and selling your produce to earn money. The more you grow, the more you can expand your business empire!\n\nOVER 60 UNIQUE CROPS\nFrom corn to strawberries, explore a wide variety of crops to cultivate in this engaging farming simulator. Each crop in your village has its own growth cycle and profitability, allowing you to strategize your farming approach.\n\nHIRE OVER 200 MANAGERS\nAs your farm grows, so will your need for help. With over 20",
+    "icon": "/icons/com.luma.IdleFarm.jpg"
+  },
+  "com.lyd.bubble": {
+    "title": "Bubble Shooter",
+    "package": "com.lyd.bubble",
+    "description": "Bubble Shooter is the #1 addictive bubble shooting puzzle game on Android. Aim, fire and pop your way through this enchanting bubble shooter adventure today!\n\nShoot and match 3 or more bubbles in this tasty game for sweet winning feeling! Pop and burst with quick thinking and smart tactics to progress to the next challenging level and be awarded with powerful boosters. Are you ready to pop and blast now?\n\nBubble Shooter Features:\n- Never-ending fun with THOUSANDS of unique levels \n- Match 3 bubbles of the same color and use combos to pop bubbles\n- Easy and fun to play yet challenging to master\n- Enchanting graphics that will leave you spellbound\n- Play anytime and anywhere, no WiFi connection is required",
+    "icon": "/icons/com.lyd.bubble.png"
+  },
+  "com.lemulitestudio.socks5proxy": {
+    "title": "Socks 5 Proxy",
+    "package": "com.lemulitestudio.socks5proxy",
+    "description": "Socks5 Proxy offers daily access to a curated list of high-speed SOCKS5 proxies from around the world. Whether you're a developer testing geo-specific features, a researcher collecting global data, or simply someone who values online privacy, this app provides a fast, simple way to find the proxies you need.\n\nImportant Notice:\nThis app does not create a VPN connection or route traffic directly. It provides SOCKS5 proxy server addresses that you can configure manually in compatible apps or systems. Please use responsibly and in accordance with your local laws.\n\nJoin thousands of users who rely on Secure Proxy Gateway for easy access to fresh SOCKS5 proxies every day.\n\n\ud83d\udd10 Key Features:\n\nDaily Proxy Updates: Stay connected with an updated list of SOCKS5 proxies refreshed every 24 hours.\n\nGloba",
+    "icon": "/icons/com.lemulitestudio.socks5proxy.png"
+  },
+  "com.iorgana.proxy": {
+    "title": "ProxySet - HTTP Socks Proxy",
+    "package": "com.iorgana.proxy",
+    "description": "Want to browse the web with a little more privacy or access content that's normally blocked? ProxySet is a straightforward proxy client that lets you connect to remote servers using either HTTP or SOCKS protocols.\n\n------------------------------------------------------------\n\u26a1 App Benefits\n\u25cf Profile Management: Easily create and save multiple proxy profiles. Each profile stores your server's address, port, and protocol type (HTTP or SOCKS). No more typing in the same settings every time!\n\u25cf Authentication Support: Got a proxy server that requires a username and password? ProxySet has you covered. Simply enter your credentials, and you're good to go.\n\u25cf Clear Distinction from VPNs: It's important to know the difference: ProxySet changes your IP address, but it doesn't encrypt your data like a",
+    "icon": "/icons/com.iorgana.proxy.png"
+  },
+  "com.SOCKS5toHTTP.E4rts": {
+    "title": "SOCKS5 to HTTP Proxy",
+    "package": "com.SOCKS5toHTTP.E4rts",
+    "description": "SOCKS5 to HTTP Proxy is a powerful network utility designed to bridge your device\u2019s local HTTP traffic through remote SOCKS5 servers. Whether you need to resolve network protocol compatibility, secure your connection on public Wi-Fi, or route specific traffic, our client provides a high-performance tunnel.\n\nHow It Works: The app establishes a local HTTP proxy gateway on your device (e.g., 127.0.0.1:8080). Simply input your remote SOCKS5 server details. Once active, you can point your device\u2019s Wi-Fi settings or compatible apps to this local gateway to relay traffic through your SOCKS5 tunnel.\n\nKey Features:\n\n\ud83c\udf10 Universal Proxy Bridging: Seamlessly convert HTTP/HTTPS requests into a secure SOCKS5 tunnel. Ideal for devices or apps that only support standard HTTP proxy configurations.\n\n\ud83d\udd12 Secure",
+    "icon": "/icons/com.SOCKS5toHTTP.E4rts.png"
+  },
+  "com.lyrebirdstudio.background_eraser": {
+    "title": "Background Eraser Magic Eraser",
+    "package": "com.lyrebirdstudio.background_eraser",
+    "description": "Remove BG: Background Eraser - Change Photo Background in a Click!Transform your photos effortlessly; there's no need for complicated tools! With Remove BG: Background Eraser, you can erase backgrounds within seconds and create stunning images. Whether you require a transparent background or a new scene, Remove BG: Background Eraser is your go-to solution.\n\nEditing was never this simple, thanks to Erase Pic Remove: Background Remover and Transparent Background Changer: Magic Eraser.\n\n\ud83d\udcc4 Key Features of Remove BG - Background Eraser:\ud83d\udcc4\n\ud83d\uddbc\ufe0f Backgrounds are flushed away in a split second at Remove BG: Background Eraser;\n\ud83d\uddbc\ufe0f One-click edits with Erase Pic Remove: Background REMOVER;\n\ud83d\uddbc\ufe0f Remove BG: Background Eraser, pro-level finishes;\n\ud83d\uddbc\ufe0f Object removal without any effort whatsoever with Remove Obj",
+    "icon": "/icons/com.lyrebirdstudio.background_eraser.jpg"
+  },
+  "com.madfingergames.deadtrigger": {
+    "title": "Dead Trigger: Survival Shooter",
+    "package": "com.madfingergames.deadtrigger",
+    "description": "Get ready for Non-Stop Action in this Shooter Game!\n\nGear up for some extreme zombie slaying!\n\u2605 Smash hordes of bloodthirsty zombies\n\u2605 Secure vital supplies\n\u2605 Save other survivors\n\u2605 Protect the Safe Haven\n\u2605 Explore the city\n\u2605 Uncover the shocking truth in this intense FPS action game!\n\nWipe out the horde in a variety of imaginative ways\n\u2605 Blast 'em out of existence with a lethal arsenal of weapons\n\u2605 Put them out of their misery with powerful explosives\n\u2605 Dispatch of the zombie horde with countless creative ways\n\u2605 Evolving zombie AI will keep you on your toes\n\nLoad your gun and shoot \u2018em up\n\u2605 Equip yourself with beautifully realistic weapons - Colt 1911, Scorpion, Striker, Enfield, or a Minigun\n\u2605 Get stuck in with brutal melee weapons like the Chainsaw, Brain Mill and more\n\u2605 Utilize powerfu",
+    "icon": "/icons/com.madfingergames.deadtrigger.png"
+  },
+  "com.madfingergames.deadtrigger2": {
+    "title": "Dead Trigger 2 FPS Zombie Game",
+    "package": "com.madfingergames.deadtrigger2",
+    "description": "\u2605 Over 110 Million downloads \u2605\n\u2605 Non-Stop FPS Action Zombie Shooter \u2605\n\nGet ready for the ultimate zombie game. It is time for you to rise up and fight for your survival in a zombie apocalypse in this heart-stopping First Person Shooter (FPS) adventure! \n\n\u2605 Build your personal Hideout and meet the Gunsmith, Scientist, Smuggler, Medic, and Engineer.\n     It's not only an fps shooter, but it's also game for months.\n\u2605 Unlock 10 regions and plan a strategy for 33 different battlefields. \n     Save the world against zombies!\n\u2605 Over 600 gameplay war scenarios and intensive storytelling campaigns. \n     More than in any zombie game!\n\u2605 More than 70 types of gun weapons. It was never so easy to kill Zombies!\n     No other fps zombie game has that many weapons\n\nWipe out the zombie hordes in a variety",
+    "icon": "/icons/com.madfingergames.deadtrigger2.png"
+  },
+  "mega.pwm.android.app": {
+    "title": "MEGA Pass Password Manager",
+    "package": "mega.pwm.android.app",
+    "description": "Securely and easily manage all of your passwords with MEGA\u00a0Pass.\n\nSign up for a 30-day free trial today. No obligation, you can cancel at any time. MEGA\u00a0Pass is available on an affordable standalone plan. It\u2019s also included with any MEGA paid personal or business plan at no extra cost.\n\n* Trusted by millions\nFor more than a decade, people worldwide have trusted MEGA to protect their data. MEGA Pass takes our commitment to privacy a step further by ensuring your passwords are always secure and accessible wherever you are.\n\n* Password security made simple\nWe use multiple layers of security, including zero-knowledge encryption, to keep your passwords and usernames safe and private. We\u2019ve been a global leader in privacy for over a decade and never had a breach.\n\n* Ease and convenience\nAutofill",
+    "icon": "/icons/mega.pwm.android.app.png"
+  },
+  "com.google.android.apps.credentialmanager": {
+    "title": "Google Password Manager",
+    "package": "com.google.android.apps.credentialmanager",
+    "description": "This app provides a shortcut to Google Password Manager on your phone, making it quicker and easier for you to find and manage your password, passkeys and more.\n\nGoogle Password Manager is already built into your Android phone, securely saving your passwords and helping you to sign in faster.\n\nPasswords made effortless:\nSign in to sites and apps on any device, without needing to remember or reuse passwords. Google Password Manager is built into Chrome (on all platforms) and Android.",
+    "icon": "/icons/com.google.android.apps.credentialmanager.png"
+  },
+  "com.avira.passwordmanager": {
+    "title": "Avira Password Manager",
+    "package": "com.avira.passwordmanager",
+    "description": "Say goodbye to handwritten notes creating chaos on your desk. The times are over when you had to jot down every password and idea. Plus, there'll be no more struggling to create new passwords or reset old ones. This password organizer for your phone makes it a breeze to bring order to your work and personal life.  \n \nAnd the best thing: Avira, the German security and protection specialist, makes sure your data is encrypted and stays in Germany where data protection and privacy standards are second to none.  \n \nAvira Password Manager works across multiple devices and operating systems.  \n \n\u25c6 ONE PASSWORD FOR ALL DEVICES \u25c6 \nWith Avira Password Manager you only need to remember one single password \u2013 the master password. It's like the key to an uncrackable password vault, in which your logins ",
+    "icon": "/icons/com.avira.passwordmanager.png"
+  },
+  "com.madfingergames.unkilled": {
+    "title": "UNKILLED - FPS Zombie Games",
+    "package": "com.madfingergames.unkilled",
+    "description": "\u2605 Join more than 30 millions of players \u2605\n\u2605 Award-winning FPS action zombie game with great gameplay, nice story, and easy controls.\u2605 \n\nGet ready for the best zombie game. From the authors of Dead Trigger and Dead Trigger 2, successful Zombie games downloaded by more than 160 million times around the world. \n\nTHRILLING SOLO COMBAT MISSIONS\n\u2022  Fight for survival in over 150 missions with an epic storyline. \u2022Target unique zombies and bosses, including SHERIFF, DODGER, MINESWEEPER, BUTCHER and more.\n\nSMOOTH FPS SHOOTER ACTION!\n\u2022 Our FPS control system is approved by hundred of millions of players worldwide. Support for a wide range of gamepads.\n\nONLINE PVP MULTIPLAYER. \n\u2022 Take on players from all over the world with FPS online multiplayer shooter in the zombie game. \n\u2022 Build your own zombie a",
+    "icon": "/icons/com.madfingergames.unkilled.png"
+  },
+  "com.madgun.indiagmdietweightloss7days": {
+    "title": "Indian GM Weight Loss Diet BMI",
+    "package": "com.madgun.indiagmdietweightloss7days",
+    "description": "Indian GM Diet weight loss & BMI Check is a 7 day only weight loss diet plan to lose weight (up to 8Kgs!) for that perfect look!\n\nGM Diet is considered as world's best weight loss diet program to lose weight naturally and in healthy way!\n\nAbout GM Diet weight loss program:\nGM Diet weightloss program consists of fruits, vegetables, dairy and grains that you any way consume in day to day life \u2013 just that GM diet weight loss plan organizes the quantity and type of healthy food to be taken on each day giving you a balanced diet with healthy eating!\n\nBenefits of GM diet weight loss plan:\n- Loose weight up to 8Kgs in just 7 days.\n- No starving (balanced & healthy diet 5-6 times a day); Natural and healthy way to lose weight.\n- Cleanse and detoxify your body \u2013 feel energetic and light weight!\n- G",
+    "icon": "/icons/com.madgun.indiagmdietweightloss7days.png"
+  },
+  "com.madovergames.BubbleShooterClassic": {
+    "title": "Bubble Shooter Bubble Pop Game",
+    "package": "com.madovergames.BubbleShooterClassic",
+    "description": "\ud83c\udf89 Welcome to Bubble Pop Original \u2013 The Ultimate Bubble Shooter Game!\nGet ready for a thrilling bubble-blasting journey! Bubble Pop Original \u2013 Bubble Shooter Game is your go-to FREE & OFFLINE bubble shooter experience where strategy meets pure popping fun! With thousands of levels, stunning graphics, and satisfying pops, this addictive bubble game will keep you hooked for hours.\n\n\ud83d\udca5 Aim, Match & Pop in the Best Ball Shooter Game!\nSlide to aim, switch colors like a bubble shooter pro, and bubble shoot! Match 3 or more bubbles in this fun ball shooting game and clear the board. Whether you\u2019re into bubble shooter classic, bubble shooter free, or want a twist like babool shooter game or bubble blaster, we\u2019ve got you covered!\n\n\ud83c\udf08 Why You\u2019ll Love Bubble Shooter Pop Original:\n\u2605 Easy bubble shot cont",
+    "icon": "/icons/com.madovergames.BubbleShooterClassic.png"
+  },
+  "com.madovergames.BubbleShooterGames": {
+    "title": "Bubble Shooter Games 2025",
+    "package": "com.madovergames.BubbleShooterGames",
+    "description": "Bubble Shooter Games: Immerse Yourself in the Ultimate Bubble Bursting Journey!\n\nBubble Shooter is a popular free bubble shooter game. This bubble games is fun to play on the bus, train or at airport. You can exercise your brain with this super addictive bubble shooter game while waiting at doctor's office. Bubble shooter games is similar to a bubble pop game, it has a unique advantage. This is fun and addictive bubble shooting game. This retro bubble buster classic bubble game is a perfect time killer. \n\nEngage in the timeless and captivating bubble pop game - align hues, burst balloons, and launch spheres to complete stages. In this vintage-style shooter, your task is to target and fire, causing all bubbles to fall and explode. Enjoy the game online or offline, as it requires no wifi or ",
+    "icon": "/icons/com.madovergames.BubbleShooterGames.jpg"
+  },
+  "com.madovergames.BubbleShooterPro": {
+    "title": "Bubble Shooter Pro 2026",
+    "package": "com.madovergames.BubbleShooterPro",
+    "description": "Bubble Shooter Pro is new and popular free game. This bubble pop game is fun to play on the bus, train or at airport. You can exercise your brain with this fun game while waiting at doctor's office. This game is similar to a bubble pop game, it has a unique advantage. This is fun, relaxing and addictive bubble shooting game. This retro bubble buster classic game is a perfect time killer.  The game is exciting like balloon pop, ball pop & ball shooter match 3 games. You get to select bubbles from rainbow of colors.   \n\nFrom the makers of Classic Bubble Shooter, bubble shoot original game, and Bubble Shooter Games, MadOverGames presents you brand-new ultimate bubble popping adventure in 2024. Join this bubble buster journey for colorful and relaxing ball shooter experience. It is an ultimate",
+    "icon": "/icons/com.madovergames.BubbleShooterPro.png"
+  },
+  "com.mageeks.trucksimusa": {
+    "title": "Truck Simulator PRO US",
+    "package": "com.mageeks.trucksimusa",
+    "description": "\ud83d\ude9a American Truck Simulator \u2013 Drive 18 Wheelers Across the USA \ud83d\ude9a\nPlay a realistic truck driving simulator and experience life as a professional truck driver in the United States. Drive powerful American trucks, complete cargo deliveries, and explore a massive open world map.\n\n\ud83c\udf0e Open World USA Truck Driving Simulator\nExplore a huge American map with highways, cities, deserts, and mountains. Travel across states like Washington, Oregon, Idaho, Montana, and Wyoming in a true open world truck simulator.\n\nLong distance trucking across the USA\nReal highways, truck stops, and road systems\nOffline truck simulator gameplay available\n\n\ud83d\ude9b Drive 18 Wheelers & Customize Your Trucks\nGet behind the wheel of realistic American trucks and heavy vehicles:\n\n18 wheelers, semi trucks, tankers, cargo trailers\nCus",
+    "icon": "/icons/com.mageeks.trucksimusa.png"
+  },
+  "com.magnifyingglass.magnifiers.magnifying": {
+    "title": "Magnifier - Magnifying Glass",
+    "package": "com.magnifyingglass.magnifiers.magnifying",
+    "description": "Having trouble reading small text? Struggling with examining something up close? Then take a closer look at anything with the Magnifier - Magnifying Glass App. \n\nMagnifying Glass App Free is the perfect app you need to solve all these hard-to-see problems. This Magnifier with flashlight app turns your smartphone into a powerful magnifying glass, allowing you to zoom in and get a closer look at any object or text, making it much easier to see and read. Whether you're trying to read a menu in a dimly lit restaurant, inspect a tiny screw or simply want to zoom in on a beautiful flower, this app will have you covered.\n\nKey Features: \n* Magnify anything from small text to tiny objects \n* Adjust the magnification level with a slider \n* Use the built-in flashlight to see in low-light conditions \n",
+    "icon": "/icons/com.magnifyingglass.magnifiers.magnifying.jpg"
+  },
+  "com.main.gopuff": {
+    "title": "Gopuff - Grocery Delivery",
+    "package": "com.main.gopuff",
+    "description": "Thousands of items \u2013 delivered faster than you\u2019d ever expect. Gopuff is less of a delivery app and more of a teleportation device, bringing you everything you need in as fast as 15 minutes. From groceries and frozen food to home care products and more, Gopuff has you covered. Planning a party? Simply tap it, and we\u2019ll bring it with a wide selection of snacks, drinks, and even alcohol. Yes, you can also find the Solo cups and ping pong balls.\n\n\nFrom early \u2018til late, we\u2019ll take care of your meal delivery and everything in between. With several locations operating 24/7, you can order and get back to streaming, no matter the time of day. Simply open up the app, tap on what you want, and experience the magic. Why so fast? We skip the middleman. It all comes directly from one of our micro-fulfil",
+    "icon": "/icons/com.main.gopuff.png"
+  },
+  "com.maleo.bussimulatorid": {
+    "title": "Bus Simulator Indonesia",
+    "package": "com.maleo.bussimulatorid",
+    "description": "Bus Simulator Indonesia (aka BUSSID) will let you experience what it likes being a bus driver in Indonesia in a fun and authentic way. BUSSID might not be the first one, but it\u2019s probably one of the only bus simulator games with the most features and the most authentic Indonesian environment.\n\nBelow are some of Bus Simulator Indonesia top features:\n\n- Design your own livery\n- Very easy and intuitive control\n- Authentic Indonesian cities and places\n- Indonesian Buses \n- Cool and fun honks\n- \u201cOm Telolet Om!\u201d (Uncle, honk your horn, uncle! https://www.wsj.com/articles/honk-it-up-uncle-indonesias-bus-horns-capture-global-attention-1482399670)\n- High quality and detailed 3D graphics\n- No obstructive ads while driving\n- Leaderboard\n- Data saved online\n- Use your own 3D model using vehicle mod sy",
+    "icon": "/icons/com.maleo.bussimulatorid.png"
+  },
+  "com.zedpay.app.android": {
+    "title": "Zed-Pay",
+    "package": "com.zedpay.app.android",
+    "description": "ZedPay is a digital assets exchange worldwide. You can buy, sell or trade Bitcoin (BTC), Ethereum (ETH), Tron (TRX), Tether (USDT) and Zedxion (USDZ), among others.\nThe app supports 10+ fiat currencies, including USD, EUR, GBP, TRY, AED, and more. We provide professional, secure, user-friendly services with the lowest fees. The app is excellent for beginners who want to buy or sell digital assets in a safe and secure environment. You can buy cryptocurrencies using several payment channels, swap with your fiat balance or create escrows!\n \n \nCORE FEATURES:\n\u2022\tBuying / selling digital assets\n\u2022\tEasy and simple to buy crypto with credit cards\n\u2022\tUser-friendly to all classes of investors\n\u2022\tEnjoy the lowest fees in crypto\n\u2022\t+10 fiat are supported to trade\n\u2022\tHighest priority security: Upgrade securi",
+    "icon": "/icons/com.zedpay.app.android.png"
+  },
+  "com.theemmys": {
+    "title": "The Emmys",
+    "package": "com.theemmys",
+    "description": "Watch live events, past ceremonies, features and shorts from The Emmy Awards. The National Academy of Television Arts & Sciences (NATAS) is a service organization dedicated to the advancement of the arts and sciences of television and the promotion of creative leadership for artistic, educational, and technical achievements within the television industry. It recognizes excellence in television with the coveted Emmy\u00ae Awards for News & Documentary, Sports, and Daytime television programming, as well as achievements in television Technology & Engineering. NATAS is represented by the 19 regional chapters across the United States. Beyond awards, NATAS provides extensive educational programs through its foundation, including regional and national scholarships and Student Production Awards.\n\nTerm",
+    "icon": "/icons/com.theemmys.png"
+  },
+  "com.serveture.masis": {
+    "title": "MyMasis",
+    "package": "com.serveture.masis",
+    "description": "Are you looking for a job? Are you busy and want to work when you can? Look no further than MyMasis! Finding a job has never been easier.\n\nDownload our app to become part of the Masis Family and begin working immediately. MyMasis provides Temp to Hire and flexible shifts.\n\nWith MyMasis you will revolutionize your entire employment experience by stepping into the 21st century of staffing, all with your mobile device! Use our app to: \n- Search for local jobs in your area\u201a \n- Apply and accept jobs\u201a\n- Pick up/drop shifts as needed\n- See your work schedule\n- Manage your profile and availability\n\nMasis Staffing is a national staffing agency servicing both the light industrial & professional sectors. Use MyMasis to view openings in warehouse, manufacturing, administrative, customer service indust",
+    "icon": "/icons/com.serveture.masis.png"
+  },
+  "com.clowder.snmmi": {
+    "title": "SNMMI",
+    "package": "com.clowder.snmmi",
+    "description": "Welcome to SNMMI's Mobile App! Access SNMMI news and resources, view and build your SNMMI meeting schedules, connect with fellow SNMMI members and meeting attendees, and so much more! Features include: - Direct access to SNMMI meeting content - Dedicated news feed - SNMMI alerts and push notifications - Member to member chat, and group messaging - Resources",
+    "icon": "/icons/com.clowder.snmmi.png"
+  },
+  "com.sissei.m": {
+    "title": "Sissei Mobile",
+    "package": "com.sissei.m",
+    "description": "Sissei Mobile provides portable access to your own Sissei Master facility at your company.\n\nNear Accidents, Safety Inspections, Claims can be recorded, and all the captured information transferred to the Sissei Master automatically.",
+    "icon": "/icons/com.sissei.m.png"
+  },
+  "com.fitnessmobileapps.mysmi": {
+    "title": "MySMI",
+    "package": "com.fitnessmobileapps.mysmi",
+    "description": "Download the MySMI App today to plan and schedule your classes! From this mobile App you can view class schedules, sign-up for classes, as well as view the studio\u2019s location information. Optimize your time and maximize the convenience of signing up for classes from your device! Download this App today!",
+    "icon": "/icons/com.fitnessmobileapps.mysmi.png"
+  },
+  "com.iitms.msstudentind": {
+    "title": "SIS STUDENT",
+    "package": "com.iitms.msstudentind",
+    "description": "SIS STUDENT is the official all-in-one mobile app\u2014your go-to companion for managing your academic journey.\nWhether you're checking your grades, viewing your class schedule,\nSIS STUDENT puts everything you need in one convenient place.\nWith a user-friendly interface and real-time access, you can:\nView your class schedule and subjects\nTrack your grades and academic progress\nDesigned to support every step of your student life, SIS STUDENT helps you stay organized and in control\u2014anytime, anywhere",
+    "icon": "/icons/com.iitms.msstudentind.png"
+  },
+  "com.serosoft.academiasis": {
+    "title": "Academia @ SIS",
+    "package": "com.serosoft.academiasis",
+    "description": "Do you want to stay connected with your university anytime- anywhere? Do you want to access the documents you need any time you want? Academia App gives you that and much more! The app is designed especially for the higher education students and faculty of a tech-savvy generation. It is a complete university management app where you can check Application Status, Timetable, Fee records, Attendance, Result, Assignment, Announcements, upcoming event information,  maintain session diary, and much more. It offers all the key features that you need to connect, stay updated with your institute. \n\n* Features may vary as per the university\u2019s requirements; not all features/functionality will be available for all institutions. Please contact your staff to obtain your login credentials or for assistan",
+    "icon": "/icons/com.serosoft.academiasis.png"
+  },
+  "com.manekigames.fashionqueen": {
+    "title": "Fashion Queen: Dress Up Game",
+    "package": "com.manekigames.fashionqueen",
+    "description": "Fashion Queen: Dress Up Game is a game for girls who truly love fashion, dolls, and design. Start dressing up for various events. Dress up your model in the best outfits and show them off on the catwalk! Use all your creative skills to win the fashion battle and become a famous model!\n\nThe game starts with you selecting your model, who will be the face of your fashion empire. You will have the opportunity to dress her up in a variety of clothes and accessories, from dresses to shoes to jewelry. You can even design your own dress and see how it looks on your model.\n\nYour model will walk down the catwalk, showing off her fashion style to the judges and the audience. The better your outfit, the higher your score and you can win this fashion show!\n\nBut it's not just about dressing up your mode",
+    "icon": "/icons/com.manekigames.fashionqueen.png"
+  },
+  "com.mapmywalk.android2": {
+    "title": "Map My Walk: Walking Tracker",
+    "package": "com.mapmywalk.android2",
+    "description": "Map My Walk \u2013 Your All-in-One Walking Tracker & Fitness App\n\nWhether you're just starting your fitness journey or aiming for your daily 10,000 steps, Map My Walk is the complete Walking Tracker to help you build healthy habits and stay motivated. From indoor walking to outdoor hikes, this app tracks every step, pace, calorie, and distance to keep your goals on track.\n\nMap My Walk offers powerful GPS tracking, progress insights, and a vibrant community of millions. It\u2019s the perfect walk tracker whether you\u2019re walking for fun, weight loss, or marathon prep.\n\nNow with personalized Form Coaching tips for Garmin users to help you walk smarter and improve your stride.\n\nTRACK AND MAP YOUR WALK & EVERY STEP YOU TAKE\n- Use the built-in Walking Tracker to follow your walk with real-time GPS and a fu",
+    "icon": "/icons/com.mapmywalk.android2.webp"
+  },
+  "Com.telegram.app": {
+    "title": "Com.telegram.app",
+    "package": "Com.telegram.app"
+  },
+  "tz.gwf.core.mobile": {
+    "title": "TAMISEMI",
+    "package": "tz.gwf.core.mobile",
+    "description": "Welcome to the official TAMISEMI Mobile App, developed by the President\u2019s Office \u2013 Regional Administration and Local Government (PO-RALG).\nStay connected with the latest government news, updates, and leadership information \u2014 anytime, anywhere.\n\nKey Features\n\n\u2022 News & Updates \u2013 Access verified government news and announcements.\n\u2022 Media Center \u2013 Watch videos and browse official multimedia content.\n\u2022 Leadership Directory \u2013 View profiles of regional and local government leaders.\n\u2022 Bookmarks \u2013 Save your favorite articles for later.\n\u2022 Bilingual Support \u2013 Fully available in English and Swahili.\n\u2022 Dark Mode \u2013 Switch themes for comfortable reading.\n\u2022 Offline Access \u2013 View previously loaded content without an internet connection.\n\u2022 Smooth Performance \u2013 Enjoy a modern, responsive design and fluid nav",
+    "icon": "/icons/tz.gwf.core.mobile.png"
+  },
+  "com.tamcontactless.www.twa": {
+    "title": "Tam: Food, Grocery & Box",
+    "package": "com.tamcontactless.www.twa",
+    "description": "Tam makes ordering food simple and enjoyable.\nJust open the app, and you'll see restaurants around you based on your location, making it easy to discover new places or order from your favorites.\n\nBrowse menus, check out dishes, and place your order in just a few taps. Signing up is quick and secure using your phone number and a short code sent.\n\nTam gives you the choice to pick up your order or have it delivered, and all fees are shown clearly so you always know what to expect.\n\nWhether you're relaxing at home, working late, or out with friends, Tam helps you get the food you love\u2014fast, easy, and hassle-free.",
+    "icon": "/icons/com.tamcontactless.www.twa.png"
+  },
+  "com.trustjgroup.tmam": {
+    "title": "Tmam App",
+    "package": "com.trustjgroup.tmam",
+    "description": "Tmam is an innovative platform designed to streamline the way companies manage their vehicle maintenance processes.\nIt brings all service requests, approvals, and maintenance follow-ups into one unified system, providing clarity, professionalism, and an organized workflow between companies and authorized service centers.\n\nKey Features :\n\n\u2022 Manage your entire vehicle fleet from a single platform\n\u2022 Send maintenance requests and receive instant approvals\n\u2022 Direct and transparent connection with authorized service centers\n\u2022 Track service progress step-by-step\n\u2022 Organized display of invoices and completed services\n\u2022 Operational reports that support better fleet management\n\u2022 Complete maintenance history for every vehicle\n\nTmam\u2026 a smarter, clearer, and more professional way to manage fleet mainte",
+    "icon": "/icons/com.trustjgroup.tmam.png"
+  },
+  "com.ysl.talk": {
+    "title": "Tami -Voice Chat &Party",
+    "package": "com.ysl.talk",
+    "description": "Tami is an interactive live streaming app where anyone can meet, chat, and make friends! \nWelcome to chat parties Tami!\nTami - popular group chat rooms & online entertaining community. Play games and voice chat with friends. Enjoy with friends all the time!\n\nYou do not need to show your face in Tami, you can participate in various social chats and interactive games with your voice, here where you can find same-minded people and become friends, here you may start your story. Every moment here can bring you happiness, because Tami is an integrated entertainment party APP.\n\nFEATURES:\n\n[Connect all over the world]\nWe cover global network and let you talk with a lot of interesting people easily.\n\n[Among us voice chat]\nEnjoy the voice chat in your own room and share your room with others.\n\n[Mult",
+    "icon": "/icons/com.ysl.talk.png"
+  },
+  "com.tmmtmm.im": {
+    "title": "TmmTmm",
+    "package": "com.tmmtmm.im",
+    "description": "TmmTmm is not just an information and social media application, it is a new digital lifestyle. Make high-definition voice/video calls with friends, share important moments, enjoy the convenient functions of mobile payment, and more.\n\nWhy to use TmmTmm ?\n\u2022 Completely free: 100% free, no ads.\n\u2022 More ways to chat: Use text, photos, voice, video, location sharing, etc. to send messages to friends.\n\u2022 Audio and video calls: High-quality voice and video calls all over whole world.\n\u2022 Moments: Share your beatiful moments anytime, anywhere, and see what your friends are sharing.\n\u2022 Mobile Payment: Enjoy the convenience brought by the world's leading mobile payment function.\n\u2022 Language Support: You can use the app with 18 different languages, and you can translate messages and posts.\n\u2022 Security: Secur",
+    "icon": "/icons/com.tmmtmm.im.png"
+  },
+  "com.marketwatch": {
+    "title": "MarketWatch",
+    "package": "com.marketwatch",
+    "description": "The MarketWatch app for Android delivers the latest business news, financial information and market data to your fingertips.\n\nDownload the MarketWatch app for:\n- Breaking news stories, videos, and in-depth analysis\n- Latest market data, including: index movements, stock prices, and other key securities information\n- Receive market-moving alerts on your mobile device\n\nMarketWatch features include:\n\n- Business News & Analysis\n  * Latest stock market, finance, business and investing news from MarketWatch\n  * Article headlines and images are featured along with real-time market data for each relevant ticker\n  * Personal finance, investing, technology, politics, energy, retail and retirement planning news and insights.\n  * Top Stories bar is interactive and gives access to a fully customizable ",
+    "icon": "/icons/com.marketwatch.png"
+  },
+  "com.martianmode.applock": {
+    "title": "App Lock: Fingerprint, Pattern",
+    "package": "com.martianmode.applock",
+    "description": "\u2605\u2605\u2605 Protect your Privacy. The App Lock with Fingerprint support\u2605\u2605\u2605\n\nApp Lock is an AppLocker (App Protector) that will lock and protect apps using a password or pattern and fingerprint.\n\nApp Lock can lock, Social Media apps, Messaging apps, Gallery, Contacts, Settings, and any app you want. Prevent unauthorized access and protect your privacy.\n\n\u2605 With App Lock:\nNever worry about friends borrow your phone to use mobile data again!\nNever worry about a friend gets your phone to look at the gallery again!\nNever worry about a friend who reads private messages on your phone!\nNever worry about parents check your social media apps!\nNever worry about your kids change Settings, send random messages, paying with credit cards again!\n\n\u2022 Lock apps with password, pattern, or fingerprint lock.\n\u2022 Themes wi",
+    "icon": "/icons/com.martianmode.applock.png"
+  },
+  "com.starlink.mobile": {
+    "title": "Starlink",
+    "package": "com.starlink.mobile",
+    "description": "Starlink delivers high-speed Internet almost anywhere on Earth.\n\nThe Starlink app is here to help you:\n\n\u2022 Identify the install location that will ensure the best quality of service\n\u2022 Check for obstructions that can interfere with service\n\u2022 Setup your Starlink hardware\n\u2022 Verify your WiFi connection\n\u2022 Receive alerts for service issues\n\u2022 Access your connectivity statistics\n\u2022 Identify devices connected to your network\n\u2022 Troubleshoot connectivity issues\n\u2022 Contact support",
+    "icon": "/icons/com.starlink.mobile.webp"
+  },
+  "com.mas.apps.pregnancy": {
+    "title": "Pregnancy Tracker by Sprout",
+    "package": "com.mas.apps.pregnancy",
+    "description": "Pregnancy Tracker by Sprout\u2014named a \u201cBest Pregnancy Tracker\u201d by Forbes Health and trusted by expecting families for over 15 years\u2014guides you through every milestone of your pregnancy. With stunning 3D baby development images, personalized health tracking, and real-time updates, Pregnancy Tracker by Sprout offers everything parents-to-be need to understand their baby\u2019s growth and development throughout the pregnancy journey, and stay informed.\n\nFollow Your Baby\u2019s Growth Week-by-Week\n\u2022 Understand your baby\u2019s week-by-week development in real-time during your pregnancy with stunning, detailed 3D images.\n\nPersonalized Pregnancy Timeline - Know What's Next\n\u2022 Receive customized, week-by-week updates on your baby\u2019s growth and key development milestones.\n\u2022 Track your own milestones and personalize ",
+    "icon": "/icons/com.mas.apps.pregnancy.png"
+  },
+  "com.pocketpalai": {
+    "title": "PocketPal AI",
+    "package": "com.pocketpalai",
+    "description": "Your AI. No one else's.\n\nPocketPal runs large language models directly on your phone. No servers. No internet. No data leaves your device. Ever.\n\nThis is AI you own \u2014 not AI you rent.\n\nWHAT YOUR PHONE NEEDS\n\nModern phones are powerful enough to run real AI. PocketPal uses that power.\n\nYou'll need 6GB+ RAM for smaller models, 8GB+ for the good stuff. Flagship and recent mid-range phones from the last 2-3 years run models well. Older or budget devices won't cut it \u2014 this is real inference, not a cloud wrapper.\n\nNot sure? Download a small model and benchmark it. The app will show you exactly what your device can handle.\n\nWHAT YOU GET\n\n- Hundreds of open-source models from HuggingFace, downloaded directly to your device\n- Complete offline operation \u2014 airplane mode, no signal, underground, anyw",
+    "icon": "/icons/com.pocketpalai.webp"
+  },
+  "com.teamviewer.teamviewer.market.mobile": {
+    "title": "TeamViewer Remote Control",
+    "package": "com.teamviewer.teamviewer.market.mobile",
+    "description": "Control your desktop, manage files, and support devices\u2014from anywhere, anytime. Whether you\u2019re on the move, traveling, or in the field, the TeamViewer Remote Control app gives you fast, secure remote access right from your Android phone, tablet, or Chromebook.\n\nWhat's inside:\n\n\u2022\tSecurely access Windows, macOS, and Linux computers as if you were right in front of them\n\u2022\tProvide instant support or manage unattended devices like servers or virtual machines\n\u2022\tControl Android mobile and tablet devices remotely \u2013 including rugged devices, kiosks, and smart glasses \n\u2022\tUse Assist AR for live, visual support with augmented reality \u2014 guide users by placing 3D markers in their environment\n\u2022\tUse your phone or tablet to work on your remote desktop while traveling\n\u2022\tShare and transfer files easily betwe",
+    "icon": "/icons/com.teamviewer.teamviewer.market.mobile.png"
+  },
+  "com.gaurav.avnc": {
+    "title": "AVNC",
+    "package": "com.gaurav.avnc",
+    "description": "AVNC is an open source VNC client for Android. It allows you to remotely control any device running a VNC server.\n\nFeatures:\n\n- Material Design (with Dark theme)\n- Configurable gestures\n- Virtual Keys\n- VNC Repeater support\n- Wake-on-LAN support\n- Built-in SSH tunnel (VNC over SSH)\n- Picture-in-Picture mode\n- View-only mode\n- No-video mode\n- Zeroconf Server Discovery\n- Automatic Server Discovery (Zeroconf)\n- Import/Export servers\n- Clipboard Sync with server\n- vnc:// URI support\n- TLS support (AnonTLS, VeNCrypt)\n- SSH tunnel (VNC over SSH)\n- Tight encoding\n\nSource: https://github.com/gujjwal00/avnc",
+    "icon": "/icons/com.gaurav.avnc.png"
+  },
+  "com.realvnc.server": {
+    "title": "RealVNC Server",
+    "package": "com.realvnc.server",
+    "description": "With the RealVNC\u00ae Server mobile app, an IT technician can remotely access mobile devices to support users.\n\n================================\n\n\u26a0\ufe0f Protecting yourself from scams and fraud\n\nRemote access can be used for scamming and fraudulent activities. Always be careful when asked to share access to your devices, especially if you weren't expecting a connection request. Ensure you never share sensitive information or grant access to someone if you are not completely certain they are who they claim to be.\n\nIf you are unsure, contact the organization offering support to confirm the request is genuine.\n\n================================\n\nThere are two ways to connect:\n\n\u2022 Start a remote session using a secure 9-digit code that the technician provides (this requires a RealVNC Connect subscriptio",
+    "icon": "/icons/com.realvnc.server.png"
+  },
+  "com.masarat.salati": {
+    "title": "\u0635\u0644\u0627\u062a\u0643 Salatuk (Prayer time)",
+    "package": "com.masarat.salati",
+    "description": "Salatuk app indicates you the Prayer timing and the Qibla direction wherever you are!\n\nThe Salatuk algorithm supports a large Prayer calculation methods adopted by many Muslim countries. Depending on your location, the application chooses the appropriate calculation method, Fiqhi school and Athan.\nHowever, if needed, you can also change the prayer method manually in the \"Settings\" tab or adjust prayer times manually.\n\nFor better experience, please make sure your location is enabled!\n\n.\u062a\u0637\u0628\u064a\u0642 \u0635\u0644\u0627\u062a\u0643 \u0647\u0648 \u0631\u0641\u064a\u0642\u0643 \u0644\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u0649 \u0635\u0644\u0627\u062a\u0643\n\u0639\u0646 \u0637\u0631\u064a\u0642 \u062a\u062d\u062f\u064a\u062f \u0645\u0648\u0642\u0639\u0643  \u062a\u0644\u0642\u0627\u0626\u064a\u0627\u060c \u0628\u0625\u0645\u0643\u0627\u0646 \u0647\u0630\u0627 \u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0623\u0646 \u064a\u0639\u0644\u0645\u0643 \u0628\u0623\u0648\u0642\u0627\u062a \u0627\u0644\u0635\u0644\u0627\u0629 \u0648\u0643\u0630\u0644\u0643 \u062a\u062d\u062f\u064a\u062f \u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0642\u0628\u0644\u0629.\n\u062a\u0637\u0628\u064a\u0642 \u0635\u0644\u0627\u062a\u0643 \u064a\u0633\u062a\u0639\u0645\u0644 \u0639\u062f\u062f\u0627 \u0645\u0647\u0645\u0627 \u0645\u0646 \u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u062d\u0633\u0627\u0628\u064a\u0629  \u0627\u0644\u0645\u0639\u062a\u0645\u062f\u0629 \u0641\u064a \u0623\u063a\u0644\u0628 \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a.\u0627\u0639\u062a\u0645\u0627\u062f\u0627 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639\u0643\u060c \u064a\u062e\u062a\u0627\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629\u060c \u0627\u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u0641\u0642\u0647\u064a\u0629 \u0648 \u0627\u0644\u0623\u0630\u0627\u0646 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\n\nCon",
+    "icon": "/icons/com.masarat.salati.png"
+  },
+  "com.toshiba.dse.ebridge.acme.paid": {
+    "title": "e-BRIDGE Print & Capture",
+    "package": "com.toshiba.dse.ebridge.acme.paid",
+    "description": "e-BRIDGE Print & Capture is an application that allows you to print and scan from TOSHIBA MFPs utilizing your Android device.\n\nKey Features:\n- Print documents (JPEG/PDF) from cloud storage services (Box, Dropbox, Google Drive, OneDrive) or a network folder through TOSHIBA MFPs or shared printers\n- Print images stored in Android or captured by the device's Camera\n- Print web pages and emails with Android print services\n- Utilize advanced MFP print settings such as number of copies, duplex, color mode (BW/Color/Twin Color), Print Mode (Normal/Private/Hold/Multi Station*), Paper Type, Paper Size, Staple, Omit Blank Pages and Toner Save\n- Scan documents from TOSHIBA MFP and save them onto your Android device, a network folder, upload it to a cloud storage service, or send it by Email\n- The doc",
+    "icon": "/icons/com.toshiba.dse.ebridge.acme.paid.png"
+  },
+  "com.hp.android.printservice": {
+    "title": "HP Print Service Plugin",
+    "package": "com.hp.android.printservice",
+    "description": "The HP Print Service Plugin is the only print driver that you will need to easily print documents, emails and pictures from print-supported applications to a variety of HP Printers, including HP OfficeJet, HP LaserJet, HP DesignJet, HP Photosmart, HP DeskJet and HP Envy.\n\nYou can discover and print to HP printers that are:\n\u2022 Connected to the same network as your mobile device\n\u2022 Broadcasting a Wi-Fi Direct network\n\u2022 Connected to the mobile device via a USB On-the-Go cable\n\nJust select Print or Share to PSP when you need to print. Just tap the menu button to reveal the print option. Location of menu button may vary depending on your model of Android\u2122 device. \n\nThe HP Print Service Plugin simplifies printing on your Android\u2122 Lollipop\u2122 (v5.0) and newer devices. If you use Android 6 (Marshmallo",
+    "icon": "/icons/com.hp.android.printservice.png"
+  },
+  "com.toshiba.tabs.mobilevnc.MobileVNCAndroid": {
+    "title": "eConnect TouchFree\u2122",
+    "package": "com.toshiba.tabs.mobilevnc.MobileVNCAndroid",
+    "description": "eConnect TouchFree\u2122 is an application that allows you to remotely control a Toshiba MFP with your Android so that you can have a safer workplace environment.\n\nKey Features:\nDiscover Toshiba MFPs by QR Code scanning.\nDiscover Toshiba MFPs by manual IP Address input.\n\nSystem Requirements:\nSupported Toshiba MFPs\nVNC setting on the MFPs must be enabled\nConnected to Wi-Fi network with Toshiba MFPs\nCamera access is allowed on the Android device\n\nSupported Languages:\nEnglish (US)\n\nSupported Toshiba MFP Models:\ne-STUDIO 7516AC Series\ne-STUDIO 7506AC Series\ne-STUDIO 5015AC Series\ne-STUDIO 5005AC Series\ne-STUDIO 2510AC Series\ne-STUDIO 2500AC Series\ne-STUDIO 400AC Series\ne-STUDIO 8518A Series\ne-STUDIO 8508A Series\ne-STUDIO 5018A Series\ne-STUDIO 5008A Series\ne-STUDIO 5008LP Series\n\nSupported OS:\nAndro",
+    "icon": "/icons/com.toshiba.tabs.mobilevnc.MobileVNCAndroid.png"
+  },
+  "kilidredvpn.kelidvpn.klidvpn": {
+    "title": "KILID RED VPN",
+    "package": "kilidredvpn.kelidvpn.klidvpn",
+    "description": "KILID RED VPN is a fast VPN for android \nMain features of the KILIDRED VPN:\n\u2705 Easy to use one-tap connect to secure your connection\n\u2705 High speed dedicated VPN servers\n\u2705 HIGH bandwidth, stable for streaming and downloading\n\u2705 No registration or login - No in-app purchase\n\nAbsolutely, let's give that text a fresh twist:\n\nThe KILID RED VPN app utilizes VPNService to operate as a virtual private network (VPN) service, which is key to its main function. By employing VPNService, we provide users with secure and private access to online resources, enhancing their privacy and security in the digital world.",
+    "icon": "/icons/kilidredvpn.kelidvpn.klidvpn.png"
+  },
+  "com.redshieldvpn.app": {
+    "title": "Red Shield VPN",
+    "package": "com.redshieldvpn.app",
+    "description": "A simple apps available for all platforms will help you:\n\n\u2022 Bypass censorship\n\u2022 Protect your traffic from ISPs and other third parties.\n\u2022 Use the Internet as if you were in another country\n\nUnlike free services, we do not collect, analyze and sell user data to governments or advertising agencies.\nOur business model is based on direct payments from users, from which we pay for traffic and other resources of the service.\n\nWe accept payment by any cards and cryptocurrencies.",
+    "icon": "/icons/com.redshieldvpn.app.png"
+  },
+  "com.master.hotelmaster": {
+    "title": "My Perfect Hotel",
+    "package": "com.master.hotelmaster",
+    "description": "\ud83d\ude0d A GAME TO KEEP YOU FULLY OCCUPIED \n\nEver dreamed of running your own hotel? Start from the ground up in this fun and fast-paced time-management game where the aim is to build an accommodation empire and demonstrate your dedication to hospitality.  Show your skills as a hotel manager, invest wisely in staff and property improvements, and work your socks off to become a hospitality tycoon in this addictive and entertaining casual simulator.\n\nFIRST-CLASS SERVICE \ud83c\udfa9\n\n\ud83e\uddf3 Climb to the top: Start the game as a simple bellhop single-handedly cleaning rooms, greeting guests at reception, collecting payments and tips, and keeping the bathroom stocked with toilet paper. As your bank balance expands, upgrade rooms and facilities, and employ new staff to help keep up with the growing demand at your hot",
+    "icon": "/icons/com.master.hotelmaster.png"
+  },
+  "com.master.triple3d.find": {
+    "title": "Triple Match 3D",
+    "package": "com.master.triple3d.find",
+    "description": "This May, we\u2019re off on a Kenya Safari: the land of wild savannas, big cats, and golden sunsets. New design and decoration mini-games are on the way!\n\nClear the clutter and satisfy your brain with the ultimate 3D puzzle experience! Triple Match 3D combines sorting, matching, and discovery in one visually rich puzzle game. Match triplets of realistic items to empty the board, unlock rewards, and enjoy endlessly relaxing gameplay with a satisfying sense of progress.\n\nThis isn\u2019t your average matching game. Each level presents a new pile of 3D objects-from fruits and toys to travel gear and holiday trinkets-waiting to be matched and sorted. You\u2019ll uncover hidden objects buried beneath the mess, with every tap revealing new surprises. Whether you're solving fast-paced puzzle challenges or taking",
+    "icon": "/icons/com.master.triple3d.find.jpg"
+  },
+  "com.match.triple.games.sort3d.puzzle": {
+    "title": "3D Crazy Match! Triple Tap",
+    "package": "com.match.triple.games.sort3d.puzzle",
+    "description": "Enjoy the ultimate 3D match 3 experience \u2013 Crazy Match Triple Tap! \u2615\n\n\ud83c\udf1f Looking for fun, relaxing, and addictive matching games? Crazy Match brings you a vibrant 3D triple match puzzle that blends offline sorting, organizing, and triple matching into one of the most satisfying match 3 games.\n\nPlay hundreds of colorful levels designed for fans of offline games, triple tile challenges, and goods sorting mechanics. Whether you\u2019re looking for easy, relaxing gameplay or intense, brain teasing levels, Crazy Match has something for every puzzle lover.\n\n \ud83d\udc3eRelax, unwind, and match away\ud83d\udc31\n\nTap three identical goods, triple match, and sort them into the correct columns. Clear the board, watch the tiles vanish, and master each match 3 challenge. Improve your number match skills and enjoy fun, relaxing ",
+    "icon": "/icons/com.match.triple.games.sort3d.puzzle.png"
+  },
+  "com.match3.cakemaker": {
+    "title": "Cake Match 3 Mania",
+    "package": "com.match3.cakemaker",
+    "description": "\ud83d\ude0bWow! Plenty of delicious cakes! Join the sweetest match 3 puzzle adventures FREE now! \ud83c\udf70\n\nExplore in Cake Match 3 Mania world, 420+ enjoyable levels are waiting for you! Match the same cakes, beat the devil bakers and chef!\n\nBring your friends together to break records in this cake quest! You can play with these tempting cakes without WIFI anywhere and anytime.\ud83d\udc6c\ud83d\udcaa\n\nHOW TO PLAY\n\u2605 Cake swap and match 3 or more sweet cakes of the same to crush!\n\u2605 Collect tasty cake material: candy, cookie, chocolate, honey, jelly, ice lolly and so on!\n\u2605 Matching candy to beat devil bakers and chef!\n\u2605 Challenge to win HUGE BONUS!\n\nCAKE MATCH 3 MANIA FEATURES\n\u2605 Over 420 delicious levels, more added regularly!\n\u2605 Over 10 game modes like no other!\n\u2605 Pass level 30 to unlock CHALLENGE levels!\n\u2605 To be a Cake Maker MAS",
+    "icon": "/icons/com.match3.cakemaker.png"
+  },
+  "com.matchappgame.candyfeversmash.match3": {
+    "title": "Candy Fever Smash - Match 3",
+    "package": "com.matchappgame.candyfeversmash.match3",
+    "description": "\ud83c\udf67Candy Fever Smash is an explosive and fun candy and cake match 3 game. Solve sweet match 3 puzzles with us and crush bonbons! \n\ud83e\uddc1 You can collect delicious candies and cakes in the game, as well as some unexpected surprises. \ud83e\uddc1\n\n\ud83d\udc51HOW TO PLAY\n\ud83c\udf6cSwap to match 3 bonbons and get a crush!\n\ud83c\udf6cMatch more than 3 bonbons to get powerful boosters!\n\ud83c\udf6cPay attention to the obstacles and collect toys!\n\ud83c\udf6cCrush bonbons with powerful bombs!\n\n\ud83c\udf37Game Features:\n\u2b50Match 3 or more same color gem jewels in order to crush them.\n\u2b50Match 4 or more candies to create powerful special candies\n\u2b50Relaxing background music & Amazing animations\n\u2b50Complete levels to earn stars, then use stars to complete missions \n     and various garden jobs\n\u2b50Achieve the level targets before running out of moves\n\u2b50Wonderful animated explosive effects",
+    "icon": "/icons/com.matchappgame.candyfeversmash.match3.png"
+  },
+  "com.mathbrain.sudoku": {
+    "title": "Sudoku Blast!",
+    "package": "com.mathbrain.sudoku",
+    "description": "Sudoku Blast - Classic Sudoku Free is a engaging number puzzle soduko game that tests your sodoku logical thinking and mathematical sodoku skills. Sudoku free offers a unique soduko challenge with each carefully crafted sudoku offline  puzzle, ensuring that every soduko puzzle has only one suduko solution. Whether you\u2019re looking to relax sodoku or stimulate your brain, sudoku no ads is the perfect companion for both casual play and mental suduko exercise.\n\nWith over 40,000 sudoku no ads puzzles across six difficulty sodoku levels, there\u2019s a sodoku challenge for everyone in Sudoku free. Ranging from Quick and Easy soduko levels for sudoku offline beginners to Expert and Master levels for seasoned players, Sudoku free provides a customizable experience that grows with your skills. Sudoku fre",
+    "icon": "/icons/com.mathbrain.sudoku.png"
+  },
+  "com.matryoshka.cooking.vibes": {
+    "title": "We Are Cooking: Taste of Life",
+    "package": "com.matryoshka.cooking.vibes",
+    "description": "Dive into the Cooking game that combines the charm of cafe, food, and restaurant games. Start your cooking adventure as an aspiring chef keen to master the casual and engaging kitchen time management. This cooking game allows you to hone your skills in a variety of food games, including chopping and frying across different restaurants.\n\nAs you progress, experience the thrill of time management by efficiently managing multiple food tasks to ensure that all dishes are prepared and served promptly, keeping your customers happy. Explore an extensive range of food games where you can try out various recipes and ingredients, from crafting simple cafe snacks to complex dinner meals.\n\nVenture deeper into the casual gameplay by running the day-to-day operations of your restaurant. Manage food deliv",
+    "icon": "/icons/com.matryoshka.cooking.vibes.png"
+  },
+  "com.maxdevlab.cleaner.security": {
+    "title": "Security Antivirus Max Cleaner",
+    "package": "com.maxdevlab.cleaner.security",
+    "description": "Mobile antivirus and security is the most important thing that we should face to. Lots of sensitive privacy data, bank, contacts, photos, message in our mobile. How can you stay safe from viruses, Spyware, Trojans, malwares, vulnerabilities, adwares, Privacy snoopers, extortion, phishing and WiFi spy ? How to clean viruses and remove viruses ? Antivirus is good at doing this.\n\nSecurity free antivirus can help you to stay safe, protect your privacy. Warning suspicious, clean viruses , spyware, blackmail and Trojans.\n\nHere are some key features of Antivirus:\n\nSecurity Antivirus & Virus Clean: Protects your private information, photos, bank details, and account information. Our Antivirus Master keeps your Android device safe and secure, defending it against extortion, viruses, malware, adware",
+    "icon": "/icons/com.maxdevlab.cleaner.security.png"
+  },
+  "com.mdaware.mdcalc": {
+    "title": "MDCalc Medical Calculator",
+    "package": "com.mdaware.mdcalc",
+    "description": "MDCalc is the leading clinical decision support app providing 900+ evidence-based calculators, risk scores, and clinical tools to support patient care at the bedside. MDCalc has been trusted by millions of clinicians since 2005.\n\nWhy Clinicians Choose MDCalc:\n\n\u2022 Created by Physicians, for Physicians - All tools developed and validated by board-certified physicians  \n\u2022 900+ Clinical Tools - Risk scores, algorithms, dosing calculators, and more with consistent updates and new tools added regularly \n\u2022 Works Offline - Full functionality without internet connection  \n\u2022 Evidence-Based - Every tool includes research validation and expert commentary  \n\u2022 CME Tracking - Earn CME just by reading through the clinical content surrounding many of our tools\n\u2022 Free Registration - Complete access in under ",
+    "icon": "/icons/com.mdaware.mdcalc.png"
+  },
+  "com.Asociety.free.Boxing.Game.BoxingBabes2": {
+    "title": "Boxing Babes II: Sexy Fight",
+    "package": "com.Asociety.free.Boxing.Game.BoxingBabes2",
+    "description": "Boxing Babes II: Ultimate Fighter\n\nStep into the ring with \"Boxing Babes II,\" the hottest anime boxing game where passion meets power! Train your sexy fighter to triumph in thrilling battles against fierce rivals. \n\nCaptivating Story Mode\n\nImmerse yourself in an intriguing narrative as you guide your girl to championship glory. With each fight, uncover secrets that deepen the mystery. Are you ready to discover the truth? \n\nDiverse Rivals \n\nFace off against 11 unique opponents, each with 5 stunning outfits to unlock. Customize your matches and strategies against varied fighting styles! \n\nFlirty Interactions \n\nEngage in flirtatious conversations with your rivals to build relationships and unlock exclusive content. The more you interact, the more surprises await! \n\nUnlock Exclusive Content \n\n",
+    "icon": "/icons/com.Asociety.free.Boxing.Game.BoxingBabes2.png"
+  },
+  "com.friendlygames.beauty.match.tripple.sexy.adult.date.tile.game": {
+    "title": "Beauty Match: Sexy 3D Triple",
+    "package": "com.friendlygames.beauty.match.tripple.sexy.adult.date.tile.game",
+    "description": "Welcome to Beauty Match: Sexy 3D Triple, a new challenging triple-matching puzzle hot sexy game for adults.\ud83d\udc96\n\nFind and pop identical 3D objects in triples hidden among piled-up objects to create a match and clear the board. Find triple matches, beat levels, train your matching skills in every puzzle, and become a master through your puzzle-solving abilities.\n\nBeauty Match: Sexy 3D Triple Features:\n\n\ud83d\udc96 Unlock sexy images:\nEach time you complete a level, you\u2019ll unlock a new image featuring sexy ladies. These images can be downloaded for free.\n\n\ud83d\ude0d Play with hot goddesses:\nChallenge your matching skills and solve 3D match puzzles with these goddesses to earn extra rewards and prove you\u2019re the true master. \ud83d\udc8b\n\n\u26bd\ufe0f High-quality 3D objects:\nTons of 3D objects are packed into each triple-match 3D leve",
+    "icon": "/icons/com.friendlygames.beauty.match.tripple.sexy.adult.date.tile.game.png"
+  },
+  "com.megaj.guitartuner": {
+    "title": "Guitar Tuner - Simple Tuners",
+    "package": "com.megaj.guitartuner",
+    "description": "Get your Guitar perfectly in tune with the free Guitar Tuner app!\n\nMusicians built the Guitar Tuner for other musicians to tune their Guitars fast, accurately, and with no extra effort. Tune any guitar visually or by ear!\ud83c\udfb8\n\nBoth beginners and experts can use it to achieve professional results. \nThe easiest way to tune your guitar - Guitar Tuner\nThe guitar tuner app will accurately tune any guitar using the built-in microphone on your device. It's simple - dial and needle for tuning visually or use the tuning notes to tune by ear. This app will automatically detect which string you are tuning. Just play any string and start tuning!\n\nSimple as that. And it's free! Fast and precise Guitar Tuner App.\n\nAccurate instrument tuner!\nThe Guitar Tuner app is designed and tested by professional musici",
+    "icon": "/icons/com.megaj.guitartuner.png"
+  },
+  "com.meisterlabs.meistertask.native": {
+    "title": "MeisterTask - Task Management",
+    "package": "com.meisterlabs.meistertask.native",
+    "description": "Transform your team's productivity and collaboration with MeisterTask - The Ultimate Task Management Tool. Whether you\u2019re looking to track tasks and todos or lead full-scale projects to success, MeisterTask offers a simple yet powerful project management and task management tool that takes you seamlessly from web to mobile and back again. \n\nWhy Choose MeisterTask?\n\n\ud83d\ude80 Seamless Integration Across Platforms. Experience the perfect blend of simplicity and power with MeisterTask. Designed to synchronize flawlessly with our comprehensive web application, our mobile app brings robust project management right to your fingertips.\n\n\ud83c\udf1f Empower Collaboration with Kanban-Style Boards. Effortless organization and dynamic teamwork in your pocket. MeisterTask's intuitive Kanban-style boards are tailored fo",
+    "icon": "/icons/com.meisterlabs.meistertask.native.png"
+  },
+  "com.melodybeat.music": {
+    "title": "Melody Beat - Offline Music",
+    "package": "com.melodybeat.music",
+    "description": "\ud83c\udfb5 Melody Beat: Your Ultimate Offline Music Experience \ud83c\udfb5\nMelody Beat is an offline music player application designed for playback of locally stored audio files.\n\ud83c\udfa7 Universal Format Support\nSupport MP3, FLAC, WAV, AAC, and 30+ formats with lossless quality, no conversion needed.\n\ud83d\udcc2 Smart Library Management\nAutomatically organizes your music by artist, album, genre, or folder. Genre Search effortlessly with quick filters. Lyrics support included, even without the internet.\n\ud83c\udf9b\ufe0f Equalizer & Sound Customization\nPersonalize your sound with professional equalizer, bass boost, virtualizer, and pre-set modes for Pop, Rock, Jazz, Classical, and more.\n\ud83d\udd01 Background & Lockscreen Playback\nControl music directly from your notification bar or lockscreen. Perfect for workouts, commutes, or just saving battery.",
+    "icon": "/icons/com.melodybeat.music.png"
+  },
+  "com.memoriki.fullhousecasino": {
+    "title": "Full House Casino - Slots Game",
+    "package": "com.memoriki.fullhousecasino",
+    "description": "Asia\u2019s No.1 Multiplayer Casino Game\n\nAll-in-one social casino at your fingertips!\nEnjoy the ultimate free-to-play casino experience with slots, bingo, blackjack, baccarat, and video poker\u2014all in one place!\n\nSpin through 100+ handpicked slot machines inspired by the vibrant energy of Vegas and Macau. Play in real time against players worldwide and strike the GRAND JACKPOT!\n\nTake part in our Daily Jackpot Tournament and compete with friends to become the legendary Big Fish winner. With over 8,000,000 downloads and 370,000+ 5-star ratings, Full House Casino stands among the best free casino games in the world! Let\u2019s spin now!\n\nCASINO PARTY FROM VEGAS & MACAU\nEmbark on epic adventures in our original slots, featuring stunning effects and popular themes like Greek Gods, Egyptian Treasures, and ",
+    "icon": "/icons/com.memoriki.fullhousecasino.png"
+  },
+  "com.meqr": {
+    "title": "ME-QR: QR Code Generator",
+    "package": "com.meqr",
+    "description": "\ud83e\udd29 The Ultimate QR Code Scanner and QR Code Generator: Your All-In-One Tool for QR Codes \ud83e\udd29 \nScan any QR code with ME-QR\u2014 your all-in-one QR code generator and scanner for any Android device. Whether you need to share a link \ud83d\udd17, display contact details, or even connect people to your Wi-Fi effortlessly, this QR scanner and QR code maker provides a comprehensive solution. It\u2019s more than just a QR code generator\u2014it\u2019s a complete toolkit for creating, managing, and tracking your QR codes.\n\nWith a built-in QR scanner, ME-QR offers unlimited scanning and generating capabilities, just like a barcode scanner. Scan QR codes easily, just like with a barcode scanner. You don\u2019t need to worry about expiry dates\u2014your codes will remain active indefinitely, and you can scan them as often as needed. The intui",
+    "icon": "/icons/com.meqr.png"
+  },
+  "com.mergegames.gossipharbor": {
+    "title": "Gossip Harbor: Merge & Story",
+    "package": "com.mergegames.gossipharbor",
+    "description": "Welcome to Gossip Harbor \ud83c\udf0a\nFollow Quinn Castillo as her picture perfect life on Brimwave Island crumbles around her. Divorce, sabotage and secrets. Help answer the question everyone's thinking: Who's trying to ruin her life? \nMerge flavorful dishes, restore and decorate Quinn's restaurant and watch the mystery unfold. \nBut who can you trust in Brimwave? \n\nWhip Up Tasty Dishes\ud83e\udd6a\nServe coffee, sandwiches, seafood, and a range of other dishes, to your customers. The more you play, the more dishes you\u2019ll find to add to your menu!\n\nRestore the Restaurant\ud83e\uddf0\nRebuild and design the best beach restaurant around! Choose the flooring, wallpaper and furniture to restore restaurant to its former glory! \n\nBuild Relationships\ud83d\udc9e\nConverse with customers and hang out with old friends. Or explore the possibilit",
+    "icon": "/icons/com.mergegames.gossipharbor.webp"
+  },
+  "com.metamoki.weed": {
+    "title": "Weed Inc: Idle Tycoon",
+    "package": "com.metamoki.weed",
+    "description": "Welcome to Weed Inc: Idle Tycoon, the ultimate idle game where you build, automate, and scale your own empire. Start small, upgrade your operations, and turn a simple setup into a powerful global business in this addictive incremental idle tycoon experience.\n\nThis strategic idle simulator lets you grow your business step by step. Invest in upgrades, unlock new systems, and automate production to generate passive income even while you\u2019re offline from the game. The more you optimize, the faster your incremental growth multiplies.\n\nExpand into new regions, unlock advanced upgrades, and scale your empire across the globe. Master automation, long-term strategy, and smart investments to become the ultimate idle business tycoon.\n\n\u2e3b\n\n\ud83d\ude80 FEATURES\n\n\ud83d\udcbc Build Your Idle Empire\nGrow from humble beginnings",
+    "icon": "/icons/com.metamoki.weed.png"
+  },
+  "tera.aiapp.com": {
+    "title": "Tera VPN",
+    "package": "tera.aiapp.com",
+    "description": "Fast & Secure Tera VPN provides a fast, reliable, and secure connection to improve your internet experience. Enjoy free & unlimited bandwidth and high-speed servers.\n\nKey features:\n\n\u2022 Easy to use \u2013 secure your connection with just one tap\n\u2022 Optimized for Android devices\n\u2022 No bandwidth limits for browsing, streaming, or downloading\n\u2022 No sign-up or registration required\n\u2022 Stable and consistent connection anywhere\n\nConnection Enhancement:\n\n\u2022 Access your favorite websites and services more reliably\n\u2022 Seamless connection across different networks\n\u2022 Smooth performance with low latency\n\u2022 Adaptive connection optimization for best speed\n\nConnection Safety:\n\n\u2022 Built-in DNS protection\n\u2022 Connection encryption with OpenVPN (UDP/TCP)\n\u2022 No activity logs saved\n\u2022 Built for safer and more secure online sess",
+    "icon": "/icons/tera.aiapp.com.png"
+  },
+  "com.mewe": {
+    "title": "mewe: The Safe Network",
+    "package": "com.mewe",
+    "description": "Welcome to mewe, the ultimate social media platform designed to bring people closer in a fun, safe and engaging way.\n\nmewe is one of the world's largest decentralized social media networks. With a privacy focus, no targeting, and no newsfeed manipulation. We are a community focused experience with more than 700,000 interest groups, allowing anyone to find like-minded people that share their same passions \u2013 no matter how obscure.\n\n* Groups - Join or create your own groups to share ideas, hobbies or just have fun with like-minded people. From small and private family groups to large public communities, there's a space for everyone.\n\n* Social Network - Build your own social network by connecting with followers who share your interests. Share updates and post content to your profile or to your",
+    "icon": "/icons/com.mewe.png"
+  },
+  "com.app.g2ray": {
+    "title": "G2Ray",
+    "package": "com.app.g2ray",
+    "description": "G2Ray is a universal mobile client for connecting to secure services and managing proxy server configurations. It combines ease of use with powerful features designed for flexibility and third-party service integration.\n\nKey Features:\nClean, intuitive interface\n\nSupports custom proxy server connections\n\nHidden and encrypted subscription support\n\nDynamic UI customization from backend\n\nSeamless switching between multiple authorized services\n\nSupported Protocols:\nVLESS (with Reality support)\n\n\nG2Ray does not collect or transmit any user data \u2014 all information is processed locally on your device.\n\nG2Ray does not provide access to VPN or proxy services.\nUsers are responsible for configuring and using their own servers.\nUsage of this application must comply with your local laws.",
+    "icon": "/icons/com.app.g2ray.png"
+  },
+  "com.giamping.v2rayex": {
+    "title": "V2RayEx: IPv6 & IPv4 Proxy VPN",
+    "package": "com.giamping.v2rayex",
+    "description": "---- V2RayEx is a free Android app that helps you connect to our own developed Shadowsocks VPN servers and any other VPN server as long as it supports V2Ray/Xray platform (you can add your own as you like).\n\n---- V2Ray/Xray is a great platform that makes it easy to access the fastest internet without worrying any firewall will block you access. The application currently supports you with protocols such as Shadowsocks, VMess, VLess, SOCKS,...\n\n---- Our V2RayEx VPN application is designed to be as simple as possible for users, with just a few taps you can successfully connect. Many attractive features of the application are listed below:\n\n+ Support both IPv6 and IPv4 (dualstack).\n+ More Shadowsocks servers.\n+ You can use all servers without restriction.\n+ Easy connect without registration.\n+",
+    "icon": "/icons/com.giamping.v2rayex.png"
+  },
+  "com.mgs.sniper1": {
+    "title": "Sniper Strike FPS 3D Shooting",
+    "package": "com.mgs.sniper1",
+    "description": "Intercept, eliminate and extract. It\u2019s time to engage the enemy!\n\nSniper Strike is a high-octane sniper experience that pits you in battle across three gameplay modes and hundreds of missions. Experience a AAA rated sniper game like never before on mobile.\n\nScout through immersive environments, engage in rapid-fire combat and build the ultimate super-soldier as you customise their state of the art gear. \n\nTeam up with Wolf, Jackson and the rest of Strike Force as you target hostiles and take down the evil Elite Order. Go head to head with friends in online combat and shoot to the top of the leaderboard.\n\n\u25cf Wipe out Elite Commanders and their henchmen with satisfying kill shots!\n\n\u25cf Buddy up with allies to cover Delta Team and rescue hostages.\n\n\u25cf Seek out online friends (and foes) and challe",
+    "icon": "/icons/com.mgs.sniper1.png"
+  },
+  "com.acciptv": {
+    "title": "ACCIPTV",
+    "package": "com.acciptv",
+    "description": "u can watch Live TV",
+    "icon": "/icons/com.acciptv.png"
+  },
+  "com.fsim.spaceshuttle2.android": {
+    "title": "F-Sim | Space Shuttle 2",
+    "package": "com.fsim.spaceshuttle2.android",
+    "description": "Here is the long-awaited successor to our critically acclaimed flight simulator. It simulates the Space Shuttle approach and landing in incredible detail and accuracy. \n\nThis is a remaster of our original F-Sim Space Shuttle, completely rewritten from scratch. New features include:\n- Console quality graphics\n- Interactive tutorials\n- White Sands as a third landing site option\n- Orbit mode\n\nF-Sim Space Shuttle combines realistic flight simulation with stunning graphics and fun gameplay.\n\nYou\u2019ve never landed a Space Shuttle before? We\u2019ve got you covered: Included are several tutorials with varying degrees of autopilot assist. Our landing analysis and scoring system tells you exactly how to improve your next landing. It will make you come back and try again.\n\nEach flight starts at either 10,0",
+    "icon": "/icons/com.fsim.spaceshuttle2.android.png"
+  },
+  "com.mico": {
+    "title": "MICO: Go Live Streaming & Chat",
+    "package": "com.mico",
+    "description": "Global live stream, Live chat in chat room, Live single & multi-user guest call rooms with friends.\n\ud83c\udf1fHighlights\ud83c\udf1f\n\ud83d\udcacChat\ud83d\udcac - Chat with friends global directly\n\ud83e\udd33Moments\ud83e\udd33 - Share your stories and online chat with people \n\ud83c\udfa4Live\ud83c\udfa4 - Live house, live chat, and live party \n\ud83c\udf89Party\ud83c\udf89 - Up to 9 people video chat, ready to be on cloud 9 \n\ud83d\udca7Purity\ud83d\udca7 - A positive, energetic and healthy environment for you  \n\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\nMICO is a live streaming app that provides tons of International live streams for users. Here, you can watch talented live streams and make new talented friends, enjoy the live houses with exclusive creativity of broadcasters! Sounds exciting? Let's check it out!\n\ud83c\udfa4Live\ud83c\udfa4 - Live streams, live chat, and live party\nWatch the international live stream and enjoy live videos. There are high-qual",
+    "icon": "/icons/com.mico.png"
+  },
+  "com.microsoft.scmx": {
+    "title": "Microsoft Defender: Antivirus",
+    "package": "com.microsoft.scmx",
+    "description": "Microsoft Defender is an online security app for your digital life1 and work2.\n\nStay safer online with Microsoft Defender for individuals1. Defender is an easy-to-use app that helps keep you and your family one step ahead of threats. Microsoft Defender for individuals is available with a Microsoft 365 Personal or Family subscription.\n\nAll-in-one security app\nProtect your personal identity, privacy, and devices against malicious threats with antivirus scanning3, threat monitoring4, multidevice alerts, and expert guidance.\n\nManage your security in one place\n\u2022 Check the security status of your family\u2019s devices and identity5.\n\u2022 Get timely threat alerts and recommended actions across your devices.\n\nSafeguard your family\u2019s personal information\n\u2022 Get continuous monitoring of your and your family'",
+    "icon": "/icons/com.microsoft.scmx.png"
+  },
+  "com.microsoft.todos": {
+    "title": "Microsoft To Do: Lists & Tasks",
+    "package": "com.microsoft.todos",
+    "description": "Microsoft To Do is a task management app to help you stay organized and manage your day-to-day. You can use Microsoft To Do to make shopping lists or task lists, take notes, record collections, plan an event, or set reminders to increase your productivity and focus on what matters to you. Microsoft To Do makes it easy to stay organized and manage your life.\n\nAccomplish what's meaningful and important to you each day with My Day and Suggestions, your personalized daily planner tools. Intelligent suggestions recommend tasks from across your lists that may be relevant for the day. From grocery lists to housecleaning routines, daily tasks are simple with To Do. When you're quickly switching between contexts and tasks, it's important to have tools that help you achieve what matters. Microsoft T",
+    "icon": "/icons/com.microsoft.todos.png"
+  },
+  "com.midea.ai.overseas": {
+    "title": "SmartHome (MSmartHome)",
+    "package": "com.midea.ai.overseas",
+    "description": "==The Red Dot Award 2023 Winner==\n\n\nSmartHome allows you to connect, monitor, and control smart appliances from Midea, Pelonis, Comfee, Master Kitchen, Artic King, and MDV.\n\nSmartHome replaces the MSmartHome and Midea Air apps, providing a brand-new look and improved experience.\n\nKEY FEATURES:\n\nREMOTE CONTROL: Control your smart appliance anytime, from anywhere using your smart phone or watch. For example, cool down your room before you arrive home. *Make sure your watch is Wear OS 2 or above.\n\nVOICE CONTROL: Enjoy hands-free control of select appliances with Amazon Alexa, Google Assistant, and Siri. \n\nNOTIFICATIONS: Never miss an important update or alert from your smart appliances. Receive timely notifications to alert you that the fridge door is open, or your oven has finished cooking d",
+    "icon": "/icons/com.midea.ai.overseas.png"
+  },
+  "com.miniclip.carrom": {
+    "title": "Carrom Pool: Disc Game",
+    "package": "com.miniclip.carrom",
+    "description": "Carrom Disc Pool is an easy-to-play multiplayer board game. Pot all your pieces before your opponent. Can you become the best at this Carrom Board game?\n\nWith simple gameplay, smooth controls and great physics, travel around the world and play against worthy opponents. Are you up for the challenge?\n\nThis game has multiple popular variants across the globe. Some to the most famous ones are Korona, Couronne, Bob, Crokinole, Pichenotte and Pitchnut. \n\nCustomise your pieces with a huge variety of unlock-able items! Show off your style to players from all over the world!\n\nFeatures:\n\u25baPlay multiplayer matches in 3 game modes: Carrom, Free Style and Disc Pool\n\u25baPlay with your friends.\n\u25baCompete with top players.\n\u25baTry your luck at free daily golden shot and win big prizes.\n\u25baPlay around the world in g",
+    "icon": "/icons/com.miniclip.carrom.webp"
+  },
+  "com.miniclip.drone1": {
+    "title": "War Drone: 3D Shooting Games",
+    "package": "com.miniclip.drone1",
+    "description": "War Drone: AC-130 Gunship Military Game\n\nEngage in Realistic Aerial Combat Warfare\n\u2022 Command advanced military drones and the legendary AC-130 Gunship in this modern shooter experience.\n\u2022 Take part in explosive firefights from the skies, defending allied forces and executing real-time airstrikes.\n\u2022 Use strategic flight paths, locking systems, and weapon calibration to simulate real-life drone control.\n\u2022 Navigate immersive 3D battlefields with accurate targeting systems and realistic drone physics.\n\nTactical Shooter Gameplay\n\u2022 Enter the battlefield as a high-tech air force marksman with access to lethal weapon systems.\n\u2022 Shoot down waves of hostiles in fast-paced combat encounters with precision and skill.\n\u2022 Fire 25mm Gatling guns, launch Hydra 70 rockets, and deploy Hellfire missiles to wi",
+    "icon": "/icons/com.miniclip.drone1.png"
+  },
+  "com.miniclip.ludo": {
+    "title": "Ludo Party : Dice Board Game",
+    "package": "com.miniclip.ludo",
+    "description": "Ludo Party is a tabletop dice board game. Score all your pucks to beat the opponents and win exciting rewards. Ludo is the game of kings. Play with your friends, show off your ludo talent, and become a superstar. \n\nLudo Party offers a multiplayer player vs player dice game with fascinating boards, dice, and pucks. Show them who's the king! Are you up for a challenge? Walla, a new ludo game has arrived. \n\nLudo is a variation of the Indian game Pachisi, but simpler! In some parts of the world, it is known as Parchis, Parchisi, Sorry! Or Trouble! Play on glorious arenas and clubs around the world and show off your style. Do you have what it takes to become the star ludo player?\n\n Features: \n\u25ba Play Popular Ludo game with friends & family\n\u25ba Multiplayer 2 player and 4 Player matches with real pl",
+    "icon": "/icons/com.miniclip.ludo.png"
+  },
+  "com.adguard.vpn": {
+    "title": "AdGuard VPN \u2014 private proxy",
+    "package": "com.adguard.vpn",
+    "description": "AdGuard VPN hides your real IP address and location, encrypts your traffic, and makes you anonymous. Be sure your data is safe: we have a strict no-logging policy.\n\nWe\u2019re proud of our AdGuard VPN:\n\n\ud83d\ude80 Proprietary VPN protocol\nWe have developed our own AdGuard VPN protocol. It\u2019s fast, secure, and disguises itself as usual traffic \u2014 it\u2019s far more difficult to detect and ban it.\n\n\u2705\ud83d\udeab Website exclusions\nDecide where AdGuard VPN should be on: everywhere except for certain websites or on selected websites only.\n\n\ud83c\udf0d 50+ locations\nChoose the location that best meets your needs \u2014 we have servers from America to Australia.\n\n\ud83d\udcf1\ud83d\udcbb Up to 10 devices simultaneously\nLog in to your AdGuard account on any of your devices \u2014 with a subscription, you can use your VPN on 10 devices simultaneously.\n\n\ud83d\udd12 Safe and secure",
+    "icon": "/icons/com.adguard.vpn.webp"
+  },
+  "com.jgeek00.adguard_home_manager": {
+    "title": "AdGuard Home Manager",
+    "package": "com.jgeek00.adguard_home_manager",
+    "description": "With AdGuard Home Manager you can manage your AdGuard Home server from your mobile device.\n\n\u26a0\ufe0f Warning \u26a0\ufe0f\nAdGuard Home Manager it's not designed to work with alpha or beta versions of the AdGuard Home server. This application may have some issues working with that versions.\n\nMAIN FEATURES:\n\u25b6 Manage your AdGuard Home server on an easy way.\n\u25b6 Supports HTTP and HTTPS connections.\n\u25b6 Enable and disable the different protections with only one switch.\n\u25b6 Add multiple servers to the app, and manage all of them from here.\n\u25b6 See and filter the query logs\n\u25b6 Manage your filtering lists\n\u25b6 See the clients list and create a custom configuration for a client\n\u25b6 Configure the allowed devices, DHCP, DNS or rewrites among others\n\u25b6 Update your server from the app (not available for servers running on a Docker c",
+    "icon": "/icons/com.jgeek00.adguard_home_manager.png"
+  },
+  "com.miniclip.ultimatehunting": {
+    "title": "Hunting Battle: Hunter Game",
+    "package": "com.miniclip.ultimatehunting",
+    "description": "Explore breathtaking landscapes, track elusive animals, and hone your shooting skills in this action-packed game. Whether you\u2019re a seasoned hunter or a novice, this game offers a realistic and immersive hunting adventure that will keep you on the edge of your seat.\n\nEnjoy seamless hunting with no breaks in the action, all in portrait mode. Progress through the game by winning events, unlocking new tours and tournaments, and upgrading your weapons. Collect power-ups and ammo to improve your chances and dominate the leaderboards.\n\nKey Features:\n\n        \u2022        Stunning 3D Environments \ud83c\udf32: Hunt in realistic forests, mountains, and savannas with dynamic weather effects and times of day.\n\n        \u2022        Varied Wildlife \ud83e\udd8c: Target a wide range of animals, from deer to big game, including lions",
+    "icon": "/icons/com.miniclip.ultimatehunting.jpg"
+  },
+  "com.miniclip.ultimatefishing": {
+    "title": "Fishing Blitz!",
+    "package": "com.miniclip.ultimatefishing",
+    "description": "Welcome to Fishing Blitz! Get ready to dive into the next generation of mobile fishing games, specifically crafted for anglers and fishing enthusiasts from around the globe.\n\nFishing Blitz! offers an unparalleled experience with fun and realistic gameplay. Immerse yourself in breathtaking fishing environments and encounter a diverse range of exotic fish species.\n\nEmbark on your fishing journey at Antler Lake, a captivating location that boasts multiple water bodies. As you progress, unlock and conquer other renowned fishing spots like Bahia Honda, Las Vueltas, Oyster Bay, and many more. Each location presents a unique and stunning selection of fish, allowing you to build your very own Ultimate Collection.\n\nSo grab your gear, choose your fishing spot, and get ready to embark on an amazing f",
+    "icon": "/icons/com.miniclip.ultimatefishing.png"
+  },
+  "com.mintgames.calmcolor": {
+    "title": "Calm Color\u2014Zen coloring Game",
+    "package": "com.mintgames.calmcolor",
+    "description": "Immerse yourself in the tranquil world of coloring with Calm Color - Color by Number, the ultimate relaxation destination in coloring apps. Indulge in a peaceful experience similar to flipping through a real coloring book, all within the comfort of your device. Designed for adults seeking a serene pastime, Calm Color provides tranquility and ease amidst the hustle and bustle of everyday life.\n\nWhether it's during a busy commute, a tense work break, or a quiet evening, Calm Color can be your ideal choice for relaxing your mind and relieving stress. Just imagine:\n- Walking down a peaceful path lined with flowers, listening to the soft singing of birds and experiencing the serenity and vitality of nature.\n- Sitting by the fireplace on a cold winter's day, sipping hot coffee, feeling warm and ",
+    "icon": "/icons/com.mintgames.calmcolor.jpg"
+  },
+  "com.mintgames.fancyjigsaw": {
+    "title": "Jigsaw Puzzles - Fancy Jigsaw",
+    "package": "com.mintgames.fancyjigsaw",
+    "description": "Welcome to Jigsaw Puzzles - Fancy Jigsaw! If you love jigsaw puzzle games, this is the perfect place for you! With over 20,000 free and beautiful jigsaw puzzles to choose from, you\u2019re sure to find one that sparks your imagination.\n\nIn the world of Fancy Jigsaw, every day brings new fantasy puzzles, with themes like mystical elves, powerful dragons, ancient castles, and other fantasy elements. \n\nDive into an immersive jigsaw experience without worrying about interruptions\u2014your game progress is saved automatically, and you\u2019ll never lose a piece. Enjoy pure fun as you work on each puzzle!\n\nExperience the calming, therapeutic effect of solving jigsaw puzzles. Completing each puzzle reveals a hidden beauty, giving you a sense of satisfaction and accomplishment. Puzzles can also help ease life\u2019s",
+    "icon": "/icons/com.mintgames.fancyjigsaw.jpg"
+  },
+  "com.mintgames.jigsawmaster": {
+    "title": "Jigsaw Master - Jigsaw Puzzles",
+    "package": "com.mintgames.jigsawmaster",
+    "description": "Welcome to Jigsaw Master, the ultimate jigsaw puzzle app that sets a new standard in puzzle gaming! Developed by a top-tier developer, our app offers an unparalleled puzzle experience that has captivated millions of players worldwide.\n\nImmerse yourself in a vast collection of over 10,000+ stunning HD pictures, carefully curated to provide hours of addictive and relaxing gameplay. With Jigsaw Master, you'll never encounter missing pieces or gimmicks. Simply enjoy the pure pleasure of piecing together beautiful jigsaw puzzles.\n\nCreated by game experts, our app not only entertains but also exercises your short-term memory and concentration. Say goodbye to cluttered puzzle boards and enjoy the convenience of solving real jigsaw puzzles right on your device.\n\nIndulge in the enchanting world of ",
+    "icon": "/icons/com.mintgames.jigsawmaster.jpg"
+  },
+  "com.bigbluebubble.msmcomposer": {
+    "title": "My Singing Monsters Composer",
+    "package": "com.bigbluebubble.msmcomposer",
+    "description": "Become a Monster Maestro in My Singing Monsters Composer!\n\nConduct an orchestra of cute musical Monsters from the hit game My Singing Monsters! Each Monster is packed with personality and its own unique vocal, percussive, and instrumental sound. Compose your own original song using a powerful and easy-to-use music editor, or recreate your favorites! Plus enjoy Monster parts not found on My Singing Monsters\u2019 Composer Island, like unique Rare sounds and the mysterious Ethereals.\n\nMy Singing Monsters Composer is a great tool for learning musical notation in a fun and memorable way. People of all skill levels will love practicing songwriting with this simple music editor!\n\nDownload My Singing Monsters Composer today \u2014 Happy Monstering!\n\nFEATURES:\n\u2022 Dozens of lovable Monsters with unique sounds",
+    "icon": "/icons/com.bigbluebubble.msmcomposer.png"
+  },
+  "com.bigbluebubble.msm2": {
+    "title": "Singing Monsters: Dawn of Fire",
+    "package": "com.bigbluebubble.msm2",
+    "description": "Think you know your Singing Monsters? Travel back in time to when Monsters first erupted into song and witness the glorious Dawn of Fire.\n\nExperience catchy tunes, gorgeous graphics and intuitive gameplay in this exciting prequel to the hit mobile sensation My Singing Monsters.\n\nFEATURES: \nEach Monster has its own voice!\nAs you unlock each lovable character, their unique musical stylings will be added to the song to build upon the symphony creating richer sounds. Some Monsters are vocal virtuosos, while others play splendorous instruments. Until you hatch it, it's a surprise!\n \nBreed and grow your Monster musicians!\nWant to grow your Singing Monster collection? That's simple - breed Monsters with different elements together to create new ones! Level them up by rewarding them stuff they lik",
+    "icon": "/icons/com.bigbluebubble.msm2.jpg"
+  },
+  "com.bigbluebubble.thumpies2023": {
+    "title": "My Singing Monsters Thumpies",
+    "package": "com.bigbluebubble.thumpies2023",
+    "description": "Thump to the rhythm and bounce to the beat with these cute, fuzzy (and kinda gross) musical monsters! \n\nFull of toe-tapping mischief and off-beat melodies, Thumpies is a unique rhythm-based game where you keep the beat alive by tapping in time with Thumpies as they bounce and tumble to the musical score. \n\nThe original inspiration for the hit mobile game My Singing Monsters, Thumpies is now remastered and re-imagined!  \n\nKeep the Beat\nMake the Thumpies happy by tapping in time to the rhythm and filling the Thump-o-Meter. Make a mistake, and the meter will deplete!\n\nMake Some Noise\nEnjoy an excellent musical score as the Thumpies drum along!\n\nCrazy Critters\nMeet the Thumpies, a collection of fuzzy monsters who live to bounce! Each of the Thumpies has its own unique look, each one wilder tha",
+    "icon": "/icons/com.bigbluebubble.thumpies2023.png"
+  },
+  "com.mintgames.king.solitaire": {
+    "title": "Solitaire Card Game",
+    "package": "com.mintgames.king.solitaire",
+    "description": "If you like classic Solitaire, you're going to love this beautiful solitaire card game!\n\nTrain your brain with a new Solitaire experience each & every day. Download now to play the best classic Solitaire card game for free!\n\nFun Addicting Games of Classic Solitaire. It is an offline game which you can play solitaire on anytime and anywhere.\n\nSOLITAIRE FEATURES:\n\n\u2660  Beautiful graphics\n\u2660  Solitaire Draw 1 card\n\u2660  Solitaire Draw 3 cards\n\u2660  Option for all winning deals\n\u2660  Auto complete\n\u2660  Unlimited free undos\n\u2660  High scores and personal statistics\n\u2660  Sound that can be turned on/off\n\u2660  No network required\n\nFor anyone who likes a free, easy, and fun solitaire game. It is all that you need for straightforward time-killing.\n\nIf you like solitaire card game, come and join us!"
+  },
+  "com.mixvibes.crossdjfree": {
+    "title": "Cross DJ - Music Mixer App",
+    "package": "com.mixvibes.crossdjfree",
+    "description": "Cross DJ is the perfect app to mix and perform DJ sets on the go!\n\n\ud83d\udcbf\ud83d\udcc0 MIX AND PERFORM LIVE\n\u2022 Start your mix with the essential 2-deck DJ setup\n\u2022 Easily import and sort your music library by title, artist, album, BPM or length\n\u2022 Shape and resample your sound in real-time with Pro-grade FXs \n\u2022 Play with over 70 one-shot samples and 12 loops \n\u2022 Access your Soundcloud library to mix all the latest bangers\n\u2022 Synchronize your tracks with the most accurate Waveform view\n\u2022 Customize your setup with the color of your choice\n\u2022 Set the view to portrait mode for easier access while on the go\n\u2022 Record your mix & share it with the world! (Soundcloud etc.) \n\n\ud83d\udd0a\ud83c\udfb6 OUTSTANDING AUDIO ENGINE \n\u2022 Import any audio file (MP3, AAC, FLAC, WAV & AIFF)\n\u2022 Accurate BPM detection of your music, down to the last decimal\n\u2022",
+    "icon": "/icons/com.mixvibes.crossdjfree.png"
+  },
+  "com.mmc.flychallenge": {
+    "title": "Fly Challenge: Build a Plane!",
+    "package": "com.mmc.flychallenge",
+    "description": "Fly Challenge: Race Through the Skies in the Ultimate Aerial Showdown! \u2708\ufe0f\ud83c\udfc1\n\nGet ready to race like never before in Fly Challenge, the ultimate racing game where speed meets skill! \ud83c\udfc1 In this high-flying game, you'll build a plane from the ground up and compete in heart-pounding races against the clock. Whether you're new to plane games and racing or a seasoned pro, this flying simulator will have you hooked!\n\nIn this airplane game, you\u2019ll learn to fly and master the art of speed in the sky. Customize your airplane with different wings, engines, and wheels to create the fastest plane possible. Merge plane parts to boost your speed and stay airborne for a longer time in this fly simulator. Take on intense flight challenges as you navigate tight turns and perform extreme landings with the prec",
+    "icon": "/icons/com.mmc.flychallenge.png"
+  },
+  "com.mmm.postit": {
+    "title": "Post-it\u00ae",
+    "package": "com.mmm.postit",
+    "description": "Use Post-it\u00ae Notes anywhere and anytime. Post-it\u00ae App brings the simplicity of Post-it\u00ae Notes to your smartphone, tablet and Chromebook. Whether you use Post-it\u00ae Notes for teamwork and collaboration, or for reminders and personal note taking, Post-it\u00ae App helps you keep the momentum going.\n\nIf you work from home or as a student in remote learning, use the Post-it\u00ae App to share your ideas with co-workers, structure your assignments and share them with your teacher, or create colorful calendars and share them with your friends.\n\nSimply capture analog notes with your camera or create digital notes right on your device. Arrange, refine and organize ideas anyway you see fit. Collaborate and share notes with co-workers, teachers and friends, or export to your favorite apps and cloud services\u2014inc",
+    "icon": "/icons/com.mmm.postit.png"
+  },
+  "com.mnogogames.triviascapes": {
+    "title": "IQ & brain test: Triviascapes",
+    "package": "com.mnogogames.triviascapes",
+    "description": "Trivia scapes: The Ultimate Brain Training Trivia Game!\n\nEscape the ordinary and ignite your intellect with Trivia scapes, the perfect trivia game to challenge your mind and test your knowledge. Dive into a world of fun trivia games, brain games, and engaging quiz challenges designed to enhance your cognitive abilities and boost your IQ!\n\nTrivia scapes offers an exciting blend of brain training and mind games that will push your memory and logic skills to the limit. Whether you're a fan of logic puzzles, trivia across history, science, geography, animals, food, and literature, or just love a good brain test, Trivia scapes has it all!\n\nAs you progress through question games, each correct answer rewards you with a piece of a beautiful new landscape. Collect all the fragments and unlock breat",
+    "icon": "/icons/com.mnogogames.triviascapes.webp"
+  },
+  "com.mobge.Oddmar": {
+    "title": "Oddmar",
+    "package": "com.mobge.Oddmar",
+    "description": "*Play the beginning for free as Demo\"\n\nOddmar struggles with life in his village and is not worthy of a place in Valhalla. He is shunned by his fellow Vikings and must redeem himself of his squandered potential. One day he is offered an opportunity to prove himself, but at a price...\n\nIMMERSE yourself in an epic Viking story animated as a motion comic.\n\nJOURNEY through 24 beautifully hand-crafted levels of physics-based puzzles and platforming challenges.\n\nDISCOVER your true power with magically imbued weapons and shields.\n\nENCOUNTER new friends and foes on your journey through magical forests, snowy mountains and treacherous mines.\n\nOddmar supports Google Play game saves and game controllers.\n\nAn internet connection will initially be necessary to complete the download of app data for Oddm",
+    "icon": "/icons/com.mobge.Oddmar.webp"
   }
 }
