@@ -70602,5 +70602,629 @@
     "package": "com.itunestoppodcastplayer.app",
     "description": "Podcast Republic serves 2M+ podcasts and 500M+ episodes worldwide everyday! Our Android app is the top quality podcast app with over 4M downloads, 90K+ authentic reviews. An app you can trust!\n\nPodcast Republic makes it easier for you to manage your podcasts, online radio streaming, audio books and RSS news & blog feeds within a single app, full of amazing features and highly customizable. All the cool features of this app are at your disposal for free. We know you are addict to your podcasts. We know you like to have your podcasts in your pockets. We invite you to try our app and have an amazing experience of enjoying your favorite contents from all over the world. A podcast player for podcast patrons, podcast makers, podcast creators and podcast addicts.\n\nOrganized Your Way\nCustomize you",
     "icon": "/icons/com.itunestoppodcastplayer.app.png"
+  },
+  "com.iweetalk": {
+    "title": "FogoLive-Video&Chat",
+    "package": "com.iweetalk",
+    "description": "FogoLive is a simple and fun app that can easily  video chat with friends all over the world in real time.FogoLive provides features such as video chat, sending messages, and instant translation.\n\ud83d\udcf2Video call - You can call your friends or any user currently online via video FogoLive - you can send gifts to each other during the call, enjoy video chat with our fun translator.\n\ud83c\udf0fReal-time translation - When chatting with your friends, if you don't speak the other party's language, with FogoLive's translation feature, you can easily talk to anyone. We translate what you write and show it to your friend in their own language, and when she answers you in the same way, you will see your own language.\n\ud83e\udddaBeauty Settings - Make you look more attractive and beautiful.\n\ud83c\udf81 Abundant gifts - You can send g",
+    "icon": "/icons/com.iweetalk.png"
+  },
+  "com.iz.baby.world.kids.learning.games.balloon.popping.educational": {
+    "title": "Baby Games for 2-5 Year Olds",
+    "package": "com.iz.baby.world.kids.learning.games.balloon.popping.educational",
+    "description": "Welcome to Baby World - Play, Learn, and Grow with Baby Games for 2-5 Year Olds! Start your toddler's learning journey with 120+ baby games and toddler games that help kids learn ABCs, numbers, shapes, colors, animals, and more. These fun baby games, including balloon popping games, are specially designed to develop essential skills in kids, making learning enjoyable and engaging.\n\nBaby World educational toddler games have won several prestigious awards, including:\n** Mom's Choice Gold Award\n** Certified 5 Stars by Educational Appstore\n** National Parenting Product Awards - NAPPA 2024\n** Parents and Teacher Choice Award\n\nBaby World is a complete preschool learning program for kids with 120+ baby games that teach ABCs, 123 numbers, colors, shapes, fruits, vegetables, animals, vehicles, and ",
+    "icon": "/icons/com.iz.baby.world.kids.learning.games.balloon.popping.educational.png"
+  },
+  "com.iz.coloring.games.kids.drawing.book.color.by.number": {
+    "title": "Coloring Games for Kids: Color",
+    "package": "com.iz.coloring.games.kids.drawing.book.color.by.number",
+    "description": "Welcome to Coloring Club for endless fun and learning! Dive into a colorful world with over 1,000 fun coloring games for kids and drawing games for kids. Coloring Club is an award-winning educational app that helps children develop essential skills while sparking their creativity and imagination.\n\nColoring Club is the perfect place to start your child's creative journey! Featuring coloring games, drawing games for kids, and fun games for kids and toddlers ages 1 to 6, it's an exciting way to nurture creativity and learning in kids. Spark your child's imagination through interactive play and coloring fun! Join the adventure today!\n\n**AWARD-WINNING APP**\nColoring Club has received numerous prestigious awards and recognition for its excellence in early childhood education.\nMom's Choice Gold A",
+    "icon": "/icons/com.iz.coloring.games.kids.drawing.book.color.by.number.png"
+  },
+  "com.iz.coloring.games.kids.drawing.color.book.painting.learning.baby.toddlers": {
+    "title": "Kids Coloring Pages & Book",
+    "package": "com.iz.coloring.games.kids.drawing.color.book.painting.learning.baby.toddlers",
+    "description": "Introducing, a fun and interactive coloring books app for kids, filled with a variety of coloring pages and engaging activities! This app combines the joy of coloring with the excitement of learning through fun and interactive games. In these kids' coloring games, children can explore their creativity by coloring and playing at the same time. This educational app helps kids learn about animals, dinosaurs, insects, vehicles, underwater creatures, and much more. With over 50 coloring pages, this app is perfect for kids aged 1 to 5 years old.\n\nThese drawing and coloring games for kids are designed to develop creativity, imagination, and fine motor skills. Kids can have endless fun coloring and drawing, while also learning new concepts and expanding their knowledge. This app makes learning enj",
+    "icon": "/icons/com.iz.coloring.games.kids.drawing.color.book.painting.learning.baby.toddlers.png"
+  },
+  "com.m4coding.ide": {
+    "title": "Android IDE - PHONE AS",
+    "package": "com.m4coding.ide",
+    "description": "Android IDE - PHONE AS: The professional Power of Android Studio in your pocket!\n\n\n\nAndroid IDE - PHONE AS is a revolutionary mobile Integrated Development Environment (IDE) designed to replicate the core desktop development experience on your smartphone. It is a complete build system that allows you to code, compile, and run professional projects on the go.\n\n\n\n\ud83d\ude80 New Professional Engineering Support\n\n\n\nAndroid Gradle Projects: Full support for standard Gradle structures. Compile and generate APKs directly on your device.\nFlutter Integration: Brand new support for Flutter projects, enabling seamless cross-platform mobile development.\nC++ & NDK Support: Now supports C++ engineering for high-performance apps and native logic development.\n\n\n\u2728 Cutting-Edge Visual Preview Tools\n\n\n\nJetpack Compos",
+    "icon": "/icons/com.m4coding.ide.png"
+  },
+  "com.foxdebug.acodefree": {
+    "title": "Acode - code editor | OSS",
+    "package": "com.foxdebug.acodefree",
+    "description": "Welcome to Acode!\n\nA powerful, lightweight code editor, and web IDE for Android. Now enhanced with cutting-edge features and updates to transform your coding experience.\n\nWhat's New?\n\nStep into the future of coding with our innovative Plugin System. This brand new feature supports a wide range of plugins, boosting the functionality of Acode to meet all your development needs. With over 30 plugins already available in the Plugin Store, the possibilities are endless.\n\nLatest Updates Include:\n\n- Enhanced Ace Editor: Now updated to version 1.22.0 for more efficient editing.\n- Search in All Files: Our beta feature lets you search and replace text in all files within your opened projects.\n- Customizable Quick Tools: Personalize your quick tools to enhance your workflow.\n- Fast File Listing in Fi",
+    "icon": "/icons/com.foxdebug.acodefree.png"
+  },
+  "com.qamar.ide.java": {
+    "title": "JStudio - IDE for Java, Kotlin",
+    "package": "com.qamar.ide.java",
+    "description": "JStudio is an integrated development environment(IDE) for developing Android apps or Java/Kotlin console programs on your device with support for auto completion and real time error checking among others.\nIt supports modern Java build tools like Gradle, Ant and Maven.\n\n Features \n Editor \n- Code completion for java.\n- Real Time error checking.\n- Auto backup if you leave the app without saving.\n- Undo and Redo.\n- Support for characters not normally present in the virtual keyboard like tabs and arrows.\n\n Terminal \n- Access the shell and commands that ship with android.\n- Preinstalled with basic unix command like grep and find(Missing in older android versions but newer devices already ship with them)\n- Support for tab and arrows even if the virtual keyboard lacks them.\n\n File Manager \n- Acce",
+    "icon": "/icons/com.qamar.ide.java.png"
+  },
+  "com.jamcity.snoopypop": {
+    "title": "Bubble Shooter - Snoopy POP!",
+    "package": "com.jamcity.snoopypop",
+    "description": "Good Grief! Woodstock and the rest of his flock of birds are trapped in bubbles\u2014help Snoopy skillfully burst bubbles to save his best friend! \ud83d\udc24 Play Snoopy POP!, the best classic bubble shooter game ever!\n\nJoin Snoopy, Charlie Brown, Woodstock, and the rest of your favorite Peanuts characters in this fun and challenging puzzle game with tons of levels and game modes! \ud83c\udf88 Blast bubbles, rescue birds, and explore the challenges that the Peanuts friends have in store for you! Watch time fly by as you blitz through the levels in this classic bubble shooter puzzle game! Do you have what it takes to crush your high score?\n\nMatch your way through challenging puzzles and harness the power of the Peanuts friends in this free Charlie Brown puzzle journey! Test your skills and blast bubbles to unlock r",
+    "icon": "/icons/com.jamcity.snoopypop.png"
+  },
+  "com.jarvigames.viceonline": {
+    "title": "Flex City RP: Car Game Online",
+    "package": "com.jarvigames.viceonline",
+    "description": "Flex City - The Ultimate Sandbox Driving and Racing Game\n\nDive into the ultimate sandbox experience with Flex City, the premier multiplayer online games adventure. Explore a massive open world, compete in racing games online or enjoy offline games, and live the high-stakes life of a gangster. Form gangs, battle rivals, and dominate the streets in this immersive sandbox RP universe.\n\nGAME FEATURES\n\nGang Wars and Strategic Alliances\nJoin or create gangs, form alliances, and rule the city in thrilling multiplayer online games. Engage in action MMO adventures and gangster RP missions, where every choice affects your reputation and influence.\n\nVast and Dynamic Open World\nExplore diverse neighborhoods - from bustling urban metropolises to gritty streets and dangerous wastelands. Every corner of ",
+    "icon": "/icons/com.jarvigames.viceonline.png"
+  },
+  "com.geniuscloud.overseasplatform": {
+    "title": "VMOSCloud-Android Cloud Phone",
+    "package": "com.geniuscloud.overseasplatform",
+    "description": "VMOS Cloud \u2013 The World\u2019s Leading Android Cloud Phone for Efficient Multi-Instance Usage & Seamless Global App Access!\n\nVMOS Cloud enables you to play games, efficiently manage social media accounts, and access global app stores in the cloud. With top-tier data centers and intelligent network optimization, VMOS Cloud delivers an exceptional cloud experience, allowing you to run multiple apps, automate tasks, and remotely control your device anytime, anywhere\u2014without changing your physical device!\n\n- Android Cloud Phone, Effortless Multi-Instance Usage -\n\nVMOS Cloud is equipped with a native Android system that supports one-click multi-instance usage, making it easy to manage multiple accounts without consuming local resources or affecting device performance. It can also serve as your person",
+    "icon": "/icons/com.geniuscloud.overseasplatform.png"
+  },
+  "com.jaumo": {
+    "title": "Jaumo Dating App: Flirt & Date",
+    "package": "com.jaumo",
+    "description": "\ud83d\ude00 Discover Love, Friendship & Real Connections on Jaumo!\n\nJaumo is a free dating app where love, privacy, and authenticity come first. With over 50 million downloads, Jaumo is the go-to dating app to meet new people, chat, flirt, and build real connections. Whether you want a serious date, a casual chat, or to make new friends, this dating app makes it easy to connect with real people who are ready to meet.\n\nLooking for love, meaningful dates, or new friends? Jaumo helps singles meet, chat, and flirt in a safe, fun environment designed for real relationships.\n\nBest Free Dating App to Chat, Meet & Date\n\nIf you\u2019re searching for the best free dating app, Jaumo is the perfect place to meet singles, chat, and go on a real date. Unlike other platforms, this dating app offers free chat, free matc",
+    "icon": "/icons/com.jaumo.webp"
+  },
+  "com.jaumo.casual": {
+    "title": "HookUp & Casual Dating App CSL",
+    "package": "com.jaumo.casual",
+    "description": "Welcome to CSL \u2014 the afterparty of dating apps.\nWe\u2019re not about perfect bios or fairy-tale endings. We\u2019re here for attraction that feels easy, fun, and real. Whether you\u2019re in the mood for playful chat, spontaneous connections, or something that makes your heart (and maybe your pulse) race \u2014 CSL is your space to explore chemistry without the pressure.\n\nAt CSL, we believe dating should feel exciting again \u2014 not exhausting.\nOur community is full of bold singles looking for honest connections, casual chemistry, and good vibes. Whether you\u2019re craving late-night banter, a spark that turns into something more, or just a little adventure, CSL keeps it refreshingly open-minded.\n\n\u2728 Why You\u2019ll Love CSL\n\nFlirty, real people: Verified profiles to keep things genuine.\n\nPrivate & safe: You control what ",
+    "icon": "/icons/com.jaumo.casual.png"
+  },
+  "com.jee.timer": {
+    "title": "Multi Timer StopWatch",
+    "package": "com.jee.timer",
+    "description": "Juggling multiple tasks?  Need a reliable multi timer app that can keep up? Multi Timer StopWatch is your beautifully designed solution for effortless time management.  Whether you're cooking a multi-course meal, timing interval training, or managing complex projects, our app lets you create and run multiple timers simultaneously, all within a clean and intuitive interface.\n\nTake control of your time with these powerful features:\n\n* Multiple Timers, Zero Hassle:  Create and save your frequently used timers for cooking, workouts, work breaks, gaming sessions, and more. Start them individually or all at once with a single tap.\n* Timer within a Timer: Perfect for presentations, speeches, or any scenario where you need interval reminders. Get notified at pre-set intervals to stay on track.\n* C",
+    "icon": "/icons/com.jee.timer.png"
+  },
+  "com.jideos.jnotes.overseas.google": {
+    "title": "Jnotes: AI Note-taking & PDF",
+    "package": "com.jideos.jnotes.overseas.google",
+    "description": "Jnotes: AI Note-taking, PDF Editor & Digital Notebook\n\nTrusted by students and professors at top US universities, Jnotes is the premier Android alternative to Goodnotes and Notability. It\u2019s the ultimate note-taking app that blends a natural S Pen handwriting experience with an advanced AI Academic Second Brain to help you master your coursework.\n\n\ud83d\udcc4 Pro-Grade PDF Editor & Annotator\nHandle heavy document management with the most efficient PDF assistant on Android.\n\u2022 Write on PDF: Annotate lecture slides, sign documents, and highlight research papers with zero-lag digital ink.\n\u2022 AI PDF Summarizer: Upload a 500-page PDF and get a structured summary in under 2 minutes. Skip the fluff and master core concepts instantly.\n\u2022 Ask AI: Stuck on a complex theory? Ask our AI questions directly based on ",
+    "icon": "/icons/com.jideos.jnotes.overseas.google.png"
+  },
+  "com.jlyt.deadrising": {
+    "title": "Survivor Base - Zombie Siege",
+    "package": "com.jlyt.deadrising",
+    "description": "Survivor Base - Zombie Siege is a survival strategy game set in the background of apocalypse. As the leader of a small surviving camp, your responsibility is to manage and lead the survivors. You need collect and use the materials around to build various constructions and items for improving the defense power and the production capabilities of the camp. Besides, you also need send survivors to form teams to explore the ruins, find more resources and companions, and watch out zombies in the mean while. Your final goal is to make the camp stronger and safer until a powerful base is created for everybody.\n\nFeatures\n1. Your camp will run automatically and make revenue, even if you are offline.\n2. Many kinds of business challenges, exploration and adventures\n3. Flexible and diverse construction",
+    "icon": "/icons/com.jlyt.deadrising.jpg"
+  },
+  "com.jmsgame.jackpotmastercasino": {
+    "title": "Jackpot Master\u2122 Slots - Casino",
+    "package": "com.jmsgame.jackpotmastercasino",
+    "description": "Step into the exhilarating world of Jackpot Master Slots - Casino and begin your slots adventure with a 40,000,000 Free Coins Welcome Bonus. Experience the ultimate mobile slots that bring the thrill of Vegas right to your fingertips with Jackpot Master! Designed for slot enthusiasts of all levels, our app offers an unrivaled gaming experience with endless opportunities for excitement and huge rewards - and the best part is it's free for everyone!\nGame Features:\n\u2022\tDiverse Collection of Slot Games: Explore a vast array of slot games, from timeless classics to the latest and most innovative video slots. Each game features captivating graphics, immersive sound effects, and unique themes to keep you entertained for hours.\n\u2022\tEnormous Jackpots: Chase after massive jackpots that can change your l",
+    "icon": "/icons/com.jmsgame.jackpotmastercasino.png"
+  },
+  "com.aofl.adventureacademy": {
+    "title": "Adventure Academy",
+    "package": "com.aofl.adventureacademy",
+    "description": "WELCOME TO ADVENTURE ACADEMY \n\nLEARNING PROGRAM FOR KIDS 8-13 \n\nStart your 30-day free trial of Adventure Academy now! Monthly payments available, or get 49% off with an annual subscription. Cancel anytime. \n\nYour quest for knowledge begins now! \n\nAdventure Academy is the new interactive learning program for kids from the creators of ABCmouse! The Founders of this prestigious school have created one of the world\u2019s largest collections of educational games, books, learning challenges, and more, all designed to help strengthen children\u2019s skills across thousands of key elementary and middle school learning objectives.   \n\nKey Features: \n\nDiscover and play thousands of learning activities to help boost key skills and abilities across many subjects, including math, language arts, reading, scienc",
+    "icon": "/icons/com.aofl.adventureacademy.png"
+  },
+  "com.groundspeak.react.adventures": {
+    "title": "Adventure Lab\u00ae",
+    "package": "com.groundspeak.react.adventures",
+    "description": "Explore the world around you in a whole new way with Geocaching Adventure Lab\u00ae outdoor scavenger hunts! Community-generated scavenger hunts let you uncover hidden gems, learn local trivia, discover landmarks, and everyday treasures through an interactive, outdoor, and contactless experience.\n\nEach Adventure is created by another Adventurer and shares a special location, story, challenge, or educational experience. Whether you\u2019re looking for an activity for your family, yourself, or a date, you\u2019ll love getting outside and exploring with Adventure Lab.\n\nAs you venture outside using the Geocaching Adventure Lab\u00ae app, the map will guide you to Adventures in your area. Adventures can have multiple stages to complete. Explore at your own pace and search for clues to unlock fun stories, puzzles, ",
+    "icon": "/icons/com.groundspeak.react.adventures.png"
+  },
+  "com.theguligames.landsofadventure": {
+    "title": "Legendale: Adventure Games",
+    "package": "com.theguligames.landsofadventure",
+    "description": "Legendale: Adventure Games is a story-driven adventure game and one of the most atmospheric island adventure games for players who love exploration, quests, and magical worlds. This island adventure game combines classic adventure gameplay, cozy farming, a warm fable story, and safe family fun into one unforgettable experience.\n\nThis is not just a farming game. This is a real adventure game set on a mysterious island. Among all island adventure games, Legendale focuses on exploration, quests, story, and discovery. Every step on the island is part of your adventure. Every quest is part of your fable. Every action moves your adventure forward.\n\nIf you are searching for true island adventure games with deep adventure mechanics, Legendale is your perfect adventure game.\n\n\ud83d\uddfa\ufe0f Adventure Explorati",
+    "icon": "/icons/com.theguligames.landsofadventure.png"
+  },
+  "com.innplaylabs.animalkingdomraid": {
+    "title": "Animals & Coins Adventure Game",
+    "package": "com.innplaylabs.animalkingdomraid",
+    "description": "Join players around the globe in this animal adventure game. Build treasure islands and bridges, raid your friends\u2019 bases, collect coins, unlock new pet characters, and go on a journey to explore the legendary animal kingdom!\n\nBuild animal treasure islands \ud83c\udfdd\ufe0f\nConquer different islands, steal coins from other players, including your friends, win mini-games to find loot, and become the true ruler of the animal kingdom!\n\nEven better, you can unlock more pet characters, from the bear and the pig to the rabbit and the deer. All are so cute, but how many can you unlock?\n\n\ud83d\uddfa\ufe0f REVEAL DIFFERENT KINGDOM ISLANDS\nBuild bridges, solve mini puzzles, loot coins and treasures from others, build your dream island, unlock more adventures, and explore the animal kingdom.\n\n\ud83d\udca3 STEAL COINS & RAID LANDS\nYou can wi",
+    "icon": "/icons/com.innplaylabs.animalkingdomraid.png"
+  },
+  "com.jobget": {
+    "title": "JobGet: Search and Apply Fast",
+    "package": "com.jobget",
+    "description": "Take control of your job search. Finding work near you shouldn\u2019t take hours of filling out applications and waiting weeks to hear back. JobGet simplifies the entire process with one-tap apply and interviews, personalized job recommendations with JobGenie, and an instant resume builder. Plus, earn extra money with GetCash whenever you want. \n\nWhy Choose JobGet?\n\n- Fast and Easy Job Search: Stop wasting your time filling out endless applications and start connecting with employers instantly. Whether you\u2019re looking for full-time, part-time, gig, temp, shifts, work-from-home or hourly jobs, JobGet helps you get hired quicker.\n\n- Perfect Matches, Daily: Our JobGenie feature finds the right job matches for you every day. Simply swipe right to apply.\n\n- One-Tap Apply: It\u2019s never been easier - sim",
+    "icon": "/icons/com.jobget.png"
+  },
+  "com.vsco.cam": {
+    "title": "VSCO: Photo Editor",
+    "package": "com.vsco.cam",
+    "description": "VSCO: Photo Editor & Inspiring Photography Community.\nOur community-driven platform empowers photographers to flourish creatively and professionally.\n\nWith a comprehensive suite of photo editing tools for mobile photography editing and desktop, and a network for connecting with other creators and businesses, VSCO empowers photographers to develop their unique style and be discovered by the world.\nVSCO \u2014 powerful tools, creative community, and exposure for all photographers.\n\nPHOTO EDITING\nProfessional Grade Presets\nOur preset library is the best in class for digital photography enhancement. Unlock over 200 curated photo presets, including the beloved member favorite AL3. Excellent for outdoor and indoor image edits and ideal for food and night photography, AL3 uniquely brightens and soften",
+    "icon": "/icons/com.vsco.cam.webp"
+  },
+  "com.jobhai.jobs": {
+    "title": "Job Hai - Search Job, Vacancy",
+    "package": "com.jobhai.jobs",
+    "description": "Job Hai is the best Job Search App that provides verified Job vacancies in 420 popular cities across 45+ categories free of cost!\n\nDownload Job Hai, the best job search app to find part time jobs, full time jobs, work from home jobs, fresher jobs in India. Apply jobs for 10th pass, 12th pass, graduate from different categories like data entry jobs, driver jobs, content writer jobs, security guard jobs, online work, accountant jobs, teacher jobs, graphic/web designer jobs, it jobs, telecaller jobs, sales marketing jobs, delivery jobs, housekeeping jobs and other jobs in 420 popular Cities.\n\nFind job openings in nearby areas posted by top companies such as Flipkart, Zomato, Tata Motors, Ola, Uber, Zepto, Paytm, Rapido, Urban Company, Swiggy, Shadowfax, Reliance Jio, Delhivery, Big Basket, Bl",
+    "icon": "/icons/com.jobhai.jobs.png"
+  },
+  "com.jobsdb": {
+    "title": "Jobsdb: Jobs & Part-time Work",
+    "package": "com.jobsdb",
+    "description": "Jobsdb by SEEK is the leading job search and recruitment platform in the Asia-Pacific region, covering full-time and part-time positions across various industries and top employers.  \n\nWith Jobsdb by SEEK, find work in your ideal location, at the right salary and with the flexibility that fits your life. Upload your resume, start searching and let our intelligent AI connect you with opportunities that match your skills and aspirations. The right job for you is just a few taps away. \n \nDOWNLOAD NOW AND DISCOVER:  \n- Find full-time, part-time, temporary, contract, and short-term jobs, with something for everyone. \n- Clear and transparent information on industries, job types, positions, locations, and salary for easy selection. \n- Coverage across multiple industries including accounting, fina",
+    "icon": "/icons/com.jobsdb.png"
+  },
+  "com.jobstreet.jobstreet": {
+    "title": "Jobstreet: Smart job matching",
+    "package": "com.jobstreet.jobstreet",
+    "description": "FIND YOUR NEXT CAREER MOVE WITH JOBSTREET\nJobstreet by SEEK is Asia\u2019s leading job search and career platform, trusted by millions for over 20 years. \n\nExplore thousands of roles across Malaysia, Singapore, the Philippines, and Indonesia. Whether you're starting your career or ready for your next challenge, Jobstreet helps you discover the right fit\u2014smarter, faster, and tailored just for you with AI. \n\nSMARTER CAREER SEARCH WITH AI\nOur advanced AI transforms how you discover meaningful work: \n- Personalized job matches based on your activity and interests \n- Smart matching highlights roles aligned with your skills and career goals \n- Instant alerts for relevant job vacancies and offers you might miss \n\nNever miss a chance to grow your career with the right jobs on Jobstreet. \n\nEFFORTLESS JO",
+    "icon": "/icons/com.jobstreet.jobstreet.png"
+  },
+  "com.jobtoday.app": {
+    "title": "JOB TODAY: Hire & Find Jobs",
+    "package": "com.jobtoday.app",
+    "description": "Find jobs & hire quality candidates for your company fast! With JOB TODAY, you can job search and get alerts for work in retail, hospitality and the service industry. Find work fast and build your career in a single click. Are you an employer hiring for your company? Interview candidates & hire staff right from the app! \n\nJOB TODAY revolutionizes the way candidates find jobs and employers hire staff. It's career recruitment without the paperwork: no lengthy CV, no cover letter and no spending tons of time on your job search. Pretty cool, right?\n\nJOB SEARCH & BUILD YOUR CAREER WITH JOB TODAY:\n1. Find retail jobs, part-time work in hospitality or the service industry while on the go\n2. Career recruitment: candidates apply for jobs & chat with employers instantly\n3. Get job alerts, build your",
+    "icon": "/icons/com.jobtoday.app.webp"
+  },
+  "com.joongly.coloring.kids": {
+    "title": "Easy coloring book for kids",
+    "package": "com.joongly.coloring.kids",
+    "description": "Coloring book for kids and toddlers 2,3,4 or 5 year olds, as well as a drawing pad. Cute drawings among which there are many animals, cars, dinosaurs, space and other coloring pages.\n\nMany kids games not only attract the attention of the child, but also have a great impact on the education and development of the toddler. Especially if this is a drawing application or coloring (drawing) for kids. By creating drawings and coloring pictures, kindergarten kids not only develop fine motor skills, which affects the development of thinking, but also learn a lot about our world by studying the shapes and colors of different objects through drawing. This coloring book for kids contains a large number of attractive drawings for kids.\n\nKids coloring pages that you will find:\n- Farm animals coloring\n-",
+    "icon": "/icons/com.joongly.coloring.kids.png"
+  },
+  "com.joongly.kids.coloring": {
+    "title": "Easy coloring pages for kids",
+    "package": "com.joongly.kids.coloring",
+    "description": "Coloring book for kids and toddlers aged 2 years and older. Learning games for kids entertains the child, and help them with education and learning. Especially if this is coloring or drawing game. Coloring game is suitable for both girls and boys. By drawing and coloring pages your child is learning and develop fine motor skills and wrist, which affects the intellection, and learning this world getting acquainted with the shapes of various objects. \n\nMore than 130+ coloring pages wait for kids in this drawing game!\n\nAll coloring pages are separated into 8 packs:\n- Animals coloring\n- Wild animals pages\n- Cars coloring pages\n- Dinosaurs pages\n- Undersea coloring pages\n- Professions pages\n- Creatures pages\n- Food coloring book\n\nFor convenience, the coloring book is made in such a way that the",
+    "icon": "/icons/com.joongly.kids.coloring.png"
+  },
+  "com.joongly.kids.learning.games": {
+    "title": "Easy games for kids 2,3,4 year",
+    "package": "com.joongly.kids.learning.games",
+    "description": "15 easy games for toddlers and babies 1-5 years olds.\nToday kids start playing with phones and tablets early. Especially when they are not in kindergarten but at home. Therefore, it is very important that they spend time in kid's games, which not only bring a lot of fun but also have educational and learning benefits. In our learning games for toddlers, your kid will learn a lot of new and interesting things. This app contains baby games where your child will learn simple shapes and match them.\nIn our preschool app there are also games for kids in which toddlers learn to draw by tracing in an interactive sea adventure. Our kids games train your babies memory in the famous \"memo\" game, cool for boys and girls. Kids car games await your children. Your baby can choose its cutest car from a se",
+    "icon": "/icons/com.joongly.kids.learning.games.png"
+  },
+  "com.jora.android": {
+    "title": "Jora Jobs - Job, Employment",
+    "package": "com.jora.android",
+    "description": "Jora: Transform Your Job Search Experience into Success\n\nEmbark on your job search journey with Jora, the leading job search engine in Australia and New Zealand. With Jora, diving into the vast world of employment opportunities becomes effortless. Boasting over 400,000 job listings, Jora is your gateway to uncovering countless job prospects. Whether it's part-time, full-time, or freelance work you seek, Jora\u2019s job search functionalities bring you closer to your ideal employment scenario. Make Jora your preferred job search partner and navigate through the employment landscape with unmatched ease.\n\nUnrivalled Job Search Engine for Every Job Seeker:\n- Expansive Job Listings: Jora\u2019s job search engine simplifies your job search by aggregating an extensive range of employment opportunities from",
+    "icon": "/icons/com.jora.android.png"
+  },
+  "com.josef.electrodrumpadnew": {
+    "title": "Real Electro Drum Pad: Hip Hop",
+    "package": "com.josef.electrodrumpadnew",
+    "description": "Drum Machine Pad: Your Ultimate Beat Maker Studio and Recorder!\nAre you ready to take your music production to the next level? Look no further than the Real Electro Drum Pad! Whether you're an aspiring musician or a seasoned pro, our Drum Machine Pad is designed to meet all your drumming needs. Create mesmerizing beats, record your sessions, and become a maestro with an amazing Drum Game.\ud83d\udd0a\u2b50\n\nUnlock your musical potential with Drum Machine Pad, the top-rated Beat Maker Studio, and Recorder, which lets you craft your unique sound effortlessly.\n\n\ud83c\udfb5 Key Features of Real Electro Drum Pad:\ud83c\udfb5\n\ud83d\udd09Amazing Drum Machine Pad;\n\ud83d\udd09Beats Studio Game For All;\n\ud83d\udd09Create Songs With Drum Sets;\n\ud83d\udd09Percussion Beatmaker;\n\ud83d\udd09Powerful Make Your Own Music App!\n\n\ud83c\udfa7 Drum Machine Pad:\nDive into the world of electronic music with ",
+    "icon": "/icons/com.josef.electrodrumpadnew.png"
+  },
+  "com.journable.app": {
+    "title": "Journable \u2014 AI Calorie Counter",
+    "package": "com.journable.app",
+    "description": "Welcome to Journable, the AI calorie counter that makes tracking your diet and exercise as easy as having a conversation.\n\nPowered by advanced AI, Journable lets you log meals and exercise through a simple chat interface with text or photos. It is designed for speed and simplicity, and adds a personal touch to your health journey.\n\n\nDownload Journable today and chat your way to health & fitness.\n\n\nWhy choose Journable?\n\n\ud83d\udcac Chat to Track: Say goodbye to traditional calorie counter apps. Just text our AI about your meals and exercise, and it will count the calories and macros for you.\n\n\ud83d\udcf7 Photo Tracking: Simply snap a photo of your meal \u2014 our AI instantly estimates portion size, calories, and macros, for each ingredient.\n\n\ud83c\udf4f Complete Nutrition: Track not just calories and macros, but also micro",
+    "icon": "/icons/com.journable.app.png"
+  },
+  "me.nextplus.smsfreetext.phonecalls": {
+    "title": "Nextplus: Phone # Text + Call",
+    "package": "me.nextplus.smsfreetext.phonecalls",
+    "description": "Nextplus provides complete phone service packed into an app that\u2019s free to download and fun to use!\n\nCalling anyone is now FREE just like text!  Sure you can pay for a phone plan but why not use Nextplus - the phone company that makes calling and texting FREE?\n\nYOUR NEXT PHONE COMPANY IS AN APP\n- Receive a Free phone number\n- Send and receive unlimited Free text messages with anyone\n- Free unlimited incoming and outgoing calls to any phone number\n- Toll-free calling from anywhere in the world with no restrictions!\n- NO contracts, NO commitments, NO phone purchase, and NO hidden fees\n- Compatible with all of your Android devices (phones and tablets)\n- No cellular service required\n- Fun and social features\n\nHOW IT WORKS\nUnlike other app-2-app messengers we let you call and text ANY phone num",
+    "icon": "/icons/me.nextplus.smsfreetext.phonecalls.jpg"
+  },
+  "com.joycastle.mergematch": {
+    "title": "Matching Story - Puzzle Games",
+    "package": "com.joycastle.mergematch",
+    "description": "Step into a magical world of FREE matching games and puzzle games, where match 3 games, story games, tile match, and relaxing puzzle experiences come together! \ud83c\udf38\ud83d\udcd6 Experience the perfect blend of classic match mechanics, immersive story, and creative merge puzzle gameplay in one addictive adventure.\n\nEnjoy one of the best FREE matching games and various puzzle games for adults designed for puzzle lovers! Whether you enjoy matching games for adults, free games for adults, adults matching, or fun match games and match up games, this game delivers everything you love\u2014classic match 3 games fun, rich story, and relaxing progression in one place. \ud83d\udc96 Inspired by popular experiences like travel town and gummy drop match restore, it brings a fresh take on free puzzle games.\n\n\ud83c\udf1f FEATURES \ud83c\udf1f\n \ud83e\udde9 Classic M",
+    "icon": "/icons/com.joycastle.mergematch.png"
+  },
+  "com.joycity.gw": {
+    "title": "Gunship Battle Total Warfare",
+    "package": "com.joycity.gw",
+    "description": "** This game officially supports English.\n\nIncludes random-item purchases\n\nA Modern Military Masterpiece with Over 10+ Million Downloads!\n\n\n\u25b6 REAL-TIME MODERN WARFARE \u25c0\n \u2714 Collect legendary real-world Aircraft Carriers, Jets, and Ships \n \u2714 Devise the ultimate strategy and conquer the battlefield \n \n\u25b6 GEAR UP FOR THE ULTIMATE WAR \u25c0\n \u2714 Expand your territory and military tech\n \u2714 Explore, find treasure, and hunt down enemy forces\n \u2714 Exterminate the powerful enemy fleet, squadrons, and conquer new territory\n \u2714 Experience massive, multiplayer battles in a post apocalypse themed world\n \n\u25b6 COMPETE AND DOMINATE IN ALLIANCE WARS \u25c0\n \u2714 Create or join an Alliance to smash the competition in global warfare\n \u2714 Recruit friends, make allies, and conquer together\n \u2714 City Conquest, Base of Operation, World W",
+    "icon": "/icons/com.joycity.gw.png"
+  },
+  "com.joyjourney.PianoWhiteGo": {
+    "title": "Piano Music Go-EDM Piano Games",
+    "package": "com.joyjourney.PianoWhiteGo",
+    "description": "Piano Music Go! is an amazing piano game that makes music fun! It is an easy music game that everyone can play. Come to challenge yourself while enjoying music.\n We have updated the songs in the game! If you like anime, come and check it out!\n\nHave you ever dreamed of becoming a professional pianist? Have you ever dreamed of playing piano songs like Little Star, F\u00fcr Elise, Canon, or Jingle Bells? Now your dream can come true. Play this music game with friends and family for even more fun.\n\nHow to play:\n- Tap the black tiles following the rhythm of the music to create the melody\n- Don't miss any black tiles, avoid the white ones\n- The game will stop if you miss a black tile or tap on a white tile\n- Collect as many gold and diamonds as you can to unlock new songs\n- For a complete music exper",
+    "icon": "/icons/com.joyjourney.PianoWhiteGo.png"
+  },
+  "com.joytunes.simplyguitar": {
+    "title": "Simply Guitar - Learn Guitar",
+    "package": "com.joytunes.simplyguitar",
+    "description": "Learn to play the guitar at your own pace with step-by-step tutorials, made by world-class music teachers, and receive feedback from the app while you learn to play your favorite songs!\n \nNo experience needed  | For all ages | Works with any guitar\n\n--- Make your musical dreams come true ---\n \n\u2022 Play chords & songs straight away!\n\u2022 Learn step by step with high-quality video lessons\n\u2022 Receive feedback from the app and know when you are playing correctly or need guidance\n\u2022 Learn all the necessary techniques to play the songs you love:       \n      - Guitar fundamentals\n      - Read and play tabs\n      - Playing chords\n      - Chord switching\n      - Strumming techniques \n      - Invaluable tips and tricks for playing correctly\n      - Technique boosting exercises\n\u2022 Track your progress \n\u2022 Lea",
+    "icon": "/icons/com.joytunes.simplyguitar.png"
+  },
+  "com.jsdev.instasize": {
+    "title": "InstaSize: AI Photo Editor",
+    "package": "com.jsdev.instasize",
+    "description": "With over 100 million creators, Instasize is the complete photo editor + resizer made just for you.\n\nEasily edit and resize photos or videos with premium photo filters, presets, and color editing tools. Quickly combine images to make a fun, one-of-a-kind photo collage layout. Resize and crop your photo or video to fit perfectly on any social platform including Instagram, Snapchat, Pinterest, Twitter and more.\n\nFREE PHOTO EDITOR\n\u2022 Instantly make your photos look better with our free photo filters and presets.\n\u2022 Enhance your image with powerful photo editing tools including contrast, exposure, saturation, grain, and clarity.\n\nFILTERS & PRESETS\n\u2022 Over 130 filters for photos and videos makes it easy to add your favorite presets on any image.\n\u2022 From natural look filters to retro aesthetic prese",
+    "icon": "/icons/com.jsdev.instasize.webp"
+  },
+  "com.jsvmsoft.stickynotes": {
+    "title": "Floating Notes",
+    "package": "com.jsvmsoft.stickynotes",
+    "description": "Take notes that keep visible while using other apps. Have all your notes on hand at all times but without interfering with your tasks.\n\n\u00b7 Minimize notes to the edge of the screen as only icons.\n\u00b7 Schedule notes to appear at certain times\n\u00b7 Choose among a lot of icons and colors for your notes\n\u00b7 Change notes transparency\n\u00b7 Add checklists to track your progress while using other apps\n\u00b7 Edit long notes also in full screen\n\u00b7 Turn visibility on or off for watching movies or playing games\n\u00b7 Synchronize your notes across all your Android devices",
+    "icon": "/icons/com.jsvmsoft.stickynotes.png"
+  },
+  "com.jtsniper.game": {
+    "title": "Johnny Trigger - Sniper Game",
+    "package": "com.jtsniper.game",
+    "description": "The next generation of sniper games \ud83c\udfaf\n\nUsually such games make you run after enemies and hide around corners, which feels stressful. Not this time \u2014 sniper games have been modified and advanced.\n\nBad guys can still hit you, but not as easily as before. Now you are a skilled agent who always finds the best spot for a perfect shot.\n\nGreat! Now you are a professional sharpshooter, our warmest congratulations!\n\nThree tips to become the best agent ever.\n\nWatch your ammo \u2014 usually 4 bullets per level, sometimes up to 4 enemies \ud83c\udfaf. The boss needs more than one shot to be defeated.\n\nPrecision is key \u2014 use the scope to line up the perfect shot.\n\nStay sharp \u2014 enemies can run, hide or drive away, and they can defeat you too.\n\nThe breakthrough in sniper games offers distinctive features.\ud83d\udca3\n\n\u2688 Diverse lo",
+    "icon": "/icons/com.jtsniper.game.png"
+  },
+  "com.growvior.tempemail": {
+    "title": "Gomail - Temp Mail",
+    "package": "com.growvior.tempemail",
+    "description": "Gomail gives you disposable temporary email addresses instantly \u2014 no signup, no spam, no personal data required.\n\nCreate a temp mail address in one tap and use it for app signups, website registrations, OTP verification, and online shopping \u2014 without exposing your real inbox.\n\nWhy millions use Gomail:\n- Temporary email address instantly\n- Receive OTPs and verification links in seconds\n- Protect your real inbox from spam forever\n- No registration or personal information needed\n- Emails auto-expire to keep your data private\n\nKey Features:\n\u2714 Instant temp mail address generation\n\u2714 Real-time inbox \u2014 receive emails immediately\n\u2714 One-tap copy email address\n\u2714 Multiple inbox support\n\u2714 Auto-delete after expiry\n\u2714 Extend email life with one tap\n\u2714 Lightweight and fast \u2014 works on all Android devices\n\nPe",
+    "icon": "/icons/com.growvior.tempemail.png"
+  },
+  "com.rahul.ghostmail": {
+    "title": "Temp Mail By Ghostmail.one",
+    "package": "com.rahul.ghostmail",
+    "description": "\ud83d\udee1\ufe0f The Ultimate Privacy Shield for Your Email Identity\nProtect your real email from spam, data breaches, and unwanted tracking with Ghostmail - the most advanced temporary email app available. Create unlimited disposable email addresses instantly, no registration required.\nKey Features Section\n\ud83d\ude80 ADVANCED FEATURES:\n\u2705 Instant Temporary Emails\n\nGenerate unlimited disposable email addresses\nNo signup or personal information required\nWorks with all websites and services\nSelf-destructing emails for maximum privacy\n\n\ud83d\udd12 Military-Grade Security\n\nEnd-to-end encryption for all messages\nAuto-delete functionality prevents data retention\nAnonymous browsing with no tracking\nSecure inbox with password protection\n\n\u26a1 Smart Email Management\n\nReal-time email notifications\nForward emails to your real address (o",
+    "icon": "/icons/com.rahul.ghostmail.png"
+  },
+  "com.waxmoon.ma.gp": {
+    "title": "Multi App: Dual Space",
+    "package": "com.waxmoon.ma.gp",
+    "description": "Try to clone and launch multi games, multi social media in your multiple accounts at the same time.\n\nEach dual space in Multi App is isolated, ensuring no interference between accounts.\nIf you need:\n\u2713 Support multiple logins while ensuring safety and stability\n\u2713 Switch between multiple accounts is easy and fast\n\u2713 Feel free to run your favorite Android apps with strong compatibility\n\u2713 Custom the icons and labels you want, stylized\nChoose Multi App as your app cloner!\n\nMulti App is one of the best phone clones, we are compatible with Android 8 - 15 and most apps on the app store, including WhatsApp, Messenger, Facebook, Line, Telegram, Instagram, Snapchat, Wechat. We also support many popular games like Clash of Clans, eFootball, Mobile Legends. \n\nConvert space to create dual apps on one dev",
+    "icon": "/icons/com.waxmoon.ma.gp.png"
+  },
+  "online.smsvirtual.app": {
+    "title": "SMS Virtual - Receive SMS",
+    "package": "online.smsvirtual.app",
+    "description": "We provide virtual numbers for receiving SMS messages.\n\nWith our service, you can create an account for any service and application. If you have not received an SMS, we will refund your activations to the balance automatically.\n\nGet verification SMS messages for any online service without exposing your personal phone number and protect your privacy.\n\nWhat can you do?\n- Get disposable second number instantly\n- Receive SMS online\n- Easy accounts verification\n- Protect your real number\n- Fair and transparent pricing\n\nHow to use the app?\n\nStep 1: Enter the country and name of the service you need. If there is no service in the list, choose the \u201cany other\u201d option.\n\nStep 2: After selecting country and service, you will see the price per activation and can get the number ( in case you have no fun",
+    "icon": "/icons/online.smsvirtual.app.png"
+  },
+  "com.tempmail": {
+    "title": "Temp Mail - Temporary Email",
+    "package": "com.tempmail",
+    "description": "Using Temp-Mail app, you can instantly generate disposable temporary email address and immediately receive emails, including photos or any other attachments. \n\nForget about revealing your real email to everyone. It causes endless spam, advertising mailings, email hacking, and phishing attempts. Keep your real inbox clean and secure. Temp Mail provides a temporary, anonymous, free, disposable email address in 10minute mail style. \n\n\nWhy use Temp-Mail?\n\n\u25cf\tHide yourself from spam\n\u25cf\tNo registration is required\n\u25cf\tGenerate temporary disposable email\n\u25cf\tProtect your privacy and anonymity by not allowing spam in your personal inbox\n\u25cf\tReceive multiple or single attachment(s) which can be downloaded from email \n\u25cf\tMulti-language \n\u25cf\tEmails are constantly being securely deleted forever\n\n\nWith Temp-Mail ",
+    "icon": "/icons/com.tempmail.png"
+  },
+  "com.excelliance.multiaccounts.b32": {
+    "title": "Multiple Accounts - Assist",
+    "package": "com.excelliance.multiaccounts.b32",
+    "description": "This app is an assistant with \"Multiple Accounts\" to support specific apps.\n\nNote:The app is an assistant for \"Multiple Accounts\", Please install \"Multiple Accounts\" first.",
+    "icon": "/icons/com.excelliance.multiaccounts.b32.png"
+  },
+  "com.jumpgames.rswrb": {
+    "title": "World Robot Boxing",
+    "package": "com.jumpgames.rswrb",
+    "description": "Join Atom, Zeus, Noisy Boy, and many more of your favorite Robots in the battle for supremacy of the WRB universe. This exciting action-fighting Robot Boxing and Brawler brings the heroic storytelling and spectacular action from over 100 years of Robot Fighting on to your mobile device! Top the Leaderboards, claim the Championship title and reign supreme as the Ultimate World Robot Boxing Champion. Win big in Versus Leagues & Global Tournaments. \n\nAchieve greatness in the future of boxing, where gigantic robots pack powerful punches. Unleash your fighting style with Deadly jabs, Uppercuts & Special moves to win world championship belts, collect trophies & knockout friends!\n\nUNLEASH ROBOT TITANS \nTowering over 9 feet tall and weighing over 2000 pounds are your 58 ultimate fighting machines,",
+    "icon": "/icons/com.jumpgames.rswrb.png"
+  },
+  "com.jun.noequipment.workoutathome": {
+    "title": "Workout at Home: No Equipment",
+    "package": "com.jun.noequipment.workoutathome",
+    "description": "Achieve your fitness goals from the comfort of your home with the Home Workout - No Equipment app! Designed for all fitness levels, this app provides a variety of easy-to-follow workout routines that require no equipment, making it the perfect solution for staying fit and healthy without the need for a gym.\n\n\u2b50 Features \u2b50\n* Customize your workout reminders\n* Lose weight with a personal trainer \n* Warm-up and stretching routines\n* Records training progress automatically\n* The chart tracks your weight trends\n\n Bodyweight Workouts\nNo equipment? No problem! Our app offers effective, science-backed bodyweight exercises that target every muscle group. From fat-burning cardio sessions to muscle-toning strength workouts, you'll find routines for full-body fitness.\n\nShort, Effective Workouts\nBusy sc",
+    "icon": "/icons/com.jun.noequipment.workoutathome.png"
+  },
+  "com.junesoftware.maskgun": {
+    "title": "MaskGun: FPS Shooting Gun Game",
+    "package": "com.junesoftware.maskgun",
+    "description": "Join the FPS PVP shooting game with 40+ weapon customizations, awesome maps, custom characters and brand-new 1v1 mode. \nMaskGun is a real-time free online PVP FPS shooting game built for all mobile devices . Take the challenge, upgrade your characters, invite your friends who love gun games with easy controls and auto-shooting.\nChoose from a range of different characters like gangsters, secret agents, snipers, mobile legends, etc. You are in complete control in this fps gun game. Go on a rampage, combat with your friends with mad pistols and weapons upgrades unique to the modern combat warfare setting. We add new maps all the time - it is your call of duty to fight and protect your squad. Be a shooter, be a leader!\nIn MaskGun you can play tactical 5v5 shooting games such as team deathmatch",
+    "icon": "/icons/com.junesoftware.maskgun.webp"
+  },
+  "com.lemon.ccpadpro": {
+    "title": "CapCut Pad",
+    "package": "com.lemon.ccpadpro",
+    "description": "Try out CapCut Pad version! \nCapCut Pad brings desktop-level editing power to your fingertips. Enjoy precise multi-track timeline editing, smooth performance, and a creative workspace designed for touch.\nCapCut offers easy-to-use video and photo editing tools, a wide range of in-app fonts and effects, and powerful features like keyframe animation, smooth slow motion, chroma key, and video stabilization\u2014everything you need to capture and refine your moments.\nCreate high-quality videos with other unique features: auto captions, text-to-speech, motion tracking, and background removal. Show your personality and go viral on TikTok, YouTube, Instagram, WhatsApp, and Facebook!\n\nFEATURES\nBasic Video Editing \n\u2022 Trim and shorten clips, and split or merge videos.\n\u2022 Adjust video speed from 0.1x to 100",
+    "icon": "/icons/com.lemon.ccpadpro.jpg"
+  },
+  "com.just4funtools.fakecallpro.incomingcallsimulator": {
+    "title": "Fake Call - Calling Simulator",
+    "package": "com.just4funtools.fakecallpro.incomingcallsimulator",
+    "description": "This useful tool will let you set a fake incoming phone calls on your phone. Incoming call simulation will look very realistic and you will be able to adjust the appearance and behaviour of the calling screen in your own way. After the fake call appears on screen, you can answer or reject the call, just like during a real telephone call.\n\nYou can set each fake phone call according to your own preferences:\n\u2b50 set the fake phone number, name and photo of calling person or get caller information from your phonebook\n\u2b50 choose ringtone sound\n\u2b50 select the audio (e.g. fake conversation) to be played after you answer the prank call. You can choose from existing audio files, record your own or don't play any sound at all.\n\u2b50 turn on/off vibration when calling\n\nFake incoming call can appear in differen",
+    "icon": "/icons/com.just4funtools.fakecallpro.incomingcallsimulator.png"
+  },
+  "com.ig.water.flow": {
+    "title": "Color Blast Shooter",
+    "package": "com.ig.water.flow",
+    "description": "\"Welcome to Color Blast Shooter, the ultimate color shooter experience for players who love relaxing puzzle action and satisfying visuals.\n\nIn Color Blast Shooter, your mission is simple: tap to shoot, match the colors, and trigger vibrant explosions across the board. Every level in Color Blast Shooter is designed to deliver smooth animations, addictive gameplay, and rewarding chain reactions. If you are looking for a fun and casual color shooter, this is the perfect game to play anytime.\n\nAs a creative color shooter, the game blends simple tap mechanics with light strategy. Each stage in Color Blast Shooter challenges you to plan your moves, clear tricky layouts, and create powerful combos. Watch blocks disappear in a satisfying burst as you master every challenge this color shooter offer",
+    "icon": "/icons/com.ig.water.flow.png"
+  },
+  "com.horus.cube.flow.color.sort.puzzle": {
+    "title": "Flow Color: Pixel Puzzle",
+    "package": "com.horus.cube.flow.color.sort.puzzle",
+    "description": "Welcome to a vibrant world of blocks and colors in Flow Color: Pixel Puzzle, the new relaxing puzzle game with satisfying explosions! With simple controls and challenging levels, it\u2019s a game that\u2019s easy to pick up and hard to put down. If you\u2019re looking for a fun way to unwind without any timers or pressure, you\u2019ve found your new favorite game. \n\nFEATURES:\n\ud83d\udca5 Relaxing, Stress-Free Gameplay: Play at your own pace. There are no timers, so you can focus on strategy, not speed.\n\ud83d\udca5 Simple One-Touch Control: A simple pixel tap is all you need to aim and shoot. It\u2019s incredibly easy to learn!\n\ud83d\udca5 Vibrant Graphics & Effects: Enjoy the bright, colorful flow of the game and the super satisfying blast block animations when you make a match.\n\ud83d\udca5 Hundreds of Levels: With hundreds of levels and regular updates",
+    "icon": "/icons/com.horus.cube.flow.color.sort.puzzle.png"
+  },
+  "com.horus.cat.blast.block": {
+    "title": "Cat Blast Blocks",
+    "package": "com.horus.cat.blast.block",
+    "description": "Immerse yourself in Cat Blast Blocks, a satisfying blend of color-matching strategy and pixel-blasting fun! This is not just a pixel game; it is a brain-teasing puzzle adventure designed to sharpen your logic while providing a relaxing escape!\n\n\ud83c\udf1f KEY FEATURES:\n- Strategic Puzzle Gameplay: Experience a unique twist on block puzzles. It\u2019s not just about speed; it\u2019s about planning. Master the flow of blocks and execute the perfect clearing sequence.\n- Vibrant Pixel Art: Dive into a visually stunning world filled with colorful pixel flows and satisfying explosion effects that make every match feel rewarding.\n- Stress-Free & Timer-Free: Play at your own pace. Enjoy a relaxing gaming environment with no time limits, allowing you to focus purely on your strategy and puzzle-solving skills.\n- Offli",
+    "icon": "/icons/com.horus.cat.blast.block.png"
+  },
+  "com.game.block.shooter": {
+    "title": "Color Blast: Block Shooter",
+    "package": "com.game.block.shooter",
+    "description": "\ud83e\udde9 Welcome to Color Blast, the most satisfying colorful block puzzle ever! \nTap & blast matching colorful blocks, watch them explode in smooth motion, and enjoy the relaxing ASMR sounds of each color shoot in this stunning pixel shooter experience.\nIn this fun color puzzle, every tap lets you shoot the blocks, create big chain reaction explosions, and clear tricky conveyor puzzle boards. Use smart moves and enjoy exciting pixel blast bursts to beat every block shooter level. It\u2019s a relaxing mix of color shooter action, satisfying smash moments, and light brain teaser gameplay - great for simple brain training. And as a real offline game, you can play this anytime, anywhere.\n\ud83c\udfa8 How to Play:\nTap to shoot and blast matching blocks : Use your cannon to hit pixel blocks and watch them explode int",
+    "icon": "/icons/com.game.block.shooter.png"
+  },
+  "com.color.blast.shooter": {
+    "title": "Color Blast Shooter",
+    "package": "com.color.blast.shooter",
+    "description": "Color Blast Shooter is a fun and relaxing shooter game designed for quick play and smooth visual flow. With simple one-tap controls, this color shooter is easy to start and perfect for short breaks or long sessions.\n\nIn Color Blast Shooter, you shoot colorful energy into a moving grid of color pixel blocks. Each shot must match the correct Color to break blocks and keep the color flow going. When colors connect in the right order, the screen clears in a smooth and satisfying pixel flow.\n\nThe gameplay is simple, but timing is key. You need to think ahead, choose the right moment, and control your shots carefully. A wrong move can stop the color flow, while smart decisions create fast clears and smooth motion. This balance makes the shooter experience both relaxing and rewarding.\n\nAs levels ",
+    "icon": "/icons/com.color.blast.shooter.png"
+  },
+  "com.kakarod.bighunter": {
+    "title": "Big Hunter",
+    "package": "com.kakarod.bighunter",
+    "description": "\u25c6 Popular game that achieved 40 million downloads worldwide!\n\nAn intense hunting game of starving tribal people!\nHunt giant animals from the primitive era!\n\nA long time ago, a primitive tribe lived in a remote village.\nThe people were starving due to the ongoing drought.\nThe tribal leader went out hunting every day to survive.....\n\nBig Hunter is a dynamic physics game that hunts gigantic primeval animals with spear, axe and boomerang. Become the world's best hunter with a variety of weapons!\n\nBig Hunter Features:\n- Easy control with addictive touch of hitting\n- Hunting game based on dynamic physics\n- Simple but outstanding graphic design\n- Rhythmical game sounds\n- An unexpected ending and an impressive story\n- Compete rankings with hunters around the world\n\nBig Hunter supports high resolut",
+    "icon": "/icons/com.kakarod.bighunter.png"
+  },
+  "com.kamagames.blackjack": {
+    "title": "Blackjack 21: Blackjackist",
+    "package": "com.kamagames.blackjack",
+    "description": "Join millions of blackjack players worldwide in this authentic, free-to-play blackjack app! Immerse yourself in the thrilling world of Blackjack 21: Blackjackist, competing with players from around the globe in real time. Whether you're a seasoned blackjack pro or just starting your blackjack journey, our casino offers the perfect platform to enjoy and improve your blackjack skills.\n\nWhy choose Blackjack 21: Blackjackist?\n\nREAL 3D BLACKJACK: Experience the excitement of real blackjack with our cutting-edge graphics and smooth animations. Our blackjack tables are designed to replicate the atmosphere of high-stakes casino blackjack rooms, providing an immersive blackjack experience that keeps you on the edge of your seat.\n\nFREE CHIPS EVERY DAY: Kickstart your black jack adventure with genero",
+    "icon": "/icons/com.kamagames.blackjack.png"
+  },
+  "com.kamagames.pokerist": {
+    "title": "Texas Hold'em Poker: Pokerist",
+    "package": "com.kamagames.pokerist",
+    "description": "Join millions of poker players worldwide in an authentic free-to-play poker app! Immerse yourself in the thrilling world of Texas poker, competing with players from around the globe in real time. Whether you're a seasoned poker pro or just starting your Texas Hold'em poker journey, our casino offers the perfect platform to have fun and improve your poker skills.\n\nWhy choose Pokerist?\n\nFREE CHIPS EVERY DAY: Kickstart your Texas Hold'em poker adventure with generous daily bonuses. Log in every day to receive free poker chips and special rewards that help you stay in the game and enjoy uninterrupted poker action. The more you play, the more poker bonuses you earn.\n\nREAL 3D POKER: Experience the excitement of real poker with our cutting-edge graphics and smooth animations. Our poker tables are",
+    "icon": "/icons/com.kamagames.pokerist.png"
+  },
+  "com.learnlanguagepro.languagelessons.app2024": {
+    "title": "Lingomy: Pro Learn Languages",
+    "package": "com.learnlanguagepro.languagelessons.app2024",
+    "description": "Master Any Language with Our All-New Learning App! \ud83c\udf0d\ud83d\ude80\n\nReady to level up your language skills? Our app makes learning fun, interactive, and personalized\u2014whether you\u2019re a beginner or aiming for fluency. With smart tools, engaging activities, and courses designed by experts, you\u2019ll speak with confidence in no time!\n\n\ud83d\udd25 New Features You\u2019ll Love:\n\n\ud83c\udfaf AI Instructor & Chatbot Tests: Practice real conversations and get instant feedback.\n\n\ud83d\uddc2 Course Structure with Units: Learn step by step through Listening, Speaking, Grammar, Vocabulary, and Reading. Add multiple courses for different languages!\n\n\ud83c\udf00 Spaced Learning Box: Remember words longer with proven repetition techniques.\n\n\ud83c\udccf Flashcards & Vocabulary Tests: Build a strong foundation through interactive practice.\n\n\ud83d\udde3 Daily Conversations: Practice ever",
+    "icon": "/icons/com.learnlanguagepro.languagelessons.app2024.png"
+  },
+  "com.lb4business.cybersphereonline": {
+    "title": "Robot Subdolous Ireful Inbreak",
+    "package": "com.lb4business.cybersphereonline",
+    "description": "Armies of alien robots from another planet nearly defeated us in a war. They attacked us everywhere - on the ground, in the atmosphere and in the cybersphere.\nWe have used extraterrestrial technology to create combat drones, armor for our soldiers, and super-powerful energy and explosive weapons.\nWe fought, studied the enemy and began to win.\n\nMain features:\n\u2605 A lot of powerful arms in the armory.\n\u2605 You can control your hero in twin-stick or third person mode.\n\u2605 Online multiplayer - play with your friends!\n\u2605 Find the right tactics - choose from a variety of minion types to attack, defend or support.\n\u2605 Customization - many characters, weapons and skins are available.\n\u2605 Vivid 3D graphics - the harsh beauty of the world of the future.\n\u2605 Shoot to kill - crazy high-speed gameplay!\n\nGame modes:\n",
+    "icon": "/icons/com.lb4business.cybersphereonline.png"
+  },
+  "com.learnprogramming.codecamp": {
+    "title": "Fibu: Coding for Teens",
+    "package": "com.learnprogramming.codecamp",
+    "description": "Made for teens 13+. Learn to code Python, JavaScript, HTML & CSS by building real games \u2014 not watching boring lectures. \ud83c\udfae\u2728\n\nFibu is the coding app built for your generation. Swipe, tap, play \u2014 and somehow end up shipping real projects. \ud83d\ude0e\n\nWhy teens love Fibu \ud83d\udc9c\n\n\ud83d\udc49 Code in short, snackable challenges (perfect between classes)\n\ud83d\udc49 Build actual games while you learn \u2014 space shooters, basketball, more\n\ud83d\udc49 Earn XP, unlock badges, climb the leaderboard with other teen coders\n\ud83d\udc49 Streaks that actually feel rewarding (say goodbye to boring daily drills)\n\ud83d\udc49 A community of thousands of young coders to learn with\n\nLearn 4 languages, your way \ud83d\udcbb\n\n\ud83e\uddb8 Python \u2014 the #1 beginner language (and the one colleges love)\n\ud83e\uddb8 JavaScript \u2014 build interactive websites and games\n\ud83e\uddb8 HTML & CSS \u2014 design your own pages from scratch\n",
+    "icon": "/icons/com.learnprogramming.codecamp.png"
+  },
+  "com.learnwithhomer.webapp": {
+    "title": "HOMER: Fun Learning For Kids",
+    "package": "com.learnwithhomer.webapp",
+    "description": "\ud83d\udcda Expert-Designed, Kid-Powered, Proven to Build Reading Confidence!\nMeet HOMER\u2014the award-winning learn-to-read app designed to help kids ages 2\u20138 master reading through play. Backed by research and proven results, HOMER\u2019s personalized pathway makes reading fun, effective, and confidence-building.\n\ud83d\ude80 The Essential Learn-to-Read App for Kids\n \ud83e\udde0 Just 15 Minutes a Day = 74% Reading Growth!\nThousands of families and educators trust HOMER to give children a strong start in reading and early learning. With 1,000+ activities\u2014including games, stories, and songs\u2014 kids stay engaged while building the skills they need for school and life.\nWhy Reading Comes First with HOMER\n\u2714 Step-by-step phonics program designed by experts\n \u2714 Letter recognition, sight words, spelling, and vocabulary building\n \u2714 Interac",
+    "icon": "/icons/com.learnwithhomer.webapp.png"
+  },
+  "com.leekandribsgames.planetevolution": {
+    "title": "Planet Evolution: Idle Clicker",
+    "package": "com.leekandribsgames.planetevolution",
+    "description": "Planet Evolution: Idle Clicker is an easy-to-learn, simple and relaxing idle game in which you can decorate and build your own unique planets in different areas of the universe with beautiful objects. Perfect to escape the stressful everyday life for a few minutes or even for a longer time! However, if you want to do more than just relax, Planet Evolution: Idle Clicker lets you expand your strategic thinking and use tactics and flair to compete against other players who also want to get to the top of the real-time leaderboard.\n\nBy simply tapping on the planet, you'll collect valuable coins and, bit by bit, increase the attraction to exciting objects flying around in space. If you're really clever, you'll use multiple fingers to collect coins even more effectively, to get the resources you ",
+    "icon": "/icons/com.leekandribsgames.planetevolution.png"
+  },
+  "com.adobe.connect.android.mobile": {
+    "title": "Adobe Connect",
+    "package": "com.adobe.connect.android.mobile",
+    "description": "Attend meetings, webinars, and virtual classrooms with Adobe Connect. Adobe Connect for Android brings critical meeting capabilities to your mobile device, enabling you to attend meetings directly from your phone or tablet.\n\nThe Adobe Connect application delivers a modern user interface, supports high resolution camera broadcast, and supports both landscape and portrait viewing. Join any Standard View or Enhanced Audio/Video Experience enabled meetings.\n\nUse your built-in microphone and speakers, a connected headset, or a Bluetooth device such as wireless earbuds to join meeting audio. Or join a telephone conference if included with the meeting. Participate in video conferencing using your device\u2019s cameras. View high quality PowerPoint\u00ae presentations, whiteboarding, annotations on content,",
+    "icon": "/icons/com.adobe.connect.android.mobile.webp"
+  },
+  "com.lemel.hiddengame": {
+    "title": "Bright Objects\u30fbHidden Objects",
+    "package": "com.lemel.hiddengame",
+    "description": "Bright Objects puzzle is a hidden object game with search and find mechanics. This find and seek brainteaser is designed to help you relax, challenge your mind, and find missing objects at any time of the day. Explore this unique collection of hidden puzzles across thousands of levels. \n\n\ud83c\udfae Why Choose Bright Objects?\n- Over 10000+ free levels with 15 to 150 items to discover.\n- Daily update \u2014 6 new puzzle challenges every day.\n- Use the zoom feature to find it out with ease.\n- Helpful hint highlights hidden pictures and make object search easier.\n- Difficulty levels from 15 to 75 items, ensuring a smooth journey for players of all skill levels.\n- The content is created by a talented team of professionals who are in love with making puzzles and finding hidden objects in pictures;.\n- Play a l",
+    "icon": "/icons/com.lemel.hiddengame.jpg"
+  },
+  "com.levor.liferpgtasks": {
+    "title": "Do It Now: RPG To Do List",
+    "package": "com.levor.liferpgtasks",
+    "description": "Organize your life with Do It Now - fantastical to do list which helps you to add game elements into your everyday tasks, make schedule, add daily reminders and organize your life with built-in skills, characteristics and level ups.\n\n\ud83c\udfae Gamify your things to do (gtd)\nWith our reminders app you will get virtual copy of yourself with be able to track your skills, characteristics and statistics. Every task can be bound to skills and characteristics. When task is performed in real life - your virtual hero will get skills and characteristics increased, gain additional experience (XP) and could level up life.\n\n\ud83e\udde0 Self improvement\nTrack personal growth in different areas with customizable characteristics. Increase your everyday productivity by creating flexible system with skills. Basic sets alread",
+    "icon": "/icons/com.levor.liferpgtasks.png"
+  },
+  "com.liked.livenews": {
+    "title": "Local News: Weather & Breaking",
+    "package": "com.liked.livenews",
+    "description": "Live News: Your Ultimate U.S. News Hub \u2013 Experience the latest in American and global news with Live News. Our platform covers a range of topics including U.S. local updates, business, technology, entertainment, sports, and politics, all through a user-friendly interface for easy navigation.\n\nLive News keeps Americans connected with daily news alerts and updates on key happenings nationwide and globally. Our focus extends beyond international headlines to in-depth coverage of U.S. local stories, reflecting the diverse narratives of American communities. Stay informed about events and weather conditions specific to your U.S. location.\n\nLive News stands out with its customizable features, allowing you to personalize your news feed with American and international news sources. Stay ahead of t",
+    "icon": "/icons/com.liked.livenews.png"
+  },
+  "com.StudioFurukawa.PixelCarRacer": {
+    "title": "Pixel Car Racer",
+    "package": "com.StudioFurukawa.PixelCarRacer",
+    "description": "Pixel Car Racer is the ultimate retro arcade racer, featuring a completely customizable experience! Build your dream garage with limitless car customization! Take your ride to the streets and race your way to the top.\n\n\nFEATURES\n\u2022 Drag and Street Game Modes\n\u2022 Over 100+ Cars!\n\u2022 1000+ Car Parts!\n\u2022 RPG Style Tuning\n\u2022 In-game Livery Designer\n\u2022 Dyno Tuning\n\u2022 100+ Car Liveries\n\u2022 Beautiful pixel art graphics\n\u2022 Burnouts\n\u2022 Realistic Engine System\n\u2022 Manual Gear Shifting\n\u2022 Racing style pedals including clutch!\n\u2022 Japan, Euro, US style Cars/Parts.\n\u2022 Active Community\n\u2022 Cloud Saving\n\u2022 Facebook Login\n\u2022 Updates frequent with new content and features.\n\u2022 Designed for car enthusiasts worldwide \n\n\nPCR website: http://www.pixelcarracer.com/ \nPCR facebook: https://www.facebook.com/PixelCarRacer/\nSTUDIO FURUKAWA ",
+    "icon": "/icons/com.StudioFurukawa.PixelCarRacer.webp"
+  },
+  "com.XaguStudios.LCMPro": {
+    "title": "Live Cycling Manager Pro 2024",
+    "package": "com.XaguStudios.LCMPro",
+    "description": "Live Cycling Manager PRO 2024 is the ultimate cycling manager game.\nSelect or create the club of your dreams and manage each and every aspect! Become the Sports Manager of a professional team and compete against another 40 teams until you reach the top.\nControl all aspects of your club: from training sessions, transfers, staff, registration in races, racer selection and race strategies, to finances and designing your kit. \nHire the best cyclists, trainers, physiologists, mechanics... Control the finances and manage the club of your dreams. Overcome all the setbacks that come your way throughout the season.\nPrepare for grand tours with exclusive training sessions, pre-race training camps, courses for employees, sports equipment and much more.\nImmerse yourself in the experience of participat",
+    "icon": "/icons/com.XaguStudios.LCMPro.png"
+  },
+  "com.TDF.GTM": {
+    "title": "GT Manager",
+    "package": "com.TDF.GTM",
+    "description": "Create your own motorsport team and learn the art of racing.\nCompete head to head online to join the world\u2019s best players\ncompeting in the HYPERCAR category.\n\nCOLLECT 30 OFFICIAL GT RACING CARS\nAcquire cars from the GT4, GT3, GT2 and GTE categories and take your team to the next level and reach the HYPERCAR category!\n\nCOMPETE HEAD TO HEAD ONLINE \nRace in sprint and endurance races over 11 different circuits. Enter weekly and daily 24H and 48H endurance series to earn more rewards and boost your team progression.\n\nMASTER RACE STRATEGIES\nReact quickly to the changing weather and grip conditions to change your tires at the perfect time. Tell your drivers to push when the track is clear ahead, preserve their tires or overtake opponents on track.\n\nUPGRADE YOUR CARS AND REACH THE ELITE LEAGUE\nSi",
+    "icon": "/icons/com.TDF.GTM.jpg"
+  },
+  "com.linegames.sl": {
+    "title": "SMASH LEGENDS : Action Fight",
+    "package": "com.linegames.sl",
+    "description": "Ready to SMASH? Get set, SMASH LEGENDS!\nSMASH LEGENDS is free and fun PvP Action MOBA fight and supports 1v1 clash & Duo fight & 3vs3 & MOBA brawl action on mobile and online.\nPlay SMASH LEGENDS offering solo (1v1, Battle Royal) or with friends (Duo, 3v3, Moba) while creating the \u200b\u200bmost outstanding team in free, fun and co op games. \nSmash your opponents in SMASH LEGENDS on mobile and online, while unlocking and upgrading Legends.\n\nSimple Controls in Free and Fun PvP Action Brawl Fight on Mobile and Online\nAdopt simple slide-and-touch controls to have fun enough on mobile and online! Let\u2019s smash it!\nExperience what SMASH LEGENDS offers on mobile and online; 1v1 & Duo fight & 3v3 & MOBA brawl action with simple controls. \n\nUnique Personalities Legends in free PvP Action Brawl Fight & fun co",
+    "icon": "/icons/com.linegames.sl.png"
+  },
+  "com.muzudre.jump.rope.training.jumprope": {
+    "title": "Jump Rope Training App",
+    "package": "com.muzudre.jump.rope.training.jumprope",
+    "description": "App Title: Jump Rope Training\n\nIf you're looking to push your calorie burning, you should start skipping.\n\nCan't muster the motivation to make it to the gym? Skip it! Jumping rope burns more than 10 calories a minute while strengthening your legs, butt, shoulders, and arms. And it doesn't take long to reap great rewards. You can burn more than 200 calories in two 10-minute sessions each day (1000 calories a week).\n\nJumping rope is also a great way to fit in an effective cardio session when you're on the go\u2014just toss your jump rope in your carry-on! You'll probably feel completely energized after jumping rope too.\n\nTry adding our workout routines to your existing strength plan, or do it alone as a cardio workout. Add a jump rope to high-intensity interval training (HIIT), and you're in for ",
+    "icon": "/icons/com.muzudre.jump.rope.training.jumprope.png"
+  },
+  "com.halfbrick.megajump": {
+    "title": "Mega Jump Halfbrick+",
+    "package": "com.halfbrick.megajump",
+    "description": "Launch into the colourful world of Mega Jump with Redford!\n\nEnter the lively and quirky world of Mega Jump, where Redford, your cheeky and adventurous guide, is ready to take you on a journey like no other. With each leap, you'll find yourself soaring through breathtaking landscapes bursting with color, from lush forests to glittering skies, all animated with captivating sounds and stunning animations. As you help Redford navigate these vibrant realms, collecting coins and dodging obstacles, you'll discover the magic and enchantment of this exciting universe. \n\nWith Redford by your side, you'll meet quirky friends and discover a universe as full of life and excitement as he is.\n\nKey Features:\n- Vibrant Cartoon Graphics: Stunning visuals with hand-painted backgrounds that will keep you hook",
+    "icon": "/icons/com.halfbrick.megajump.png"
+  },
+  "com.star.link.vpn": {
+    "title": "Starlink VPN - Jump Speed",
+    "package": "com.star.link.vpn",
+    "description": "Starlink VPN is a lightweight tool designed for users who prioritize speed and convenience without compromising security. Here are its key features and benefits:\n\nProduct Highlights\nSimple and Efficient\nStarlink VPN focuses on simplicity and ease of use, removing complex settings to provide a fast and secure network connection with minimal effort.\n\nReliable Security\nEquipped with the same advanced encryption technology as the full version, it protects your data from online threats and ensures your browsing, streaming, and other online activities remain private.\n\nFast Connection\nOptimized servers deliver high-speed and efficient connections, ideal for everyday tasks like browsing websites, streaming videos, or accessing geo-restricted content.\n\nUser-Friendly Interface\nDesigned with a clean ",
+    "icon": "/icons/com.star.link.vpn.png"
+  },
+  "com.lingvano.app": {
+    "title": "Lingvano: Sign Language - ASL",
+    "package": "com.lingvano.app",
+    "description": "Join 3 million people and start building bridges by learning ASL with the most popular sign language learning app.\n\nLingvano is the perfect starting point for beginners, with video lessons made by Deaf teachers that can be done anywhere, anytime. You'll start signing in your very first lesson, and can become conversational with just 10 minutes/day of practice!\n\nBite-sized lessons make learning easy\n\u2013 Build your vocabulary and learn grammar in 600+ lessons\n\u2013 Match signs to the correct picture or video with visual lessons\n\u2013 Check in on your signing progress with end of chapter quizzes\n\u2013 Tap the turtle icon to slow down the speed of any video or dialogue\n\nPractice tools make learning stick\n\u2013 Use our trainer to remember more vocabulary, fingerspelling (ABCs), and number signs\n\u2013 Look up any sig",
+    "icon": "/icons/com.lingvano.app.webp"
+  },
+  "com.linkdesks.bubblegames.bubbleshooter": {
+    "title": "Bubble Shooter Genies",
+    "package": "com.linkdesks.bubblegames.bubbleshooter",
+    "description": "Play the most popular bubble shooter game for FREE in Bubble Shooter Genies!\n\n\ud83c\udf08Bubble Shooter Genies is the best relaxing bubble shooter free games without wifi or internet.\n\ud83c\udf08Do you feel bored during a long trip? With over 1045 offline puzzles, Bubble Shooter Genies is your top free game to pass time & relieve anxiety!\n\ud83c\udf08Come and enjoy the fun of matching and popping colorful bubbles in Bubble Shooter Genies!\n\nHOW TO PLAY\n\n\u2713 Match 3 or more same bubbles and pop them.\n\u2713 Blast & pop bubbles to rescue cute baby dragons.\n\u2713 Use boosters to pop bubbles more easily.\n\nFEATURES\n\n\ud83d\udca5Shiny Bubbles & Amazing Burst\n\u2713 New burst effects and cool shooting sounds!\n\u2713 Color Bubble, Fire Bubble, Lightning Bubble... help you pop bubbles easily!\n\n\ud83d\udd90Hundreds of Puzzles\n\u2713 Pass levels to explore more areas like castle",
+    "icon": "/icons/com.linkdesks.bubblegames.bubbleshooter.png"
+  },
+  "com.linuxauthority.screenrecorder": {
+    "title": "Screen Recorder",
+    "package": "com.linuxauthority.screenrecorder",
+    "description": "Screen Recorder for Android\n\nLooking for a reliable and high-quality screen recorder for your Android device? Look no further! Our app allows you to record both system audio and microphone audio, so you can capture everything you need in one place. Plus, with customizable settings, you can choose the resolution, frame rate, and bit rate that works best for you. And with no watermarks, you can be confident that your recordings will be clean and professional.\n\nJoin our beta program and be the first to try out new features and help us create an even better screen recorder.\n\nKey features:\n\u2022 Record screen and audio simultaneously\n\u2022 Record both system (internal) and microphone (external) audio\n\u2022 Floating toolbox for easy access to controls\n\u2022 Shake to stop recording feature\n\u2022 Quick Settings Tile ",
+    "icon": "/icons/com.linuxauthority.screenrecorder.png"
+  },
+  "com.littleengine.wordpal": {
+    "title": "Word Wars - Word Game",
+    "package": "com.littleengine.wordpal",
+    "description": "Your 2024 Brain Booster is here! \n\nMeet the all new Word Wars - 2024! \n\nWord Wars is the ultimate word game to test your word power and find out whether you are better than all your friends in 2024! Are you smart enough to spot the hidden words?\n\nThe more words you make, the bigger your word arsenal becomes! And if you use the bonus tiles smartly, no one can beat you!\n\nThis unique online game is designed for avid word game lovers and new players alike. Time to rediscover your favorite childhood word game!\n\nStrapped for time? Try the mini-board for quick word battles with your friends. What\u2019s more? You will learn new words every day and in no time, you will become a word master. Something to make your 2024 extra special.\n\nNever get tired of waiting on your opponents to play their turn! Play",
+    "icon": "/icons/com.littleengine.wordpal.jpg"
+  },
+  "com.live.videochat.india": {
+    "title": "ZAKZAK Pro - live video chat",
+    "package": "com.live.videochat.india",
+    "description": "ZAKZAK Pro is a video chat app to discover new people and find friends from all over the world. Feel relax to talk to new people and make new friends in chat online here.\n \nZAKZAK Pro video chat app provides a platform where you can discover a lot of talented people and new friends. You can express yourself with cute and fun emojis \ud83d\udc35, and use real-time translation to overcome the language barrier. Join ZAKZAK Pro now!\n \nZAKZAK Pro is awesome because of the following unique features:\n\ud83d\udcf1 Online video chat:\n- Everyone can discover new people from nearby or from all over the world. Feel free to chat and find friends on ZAKZAK Pro\n- You can make video calls with people from various places. Have fun and relax on this social platform\n \n\ud83d\udcac\u00a0Instant messages in video chat and text chat:\n- Have text bu",
+    "icon": "/icons/com.live.videochat.india.png"
+  },
+  "com.avira.vpn": {
+    "title": "Avira Phantom VPN: Fast VPN",
+    "package": "com.avira.vpn",
+    "description": "Stay safe while browsing the web and enjoy anonymous surfing with Avira Phantom VPN \u2013 Now includes 7 days of unlimited traffic with our Premium Trial\n\nAvira Phantom VPN secures your data, anonymizes your surfing, and unblocks ge0-restricted websites. With one click, our private VPN dodges ISP tracking by securing your connection via a fast proxy server. Our VPN technology is the easiest way to enhance your privacy and WiFi security wherever you are.\n\nKey Features of Avira Phantom VPN\n\n\u2b50 Premium Trial \u2014 Enjoy 7 days of unlimited traffic for free\u2713\n\u2b50 Top VPN Service \u2013 Hide your ISP for greater privacy\u2713 \n\u2b50 International VPN \u2013 Bypass geographic restrictions for TV and video streaming\u2713\n\u2b50 Fast VPN \u2013 Browse the web and download files without slowing down \u2713\n\u2b50 Free VPN Subscription \u2013 500MB/Month of ",
+    "icon": "/icons/com.avira.vpn.webp"
+  },
+  "com.mobillium.papara": {
+    "title": "Papara",
+    "package": "com.mobillium.papara",
+    "description": "Fast, simple, affordable and enjoyable financial services are on Papara!\n\nDownload now, open your free account in seconds. Simply deposit money and start using instantly: make your payments, manage your budget, invest and save!\n\nJOIN OVER 23 MILLION PAPARA USERS\n\n\u2192 With Papara Card, spend worldwide and online without debt. \n\u2192 Earn instant Cashback as you spend.\n\u2192 Make money transfers cost-free 24/7.\n\u2192 Receive money to your account from all banks 24/7 with your Papara IBAN. \n\u2192 Simply pay your bills with Papara. Pay simply, track your monthly expenses with graphs! If you wish, place automatic payment orders and save time.\n\u2192 Top up your travel cards in seconds, 24/7.\n\u2192 Discover tailored insurance products simply with Papara Insurance.\n\u2192 Save money freely with a Savings Account. Set goals and ",
+    "icon": "/icons/com.mobillium.papara.png"
+  },
+  "com.tigervpnsoft.org": {
+    "title": "\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u0642\u0648\u06cc \u067e\u0631\u0633\u0631\u0639\u062a Tiger VPN",
+    "package": "com.tigervpnsoft.org",
+    "description": "\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u067e\u0631\u0633\u0631\u0639\u062a \u0642\u0648\u06cc Tiger VPN - \u0627\u0645\u0646\u06cc\u062a \u0628\u0627\u0644\u0627 \u0648 \u0645\u0646\u0627\u0633\u0628 \u0628\u0631\u0627\u06cc \u0647\u0645\u0647 \u0627\u0648\u067e\u0631\u0627\u062a\u0648\u0631\u0647\u0627\n\n\u062a\u0648\u0636\u06cc\u062d\u0627\u062a:\n\n\u0622\u06cc\u0627 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u06cc\u06a9 \u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u0642\u0648\u06cc \u0648 \u067e\u0631\u0633\u0631\u0639\u062a \u0647\u0633\u062a\u06cc\u062f \u06a9\u0647 \u0628\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0627 \u062e\u06cc\u0627\u0644 \u0631\u0627\u062d\u062a \u0648 \u0628\u0627 \u0633\u0631\u0639\u062a \u0628\u0627\u0644\u0627 \u0628\u0647 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0645\u062a\u0635\u0644 \u0634\u0648\u06cc\u062f\u061f \"\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u067e\u0631\u0633\u0631\u0639\u062a \u0642\u0648\u06cc Tiger VPN\" \u062f\u0642\u06cc\u0642\u0627\u064b \u0647\u0645\u0627\u0646 \u0686\u06cc\u0632\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u0622\u0646 \u0647\u0633\u062a\u06cc\u062f! \u0628\u0627 \u0627\u06cc\u0646 \u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u0642\u062f\u0631\u062a\u0645\u0646\u062f\u060c \u0634\u0645\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0647 \u0631\u0627\u062d\u062a\u06cc \u0627\u0632 \u0633\u062f \u0641\u06cc\u0644\u062a\u0631\u0647\u0627 \u0639\u0628\u0648\u0631 \u06a9\u0646\u06cc\u062f \u0648 \u0627\u0632 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0622\u0632\u0627\u062f \u0628\u0647\u0631\u0647\u200c\u0645\u0646\u062f \u0634\u0648\u06cc\u062f.\n\n\n\u0648\u06cc\u0698\u06af\u06cc\u200c\u0647\u0627\u06cc \u0628\u0631\u062c\u0633\u062a\u0647:\n\n\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u0642\u0648\u06cc: \"\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u067e\u0631\u0633\u0631\u0639\u062a \u0642\u0648\u06cc Tiger VPN\" \u0628\u0647 \u0634\u0645\u0627 \u0627\u0645\u06a9\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0628\u0647 \u0631\u0627\u062d\u062a\u06cc \u0648 \u0628\u0627 \u0633\u0631\u0639\u062a \u0628\u0627\u0644\u0627 \u0627\u0632 \u0633\u062f \u0641\u06cc\u0644\u062a\u0631\u0647\u0627 \u0639\u0628\u0648\u0631 \u06a9\u0646\u06cc\u062f \u0648 \u0628\u0647 \u0645\u062d\u062a\u0648\u0627\u06cc \u062f\u0644\u062e\u0648\u0627\u0647 \u062e\u0648\u062f \u062f\u0633\u062a\u0631\u0633\u06cc \u067e\u06cc\u062f\u0627 \u06a9\u0646\u06cc\u062f.\n\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u067e\u0631\u0633\u0631\u0639\u062a \u0642\u0648\u06cc: \u0628\u0627 \u0628\u0647\u0631\u0647\u200c\u06af\u06cc\u0631\u06cc \u0627\u0632 \u0633\u0631\u0648\u0631\u0647\u0627\u06cc \u0642\u062f\u0631\u062a\u0645\u0646\u062f \u0648 \u0628\u0647\u06cc\u0646\u0647\u200c\u0634\u062f\u0647\u060c \u0634\u0645\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0627 \u0633\u0631\u0639\u062a \u0628\u0627\u0644\u0627 \u0628\u0647 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u0645\u062a\u0635\u0644 \u0634\u0648\u06cc\u062f \u0648 \u062a\u062c\u0631\u0628\u0647\u200c\u06cc \u0628\u062f\u0648\u0646 \u0648\u0642\u0641\u0647\u200c\u0627\u06cc \u0631\u0627 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f.\n\u0645\u0646\u0627\u0633\u0628 \u0628\u0631\u0627\u06cc \u0627\u0648\u067e\u0631\u0627\u062a\u0648\u0631\u0647\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646\u0633\u0644\u060c \u0647\u0645\u0631\u0627\u0647 \u0627\u0648\u0644\u060c \u0631\u0627\u06cc\u062a\u0644 \u0648 \u0645\u062e\u0627\u0628\u0631\u0627\u062a: \"\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u067e\u0631\u0633\u0631\u0639\u062a \u0642\u0648\u06cc Tiger VPN\" \u0628\u0627 \u062a",
+    "icon": "/icons/com.tigervpnsoft.org.png"
+  },
+  "com.babr.vpntools": {
+    "title": "\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 Babr \u0633\u0631\u06cc\u0639 \u0648 \u0642\u0648\u06cc",
+    "package": "com.babr.vpntools",
+    "description": "Experience the real internet with Babr VPN, your secure, fast and reliable VPN proxy. With just one touch, you can protect your privacy and enjoy an uninterrupted browsing experience anytime, anywhere.\n\n\u2b50 Why choose Babr VPN?\n\n\u2022 Ultra-fast servers: Enjoy high-speed connections for uninterrupted streaming, gaming and browsing.\n\n\u2022 Secure and private: We protect your data with advanced encryption so no one can track your online activity.\n\n\u2022 One-touch connection: Simple and easy to use - connect instantly with one touch.\n\n\u2022 Unlimited usage: No bandwidth limits. Use the VPN as much as you want.\n\n\u2022 No registration required: Start using Babr VPN right now - no login required, no personal information required.\n\n\ud83d\udd12 Protect your online privacy\n\nBabr VPN protects your internet connection from hackers,",
+    "icon": "/icons/com.babr.vpntools.png"
+  },
+  "com.mousevpn.org": {
+    "title": "\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 \u0642\u0648\u06cc \u067e\u0631\u0633\u0631\u0639\u062a Mouse VPN",
+    "package": "com.mousevpn.org",
+    "description": "\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 (VPN) \u067e\u0631\u0633\u0631\u0639\u062a  \u062c\u062f\u06cc\u062f \u06f2\u06f0\u06f2\u06f3 \u0628\u0631\u0627\u06cc \u0627\u0646\u062f\u0631\u0648\u06cc\u062f\n\n\n\n\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 (VPN) \u0633\u0631\u06cc\u0639 \u0648 \u0642\u0648\u06cc Mouse VPN \u0628\u0627 \u0627\u062a\u0635\u0627\u0644 \u0639\u0627\u0644\u06cc\n\u0641\u06cc\u0644\u062a\u0631 \u0634\u06a9\u0646 (VPN) \u062c\u062f\u06cc\u062f \u0648 \u067e\u0631\u0633\u0631\u0639\u062a Mouse VPN \n\u0641\u06cc\u0644\u062a\u0631\u0634\u06a9\u0646 (VPN) \u067e\u0631\u0633\u0631\u0639\u062a \u062c\u062f\u06cc\u062f \u0628\u0631\u0627\u06cc \u0627\u0646\u062f\u0631\u0648\u06cc\u062f \u0628\u062f\u0648\u0646 \u0646\u06cc\u0627\u0632 \u0628\u0647 \u062b\u0628\u062a \u0646\u0627\u0645\n\n\u0645\u0648\u0631\u062f \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u06cc\u0646 \u0627\u067e\u0631\u0627\u062a\u0648\u0631\u0647\u0627:\n\u0640 \u0628\u0631\u0627\u06cc \u0647\u0645\u0631\u0627\u0647 \u0627\u0648\u0644\n\u0640 \u0628\u0631\u0627\u06cc \u0631\u0627\u06cc\u062a\u0644\n\u0640 \u0628\u0631\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646\u0633\u0644 \n\u0640 \u0628\u0631\u0627\u06cc \u0648\u0627\u06cc \u0641\u0627\u06cc (wifi)\n\u0648 \u2026\n\n\n\u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0633\u0631\u0648\u0631\u0647\u0627\u06cc \u067e\u0631 \u0633\u0631\u0639\u062a \u0648 \u0642\u0648\u06cc \u0627\u06cc\u0646 (vpn) \u0648\u06cc \u067e\u06cc \u0627\u0646 \u0645\u06cc \u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0647 \u0631\u0627\u062d\u062a\u06cc \u0627\u0632 \u0628\u0631\u0646\u0627\u0645\u0647 \u0647\u0627\u06cc \u0631\u0627\u06cc\u062c \u0632\u06cc\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f \u0648 \u0644\u0630\u062a \u0628\u0628\u0631\u06cc\u062f:\n\n\u0628\u0631\u0627\u06cc \u0627\u06cc\u0646\u0633\u062a\u0627\u06af\u0631\u0627\u0645 (Instagram)\n    \u0628\u0631\u0627\u06cc \u0648\u0627\u062a\u0633\u0627\u067e (Whatsapp)\n\u0628\u0631\u0627\u06cc \u062a\u0644\u06af\u0631\u0627\u0645 (Telegram)\n\u0628\u0631\u0627\u06cc \u06cc\u0648\u062a\u06cc\u0648\u0628 (YouTube)\n\u0628\u0631\u0627\u06cc \u067e\u0627\u0628\u062c\u06cc \u0645\u0648\u0628\u0627\u06cc\u0644 (Pubg mobile)\n\n\"Our app utilizes the VPNService to function as a VPN service, which is central to its core functionality. By employing VPNService, we provide users with secure and private access to online resources, reinforcing their online privacy and ",
+    "icon": "/icons/com.mousevpn.org.webp"
+  },
+  "com.liveplaymobile": {
+    "title": "Live Play Bingo: Real Hosts",
+    "package": "com.liveplaymobile",
+    "description": "Join our world of bingo 24 hours a day, 7 days a week for a live-hosted bingo games party that never stops! Meet new people or play bingo with friends from the comfort of your own home & win amazing bingo prizes. We broadcast LIVE bingo games to your phone with LIVE hosts from London & LA! In our rooms you can play bingo at home with friends or make new ones during each round. Get lucky & win - absolutely FREE. Leave the old school bingo live hall behind & play bingo at home as we bring the fun & community of bingo games to your phone. Join our online community to play bingo with friends now! Where will your bingo story take you?\n\nLIVE GAMES & SHOWS 24/7\n- Free-to-play live bingo games shows - broadcasting 24 hours per day!\n- Play 100\u2019s of levels for big bingo wins, bingo games & huge bing",
+    "icon": "/icons/com.liveplaymobile.png"
+  },
+  "com.livescore": {
+    "title": "LiveScore: Live Sports Scores",
+    "package": "com.livescore",
+    "description": "LiveScore keeps you up to date with the latest live sports scores and live sports action. Whether you are looking for scores, goals, fixtures or news, LiveScore is your one-stop destination for top football leagues. From Premier League and UEFA Champions League, to Eredivisie, Serie A, LaLiga and more, LiveScore has it all. Stay on top of the football season with live football scores!\n\nDISCOVER AMERICAN FOOTBALL\nNew to LiveScore is American Football! Whether you're a seasoned fan or new to the game, we've got you covered with real-time game results, stats, and fixtures for your favourite teams and leagues, including the NFL & CFL. Stay updated on the action and follow every touchdown, tackle and triumph.\n\nLIVE NOTIFICATIONS\nGet fast updates to keep track of live sports scores, goals, red c",
+    "icon": "/icons/com.livescore.png"
+  },
+  "com.loadcomplete.fishercat": {
+    "title": "The Fishercat",
+    "package": "com.loadcomplete.fishercat",
+    "description": "\u2605 Become a cat and harpoon fish! \u2605\nYou can use a variety of harpoons and items to maximize your fishing experience. As a cat.\nStart your adventure as a cat now and fish'em all!\n\n=Very Simple Control=\nDrag to aim, and then shoot a harpoon to catch fish in this shooting game.\n=Thrilling Action=\nFollow and hit fish that constantly move, just like fishing in real life. Go fisher, go cats!\n=Hundreds of Rare Fish= \nGo out for fishing and collect over 150 different kinds of fish. \n=Cool Fish Vessels and Seas=\nSet out to sea on an amazing-looking vessel. Dive into the sea and explore the incredible underwater world.\n=Relax on the Peaceful Island=\nRelax and enjoy playing with your kitten friends on your island. Meow!\n=Grow your Aquarium=\nGrow your aquarium with the fish that you've caught and vario",
+    "icon": "/icons/com.loadcomplete.fishercat.png"
+  },
+  "com.proxy.fastnode": {
+    "title": "BOOST VPN - Fast & Secure",
+    "package": "com.proxy.fastnode",
+    "description": "Welcome to BOOST VPN, the starting point of your soaring dreams.\n Whether you're immersed in the enchanting realms of games or in need of a secure and seamless online VPN connection, BOOST VPN provides an unparalleled experience. We are committed to enabling your exploration of the virtual world, allowing you to freely traverse the vastness of the digital landscape with speed and security.\nFast and Stable VPN Nodes \u2013 Wings Through the Clouds\n Our globally distributed VPN servers deliver lightning-fast speed and unwavering stability. Wherever you may be, BOOST VPN ensures a faster and more reliable internet connection, granting you the thrill of smooth gaming, blazing browsing, and uninterrupted streaming.\nPowerful VPN Tools \u2013 Safeguarding Your Digital Footprint\n Protecting your privacy is ",
+    "icon": "/icons/com.proxy.fastnode.png"
+  },
+  "com.loanloancalculator.financecalculator": {
+    "title": "Business Loan Calculator",
+    "package": "com.loanloancalculator.financecalculator",
+    "description": "\ud83d\udcca The Business Loan Calculator is a specialized tool meticulously designed to offer comprehensive and accurate financial calculations for a variety of loan and investment scenarios. This application focuses on delivering precise number crunching capabilities to users who need to understand the financial implications of various loan options and investment decisions. The personal loan app emphasizes user input for calculations, ensuring that the results are tailored to the specific needs and scenarios of each user. \ud83d\udcbc\n\nDetailed Features of the Loan Calculator: \ud83e\uddee\n\n\ud83d\udcb0 Business Loan: This feature allows business owners and financial managers to calculate the repayment details of a business loan. Users can input the loan amount, interest rate, and loan duration. The app then provides a detailed br",
+    "icon": "/icons/com.loanloancalculator.financecalculator.png"
+  },
+  "com.locai.petpartner": {
+    "title": "PetDesk - Pet Health Reminders",
+    "package": "com.locai.petpartner",
+    "description": "Our goal is to help your pets live longer, happier, and healthier lives. PetDesk puts you at the center of your pet\u2019s health needs by seamlessly connecting you with the best pet care professionals near you. Now it\u2019s easy to be the best pet parent you can be.\n\nEffortlessly manage your pet\u2019s health in one place with these indispensable features:\n\nAPPOINTMENTS\nWith our 24/7 appointment request tool, your favorite pet care providers are always just a few taps away.\n\nREMINDERS, MESSAGES AND TO DO\u2019S\nSync reminders and add custom to-do\u2019s to your calendar.\n\nPROVIDERS\nAdd and quickly view your pet care professionals in one place (veterinary clinics, grooming facilities, boarding, pet daycare, and more!).\n\nLOYALTY\nEarn points for every dollar spent at your favorite pet care provider locations.\n\nMEDI",
+    "icon": "/icons/com.locai.petpartner.png"
+  },
+  "com.vivavpn.vpn": {
+    "title": "Viva VPN",
+    "package": "com.vivavpn.vpn",
+    "description": "Viva VPN is a tool designed to provide fast and efficient VPN with servers around the world.\n\nFeatures:\n- Boost internet connection\n- Censorship resistant\n- Using advanced and up to date protocols\n- Multi region servers",
+    "icon": "/icons/com.vivavpn.vpn.png"
+  },
+  "com.local.news.plus": {
+    "title": "Local News - Latest & Smart",
+    "package": "com.local.news.plus",
+    "description": "Local News is a completely personalized content app that lets you follow trending topics locally and globally, provides rich and comprehensive content for your interests.\n\nWhat\u2019s the local news in my area? What about weather or traffic? What important events are happening nearby? Join our community and stay informed with local news near you!\n\nKey Features:\n\u2022 Lastest news from local area\nThis app helps people live safer, more vibrant and truly connected lives. Whether it\u2019s your local sports team, lifestyle tips or headlines \u2013 you can access local, relevant stories with just a tap.\n\n\u2022 For you\n\u2063Read the latest and most popular news articles on politics, crimes, entertainment, business, sports, travel, health, lifestyle... all delivered by top global and national media outlets.\nOur artificial ",
+    "icon": "/icons/com.local.news.plus.png"
+  },
+  "com.lock.appslocker": {
+    "title": "App Lock",
+    "package": "com.lock.appslocker",
+    "description": "Take complete and total control of your digital privacy with App Lock. It's more than just a lock; it's a comprehensive security suite designed to guard every corner of your digital life\u2014from your private messages and photo gallery to your confidential documents and browsing history.\nFinally, you can hand your phone to anyone, worry-free.\n\nUnmatched Application Security \ud83d\udee1\ufe0f\n\u2022Flexible Locking Methods: Secure any app with your choice of a PIN, a unique pattern, or the seamless convenience of your fingerprint.\n\u2022Smart App Discovery: Our system intelligently identifies apps with sensitive data and recommends locking them to ensure your privacy isn't compromised.\n\u2022One-Tap Group Control: Use Quick Groups to lock or unlock all your social, finance, or game apps with a single tap.\n\nBrowse with True ",
+    "icon": "/icons/com.lock.appslocker.png"
+  },
+  "com.logicapp": {
+    "title": "BrainSpot: Brain Training Game",
+    "package": "com.logicapp",
+    "description": "Are you a fan of solving logic puzzles and playing entertaining brain training games, fun thinking games, mind trick games and fun logic games to boost your cognitive skills? Do you find yourself drawn to thought-provoking challenges, intriguing math problems, brain teasers and logical thinking games? Are you ready to put your intellect to the test with a variety of mind-bending memory games for adults and logic puzzles for adults? Dive into our brain training course, now conveniently available on our mobile app! BrainSpot is a popular puzzle game designed to help you sharpen your logical thinking and mental agility.\n\nWe take a unique approach in our engaging brain teasers and logical thinking games, aimed at improving memory and focus. Spending just 15-20 minutes a day on cognitive exerci",
+    "icon": "/icons/com.logicapp.png"
+  },
+  "com.logizap.mytorch.mytorch": {
+    "title": "My Torch LED Flashlight",
+    "package": "com.logizap.mytorch.mytorch",
+    "description": "Need just a little light, or want to light up the whole room? With our new Brightness Control feature, you can fine-tune the flashlight's intensity. (Requires Android 13 or higher).\nMy Torch is a Simple Flashlight app for Android. Intuitive  user interface, easy to use. \nFEATURES\n\u2605 LED Torch\n\u2605 Screen Torch\n\u2605 Send SOS Signal\n\u2605 Send any Morse code\n\u2605 Strobe/Blinking Mode supported - Blinking frequency adjustable\n\u2605 Color Lights\n\u2605 Police Light\n\u2605 NEW: Flashlight Dimmer (Requires Android 13 and up)\n\nTurn your phone camera flashlight or Screen into a torch. Super bright LED flashlight for Android Phones. Simple user interface, elegant design. Illuminates your nights.\nIf your camera does not have a LED flashlight, you can use the phone screen as torch light.",
+    "icon": "/icons/com.logizap.mytorch.mytorch.png"
+  },
+  "com.logmein.gotoconnect": {
+    "title": "GoTo",
+    "package": "com.logmein.gotoconnect",
+    "description": "GoTo is the premier provider of flexible-work software designed to easily help you connect with customers and colleagues. The GoTo mobile app offers a simple, secure and fully integrated phone, messaging, meeting, training and webinar solution that\u2019s ideal for communication and collaboration anytime, anywhere.\n\nOn top of that, get more ways to meet your customers' rising expectations with our multi-channel inbox communication capability through SMS, Webchat and Social Media channels, all in one place.\n\nSimple business communication:\n- Work from anywhere and stay connected with your customers and colleagues\n- Use your personal device without compromising your private phone number\n- Consolidate all your voice, messaging and video communications in one app\n- Take advantage of HD Audio and Vid",
+    "icon": "/icons/com.logmein.gotoconnect.png"
+  },
+  "com.logoquiz.triviagame": {
+    "title": "Logo Quiz - World Trivia Game",
+    "package": "com.logoquiz.triviagame",
+    "description": "Welcome to Logo Quiz - World Trivia Game, the ultimate free logo guessing quiz trivia game in the world!\n\nWith hundreds of levels and thousands of logos and brands to guess, this game is guaranteed to keep you entertained for hours on end. The best part? It's completely free to play!\n\nDownload now and join to our millions of players around the world that already get addicted!\n\nAs you progress through Logo Quiz - World Trivia Game, you'll unlock new levels and challenges that will put your logo knowledge to the test. In 2023, the game is expected to have an even larger roster of logos to guess from, with many new brands from the worlds of entertainment, sports, and food. \n\nThis game is highly addictive and challenging, with new levels and logos being added regularly to keep you on your toes",
+    "icon": "/icons/com.logoquiz.triviagame.png"
+  },
+  "com.loltap.farmland": {
+    "title": "Farm Land - Farming life game",
+    "package": "com.loltap.farmland",
+    "description": "Can you build and manage an entire big farm? Are you ready for country life? \n\nYour quest is simple...seed the fields, harvest them, raise your animal farm, and expand your island to become one of the best farmer boys in one of the best idle farming games\n\n\n\nWelcome to your new free game: Farm Land! Go on adventures, raise animals and expand your Island and golden farm in this fun Farming Simulator!\n\n\ud83c\udf4e Harvest apples, wheat, tomatoes, eggplants, and all your favorite fruits and vegetables\n\ud83d\udc36 Raise a wide variety of adorable pets in your animal farm\n\ud83d\udc2e Milk the cow, sheep, and hens to get milk and eggs\n\ud83d\ude9c Explore a fantastic big farm island filled with special farm adventures and harvesting fun!\n\ud83d\udc20 Catch as many fishes as you can on the coast or in the river\n\ud83d\udcb0 Sell your crops, goods, daily harv",
+    "icon": "/icons/com.loltap.farmland.png"
+  },
+  "com.loop.match3d": {
+    "title": "Match 3D -Matching Puzzle Game",
+    "package": "com.loop.match3d",
+    "description": "Get ready for a new, challenging and original matching pairs brain game.\nYou need to match 3D objects on the ground and pop them all! When you clear a level, you will find new objects to pair. Sort and find all pairs, clear the board and win!\n\nStart searching for hidden object and matching tile pairs - Match 3D is a perfect way to zen relaxing and at the same time testing your memory and mind skills.\n\nFeatures\n\n\u2728 Shiny 3D visual effects and objects:\nEvery level of Match 3D will give you an enjoyable fun experience of matching 3D tile objects on the screen, every move you make will give you a satisfying 3D effect that will elevate your puzzle game experience. Sorting and matching 3D tiles is really relaxing and will definitely have a calming zen effect!\n\n\ud83e\udde0 Well-designed brain trainer levels",
+    "icon": "/icons/com.loop.match3d.png"
+  },
+  "com.losttemplegames.wordsolitaire": {
+    "title": "Word Solitaire Now!",
+    "package": "com.losttemplegames.wordsolitaire",
+    "description": "Description:\n Word Solitaire Now! blends the calming flow of classic solitaire with the brain-boosting fun of word puzzles \u2014 a modern, addictive game for thinkers and word lovers.\n Arrange word cards, match them to the right categories, and clear the board in as few moves as possible. Every move counts: plan ahead, spot connections, and place each word perfectly.\n Whether you want to unwind or challenge your mind, Word Solitaire Now! delivers a clean, elegant puzzle experience that grows with your skill.\nFeatures:\n- A creative fusion of solitaire + word puzzle gameplay\n- Hundreds of handcrafted levels with rising difficulty\n- Smart logic & vocabulary challenges\n- No time limits \u2014 play at your own pace\n- Satisfying progression for casual and expert players\nReady to test your mind?\n Play Wor",
+    "icon": "/icons/com.losttemplegames.wordsolitaire.png"
+  },
+  "com.loudtalks": {
+    "title": "Zello PTT Walkie Talkie",
+    "package": "com.loudtalks",
+    "description": "Turn your phone or tablet into a walkie talkie with this lightning fast free PTT (Push-To-Talk) radio app. Talk to your contacts privately or join public channels to engage in a hot debate. \n\nZello features:\n\n\u2022 Real-time streaming, high-quality voice\n\u2022 Contacts availability and text status\n\u2022 Public and private channels for up to 6000 users\n\u2022 Option to map hardware PTT (Push-To-Talk) button\n\u2022 Bluetooth headset support (selected phones)\n\u2022 Voice history\n\u2022 Call alert\n\u2022 Images\n\u2022 Push notifications\n\u2022 Live location tracking (available with Zello Work service only)\n\u2022 Works over WiFi, 2G, 3G, or 4G mobile data\n\nZello uses proprietary low-latency push-to-talk protocol and is not interoperable with Voxer, Sprint Direct Connect or AT&T Enhanced PTT. Zello Android client supports free public service, Z",
+    "icon": "/icons/com.loudtalks.png"
+  },
+  "com.ludo.craze.online.superstar.dice.multiplayer": {
+    "title": "Ludo Online Dice Board Game",
+    "package": "com.ludo.craze.online.superstar.dice.multiplayer",
+    "description": "Join the excitement of Ludo Online Dice Board Game! \n\nReady to roll the dice and compete?\n\nThe thrilling Ludo Online Dice Board Game is designed to take you to a world of excitement and entertainment. With live ludo game\u2019s engaging sound effects, and smooth gameplay, you'll feel like you're right in the middle of the actual rivalry. With simple online ludo controls, the multiplayer classic ludo game is fun and easy for everyone to play. \n\nUse exciting india vs pakistan live ludo game Avatar & send funniest GIFs to your classic ludo online game\u2019s friends and opponents during a live ludo match. The India vs Pakistan live online ludo game follows the traditional rules of ludo game, where each player has four tokens that they need to move from the starting point to the home area. Roll the dice",
+    "icon": "/icons/com.ludo.craze.online.superstar.dice.multiplayer.png"
+  },
+  "com.ludo.master.hippo": {
+    "title": "Ludo Master\u2122 - Ludo Board Game",
+    "package": "com.ludo.master.hippo",
+    "description": "\ud83d\udc76\ud83d\udc66\ud83d\udc67\ud83d\udc68\ud83d\udc69\ud83d\udc74\ud83d\udc75\nLudo Master\u2122 is the ludo game played between friends and family. \nPlay the dice game and be the ludo king!\n\n\ud83c\udf1fFeatures of Ludo Master.\ud83c\udf1f\n\u2605 Online/Private Multiplayer Modend \nLudo Master\u2122 is a cross platform multiplayer ludo game played between 2 to 6 players. \nYou can play the ludu game with your friends and family, while also support offline mode, play with  a computer.\n\n\u2605 Enjoyable but also challenging.\nThe gameplay is simple at first and will become immensely challenging once you play with higher level players. \n\n\u2605 Simple rules and easy to play.\n- A token can start to move only if the dice rolled is a 6.\n- The token move clock-wise according to the number of rolled dice.\n- Knocking out other's token will give you an extra chance to roll the dice again.\n- All the tokens must reach ",
+    "icon": "/icons/com.ludo.master.hippo.png"
   }
 }
