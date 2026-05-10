@@ -6,6 +6,7 @@ Caches app metadata + icons on first download, serves templated pages.
 import html as htmlmod
 import json
 import os
+import uuid
 import re
 import logging
 import threading
@@ -39,9 +40,19 @@ def _load_meta():
 
 
 def _save_meta(meta):
-    tmp = META_FILE.with_suffix('.tmp')
-    tmp.write_text(json.dumps(meta, indent=2))
-    tmp.replace(META_FILE)
+    # Unique tmp file per write so concurrent workers don't truncate each other's
+    # in-progress write of the shared `_meta.tmp` (caused recurring "Extra data"
+    # JSON corruption that 500'd /apps).
+    tmp = META_FILE.with_suffix(f'.tmp.{os.getpid()}.{uuid.uuid4().hex}')
+    try:
+        tmp.write_text(json.dumps(meta, indent=2))
+        tmp.replace(META_FILE)
+    finally:
+        if tmp.exists():
+            try:
+                tmp.unlink()
+            except OSError:
+                pass
 
 
 def get_app_meta(pkg):
