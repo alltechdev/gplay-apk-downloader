@@ -76085,5 +76085,652 @@
     "package": "com.garage.labs.revamp.pool.ai.design.landscape",
     "description": "AI Pool Design is the ultimate outdoor design app for creating stunning, personalized pool and backyard transformations.\n\nWhether you're planning a complete pool remodel, designing your dream resort-style oasis, upgrading your patio with luxurious water features, or exploring outdoor living ideas \u2014 our powerful AI makes it fast, easy, and truly inspiring.\n\nSimply upload a photo of your backyard, patio, rooftop, or outdoor space \u2014 and watch it transform into a breathtaking pool design tailored to your style.\n\nVisualize high-end outdoor spaces with pools, lighting, decks, jacuzzis, landscaping, and lounge zones \u2014 all before any real construction begins.\n\nFeatures\n\u2022 AI Pool Transformation in Seconds\nUpload your outdoor photo and instantly see it reimagined with pools, hot tubs, custom decks, ",
     "icon": "/icons/com.garage.labs.revamp.pool.ai.design.landscape.png"
+  },
+  "com.hellotalk.hellospanish": {
+    "title": "Spanish Ai - AI Spanish Tutor",
+    "package": "com.hellotalk.hellospanish",
+    "description": "Spanish Ai is a structured Spanish learning app designed just for you, covering all levels from beginner to advanced (A1\u2013C1). It provides comprehensive courses and learning tools, helping learners efficiently improve listening, speaking, reading, and writing skills through immersive, scenario-based learning\u2014so you can confidently handle real-life language situations.\n\nWhat can Spanish Ai do?\n> AI Real-Time Conversations: Practice speaking like talking to a real person, with instant pronunciation and grammar corrections.\n> Scenario-Based Courses: Covers daily conversations, travel, work, and exam scenarios. Explore a rich topic library tailored to your interests and learning goals.\n> Adaptive Level Learning: Difficulty adjusts intelligently based on your level, doubling learning efficiency.",
+    "icon": "/icons/com.hellotalk.hellospanish.png"
+  },
+  "com.ritn3d.app": {
+    "title": "Ritn3D: AI Floor Plan to 3D",
+    "package": "com.ritn3d.app",
+    "description": "Turn any floor plan into a 3D home model in under 60 seconds \u2014 no CAD skills needed. Ritn3D is the fastest AI floor plan to 3D house design app. Upload a photo of your blueprint, house map, or architectural drawing and get a realistic 3D walkthrough instantly.\n\nUPLOAD \u2192 DETECT \u2192 3D\n1. Upload your floor plan (JPG, PNG, or PDF)\n2. AI detects walls, rooms, doors, and windows automatically\n3. Review, edit, and generate your 3D house model\n\nWHY RITN3D IS DIFFERENT\nMost home design and room planner apps make you draw walls manually. Ritn3D works the other way \u2014 upload your existing floor plan and our AI builds the complete 3D model for you. No manual drafting. No complex tools. Just upload and go.\n\nPerfect for house plans, apartment layouts, villa floor plans, office layouts, real estate marketi",
+    "icon": "/icons/com.ritn3d.app.png"
+  },
+  "drzio.dailyyoga.at.home.yogaforbeginner.howtodoyoga": {
+    "title": "Yoga App for Beginner -AI Yoga",
+    "package": "drzio.dailyyoga.at.home.yogaforbeginner.howtodoyoga",
+    "description": "\u26a1Do you need a virtual personal Yoga coach at home to train you step by step with 3D videos for Free?\u26a1\n\n#\ufe0f\u20e3No.1 YOGA App for all your needs.\ud83e\uddd8\u200d\u2640\ufe0f\nThere can be 3 reasons you must use \"Yoga 360-Yoga for Beginners-Daily Yoga\" App at Home .\nYou love doing Yoga at Home\u2753\nConsistency drives you - Daily Yoga\u2753\nWant to do Yoga at home without equipment\u2753 \n\n\"Yoga 360-Yoga for Beginners-Daily Yoga\ud83e\uddd8\u200d\u2642\ufe0f\" is best for Beginners & a free yoga class app for people who are new to yoga and want to change their life by beginning yoga workouts.\n\"Yoga 360-Yoga for Beginners-Daily Yoga\ud83e\uddd8\u200d\u2640\ufe0f\"  classes teach you basic yoga poses (asanas), yoga workouts (exercises), Pranayama, Yoga Mudras.\n\nWhat else do you need? But we still got you more\ud83d\ude09\nWhy you should follow Yoga 360\u2753\nIt includes\u2026\n\ud83d\udca5Yoga for happiness & self-confiden",
+    "icon": "/icons/drzio.dailyyoga.at.home.yogaforbeginner.howtodoyoga.png"
+  },
+  "com.ryohei.FaceCheck": {
+    "title": "AI Face Diagnosis :FaceChecker",
+    "package": "com.ryohei.FaceCheck",
+    "description": "\u25ceFunction of FaceChecker\nRecognizes the features of each facial part and highlights the unique beauty of each individual.\nPersonalized beauty and fashion suggestions based on facial shape and features.\n\n\u25ceHow to use\n\n(1) Take a picture of your face or select from an album to load a photo of your face.\n2) Follow the instructions to move the lines displayed on the screen to the appropriate position.\n\nLeave everything else to FaceChecker.\n\n\n\n\u25ceDisclaimer\nThis application is intended to highlight the characteristics of each individual and promote a positive perception of appearance. Results are for entertainment purposes only.\nPhotos taken and used with this application will not be saved. Photos taken and used with this application will not be saved and will not be used for any purpose other tha",
+    "icon": "/icons/com.ryohei.FaceCheck.png"
+  },
+  "com.pastlives.app": {
+    "title": "Pastlives",
+    "package": "com.pastlives.app",
+    "description": "PastLives is an app designed to explore the idea of \u200b\u200bpast lives in a reflective and engaging way. Through guided questions, symbolic analysis, and interactive experiences, the app invites you to delve into possible connections with other eras and stories. The aim is to stimulate imagination, curiosity, and self-knowledge, presenting scenarios inspired by different periods of humanity. With an immersive interface and mystical atmosphere, PastLives offers a unique journey that combines narrative, symbolism, and personal reflection. Ideal for those interested in spirituality, history, and the mysteries of the mind, the app provides moments of discovery and interpretation in an intuitive and captivating experience.",
+    "icon": "/icons/com.pastlives.app.png"
+  },
+  "de.mxapplications.android.sqlclient": {
+    "title": "SQL Client",
+    "package": "de.mxapplications.android.sqlclient",
+    "description": "Connect effortlessly to a variety of SQL database servers or open local database files. The following vendors are supported:\n\u2022 Oracle Database\n\u2022 Microsoft SQL Server\n\u2022 Microsoft Azure SQL Database\n\u2022 MySQL\n\u2022 PostgreSQL\n\u2022 Microsoft Access\n\u2022 MariaDB\n\u2022 SQLite\n\u2022 Redis (NoSQL)\n\nWith SQL Client, you can run any SQL statement (Queries, DDL, DML, DCL) supported by your database system and instantly view the results. Enjoy features like code snippets, syntax highlighting, and undo/redo functionality, empowering you to compose SQL statements efficiently.\n\nBut here's where it gets even better: Say goodbye to the hassle of manually crafting SQL code to edit your data. SQL Client enables you to modify values directly within tables, insert new rows, and delete existing ones without touching a single line",
+    "icon": "/icons/de.mxapplications.android.sqlclient.png"
+  },
+  "com.sunny.yoga": {
+    "title": "Yoga - Track Yoga",
+    "package": "com.sunny.yoga",
+    "description": "Yoga is amazing with a lot of benefits. Our mission is to help you inculcate the habit of yoga. Instead of spending huge sums of money for yoga studios, use this app to practice yoga wherever you want, whenever you want.\n\nBegin your journey with us to make yoga a part of your daily life. All yoga classes are tailored by our expert yoga team. They serve your specific needs, whether you'd like to lose weight, gain flexibility, fight depression or get a great workout. \n\nThis yoga app is suitable to many forms of yoga routines like hatha yoga, pranayama, vinyasa yoga, yin yoga, yoga asanas, ashtanga yoga, core yoga, power yoga, iyengar yoga and baba ramdev yoga.\n\n\nBEGINNER IN YOGA?\nYou\u2019re in the right place. Our yoga classes guide you step by step so that you can progress at your own pace. The",
+    "icon": "/icons/com.sunny.yoga.png"
+  },
+  "net.masonapps.seamless": {
+    "title": "Seamless Pattern Designer",
+    "package": "net.masonapps.seamless",
+    "description": "Make wallpaper backgrounds or seamless textures.\n\nFeatures:\nDesign seamless patterns with the easy to use editor.\nExport patterns as PNG, JPEG, or WEBP images.\nImport your own images to use in your project.\nLots of clip art built-in.",
+    "icon": "/icons/net.masonapps.seamless.png"
+  },
+  "com.cotidie.app": {
+    "title": "Cotidie - AI Journal & Diary",
+    "package": "com.cotidie.app",
+    "description": "Your thoughts deserve more than a blank page. Cotidie is the AI-powered journal that listens, understands, and grows with you \u2014 turning everyday reflections into lasting self-discovery.\n\nWhether you write three words or three pages, Cotidie meets you where you are. Express yourself through text, voice, drawings, photos, or stickers \u2014 then let intelligent AI help you uncover what your words truly mean.\n\nAI CHAT COMPANION\nTalk through your thoughts with seven distinct AI personas, each offering a different perspective \u2014 from balanced guidance and deep mentorship to creative dreaming, playful humor, and heartfelt empathy. Like having a thoughtful friend available whenever you need one.\n\nUNDERSTAND YOUR EMOTIONS\nTrack how you feel with 44 nuanced emotions \u2014 far beyond simple \"happy\" or \"sad.\" ",
+    "icon": "/icons/com.cotidie.app.jpg"
+  },
+  "com.Appspain.DogToHumanTranslator": {
+    "title": "Dog to Human Translator",
+    "package": "com.Appspain.DogToHumanTranslator",
+    "description": "Ever wondered what your dog is trying to tell you? Want to know what your Husky, Golden Retriever, or any other breed is thinking? With Human to Dog Translator, you can decode their language in a simple and fun way. Communicate with your best friend like never before!\n\n\ud83d\udc3e Key Features\nInstant Translation\nTurn your dog\u2019s barks into understandable words in real time. Say goodbye to confusion and talk to your pet with ease.\n\nHusky Mode\nAn exclusive mode for Husky owners. Discover what your Husky is truly expressing and build a deeper connection.\n\nBark Games\nStimulate your dog\u2019s mind with fun mini-games. Encourage activity and strengthen your bond.\n\nTranslation Simulator\nExplore how each bark is translated. Learn about different vocalizations and train your ear to better understand your dog.\n\nA",
+    "icon": "/icons/com.Appspain.DogToHumanTranslator.png"
+  },
+  "yogaworkouts.loseweight.dailyyoga": {
+    "title": "YOGA Workout for Weight Loss",
+    "package": "yogaworkouts.loseweight.dailyyoga",
+    "description": "With FREE Yoga app, Lose weight quickly by doing yoga at home with this best yoga exercises for weight loss app! \n\nYoga has many benefits. Yoga improves flexibility in your hamstrings, back, shoulders and hips. Improved flexibility and strength can help prevent injuries and the causes of back pain. Yoga meditation exercises help to focus on your breath and disengage from your thoughts. Yoga is good for relieving stress and helps you relax. Improved balance is one of the most important benefits of yoga.\n\nYoga also helps you lose weight and improves strength. It is the best way to lose weight while getting stronger. Yoga helps shape long, lean muscles in your legs, arms, back, and abdomen. This yoga app provides you different yoga asanas for weight loss. These free, easy and efficient full b",
+    "icon": "/icons/yogaworkouts.loseweight.dailyyoga.png"
+  },
+  "biz.webcreation.mystic": {
+    "title": "Psychic readings - Mystic Q&A",
+    "package": "biz.webcreation.mystic",
+    "description": "Unlock the secrets of your destiny with \"Psychic readings - Mystic Q&A,\" your personal gateway to the spiritual world and customized fortune-telling. Designed as a bridge between our world and the beyond, our app provides direct answers to the questions closest to your heart about your future.\n\nExclusive Features:\n\n- Spiritual Guidance: Ask your questions and receive personalized answers from spirits. Whether you seek to understand your future (Fortune-telling), explore your past, including past lives, or receive messages from departed loved ones (Spiritism), \"Psychic readings - Mystic Q&A\" is here to enlighten you. The predictions will unfold to improve your future.\n\n- Dream Interpretation: Our dreams are messages from beyond, windows opened by spirits to communicate with us. \"Psychic rea",
+    "icon": "/icons/biz.webcreation.mystic.jpg"
+  },
+  "com.ryanghk.healthychecker": {
+    "title": "Mealthy:AI Meal Planner",
+    "package": "com.ryanghk.healthychecker",
+    "description": "App Description\nThis evidence-based nutrition assistant helps you build structured, personalized meal plans tailored to your dietary needs and health goals \u2014 no guesswork, no stress.\nWhether you're focused on sustainable weight management, balanced macronutrient intake, or simply developing consistent healthy eating habits, this app delivers smarter meal planning in seconds.\n\nKEY FEATURES\nAI-Powered Meal Planning\nGenerate fully personalized weekly meal plans instantly, based on your dietary preferences, caloric needs, and nutrition goals.\nNutritionist-Approved Recipes\nExplore a curated library of healthy, balanced recipes designed for real-life cooking \u2014 practical, delicious, and dietitian-friendly.\nSustainable Weight Management\nBuild structured meal plans that support long-term, healthy w",
+    "icon": "/icons/com.ryanghk.healthychecker.jpg"
+  },
+  "com.nailsdesigns.nailartdesigns": {
+    "title": "Nail Art Designs",
+    "package": "com.nailsdesigns.nailartdesigns",
+    "description": "Collection of latest Nail Art Designs. Nail Art is also known as Nail Polish,\nNail Paint or Nail Varnish. More than 100 Nail Art Designs of different styles like flower nail arts, animal designs, and minion style nail arts are included in this collection with step-by-step illustrations to follow for applying them. Most of these Nail Art Designs are simple enough to apply quickly and also suitable for special occasions like Weddings, Parties, and Festivals.\n\nWe have different styles of nail designs like flower nail arts, water marble designs, Glitter designs, and many more\u2026 We have included in this collection step-by-step illustrations to follow for applying them. Most of these Nail Art Designs are simple enough to apply quickly and also suitable for special occasions. \n\n\n* Steps are includ",
+    "icon": "/icons/com.nailsdesigns.nailartdesigns.png"
+  },
+  "com.myfuturebaby.app": {
+    "title": "MyFutureBaby Ai Baby Generator",
+    "package": "com.myfuturebaby.app",
+    "description": "MyFutureBaby is a realistic AI Baby Generator and Future Child Predictor designed to give you a hyper-realistic glimpse into your future family. Using state-of-the-art Artificial Intelligence and facial recognition, our app analyzes the unique traits of both parents to generate a stunningly accurate image of your bundle of joy.\n\nEver wonder what your future baby will look like? Experience the magic of AI!\n\nWhether you are planning a family, looking for a look alike predictor, or just curious for fun, our Future Baby Face Predictor uses advanced biometric blending technology to simulate how genes combine. It is the most detailed Baby Face Generator designed for accuracy and realism.\n\nKey Features & High-Tech Baby Prediction\nAI Baby Face Generator from Photos: Simply upload a clear photo of ",
+    "icon": "/icons/com.myfuturebaby.app.png"
+  },
+  "tech.immex.dreamzar": {
+    "title": "DreamzAR - AI Landscape Design",
+    "package": "tech.immex.dreamzar",
+    "description": "DreamzAR - AI Landscape Design & Garden Planner App\n\nTransform any photo of your yard into professional landscape designs with AI. \n\nOur AI Landscape Design tool lets you visualize your dream garden in seconds. Get front yard landscaping ideas, backyard landscaping ideas, or small yard landscaping ideas instantly.                                                                                                                                                                                                                                                  \n                                                                                                                                                                                                                                                  ",
+    "icon": "/icons/tech.immex.dreamzar.png"
+  },
+  "com.fitsense.ai": {
+    "title": "FitSense AI: AI Fitness Coach",
+    "package": "com.fitsense.ai",
+    "description": "Stop struggling with gym anxiety and complicated trackers. FitSense AI is your all-in-one AI fitness coach and nutrition planner that actually adapts to your life. Missing a workout? Our adaptive workout plan instantly reschedules your week so you never feel behind. Use our smart food logging to snap a photo and track macros in seconds. Whether you need deep fitness analytics or a simple weight loss tracker, FitSense AI brings it all together.",
+    "icon": "/icons/com.fitsense.ai.png"
+  },
+  "com.thirtythreeapps.jackchatbot": {
+    "title": "Jack - AI Boyfriend",
+    "package": "com.thirtythreeapps.jackchatbot",
+    "description": "Welcome to Jack AI Boyfriend, a mobile app where a charming and realistic virtual companion is here to brighten your day. This isn\u2019t just another chatbot \u2013 it\u2019s an engaging, fun, and personalized experience designed to make you feel connected!\n\nWhat\u2019s It All About? Jack AI Boyfriend is built around Jack, a charismatic and lifelike virtual character who adapts to your unique personality and preferences. Whether you're looking for companionship, casual conversations, or emotional support, Jack is here to be your ideal chat partner.\n\nHe\u2019s not just a chatbot; he\u2019s a tailored AI experience built to make you laugh, think, and feel heard.\n\nDive into Endless Conversations The app\u2019s main feature is the chat, where you and Jack can talk about anything under the sun. Whether it\u2019s deep conversations, ",
+    "icon": "/icons/com.thirtythreeapps.jackchatbot.png"
+  },
+  "com.lnguyen503.rehearseinterview": {
+    "title": "Rehearse: AI Interview Prep",
+    "package": "com.lnguyen503.rehearseinterview",
+    "description": "Your next job interview doesn't have to be a panic attack.\n\nMost people walk into interviews underprepared. They rehearse answers in their head, maybe Google \"common interview questions,\" and hope for the best. Then they freeze when the interviewer goes off-script. The only thing that actually works is practicing out loud \u2014 over and over \u2014 until your answers feel natural.\n\nRehearse lets you practice real job interviews with AI interviewers, using your voice, on your phone. Photograph any job posting, upload your resume, and get a personalized interview tailored to that specific role.\n\nHOW IT WORKS\n\n1. Snap a photo of a job posting or paste a URL\n2. Upload your resume (optional \u2014 the AI uses it to personalize questions)\n3. Practice 5 rounds with different AI interviewers \u2014 from phone screen",
+    "icon": "/icons/com.lnguyen503.rehearseinterview.png"
+  },
+  "com.sumoing.recolor": {
+    "title": "Recolor - Art Coloring Pages",
+    "package": "com.sumoing.recolor",
+    "description": "\u2b50 Google Play store editor's official choice \u2b50\n\n\ud83c\udfa8 3 free coloring pages every day, and each is FREE until the next one comes out -  check the Dailies category at 10am, 1pm, 6pm to claim your free pics, collect them all!\n\n\ud83c\udfa8 FREE 7-day Trial. Unlock all 5000 images with No ads. Cancel anytime, any reason. \n\n\ud83c\udfa8 Access over 5000 unique coloring pages! Paint & Relax \n\n\ud83c\udfa8 If you liked the My Coloring Book Free Challenge you will love Recolor coloring Challenges! \n\n\ud83c\udfa8 Import your own photos and drawings, color them and share with Recolor community and also with your friends on social media.\n\n\ud83c\udfa8 Exciting new events and collections every week! Enter free.\n\n\ud83c\udfa8 Color your stress away and become a member of the happiest coloring book community in the world. Join tens of millions of people in the most relax",
+    "icon": "/icons/com.sumoing.recolor.png"
+  },
+  "com.uchad.ai": {
+    "title": "UCHAD AI Looksmax Face Rating",
+    "package": "com.uchad.ai",
+    "description": "UCHAD AI is the ultimate face rating and looksmaxxing app. Powered by advanced AI, it scans your facial shape, rates your attractiveness, and gives you personalized tips to glow up, debloat, and strengthen your jawline.\n\nHow to Use UCHAD AI\n1) Download the app\n2) Take a selfie\n3) Get your AI Face Rater analysis & guide*\n\nUCHAD AI is the definitive tool to become your best self, improve confidence, and transform your looks.\n\nCORE FEATURES\n- AI Face Rating & Face Rater\n- Overall Attractiveness Score (0\u2013100, percentile vs. men your age)\nSub-scores: Jawline, Eyes, Skin, Hair, Aura\n- Potential Score \u2013 see how high you can U Max\n- Chad Tier \u2013 your rank in the UCHAD system\n- Personal Chad Type & Description (TikTok Pretty Boy, Silent Assassin, Brooding Artist, etc.)\n- Boost Tip \u2013 instant action t",
+    "icon": "/icons/com.uchad.ai.webp"
+  },
+  "com.keeweed.pathofadventure": {
+    "title": "Path of Adventure: Text RPG",
+    "package": "com.keeweed.pathofadventure",
+    "description": "PoA 2 is in development! More info on Discord: https://discord.gg/d9p9jCCrzM\n\nText-based Roguelike about traps and treasures, monsters and magic. Get ready to battle monsters, crawl dungeons and hoard treasures! Will you survive the legendary Path of Adventure?\n\n\u2714\ufe0f No ads \n\u2714\ufe0f Play offline \u2708\ufe0f \n\u2714\ufe0f Easy on battery & storage\ufe0f \n\n\ud83d\udcdc Text-based\nThis is a game of words and choices. Take part in a fantasy narrative and decide how you want to act. Will you explore the ancient ruins? When to use magic? And what to buy from the merchant?\n\n\ud83c\udfae Gameplay first\nStill\u2014this is a true game! Inspired by both classic D&D and modern RPG\u2019s, it features:\n- \u2694\ufe0f Turn-based combat\n- \u2728 Procedurally generated dungeons\n- \ud83d\udc80 Permadeath\n- \ud83c\udfb2 Random loot & events\n- \ud83d\udde1\ufe0f Loads of weapons, items and monsters\n- \ud83e\uddd9 6 unique playable c",
+    "icon": "/icons/com.keeweed.pathofadventure.png"
+  },
+  "com.sigun.naturalwrite": {
+    "title": "Natural Write - AI Humanizer",
+    "package": "com.sigun.naturalwrite",
+    "description": "Welcome to Natural Write\u2014the advanced paraphrase and rewording app that helps you rephrase sentences, rewrite paragraphs, and bypass AI detectors, while keeping your text polished and natural.\n\nKey Features\n\n1. Intelligent Paraphrasing & Rewriting\n\nRewrite any sentence, paragraph, or essay in fresh, natural language.\n\nSupported queries that users often search: \u201creword my text\u201d, \u201cparaphrase sentences\u201d, \u201crewrite essay\u201d, \u201chuman-like paraphrase\u201d\n\nMultiple rewrite modes: Light, Balanced, Deep (choose the level of change you need)\n\n2. Built-In AI Detector Check\n\nInstantly detect AI-generated phrasing in your text.\n\nBe one step ahead with \u201cAI detector proofing\u201d and \u201chuman-like authenticity check.\u201d\n\nEdit your output until it passes the detector with just a tap.\n\n3. Bypass & Pass AI Detectors\n\n\u201cByp",
+    "icon": "/icons/com.sigun.naturalwrite.png"
+  },
+  "com.naildesignstudio": {
+    "title": "Nail Design Studio",
+    "package": "com.naildesignstudio",
+    "description": "CREATE BEAUTIFUL NAIL ART & MANICURES!\nDesign, try, and save stylish nails with polish colors, jewels, and trendy patterns.\nTrack your salon visits, save favorite designs, and browse manicure inspiration anytime.\n\nDESIGN YOUR PERFECT MANICURE\nCreate stunning nail designs in minutes:\n- Design nail art freely with an intuitive editor\n- Choose nail shapes and lengths like almond, coffin, square, stiletto, and more\n- Pick from ready-made polish color presets (or create your own combos)\n- Add gorgeous nail polish finishes including glitter, chrome, cat-eye, holo, matte, and more\n- Add jewels/gems/rhinestones for extra sparkle\n- Add nail background images/textures for more realistic looks\n- Apply patterns and color backgrounds for popular nail art styles such as French, ombr\u00e9, minimalist, and bo",
+    "icon": "/icons/com.naildesignstudio.png"
+  },
+  "com.hiddengardens.plantscan": {
+    "title": "PlantScan - Plant Identifier",
+    "package": "com.hiddengardens.plantscan",
+    "description": "PlantScan - AI powered Plant Identification!\n\n\ud83c\udf3f Discover with Precision:\nOur main task is to provide you with the highest identification accuracy. Unleash the power of the latest cutting-edge AI and ML models for accurate plant identification!\n\n\ud83d\udcf8 Double Snap Accuracy:\nOur technology allows you to capture up to two pictures per plant. Coupled with GPS coordinates and time of day, we are able to further enhance identification performance.\n\n\ud83c\udf10 Wide Catalog Reach:\nOur identification catalog covers over 33,000 plant species!\n\n\ud83c\udf31 Professional's Choice:\nTrusted by landscape design experts for its unparalleled accuracy.\n\n\ud83d\udcf2 Simplicity at its Best:\nEnjoy an uncluttered interface for a seamless and user-friendly experience.\n\nElevate your botanical exploration \u2013 download now and embark on a journey of p",
+    "icon": "/icons/com.hiddengardens.plantscan.png"
+  },
+  "com.bluepoch.m.en.reverse1999": {
+    "title": "Reverse: 1999-2.5th Anniv.",
+    "package": "com.bluepoch.m.en.reverse1999",
+    "description": "[Up\u00a0to\u00a0140\u00a0Summons\u00a0for\u00a0Free]\nGlobal\u00a0downloads\u00a0have\u00a0exceeded\u00a015,000,000!\u00a0\n2.5th Anniversary Version!\nNew\u00a0Story\u00a0[Spring Unending]\u00a0is\u00a0available\u00a0now!\nNew\u00a0Dushuo Limited 6-Star\u00a0[Paper Heron\u00a0(Plant)]\u00a0and\u00a06-Star [Cheng Heguang\u00a0(Star)]\u00a0debut!\nComplete\u00a0the Anniversary\u00a0event\u00a0to\u00a0claim\u00a0up to 140\u00a0summons\u00a0for\u00a0free!!\nLog\u00a0in\u00a0during\u00a0the\u00a0event\u00a0to\u00a0get Selectable Artifice, Free Garment and Cut-to-fit Garment!\n\n\nReverse: 1999 is a 20th Century Time-Travel Strategic RPG developed by Bluepoch. \n\nOn the last day of 1999, the \"Storm\" fell upon the world. You witnessed an era reversed beneath the rising raindrops. Defying all reasons, what unfolds in front of you is the world of an era long past.\n\nAs the Timekeeper, observer of eras, you are free to travel through these eras after each \"Storm.\" With the aid of Sone",
+    "icon": "/icons/com.bluepoch.m.en.reverse1999.webp"
+  },
+  "com.yoesuv.sqlsyntax": {
+    "title": "SQL Syntax",
+    "package": "com.yoesuv.sqlsyntax",
+    "description": "Still forgot about SQL syntax? this app can solve your problem. \nwith simple design and great tutorial, you can easily practice by yourself.",
+    "icon": "/icons/com.yoesuv.sqlsyntax.png"
+  },
+  "com.flutterdragon.toefl": {
+    "title": "TOEFL Practice Test 2026",
+    "package": "com.flutterdragon.toefl",
+    "description": "Get ready to succeed on the TOEFL\u00ae exam with TOEFL Exam Practice, your all-in-one study partner for improving English proficiency and achieving top scores. Whether you're preparing for the Reading, Listening, Speaking, or Writing sections, this app provides targeted quizzes, full mock exams, vocabulary flashcards, and progress tracking to help you master each skill with confidence.\n\n\ud83d\udd11 Key Features:\n\ud83d\udcd8 Practice Quizzes \u2013 Strengthen your grammar, vocabulary, and comprehension with section-based practice questions.\n\n\ud83e\udde0 Mock Exams \u2013 Simulate the full TOEFL iBT experience with timed, realistic test formats and instant feedback.\n\n\ud83d\udcda Flashcards \u2013 Learn high-frequency TOEFL words, academic phrases, and writing connectors with curated flashcard decks.\n\n\ud83d\udcc8 Progress Tracking \u2013 Track your improvement acro",
+    "icon": "/icons/com.flutterdragon.toefl.png"
+  },
+  "com.harrym.dbmgr": {
+    "title": "SQL Client - Database Manager",
+    "package": "com.harrym.dbmgr",
+    "description": "Turn your mobile device into a powerful Database Management tool. Whether you are a database administrator, developer, or SQL student, SQL Client allows you to connect to your remote servers and run queries instantly.\n\nKey Features: \n\u2705 Remote Connection: Seamlessly connect to MySQL and SQL Server (MSSQL) databases. \n\u2705 Practice Offline: Includes a built-in SQLite sample database for learning and testing syntax without internet. \n\u2705 Smart Code Editor: Write queries faster with syntax highlighting and auto-completion. \n\u2705 Visualize Data: View query results in clean, scrollable tables. Export data easily. \n\u2705 Safe & Secure: Direct connection to your database server. No middleware involved.\n\nStop needing a laptop for quick database fixes. Perfect for:\n\nChecking database status remotely (MySQL/MSSQ",
+    "icon": "/icons/com.harrym.dbmgr.png"
+  },
+  "com.zxaeclub.creativelogomaker": {
+    "title": "Icon Maker - Advanced Logos 3D",
+    "package": "com.zxaeclub.creativelogomaker",
+    "description": "CREATE A LOGO IN SECONDS\n\u2022 Pick a logo from hundreds of ready-made logo templates\n\u2022 Customize the chosen logo with easy to use graphic design tools\n\u2022 Choose from 100+ beautiful fonts\n\u2022 Congratulations! Your logo is ready to download\n\nREADY MADE & EASY TO USE LOGO TEMPLATES\nLogo Maker has 2500+ ready-made logo designs for businesses in many categories including:\n\u2022 Fashion Logos\n\u2022 Photography Logos\n\u2022 Sports Logos\n\u2022 Yoga Logos\n\u2022 Beauty Logos\n\u2022 Restaurant Logos\n\u2022 Coffee Shop Logos\n\u2022 Barber Logos\n\u2022 Service Logos\n\u2022 Health Logos\n\u2022 Wellness Logos\n\u2022 Salon Logos\n\u2022 Music Logos\n\u2022 Fitness Logos\n\u2022 Real Estate logos\n\u2022 travel Logos\n\u2022 Food Logos\n\u2022 Home Logos\n\u2022 BBQ Team Logos\n\u2022 Running Team Logos\n\u2022 And more..\n\nTHE BEST AND EASIEST APP FOR LOGO DESIGN FOR SMALL AND MEDIUM BUSINESS IS LOGO MAKER.\n\nAN INSTANT ",
+    "icon": "/icons/com.zxaeclub.creativelogomaker.png"
+  },
+  "com.adamlyttleapps.tarotdeckrider": {
+    "title": "Learn Tarot Cards: Rider Waite",
+    "package": "com.adamlyttleapps.tarotdeckrider",
+    "description": "The Rider-Waite tarot deck is one of the most widely used tarot decks in the world. It consists of 78 cards, divided into the Major Arcana and Minor Arcana, each representing traditional tarot symbolism and themes.\n\nLearn Tarot Cards is an educational reference app designed to help users learn tarot card meanings, structures, and common spreads using the Rider-Waite deck. The app is suitable for beginners as well as users who want to deepen their understanding of tarot symbolism.\n\nThe app supports learning and self-reflection by presenting traditional interpretations of tarot cards and example spreads commonly used in tarot practice.\n\nKey features:\n- Educational explanations of all 78 tarot cards\n- Clear separation of Major Arcana and Minor Arcana\n- Traditional tarot card meanings based on",
+    "icon": "/icons/com.adamlyttleapps.tarotdeckrider.png"
+  },
+  "com.zhiyuan.bazi.fortune": {
+    "title": "SkyFortune AI - BaZi & Destiny",
+    "package": "com.zhiyuan.bazi.fortune",
+    "description": "SkyFortune AI: Your Personal BaZi & Astrology Guide\nUnlock the secrets of your life with SkyFortune AI. We combine ancient BaZi (Four Pillars of Destiny) wisdom with advanced AI to provide deep insights into your personality and future trends.\n\n\ud83c\udf1f Key Features:\nPro BaZi Chart: Precise calculation of Five Elements, Ten Gods, and Shas. Supports True Solar Time.\nAI Analysis: Smart interpretation of your career, wealth, and relationship paths.\nLife Trend Chart: Displays fortune scores and overall trends for every 10 years (1 major cycle), every year, and every month.\nDaily Fortune: View your daily fortune score, lucky color, lucky direction, and what to do and avoid.\nLuck Trends: Detailed analysis of your 2026 annual and 10-year luck cycles.\nProfile Manager: Save and manage multiple charts for ",
+    "icon": "/icons/com.zhiyuan.bazi.fortune.png"
+  },
+  "com.e.handmade_patterns": {
+    "title": "Handmade Patterns",
+    "package": "com.e.handmade_patterns",
+    "description": "Handmade patterns is a simple app that allows you to create your beads, tapestry crochet tapestry patterns. It allows you to design any pattern that you want to design like photos and alphabets. With Handmade Patterns you will be able to make all of these things with your smartphone or tablet.\n[ Recommended for such people] :\n- Bead art beginners \n- tapestry makers\n- home decor makers\n- pixels art fans\n[ App Features ] :\n- Easy operations\n- Support many stitches to choose from\n    - Brick stitch\n    - Peyote stitch\n    - Square ( bead &  tapestry crochet \ud83e\uddf6)\n    - Raw ( right angle weave 1)\n- Real drawing tools\n    - pencil\n    - eraser\n    - colors pallet\n    - reopen button to delete totally current design",
+    "icon": "/icons/com.e.handmade_patterns.png"
+  },
+  "com.zenith.zenith_tarot": {
+    "title": "Zenith AI Tarot & Spiritualism",
+    "package": "com.zenith.zenith_tarot",
+    "description": "Zenith AI: Gelece\u011fin Bilgeli\u011fi, Yapay Zekan\u0131n G\u00fcc\u00fcyle Bulu\u015fuyor! \ud83d\udd2e\u2728\n\nZenith AI, kadim spirit\u00fcel \u00f6\u011fretileri en geli\u015fmi\u015f yapay zeka teknolojisiyle birle\u015ftiren kapsaml\u0131 bir ruhsal rehberlik uygulamas\u0131d\u0131r. Klasik uygulamalar\u0131n \u00f6tesine ge\u00e7erek, size \u00f6zel, derinlemesine ve tutarl\u0131 bir spirit\u00fcel yolculuk sunar.\n\nNeden Zenith AI?\n\nGeli\u015fmi\u015f Yapay Zeka (AI Oracle): S\u0131radan metinler yerine, \"Near Pro\" seviyesinde muhakeme yetene\u011fine sahip Gemini 3 Flash altyap\u0131s\u0131n\u0131 kullanarak sorular\u0131n\u0131z\u0131 bir bilge gibi yan\u0131tlar.\n\nKi\u015fiselle\u015ftirilmi\u015f Tarot: Sadece kart se\u00e7meyin; yapay zekan\u0131n do\u011fum haritan\u0131z ve ge\u00e7mi\u015f a\u00e7\u0131l\u0131mlar\u0131n\u0131zla harmanlad\u0131\u011f\u0131 derinlemesine analizlerin tad\u0131n\u0131 \u00e7\u0131kar\u0131n.\n\nDerin R\u00fcya Tabirleri: G\u00f6rd\u00fc\u011f\u00fcn\u00fcz r\u00fcyalar\u0131n sembolizmini, bilin\u00e7alt\u0131n\u0131z\u0131n \u015fifrelerini \u00e7\u00f6zen modern bir yakla\u015f\u0131mla ke\u015ffedin.\n\nProfesy",
+    "icon": "/icons/com.zenith.zenith_tarot.png"
+  },
+  "com.fullstack.aibirdidentifier": {
+    "title": "AI Bird Identifier",
+    "package": "com.fullstack.aibirdidentifier",
+    "description": "AI Bird Identifier is a smart, easy-to-use app that helps you identify any bird in seconds using the power of artificial intelligence. Whether you're a casual bird watcher, nature lover, student, or ornithologist, this app is your perfect companion for discovering and learning about birds.\n\nSimply upload a photo of the bird or describe its visible features, such as red chest, yellow beak, blue wings, or spotted feather,s and let the AI do the rest. You'll get accurate identification along with helpful details about the bird\u2019s species, behavior, and habitat.\n\nKey Features:\n\nAI-Powered Identification: Upload a photo or describe characteristics for quick recognition.\n\nText-Based Search: Describe traits like color, size, beak shape, or patterns to find matching birds.\n\nFast and Reliable: Built",
+    "icon": "/icons/com.fullstack.aibirdidentifier.png"
+  },
+  "com.astrostar.app": {
+    "title": "Horoscope & Daily Astrology",
+    "package": "com.astrostar.app",
+    "description": "Horoscope & Daily Astrology is an astrology app designed to help you explore daily horoscope guidance, birth chart insights, zodiac compatibility, and deeper astrology tools in one place. Whether you want quick daily inspiration or a more detailed look at your chart, the app makes astrology easier to understand and use in everyday life.\nFrom daily, weekly, and monthly horoscope readings to birth chart analysis and advanced divisional charts, Horoscope & Daily Astrology gives you practical astrology insights for love, relationships, career, and personal growth. It is built for both beginners and experienced astrology users who want clear guidance, deeper chart interpretation, and easy access to essential astrology tools.\nKey Features\nDaily Horoscope\nGet personalized daily horoscope insights",
+    "icon": "/icons/com.astrostar.app.png"
+  },
+  "com.skylinklabs.magicswap": {
+    "title": "MagicSwap Photo Editor AI",
+    "package": "com.skylinklabs.magicswap",
+    "description": "MagicSwap AI is a powerful photo editing tool with advanced artificial intelligence (AI) technology, delivering a fast, creative, and professional image editing experience. With its user-friendly interface, the app is suitable for everyone, from content creators to individuals seeking unique personal photo enhancements.\n\nKEY FEATURES\n\nAI Avatars - Personalized Avatar Creation\n- Transform your photos into unique avatars in just three simple steps.\n- Customize your avatars with personal styles, perfect for social media, gaming, or communication platforms.\n\nFaceSwap - Seamless Face Swapping in 3 Seconds\n- Accurate and natural face-swapping technology, completed in just 3 seconds.\n- Ideal for entertainment, memes, or creative content production.\n\nAI Effects - Transform Your Style with AI\n- Add",
+    "icon": "/icons/com.skylinklabs.magicswap.jpg"
+  },
+  "com.fullstack.aisqlquerygenerator": {
+    "title": "AI SQL Query Generator",
+    "package": "com.fullstack.aisqlquerygenerator",
+    "description": "Need help writing SQL queries? AI SQL Query Generator is the ultimate AI-powered tool that helps you create efficient and accurate SQL queries in seconds. Whether you're a beginner or an experienced database professional, this app simplifies the process of writing complex SQL queries for any database system.\n\nSimply describe what you need, and AI SQL Query Generator will generate optimized SQL code instantly. From basic SELECT statements to advanced joins, aggregations, and stored procedures, this tool ensures efficiency and accuracy in database management.\n\nFeatures:\n\nAI-powered SQL query generation for all databases.\n\nSupports SELECT, INSERT, UPDATE, DELETE, JOIN, GROUP BY, and more.\n\nOptimized and well-structured query output.\n\nIdeal for database administrators, developers, and students",
+    "icon": "/icons/com.fullstack.aisqlquerygenerator.png"
+  },
+  "com.fidibo.app": {
+    "title": "\u0641\u06cc\u062f\u06cc\u0628\u0648: \u06a9\u062a\u0627\u0628 \u0635\u0648\u062a\u06cc \u0648 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9",
+    "package": "com.fidibo.app",
+    "description": "\u062f\u0631 \u0627\u0648\u0644\u06cc\u0646 \u062e\u0631\u06cc\u062f \u062e\u0648\u062f \u0627\u0632 \u0641\u06cc\u062f\u06cc\u0628\u0648\u060c \u06f3\u06f0\u066a \u062a\u062e\u0641\u06cc\u0641 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f!\n\n\ud83d\udcda \u0641\u06cc\u062f\u06cc\u0628\u0648 \u0627\u0648\u0644\u06cc\u0646 \u0648 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u06a9\u062a\u0627\u0628 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9 \u0648 \u0635\u0648\u062a\u06cc \u0628\u0631\u0627\u06cc \u0641\u0627\u0631\u0633\u06cc\u200c\u0632\u0628\u0627\u0646\u0627\u0646 \u0633\u0631\u0627\u0633\u0631 \u062f\u0646\u06cc\u0627. \n\n\ud83c\udf1f \u0648\u06cc\u0698\u06af\u06cc\u200c\u0647\u0627\u06cc \u0628\u0631\u062c\u0633\u062a\u0647:\n\u2022 \u0645\u062a\u0646\u0648\u0639 \u062a\u0631\u06cc\u0646  \u0698\u0627\u0646\u0631\u0647\u0627: \u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u0647\u0632\u0627\u0631\u0627\u0646 \u06a9\u062a\u0627\u0628 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9 \u0648 \u0635\u0648\u062a\u06cc\u060c \u0645\u062c\u0644\u0647 \u0648 \u067e\u0627\u062f\u06a9\u0633\u062a \u062f\u0631 \u062f\u0633\u062a\u0647\u200c\u0647\u0627\u06cc \u0645\u062a\u0646\u0648\u0639 \u0645\u0627\u0646\u0646\u062f \u062f\u0627\u0633\u062a\u0627\u0646 \u0648 \u0631\u0645\u0627\u0646\u060c \u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc \u0648 \u062a\u0648\u0633\u0639\u0647 \u0641\u0631\u062f\u06cc\u060c \u0641\u0644\u0633\u0641\u0647\u060c \u062a\u0627\u0631\u06cc\u062e\u060c \u062f\u0631\u0633\u06cc \u0648 \u06a9\u0645\u06a9\u200c\u062f\u0631\u0633\u06cc\u060c \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u06cc\u060c \u0622\u0645\u0648\u0632\u0634\u06cc\u060c \u062c\u0627\u0645\u0639\u0647\u200c\u0634\u0646\u0627\u0633\u06cc \u0648 \u063a\u06cc\u0631\u0647\n\u2022 \u0641\u0631\u0645\u062a\u200c\u0647\u0627\u06cc \u0645\u062a\u0639\u062f\u062f \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0634\u062f\u0647:  EPUB \u0648 PDF \u0648 MP3\n\u2022 \u0641\u06cc\u062f\u06cc\u200c\u067e\u0644\u0627\u0633: \u0627\u0634\u062a\u0631\u0627\u06a9 \u0648\u06cc\u0698\u0647 \u0628\u0631\u0627\u06cc \u062f\u0633\u062a\u0631\u0633\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0628\u0647 \u062f\u0647\u200c\u0647\u0627 \u0647\u0632\u0627\u0631 \u0639\u0646\u0648\u0627\u0646 \u0645\u0646\u062a\u062e\u0628\n\u2022 \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0634\u062e\u0635\u06cc: \u0633\u0627\u062e\u062a \u0642\u0641\u0633\u0647\u200c\u0647\u0627\u06cc \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0648 \u0645\u062f\u06cc\u0631\u06cc\u062a \u0645\u062d\u062a\u0648\u0627\u06cc \u062e\u0648\u062f\n\u2022 \u062a\u062c\u0631\u0628\u0647 \u0645\u0637\u0627\u0644\u0639\u0647 \u0631\u0627\u062d\u062a: \u0627\u0645\u06a9\u0627\u0646 \u062a\u063a\u06cc\u06cc\u0631 \u0641\u0648\u0646\u062a\u060c \u0633\u0627\u06cc\u0632 \u0645\u062a\u0646\u060c \u062d\u0627\u0644\u062a \u0634\u0628 \u0648 \u06cc\u0627\u062f\u062f\u0627\u0634\u062a\u200c\u0628\u0631\u062f\u0627\u0631\u06cc \n\u2022 \u062e\u0648\u0627\u0646\u062f\u0646 \u0628\u062f\u0648\u0646 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a: \u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0647 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u062f\u0627\u0646\u0644\u0648\u062f \u0634\u062f\u0647 \u0628\u0647 \u0635\u0648\u0631\u062a \u0622\u0641\u0644\u0627\u06cc\u0646\n\u2022 \u062c\u0627\u0645\u0639\u0647 \u0641\u06cc\u062f\u06cc\u0628\u0648: \u0627\u0645\u06a9\u0627\u0646 \u062b\u0628\u062a \u0646\u0638\u0631 \u0648 \u0627\u0631\u062a\u0628\u0627\u0637 \u0628\u0627 \u062f\u06cc\u06af\u0631 \u06a9\u062a\u0627\u0628\u062e\u0648\u0627\u0646\u0627\u0646\n\u2022 \u062a\u0627\u0632\u0647\u200c\u0647\u0627\u06cc \u0631\u0648\u0632: \u0627\u0636\u0627\u0641\u0647\u200c\u0634\u062f\u0646 \u0645\u062f\u0627\u0648\u0645 \u0639\u0646\u0627\u0648\u06cc\u0646 \u062c\u062f\u06cc\u062f \u0648 \u0628\u0631\u0648\u0632 ",
+    "icon": "/icons/com.fidibo.app.png"
+  },
+  "com.ketabrah": {
+    "title": "\u06a9\u062a\u0627\u0628\u0631\u0627\u0647: \u06a9\u062a\u0627\u0628 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9 \u0648 \u0635\u0648\u062a\u06cc",
+    "package": "com.ketabrah",
+    "description": "\u0647\u0632\u0627\u0631\u0627\u0646 \u06a9\u062a\u0627\u0628 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9\u060c \u06a9\u062a\u0627\u0628 \u0635\u0648\u062a\u06cc\u060c \u0631\u0645\u0627\u0646 \u0648 \u0645\u062c\u0644\u0647 \u062f\u0631 \u062c\u06cc\u0628 \u0634\u0645\u0627\n\u00bb \u0647\u0632\u0627\u0631\u0627\u0646 \u06a9\u062a\u0627\u0628 \u0645\u062a\u0646\u06cc \u0648 \u0635\u0648\u062a\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646!\n\u00bb \u0647\u0645\u06cc\u0634\u0647 \u0647\u0645\u0631\u0627\u0647 \u0648 \u062f\u0631 \u062f\u0633\u062a\u0631\u0633!\n\u00bb \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u0634\u062e\u0635\u06cc \u062e\u0648\u062f \u0631\u0627 \u0628\u0633\u0627\u0632\u06cc\u062f!\n\u00bb \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u06a9\u0634\u0641 \u06a9\u0646\u06cc\u062f!\n\n\u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u06a9\u062a\u0627\u0628\u0631\u0627\u0647 \u0627\u0645\u06a9\u0627\u0646 \u062f\u0627\u0646\u0644\u0648\u062f \u0642\u0627\u0646\u0648\u0646\u06cc \u0647\u0632\u0627\u0631\u0627\u0646 \u06a9\u062a\u0627\u0628 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9 \u0648 \u06a9\u062a\u0627\u0628 \u0635\u0648\u062a\u06cc\u060c \u0631\u0645\u0627\u0646 \u0648 \u0645\u062c\u0644\u0647 \u0631\u0627 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u0645\u0648\u0628\u0627\u06cc\u0644\u060c \u062a\u0628\u0644\u062a \u0648 \u0631\u0627\u06cc\u0627\u0646\u0647 \u0628\u0631\u0627\u06cc \u0634\u0645\u0627 \u0641\u0631\u0627\u0647\u0645 \u0645\u06cc\u200c\u06a9\u0646\u062f. \u0634\u0645\u0627 \u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u06a9\u062a\u0627\u0628\u0631\u0627\u0647 \u0647\u0645\u06cc\u0634\u0647 \u0648 \u0647\u0645\u0647 \u062c\u0627 \u0628\u0647 \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u062e\u0648\u062f \u062f\u0633\u062a\u0631\u0633\u06cc \u062f\u0627\u0631\u06cc\u062f \u0648 \u0645\u06cc \u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0647 \u0633\u0627\u062f\u06af\u06cc \u0627\u0632 \u0647\u0631 \u0641\u0631\u0635\u062a\u06cc \u0628\u0631\u0627\u06cc \u0645\u0637\u0627\u0644\u0639\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f. \u062f\u0631 \u06a9\u062a\u0627\u0628\u0631\u0627\u0647 \u0628\u0631\u0627\u06cc \u0647\u0645\u0647 \u0633\u0644\u06cc\u0642\u0647\u200c\u0647\u0627 \u0627\u0632 \u062f\u0627\u0633\u062a\u0627\u0646 \u0648 \u0631\u0645\u0627\u0646 \u062a\u0627 \u0631\u0648\u0627\u0646\u0634\u0646\u0627\u0633\u06cc \u0648 \u0639\u0644\u0645\u06cc \u0648... \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc\u06cc \u067e\u06cc\u062f\u0627 \u0645\u06cc \u0634\u0648\u062f.\n\n\u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u06a9\u062a\u0627\u0628\u0631\u0627\u0647 \u0645\u06cc \u062a\u0648\u0627\u0646\u06cc\u062f:\n- \u0647\u0631 \u0631\u0648\u0632 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0631\u0627 \u062f\u0627\u0646\u0644\u0648\u062f \u06a9\u0646\u06cc\u062f.\n- \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u0645\u0648\u0631\u062f \u0639\u0644\u0627\u0642\u0647 \u0631\u0627 \u0628\u0647 \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 \u062e\u0648\u062f \u0627\u0636\u0627\u0641\u0647 \u06a9\u0646\u06cc\u062f.\n- \u0646\u0638\u0631 \u062e\u0648\u062f \u0631\u0627 \u062f\u0631\u0628\u0627\u0631\u0647 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627 \u062b\u0628\u062a \u06a9\u0646\u06cc\u062f.\n- \u062f\u06cc\u062f\u06af\u0627\u0647 \u062f\u06cc\u06af\u0631\u0627\u0646 \u062f\u0631 \u0645\u0648\u0631\u062f \u06a9\u062a\u0627\u0628\u200c\u0647\u0627 \u0631\u0627 \u0628\u062e\u0648\u0627\u0646\u06cc\u062f.",
+    "icon": "/icons/com.ketabrah.webp"
+  },
+  "com.aarp.app": {
+    "title": "AARP Now",
+    "package": "com.aarp.app",
+    "description": "Introducing the new and improved AARP Now, the app that makes your AARP Membership truly mobile. \n\nAARP Now connects AARP Members to personalized news, alerts, events and savings that matter to you\u2014whenever you want them. Download AARP Now and your membership is wherever you are.\n\nMY AARP\n\nThe all-new My AARP includes top stories hand curated by our editorial team, uniquely personalized news, events, benefits, and new ways for you to customize your experience with AARP Now. Plus, videos and the latest digital editions of AARP The Magazine and AARP Bulletin. Easily access your digital membership card, Inbox and My account with one tap from My AARP.\n\nMORE PERSONALIZED THAN EVER\n\nThe new AARP Now personalizes recommendations based on your previous activity. Get more of the content you love on",
+    "icon": "/icons/com.aarp.app.webp"
+  },
+  "com.taghche.books": {
+    "title": "\u0637\u0627\u0642\u0686\u0647\u061b \u06a9\u062a\u0627\u0628 \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9\u06cc \u0648 \u0635\u0648\u062a\u06cc",
+    "package": "com.taghche.books",
+    "description": "* \u062f\u0631 \u0627\u0648\u0644\u06cc\u0646 \u062e\u0631\u06cc\u062f\u062a\u0627\u0646 \u0627\u0632 \u0637\u0627\u0642\u0686\u0647 \u06f5\u06f0 \u062f\u0631\u0635\u062f \u062a\u062e\u0641\u06cc\u0641 \u0628\u06af\u06cc\u0631\u06cc\u062f *\n\n\u0637\u0627\u0642\u0686\u0647 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646\u06cc \u0627\u0633\u062a \u0628\u0631\u0627\u06cc \u0644\u0630\u062a \u0628\u0631\u062f\u0646 \u0627\u0632 \u062e\u0648\u0627\u0646\u062f\u0646 \u0648 \u0634\u0646\u06cc\u062f\u0646 \u06a9\u062a\u0627\u0628. \u062f\u0631 \u0627\u06cc\u0646 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0628\u0647 \u0647\u0632\u0627\u0631\u0627\u0646 \u06a9\u062a\u0627\u0628 \u0645\u062a\u0646\u06cc (\u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9\u06cc)\u060c \u06a9\u062a\u0627\u0628 \u0635\u0648\u062a\u06cc\u060c \u0645\u062c\u0644\u0647 \u0648 \u0631\u0648\u0632\u0646\u0627\u0645\u0647 \u062f\u0633\u062a\u0631\u0633\u06cc \u062f\u0627\u0631\u06cc\u062f. \u0637\u0627\u0642\u0686\u0647 \u0628\u0627 \u0635\u062f\u0647\u0627 \u0646\u0627\u0634\u0631 \u0647\u0645\u06a9\u0627\u0631\u06cc \u0645\u06cc\u200c\u06a9\u0646\u062f \u0648 \u0634\u0645\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u06a9\u062a\u0627\u0628\u200c\u200c\u200c\u200c\u200c\u200c\u0647\u0627\u06cc \u0627\u0644\u06a9\u062a\u0631\u0648\u0646\u06cc\u06a9\u06cc \u0648 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u0635\u0648\u062a\u06cc \u0631\u0627 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0642\u0627\u0646\u0648\u0646\u06cc \u062f\u0627\u0646\u0644\u0648\u062f \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0627\u0645\u06a9\u0627\u0646\u0627\u062a \u0632\u06cc\u0627\u062f\u06cc \u0628\u0631\u0627\u06cc \u062e\u0648\u0627\u0646\u062f\u0646 \u0648 \u0634\u0646\u06cc\u062f\u0646 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627 \u062f\u0627\u0631\u062f. \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u0631\u0648\u06cc \u0645\u062a\u0646\u200c\u0647\u0627 \u0639\u0644\u0627\u0645\u062a\u200c\u200c\u200c\u06af\u0630\u0627\u0631\u06cc \u06a9\u0646\u06cc\u062f (\u0647\u0627\u06cc\u0644\u0627\u06cc\u062a)\u060c \u0627\u0646\u062f\u0627\u0632\u0647 \u0648 \u0646\u0648\u0639 \u0642\u0644\u0645 (\u0641\u0648\u0646\u062a) \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u06cc\u062f \u0648 \u062f\u0631 \u0647\u0631 \u0642\u0633\u0645\u062a\u06cc \u06a9\u0647 \u062f\u0648\u0633\u062a \u062f\u0627\u0634\u062a\u06cc\u062f\u060c \u06cc\u0627\u062f\u062f\u0627\u0634\u062a \u0628\u0646\u0648\u06cc\u0633\u06cc\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u00ab\u0637\u0627\u0642\u0686\u0647 \u0628\u06cc\u200c\u0646\u0647\u0627\u06cc\u062a\u00bb \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u062f\u0631 \u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647\u200c\u0654 \u0639\u0645\u0648\u0645\u06cc \u0637\u0627\u0642\u0686\u0647 \u0639\u0636\u0648 \u0634\u0648\u06cc\u062f \u0648 \u0628\u0627 \u0647\u0632\u06cc\u0646\u0647\u200c\u0654 \u06cc\u06a9 \u06a9\u062a\u0627\u0628\u060c \u0628\u0647 \u062a\u0639\u062f\u0627\u062f \u0632\u06cc\u0627\u062f\u06cc \u0627\u0632 \u06a9\u062a\u0627\u0628\u200c\u0647\u0627\u06cc \u067e\u0631\u0641\u0631\u0648\u0634 \u0637\u0627\u0642\u0686\u0647 \u062f\u0633\u062a\u0631\u0633\u06cc \u067e\u06cc\u062f\u0627 \u06a9\u0646\u06cc\u062f.\n\n\u0628\u0627 \u0627\u067e\u0644\u06cc\u06a9\u06cc\u0634\u0646 \u0637\u0627\u0642\u0686\u0647\u060c \u06a9\u062a\u0627\u0628\u200c\u0647\u0627 \u0647\u0645\u06cc\u0634\u0647 \u0647\u0645\u0631\u0627\u0647\u062a\u0627\u0646 \u0647\u0633\u062a\u0646\u062f \u0648 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u0647\u0645\u06cc\u0634\u0647 \u0648 \u0647\u0645\u0647\u200c\u062c\u0627 \u0628\u062e\u0648\u0627\u0646\u06cc\u062f \u0648 \u0628\u0634\u0646\u0648\u06cc\u062f\u060c \u062d\u062a\u06cc \u0632\u0645\u0627\u0646\u06cc \u06a9\u0647 \u0622\u0646\u0644",
+    "icon": "/icons/com.taghche.books.jpg"
+  },
+  "com.surah.rahman.playwow": {
+    "title": "Surah Rahman Read Listen Mp3",
+    "package": "com.surah.rahman.playwow",
+    "description": "Discover a powerful and serene app designed to bring you the beauty of Surah Rahman, the \"Bride of the Quran,\" right at your fingertips. With clear Arabic \nscript, precise Urdu translation, and an intuitive user interface, this app is crafted to enhance your recitation and understanding of Surah Rahman. \nIdeal for daily recitation, memorization, or reflection, this app caters to readers of all ages, making it easier to incorporate Surah Rahman into your daily routine.\n\n\ud83c\udf1f Key Features:\n\n1. Beautifully Displayed Arabic Text:\nExperience the elegance of Arabic calligraphy with clear and legible Arabic text, optimized for mobile screens.\nDesigned for readability, each ayah is displayed in a font that makes recitation easy and visually pleasing, enhancing focus during reading.\n\n2. Accurate Urdu ",
+    "icon": "/icons/com.surah.rahman.playwow.png"
+  },
+  "com.hsharifi.cybernetics": {
+    "title": "\u06a9\u062a\u0627\u0628 \u0635\u0648\u062a\u06cc \u0633\u0627\u06cc\u06a9\u0648\u0633\u0627\u06cc\u0628\u0631\u0646\u062a\u06cc\u06a9",
+    "package": "com.hsharifi.cybernetics",
+    "description": "\u06a9\u062a\u0627\u0628 \u0633\u0627\u06cc\u06a9\u0648\u0633\u0627\u06cc\u0628\u0631\u0646\u062a\u06cc\u06a9 \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0647\u062a\u0631\u06cc\u0646 \u0622\u062b\u0627\u0631 \u062f\u0631 \u0632\u0645\u06cc\u0646\u0647 \u0631\u0634\u062f \u0641\u0631\u062f\u06cc \u0648 \u062a\u0648\u0633\u0639\u0647 \u0630\u0647\u0646\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062a\u0648\u0633\u0637 \u062f\u06a9\u062a\u0631 \u0645\u0627\u06a9\u0633\u0648\u0644 \u0645\u0627\u0644\u062a\u0632 \u0646\u0648\u0634\u062a\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a\u060c \u0627\u06cc\u0646 \u06a9\u062a\u0627\u0628 \u0628\u0627 \u062a\u0631\u06a9\u06cc\u0628 \u0639\u0644\u0645 \u0631\u0648\u0627\u0646\u200c\u0634\u0646\u0627\u0633\u06cc \u0648 \u0627\u0635\u0648\u0644 \u0633\u0627\u06cc\u0628\u0631\u0646\u062a\u06cc\u06a9\u060c \u0628\u0647 \u0634\u0645\u0627 \u06a9\u0645\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f \u062a\u0627 \u0628\u0627 \u062f\u0631\u06a9 \u0628\u0647\u062a\u0631 \u062e\u0648\u062f \u0648 \u0642\u062f\u0631\u062a \u0636\u0645\u06cc\u0631 \u0646\u0627\u062e\u0648\u062f\u0622\u06af\u0627\u0647\u060c \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u0645\u062b\u0628\u062a\u06cc \u062f\u0631 \u0632\u0646\u062f\u06af\u06cc\u200c\u062a\u0627\u0646 \u0627\u06cc\u062c\u0627\u062f \u06a9\u0646\u06cc\u062f.\n\n\u0645\u0627\u06a9\u0633\u0648\u0644 \u0645\u0627\u0644\u062a\u0632 \u06cc\u06a9 \u062c\u0631\u0627\u062d \u067e\u0644\u0627\u0633\u062a\u06cc\u06a9 \u0628\u0648\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u067e\u0633 \u0627\u0632 \u0633\u0627\u0644\u0647\u0627 \u062a\u062c\u0631\u0628\u0647 \u062f\u0631 \u0632\u0645\u06cc\u0646\u0647 \u062c\u0631\u0627\u062d\u06cc \u0628\u0647 \u0627\u06cc\u0646 \u0646\u062a\u062c\u0647 \u0631\u0633\u06cc\u062f \u06a9\u0647 \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u0641\u0632\u06cc\u06a9\u06cc \u0647\u06cc\u0686 \u062a\u0627\u062b\u06cc\u0631\u06cc \u062f\u0631 \u0628\u0647\u0628\u0648\u062f \u0627\u0639\u062a\u0645\u0627\u062f \u0628\u0647 \u0646\u0641\u0633 \u0646\u062f\u0627\u0631\u062f \u0628\u0644\u06a9\u0647 \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u062f\u0631 \u0630\u0647\u0646 \u0648 \u0628\u0627\u0648\u0631 \u0634\u062e\u0635 \u0627\u0633\u062a \u06a9\u0647 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0628\u0627\u0639\u062b \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u0648\u0627\u0642\u0639\u06cc \u062f\u0631 \u0632\u0646\u062f\u06af\u06cc \u0634\u0648\u062f.\n\u062f\u06a9\u062a\u0631 \u0645\u0627\u0644\u062a\u0632 \u062a\u0648\u0636\u06cc\u062d \u0645\u06cc\u062f\u0647\u062f \u0686\u06af\u0648\u0646\u0647 \u062a\u0635\u0648\u06cc\u0631 \u0630\u0647\u0646\u06cc \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0628\u0631 \u062a\u0645\u0627\u0645 \u062c\u0646\u0628\u0647 \u0647\u0627\u06cc \u0632\u0646\u062f\u06af\u06cc \u062a\u0627\u0646 \u0627\u062b\u0631 \u0628\u06af\u0630\u0627\u0631\u062f. \u062a\u0635\u0648\u06cc\u0631 \u0630\u0647\u0646\u06cc \u0645\u062b\u0628\u062a \u0645\u0648\u0641\u0642\u06cc\u062a \u0648 \u0634\u0627\u062f\u06cc \u0631\u0627 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u062f\u0627\u0631\u062f\u060c \u062f\u0631\u062d\u0627\u0644\u06cc\u06a9\u0647 \u062a\u0635\u0648\u06cc\u0631 \u0630\u0647\u0646\u06cc \u0645\u0646\u0641\u06cc \u0634\u0645\u0627 \u0631\u0627 \u0645\u062d\u062f\u0648\u062f \u0645\u06cc\u06a9\u0646\u062f.\n\u062f\u0631 \u062d\u0642\u06cc\u0642\u062a \u0630\u0647\u0646 \u0641\u0636\u0627 \u0639\u0627\u062f\u062a \u0647\u0627 \u0648 \u0628\u0627\u0648\u0631 \u0647\u0627\u0633\u062a\u060c \u0630\u0647\u0646 \u0627\u0628\u0632\u0627\u0631 \u0642\u062f\u0631\u062a\u0645\u0646\u062f\u06cc \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u0627\u062e\u062a\u06cc\u0627\u0631 \u0634\u0645\u0627 \u0642\u0631\u0627\u0631 \u062f\u0627\u0631\u062f \u0648 \u062a\u0635\u0648\u06cc\u0631\u0633\u0627\u0632\u06cc \u06cc\u06a9\u06cc \u0627\u0632 \u06a9\u0627\u0631\u0647\u0627\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0630\u0647",
+    "icon": "/icons/com.hsharifi.cybernetics.jpg"
+  },
+  "com.mindcheckapp": {
+    "title": "MindCheckUp: AI \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433&\u0442\u0435\u0441\u0442\u044b",
+    "package": "com.mindcheckapp",
+    "description": "Feel supported at any time with MindCheckUp, your personal AI-based mental health assistant.\nMindCheckUp was co-authored by a psychotherapist and medical doctor. The app combines cutting-edge mental health research and AI technology to help manage burnout, stress, and emotional strain.\n\nYOUR 24/7 AI PSYCHOLOGIST\nNo more waiting for an appointment. Our advanced AI chatbot is a safe space where you'll be listened to without judgment.\n\u2022 Discuss your concerns in real time.\n\u2022 Practice self-help practices and breathing exercises.\n\u2022 Reduce anxiety through structured dialogue.\n\nFIGHTING BURNOUT\n\u2022 Burnout diagnostics: Special methods for determining the stage of emotional exhaustion.\n\u2022 Resource recovery: Personalized recommendations on how to restore productivity and joy at work.\n\u2022 Prevention: Reco",
+    "icon": "/icons/com.mindcheckapp.png"
+  },
+  "com.afl.psychicslive.view": {
+    "title": "Psychics Live: Tarot Horoscope",
+    "package": "com.afl.psychicslive.view",
+    "description": "Psychics Live will give you a look into your future. Live psychic, astrology, and tarot card readings are available 24/7 from our keen psychics! So whether you need love and relationship advice, are looking for career advice, or need to interpret your dreams our psychic mediums and clairvoyants are here to help.\n\nFeeling lost or unsure?  Psychics Live is your personal guide to navigate life's uncertainties. We connect you with gifted advisors, insightful tarot readings, and free daily horoscopes to provide insights into your astrological forecast, helping you understand your current energies, all available 24/7. You can also decode your mood with our fun colourscope. Gifted psychics are available for all your psychic needs. You can ask them questions through the app or call for in depth ps",
+    "icon": "/icons/com.afl.psychicslive.view.png"
+  },
+  "com.youloft.health": {
+    "title": "DietBuddy - AI Food Tracker",
+    "package": "com.youloft.health",
+    "description": "Welcome to the ultimate health and nutrition app designed to support your wellness journey. Our app goes beyond just tracking calories, it will also help you embrace diets that are tailored to your lifestyle and health conditions. Whether you're aiming to get in shape, boost energy, or maintain a healthy lifestyle, our app is here not only to help you build healthy habits, but also support you in living a balanced and nourishing life. \n\nWith AI technology and the expertise of nutritionists, our app will be your pefect partner in well-being. Join us and start your journey to a healthier and happier you today!\n\nKEY FEATURES\n\u25cfPersonalized diet plans\n\u25cfCustomized nutrient goals\n\u25cfAI-based food logging\n\u25cfCalorie counter\n\u25cfNutrients tracker\n\u25cfDaily score and report\n\u25cfFood analysis\n\u25cfWater intake\n\u25cfSync ",
+    "icon": "/icons/com.youloft.health.png"
+  },
+  "com.liquidsoftwaremobile.mytarotadvisornet": {
+    "title": "Psychic Vision: Video & Chat",
+    "package": "com.liquidsoftwaremobile.mytarotadvisornet",
+    "description": "Psychic readings on livestream! Live psychics, horoscope and tarot readings in real-time are finally here. Video psychic readings are just a touch away...\n\nPsychic advisors provide live streaming consultations in a simple, transparent way. You stay anonymous while trusted Tarot Readers, Astrologers, Numerologists, Psychics and much more provide non-judgmental readings to let you unlock life\u2019s mysteries on live video streams. Zodiac psychic readings can help reveal what the future holds for you. \ud83c\udf20\n\nPsychic Vision lets you speak with the best psychic advisors whenever you need them. Psychic video readings and tarot readings \ud83c\udfb4 from top psychics provide you with accurate insights into your life. Love advice, zodiac predictions, money predictions \u2013 join a live stream video chat with real psychi",
+    "icon": "/icons/com.liquidsoftwaremobile.mytarotadvisornet.jpg"
+  },
+  "com.nhu.homeai.roomplanner.decorhome": {
+    "title": "AI Home Design: Room Planner",
+    "package": "com.nhu.homeai.roomplanner.decorhome",
+    "description": "AI Home Design: Room Planner is an intelligent ai home design and room planner app that helps you transform any space with ease. Whether you are planning interior design, exterior upgrades, or simple decor changes, this ai interior design solution gives you clear visual results in seconds.\n\nWith advanced home ai technology, you can upload a photo, choose a style, select colors, and generate realistic home design ideas. From ai bedroom design to full exterior renovation, everything is simple, visual, and easy to use.\n\nKey Features of this AI Home Design App:\n\n\ud83c\udfe0 Smart AI Interior Design Planner\nUpload your room photo and let the ai interior design engine create fresh room design ideas instantly. This room planner helps you redesign living rooms, bedrooms, kitchens, and more with realistic pr",
+    "icon": "/icons/com.nhu.homeai.roomplanner.decorhome.png"
+  },
+  "com.hemisoft.happytest.whoyouwere": {
+    "title": "Who were you in past life? Tes",
+    "package": "com.hemisoft.happytest.whoyouwere",
+    "description": "Test \"Who were you in a past life?\" will help determine to what profession or animal you belonged to in the past. Maybe you were a wizzard and read scrolls, cast spells? Or maybe you was a farmer which cultivated the land? Or were you a bird and enjoyed the freedom of flight? Take the test and find out!\nThis is not a quiz: there are no right or wrong answers to the questions, answer the questions as you like, and after passing the test you will find out: who you were in a past life.\nCheck your friends and compare the results. Send this test to a friend or give him to pass a test on your smartphone to find out who you were in the past.",
+    "icon": "/icons/com.hemisoft.happytest.whoyouwere.png"
+  },
+  "com.squadhouse.storyworld": {
+    "title": "StoryZone: AI Text Adventure",
+    "package": "com.squadhouse.storyworld",
+    "description": "\u2728 YOUR STORY BEGINS HERE \u2728\nWelcome to StoryZone, your ultimate AI RPG and story generator! Here, you don't just read stories \u2013 you live them. Forget apps where you only get to choose between option A and B. Create worlds, write fanfiction, and experience the best interactive text adventure of your life.\n\nStep into the shoes of a space explorer in an epic sci-fi adventure, a dragon rider in a high fantasy world, a mafia boss, or your favorite fictional character. Whether it's a dark cyberpunk RPG, a magical wizarding school, spicy dark romance, or your own anime RPG \u2013 StoryZone gives you absolute freedom. You type what you want to do, and your interactive story adapts in real-time!\n\n\ud83c\udfad WHY STORYZONE IS YOUR NEW FAVORITE RPG:\n\n\ud83e\udd16 Genius AI Game Master: Dialogue, combat, romance. The AI reacts ",
+    "icon": "/icons/com.squadhouse.storyworld.png"
+  },
+  "dietaiplan.calorietracker.app": {
+    "title": "Calorie Counter\u30fbPlanner\u30fbDietAI",
+    "package": "dietaiplan.calorietracker.app",
+    "description": "New Year, New You! Start tracking calories in 2025 with a 70% Discount!\n\nKickstart your health journey with our \"New Year, New You\" campaign! For a limited time, enjoy 70% off DietAI Premium: our biggest discount so far! Crush your New Year's resolutions with advanced tools to help you lose weight, eat healthier, and achieve your wellness goals. Don\u2019t wait, start transforming your health today!\n\nDietAI is your all-in-one calorie counter and nutrition tracker designed to help you achieve your health and fitness goals. Whether you're aiming for weight loss, muscle gain, or maintaining a healthy lifestyle, DietAI provides personalized diet plans tailored to your specific needs. Track your calories, macros, and nutrients effortlessly with our AI-powered food diary and meal planner.\n\n\ud83c\udf1f Personal",
+    "icon": "/icons/dietaiplan.calorietracker.app.png"
+  },
+  "com.selva.nailart": {
+    "title": "Nail Art Design image",
+    "package": "com.selva.nailart",
+    "description": "Discover endless inspiration for your nails with Nail Art Design Image! Browse a curated gallery of beautiful nail designs, search by color, style, or trend, and save your favorites to personalize your look.",
+    "icon": "/icons/com.selva.nailart.png"
+  },
+  "com.millestar.nailart": {
+    "title": "Nail Art Salon: NailFit AI",
+    "package": "com.millestar.nailart",
+    "description": "Nail Art Salon: NailFit AI lets you design, try on, and visualize stunning nail art instantly using the power of AI. Upload a photo of your hand and see every style\u2014from natural to bold\u2014perfectly fitted to your real nails. No salon visit needed, no guesswork, just beautiful results.\n\n\u2728 Key Features\n\n\u2022 AI Nail Try-On\nApply any nail design directly onto your hand photo with realistic fitting and shading.\n\n\u2022 Intelligent Nail Detection\nOur AI automatically maps your nails for accurate placement and natural-looking results.\n\n\u2022 Nail Art Generator\nCreate custom nail art designs using AI\u2014colors, patterns, finishes, and more.\n\n\u2022 High-Quality Pre-made Styles\nChoose from a curated library of trendy, seasonal, and classic nail designs.\n\n\u2022 Save & Share\nDownload your look or share it with friends, clien",
+    "icon": "/icons/com.millestar.nailart.png"
+  },
+  "com.rockidentifier.stoneid.identifystones": {
+    "title": "Stone Identifier: Rock Crystal",
+    "package": "com.rockidentifier.stoneid.identifystones",
+    "description": "Stone Identifier - Rock Crystal Unleash Your Inner Geologist\n\n\ud83e\udd14 Are you eager to expand your knowledge of rocks and minerals? Do you want to discover the secrets of your crystals or identify your mineral collection? Look no further! Our Stone Identifier - Stone Scanner app is here to meet all your needs. Whether you're a seasoned geologist or a budding rock hunter, you'll find everything you need to identify, catalog, and learn about rocks, crystals, gems, and minerals. With just a snap of a photo, our advanced AI technology will instantly recognize and provide detailed information on your finds. Explore the world of geology with our comprehensive stone identifier and collection management tool!\n\n\ud83d\udd11 Key Features of Stone Identifier - Stone Scanner\n\n\u2705 Accurate Stone Identifier Kit\nUtilize ou",
+    "icon": "/icons/com.rockidentifier.stoneid.identifystones.png"
+  },
+  "com.scary.yanderekiller": {
+    "title": "Yandere Killer Simulator",
+    "package": "com.scary.yanderekiller",
+    "description": "In Yandere Killer Simulator, you play as Hana Misaki, a seemingly sweet but deeply obsessive high school girl. She appears to be a normal student at Osaka High School, but in reality, she harbors a lethal obsession with a boy named Ren Takahashi, the most popular boy in school. However, Hana is not the only yandere with her eyes on Ren. Three other psycho girlfriends like Ai, Lady Lisa, Miss Teacher, and Sakura are also vying for his love, and they are just as evil as she is.\n\nVirtual Gameplay Mechanics:\n\nStealth Elimination:\n- Stalk and observe your rivals to learn their routines, weaknesses, and preferred hangout spots in the city.\n- Set up traps, drive your car and hit them, or confront them directly in isolated areas where no one can witness you.\n- Clean up evidence (wipe blood, dispos",
+    "icon": "/icons/com.scary.yanderekiller.png"
+  },
+  "com.productivetap.birdace": {
+    "title": "AI Bird Identifier: Bird Ace",
+    "package": "com.productivetap.birdace",
+    "description": "Discover the birds around you with AI-powered identification. Unlike other birding apps, Bird Ace makes it easy to organize your sightings with favorites, personalize them with notes, discuss your discoveries with AI, and export your collection as a polished PDF.\n\nFEATURES\n\n\u2022 AI Bird Identification\nSnap a photo of any bird, and our AI will identify the species. Get both scientific and common names, along with detailed information about habitat, diet, behavior, and key field marks.\n\n\u2022 AI Bird Discussions\nGet personalized birding advice through natural conversation with AI. Ask questions about migration patterns, nesting habits, or any ornithology topic. Revisit past conversations anytime.\n\n\u2022 Personal Bird Archive\nBuild your personal bird list. Save every identification with high-quality ima",
+    "icon": "/icons/com.productivetap.birdace.png"
+  },
+  "com.purpledotdigital.livepsychic": {
+    "title": "Live Psychic Chat",
+    "package": "com.purpledotdigital.livepsychic",
+    "description": "$3.99 FREE Credit on joining. Get additional FREE $0.99 credit on first purchase. Psychic Readings and tarot readings start from just $0.99. Earn FREE Credit on a regular basis. Love and relationship questions? Life questions? Career questions? Home questions? You can now chat to our live psychic chat team from the comfort of wherever you are. Our mobile friendly service puts you in touch instantly with a genuine, authentic psychic of your choice.\n\nGet the honest and accurate psychic reading that you need right now. Our team of psychic readers are all highly experienced and have all been through test readings. Our expert tarot readers will help you to solve your life\u2019s problem.\n\nWill my ex come back? Does he love me? Is he my soulmate or twin-flame? Is it time to let go of that relationshi",
+    "icon": "/icons/com.purpledotdigital.livepsychic.png"
+  },
+  "com.otis": {
+    "title": "Otis AI: Market Your Business",
+    "package": "com.otis",
+    "description": "Discover the easiest way to advertise your business online. Otis is a digital marketing automation platform to run effective ads that grow your business.\n\nOtis connects your data sources such as your POS or email list to help you reach both new and existing customers online.\n\nTo reach existing customers, Otis identifies people that have previously done business with you, and finds their profiles online to deliver your campaign.\n\nTo reach new customers, Otis identifies profiles that are similar to your existing customers based on attributes like geography and interests. These new customers are more likely to try your business because they\u2019re similar to your existing customers.\n\nOnce you create your campaign, you choose whether to post it on Facebook, Instagram and Google. Otis will then aut",
+    "icon": "/icons/com.otis.png"
+  },
+  "com.mahindra.adrenox": {
+    "title": "Adrenox Connect",
+    "package": "com.mahindra.adrenox",
+    "description": "Adrenox Connect is Mahindra's connected SUV solution that keeps you connected to your vehicle.\nAdrenox Connect opens a whole new way of experience using your smartphone!\nGet ready to dial up the adrenaline with Intelligent technology at your fingertips. Track your vehicle in real-time, lock & unlock it and also turn on the AC remotely and much more \u2013 All possible with just a few taps on your smartphone and smartwatch screen. \n \nAlerts\nVehicle Information\nRemote Functions\nSafety Functions\nLocation Based Services\nPartner Apps\n\nStep to use Wear OS:\n                                \n1. Download \"Adrenox Connect\" app in phone & login to app with given credentials\n2. Connect Smart watch to phone via \"Wear OS\" app\n3. Open Play Store in Smart Watch & Search for \"Adrenox Connect\" app\n4. Download \"Ad"
+  },
+  "com.xe.currency": {
+    "title": "Xe Money Transfer & Converter",
+    "package": "com.xe.currency",
+    "description": "Welcome to the Xe money transfer & currency converter app, your trusted, one-stop destination for foreign currency exchange, wire services, conversion, international money transfers, and secure banking transactions. Research foreign exchange rates using our real-time currency converter and send money and receive internationally in minutes to over 200 countries. Get competitive exchange rates and send money securely and faster than traditional wire transfers, making Xe your trusted solution for international money transfer, wire services and digital banking services.\n\nHUNDREDS of MILLIONS of people trust Xe for wire transfers, along with:\n\u25cf Check live exchange rates and currency market values\n\u25cf Send money internationally to over 200 countries, including India, Mexico, PhilippinesSend and co",
+    "icon": "/icons/com.xe.currency.png"
+  },
+  "com.unionpay": {
+    "title": "UnionPay APP",
+    "package": "com.unionpay",
+    "description": "UnionPay APP is a strategic product for integrated mobile payment in the banking sector. It provides comprehensive management of bank cards and brings together all card discounts and special offers.\n\u3010Main Features\u3011\n1. Scan-to-pay feature with UnionPay's financial-grade security protection, ensuring worry-free fund security.\n\n\u3010Official Website\u3011https://www.95516.com/\n\u3010Official WeChat\u3011Yinlian_KY",
+    "icon": "/icons/com.unionpay.png"
+  },
+  "potint.dailyyogaworkoutforbegginers": {
+    "title": "Daily Yoga Workout at Home",
+    "package": "potint.dailyyogaworkoutforbegginers",
+    "description": "Perform yoga exercises at home or wherever you want and enjoy a step-by-step guided yoga workout. You can also choose the yoga poses and create one yourself. Includes yoga for beginners and advanced.\n\nTransform your routine with free daily yoga and get a workout with multiple benefits for your health:\n\n\ud83c\udf1f Reduce stress\n\ud83e\uddd8\u200d\u2640\ufe0f Yoga for flexibility\n\u2601\ufe0f Mental liberation\n\ud83d\udc4c Get fit\n\ud83c\udfaf Yoga for weight loss\n\ud83d\udca4 Help you sleep better\n\ud83e\udd38 Improve coordination and balance\n\nThe definition of this discipline tells us that it is a practice in which the body is connected with the mind, spirit and breathing to improve overall health. It was born in India, developed thousands of years ago as a spiritual practice and is currently followed by millions of people around the world that do exercises daily. It stands ou",
+    "icon": "/icons/potint.dailyyogaworkoutforbegginers.png"
+  },
+  "com.ai.babyfacegenerator.ai_future_baby_face_generator": {
+    "title": "Byfato: AI Baby Face Generator",
+    "package": "com.ai.babyfacegenerator.ai_future_baby_face_generator",
+    "description": "\ud83d\udc76 Byfato \u2013 AI Baby Face Generator\n\nCurious to see how a baby might look by combining mother and father photos?\nByfato lets you create fun, AI-generated baby faces by blending facial features from two images in just a few taps.\n\nUsing advanced AI technology, the app analyzes facial details and generates a baby face by combining visual traits from the selected two photos. The process is quick, simple, and designed for entertainment and creativity.\n\n\u2728 Create Baby Faces from Two Photos\n\nGenerate a baby face by blending features from two images.\n\n\u2022 Upload two photos (male and female) from your gallery\n\u2022 AI processes facial features from both images\n\u2022 Generate a unique baby face instantly\n\u2022 Try multiple combinations for different results\n\u2022 Save and share your creations with family and friends\n\nE",
+    "icon": "/icons/com.ai.babyfacegenerator.ai_future_baby_face_generator.png"
+  },
+  "com.abtechnologz.dogscanner": {
+    "title": "DogX: Dog Scanner Dog Breed Id",
+    "package": "com.abtechnologz.dogscanner",
+    "description": "Introducing the Dog Scanner app, your go-to for quickly identifying your dog's breed! Simply snap a picture, record a video, or upload an image from your gallery.\n\nHave a mixed breed? No worries! Our app recognizes mixed breeds too, providing you with detailed data and interesting facts.\n\nNot with your dog? No problem! The Dog Scanner app also recognizes humans. Scan yourself, your friends, or family to discover which dogs you resemble the most!\n\nJoin our Dog Scanner community! Share and compare results, upload pictures of your favorite dog to our Social Feed, and interact with other dog lovers. Become a part of our growing community and share your love for dogs!\n\nCatch all dog breeds and become an expert with our Gamification feature. Master challenges, earn virtual treats, and compete wi",
+    "icon": "/icons/com.abtechnologz.dogscanner.png"
+  },
+  "com.baidu.BaiduMap": {
+    "title": "\u767e\u5ea6\u5730\u56fe",
+    "package": "com.baidu.BaiduMap",
+    "description": "Baidu Maps is a new generation of artificial intelligence maps. It is a platform that provides users with travel-related services such as intelligent route planning and navigation, location inquiry, and intelligent tourism. It supports global voice control, AR real-life navigation and other new interactive modes. Baidu Maps' international maps cover more than 200 countries and regions around the world. Committed to providing users with more accurate, richer and easier-to-use travel services.\nFeatures:\n\u3010Intelligent Voice\u3011\n-Industry-leading voice technology can realize full-end wake-up and global control\n-Say \"Xiaodu Xiaodu\" to easily check routes, search locations, ask about the weather, search along the way, etc.\n\n\u3010Intelligent planning\u3011\n-Provide intelligent planning solutions including tax",
+    "icon": "/icons/com.baidu.BaiduMap.png"
+  },
+  "com.sensopia.magicplan": {
+    "title": "magicplan",
+    "package": "com.sensopia.magicplan",
+    "description": "GET IT RIGHT IN REAL TIME\n\nmagicplan is the advanced floor plan app that enables remodelers, restoration, and claims professionals to capture what counts instantly.\n\nTop features:\n\u00b7 Real-time Floor Plans\n\u00b7 Photos\n\u00b7 Notes\n\u00b7 Objects & Equipment\n\u00b7 Forms & Checklists\n\u00b7 360\u00b0 Panoramas\n\u00b7 Reports\n\u00b7 Price Lists & Estimates\n\nNo more waiting, no more wondering, no more wasted time and effort. Get more done and get paid faster.\n\u00b7 Make floor plans quickly by drawing or connecting a laser measure\n\u00b7 Get all the details you need right away, like measurements and pictures\n\u00b7 Customize it for your jobs\n\u00b7 It\u2019s accurate and helps you work faster\n\u00b7 You don't have to wait or guess about anything\n\nConnect your Hilti, Bosch, DeWalt, Leica, Stabila and W\u00fcrth laser meters, Ricoh 360.\nWe integrate with Xactimate\u00ae (d",
+    "icon": "/icons/com.sensopia.magicplan.png"
+  },
+  "com.meowtalk": {
+    "title": "Cat Translator & Cat Language",
+    "package": "com.meowtalk",
+    "description": "Welcome to the cat world you\u2019ve always dreamed of \u2014 a place where you can finally understand your furry friend\u2019s heart, voice, and language. This all-in-one Cat App brings together everything you need: a powerful cat translator, smart pet translator, deep cat language translator, calming tools, playful interactions, and advanced AI features that help you care for your cat in the most loving way.\n\n\ud83d\udc3e Talk With Your Cat \u2014 purrAI\n\nMeet purrAI, your AI companion designed to help you \u201cchat\u201d with your cat. Powered by advanced behavior understanding, purrAI turns meows, gestures, and moods into meaningful insights. Whether your cat is excited, curious, scared, or simply wants attention, purrAI helps you decode it all.\nJust write your question and get guidance crafted for your cat\u2019s personality.\n\n\ud83c\udfa4",
+    "icon": "/icons/com.meowtalk.png"
+  },
+  "org.novalingua": {
+    "title": "IELTS Assistant: NovaLingua AI",
+    "package": "org.novalingua",
+    "description": "Ace your IELTS test with NovaLingua \u2013 your personal AI tutor for Speaking & Writing.\n\nPrepare smarter, not harder. NovaLingua combines cutting-edge AI evaluation with practical test materials so you can improve your IELTS performance quickly and confidently.\n\nWhy NovaLingua?\n\u2013 Instant AI Feedback: Get accurate band-style scores and detailed comments for Speaking and Writing tasks.\n\u2013 Daily Practice Tests: Access up to 10 full IELTS Speaking + Writing tests per day.\n\u2013 Realistic Test Experience: Simulate the official IELTS format on your phone or desktop.\n\u2013 Track Your Progress: Monitor your band score trends and identify your weak points.\n\u2013 Flexible & Affordable: Practice anywhere, anytime, at a fraction of the cost of tutoring.\n\nPerfect for:\n\u2013 Students preparing for Academic IELTS\n\u2013 Busy pro",
+    "icon": "/icons/org.novalingua.jpg"
+  },
+  "com.wonder.idealhouse.app": {
+    "title": "AI Home Design: Ideal House",
+    "package": "com.wonder.idealhouse.app",
+    "description": "Instantly redesign your home with AI. Just snap a photo and see your dream space come to life in seconds.\nIdeal House is your personal AI home design assistant, making it effortless to visualize professional-grade redesigns, whether you're refreshing a single room or planning a full home makeover.\n\n\u25ba AI-Powered Interior Design\nUpload a photo of your room, choose a style (like Modern, Wabi-Sabi, or Bohemian), and our AI will instantly generate a complete design concept with furniture, color palettes, and decor tailored to your space.\n\n\u25ba AI Exterior Renovation\nVisualize a new look for your home's exterior. Upload a photo of your house to experiment with different paint colors, roofing materials, and window styles to instantly boost its curb appeal.\n\n\u25ba AI Garden & Landscape Design\nTransform y",
+    "icon": "/icons/com.wonder.idealhouse.app.jpg"
+  },
+  "com.radiosonline.radiofmhongkong": {
+    "title": "Radio Hong Kong - FM & Online",
+    "package": "com.radiosonline.radiofmhongkong",
+    "description": "\ud83d\udcfb Hong Kong FM Radio HK Radio: RTHK, Chinese Broadcasts, Live Streaming\n\nHong Kong Online Radio: Your Gateway to HK and Global Chinese Stations\nHong Kong FM Radio HK Radio is your complete application to enjoy live radio streaming from across Hong Kong, including thousands of hours of Chinese broadcast content. Whether you're looking for the latest Hong Kong news, trending music, local sports programs, or talk shows, we have it all. Download now, quickly tune in to local and national online radio channels in Hong Kong, and experience a professional FM Radio HK app.\n\nWhy Choose Hong Kong FM Radio HK Radio?\nOur app is the best way to listen to live FM and AM radio from Hong Kong and access a wide array of online and on-demand content.\n\nIt is modern, simple, and easy to use, perfect for anyon",
+    "icon": "/icons/com.radiosonline.radiofmhongkong.png"
+  },
+  "com.ecappstudio.appradio": {
+    "title": "HK Hong Kong Radio \u9999\u6e2f\u6536\u97f3\u6a5f \u9999\u6e2f\u96fb\u53f0",
+    "package": "com.ecappstudio.appradio",
+    "description": "\u9999\u6e2f\u6240\u6709\u53d7\u6b61\u8fce\u7684\u4e2d\u6587\u96fb\u53f0 (\u9084\u5305\u62ec\u4f86\u81ea - \u6fb3\u9580\uff0c\u4e2d\u570b\uff0c\u7f8e\u570b\uff0c\u52a0\u62ff\u5927\uff0c\u6fb3\u6d32\uff0c\u65b0\u52a0\u5761\uff0c\u99ac\u4f86\u897f\u4e9e\uff0c\u5370\u5c3c ) \uff0c\u8b93\u60a8\u53ea\u9700\u8f15\u8f15\u4e00\u6309\u5373\u53ef\u5feb\u901f\u5207\u63db\u5230\u6240\u6709\u559c\u611b\u7684\u96fb\u53f0\u3002 \u5b83\u5177\u6709\u97f3\u983b\u7de9\u6c96\u548c\u5feb\u901f\u5207\u63db\u529f\u80fd\uff0c\u8b93\u60a8\u64c1\u6709\u6109\u5feb\u7684\u6536\u807d\u9ad4\u9a57\u3002\n\nMost popular Chinese radio stations from Hong Kong and other countries (including - Macau / China / USA / Canada / Australia / Singapore / Malaysia / Indonesia), allowing you to quickly switch to all your favorite with a single click Radio station. It has audio buffering and fast switching for a pleasant listening experience.\n\nNew added Podcast / on-demand audio, on demand at any time, breaking the time limit, so that you can listen to your favorite Podcast programs at any time.\nPodcast channels include popular radio podcast channels from Hong Kong, China, United States, Australia, Japan and Europe.\n\n\u9999\u6e2f :\n- \u9999\u6e2f\u96fb\u53f0\u7b2c \u4e00\u53f0\n- \u9999\u6e2f\u96fb\u53f0\u7b2c \u4e8c\u53f0\n- \u9999\u6e2f\u96fb\u53f0\u7b2c \u4e09\u53f0\n- \u9999\u6e2f\u96fb\u53f0\u7b2c \u56db\u53f0\n- \u9999\u6e2f\u96fb\u53f0\u7b2c \u4e94\u53f0\n- \u9999\u6e2f\u96fb\u53f0 \u666e\u901a\u8a71\u53f0\n- \u65b0\u57ce\u77e5\u8a0a\u53f0\n- \u65b0\u57ce\u8ca1\u7d93",
+    "icon": "/icons/com.ecappstudio.appradio.png"
+  },
+  "com.likelylabs.hkradio": {
+    "title": "HK Radio \u9999\u6e2f\u6536\u97f3\u6a5f - Chinese Radio",
+    "package": "com.likelylabs.hkradio",
+    "description": "#1 HK Radio App for Hong Kong\n\u4e2d\u570b\u53ca\u9999\u6e2f\u5730\u5340- \u9999\u6e2f\u96fb\u53f0\u61c9\u7528\u7a0b\u5f0f\u699c\u9996\nUse features like Sleep Timer, Night Mode Dark Theme, Skip through Favorites, and more!\n\u7761\u7720\u6642\u9418\u3001\u591c\u9593\u6a21\u5f0f\u3001\u5feb\u901f\u8f49\u53f0\u4ee5\u53ca\u66f4\u591a\u512a\u5316\u529f\u80fd\n\nListen to Music, News, and Cultural programs on HK Radio.\n\nHong Kong Radio is extremely easy to use, just tap and listen to high quality live broadcast stations in Hong Kong!\n\n\u2022 Save your favorite stations and find them faster.\n\u2022 Use search to find the most popular stations in Hong Kong and beyond.\n\u2022 Set your default tab to all stations or your favorites.\n\u2022 Set a Sleep Timer to pause automatically.\n\u2022 Control the radio in the lock screen and in the notifications area. Tune your favorite stations\n\u2022 Dark Mode\n\u2022 Continuous Playback: App will automatically restart the station after any errors.\n\u2022 Automatic Retry and Automatic Retry Noti",
+    "icon": "/icons/com.likelylabs.hkradio.png"
+  },
+  "com.powerapps.RadiosChinas_Station_of_China_Voice_CNR": {
+    "title": "\u9999\u6e2f \u7535\u53f0",
+    "package": "com.powerapps.RadiosChinas_Station_of_China_Voice_CNR",
+    "description": "\u672c\u5e94\u7528\u4ee5\u77e5\u540d\u7535\u53f0 \u9999\u6e2f \u7535\u53f0 \u4e3a\u6838\u5fc3\uff0c\u540c\u65f6\u6574\u5408\u66f4\u591a\u7535\u53f0\u5185\u5bb9\u4e8e\u540c\u4e00\u5e73\u53f0\u3002\u60a8\u4e0d\u4ec5\u53ef\u4ee5\u6536\u542c\u4e3b\u8981\u7535\u53f0\uff0c\u8fd8\u53ef\u4ee5\u63a2\u7d22\u66f4\u591a\u8282\u76ee\u7c7b\u578b\u548c\u97f3\u4e50\u98ce\u683c\uff0c\u5168\u90e8\u96c6\u4e2d\u5728\u4e00\u4e2a\u5e94\u7528\u4e2d\uff0c\u65b9\u4fbf\u5feb\u6377\u3002\n\n\u5e94\u7528\u7279\u8272\uff1a\n\u2022 \u4e2d\u56fd\u7535\u53f0\u5b9e\u65f6\u76f4\u64ad\n\u2022 \u65b0\u95fb\u3001\u8bbf\u8c08\u3001\u97f3\u4e50\u4e0e\u793e\u533a\u8282\u76ee\n\u2022 \u591a\u7535\u53f0\u5185\u5bb9\uff0c\u8f7b\u677e\u5207\u6362\n\u2022 \u754c\u9762\u7b80\u6d01\u7a33\u5b9a\uff0c\u9002\u5408\u957f\u65f6\u95f4\u6536\u542c\n\n\u5173\u4e8e\u5e7f\u544a\uff1a\n\u672c\u5e94\u7528\u5305\u542b\u9002\u91cf\u5e7f\u544a\uff0c\u7528\u4e8e\u652f\u6301\u670d\u52a1\u5668\u53ca\u64ad\u653e\u6210\u672c\uff0c\u786e\u4fdd\u670d\u52a1\u53ef\u6301\u7eed\u8fd0\u884c\uff0c\u65e0\u9700\u8ba2\u9605\u6216\u989d\u5916\u4ed8\u8d39\u3002\n\n\u58f0\u660e\uff1a\n\u672c\u5e94\u7528\u4e3a\u975e\u5b98\u65b9\u7c89\u4e1d\u5e94\u7528\uff0c\u4e0e\u7535\u53f0\u5b98\u65b9\u673a\u6784\u65e0\u4efb\u4f55\u5173\u8054\uff0c\u4ec5\u63d0\u4f9b\u4e92\u8054\u7f51\u4e0a\u516c\u5f00\u7684\u5e7f\u64ad\u6d41\u5a92\u4f53\u8bbf\u95ee\u3002",
+    "icon": "/icons/com.powerapps.RadiosChinas_Station_of_China_Voice_CNR.png"
+  },
+  "com.hk.rthk": {
+    "title": "RTHK Screen TV",
+    "package": "com.hk.rthk",
+    "description": "RTHK Screen TV is a smart TV application produced by the new media development team of Radio Television Hong Kong. Users can enjoy the fresh viewing experience brought by new media through the smart TV at home, and order TV programs provided by RTHK TV 31 and 32 at any time.",
+    "icon": "/icons/com.hk.rthk.png"
+  },
+  "info.vazquezsoftware.tarot": {
+    "title": "Tarot",
+    "package": "info.vazquezsoftware.tarot",
+    "description": "This Tarot offers 5 types of tarot spreads, and the interpretation of the resulting spreads. Anticipate your future.\nTypes of Tarot:\n\u2022 Classic Tarot. It consists of a three-card spread that will give you the forecast for today and also offer you some advice on health.\n\u2022 The Path of the Day. Four-card spread to guess work, money and love for today.\n\u2022 The Tarot of the Couples. This love Tarot predicts the future of any couple and offers advice on how to improve their relationship.\n\u2022 Card of the Day. The simplest Tarot in which you choose the card that will mark your day.\n\u2022 Yes or No. Ask the Tarot a question for a direct and reasoned answer.\n\u2022 Tarot Quiz Game. Learn Tarot meanings and master the 22 Major Arcana with a fun and challenging test: 198 questions across 3 levels of difficulty.\n\nIt",
+    "icon": "/icons/info.vazquezsoftware.tarot.png"
+  },
+  "com.pitchshark": {
+    "title": "PitchShark: AI Startup Pitch",
+    "package": "com.pitchshark",
+    "description": "Got a billion-dollar startup idea? Don't build in the dark. PitchShark is your ultimate AI co-founder and VC auditor, designed to test, validate, and refine your business ideas in seconds.\n\nWhether you are a first-time founder, an indie hacker, or a seasoned entrepreneur, PitchShark provides brutal honesty, actionable strategies, and technical roadmaps before you write a single line of code or spend a dime on marketing.\n\n\ud83d\ude80 MEET YOUR AI MENTORS:\n\u2022 The Shark (VC Investor): Gets straight to the numbers. Analyzes your unit economics, customer acquisition cost (CAC), and points out the red flags that will make investors say \"no.\"\n\u2022 The Coach (Growth Expert): Focuses on your Go-to-Market (GTM) strategy, user acquisition, and lean canvas model to help you launch without a massive budget.\n\u2022 The Te",
+    "icon": "/icons/com.pitchshark.png"
+  },
+  "com.readin.app": {
+    "title": "Readify: AI Natural Read Aloud",
+    "package": "com.readin.app",
+    "description": "Transform any eBook into a premium audiobook with Readify - the revolutionary AI ebook reader that sounds truly human.\nReadify is your all-in-one eBook reader and AI audiobook creator, powered by advanced large language model technology. Our advanced AI narrator provides a seamless text-to-speech experience, making it easy to listen to your favorite books, documents, and articles. Say goodbye to robotic voices and enjoy a truly immersive listening experience.\n\n# WHY READIFY STANDS APART\n\u2022 Natural AI Narration\nExperience the most advanced AI text-to-speech (TTS) technology, delivering a smooth and expressive narration that sounds just like a human.\nChoose from a variety of voices to personalize your listening experience.\n\n\u2022 Read Any Format Aloud\nOur free text reader supports all major forma",
+    "icon": "/icons/com.readin.app.png"
+  },
+  "com.appprinter.cat.translator": {
+    "title": "Cat Translator - translate cat",
+    "package": "com.appprinter.cat.translator",
+    "description": "Try to entertain your cat by using different meow sounds from our app. Use a fake voice recording to talk to your cat.\n\nDisclaimer: The app is used for entertainment and does not translate real words into a language that the cat understands.\nEngage, interact, and understand your furry companions like never before with Cat Translator, a groundbreaking mobile application available on Google Play. Although we humans might not be fluent in \"Cat-ish\", Cat Chat bridges this gap by creating a medium where communication becomes fun and engaging.\n\nKey Features:\n\nMeow Variety: Our app is packed with a wide range of meow sounds, each capable of piquing your cat's curiosity. From playful chirrups to affectionate trills, evoke your cat's interest and observe their unique reactions.\nFake Voice Recording",
+    "icon": "/icons/com.appprinter.cat.translator.png"
+  },
+  "com.steinsoft.insect.identification.insectID": {
+    "title": "Insect Identifier App",
+    "package": "com.steinsoft.insect.identification.insectID",
+    "description": "\ud83d\udd0d Advanced AI Bug Identifier - Instantly identify 4,000+ insects, spiders & garden pests using your camera! Join 700,000+ nature enthusiasts who trust our comprehensive insect identification technology.\nBug Identifier AI is the ultimate educational tool for insect identification and bug detection. Whether you're exploring nature, managing garden pests, or learning about biodiversity, this powerful bug detector provides fast and accurate insect identification from your photos.\nJust point your camera and identify any bug in seconds!\n\ud83d\udc1e Key Features:\n\u2714\ufe0f Advanced AI Bug Detection Use cutting-edge image recognition technology for instant insect identification from photos you upload or capture with your camera.\n\u2714\ufe0f Comprehensive Species Database Access detailed profiles for  insects, spider identi",
+    "icon": "/icons/com.steinsoft.insect.identification.insectID.png"
+  },
+  "com.rubyglint.app": {
+    "title": "Ruby Glint: Rock Identifier",
+    "package": "com.rubyglint.app",
+    "description": "Rock Crystal Mineral Gemstone Identifier App - Scan rocks crystals gems minerals. Expert rock analysis, rock valuation, location finder, learning modules & marketplace.\n\nRuby Glint is your all-in-one app to identify rock, crystal, mineral and gemstone in seconds. Take or upload a photo of any rock or crystal, and instantly get accurate results. Ruby Glint helps you recognize over 6,600 types of stones, crystals, minerals, and gemstones using advanced rock identification.\n\nFound a rock while exploring and want to know what it is? Are you curious about the crystals, minerals, and gemstones in your collection? Ruby Glint is the best app to identify rocks, crystals, minerals, gemstones, and stones. Take a photo and get instant results. Learn the name, properties, and value of each stone. Explo",
+    "icon": "/icons/com.rubyglint.app.png"
+  },
+  "com.zenprod.facialratio": {
+    "title": "AI Face Analyzer: Beauty Scan",
+    "package": "com.zenprod.facialratio",
+    "description": "Discover Your AI Beauty Score with Face Analyzer: Beauty Scan\nReveal how your face aligns with scientific standards of attractiveness. Using facial symmetry, the golden ratio, and proportional geometry, this AI-powered beauty analysis app provides insight into what makes your features unique \u2014 and how to improve your overall look.\n\nWhether you\u2019re exploring self-care, personal grooming, or just curious about facial harmony, our facial analysis tool helps you understand your aesthetic strengths and growth areas. It's fun, informative, and rooted in science and design principles.\n\n\n---\n\n\u2728 HOW IT WORKS:\n\n1. \ud83d\udcf8 Upload a clear front-facing or side-profile image\n\n\n2. \u26a5 Select \u201cMale\u201d or \u201cFemale\u201d for tailored beauty ratio benchmarks\n\n\n3. \ud83e\udde0 Instantly get your beauty score (rated 0\u2013100 on a bell curve",
+    "icon": "/icons/com.zenprod.facialratio.png"
+  },
+  "com.stewardtech.aichef": {
+    "title": "AI Chef : Food Recipe Creator",
+    "package": "com.stewardtech.aichef",
+    "description": "# AI Chef: Smart Recipe Generator \ud83c\udf73\ud83c\udf0d\n\n**Discover the Future of Cooking with AI-Powered Recipe Creation!**\n\n**\ud83d\udd25 Key Features:**\n\n\u2022 \ud83e\udd58 **Intelligent Ingredient-Based Recipes**\nGenerate delicious meals using ingredients you already have. Reduce food waste and save money with smart recipe recommendations.\n\n\u2022 \ud83c\udf10 **Global Cuisine Explorer**\nUnlock authentic recipes from around the world - Italian, Thai, Mexican, Indian, and beyond. Experience culinary diversity at your fingertips.\n\n\u2022 \ud83e\udd57 **Personalized Dietary Solutions**\nCustomize recipes for:\n- Vegetarian\n- Vegan\n- Gluten-Free\n- Keto\n- Paleo\n- Allergen-Friendly Options\n\n\u2022 \ud83d\udcc5 **Effortless Meal Planning**\nStreamline your cooking with intuitive meal prep tools. Plan, organize, and execute delicious meals with ease.\n\n\u2022 \ud83d\udd04 **Smart Ingredient Substitution",
+    "icon": "/icons/com.stewardtech.aichef.png"
+  },
+  "hmd.digital.patternpro": {
+    "title": "PatternPRO",
+    "package": "hmd.digital.patternpro",
+    "description": "PatternPRO: Makes it Easy to Create FREE Women's Clothing Patterns\n\nAre you a fan of female modeling? Do you want to create unique garments but find it complex to manage all the calculations necessary to design and cut your models? PatternPRO is the app for you!\n\nPATTERNPRO?\nPatternPRO is an innovative app designed for professionals and clothing enthusiasts who want to simplify and speed up the pattern creation process. Thanks to PatternPRO, you will no longer have to worry about mathematical calculations or proportions: the app automates everything, offering you precise results tailored to your needs.\n\nFUNCTIONALITY\n- Automate calculations: Simply enter the measurements you need and let PatternPRO do the rest. The app immediately calculates and generates the data needed to create perfect ",
+    "icon": "/icons/hmd.digital.patternpro.png"
+  },
+  "com.aydingame.ChefGPTAIMealRecipes": {
+    "title": "ChefGPT: AI Meal Recipes",
+    "package": "com.aydingame.ChefGPTAIMealRecipes",
+    "description": "Get quick, healthy, and personalized recipes in seconds with ChefGPT!\n\nChefGPT: AI Meal Recipes \u2014 Your Smart AI Cooking Companion\n\nInstantly discover easy, healthy, and personalized recipes with ChefGPT!\nCreate delicious meals in seconds using the power of AI.\nJust add your ingredients \u2014 ChefGPT finds the perfect recipe, plans your week, and builds your grocery list!\n\nKey Features:\n\nAI Recipe Generator: Instantly create recipes with the ingredients you have at home.\n\nSmart Meal Planner: Plan your breakfast, lunch, and dinner for the week \u2014 personalized to your tastes and dietary needs (vegan, keto, gluten-free, high-protein, and more).\n\nHealthy Cooking: Get quick, balanced, and healthy meal ideas.\n\nFamily & Kids Recipes: Fun and nutritious recipes for the whole family.\n\nFitness-Friendly: H",
+    "icon": "/icons/com.aydingame.ChefGPTAIMealRecipes.png"
+  },
+  "ru.ttgg.pastlife": {
+    "title": "Your Past Life",
+    "package": "ru.ttgg.pastlife",
+    "description": "Want to know who you were in a previous life and your purpose in this life? See.\nThis application counts by date of your birth, who you were in a previous life: sex, place and time of the last reincarnation.\nYou can find a brief description of the person you were in a past life, a profession.\nYou will learn your purpose in present life.\nImproved interface.\nRelease for new purchases.\nAll your wishes will be taken into account.\nDon't forget to view my other applications.\nPleasant using!",
+    "icon": "/icons/ru.ttgg.pastlife.png"
+  },
+  "com.fcardsapp.app": {
+    "title": "Deck.ai: AI Flashcards & Quiz",
+    "package": "com.fcardsapp.app",
+    "description": "Supercharge your learning with the power of AI.\n\nWhether you are learning a new language, preparing for exams, or memorizing medical terms, our AI-powered tools turn your study materials into interactive flashcards in seconds.\n\nSCAN & GENERATE WITH AI\nPhoto to Flashcards: Snap a picture of your notes, textbooks, or documents. Our AI instantly extracts the text and converts it into study cards.\nAI Summarizer: Overwhelmed by long texts? Take a photo, and let the AI summarize the core concepts for you.\nInstant Deck Generation: Just type a topic, and the app will generate a complete deck of cards for you automatically.\n\nSMART STUDY MODES\nLong-Term Memory (Anki-Mode): Utilizes a Spaced Repetition algorithm to schedule reviews at the perfect time, ensuring you never forget what you\u2019ve learned.\nQ",
+    "icon": "/icons/com.fcardsapp.app.png"
+  },
+  "com.numerology.tm": {
+    "title": "Numerology & Biorhythm\u202as",
+    "package": "com.numerology.tm",
+    "description": "Numerology is a method of reading and analysis that helps us discover some secrets based on the numbers of our birth and name.\n\nFeatures of our Numerology app:\n\n\u2605 Number of the Day (can be received daily)\n\u2605 The Path Number\n\u2605 The Number Name\n\u2605 Square Of Pythagoras \n\u2605 Daily and monthly Biorhythms\n\nCalculator compatibility with your partner:\n\n\u2605 By Birthday\n\u2605 By Name\n\u2605 By Horoscope (By Zodiac Signs)\n\u2605 By The Psychomatrix of Pythagoras\n\nAlso, in the application you will find a reference book of the meaning of numbers, including angel numbers.\n\nThe first numerological systems appeared in ancient Egypt. However, the modern version of numerology is based on the discoveries of the ancient Greek philosopher Pythagoras.\n\nPythagoras traveled for a long time to the eastern countries \u2014 Egypt, Phoenicia,",
+    "icon": "/icons/com.numerology.tm.png"
+  },
+  "cd.pme.planaffaire": {
+    "title": "Business Plan",
+    "package": "cd.pme.planaffaire",
+    "description": "Create your Business Plan in one click\n\n100% Entrepreneur\nChoose the tool that matches your entrepreneur profile, whatever your sector of activity.\n\n100% Customized\nYour business is unique... Create the tailor-made business plan that best presents your project.\n\n100% Management\nUsing pre-built models, define clear financial objectives to attract your investors.",
+    "icon": "/icons/cd.pme.planaffaire.jpg"
+  },
+  "com.rafsan.growup099": {
+    "title": "GrowUp Ai : Face Scan & Coach",
+    "package": "com.rafsan.growup099",
+    "description": "GrowUp AI \u2013 Face Scan, Glow Up & Dopamine Detox Challenge\n\nTransform your face, habits, and mindset with one powerful self-improvement system.\n\nGrowUp AI combines AI face scan analysis, porn addiction recovery support, social media detox, habit building, and a structured 180 days glow up challenge.\n\nThis is not just a face rating app.\nIt\u2019s a complete self-discipline and transformation program.\n\n\ud83d\udd0d AI Face Scan & Weekly Glow Up Tracking\n\n\u2022 Advanced AI face scan & analysis\n\u2022 Personalized glow up suggestions\n\u2022 Facial improvement insights\n\u2022 Weekly progress comparison\n\u2022 Visual growth tracking system\n\nScan your face weekly and track visible improvement over time.\n\n\ud83d\udeab Porn Addiction Recovery & Dopamine Detox Program\n\nBreak destructive habits and rebuild discipline.\n\n\u2022 Porn addiction control Program",
+    "icon": "/icons/com.rafsan.growup099.jpg"
+  },
+  "com.stargazer.seeyourbabyai": {
+    "title": "SeeYourBabyAI Future Baby Face",
+    "package": "com.stargazer.seeyourbabyai",
+    "description": "Do you wonder what your future son or daughter will look like?\n\nSeeYourBabyAI is a premium baby face predictor app that uses artificial intelligence and facial recognition technology to analyze parents' photos and create a prediction of their future baby girl or boy.\n\n\ud83d\udc76 Try for Free!\n\nExtremely Simple to Use:\n\n1. Select a photo of you and your partner showing the face clearly.\n2. Tap 'Generate' and wait about 30 seconds.\n3. See your amazing future baby photo!\n\n\u27a1\ufe0fAre the photos generated instantly?\nYes! We create the photos in just a few seconds. You can share, download and create as many variations as you want!\n\n\u27a1\ufe0fHow to get the best results?\nChoose a high resolution photo of each partner with plenty of lighting and face clearly visible in the center of the photo.\n\nKey Features:\n\n\ud83d\udcf8 Intuiti",
+    "icon": "/icons/com.stargazer.seeyourbabyai.png"
+  },
+  "com.grupoprecedo.tarotai": {
+    "title": "Tarot AI Reading Chat",
+    "package": "com.grupoprecedo.tarotai",
+    "description": "Unlock your destiny with Tarot AI Reading Chat, the free AI tarot app where you can chat with intelligent tarot readers anytime. Get instant tarot card readings, love guidance, money insights, health advice, and daily tarot predictions through interactive AI chat conversations.\n\nWhether you need answers about relationships, career, future decisions, or personal growth, our AI tarot readers are ready to help 24/7.\n\n\ud83d\udd2e Chat with AI Tarot Readers\n\nChoose from different AI tarot readers, each with a unique style and energy. Open a private chat and ask any question about:\n\nLove & relationships\nCareer & money\nHealth & wellness\nFuture guidance\nPersonal decisions\nDaily tarot predictions\nSpiritual growth\n\nReceive personalized tarot readings based on your questions and discover the meaning of the car",
+    "icon": "/icons/com.grupoprecedo.tarotai.png"
+  },
+  "com.insect.identifier.bug.ID": {
+    "title": "Insect ID: Bug Identifier App",
+    "package": "com.insect.identifier.bug.ID",
+    "description": "Identify various species of insects with the powerful Bugs and Insects Identification application! Simply snap a picture of an insect with your camera, and it will immediately recognize them, offering you detailed data about its species, habitat, behavior, and more. \n\n\nWhether you\u2019re a teacher, a student, or simply someone passionate about bugs, the Insect Finder app is here to assist you in identifying and learning about insects with ease. From identifying bugs and spiders to finding detailed information on various insects, the Insect Identification app delivers quick and accurate results. Use the Insect AI ChatBot app to get extra answers you need in seconds.\n\nKey Features:\n\n[ Instant Identification ]: Easily snap a photo of any bug or insect, and this app will instantly provide you with",
+    "icon": "/icons/com.insect.identifier.bug.ID.png"
+  },
+  "com.astrologicmedia.dogtranslator": {
+    "title": "Dog Translator: Talk to Dogs",
+    "package": "com.astrologicmedia.dogtranslator",
+    "description": "Dog Translator: Talk to Dogs \ud83d\udc3e\n\nEver wondered what your dog would say if you could understand them? With Dog Translator, you can simulate talking to your pet using fun and realistic dog sounds!\n\n\ud83c\udfae Features\n\nDog Translator with barking & playful sounds\nSpeak into the app and hear it as dog sounds\nFun soundboard to get your dog\u2019s attention\nShare funny reactions with friends\n\nWorks with most dog breeds\n\n\ud83d\udc36 How it works\nRecord your voice or pick a sound, and the app plays it back as barks, whines, or playful noises. Watch your dog\u2019s hilarious reactions and enjoy the fun moments together!\n\n\u26a0\ufe0f Note\nThis app is for entertainment only. It doesn\u2019t truly translate dog language, but it\u2019s perfect for laughs, pranks, and bonding with your furry friend.\n\nDownload Dog Translator: Talk to Dogs today and st",
+    "icon": "/icons/com.astrologicmedia.dogtranslator.png"
+  },
+  "com.projem.mysterioustarot": {
+    "title": "Mysterious Tarot \u2013 AI Tarot",
+    "package": "com.projem.mysterioustarot",
+    "description": "Discover Mysterious Tarot \u2014 AI Tarot Readings You Can Hear and Feel\n\nGet instant, accurate, spoken Tarot readings powered by advanced artificial intelligence.\nWhether you\u2019re just learning Tarot or reading professionally, Mysterious Tarot guides you with clarity, depth, and intuition.\n\nAsk your question, choose your cards, and receive a fluent AI-generated Tarot interpretation with lifelike narration \u2014 no waiting, no confusion.\n\nExplore the wisdom of all 78 Tarot cards, start your day with the Card of the Day, and gain fresh insight into love, career, and life decisions.\n\n\ud83d\udd2e Why Mysterious Tarot?\n\n\u2022 AI-powered Tarot interpretations that sound natural and human\n\u2022 Audible Tarot readings you can listen to anytime\n\u2022 A complete Tarot encyclopedia for learning and mastery\n\u2022 Read with digital cards",
+    "icon": "/icons/com.projem.mysterioustarot.png"
+  },
+  "com.itechgemini.rooted": {
+    "title": "Ancestry AI: Heritage & DNA",
+    "package": "com.itechgemini.rooted",
+    "description": "Discover the story hidden in your face.\n\nAI Face Nationality Scanner analyses your facial features to estimate your ethnicity, nationality percentages, and ancient origins, all from a single photo. Explore your heritage in seconds and uncover the cultures that may have shaped who you are today.\n\nUsing advanced AI facial analysis, the app compares your features with a global database to generate an in-depth ancestry-style report. From modern nationality breakdowns to ancient civilisation matches, your origin story begins with one scan.\n\nDiscover Your Ethnicity & Nationality\nGet a detailed percentage-based estimate of your possible ethnic background and nationality mix. See how different regions of the world connect to your appearance.\n\nAncient Civilization Match\nWere your features shaped by",
+    "icon": "/icons/com.itechgemini.rooted.jpg"
+  },
+  "com.pastlives.climb.mobi": {
+    "title": "PastLives",
+    "package": "com.pastlives.climb.mobi",
+    "description": "Uncover the mysteries of your past with PastLives, the mystical app designed to give you a glimpse into who you might have been in a previous life! Using your name, birth date, birthplace, and specific details you provide, PastLives reveals fascinating insights into your possible past existence.\n\n\ud83d\udd2e Who Were You in a Past Life?\nCurious about your spiritual journey through time? PastLives uses the data you provide to estimate who you could have been in a past life, presenting you with intriguing details such as your name, birthplace, profession, and more from that time.\n\n\ud83c\udf0d Explore Your Ancestors\nPastLives also offers a rich database of names and surnames. By entering your family name, you can potentially trace your ancestors, giving you a unique connection to the past, all based on official ",
+    "icon": "/icons/com.pastlives.climb.mobi.jpg"
+  },
+  "com.estudyme.toefl": {
+    "title": "Practice for TOEFL\u00ae Test Pro",
+    "package": "com.estudyme.toefl",
+    "description": "TOEFL\u00ae Test Pro \u2013 Your Complete TOEFL Preparation Companion\n\nJoin thousands of learners worldwide who trust TOEFL\u00ae Test Pro as their go-to tool for mastering English skills and achieving their dream scores. Designed to keep you in top English shape, the app provides a personalized learning path with extensive practice tests, mock exams, and interactive study resources that make learning fun, effective, and stress-free.\n\nWith TOEFL\u00ae Test Pro, you can build all-rounded skills for TOEFL iBT:\n\n\u2022 Reading Practice Tests\n\u2022 Listening Practice Tests\n\u2022 Speaking Practice Tests\n\u2022 Writing Practice Tests\n\u2022 Grammar Exercises\n\u2022 Vocabulary Builder\n\nWhy Choose TOEFL\u00ae Test Pro?\n\nOur app not only helps you understand the TOEFL\u00ae test format but also equips you with the confidence to overcome every challenge in",
+    "icon": "/icons/com.estudyme.toefl.png"
+  },
+  "com.face2yourself.faceyourself": {
+    "title": "Face Yourself: Human Design",
+    "package": "com.face2yourself.faceyourself",
+    "description": "Face Yourself is a next-generation self discovery app that brings together face analysis, face shape insights, golden ratio exploration, and human design in one clear and modern experience. If you want to understand your face, your bodygraph, your personality pattern, and your daily energy in a more connected way, Face Yourself gives you a practical and reflective space to begin.\n\nAt the center of the app is advanced face analysis designed to help you explore facial structure, face symmetry, facial symmetrical balance, and overall face harmony in a personal and easy-to-read format. Instead of offering harsh judgments, Face Yourself presents face analysis as a self discovery tool. You can examine your face shape, study your face map, review your beauty score, and better understand how your ",
+    "icon": "/icons/com.face2yourself.faceyourself.png"
+  },
+  "com.testsucceed.toefl": {
+    "title": "TOEFL Practice",
+    "package": "com.testsucceed.toefl",
+    "description": "Download Best App for TOEFL Prep :\n- 30+ TOEFL Mock Tests\n- official scoring of your Speaking and Writing Responses with sample answers and corrections.  \n- Detailed Explanations for every questions in Listening and Reading\n- 2000+ separate Tasks to get the highest score in TOEFL",
+    "icon": "/icons/com.testsucceed.toefl.png"
+  },
+  "krin.devy.aifacecheckerfacefindimagesearch": {
+    "title": "Face Checker ID\uff1aAI Search",
+    "package": "krin.devy.aifacecheckerfacefindimagesearch",
+    "description": "Face Checker ID: AI Search is an advanced face recognition and reverse lookup app that helps you identify people using cutting-edge biometric scanning and online search tools. Whether you're looking to verify an identity, reconnect with someone, or perform a quick background check, this app is your all-in-one solution to search across popular social platforms using just a photo.\n\nSmart Face Recognition & Reverse Image Lookup Across Social Platforms\nFace Check AI is your ultimate tool for exploring the web through photos. Developed by Persist Ventures, this AI-powered app helps you uncover the online presence of people with just a single image. Ever wondered where a photo might appear online? Face Check AI does the work for you, scanning the web for websites and links that may feature simil",
+    "icon": "/icons/krin.devy.aifacecheckerfacefindimagesearch.png"
+  },
+  "com.zivanafa.linenaildesigns.nailartdesigns": {
+    "title": "Nail Art Designs",
+    "package": "com.zivanafa.linenaildesigns.nailartdesigns",
+    "description": "The nail art designs application is an application that allows users to get inspiration for unique and attractive nail designs. This application can be accessed through smartphones or tablets and provides convenience for users to find nail designs that suit their tastes and needs.\n\nIn this application, there are various types of nail designs available, ranging from acrylic nail art, simple nail art, cute nail art, easy nail art, gel nail art, summer nail art, DIY nail art, winter nail art, Halloween nail art, Christmas nail art, French nail art, flower nail art, ombre nail art, black nail art designs, gold nail art, glitter nail art designs, pink nail art, blue nail art designs, red nail art designs, purple nail art designs, white nail art designs, neon nail art designs, galaxy nail art, r",
+    "icon": "/icons/com.zivanafa.linenaildesigns.nailartdesigns.jpg"
+  },
+  "com.animechat.anime_chat_app": {
+    "title": "Aihime - Anime Waifu Chat",
+    "package": "com.animechat.anime_chat_app",
+    "description": "Step into the world of anime romance and companionship with Waifu.AI Chat \u2013 your ultimate AI-powered anime girlfriend experience!\n\n\ud83c\udf38 Talk, Flirt, Laugh \u2013 Just Like in an Anime!\nConnect with characters inspired by popular anime personalities. Whether it\u2019s a tsundere warrior, a shy mage, or a cheerful best friend, each girl has a unique backstory, voice, and personality!\n\n\ud83d\udcac Powered by Advanced AI \nEnjoy lifelike, unscripted conversations. Ask questions, vent your thoughts, roleplay your fantasy \u2013 the AI responds with surprising depth and emotion.\n\n\ud83c\udfa8 Beautifully Illustrated Characters\nGorgeous 2D anime avatars make every interaction visually immersive and emotionally engaging.\n\n\ud83c\udf81 Free Messages to Start\nGet 50 free messages to begin your journey. Unlock more for deeper connections and exclusiv",
+    "icon": "/icons/com.animechat.anime_chat_app.jpg"
+  },
+  "com.wix.admin": {
+    "title": "Wix - Website Builder",
+    "package": "com.wix.admin",
+    "description": "The Wix website builder app gives you the ability to design, customize and manage your website and online business from anywhere. The intuitive website maker will give you the tools you need to create and manage your business website, online store, blog and more.\n\nOver 220 million people worldwide choose the Wix website creator and business manager to create professional online websites and manage every aspect of their business on the go. \n\nWhether your goal is to start a blog, build an online store, manage your business, or create a portfolio website, you can do it all using Wix\u2019s powerful website builder from the Wix app.\n\nCreate a website with our website creator to manage and grow your brand and business:\n* Create any kind of website\u2014from a travel blog, professional portfolio or eComme",
+    "icon": "/icons/com.wix.admin.png"
+  },
+  "ru.kslabs.ksweb": {
+    "title": "KSWEB: web developer kit",
+    "package": "ru.kslabs.ksweb",
+    "description": "Now with Apache server and the text editor with code highlighting!\n\nDo you want to have a platform for running sites on PHP in any convenient place? It's possible! It is enough to install KSWEB on your Android device and copy scripts to the htdocs folder on the memory card. After that, you can run your web content! So, KSWEB is a set for web developer for the Android platform. The package consists of: web server, FTP server, PHP programming language, MySQL DBMS and scheduler. KSWEB does not need root rights for proper functioning, unless, of course, you want to use the server on port 80. By the way, it can be convenient when opening your server on the Internet. This will allow you to have a small hosting in your pocket!\n\nKSWEB is completed with a scheduler with cron-like expressions. Plan ",
+    "icon": "/icons/ru.kslabs.ksweb.webp"
+  },
+  "com.yodhaapp.dailyhoroscope": {
+    "title": "Yodha My Daily Horoscope",
+    "package": "com.yodhaapp.dailyhoroscope",
+    "description": "Yodha daily horoscope app is a day to day insight into what zodiac signs have in store for you. While stars move across the sky, the team of 300+ astrologers makes fresh horoscopes for you.\n \nWhy do people like the Yodha app? \n \n - Authentic. Every morning, Vedic astrologers in Nepal release new predictions.\n \n - Up to date. Today\u2019s horoscopes are for all 12 signs: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces.\n \n - Motivating. With reminders, a daily dose of inspiration from the Universe for your love life, personal growth, relationships, education, career, and fortune is never missed.\n \n - No ads, no bugs. Plus all content is free of charge.\n \nWhy are horoscopes accurate?\n \nOur daily horoscopes are the product of the synergy betwe",
+    "icon": "/icons/com.yodhaapp.dailyhoroscope.png"
+  },
+  "com.iit.tcs": {
+    "title": "Interview Question and Answers",
+    "package": "com.iit.tcs",
+    "description": "This interview preparation app provides you a wide range of Job Interview Questions from Freshers to Experienced Job seeking applicants. It comprises more than 100000 interview questions and sample answers.\n\nIf you are looking for different areas of job interview questions, then this app can be more helpful to you to win any job interview. The interview questions in this app are also useful for the interviewer, employer, human resource HR in order to find the best candidates for a particular job or the organization.\n\nApart from the common HR job interview questions, we have also provided the most helpful interview tips for each question including a personality test, phone interview, aptitude test and many more.\n\nIt will also boost your confidence, communication skills and make you smart en",
+    "icon": "/icons/com.iit.tcs.png"
+  },
+  "com.lethimcook.recipe_app": {
+    "title": "Cook AI - Recipe Maker",
+    "package": "com.lethimcook.recipe_app",
+    "description": "NEVER WONDER WHAT TO COOK AGAIN\n\nCook AI is an AI recipe maker that turns the ingredients you already have into recipe ideas instantly.\n\nSnap a photo of your fridge, pantry, groceries, or leftovers and get recipes based on what you already have. No endless searching. No missing-ingredient frustration. No staring at the fridge trying to figure out dinner.\n\n\ud83c\udf73 AI RECIPES FROM YOUR INGREDIENTS\n\nMost recipe apps start with recipes.\n\nCook AI starts with your ingredients.\n\nTake one photo and let Cook AI help detect what you have, then create recipe ideas around your food. Random vegetables, pantry items, leftovers, fresh produce, frozen food, or whatever is sitting in your kitchen, Cook AI helps turn it into a meal.\n\nUse Cook AI as your AI recipe generator, meal idea generator, cooking assistant,",
+    "icon": "/icons/com.lethimcook.recipe_app.png"
   }
 }
