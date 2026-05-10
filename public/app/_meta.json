@@ -78717,5 +78717,595 @@
     "package": "com.pcgs.coinfacts",
     "description": "U.S. Coin collectors finally have the resource needed to make informed numismatic buying, selling and trading decisions, thanks to the PCGS CoinFacts mobile app.  The world\u2019s largest encyclopedia of U.S. coins now fits in your pocket and is 100% free to use.  Download this coin collecting mobile app today to access coin values, images, narratives, auction prices realized, and more for over 39,000 U.S. coins.\n\nFeatures include:\n\n* Barcode scanning for coins graded by PCGS or NGC provides instant coin look-up functionality.\n* PCGS Price Guide listings for all silver, gold, and copper U.S. Coins in every grade!\n* Complete PCGS population statistics (over 30 years of data)\n* Over 3.2 million auction prices realized from PCGS & NGC graded coins, pulled from over 5,800 auctions, including Herita",
     "icon": "/icons/com.pcgs.coinfacts.png"
+  },
+  "com.yorgisoftware.SnakeAIIdentifier": {
+    "title": "com.yorgisoftware.SnakeAIIdentifier",
+    "package": "com.yorgisoftware.SnakeAIIdentifier",
+    "icon": "/icons/com.yorgisoftware.SnakeAIIdentifier.jpg"
+  },
+  "com.alessandrodefrancesco.atlas": {
+    "title": "Atlas - Fantasy Map Generator",
+    "package": "com.alessandrodefrancesco.atlas",
+    "description": "A.t.l.a.s. (Automatic Terrain and Labels Software) is a map-making tool that will help you create your personal maps for use in RPG games, D&D sessions, and anything else you want.\n\nIt uses procedural generation to create new and unique maps every time. Each map that you create is one-of-a-kind!\n\nA.t.l.a.s. will generate a beautiful 3D map that looks like a diorama, as well as a useful 2D map for precise mapping and terrain description for your campaign, story, or game!\n\nYou can add the places you want, and A.t.l.a.s. will automatically place them on the map for you. If you're not satisfied, you can edit them as you wish after the map has been generated or regenerate the entire map with a tap!",
+    "icon": "/icons/com.alessandrodefrancesco.atlas.png"
+  },
+  "com.lens.scan.ai.app": {
+    "title": "Lens AI: Identify Anything",
+    "package": "com.lens.scan.ai.app",
+    "description": "LENS AI \u2013 AI Scanner & Identifier - Identify EVERYTHING!\n\nFind people faster with DeepSearch, search across apps and platforms using just a photo!\n\nIdentify anything fast with AI! Scan and recognize \ud83d\udc36 Dog Breeds, \ud83d\udc31 Cats, \ud83d\udcb0 Coins, \ud83e\udea8 Stones, \u26f0\ufe0f Rocks, \ud83c\udf3f Plants, and \ud83c\udf3a Flowers with LENS AI.\n\n\ud83d\udd0d AI Scanner for Everything!\nTry LENS AI to quickly scan and identify objects around you. Just take a picture or show it to your camera, and let Lens AI do it for you.\n\n\ud83d\udc3e Animal & Pet Identifier\nIdentify animals & pets like \ud83d\udc15 dogs, \ud83d\udc08 cats, and dog breeds. If it\u2019s a dog, cat, or any other pet, LENS AI helps you recognize breeds accurately.\nWant to learn more about your pet\u2019s breed, history, or characteristics? LENS AI gives you fast details.\nScan animals or unknown pets and get valuable insights with Lens A",
+    "icon": "/icons/com.lens.scan.ai.app.jpg"
+  },
+  "com.lbmobil.sportsvalue": {
+    "title": "Sports Card Value Scanner AI",
+    "package": "com.lbmobil.sportsvalue",
+    "description": "Scan your sports cards instantly and discover their real market value with AI.\n\nSports Card Value Scanner AI helps collectors identify cards, estimate prices, analyze market trends, and manage their collection with confidence. Simply take a photo of your card and let our AI extract detailed information in seconds.\n\nGet more than just a price.\n\n\u2022 Instant sports card scanning\n\u2022 AI-powered value and market price estimates\n\u2022 Real-time market insights and pricing trends\n\u2022 Detailed card information and specifications\n\u2022 Collection management and tracking\n\u2022 Monitor your collection\u2019s total value over time\n\u2022 Save, organize, and track your cards easily\n\nWhether you collect baseball cards, basketball cards, football cards, or other trading cards, this app helps you understand what your cards are worth",
+    "icon": "/icons/com.lbmobil.sportsvalue.png"
+  },
+  "com.random.ddnexuss": {
+    "title": "com.random.ddnexuss",
+    "package": "com.random.ddnexuss",
+    "icon": "/icons/com.random.ddnexuss.png"
+  },
+  "online.fantasyailite.android": {
+    "title": "Fantasy.AI Lite:Chat Character",
+    "package": "online.fantasyailite.android",
+    "description": "Your personal AI companion is waiting\u2026\n\nStep into a world where your virtual girlfriend remembers your conversations, shares romantic moments, and responds to you in real-time. Designed for immersive, emotional connections, our AI companion grows closer with every chat.\n\nKey Features:\n\nUnlimited Romantic Chats: Connect anytime, anywhere.\n\nExclusive Photos & Videos: Enjoy mature and immersive content (age-appropriate, safe for display).\n\nPersonalized AI Responses: Real-time interactions that adapt to your conversations.\n\nPrivate Fantasy Space: Explore your imagination and shared moments in a secure, private environment.\n\nVoice & Video Interaction: Voice messages and calls to deepen your connection.\n\nIntimacy Progression: Unlock more engaging experiences as your relationship develops.\n\nOur A",
+    "icon": "/icons/online.fantasyailite.android.png"
+  },
+  "com.artmvstd.snakeIdentifier": {
+    "title": "Snake Identifier: AI Scanner",
+    "package": "com.artmvstd.snakeIdentifier",
+    "description": "Whether you encounter a cobra, a harmless garden snake, or even a lizard, simply snap a photo and get instant results.\n\nOur snake identifier is designed for hikers, campers, pet owners, and anyone who wants to stay safe outdoors. Using advanced AI, the app not only tells you if the reptile is venomous or harmless but also provides safety tips and emergency guidance.\n\nKey Features:\n\n\u221a Instant Snake Identifier \u2013 Snap a photo and recognize snakes in seconds.\n\u221a Venomous or Harmless \u2013 Find out if that cobra or other reptile is dangerous.\n\u221a Reptile Identifier App \u2013 Works for snakes, lizards, and other reptiles.\n\u221a Emergency Bite Guide \u2013 Know exactly what to do in case of a snakebite.\n\u221a Offline Mode \u2013 Identify snakes and reptiles even without internet access.\n\u221a  Learn About Reptiles \u2013 Get detailed",
+    "icon": "/icons/com.artmvstd.snakeIdentifier.png"
+  },
+  "jp.tanaike.correlation": {
+    "title": "Relationship Map AI",
+    "package": "jp.tanaike.correlation",
+    "description": "Simple Relationship Map is an app that automatically generates relationship maps based on your instructions using the latest AI technology. You can efficiently create various types of maps for your needs.\n\nIt is used in various situations such as:\n- Creating relationship maps for people\n- Creating organizational charts\n- Creating industry-related diagrams\n- Creating network maps\n- Creating stakeholder relationship maps for projects\n- Creating collaboration/competition diagrams for businesses\n\nIn addition, it can be used for any purpose that requires a relationship map, and there have been reports of various creative uses. If you are looking for a way to visualize relationships, please give it a try.\n\n[Features]\n- Intuitive operability\n  Ease of use is the most important factor. It runs smo",
+    "icon": "/icons/jp.tanaike.correlation.png"
+  },
+  "evolly.plant.id.ai": {
+    "title": "Plant Identifier AI Plant Care",
+    "package": "evolly.plant.id.ai",
+    "description": "Plant ID is a powerful plant identification app that helps you identify plants and flowers simply by taking a photo of them. With its advanced image recognition technology, the app can accurately identify over 1 million plant species in seconds. Whether you're a seasoned gardener or just someone who enjoys the beauty of nature, Plant ID is the perfect tool to help you learn about the plants and flowers around you.\n\nKey Features:\n\nInstant plant identification: Take a photo of any plant or flower and Plant ID will quickly and accurately identify it.\n\nPlant disease diagnosis and treatment: If your plant is looking sick, Plant ID can help you diagnose the problem and provide treatment recommendations.\n\nAccurate and fast identification: Plant ID uses state-of-the-art machine learning algorithms",
+    "icon": "/icons/evolly.plant.id.ai.png"
+  },
+  "com.aipics.gp": {
+    "title": "CoCola: Aging & AI Stylist",
+    "package": "com.aipics.gp",
+    "description": "The main function\n1. Aging\n2. AI Stylist\n3. Hair style\n4. AI Magic Videos\n5. AI Portraits\n\nAging\nAll you need to do is upload a photo, and the AI can precisely what you will look like decades from now.It can also take you back in time and see your younger self on screen.\n\nAI Stylist\nAI stylist function will analyze your face contour and skin color features through deep learning, and intelligently match the most suitable hairstyle, makeup plan and dressing style from a vast amount of fashion data. \n\nHair Style\nExperiment with a lot of hairstyles in seconds to find your perfect match\u2014preview styles before the salon visit to avoid regrets.\n\nAI Magic Videos\nThe platform offers a variety of creative AI special effects and dynamic video templates, supporting the one-click generation of fun video",
+    "icon": "/icons/com.aipics.gp.png"
+  },
+  "com.aicover.ai": {
+    "title": "Sing AI: Music\u00a0& Song Covers",
+    "package": "com.aicover.ai",
+    "description": "Transform your voice and create stunning vocal covers effortlessly with Sing AI. Whether you\u2019re a beginner exploring your vocal potential or a seasoned singer refining your talent, Sing AI provides the ultimate tools to perfect your covers and captivate your audience.\n\nKey Features\n\n- Professional Vocal Covers: Create high-quality covers that match your style and tone.\n\n- Advanced Pitch Correction: Fine-tune every note with precise pitch control for flawless performance.\n\n- Studio-Level Audio Editing: Enhance clarity, add effects, and balance your tracks like a pro.\n\n- Expansive Song Library: Access a wide variety of tracks across genres, updated regularly.\n\n- Vocal Training: Improve vocal range, control, and technique with personalized training tools.\n\n- Easy Recording & Sharing: Record y",
+    "icon": "/icons/com.aicover.ai.png"
+  },
+  "my.ai.mind.map": {
+    "title": "AI Markmap Mind Map Generator",
+    "package": "my.ai.mind.map",
+    "description": "AI Mind Map is power by AI, it can help you automatically generate mind map using markdown syntax. It is also a Markmap Live Editor(contains portrait and landscape view)\n\nMain features:\n  1. Automation: It can use AI to help you generate mindmaps.\n\n  2. Easy to use: It uses markdown syntax to quickly create mindmaps without learning complex drawing tools or syntax.\n\n  3. Multiple element types: It supports multiple element types, allowing you to flexibly express your ideas and concepts.\n\t\t\t\t\n  4. Fully customizable: It can customize the appearance and behavior of the mindmap as needed.\n\t\t\t\t\nUsing AI Mind Map, you can save valuable time and energy, making your work more efficient and easier.",
+    "icon": "/icons/my.ai.mind.map.png"
+  },
+  "io.mi.ra.kee": {
+    "title": "Miraquill: Write Quotes, Poems",
+    "package": "io.mi.ra.kee",
+    "description": "Writing App\n\nMiraquill is the most addictive creative writing platform connecting a global community of writers, readers and poets through the power of words. \n\nShowcase your quotes, poems, stories, micro-tales, blogs, haikus, or any kind of write-ups and design them into visually stunning posts using in-app designing tools. Share your thoughts and emotions through creative writing.\n\nMiraquill is a completely new experience of sharing your thoughts. It is a paradise for writers, poets and readers.  \n\nWrite, edit and copyright\nWrite and edit your quote, poem or story and copyright your original words. Share your quotes and poetry across various platforms as words on picture. Use this writing app as your social writing journal or diary and write your text on images.  \n\nImprove your writing s",
+    "icon": "/icons/io.mi.ra.kee.png"
+  },
+  "com.jg.plantdisease": {
+    "title": "Plant disease",
+    "package": "com.jg.plantdisease",
+    "description": "Plant Disease is a practical tool for gardeners, farmers, and plant enthusiasts to identify and manage plant health issues.\n\nMain Features:\n\nPlant disease identification: Take a photo of your plant to detect diseases and learn how to treat them.\n\nPest recognition: Capture images of insects to find out which pests are affecting your plants.\n\nText-based diagnosis: Describe the symptoms in words to get suggestions about possible diseases and solutions.\n\nAdditional Features:\n\nPlant identification: Identify plant species easily through photos.\n\nLight measurement: Check the light intensity around your plants to ensure proper growth conditions.\n\nPlant finder: Discover plant species that match your environment or preferences.\n\nPot size calculator: Estimate the right pot size for your plants based ",
+    "icon": "/icons/com.jg.plantdisease.png"
+  },
+  "com.diagnosticapp.app": {
+    "title": "1A Auto: Parts & Repair Videos",
+    "package": "com.diagnosticapp.app",
+    "description": "The 1A Auto Diagnostic & Repair app will guide you through your automotive repair, whether you are a first time do-it-yourselfer or a life-long technician. With over 23,000 in-depth auto repair & diagnostic videos, you are sure to find answers to your automotive problems.\n\nThis car & truck repair app has the following features:\n- Learn from professional technicians about how to diagnose and repair vehicles like yours\n- Search the auto repair video library by your year, make, and model\n- Learn how to diagnose your vehicle using your senses \u2014 seeing, hearing, feeling, or smelling\n- Navigate check engine light codes and learn what causes them\n- Shop for the quality auto parts used in the videos\n- Use time stamps to jump ahead to the part of the video you need\n- Read the step-by-step written i",
+    "icon": "/icons/com.diagnosticapp.app.png"
+  },
+  "com.digiport.getflix.vpn": {
+    "title": "Getflix VPN",
+    "package": "com.digiport.getflix.vpn",
+    "description": "Getflix's Official VPN application. Do you want to Secure yourself on Public Wifi? Do you want to browse Privatly on Public Networks? Getflix VPN is here to help you with securing your search on a public network without any hassles by changing the IP address of your connection. \n\nGetflix is the most Secure and Fast VPN that has over 50 VPN network servers across the world. It has the top performing proxy servers that are fast, secure, and reliable. A low latency proxy network allows you to play favourite multiplayer mobile games like PUBG, Free Fire, Apex Legends, and Roblox without any lags.\n\nBest in class features \ud83d\udcaa\n\nReliable VPN Servers \ud83d\udd12\nPreserve your privacy with getflix. We ensure that your browsing remains private all the time when you enable the VPN. Do a safe search when connected",
+    "icon": "/icons/com.digiport.getflix.vpn.webp"
+  },
+  "com.wgkammerer.testgui.basiccharactersheet.app": {
+    "title": "Fifth Edition Character Sheet",
+    "package": "com.wgkammerer.testgui.basiccharactersheet.app",
+    "description": "A complete multiple page character sheet for a fifth edition tabletop role playing game. Also includes a character creator for quickly making characters.\n\nCustomizable 5 page character sheet:\n- Create, save, and edit multiple characters\n- Automatically calculate: ability modifiers, armor class, skill bonuses, etc.\n- Track hit points, damage, temporary hp\n- Highlights skill proficiencies\n- Manage multiple weapons with calculated attack and damage\n- Spell book with spell attack bonuses, spell DC, and spell slots tracking\n- Notes and Features page along with currency tracker\n- Hide pages you don't need, reorder pages as you want\n\nBasic Character Creator\n- Build complete level one characters in seconds\n- Includes options for races, sub-races, classes, backgrounds, and more\n\n\nWhether you're sla",
+    "icon": "/icons/com.wgkammerer.testgui.basiccharactersheet.app.png"
+  },
+  "com.panaustik.pokerodds": {
+    "title": "Poker Odds",
+    "package": "com.panaustik.pokerodds",
+    "description": "This application makes it possible to precisely estimate the probabilities of winning a game of Poker, but above all to determine your expectation of winning throughout the game.\n\nThe expectation of winning is more important than the probability of winning the game.\n\nSuppose at some phase of the game you have determined that you have a 25% chance of winning. You bet 100 and the other players 400. One time out of four you will win 400 and three times out of four you will lose 100. In the end your average win would be 400x0.25-100x0.75 = 25. Despite the low probability, you are statistically winner!\n\nThe application works in real condition: you don't have to know the cards of other players. The only data needed is:\n     \u2022 The value of the cards in your hand.\n     \u2022 Your bets and those of oth",
+    "icon": "/icons/com.panaustik.pokerodds.png"
+  },
+  "com.testa.agebotpremium": {
+    "title": "Face Analyzer - AgeBot PRO",
+    "package": "com.testa.agebotpremium",
+    "description": "Want to look younger and keep your mind sharp?\nAgeBot PRO is the premium app that analyzes your real age, facial age, and mental age using advanced AI \u2013 and gives you personalized recommendations to look fresher and keep your brain active.\nOne-time purchase, no ads, full access to all features.\n\nWhy choose AgeBot PRO?\nIf you\u2019re looking for an app to monitor your appearance, understand how young you really look, and receive AI-powered tips to improve your face and mind, AgeBot PRO is made for you.\n\nKey Features\n- Face Age Scanner (AI-powered)\nUpload or take a photo and let our AI estimate your facial age. Get advice on routines and lifestyle tips to appear younger week by week.\n- Real Age Calculator\nDiscover your exact age expressed in years, months, days, hours, and minutes from your birth",
+    "icon": "/icons/com.testa.agebotpremium.jpg"
+  },
+  "mechsit.ai.obd2gpt": {
+    "title": "AI Mechanic",
+    "package": "mechsit.ai.obd2gpt",
+    "description": "Revolutionize your car care experience with AI Mechanic, the next evolution in vehicle troubleshooting. This cutting-edge app transforms your smartphone into an advanced diagnostic tool, enhanced with AI to provide deeper insights and actionable advice for car maintenance and repair.\n\nKey Features:\n\nAI-Powered Diagnostics: Go beyond traditional OBD2 scanning with our AI-driven diagnostic feature. Simply describe your car's symptoms, and AI Mechanic will analyze the issues, offering potential causes and symptoms for a wide range of vehicle malfunctions.\n\nInstant OBD2 Decoding: Input any OBD2 code and receive an instant, comprehensive breakdown, including classifications like 'P' for powertrain, 'B' for body, 'C' for chassis, and 'U' for network-related issues.\n\nGuided Repair Steps: Benefit ",
+    "icon": "/icons/mechsit.ai.obd2gpt.png"
+  },
+  "com.photosolutions.makeup": {
+    "title": "Virtual Makeup & Makeup Editor",
+    "package": "com.photosolutions.makeup",
+    "description": "Makeup Editor is the perfect Photo Makeup App to give yourself a full virtual makeover.\nWanna be charming and gorgeous? You don\u2019t know how to make up? Don\u2019t worry about that. Everyone can make up with Makeup Photo Editor even if a person has never make up before.\n\n\u2605 Makeup Editor has the most advanced tools that automatically recognize your face and apply the perfect make-up to your photo!\n\n \u2605Makeup Editor allows you to add beauty makeup on photo in 5 seconds!\nJust select makeup items you like (lipstick, eyebrows, eyelashes, eye ) and Best Makeup will add makeup on your photo automatically!\n\n- Remove wrinkles and other facial imperfections with smoothing function.\n\n-   Lipstick changer: different lip stick colors allows you to make up your lips in case you forgot to apply lipstick before t",
+    "icon": "/icons/com.photosolutions.makeup.png"
+  },
+  "com.mgp.plantdiseasedetection": {
+    "title": "Plant Disease Detector",
+    "package": "com.mgp.plantdiseasedetection",
+    "description": "Introducing our innovative mobile application, the Plant Disease Detector, a cutting-edge solution designed to revolutionize the way farmers and gardeners monitor and protect their crops. This user-friendly app harnesses the power of advanced image recognition technology to swiftly and accurately identify potential diseases affecting plants.\n\nWith a simple interface, users can easily capture high-quality images of plant leaves or affected areas using their mobile devices. The application then employs a sophisticated algorithm to analyze these images, comparing them against an extensive database of plant diseases. In a matter of seconds, users receive detailed diagnostic reports, complete with information on the identified disease, its severity, and recommended courses of action.\n\nThe Plant",
+    "icon": "/icons/com.mgp.plantdiseasedetection.jpg"
+  },
+  "com.sjh.haircolor.eyecolor.changer.real.ai": {
+    "title": "Hair Color Changer Real AI",
+    "package": "com.sjh.haircolor.eyecolor.changer.real.ai",
+    "description": "The Hair Color Changer app has the greatest and coolest collection of predefined hair color shades, Also using the eye color changer feature where you can change the lens color of your eyes.\nThis Hair Styling App customizes the hair color using its great AI technology.\n\nUsing the live hair color try on feature, you may alter and examine your hair color with this change hair color app. One of the greatest live hair color changer and hair styling app with a variety of color possibilities is a Hair Color Changer.\n\n\u27a4 Eye Color Changer Feature:-\nIt has 100s of elegant eye lenses; you don\u2019t need to download any other eye color changer app to use this feature.\n\n\u27a4 Steps to change hair color live:-\nIn app, open Camera > Adjust your face through front or back camera > select desired hair color > Adj",
+    "icon": "/icons/com.sjh.haircolor.eyecolor.changer.real.ai.png"
+  },
+  "com.insectidentifier.bugfinder": {
+    "title": "Insect Scanner: Bug Identifier",
+    "package": "com.insectidentifier.bugfinder",
+    "description": "Discover insects easily with a bug identifier and bug finder designed for fast and simple use. This fly identifier helps you identify bugs from photos using insect recognition.\nIf you\u2019ve ever wondered, \u201cWhat bug is this?\u201d, this Insect Identifier and bug finder app gives you a quick and reliable answer.\nJust open the camera, scan, and let the bug identifier do the work. The bug detector analyzes your image and helps you identify bugs within seconds.\nOur bug identifier is built to be fast, simple, and effective. With the help of a bug finder and bug detector, you can easily explore insects around you. Whether you are at home or outside, this bug identifier and bug finder help you recognize different species using advanced insect recognition.\nThis spider identifier app is more than just a bug",
+    "icon": "/icons/com.insectidentifier.bugfinder.png"
+  },
+  "com.rosyglow.video": {
+    "title": "RosyGlow: AI Fantasy Maker",
+    "package": "com.rosyglow.video",
+    "description": "RosyGlow: AI Fantasy Maker\nPrivate filters \u2013 just for you. Transform any photo into stunning videos with one tap.  \nRosyGlow delivers next-level AI magic with trending effects, dancing templates, cinematic filters, and fresh viral styles updated every day.\n\nHighlights  \n\u2022 One photo \u2192 Instant AI video  \n\u2022 Try the hottest dances  \n\u2022 Anime, retro, glow-up, and fantasy effects  \n\u2022 New templates every week  \n\u2022 100% privacy: Photos & videos never stored, never shared, deleted instantly  \n\nNo editing skills needed. Upload a selfie, pick your vibe, and create scroll-stopping videos in seconds. Everything is processed securely on-device or with encrypted instant processing \u2014 nothing is ever saved.\n\nJoin RosyGlow \u2013 your everyday AI magic maker!",
+    "icon": "/icons/com.rosyglow.video.png"
+  },
+  "com.nextdio.hairstyle": {
+    "title": "AI Hairstyle Try On & Haircut",
+    "package": "com.nextdio.hairstyle",
+    "description": "AI Hairstyle Try On is a hair simulator and color changer that lets you preview haircuts before you commit. Try wolf cuts, curtain bangs, bixie cuts, butterfly cuts, shag, mullet, pixie, bob, lob, undercut, fade and hundreds more on your own selfie in seconds.\n\n\u2702\ufe0f AI HAIRCUT TRY ON\nSee yourself with any hairstyle instantly. Trendy cuts, classic looks and viral styles \u2013 all on your own face. A hairstyle try on app for women and men.\n\n\ud83c\udfa8 HAIR COLOR CHANGER\nTry balayage, ombre, highlights, money piece, blonde, brunette, red or bold fashion colors \u2013 no salon, no commitment, no regrets.\n\n\u2728 TRENDING HAIRSTYLES\n\u2022 Wolf cut & bixie cut\n\u2022 Butterfly cut & shag layers\n\u2022 Curtain bangs, fringe & blunt bangs\n\u2022 Money piece highlights\n\u2022 90s perms & 70s shag\n\u2022 Modern mullet & taper fade\n\n\ud83d\udc87 HAIRSTYLES FOR MEN",
+    "icon": "/icons/com.nextdio.hairstyle.png"
+  },
+  "com.weipaitang.coin": {
+    "title": "HeritCoin: AI Coin Identifier",
+    "package": "com.weipaitang.coin",
+    "description": "Easy Operation!\nHeritCoin is your ultimate coin identifier, using AI and expert knowledge to identify coins and notes through photo identification. Our app helps numismatists, collectors, and hobbyists quickly understand and value their collections by identifying subtle varieties and strike types.\nKey Features:\n1.Effortless Identification:\nIdentify the value of your coins and notes through photo identification. Our AI now accurately identifies specific varieties (like Small/Large dates) and distinguishes between Proof and Business strikes. Expand your collection with every new item you discover.\n2.Expert Appraisal Services:\nNeed to verify the authenticity and get accurate valuations? HeritCoin connects you with experts for precise coin and note identification, variety verification, and app",
+    "icon": "/icons/com.weipaitang.coin.png"
+  },
+  "dev.aliyapici.glowify": {
+    "title": "AI Skin Scanner: Glowify",
+    "package": "dev.aliyapici.glowify",
+    "description": "Glowify: Your AI-Powered Skincare Assistant\nGlowify is your ultimate companion for healthy, radiant skin. Combining advanced AI skin analysis, personalized routines, and expert insights, Glowify simplifies your skincare journey with features designed for real results.\n\nKey Features\n1. AI Skin Scanner and Analysis\nAnalyze your skin with our advanced AI-powered skin scanner. Get detailed scores on acne, pores, wrinkles, and oiliness. Receive tailored solutions, actionable insights, and recommendations to address your unique skin concerns.\n\n2. Interactive AI Chat\nHave questions about your skin? Chat with Glowify\u2019s AI skincare assistant to get instant answers, personalized advice, and product recommendations. From acne-safe tips to general skincare guidance, Glowify is here for every skin-rela",
+    "icon": "/icons/dev.aliyapici.glowify.png"
+  },
+  "com.mechanic.auto_ai": {
+    "title": "AI Mechanic: Engine Sound Scan",
+    "package": "com.mechanic.auto_ai",
+    "description": "AI Mechanic: Engine Sound Scan is your pocket-sized automotive expert. Just like Shazam for music, our app listens to your car and uses advanced acoustic AI to diagnose mechanical problems instantly.\n\nHear a strange ticking, knocking, or squealing? Don't wait for the \"Check Engine\" light or a costly mechanic bill. Record the sound, and let our AI analyze the mechanical friction and vibrations to identify the exact issue.\n\nKEY FEATURES:\n\u2022 Instant Acoustic Scan: Record your engine running and get an immediate diagnostic report.\n\u2022 Accurate Repair Estimates: Know the likely problem and approximate repair cost before visiting a repair shop. Avoid mechanic scams.\n\u2022 7-Day Health Tracker: Monitor your engine's acoustic health daily to catch micro-wear before it becomes a catastrophic failure.\n\u2022 Ro",
+    "icon": "/icons/com.mechanic.auto_ai.png"
+  },
+  "com.glowscan.app": {
+    "title": "GlowScan - AI Skin Analysis",
+    "package": "com.glowscan.app",
+    "description": "Discover your skin's true potential with GlowScan \u2014 the AI-powered skincare companion that analyzes your skin and creates personalized routines just for you.\n\nKEY FEATURES:\n\n\ud83d\udd2c AI Skin Analysis\nTake a quick selfie and get an instant, comprehensive skin assessment. Our advanced AI detects concerns like acne, wrinkles, dark spots, dehydration, and more.\n\n\ud83d\udcca Skin Age Calculator\nFind out your skin's biological age and track improvements over time.\n\n\ud83d\udc84 AR Makeup Try-On\nVirtually try lipstick, eyeshadow, blush, and foundation before you buy.\n\n\ud83d\udccb Personalized Routines\nGet custom AM and PM skincare routines based on your unique skin profile.\n\n\ud83d\udecd\ufe0f Product Recommendations\nDiscover products that match your skin's specific needs.\n\n\ud83d\udcda Ingredient Dictionary\nLearn about skincare ingredients and what works for ",
+    "icon": "/icons/com.glowscan.app.png"
+  },
+  "co.strongteam.ultra": {
+    "title": "Ultra Tunnel",
+    "package": "co.strongteam.ultra",
+    "description": "Ultra Tunnel is an Openvpn client base app with udp hysteria protocol and the fastest app now encrypting data and use vpn service......",
+    "icon": "/icons/co.strongteam.ultra.png"
+  },
+  "org.thunderdog.challegram": {
+    "title": "Telegram X",
+    "package": "org.thunderdog.challegram",
+    "description": "An alternative Telegram client based on TDLib, with higher speed, slicker animations and experimental features.",
+    "icon": "/icons/org.thunderdog.challegram.png"
+  },
+  "mktvsmart.screen": {
+    "title": "G-MScreen",
+    "package": "mktvsmart.screen",
+    "description": "This APP is a client program for STB(Set Top Box) which can support G-MScreen,it works with STB through internal WiFi.\nMain Function: \n1.Search/Switch channels from STB \n2.Edit Channels from STB, including move,rename,delete,lock,set favorite,sort.\n3.Watching Channles from STB by mobile device with this APP installed.\n4.Checking channles EPG(Electronic Program Guide).\n5.Virtual Remote Control interface,including buttons,gyro and touch board.\n6.Adding/Editing/Deleting STB timer \n7.Change the setting of STB,inculding sleep timer,parental control,password,screen lock/unlock,power on/off,factory default.\n8.STB intelligently prompts the user, the mobile phone has a call coming\n9.Surppot Sat to IP, need router surpport 150M WiFi.\n10.Support SatFinder, APP shows the signal signal and beep while i",
+    "icon": "/icons/mktvsmart.screen.png"
+  },
+  "com.kmplayer.d": {
+    "title": "KMPlayer Plus (Divx Codec)",
+    "package": "com.kmplayer.d",
+    "description": "\ud83d\udc9c KMPlayer, Customer Lounge is here!\n\ud83d\udc49 Feedback, ideas, and events\u2014all welcome.\nhttps://cobak.co/en/space/392\u00a0\n\n\u25b6 KMPlayer Plus (Divx Codec) officially support Divx codec.\nPlease check up codec which is not supported.\n\n< Supported codec >\nAvi File : DXMF, DX50, DIVX, DIV4, DIV3, MP4V\nMKV File : DX50, DIV3, DIVX, DIV4, MP4V\n\n< Not supported codec >\nCodec Name : DTS, EAC3, TrueHD\nFourCC : eac3, mlp, trhd, dts, dtsb, dtsc, dtse, dtsh, dtsl, ms\n\n< Supported Subtitle Format > \nDVD, DVB, SSA/ASS Subtitle Track.\nSubStation Alpha(.ssa/.ass) with full styling.SAMI(.smi) with ruby tag support.\nSubRip(.srt), MicroDVD(.sub/.txt), VobSub(.sub/.idx), SubViewer2.0(.sub), MPL2(.mpl/.txt), TMPlayer(.txt), Teletext, PJS(.pjs) , WebVTT(.vtt)\n\n\n\u25b6 Function for KMPlayer Plus (Divx Codec)\n< Media Player Function",
+    "icon": "/icons/com.kmplayer.d.png"
+  },
+  "mtnft.momo.consumer": {
+    "title": "MoMo",
+    "package": "mtnft.momo.consumer",
+    "description": "The new MoMo App gives you complete oversight of your finances and empowers you to manage your money effortlessly. Experience secure, easy, and fast service.\n\nFeatures:\nAll-in-One Financial Solution:\nAll your financial needs in one place.\nFull visibility of your accounts and total control of your money.\n                                                                                                     \nConvenient Services at Your Fingertips\n\u2022\tSecure biometric login for quick and easy access.\n\u2022\tSend and receive money locally and internationally.\n\u2022\tPay bills instantly from anywhere.\n\u2022\tDeposit and CashOut with ease.\n\u2022\tScan and pay with QR codes at participating merchants.\n\u2022\tActivate a virtual card for secure online shopping.\n\u2022\tAccess loans and advances when you need them.\n\u2022\tTop up airtime an",
+    "icon": "/icons/mtnft.momo.consumer.png"
+  },
+  "com.wb.clipboard.pro": {
+    "title": "com.wb.clipboard.pro",
+    "package": "com.wb.clipboard.pro"
+  },
+  "io.tinbits.memorigi": {
+    "title": "Memorigi: To-Do List & Tasks",
+    "package": "io.tinbits.memorigi",
+    "description": "\ud83c\udfc6#1 Best To-do List of 2021 - Digital Trends\n\ud83c\udfc6#1 Top Android Apps of 2021 - Sam Beckman\n\ud83c\udfc6#2 Best To-do List of 2021 - Android Authority\n\nMemorigi is a free to-do list, task manager, calendar, planner, and reminder app to organize, plan, and accomplish any project.\n\nMemorigi is different. Its unique minimalist user interface (UI) combined with its delightful user experience (UX) makes working on your projects a breeze.\n\nSIMPLE YET POWERFUL\nWith Memorigi you can use groups, lists, headings, tasks, and tags to organize your projects and accomplish what's important to you.\n\nINTUITIVE AND GOAL-ORIENTED\nMemorigi todo list, task manager, planner, calendar, and reminders app provides an easy and intuitive user interface. You can use swipe gestures to quickly schedule and reorganize your to do list",
+    "icon": "/icons/io.tinbits.memorigi.png"
+  },
+  "com.shop2app.bullymax": {
+    "title": "Bully Max",
+    "package": "com.shop2app.bullymax",
+    "description": "ABOUT BULLY MAX: Bully Max is a premium dog food company based in Pittsburgh, PA. Family-owned and operated since 2009, Bully Max offers a full line of dog foods, supplements, and treats for all breeds of dogs and all ages.\n\nZERO RECALLS: Bully Max takes safety and quality seriously. Over 3 million dogs served and not a single recall.\n\nTHE FINEST INGREDIENTS IN THE WORLD: We only use the world's finest ingredients in our foods. It\u2019s the reason that Bully Max received the Dog Food Advisor's highest rating (5/5 stars).\n\nZERO FILLERS / HIGHER CALORIES: Bully Max doesn't use fillers, and it's one of the most nutrient-dense dog foods in the world. Just one cup of Bully Max dog food is packed with 600 calories.\n\n24-7 EXPERT SUPPORT TEAM: We not only deliver the finest products, but we also deliv",
+    "icon": "/icons/com.shop2app.bullymax.png"
+  },
+  "com.budgestudios.googleplay.BlueyBLU": {
+    "title": "Bluey: Let's Play!",
+    "package": "com.budgestudios.googleplay.BlueyBLU",
+    "description": "Explore, imagine, create & play in Bluey's house. There's so much to do!\nWackadoo! Come join Bluey, her friends & family! For real life.\n\nFun, easy & calm kids learning game for boys and girls of all ages. Preschool children and toddlers will enjoy this app. Parents and other family members can play along too!\n\nEXPLORE\nDiscover and play all over the Heeler family home, just like in the TV show! Hunt for longdogs, play a game of Pop up Croc, listen to your favorite Bluey tunes, and so much more! Can you find all the hidden surprises?\n\nIMAGINE\nEvery room allows for deep, imaginative play. Just like Bluey, anything is possible if you use your imagination! Make up your own stories as you go, or re-create your favorite Bluey moments. Bingo, Bandit, Chili, and all of Bluey\u2019s friends and family a",
+    "icon": "/icons/com.budgestudios.googleplay.BlueyBLU.png"
+  },
+  "com.hskj.smallppt": {
+    "title": "Smallppt: AI Slides",
+    "package": "com.hskj.smallppt",
+    "description": "Smallppt \u2013 Your Smart AI Presentation Maker\n\nSmallppt is more than just a tool\u2014it's your complete solution for creating professional presentations with speed and ease. Designed to support everything from business decks to educational slides, this powerful AI presentation maker helps you stand out with clean, compelling visuals and optimized content.\n\nAI Chat Assistant \u2013 Generate Ideas and Content Instantly\n\nNeed help getting started? Our AI assistant for slides helps you brainstorm ideas, structure your message, and suggest engaging content. Whether you're creating a business proposal or a class project, Smallppt turns ideas into impactful presentations.\n\nAI Reading Assistant \u2013 Enhance Your Content with Ease\n\nMake sure your message is clear and concise. The built-in text editor powered by ",
+    "icon": "/icons/com.hskj.smallppt.png"
+  },
+  "com.CheapShoppingApps.DomainNameGenerator.BuyCheapDomains": {
+    "title": "Domain Name App",
+    "package": "com.CheapShoppingApps.DomainNameGenerator.BuyCheapDomains",
+    "description": "Are you looking domain name generator or domain app and buy cheap domain name? This domain name app help you to buy domain name for cheap. Get coupons, promo codes,  deals & buy cheap domain. This domain app also have domain name search & domain name checker or domain checker tool which will tell you domain availability and you can search your domains.",
+    "icon": "/icons/com.CheapShoppingApps.DomainNameGenerator.BuyCheapDomains.png"
+  },
+  "com.aiwardrobe": {
+    "title": "AI Wardrobe: Outfit Planner",
+    "package": "com.aiwardrobe",
+    "description": "Turn your closet into a smart AI-powered styling assistant.\n\nAI Wardrobe helps you scan your clothes, organize your wardrobe, and get daily outfit ideas based on your style, weather, and occasion.\n\nNo more \u201cWhat should I wear?\u201d moments.\n\nBuild Your Digital Closet\n\nEasily scan your clothes using your phone camera and create your personal wardrobe.\n\nAuto-detect clothing type, color, and season\nOrganize items into categories like tops, bottoms, and shoes\nEdit and manage your wardrobe anytime\nGet Smart Outfit Suggestions\n\nLet AI create outfits using your own clothes.\n\nOutfit ideas based on your wardrobe\nChoose occasion: casual, work, or events\nSelect your vibe: minimal, comfy, or classy\nGet 1\u20133 simple outfit suggestions instantly\nWeather-Based Styling\n\nDress appropriately for the day with weat",
+    "icon": "/icons/com.aiwardrobe.png"
+  },
+  "com.ovatech.prankster_pro_ai": {
+    "title": "AI Prank Caller: Funny Calls",
+    "package": "com.ovatech.prankster_pro_ai",
+    "description": "Make your friends laugh with AI-powered prank calls!\nAI Prank Caller lets you send hilarious fake voice calls using smart AI. Just pick a scenario \u2014 or type your own idea \u2014 and our AI does the rest. No acting, no awkward setups.\n\n\u2e3b\n\n\ud83c\udf89 What You Can Do:\n\t\u2022\t\ud83c\udfad Choose from tons of funny, pre-made prank call scripts\n\t\u2022\t\ud83d\udca1 Create your own custom prank ideas and let AI voice them\n\t\u2022\t\u270f\ufe0f Add personal touches for better reactions\n\t\u2022\t\ud83c\udfa7 Listen back to hilarious prank call responses\n\t\u2022\t\ud83d\udd04 New AI prank scripts added all the time\n\t\u2022\t\ud83d\udcf1 Works instantly \u2014 no setup needed\n\n\u2e3b\n\nWhether it\u2019s for birthdays, group chats, or just random fun, AI Prank Caller makes it easy to joke around \u2014 the smart way.\n\n\u2e3b\n\n\u26a0\ufe0f Disclaimer:\n\nAll content is fictional and for entertainment purposes only. Please use responsibly and make su",
+    "icon": "/icons/com.ovatech.prankster_pro_ai.png"
+  },
+  "com.SoftwareentwicklungKemper.FloorPlanAugmentedReality": {
+    "title": "Floor Plan Augmented Reality",
+    "package": "com.SoftwareentwicklungKemper.FloorPlanAugmentedReality",
+    "description": "Would you like to measure your room or your entire house quickly and easily and create a 3D floor plan? Then Floor Plan AR is exactly the right app for you. \n\nSo don't wait too long and install Floor Plan AR now.\n\nMeasure Rooms\nWith the innovative technology augmented reality you can quickly and easily measure room geometries.\n\nCalculate\nFloor Plan AR automatically calculates the lengths, areas and volumes of your room geometry.\n\nReport\nA complete report is automatically created for you, which you can export as a pdf file to use for your documents or customers.\n\nARCore from Google is used to implement automated geometry creation with the aid of the gyroscope and depth information from the camera. This measuring method is already very precise and is constantly being further developed. Howev",
+    "icon": "/icons/com.SoftwareentwicklungKemper.FloorPlanAugmentedReality.png"
+  },
+  "reader.alldocuments.ora": {
+    "title": "All Documents Reader:PDF/Word",
+    "package": "reader.alldocuments.ora",
+    "description": "Discover a new era of document management with Ora All Documents Reader\u2014your unified hub for viewing, reading, editing, and organizing digital files.Supporting PDF, Word, Excel, PowerPoint, EPUB, and more, Ora All Documents Reader elevates your document experience to a whole new level.\n\n\ud83d\udcda Versatile File Organizer \n- Multi-Format Viewing: Instantly open PDFs, Word, Excel, PPT, and ePub files\u2014making Ora your trusted pdf viewer.\n- Centralized Access: All your files are gathered in one place for quick browsing and instant preview.\n- Smart Search: Effortlessly locate any document, saving you time and boosting productivity.\n\n\ud83d\udd0d Comprehensive PDF Tools \n- All-in-One PDF Reader: Read, highlight, annotate, merge, split, fill forms, and sign documents easily\u2014Ora All Documents Reader is your full-feat",
+    "icon": "/icons/reader.alldocuments.ora.png"
+  },
+  "com.riskbit": {
+    "title": "CRYPTOAI - Crypto AI",
+    "package": "com.riskbit",
+    "description": "Provides valuable insights by analyzing cryptocurrency charts in real-time. This helps manage risks associated with assets by offering critical data and insights needed to make informed decisions in the volatile world of cryptocurrency. Through innovative use of AI, it provides users with the latest, accurate, and relevant information, enabling better risk management and strategic planning. Whether you are an experienced investor or new to the cryptocurrency market, it serves as a comprehensive tool to navigate the complexities of cryptocurrency investment, safeguard investments, and maximize potential returns.",
+    "icon": "/icons/com.riskbit.png"
+  },
+  "com.crystalappstech.sneakeridentifieraiscanner": {
+    "title": "Sneaker Identifier AI Scanner",
+    "package": "com.crystalappstech.sneakeridentifieraiscanner",
+    "description": "Discover the ultimate Sneaker Identifier AI Scanner! Snap a photo of any sneaker and instantly get detailed information, brand, model, release date, and resale value. Perfect for sneakerheads, collectors, or anyone curious about sneaker prices.\n\nKey Features:\n- AI-Powered Sneaker Recognition \u2013 Quickly identify sneakers from your photos.\n- Resale Value Estimation \u2013 Know the current market price for buying or selling.\n- Sneaker Details \u2013 Brand, model, release year, and edition info at your fingertips.\n- Collection Management \u2013 Keep track of sneakers you own or want to collect.\n- Scan History \u2013 Access past scans anytime for easy reference.\n- Multi-language Results \u2013 Get sneaker details in multiple languages.\n\nWhether you\u2019re a sneaker collector, a reseller, or just love keeping track of the ho",
+    "icon": "/icons/com.crystalappstech.sneakeridentifieraiscanner.png"
+  },
+  "com.mobeasyapp.app1008128230440": {
+    "title": "Om Root Chakra healing",
+    "package": "com.mobeasyapp.app1008128230440",
+    "description": "An application is now available Om Root Chakra Healing, which we put in your hands, and make sure that  about what you need in other sites, as it includes answers to what you need to know about the the Om Root Chakra Healing and it has the meditation music with the mantra for your root chakra healing and balancing. It also has the infos for the root chakra you can play the music everyday and repeat the mantra.\n\nSo do you want to know about the Om Root chakra healing?\nDo you want to know what the root chakra is\nDo you want an app with healing meditation music\nDo you want to know about the crystals of the root chakra?\nDo you want daily affirmations for the root chakra?\nYou can also take quiz to find out your non balanced chakra that you need to heal.\n\ndownload the Om Root Chakra Healing appl",
+    "icon": "/icons/com.mobeasyapp.app1008128230440.png"
+  },
+  "com.datadolphinapps.attractiveness_ai": {
+    "title": "Attractiveness AI",
+    "package": "com.datadolphinapps.attractiveness_ai",
+    "description": "Discover your look with Attractiveness AI, the advanced app designed to help you explore and enhance your unique look! We provide positive, constructive feedback and personalized suggestions.\n\nAt Attractiveness AI, we believe that beauty is multifaceted and personal. Our goal is to empower you with insights that guide you toward presenting your best self.\n\nDownload Attractiveness AI today and see yourself in a whole new, positive light. Experience the transformative potential of our AI-driven insights.\n\nDisclaimer: We do not provide medical advice. All recommendations are intended as suggestions only. Please consult with a professional before taking any new actions.\n\nTerms of Use: https://attractivenesstest.com/mobile_terms_attractiveness_ai\nPrivacy Policy: https://attractivenesstest.com/p",
+    "icon": "/icons/com.datadolphinapps.attractiveness_ai.png"
+  },
+  "com.bodyfast": {
+    "title": "BodyFast: Intermittent Fasting",
+    "package": "com.bodyfast",
+    "description": "We \u2764\ufe0f fasting\nMore than 50 million people worldwide use BodyFast for intermittent fasting.\n\nBodyFast guides you on your journey to success. Reach your goal weight, get healthy and feel full of energy.\n\nThe BodyFast app\n\u25cf Intermittent fasting for beginners and experienced fasters\n\u25cf A personalized fasting plan from the BodyFast Coach every week\n\u25cf Tailored to your goals and progress\n\u25cf Daily coaching for motivation, knowledge and tips\n\u25cf 100+ recipes - developed for your fasting success\n\u25cf Know what you're eating - with our food facts\n\u25cf Track your weight and body measurements\n\u25cf Drink enough water with the water tracker\n\u25cf Weekly challenges for better health and more physical activity\n\n\nMany free features\n\u25cf More than 10 fasting plans like 16-8 or 5-2\n\u25cf Fasting clock including reminders\n\u25cf Track you",
+    "icon": "/icons/com.bodyfast.webp"
+  },
+  "com.alta": {
+    "title": "Alta Daily: Digital AI Closet",
+    "package": "com.alta",
+    "description": "Alta is your personal AI stylist elevates your style and generates personalized outfits based on your closet, lifestyle, budget, and weather, for any day or special event. Most people wear less than 20% of their closets regularly, and everyday clothing decisions impact your mood and how you present yourself in all aspects of life.\n\nAlta\u2019s mission is to help everyone look and feel their best, and is advised by celebrity stylists and global editors from Vogue.\n\n[Personalized AI Outfit Recommendations]\n- Get daily outfit suggestions based on the weather and your schedule.\n- Generate outfits for any event, from \u201cdate night in Paris\u201d to \u201cwork conference in Vegas\u201d\n- Want to wear that specific jacket? Ask Alta to generate outfits with it.\n\n[Organize Your Digital Closet]\n- Add to your closet by 1)",
+    "icon": "/icons/com.alta.png"
+  },
+  "com.chadme.app": {
+    "title": "Face Rater AI: Looksmax Rating",
+    "package": "com.chadme.app",
+    "description": "Face Rater AI gives you a REAL 1-10 face rating in under 10 seconds. Trait-by-trait scores on jawline, eyes, skin, symmetry, and harmony \u2014 the honest looksmax breakdown you actually wanted, not a vague \"you're a 7\".\n\nRate my face. Rate my jawline. See your ascend potential. Built for men who are done guessing where they stand.\n\nHOW IT WORKS\n1) Take a selfie (front and side)\n2) AI analyzes your face trait-by-trait\n3) Get your score, breakdown, and a personalized action plan\n\nWHAT'S INSIDE\n\n\ud83d\uddff Rate Me \u2014 AI Face Rating\nYour overall 1-10 score plus trait-by-trait breakdowns: jawline, eyes, skin, hair, and facial harmony. PSL-style honesty without the forum grind.\n\n\u26a1 ASCEND Mode\nSee yourself maxed out \u2014 sharper jawline, better grooming, cleaner style. Your genetic potential visualized so you kno",
+    "icon": "/icons/com.chadme.app.jpg"
+  },
+  "com.nerovero.beautycalculator": {
+    "title": "Beauty Calculator Pretty Scale",
+    "package": "com.nerovero.beautycalculator",
+    "description": "Beauty is in the eye of the beholder. Beauty Calculator using a golden ratio face calculator can determine if you are good looking. \n\nThe beauty calculator combines three methods for beauty analysis to define an attractive scale and face beauty. For this purpose, Neoclassical canons, golden ratio face calculator, and facial symmetry methods are used. \n\nIs there a pretty scale? \nBeauty Calculator is a reliable, attractive scale tool that can tell you how pretty you are. In addition, a beauty calculator pretty scale can tell you about the shape of your face, mouth, eyes, chin, and nose.\n\nLet's have some fun:\nSuppose your beauty ratio is rated among the top 5. In that case, you will have the opportunity to submit your picture to the database, including your name and country, so that other peo",
+    "icon": "/icons/com.nerovero.beautycalculator.jpg"
+  },
+  "com.buildsmart.homedesigns": {
+    "title": "Floor Plan Designer: Home Map",
+    "package": "com.buildsmart.homedesigns",
+    "description": "Transform Your Vision into Reality with Floor Plan Designer: Home Map & Interior Tool! \ud83c\udfe0\u2728\n\nAre you planning to build your dream home, renovate an existing space, or simply rearrange your furniture? Floor Plan Designer is your ultimate all-in-one companion for architectural sketching, interior design, and home planning. Designed for homeowners, DIY enthusiasts, and professional architects alike, our app simplifies the complex process of space planning into an intuitive, mobile-friendly experience.\n\nWith a suite of powerful drawing tools, AI-assisted layouts, and precision measurement features, you can go from a blank canvas to a detailed 3D visualization in minutes.\n\n\ud83d\ude80 KEY FEATURES\n\ud83d\udcd0 PRO-LEVEL 2D DRAWING TOOLS\nSketch accurate floor plans with ease. Our \"Smart Draw\" engine allows you to drag",
+    "icon": "/icons/com.buildsmart.homedesigns.jpg"
+  },
+  "spiritual.numerology.angelnumber": {
+    "title": "Angel Numbers Meaning",
+    "package": "spiritual.numerology.angelnumber",
+    "description": "Do you frequently see angel numbers in your daily life and wonder what they mean? Do you encounter the same mirror hour every day? Wish to have a comprehensive numerology guide in your pocket?\n\n\"Angel Numbers and Mirror Hours\" is your personal numerology guide, crafted to help you decipher these fascinating messages sent by the angels.\n\nKey Features:\n\nCustomized Search: Easily find the meaning of any angel number or mirror hour you've recently encountered.\n\nPersonal Log: Keep a diary of the numbers and hours you see, with the option to add dates and personal notes to remember the context or associated thoughts.\n\nDetailed Guide and FAQ: Our app includes an extensive guide covering topics such as:\n\nWhat are Angel Numbers and Mirror Hours?\nInterpreting Angel Numbers and Mirror Hours.\nDiscover",
+    "icon": "/icons/spiritual.numerology.angelnumber.jpg"
+  },
+  "com.prod.pronti": {
+    "title": "Pronti - Outfit Maker",
+    "package": "com.prod.pronti",
+    "description": "Your AI outfit maker. Your closet, reinvented.\nPronti helps you plan outfits, organize your wardrobe, and get dressed faster \u2014 using the clothes you already own. It is like having a fashion stylist in your pocket or Cher's closet outfit maker!\n\n\u2e3b\n\n\ud83d\udc57 Generate Outfits from Your Real Closet\nUpload your clothes easily using photos or online images. Pronti learns your style and creates daily outfit suggestions you\u2019ll actually wear. Mornings are so much easier when you have an AI outfit maker.\n\n\u2e3b\n\n\ud83d\udecd\ufe0f Shop Smarter, Dress Better\nPronti recommends new pieces that match your wardrobe and style \u2014 helping you buy less, but better.\n\n\u2e3b\n\n\u267b\ufe0f Make Fashion More Sustainable\nRediscover forgotten clothes. Combine what you own in new ways. Pronti makes outfits for you so you can eliminate outfit anxiety. Build ",
+    "icon": "/icons/com.prod.pronti.png"
+  },
+  "ai.cubesolver3d.scanner.cubetimer.magic.cube.game": {
+    "title": "Cube Solver 3D - Cube Game",
+    "package": "ai.cubesolver3d.scanner.cubetimer.magic.cube.game",
+    "description": "Solve faster, learn smarter, and enjoy every twist with AI Cube Solver 3D - Cube Game! \ud83e\udde9\n\n\u26a1 Key Features\n\ud83d\udcf7 Cube solver scanner with camera input for fast color recognition\n\ud83c\udfae Realistic cube solver 3d play experience with smooth rotations\n\u23f1 Cube timer rgb cube solver for speed training\n\ud83e\udd16 Smart AI solver cube cipher for quick and accurate solutions\n\ud83e\udde0 Step guides to solve magic cube and improve skills\n\ud83e\udde9 Relaxing and rewarding cube game, cube puzzle solver\n\n\ud83e\udd16 AI Scan & Instant Solution\nSimply scan your magic cube with the intelligent AI cube system. The advanced AI solver quickly analyzes colors and provides clear, step-by-step solutions. Perfect for anyone who wants to solve magic cube or use a precise cube solver scanner in seconds.\n\n\ud83c\udf93 Learn How to Solve\nNew players can easily learn how to so",
+    "icon": "/icons/ai.cubesolver3d.scanner.cubetimer.magic.cube.game.png"
+  },
+  "com.monalisa.diress.app": {
+    "title": "AI Fashion Model Maker: Diress",
+    "package": "com.monalisa.diress.app",
+    "description": "Leave Expensive, Time-Consuming Photoshoots in the Past!\n\nStop paying a fortune for model agencies, studios, and photographers to get that perfect product shot. Diress is your revolutionary AI studio in your pocket, showcasing your products on your dream model in seconds.\n\nJust upload a single product photo and watch the magic transform your marketing forever.\n\nTAKE FULL CONTROL: PUSH THE LIMITS OF YOUR IMAGINATION!\n\nWith Diress, you don't just create a photo; you create a story, an emotion, and a brand identity. Here's the incredible power at your fingertips:\n\n\u2022 Limitless Model Generation: Create the face of your brand! Generate a virtually endless combination of unique models\u2014women, men, babies, children, teens, or adults\u2014fully tailored to your brand.\n\n\u2022 Inclusivity & Realism: Create vis",
+    "icon": "/icons/com.monalisa.diress.app.png"
+  },
+  "com.rstream.readoutloud": {
+    "title": "AI Reader: Text to Speech",
+    "package": "com.rstream.readoutloud",
+    "description": "Transform your reading experience with AI Reader, the intelligent text to speech app that converts any written content into natural-sounding audio. Whether you're commuting, exercising, or simply need to rest your eyes, this powerful voice reader helps you absorb information without staring at a screen.\n\nExperience the freedom of hands-free learning. Our advanced text reader app seamlessly converts PDFs, documents, articles, and ebooks into crystal-clear speech. Perfect for multitasking professionals who want to maximize productivity during daily commutes or workout sessions. The natural voice narration makes lengthy documents feel like personal podcasts, keeping you engaged while reducing eye strain from excessive screen time.\n\nDesigned for diverse learning needs, AI Reader serves as an e",
+    "icon": "/icons/com.rstream.readoutloud.png"
+  },
+  "com.tengallonapps.mortgage": {
+    "title": "Mortgage Calculator",
+    "package": "com.tengallonapps.mortgage",
+    "description": "CALCULATES ANY OF THESE MORTGAGE TERMS: Monthly Payment, Loan Amount, Term of Loan, Annual Interest Rate, Purchase Price of House, Down Payment, Adjustable Rate Mortgage (ARM) Payments, Ownership Expenses, Payoff Date, Effective Interest Rate, Total Monthly Payment, Total Interest Paid, Total Cost of Loan.\n\nAMORTIZATION: Payment schedule is shown as a chart and a table with each row showing the payment date, amount, portions applied to the interest and to the principal, cumulative interest, and remaining unpaid loan balance.\n\nEXTRA PAYMENTS: You can enter as many extra payments as you want with varying frequencies from monthly to annually to one-time payments.  See how much interest you would save and how much earlier you would pay off the loan with additional payments.\n\nEASY TO USE: Calcu",
+    "icon": "/icons/com.tengallonapps.mortgage.png"
+  },
+  "com.axiommobile.running": {
+    "title": "Start Running. Zero to 5K",
+    "package": "com.axiommobile.running",
+    "description": "Ready to start running? What could be simpler!\n\nIf you're looking to take up running but feel overwhelmed by distance, pace, or speed, don't worry! We'll think about all that later. Just listen to the instructions and run at your own comfortable pace.\n\nForget about focusing on perfect running technique right now. The most important thing is to get running and make it a habit.\n\nYour primary goal is to gradually increase the amount of time you spend jogging. That's all that matters when you start to run.\n\nFeatures:\n\n\u2714 Your own personal running coach\n\u2714 An easy-to-follow training plan\n\u2714 Detailed stats for every workout you complete\n\u2714 Track your distance, speed, and pace effortlessly\n\u2714 See the GPS route of each and every run\n\u2714 Built-in pedometer to count your steps\n\u2714 Keep track of your calories",
+    "icon": "/icons/com.axiommobile.running.png"
+  },
+  "com.ratemeai.istip": {
+    "title": "Rate Me AI \u2013 Face Beauty Score",
+    "package": "com.ratemeai.istip",
+    "description": "Rate Me AI is the ultimate AI face analyzer that gives you an instant beauty score based on your selfie. Simply upload a photo or take a picture, and our advanced artificial intelligence analyzes your facial features in seconds.\n\nWhether you want to test different looks, compare photos over time, or just have fun with friends, Rate Me AI turns face analysis into a playful and interactive experience. Share your score on social media and see how your friends stack up.\n\n\u2728 What you can do with Rate Me AI:\n\u2022 Get an instant AI beauty score from any selfie or photo\n\u2022 Use the AI face analyzer and face detector on any image\n\u2022 Compare multiple photos and track your attractiveness score\n\u2022 Share results instantly with friends\n\u2022 Enjoy a fast, lightweight selfie scanner experience\n\nRate Me AI uses an AI",
+    "icon": "/icons/com.ratemeai.istip.png"
+  },
+  "com.app.chakras_opening_pro": {
+    "title": "Chakras Opening Pro",
+    "package": "com.app.chakras_opening_pro",
+    "description": "This application is Pro Version of the Chakras Opening it contains 7 chakras meditation music for chakras opening and balancing.\n\nEach chakra has its frequency , color and the bija mantra",
+    "icon": "/icons/com.app.chakras_opening_pro.png"
+  },
+  "art.travelai.travelaiapp": {
+    "title": "Travel AI: your personal guide",
+    "package": "art.travelai.travelaiapp",
+    "description": "Imagine a world where every masterpiece whispers its secrets to you.\n\nYou walk past an ancient monument, a forgotten sculpture, a painting that catches your eye. What if you could instantly unlock its story? Its creator. Its hidden context. Its place in history.\n\nIntroducing Travel AI.\n\nThis isn't just another app; it's your personal art historian, your digital curator, your gateway to profound discovery. With a simple tap, Travel AI transforms your phone into a powerful lens on the world's artistic and architectural heritage.\n\nPoint, snap, and instantly know. Our revolutionary image recognition doesn't just identify; it understands. It pulls back the curtain on the masterpiece before you, revealing rich, detailed information with astonishing accuracy.\n\nBut we go further. Travel AI is powe",
+    "icon": "/icons/art.travelai.travelaiapp.png"
+  },
+  "com.paulobreim.aviation": {
+    "title": "Flight Finder",
+    "package": "com.paulobreim.aviation",
+    "description": "The Fight Finder app informs you of all flights taking off and landing from all airports in the world.\nAllows you to perform various searches such as:\n1 - Report all flights from a specific airport, which you can view as if you were looking at the airport's own panel.\n2 - Report all flights from one airport to another.\n3 - Inform the status of a specific flight.\n4 - Show on the map all the flights in the world that are currently flying, when you click on the plane, you can see flight details.\n\nIn all searches you can see the flight status (landed, en route, scheduled, canceled or even unknown), and if the plane is flying, you can see on the map where it is, at what altitude and at what speed .\n\nWhen the flight is scheduled, you can ask to be notified when the plane takes off, and if it is ",
+    "icon": "/icons/com.paulobreim.aviation.png"
+  },
+  "com.bedtimestory.android": {
+    "title": "Tap to Sleep: Bedtime Stories",
+    "package": "com.bedtimestory.android",
+    "description": "Tap to Sleep is a screen-time-friendly bedtime app with no ads, featuring interactive stories for toddlers and preschoolers (ages 2 to 5), plus gentle lullabies suitable from infancy and perfect for nap time too.\n\nTwo full stories are free, forever. No ads. No tracking. No overstimulation. Just calm.\n\n\u2605 CALM AS BEDTIME SHOULD BE \u2605\n\nWe're all about supporting calming bedtime routines and minimising the overstimulation of screen-time, which can lead to bedtime struggles. Tap to Sleep has no bright lights, just the gentle glow of a well-told tale with subtle, calming interactions throughout. Our relaxing short stories for toddlers and preschoolers have interactive elements in each story. Our lullabies have no interactive elements and are perfect for creating a calming atmosphere at any age, i",
+    "icon": "/icons/com.bedtimestory.android.png"
+  },
+  "com.tripbnb.auracamerapro": {
+    "title": "Aura144: Aura Camera",
+    "package": "com.tripbnb.auracamerapro",
+    "description": "Aura144 is an aura camera that transforms your photos into unique aura visualizations and interpretations. Using advanced image analysis, it explores aura color patterns and provides insights for self-reflection and personal exploration. Results can be saved directly on your device, and the app supports multiple languages.\n\nHow it works:\n\nPrepare a full-body photo.\nChoose your preferred aura analysis type.\nUpload your photo and enter your question.\nWait 5\u201310 minutes for your aura image and interpretation.\n\nPhoto guidelines:\n\u2022 Full-body color photo\n\u2022 Only one person\n\u2022 Space above head and below feet\n\u2022 Arms and legs slightly outward (~45\u00b0)\n\u2022 Palms facing forward\n\u2022 Short sleeves and shorts\n\u2022 Plain white background",
+    "icon": "/icons/com.tripbnb.auracamerapro.png"
+  },
+  "com.legalresource.lisalaw": {
+    "title": "Lisa Law: AI Legal Help 24/7",
+    "package": "com.legalresource.lisalaw",
+    "description": "Lisa Law is a multilingual AI legal assistant\u2014like a law firm in your pocket. Describe your issue in plain language and get jurisdiction-specific guidance, document help, and personalized attorney referrals. Available 24/7 by text or voice.\nWhy people use Lisa\n \u2022 Straight answers fast: clear, step-by-step options\n \u2022 Localized help: state/county-specific info and forms\n \u2022 Voice or chat: explain your situation naturally\n \u2022 DIY or attorney: compare self-help vs. talk to a lawyer\n \u2022 Private and secure: encrypted data in transit\nPopular topics\n Evictions and landlord-tenant issues, small claims, divorce and custody, immigration basics, traffic and license, wage theft and unpaid overtime, consumer and debt disputes, benefits, name change, records sealing.\nMade for partnerships\n Highly configurab",
+    "icon": "/icons/com.legalresource.lisalaw.jpg"
+  },
+  "com.home.designer.aignite": {
+    "title": "HomeGPT: AI Home Makeover",
+    "package": "com.home.designer.aignite",
+    "description": "HomeGPT brings you AI-powered home decor and makeover inspiration, helping you create a space that truly reflects your personal style.\nSimply upload a photo of your space, choose a style, and instantly generate stunning AI design previews. No experience needed \u2014 easily refresh and transform your home in minutes.\nWhether you're redesigning your living room, giving your kitchen a fresh new look, previewing flooring and wall colors in your bedroom, or creating a cozy corner in your garden, HomeGPT helps you explore ideas and visualize every possibility.\nPerfect for:\n  - DIY renters and homeowners looking to refresh their space \ud83c\udfe1 \n  - Airbnb hosts and real estate agents who want better listing visuals \ud83c\udfe2 \n  - Content creators building home decor or lifestyle accounts \ud83d\udcf8 \n \nAs your AI home design",
+    "icon": "/icons/com.home.designer.aignite.png"
+  },
+  "jp.firstascent.cryanalyzer": {
+    "title": "CryAnalyzer - baby translator",
+    "package": "jp.firstascent.cryanalyzer",
+    "description": "Join over 2 million users worldwide with our innovative app that analyzes crying sounds. \nEnjoy free access by watching ads, or subscribe for an ad-free experience.\n\nParenting is harder than you may think. \nThat's why we're here to assist you in understanding your baby's emotions through their cries. \n\nLet\u2019s try it when you are having trouble with a crying baby.\nYou can understand why your baby is crying.\n\n\u25c6 Topics\nWe've expanded language support in the app to include:\n\n- Arabic\n- Chinese\n- English\n- French\n- German\n- Hindi\n- Indonesian\n- Italian\n- Japanese\n- Korean\n- Portuguese\n- Russian\n- Spanish\n- Thai\n- Turkish\n- Urdu\n\n\u25c6 Cryanalyzer is beneficial for parents who:\n\u3007 Want to know whether their baby needs sleep, milk, or breastfeeding.\n\u3007 Want to know if the baby's crying is due to growing",
+    "icon": "/icons/jp.firstascent.cryanalyzer.jpg"
+  },
+  "jp.tanaike.er": {
+    "title": "ER Diagram AI",
+    "package": "jp.tanaike.er",
+    "description": "Database design is crucial for developing apps and web services. \nHowever, designing and visualizing a schema can be time-consuming and complex. With this app, developers can design DB schemas effortlessly. \nEven with a rough outline, the app can automatically build the schema, and more detailed adjustments can also be made as needed.\n\nIt is used in various situations such as:\n- New app development: Creating database schemas for new projects.\n- Reviewing existing database structures: Visualizing and improving existing DB designs.\n- Team collaboration: Sharing database designs among team members for efficient collaboration.\n- Client presentations: Proposing and explaining database designs to clients visually.\n- Learning: Helping new engineers get familiar with database design.\n- Quick proto",
+    "icon": "/icons/jp.tanaike.er.png"
+  },
+  "com.soundtechnic.sudoku": {
+    "title": "Sudoku Solve",
+    "package": "com.soundtechnic.sudoku",
+    "description": "The Sudoku Solve Android App adds to solving Sudoku puzzles by allowing step through, hints, auto candidates, number highlight, auto solving, or normal manual playing. Puzzles can be loaded using camera, as image, manually, as text, by quick load or from the 60,000 puzzle database.\n\nFEATURES\nHints, Auto Candidates, Manual Candidates, Number Colour Highlight, Step Forward, Step Back, Solve All, Hint, Image Load, Text Load, Paste, Manual Entry, Image Save, Text Save, Save Clues Only, Algorithms Selection.\n\nALGORITHMS\nCandidates SingleInCell SingleInRow SingleInCol SingleInBlock LineBlockLine LineBlockBlock PairsInRow PairsInCol PairsInBlock PairsHiddenRow PairsHiddenCol PairsHiddenBlock TriplesInRow TriplesInCol TriplesInBlock TriplesHiddenRow TriplesHiddenCol TriplesHiddenBlock X_Wings-Row ",
+    "icon": "/icons/com.soundtechnic.sudoku.png"
+  },
+  "com.glinttec.beautyscan.beautyscore.photoBeautyScan": {
+    "title": "Face Shape - Face Rating, Hair",
+    "package": "com.glinttec.beautyscan.beautyscore.photoBeautyScan",
+    "description": "My Face AI helps you analyze face shape, get a face rating, and run face analysis for your pretty scale. Try hairstyles on your photo and use an AI photo enhancer to improve clarity.\n\nFace shape detector\nScan and classify Diamond or Dimond, Heart, Oval, Oblong, Square, and Round face shapes. Use the result as a face shape guide.\n\nPersonality by face shape finder\nExplore Chinese physiognomy and Chinese face reading style insights linked to your face shape. See simple personality traits summaries based on facial structure.\n\nEyebrows shape type\nIdentify S shaped, Arched, Straight or Stright, and Rounded eyebrows shape types. Learn how eyebrow style can change your look.\n\nPersonality by eyebrows shape\nGet personality traits linked to your eyebrow shape and brow line. Compare traits across arch",
+    "icon": "/icons/com.glinttec.beautyscan.beautyscore.photoBeautyScan.jpg"
+  },
+  "com.rmaalouf.sudokusolver": {
+    "title": "Sudoku Solver",
+    "package": "com.rmaalouf.sudokusolver",
+    "description": "Stuck on a Sudoku puzzle in a newspaper or magazine? \nEnter the Sudoku puzzle digits and get the solution instantly!",
+    "icon": "/icons/com.rmaalouf.sudokusolver.png"
+  },
+  "com.garage.labs.crypto.ai.bitcoin.etherium.analysis": {
+    "title": "Crypto Ai : signal & portfolio",
+    "package": "com.garage.labs.crypto.ai.bitcoin.etherium.analysis",
+    "description": "Imagine waking up and instantly knowing which crypto pairs have the highest probability setups. No more hours wasted flipping between charts \u2014 Crypto AI : Signals & Portfolio delivers ready-to-use trading analysis right to your fingertips.\n\nThis isn\u2019t just another crypto price tracker. Crypto Insight acts like your personal market analyst, blending advanced technical indicators like EMA, RSI, MACD, and Support & Resistance levels into clear, actionable insights. Whether you\u2019re into Scalping, Swing Trading, or long-term position building, our app adapts to your trading style.\n\nFeatures:\n\nMarket Overview: Instantly see Last Price, Support & Resistance, and RSI trend strength for your favorite pairs.\nCrypto Signals & Alerts: Identify overbought/oversold zones, trend reversals, and entry point",
+    "icon": "/icons/com.garage.labs.crypto.ai.bitcoin.etherium.analysis.png"
+  },
+  "com.radar24.flighttracker.airplane": {
+    "title": "Flight Tracker Live & AI Radar",
+    "package": "com.radar24.flighttracker.airplane",
+    "description": "Transform your Android device into a flighty live flight tracker. Either you\u2019re en route yourself, tracking the timing of arrival of someone dear, or just suspicious about the aircraft status, this flight tracker renders the invisible visible. Flight tracker highway tracker keeps you updated about flight status and details flight path and flight status with a tap, placing real time airtag tracker intelligence directly in your palm.\n\nHandy flighty live flight tracker:\nTrace airplane or flight path with this flight tracker that details airmap flight status. highway radar plane tracker helps you to detect any aircraft globally by flight number, airport code, airline, or aircraft type. Locate air traffic, flight path and identify weather conditions. \nAirplane Flight Tracker Live allows you to:",
+    "icon": "/icons/com.radar24.flighttracker.airplane.png"
+  },
+  "com.kolekciapps.listenbabyai": {
+    "title": "Baby Cry Analyzer - BabyLingo",
+    "package": "com.kolekciapps.listenbabyai",
+    "description": "Unlock the mystery behind your baby's cries with BabyLingo! Our innovative app helps you understand what your little one needs, making parenting a smoother and more enjoyable experience.\n\nCry Analysis: Decipher different baby cries to understand hunger, sleepiness, discomfort, and more.\n\nSleep Sounds: Soothe your baby with a variety of calming sleep sounds designed to help them drift off to sleep peacefully.\n\nEasy to Use: A simple interface is designed for busy parents, making it quick and easy to get the information you need.\n\nWhy Choose BabyLingo?\n\nBabyLingo takes the guesswork out of understanding your baby\u2019s needs. Our state-of-the-art cry detection technology provides reliable and accurate interpretations of your baby's cries. With the addition of soothing sleep sounds, BabyLingo not ",
+    "icon": "/icons/com.kolekciapps.listenbabyai.png"
+  },
+  "com.pinkfroot.planefinderfree": {
+    "title": "Plane Finder - Flight Tracker",
+    "package": "com.pinkfroot.planefinderfree",
+    "description": "Plane Finder is the only app to offer global live flight tracking plus fast and accurate flight status notifications in a single app. \n\nWhether you're a seasoned aviation enthusiast who wants to know it all, or a curious traveler simply interested in the key moments of a specific flight, we\u2019ve got you covered. \n\nAviation enthusiasts tell us they can\u2019t live without our exclusive map focus mode used to quickly show military or other traffic types live on the map. \n\nSocial media content creators can\u2019t get enough of our 3D globe view combined with playback mode. \n\nNo specific flight in mind? No problem! Discover trending and exciting live aviation events via our Explore feature. \n\nDownload now and embark on a journey of discovery with the most immersive flight tracking experience available. \n\n",
+    "icon": "/icons/com.pinkfroot.planefinderfree.png"
+  },
+  "com.boomgames.sneakerstack3d": {
+    "title": "Sneaker Stack 3D",
+    "package": "com.boomgames.sneakerstack3d",
+    "description": "Collect sneakers!\n\nPaint them!\n\nGet custom laces!\n\nBecome the best sneaker brand!",
+    "icon": "/icons/com.boomgames.sneakerstack3d.png"
+  },
+  "com.rm.ai.legal.helper": {
+    "title": "AI Legal Helper & Documents",
+    "package": "com.rm.ai.legal.helper",
+    "description": "Looking for instant legal help? AI Legal Helper is your AI-powered legal assistant that generates professional legal documents, provides legal guidance, and answers your legal queries in seconds.\n\nWhether you need a rental agreement, employment contract, power of attorney, non-disclosure agreement, or any other legal document, our advanced AI legal engine creates accurate, jurisdiction-specific documents tailored to your needs.\n\nKEY FEATURES\nLegal Document Generator\nCreate professionally drafted legal documents in minutes. Our AI understands legal frameworks across jurisdictions worldwide and generates documents that follow local legal standards and formatting requirements.\nSupported documents include: Contracts and agreements, rental and lease agreements, employment contracts, power of at",
+    "icon": "/icons/com.rm.ai.legal.helper.png"
+  },
+  "com.ezhub.rubikcube": {
+    "title": "Rubik Cube Solver and Guide",
+    "package": "com.ezhub.rubikcube",
+    "description": "Stuck on a Rubik's Cube? Get it Solved in Seconds with our powerful AI !!!! \ud83d\ude80\n\nJust scan or input its colors, and our Solver will instantly find the absolute shortest solution.\n\n\u2705 2x2x2: 9 moves\n\u2705 3x3x3: 20 moves\n\u2705 4x4x4: 50 moves\n\u2705 5x5x5: 77 moves\n\u2705 6x6x6: 136 moves\n\nThe stats above are just an average for random scrambles - your solution is often even shorter!\n\n\ud83d\ude80 Download now to conquer any cube and leave your friends amazed! \ud83d\ude80\n\nOther features:\n- Interactive 3D Cube: Multiple cube sizes from 2x2 to 10x10\n- Smooth 3D graphics and animation\n- Easy and handy controls\n- Design your unique cube using powerful Theme Editor\n- Complete Step-by-step Guide from Zero to Hero\n- Enjoys your cube with Amazing Patterns\n- Track Your Progress\n- Pro Cube Solving Timer with built-in scrambler for competiti",
+    "icon": "/icons/com.ezhub.rubikcube.png"
+  },
+  "com.youreducationalapp.gymlog.gymlog": {
+    "title": "AI Workout Planner - Gym Log",
+    "package": "com.youreducationalapp.gymlog.gymlog",
+    "description": "Whether you want to build muscle, get stronger or lose weight,  AI Workout Planner will help you achieve your goals. It has everything you need and nothing extra.\n\nOur artificial intelligence, trained on a huge amount of fitness data, will take into account your goals, level and available equipment to create the personalised workout routines.\n\nAI Workout Planner works as a personal trainer, muscle coach, workout tracker, and gym workout log.\n\n\nFEATURES:\n\n\u2022 AI-Generated Workouts:\n\u2022 The easiest to use interface\n\u2022 Create templates and save workouts as templates\n\u2022 Template folders\n\u2022 You can add your own exercises\n\u2022 Huge database of fitness exercises\n\u2022 Statistics and graphs for your exercises in different metrics\n\u2022 Unique instructions and illustrations for exercises\n\u2022 Superset support\n\u2022 Automat",
+    "icon": "/icons/com.youreducationalapp.gymlog.gymlog.png"
+  },
+  "com.healingsound.meditation": {
+    "title": "Healing Sounds: Chakra & Om",
+    "package": "com.healingsound.meditation",
+    "description": "Restore your inner balance and elevate your well-being with Healing Sounds: Chakra & Om \u2014 a powerful meditation app designed to harmonize your body, mind, and soul through sound therapy. Whether you're seeking chakra alignment, mental clarity, emotional healing, or restful sleep, this app offers a wide collection of guided meditation sounds to support your journey.\n\n\ud83e\uddd8\u200d\u2642\ufe0f What's Inside:\n\ud83c\udf08 7 Chakra Meditations \u2013 Balance your energy centers from Root to Crown\n\n\ud83c\udfb6 7 Solfeggio Frequencies \u2013 Healing tones like 528Hz for transformation & 963Hz for pineal gland activation\n\n\ud83d\udd09 10 Om Chanting Tracks \u2013 Immerse in the eternal vibration of the universe\n\n\ud83c\udfa7 Binaural Beats \u2013 Enhance focus, relieve anxiety, and promote deep sleep\n\nEach sound is crafted to target specific areas of emotional, spiritual, and ph",
+    "icon": "/icons/com.healingsound.meditation.png"
+  },
+  "com.lawgenie.lawgenie_ai": {
+    "title": "LawGenie AI - Legal Assistant",
+    "package": "com.lawgenie.lawgenie_ai",
+    "description": "Empower yourself with legal knowledge at your fingertips!\n\nLawGenie AI is your personal AI-powered legal assistant that provides instant legal guidance, helps you understand your rights, and makes legal information accessible to everyone. Whether you need quick legal advice, want to understand IPC sections, or require emergency legal contacts, LawGenie AI has you covered.",
+    "icon": "/icons/com.lawgenie.lawgenie_ai.png"
+  },
+  "one.srp.gensmo.app": {
+    "title": "Gensmo: AI Stylist & Try-On",
+    "package": "one.srp.gensmo.app",
+    "description": "Play with Gensmo \u2013 Your All-in-One Super Shopping Agent!\n\nWHAT IS GENSMO?\nGensmo is your AI-powered shopping magic box\u2014packed with smart features for every kind of shopping moment, making it all easier, smarter, and more you.\n\nHOW TO PLAY WITH GENSMO?\n\u2022 Virtual Try On\nWonder how you or your friends would look in that outfit? Just upload a photo to instantly generate a realistic AI avatar, and see how any clothing or accessory looks on you before you buy.\n\n\u2022 Style an Item\nGot a piece you love? Let Gensmo build full AI outfits around it\u2014tops, shoes, and accessories that complete your style.\n\n\u2022 Find Dupes\nSaw a look you love on a celebrity? Gensmo helps you find similar clothes from thousands of brands with the same silhouette and vibe.\n\n\u2022 Chat to Style\nNot sure where to start? Just talk to y",
+    "icon": "/icons/one.srp.gensmo.app.png"
+  },
+  "com.maritanstudio.tshirtdesign": {
+    "title": "T - Shirt Design Maker - AI",
+    "package": "com.maritanstudio.tshirtdesign",
+    "description": "Unlock Your Creativity: Design Unique T-Shirts with Our Easy-to-Use App!\nDesigning unique and creative t-shirts has never been easier with our user-friendly app. Whether you're\na fashion enthusiast, a small business owner, or want to express your style, our app is here to help\nunlock your creativity. Express yourself, showcase your unique style, and liberate your creativity with our\ninnovative T-Shirt Design App.\n\nDesign your unique custom t-shirts easily using the T-shirt Design Maker app. Whether you're looking to create sports jerseys, stylish t-shirt designs, or add a personal touch to your wardrobe, this user-friendly app provides you with all the tools you need.\n\nWith an extensive collection of arts, colors, textures, and t-shirts, T-shirt Design Maker offers a wide range of options ",
+    "icon": "/icons/com.maritanstudio.tshirtdesign.png"
+  },
+  "com.rubiks.cubesolver.scanner": {
+    "title": "Rubik Cube Solver 3D Scan",
+    "package": "com.rubiks.cubesolver.scanner",
+    "description": "Solve any Rubik\u2019s Cube instantly with the most advanced AI Cube Solver & 3D Scanner!\nUse your phone camera to scan your cube and get a fast, accurate, step-by-step solution in seconds. Whether you're a beginner or a speedcuber, this powerful cube solver makes solving puzzles simple, fast, and fun.\n\n\ud83d\udd0d AI Cube Scanner & Solver\n\nScan your 2x2 or 3x3 Rubik\u2019s Cube using your camera and let our intelligent cube solver detect colors and generate the best solution instantly. No need to memorize algorithms \u2014 just scan and solve!\n\n\ud83e\udde9 3D Cube Solver (Step-by-Step)\n\nGet clear 3D animated instructions showing each move step-by-step. Perfect for:\n\nBeginners learning how to solve a cube\nAdvanced users improving speed and accuracy\n\ud83c\udfae Play & Practice (2x2 to 15x15)\n\nEnjoy a fully interactive virtual cube sim",
+    "icon": "/icons/com.rubiks.cubesolver.scanner.png"
+  },
+  "com.tarrot.anglelix": {
+    "title": "Angel Numbers Meaning",
+    "package": "com.tarrot.anglelix",
+    "description": "Angelix is a fascinating Free Angel Number Numerology app that can help you decode the messages that the angels and the universe are sending you through recurring sequences of numbers. The app is designed to provide spiritual guidance and insight into your life by interpreting the messages sent by angels and the universe through these sequences. With a vast database of angel numbers and their meanings, you can easily look up the numbers that you keep seeing and discover the hidden messages behind them. \n\n\u2b9e\u2b9eSome of the main features of the app include.\n\nAngel Number Meanings suggest a focus on exploring and understanding the spiritual significance and guidance behind each of the top angel numbers, including 101, 222, 333, 444, 555, 666, 777, 888, and 999, each of which has its own unique me",
+    "icon": "/icons/com.tarrot.anglelix.png"
+  },
+  "net.chriskreymborg.daily_dad_joke": {
+    "title": "Daily Dad Jokes!",
+    "package": "net.chriskreymborg.daily_dad_joke",
+    "description": "Laugh a Little Every Day!\nIntroducing Daily Dad Jokes, your daily dose of the best dad jokes you've ever heard. Whether you're a dad, know a dad, or simply appreciate a good old-fashioned pun, this app is for you!\n\n- New Jokes Daily: Get treated to a fresh dad joke every single day. Our library is ever-growing!\n- Save Your Favorites: Loved a joke? Add it to your favorites list and revisit any time for a guaranteed smile.\n- Notifications: Activate our daily alerts and you'll never miss a joke! The best way to kick-start your morning.\n- Hand-curated & Family-friendly: Every joke in our collection is chosen carefully, ensuring they're perfect for all age groups.\n- Share the Laughter: Found a joke that made you laugh out loud? Share it with friends and family with just a tap.\n- Simple & Sleek ",
+    "icon": "/icons/net.chriskreymborg.daily_dad_joke.png"
+  },
+  "com.quatronstudios.trends": {
+    "title": "Trends: Virtual Try-On",
+    "package": "com.quatronstudios.trends",
+    "description": "See Yourself in Any Outfit Before You Buy\nTrends is your AI-powered fashion companion that lets you virtually try on clothes using cutting-edge technology. Upload any clothing item, see how it looks on you instantly, and never second-guess an online purchase again.\n\u2728 AI Virtual Try-On\nUpload a photo of yourself and any clothing item. Our advanced AI generates realistic try-on images showing exactly how the outfit looks on you. No more sizing surprises or returns.\n\ud83d\udc57 Build Your Digital Wardrobe\nCreate a personal wardrobe of clothing items you love. Organize by category, save your favorites, and access your style collection anytime.\n\ud83d\udcf8 Share Your Style\nCreate stunning fashion posts from your virtual try-ons. Share your looks with the Trends community and discover inspiration from style enthusi",
+    "icon": "/icons/com.quatronstudios.trends.png"
+  },
+  "com.sparkappz.pocketcubesolver": {
+    "title": "Cube Solver 2x2",
+    "package": "com.sparkappz.pocketcubesolver",
+    "description": "\ud83e\udde0 Your Ultimate Cubes Master Tool \u2014 Solve Smarter with the Cube Solver 2x2 App!Struggling with your 2x2 cubes? Don\u2019t worry \u2014 the cube solver 2x2 app is here to make your life easier, faster, and a whole lot more fun. Whether you're just learning or already collecting cubes in every color, Cube Solver 3d Free is the ultimate companion to crack every twist.\n\nSay goodbye to guesswork and hello to instant solutions! With advanced visual modeling and intuitive camera input, our 2x2 cube solver app with camera makes it effortless to scan your cubes, analyze the colors, and see step-by-step how to bring it back to a solved state.\n\n\u2b50 Why Choose this 2 by 2 Cube Solver App?We built the cube solver 2x2 app to give enthusiasts a genuinely enjoyable and frustration-free solving experience. Whether you",
+    "icon": "/icons/com.sparkappz.pocketcubesolver.png"
+  },
+  "com.haikugamesco.escape16": {
+    "title": "Adventure Escape: Dark Ruins",
+    "package": "com.haikugamesco.escape16",
+    "description": "Escape a ruined city and stop a hurricane that threatens the world!\n\nA team of archaeologists crash-land in the jungle and rediscover a forgotten, cursed city. They\u2019re quickly swept into a 500-year-old mystery that threatens to flood the world again. Can our heroes outlast the night and save the world? Will they go mad when science and magic collide? What -- or who -- must they sacrifice to survive?\n\nJoin millions of happy Adventure Escape players and experience the danger and thrills of Dark Ruins!\n\n- Stunning graphics bring the beauty and danger of an ancient civilization to life!\n- Explore jungles, escape ruins, and uncover hidden secrets.\n- Solve devious puzzles and riddles!\n- Get the whole game for FREE! You\u2019re never forced to pay!\n- Improvise items to help your escape!\n- Meet 15 memo",
+    "icon": "/icons/com.haikugamesco.escape16.png"
+  },
+  "com.faceshapefinder.ai": {
+    "title": "Face Shape Finder - AI Beauty",
+    "package": "com.faceshapefinder.ai",
+    "description": "Discover your unique face shape and unlock personalized beauty recommendations with the most advanced AI face analysis app!\n\nWHAT MAKES US DIFFERENT?\nOur cutting-edge AI technology analyzes your facial features with incredible accuracy, providing you with detailed insights about your face shape, beauty scores, and personalized style recommendations.\n\nKEY FEATURES:\n\n\u2605 FACE SHAPE ANALYSIS\nInstantly identify your face shape (oval, round, square, heart, oblong, diamond) with our advanced AI scanner. Understanding your face shape is the first step to looking your best!\n\n\u2605 BEAUTY SCORE\nGet a detailed beauty score based on facial symmetry, proportions, and features. Our AI evaluates your eyes, nose, lips, and overall facial harmony.\n\n\u2605 COLOR ANALYSIS\nDiscover your skin undertone and find out whic",
+    "icon": "/icons/com.faceshapefinder.ai.png"
+  },
+  "co.gotech.bodymax": {
+    "title": "AI Muscle Filter: BodyMax",
+    "package": "co.gotech.bodymax",
+    "description": "Want to achieve your dream body? With BodyMax, you can create a muscled Gigabody version of yourself instantly. Our advanced AI Muscle Filter enhances your physique with more definition, bulk, and shape\u2014all with just a tap. Whether you're aiming for a stronger look or just exploring possibilities, BodyMax makes it easy.\n\nKey Features:\n- Instant Gigabody muscle transformation\n- AI Muscle Filter ensures realistic enhancement for natural-looking results by applying advanced AI algorithms to enhance muscle definition\n- See yourself in a bulked-up Gigabody version\n- Download and share easily\n\nPerfect for fitness enthusiasts, gym-goers, and bodybuilders who want to visualize their potential with BodyMax. Get your Gigabody transformation today and take your physique to the next level!\n\nPrivacy Po",
+    "icon": "/icons/co.gotech.bodymax.png"
+  },
+  "com.exciting.lawmate.lawmate": {
+    "title": "LawAI - AI Lawyer & Legal Help",
+    "package": "com.exciting.lawmate.lawmate",
+    "description": "\u25b6 Is it time for a lawyer or legal services? Right now! \nRomates are LLM legal assistants designed and tuned to make legal and legal documents easier to understand. From highlighting key provisions to providing scope for reference costs for legal services to pointing out potential risks, this lawyer app helps users learn and prepare before consulting with a lawyer. \n\nIf there is a situation where you need the help of a lawyer, collect information with the lawyer app and check what you need. Even if you're not a legal professional, you can explore legal proceedings, gain knowledge about contracts, and demand them in your rights with just a few taps. \n\nAI lawyers now assist you with threats and contracts. \n\n\u25b6 Key Features \n\u3010 Scan AI Law from Image \u3011 \n- Upload your contract, confirmation, or ",
+    "icon": "/icons/com.exciting.lawmate.lawmate.png"
+  },
+  "com.Kofiro.Magicube.rubiks.cube.solver": {
+    "title": "Cube Solver - Magicube",
+    "package": "com.Kofiro.Magicube.rubiks.cube.solver",
+    "description": "The popular rubik's cube puzzle on your phone, Magicube! Play with this magic cube as you solve the puzzle with logic, concentration and patience. Play this rubik cube game, which features 3x3 magic cubes puzzles scrambled and waiting to be solved. \n\nMagicube - Rubik Cube Game Features; \n- Realistic 3D graphics and animation \n- Fun sound effects to boost the gameplay \n- Simple swipe controls to control the cube\n- 2x2,3x3,4x4 and 5x5 cube puzzle.\n- Multiple skins",
+    "icon": "/icons/com.Kofiro.Magicube.rubiks.cube.solver.png"
+  },
+  "com.epic.haiku.android": {
+    "title": "Epic Haiku",
+    "package": "com.epic.haiku.android",
+    "description": "Haiku provides authorized clinical users of Epic\u2019s Electronic Health Record with secure access to clinic schedules, hospital patient lists, health summaries, test results and notes. Haiku also supports In Basket access and the ability to place and receive voice calls for care team collaboration.\n \nYour organization needs to license Haiku and will determine the exact feature set and any applicable charges for your use of Haiku. If you are unsure whether you can use Haiku, please contact your administrative staff.",
+    "icon": "/icons/com.epic.haiku.android.png"
+  },
+  "com.curatedplanet.client.citywonders.release": {
+    "title": "City Wonders",
+    "package": "com.curatedplanet.client.citywonders.release",
+    "description": "The City Wonders application highlights and details everything your tour has to offer - And More!\n\n\u2022 Everything you need is at your fingertips, and our attentive team is always just a tap or call away!\n\n\u00bb Chat with our customer support team.\n\u00bb Receive up-to-the-minute itinerary notifications.\n\u00bb See descriptions and photos of all stops on your route.\n\u00bb Book your next City Wonder tour!",
+    "icon": "/icons/com.curatedplanet.client.citywonders.release.png"
+  },
+  "site.iwingo.muscle_up_ai": {
+    "title": "Muscle Up AI",
+    "package": "site.iwingo.muscle_up_ai",
+    "description": "Muscle up AI is an all one in personal fitness tracker. It lets you take a picture of food and will track calories, proteins, carbs, and fat for you using AI. It also has a workout planner that lets you plan your workouts everyday of the week. You can even use our AI based food description to macros. We also have AI generated meals to help you find that healthy meal to satisfy your craving.\n\nWanna see your progress? You can view your progress in our analytics tab that shows weight progression and trend lines and a bunch of other cool metrics like BMI and BMR.",
+    "icon": "/icons/site.iwingo.muscle_up_ai.png"
   }
 }
