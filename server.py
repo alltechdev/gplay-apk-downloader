@@ -1631,6 +1631,20 @@ def cleanup_temp_apks():
             except Exception as e:
                 logger.warning(f"Orphaned file cleanup error: {e}")
 
+            # Clean stale apk_merge_* dirs orphaned by OOM-killed workers (older than 1h)
+            try:
+                import shutil
+                tmp_dir = Path(tempfile.gettempdir())
+                for d in tmp_dir.glob('apk_merge_*'):
+                    try:
+                        if d.is_dir() and d.stat().st_mtime < now - 3600:
+                            shutil.rmtree(d, ignore_errors=True)
+                            logger.info(f"Cleaned stale apk_merge dir: {d.name}")
+                    except Exception:
+                        pass
+            except Exception as e:
+                logger.warning(f"apk_merge cleanup error: {e}")
+
         except Exception as e:
             logger.error(f"Cleanup error: {e}")
 
@@ -1937,17 +1951,20 @@ def download_merged_stream(pkg):
                     # Report fused modules patching to UI
                     from axml_patcher import get_asset_pack_split_names
                     asset_packs = get_asset_pack_split_names([name for name, _ in splits_data])
+                    del base_apk, splits_data
                     if asset_packs:
                         fused_value = ','.join(asset_packs)
                         yield f"data: {json.dumps({'type': 'progress', 'step': 'merge', 'message': f'Patched fused modules: {fused_value}'})}\n\n"
 
                     yield f"data: {json.dumps({'type': 'progress', 'step': 'sign', 'message': 'Signing APK...'})}\n\n"
                     signed_apk = sign_apk(merged_apk)
+                    del merged_apk
 
                     # Save to disk-based temp storage
                     merged_filename = f"{pkg}-{info['versionCode']}-merged.apk"
                     try:
                         file_id = save_temp_apk(signed_apk, merged_filename)
+                        del signed_apk
                         count = increment_download_count()
                         yield f"data: {json.dumps({'type': 'success', 'download_id': file_id, 'filename': merged_filename, 'downloads': count})}\n\n"
                     except MemoryError as e:
@@ -2110,10 +2127,12 @@ def download_merged(pkg):
             # Merge APKs
             logger.info(f"Merging {len(splits_data) + 1} APKs")
             merged_apk = merge_apks(base_apk, splits_data)
+            del base_apk, splits_data
 
             # Sign the merged APK
             logger.info("Signing merged APK")
             signed_apk = sign_apk(merged_apk)
+            del merged_apk
         finally:
             merge_semaphore.release()
 
