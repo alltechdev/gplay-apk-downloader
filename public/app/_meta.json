@@ -88043,5 +88043,697 @@
     "package": "com.xyloveai.tattoo",
     "description": "\ud83c\udf1f Tattoo AI: Your Ultimate AI-Powered Tattoo Design Studio \ud83c\udf1f\nDiscover the future of body art with Tattoo AI \u2013 The tattoo app for creating personalized ink masterpieces. Perfect for tattoo lovers, first-timers, and professional artists seeking next-level inspiration!\n\n\ud83d\udd25 Key Features\n\n\ud83e\udd16 AI Tattoo Generator\nYour digital tattoo artist! Input keywords/concepts, and watch our tattoo ai craft custom designs matching your vibe. Perfect for brainstorming tattoo ideas or refining existing concepts.\n\n\ud83c\udf0c Rich Style Options\nExplore 20+ tattoo styles powered by ai tattoo algorithms. Start by choosing your favorite tattoo style, whether it's realistic, minimalistic, surrealistic, Japanese art style, Pop art style, or something completely unique. Then, just type out what you're imagining for your tattoo. O",
     "icon": "/icons/com.xyloveai.tattoo.png"
+  },
+  "com.musicntools.chord": {
+    "title": "Real World Chord Progressions",
+    "package": "com.musicntools.chord",
+    "description": "Learning course on chord progressions for beginner and intermediate.\n* This app should allow access to media folder to save your data.\n\nContents\n- Cadence\n- Diatonic & Non-diatonic Progressions\n- Modal Interchange\n- Midi Examples\n- etc\n\nHow To Use\n- Adding Favorite : Long Click the name of progressions in example page.\n- Modifying Favorite : Long Click the name in favorite page.",
+    "icon": "/icons/com.musicntools.chord.png"
+  },
+  "com.strangeplanet.vocalanalyzer": {
+    "title": "Pitch Detector for Singing",
+    "package": "com.strangeplanet.vocalanalyzer",
+    "description": "Improve your singing with immediate visual feedback",
+    "icon": "/icons/com.strangeplanet.vocalanalyzer.png"
+  },
+  "com.binoculars.hdzoomcamera.imgprocessing": {
+    "title": "Binoculars HD Zoom Camera",
+    "package": "com.binoculars.hdzoomcamera.imgprocessing",
+    "description": "The binoculars app is designed to take photos of objects from a long distance with the zoom camera in high resolution. \n\nBinoculars HD Zoom Camera is a free android zoom app that has a simple binoculars simulation and cool features with high quality camera. Get the app now to see things clearly at a far distance.\n\nBest free binocular app will provide the best result ever by just zooming at long distance objects. You can take photo and record video in HD and with flashlight support capture in low light environment.\n\nTo zoom objects with high resolution the app will provide all the cool features you need for a clear viewing. There is no need to carry a big binocular with you anymore. See objects, read small text & find things in dark with the binocular app for android.\n\nFeatures\n- Switch bet",
+    "icon": "/icons/com.binoculars.hdzoomcamera.imgprocessing.png"
+  },
+  "com.planetart.easytiles.ww": {
+    "title": "EasyTiles - Glass Photo Tiles",
+    "package": "com.planetart.easytiles.ww",
+    "description": "EasyTiles\u00ae \u2013 Custom Glass Photo Prints\nYour best memories printed on lightweight glass photo tiles\n\u2022 Your favorite photos, straight from your phone to your wall\n\u2022 Ultra-lightweight tempered glass photo tiles, guaranteed for life\n\u2022 Affordably priced so you can build a whole gallery!\n\nTURN YOUR MEMORIES INTO STUNNING GLASS WALL ART\nEasyTiles are truly custom home d\u00e9cor. Each one is an 8x8-inch raised tempered glass tile that\u2019s easy to stick to any surface. No hammer or nails required. Just peel back four small adhesive tabs and find the perfect spot on your wall. Change your mind? No worries. Easily remove your glass photo tiles and reposition them anywhere you like.\nSay goodbye to old-school picture frames and canvases. With EasyTiles glass wall art your favorite photos are literally printe",
+    "icon": "/icons/com.planetart.easytiles.ww.png"
+  },
+  "appinventor.ai_Xerxz5115.Chord_Finder": {
+    "title": "Chord Finder",
+    "package": "appinventor.ai_Xerxz5115.Chord_Finder",
+    "description": "Just say the songname or any lyrics in the song and you got the chords right there. Keep your favorite songs in a playlist!",
+    "icon": "/icons/appinventor.ai_Xerxz5115.Chord_Finder.png"
+  },
+  "com.davincieye.arartprojector": {
+    "title": "Da Vinci Eye: AR Art Projector",
+    "package": "com.davincieye.arartprojector",
+    "description": "This is our brand new app rebuilt from the ground up for Android! \n\nAs seen on Shark Tank and featured in Apple's Apps We Love, Watercolor Artist Magazine, Handmade Seller Magazine, LifeHacker, MakeUseOf, Fast Company (Innovation Award winner).\n\nDa Vinci Eye is used by millions of creatives from painters to bakers to make incredible artwork. The app is not just for tracing, it offers a wide range of drawing tools, lessons, daily drawing prompts, and a supportive community to share your artwork!\n\nIMPORTANT!: Please read how this app works below and the device requirements for AR Mode BEFORE purchasing.\n\nHIGHLIGHTS\n\n\u2022 Create incredible artwork from your own photos\n\u2022 Make hyper-realistic drawings with our strobe feature\n\u2022 Record time-lapse videos of your drawings\n\u2022 Separate images into layers",
+    "icon": "/icons/com.davincieye.arartprojector.webp"
+  },
+  "fair.freevpn.vpnfair.fairvpn.fastvpn.proxy.vpn": {
+    "title": "FAIR VPN",
+    "package": "fair.freevpn.vpnfair.fairvpn.fastvpn.proxy.vpn",
+    "description": "Fair VPN is a fast and secure VPN with Dedicated VPN servers\nFAIR VPN is simple and good choice for every one\n\nOur app utilizes the VPNService to function as a VPN service, which is central to its core functionality. By employing VPNService, we provide users with secure and private access to online resources, reinforcing their online privacy and security.\n\nDue to security police policies, this service cannot be used in Belarus, China, Saudi Arabia, Oman, Pakistan, Qatar \u060c Bangladesh India Iraq Syria Russia and Canada. We apologize for any inconvenience caused.",
+    "icon": "/icons/fair.freevpn.vpnfair.fairvpn.fastvpn.proxy.vpn.png"
+  },
+  "hairstyle.colorChanger.haircut_salon": {
+    "title": "Modiface Haircut\uff1aHair Makeover",
+    "package": "hairstyle.colorChanger.haircut_salon",
+    "description": "Modiface: Hair Makeover & Haircut App \u2013 Your Go-To App For Amazing Hair Styling!Would you like to change your look entirely without going to a salon? The Modiface: Hair Makeover & Haircut App allows you to transform your look in seconds. Be it a new hairstyle, color or transformation; this Hair Editor: Hairstyle App app enables you visualize and try on different hairstyles that match your aspirations instantly.\n\nWith the power of Hair Changer Editor, customize different looks searching for one that best matches your face shape and style from bold colors and fashionable cuts with Modiface: Hairstyles App & Hair Color Changer offering endless possibilities to try even before making any permanent commitments.\n\n\ud83d\udcc4Key Features Of Modiface: Hair Makeover & Haircut App:\ud83d\udcc4\n\ud83d\udc87\u200d\u2640\ufe0fFashionable Touch offe",
+    "icon": "/icons/hairstyle.colorChanger.haircut_salon.png"
+  },
+  "com.vueglasses.app": {
+    "title": "Vue Lite",
+    "package": "com.vueglasses.app",
+    "description": "Vue is the world's first pair of everyday smart glasses. Listen to music, make phone calls, play podcasts and audiobooks, talk to your favorite voice assistants, and control playback on your phone, all with your glasses. Comes in prescription, sunglasses or non-corrective lenses. \n\nWith the Vue Lite app, you can talk to Alexa straight from your glasses. Check the weather, locate your nearest coffee shop, control your smart home lighting, or add items to your to-do list, all through Alexa. Support for other voice control apps including Spotify and NPR are also scheduled for release.",
+    "icon": "/icons/com.vueglasses.app.png"
+  },
+  "com.litefinance.cabinet": {
+    "title": "LiteFinance mobile trading",
+    "package": "com.litefinance.cabinet",
+    "description": "Check out this ultimate mobile trading app developed by LiteFinance (ex. LiteForex) broker. Your client account and mobile stock trading platform are now within arm\u2019s reach in your smartphone! Get everything you need for comfortable trading and communication with traders from all over the world. \n\n Trading terminal: \n \u00b7 Choose from 190+ trading instruments \u2013 currencies, metals, stocks, oil, and stock indices.\n \u00b7 Build interactive price charts in real time with various periods:100+ graphical analysis tools, 75 built-in indicators, 9 time frames. \n \u00b7 Open trade orders in one click, at a particular price, or with preset Take Profit and Stop Loss values \u2014 we provide 4 order types!\n \u00b7 Copy successful traders\u2019 strategies and trades via our social trading system: they are displayed right in the c",
+    "icon": "/icons/com.litefinance.cabinet.png"
+  },
+  "biz.webcreation.magicball": {
+    "title": "Magic 8-Ball",
+    "package": "biz.webcreation.magicball",
+    "description": "Who does not know the famous Magic 8 Ball (\ud83c\udfb1). This magic ball has been answering your questions for decades now, and here it is on your phone. It's powerful and effective. And 100% free.\n\n\ud83c\udfb1 How it works ? Just think of a question and shake the ball. You then get an answer inside the sphere. Luckily the app will shake the ball for you and you can only focus on your problem to solve.\n\n\ud83c\udfb1 What's the point? Many people ask questions without getting answers. Should I say Yes or No? Family and friends can't always help. And getting good advice about life choices is not easy.\n\n\ud83c\udfb1 This is where the Magic 8-Ball comes in. With the help of its integrated magic you can ask all your questions and all you have to do is let yourself be guided by the answers.\n\n\ud83c\udfb1 Can you trust the answers? Attention, this ",
+    "icon": "/icons/biz.webcreation.magicball.jpg"
+  },
+  "com.jlabs.beautifai": {
+    "title": "BeautifAI \u2013 AI Beauty Try On",
+    "package": "com.jlabs.beautifai",
+    "description": "BeautifAI is an AI beauty try-on app that helps you see how you look before making a change.\nPreview hairstyles, outfits, and nail art instantly using advanced AI-powered virtual try on technology.\n\nWith BeautifAI, you can upload a single photo and explore different beauty and fashion styles in seconds. Whether you want to try a new hair color, test outfits, or preview nail designs, BeautifAI shows realistic results personalized to you.\n\nNo more guessing. Make confident beauty decisions with AI.\n\nKey Features\n\u2022 AI Hair Try On and Hair Color Changer\n\u2022 Outfit Try On with AI\n\u2022 AI Nail Art Preview\n\u2022 Virtual Beauty Makeover\n\u2022 Realistic and instant AI results\n\u2022 One photo, multiple styles\n\nBeautifAI combines beauty, fashion, and artificial intelligence to create a powerful virtual makeover experi",
+    "icon": "/icons/com.jlabs.beautifai.png"
+  },
+  "com.shumustudios.rcgguitar": {
+    "title": "Random Chord Generator Guitar",
+    "package": "com.shumustudios.rcgguitar",
+    "description": "Random Chord Generator helps you discover new ideas and practice smarter - built for guitar players.\nHit \u201cGenerate\u201d to throw unexpected chords your way and spark fresh inspiration - for creative sessions, jamming, or songwriting.\n\nFeatures\n\u2022 Generate random progressions - lock or unlock chords, roll new ones instantly\n\u2022 Explore a vast built-in library of guitar chords - type any chord name and see how to play it\n\u2022 Build progressions with up to 9 chords - two voicings per chord (A-root and E-root)\n\u2022 Left-handed mode - flip all chord charts horizontally with one switch (PNG exports included).\n\u2022 52 chord qualities across all 12 root notes, from simple triads to lush 13ths (guitar grips)\n\u2022 Add to Favorites - save your favorite chords for quick access anytime\n\u2022 Drag and reorder chords to shape ",
+    "icon": "/icons/com.shumustudios.rcgguitar.png"
+  },
+  "com.agileworks.chordwise": {
+    "title": "Piano Chord Master",
+    "package": "com.agileworks.chordwise",
+    "description": "\ud83c\udfb9 Unlock your piano potential with ChordWise!\n\nWhether you're a beginner starting your musical journey or an advanced player looking to sharpen your skills, ChordWise is the ultimate companion. Access a comprehensive suite of tools to master chords, scales, and ear training\u2014anytime, anywhere.\n\n\ud83d\udd25 KEY FEATURES\n\n\ud83c\udfb9 Interactive Chord Practice Master shapes and fingerings on a fully responsive virtual keyboard.\n\n\ud83d\udd0d Identify & Find Quickly identify chords on screen or look up any chord in our extensive library.\n\n\ud83d\udc42 Ear Training Develop a professional ear by learning to recognize chord types and intervals by sound alone.\n\n\ud83c\udfbc Reverse Chord Detection Play notes on the virtual piano and let the app tell you exactly which chords they form.\n\n\ud83c\udf93 Step-by-Step Lessons Learn music theory from the ground up wit",
+    "icon": "/icons/com.agileworks.chordwise.jpg"
+  },
+  "com.hi.futurering": {
+    "title": "HiFuture Ring",
+    "package": "com.hi.futurering",
+    "description": "Smart ring is a smart wearable device that combines the latest technology with fashionable design, aiming to provide users with comprehensive health monitoring and convenient life experience. The following is a detailed explanation of smart ring:\n\nHeart rate monitoring: built-in high-precision sensor, real-time monitoring of heart rate changes, providing 24-hour heart health monitoring, helping users understand their health status.\n\nBlood oxygen monitoring: smart ring measures blood oxygen saturation through optical sensing technology, helping users to understand blood oxygen levels more comprehensively and respond to potential health problems in a timely manner.\n\nSleep monitoring: can automatically monitor the user's sleep quality, analyze deep sleep, light sleep, wakefulness, provide rea",
+    "icon": "/icons/com.hi.futurering.png"
+  },
+  "com.psychologist.ai": {
+    "title": "AI Psychotherapy",
+    "package": "com.psychologist.ai",
+    "description": "Introducing \"AI Psychotherapy,\" a pioneering app that redefines mental health care through cutting-edge AI technology. Designed to provide personalized support, AI Psychotherapy is here to help you navigate life's challenges, manage stress, anxiety, or depression, and offer guidance when you need it most.\n\nAt the core of AI Psychotherapy is its advanced AI system, developed to understand and adapt to your individual mental health needs. This app goes beyond simple mental health tracking; it delivers real-time, personalized support based on your conversations and emotional state, helping you feel heard and supported at all times.\n\nChoose Your AI Therapist: Everyone's journey toward mental well-being is unique, which is why AI Psychotherapy offers a variety of AI therapists. Each AI therapis",
+    "icon": "/icons/com.psychologist.ai.png"
+  },
+  "ai.learnguitar.realguitar.guitar.keyboard.free": {
+    "title": "AI Guitar Keyboard",
+    "package": "ai.learnguitar.realguitar.guitar.keyboard.free",
+    "description": "Guitar learning app designed to help you learn guitar fast at home and progress quickly.",
+    "icon": "/icons/ai.learnguitar.realguitar.guitar.keyboard.free.png"
+  },
+  "com.tmcclain.video_analysis_tool": {
+    "title": "VisualEyes: Video Coaching App",
+    "package": "com.tmcclain.video_analysis_tool",
+    "description": "VisualEyes is the ultimate coaching and video analysis tool for athletes, coaches, and trainers. With features like Coaches Eye, Onform, and Ubersense, you can easily analyze your technique and make improvements. Whether you're a coach looking to help your athletes succeed or an athlete looking to improve your skills, VisualEyes has the tools you need.\n\nUseful for any sport with highly technical aspects, Baseball, Softball, Football, Tennis, Track & Field, Bowling, Hockey, Figure Skating, Dance, Soccer, Basketball, Wrestling, Lacrosse & many more.\n\nUse the app to record high-speed videos in up to 4K resolution and any frame rate supported by your device. With frame-by-frame scrubbing, you can analyze every aspect of your performance in detail. The app's drawing tools allow you to demonstra",
+    "icon": "/icons/com.tmcclain.video_analysis_tool.png"
+  },
+  "me.yasan.magic_8_ball": {
+    "title": "Magic 8 Ball",
+    "package": "me.yasan.magic_8_ball",
+    "description": "This app is a modern & minimal Magic 8 Ball app.\n\nThe Magic 8-Ball is a toy used for fortune-telling or seeking advice. Magic 8 Ball answers your yes or no questions. \n\nYou can change your answer pack to have a more customized Magic 8 Ball experience. You can also create your own personal answer packs. \n\nFeatures: \n\u2022 Ad-free\n\u2022 Minimal & modern UI\n\u2022 Shake detection support\n\u2022 Custom answer pack support\n\u2022 AMOLED Friendly dark theme support\n\nHow to use: \n\u2022 Ask a yes or no question\n\u2022 Tap the screen or shake your device\n\u2022 Get an answer from Magic 8 Ball",
+    "icon": "/icons/me.yasan.magic_8_ball.png"
+  },
+  "com.taqsim.synthpro": {
+    "title": "Synth Pro: Vintage Synthesizer",
+    "package": "com.taqsim.synthpro",
+    "description": "Unleash the Power of Vintage Synths with Synth Pro: Your Ultimate Synthesizer App\n\nDive into the lush, analog world of vintage synthesis with Synth Pro, the essential app for musicians, producers, and sound designers who crave the warmth and depth of authentic analog sounds. From recreating iconic vintage synth tones to crafting new and experimental sounds, Synth Pro combines an extensive library of legendary analog synths, robust editing tools, and high-quality effects\u2014all on your mobile device.\n\nKey Features:\nAuthentic Analog & Vintage Synth Sounds\nExplore a rich library of classic synth tones inspired by legendary hardware, including Moog, Juno, and Prophet synths. Perfect for adding retro vibes to your music or diving into fresh soundscapes.\n\nComprehensive Synthesizer Editing\nShape you",
+    "icon": "/icons/com.taqsim.synthpro.png"
+  },
+  "world.senseai.minutes": {
+    "title": "Minutes.AI",
+    "package": "world.senseai.minutes",
+    "description": "The hit iPhone app with over 30,000 users in 150 countries is now on Android!\n\nLeave the minutes to AI.\n\nJust press the record button. \nArtificial intelligence automatically creates the minutes.\n\nPrivacy Policy\nhttps://www.sense-ai.world/privacy-policy\nTerms of Use\nhttps://www.sense-ai.world/terms-of-use",
+    "icon": "/icons/world.senseai.minutes.jpg"
+  },
+  "com.warbyparker.app": {
+    "title": "Warby Parker",
+    "package": "com.warbyparker.app",
+    "description": "Our app is the easiest way to shop for Warby Parker eyeglasses, sunglasses, and contacts. Our eyeglasses start at $95 (prescription included!), and free shipping and returns are included with every order.\n\nWith the app you can\u2026\n\n\u2022 Shop frames starting at $95, including prescription lenses\n\u2022 Virtually try on frames with lifelike accuracy (it's wild! And so cool.)\n\u2022 Shop daily, bi-weekly, and monthly contacts with no hidden fees\n\u2022 Try or shop Scout, our very own brand of daily contact lenses\n\u2022 Strengthen your sunglasses game by an exponential factor\n\u2022 Order 5 frames to try for free with our Home Try-On program\n\u2022 Handle all of your eyewear prescriptions with ease\n\nWarby Parker has your eyes covered. Whether you\u2019re looking for designer eyewear at a revolutionary price or your next supply of co",
+    "icon": "/icons/com.warbyparker.app.webp"
+  },
+  "com.AAA.VRPlayer": {
+    "title": "VR Player mw (Local Videos)",
+    "package": "com.AAA.VRPlayer",
+    "description": "Introduction:\n\nThis is an unprecedented VR (metaverse) glasses dedicated software for viewing local albums. It can convert ordinary videos/pictures to panoramic videos/pictures for viewing, supports 180\u00b0/360\u00b0 panoramic videos or pictures, and supports automatic background removal and playback in MR form.\n\n\u2022 Supports Bluetooth handles, Bluetooth mice, and buttonless (1 second stay trigger) and other control methods;\n\n\u2022 The view frame size and spacing can be adjusted at will;\n\n\u2022 Has a very stable gyroscope (zero drift);\n\n\u2022 Supports all video formats that the mobile phone itself can support;\n\n\u2022 Efficient ordinary menu UI + virtual menu UI;\n\nThis APP has multiple scene modules with different functions:\n\n\u2022 Convert to panorama: You can directly open ordinary videos/pictures in your mobile phone ",
+    "icon": "/icons/com.AAA.VRPlayer.png"
+  },
+  "com.aitattoodesigner": {
+    "title": "Tattoo Generator - AI Tattoo",
+    "package": "com.aitattoodesigner",
+    "description": "Create Unique Tattoos with AI \u2013 Fast, Easy, Personalized!\n\nThinking about your first tattoo or looking for fresh inspiration? Tattoo Generator is your ultimate tattoo design companion. Powered by advanced AI, you can create stunning, one-of-a-kind tattoos in seconds \u2013 anytime, anywhere.\n\nKey Features:\n\n* **AI Tattoo Generator:** Turn your ideas or keywords into unique tattoo designs instantly.\n* **Multiple Styles:** Explore black & white, Japanese, tribal, gaming, and more.\n* **Text Tattoos:** Transform quotes or phrases into meaningful tattoo art.\n* **Body Preview:** Visualize designs on arms, legs, back, and other body parts before getting inked.\n* **High-Quality Stencils:** Perfect for tattoo artists or bringing your digital design to life.\n* **Save & Share:** Keep your favorite designs",
+    "icon": "/icons/com.aitattoodesigner.png"
+  },
+  "com.zennioptical.app": {
+    "title": "Zenni | Try On & Buy Glasses",
+    "package": "com.zennioptical.app",
+    "description": "Zenni: Prescription Eyeglasses and Stylish Eyewear.\n\nWelcome to Zenni - 2025\u2019s Leading Eyewear App. Shop thousands of prescription eyeglasses, reading glasses, and stylish frames all in one place. Find high-quality glasses for everyday wear, screen use, work, and sun protection, with affordable options starting at $6.95. What\u2019s more, enjoy 15% off your first purchase of $65 or more with code WELCOME15.\n\nUse our built-in PD Measurement Tool and 3D Virtual Try-On to shop eyeglasses with a more precise fit. Customize single-vision, progressive, and bifocal lenses, plus blue light and other protective lens options for your prescription.\n\n-PD Measurement Tool: Accurate lens alignment is key for comfortable vision correction. Our built-in pupillary distance (PD) tool helps you get the measuremen",
+    "icon": "/icons/com.zennioptical.app.png"
+  },
+  "com.tadaoyamaoka.vocalpitchmonitor": {
+    "title": "Vocal Pitch Monitor",
+    "package": "com.tadaoyamaoka.vocalpitchmonitor",
+    "description": "It is an application which displays the pitch of the sound inputted from the microphone on a graph in real time.\nA horizontal axis becomes time and the vertical axis has become a scale.\n\n[Feature]\n- Display the pitch inputted from the microphone in real time.\n- Display 7 octaves from C1 to B7.\n- Scroll the display range automatically.\n- Display the present scale on the upper part of a screen in written form.\n- Correspond to horizontal rotation of a screen.\n- A hold is possible by carrying out the tap of \u201cHOLD\u201d at the upper right of a screen.\n- Recording and playback\n- Save/Load function\n- Scale setting\n- Color settings for each note\n- Send a recorded audio file to somewhere(e.g. Google Drive)\n- Tuner function\n\n[Usage]\nPlease input a sound from a microphone.\nA pitch is displayed in real tim",
+    "icon": "/icons/com.tadaoyamaoka.vocalpitchmonitor.png"
+  },
+  "com.pavahainc.bracescamera": {
+    "title": "Braces Camera",
+    "package": "com.pavahainc.bracescamera",
+    "description": "Braces Camera let you get a realistic photo how you will look when you get the real braces. You will become special with your family and your lover. Braces Camera is the best makeup editor let you add Braces on your Teeth. We have over 150 bracket stickers for you make surprise things. Braces app that look real allows you create braces booth in a few seconds. Braces Editor is an application that combines photo sticker with a photo editor. This Braces Kamera has a variety of collections stirrup and other cute stickers. You can edit your photos just by selecting the appropriate brackets. You will look beautiful with colorful braces. Besides braces, in Braces Filter Camera application there are also glasses, and other ladies accessories such as piercing and crown. Crown there is a queen's cro",
+    "icon": "/icons/com.pavahainc.bracescamera.png"
+  },
+  "com.eiot.be.ring": {
+    "title": "AIZO RING",
+    "package": "com.eiot.be.ring",
+    "description": "AIZO RING is an app that work with smart ring device and provide users with sleep management, Fitness management, Physical status mangement, Care and reminder management, and Smart live service, to help users easily record and understand their sleep and activity status, enjoy  an intelligent, more convenient live.\n\nMain functions of AIZO RING.\n(1) Sleep management: Record sleep, breath data and other data monitored by the smart ring, and provides professional sleep health statistics and analysis.\n(2) Fitness management: Support daily activities and fitness records, and provides data visualization display. You can view various detailed analysis of exercise indicators to help manage activity volume and exercise plans.\n(3) Physical Status: Record heart rate, body temperature and other physica",
+    "icon": "/icons/com.eiot.be.ring.png"
+  },
+  "com.titancompany.tanishqapp": {
+    "title": "Tanishq Jewellery Shopping",
+    "package": "com.titancompany.tanishqapp",
+    "description": "Experience the ultimate jewellery shopping with Tanishq (A TATA Product), India's cherished jewellery brand. Our jewellery online shopping app provides an elegant world of choice at your fingertips, featuring a captivating range of pieces, from alluring rings to exquisite earrings, delicate pendants to opulent necklaces, stylish bangles to charming bracelets, and much more.  \nWith our Golden Harvest app, explore our catalogue effortlessly, view the latest Gold price live and stay up-to-date with the latest Gold Rates, all from the comfort of your home. \nExplore the future of jewellery shopping with Tanishq \u2013 our Jewelry Online Shopping App offers the convenience of scheduling in-store appointments and finding the nearest Tanishq store, where tradition meets innovation.\n    \nOur Wide Range ",
+    "icon": "/icons/com.titancompany.tanishqapp.png"
+  },
+  "com.myproj.chordchartgenerator": {
+    "title": "Chord Library",
+    "package": "com.myproj.chordchartgenerator",
+    "description": "- Browse, edit and save chord charts for any guitar chord\n- Create and print charts to PDF for your favorite songs and collections\n- Includes various string tunings\n- Filter by strings and frets played, rootless voicings, etc.\n- Includes jazz chords",
+    "icon": "/icons/com.myproj.chordchartgenerator.png"
+  },
+  "com.silicondroid.hexen": {
+    "title": "Hexen - Modular Synthesizer",
+    "package": "com.silicondroid.hexen",
+    "description": "Hexen: Your Ultimate Sound Playground! Explore the world of electronic music with Hexen, the virtual modular Eurorack synthesizer. With over 50 included modules, you\u2019ll have endless sonic possibilities at your fingertips.\n\nWhy Choose Hexen?\n\n\u2022Intuitive Controls: Simply tap and drag to connect modules and create your unique soundscapes. No complicated setups\u2014just pure creativity.\n\n\u2022Zoom In and Out: Dive deep into your patch by double-clicking any synth module. Zoom in for precision or zoom out for the big picture.\n\n\u2022Free Version, Full Power: Get access to all available modules in the free version. Yes, that includes the powerful tape module for audio export!\n\n\u2022Master Your Sound: Shape your analog tones, experiment with filters, and then record your masterpiece using the built-in stereo tape",
+    "icon": "/icons/com.silicondroid.hexen.png"
+  },
+  "app.revice.app": {
+    "title": "REVICE Sober: Quit with AI",
+    "package": "app.revice.app",
+    "description": "Your AI-Powered Companion for Quitting Porn, Drinking, Weed, etc & Staying Sober\n\nREVICE is your science-backed, compassionate recovery partner \u2014 enhanced with AI to help you quit drinking, manage cravings, and build a life worth living, one day at a time.\nGrounded in addiction research, REVICE combines personalized AI tools with proven techniques to rewire your mind, replace bad habits with good ones, and support lasting sobriety.\nCore Free Features\n\nTrack sober time (down to hours/days/weeks)\nBasic progress calendar & milestone celebrations\nSimple money/time saved calculator\nDaily motivation & reflections\n\nUnlock REVICE Premium for Full Power (Subscription Required)\nREVICE is freemium: Download free and start tracking today. Unlock all advanced features with REVICE Premium after a 3-day ",
+    "icon": "/icons/app.revice.app.png"
+  },
+  "me.rapchat.rapchat": {
+    "title": "Rapchat: Music Maker Studio",
+    "package": "me.rapchat.rapchat",
+    "description": "Rapchat is the best free music app in the GAME! Record songs on the spot w/ vocal effects like auto vocal tune, share them anywhere, build a following & get discovered!\n\nUse the Rap Name Generator to create an unforgettable rap name for yourself. Once you\u2019ve got a name, hop into the studio and lay down some bars. Choose from thousands of free beats from major producers and add vocal filters to sound like a pro. Spit off the top of the dome or use the notepad to write down lyrics & make sure you come correct. With multiple tracks you can add an auto vocal tune chorus, harmonies, adlibs, or invite a friend to collab on a song! Once your rap is complete, you can share it with friends on the app or via text, Snapchat, Instagram, Soundcloud, Twitter, YouTube, Facebook and more.\n\nWant to sound l",
+    "icon": "/icons/me.rapchat.rapchat.png"
+  },
+  "com.noisefit.luna": {
+    "title": "Luna Ring: Rise to brilliance",
+    "package": "com.noisefit.luna",
+    "description": "Are you ready to take your health and well-being journey to the next level? Introducing Luna Ring, the ultimate companion that empowers you to live your best life. Harness the power of cutting-edge technology packed into a stylish ring, designed to enhance your well-being in ways you never thought possible.\nKey Features:\n\ud83c\udf1f Comprehensive Health Insights: Get accurate insights about your body by monitoring 3 scores daily - Sleep, Readiness, and Activity along with personalized nudges.\n\ud83c\udf1f Advanced Sensor Technology: Our PPG sensor and a 3-axis accelerometer ensure precise tracking, allowing you to monitor subtle changes in your heart rate, sleep patterns, movements, and other bio-data.\n\ud83c\udf1f Intelligent Design for Comfort & Durability: With its ultra-lightweight, sleek design and fighter jet grade",
+    "icon": "/icons/com.noisefit.luna.png"
+  },
+  "in.shgtechnologies.svgultra": {
+    "title": "Smart Vision Ultra",
+    "package": "in.shgtechnologies.svgultra",
+    "description": "The Smart Vision Glasses Ultra is a next-generation wearable device designed for both visually impaired and sighted users, combining cutting-edge assistive technology with sleek, all-in-one hardware integration. Unlike the Pro variant, the Ultra model comes with an inbuilt camera and Bluetooth speaker embedded within the frame, eliminating the need for external attachments and offering a more streamlined, stylish user experience. Smart Vision Premium was developed for the visually impaired with uncorrectable visual impairments. The user can connect Smart Vision device to the android mobile through Wi-Fi. It uses Wi-Fi communication to send and receive data to the Smart Vision device. The application can detect objects, detect text (all Indian languages), recognize faces and detect faces. T",
+    "icon": "/icons/in.shgtechnologies.svgultra.png"
+  },
+  "com.solaris.lens": {
+    "title": "Solaris Lens",
+    "package": "com.solaris.lens",
+    "description": "Solaris Lens provides users of the Solaris Mobile Proppant Management System with end-to-end supply chain visibility from the loading facility to the well site, in real-time.\nWell Site Monitoring \u2013 Keep track of sand levels and throughput within of Solaris Mobile Proppant Management Systems.\nTrucking \u2013 View truck information associated to your well site, including trucks en route to loading, trucks loading, trucks en route to well site, and trucks at well site.\nLoading Facilities \u2013 View the inventory remaining on your purchase orders associated to specific loading facilities.",
+    "icon": "/icons/com.solaris.lens.png"
+  },
+  "com.MA.Piercing.Tattoo.Cool.Virtual.Ink.Body.Art.Salon.Photo.Booth": {
+    "title": "Piercing Photo Editor Pro",
+    "package": "com.MA.Piercing.Tattoo.Cool.Virtual.Ink.Body.Art.Salon.Photo.Booth",
+    "description": "Express Yourself with Faux Piercings - No Needles Required!\nDiscover the world of trendy piercings without the commitment. Dive into the virtual realm of Piercing Photo Editor Pro and give your photos a stylish edge. Whether you've been contemplating a real piercing or simply love the look, this app is your creative playground for experimenting with body jewelry.\n\n\ud83d\udc8e Virtual Piercing Studio\n\nPiercing Photo Editor Pro provides an extensive collection of piercing stickers and accessories. From nose rings to lip studs, eyebrow piercings to belly button jewelry, you can try them all. No needles, no pain, just pure fun!\n\n\ud83d\udc42 Ear and Nose Piercing Simulations\n\nUnleash your inner fashionista by simulating ear, nose, and even eyebrow piercings. Want to see how a specific piercing suits you? Try it ou",
+    "icon": "/icons/com.MA.Piercing.Tattoo.Cool.Virtual.Ink.Body.Art.Salon.Photo.Booth.png"
+  },
+  "com.eternalsnow.chord_self_learning": {
+    "title": "AI Chord Practice - home learn",
+    "package": "com.eternalsnow.chord_self_learning",
+    "description": "This app provides learning methods of guitar.\n\nYou can check standard guitar chords on app, and play any chords. Then AI will check your play precision.\n\nWe provides Q&A of chords feature. you will solve the question and app helps you to realize what your weak memory of chord. This strong procedure of memory retrieval will lead you to learning all chords in fastest way.",
+    "icon": "/icons/com.eternalsnow.chord_self_learning.png"
+  },
+  "com.braces.teeth.camera.photoeditinc": {
+    "title": "Real Braces Camera",
+    "package": "com.braces.teeth.camera.photoeditinc",
+    "description": "The amazing Real Braces Camera app is easy photo editing program you can choose.\n\nWith the Real Braces Camera app, you can convert photos from ordinary photos to very professional photos without spending a single dollar.\nHow is that?\n\nIt is quite simply that the Real Braces Camera application was specially designed for fans of editing on photos and modifying their personal photos for free and without any restrictions.\n\nYou may find a certain friend who puts Braces teeth, and this is part of the current fashion chain, of course, but you do not have enough money to put your braces.\n\nNow with this free application you can get the most beautiful dental arches for free only through the free and wonderful Real Braces Camera image editing application.\n\nThis application contains more than 110 of t",
+    "icon": "/icons/com.braces.teeth.camera.photoeditinc.png"
+  },
+  "teachme.howtosing": {
+    "title": "Vocal Trainer - Pitch Yogi",
+    "package": "teachme.howtosing",
+    "description": "How to learn singing at home? Have you ever wanted to learn to sing, well the app teaches you singing at home without a teacher. There are 40+ exercises in the app and to make sure that you are singing correctly the app has a state of the art musical note detector, which processes your audio in real time and tells you which note you are singing. So you can correct yourself and hit the correct musical notes. \n\nWhether you're a beginner or looking to refine your skills, our app offers a comprehensive approach to learning how to sing:\n\nThese are the key features of my app:-\n\n1 Real-time Pitch Feedback:- Sing any note and instantly see your accuracy on the interactive Music Wheel.\n\n2 Freestyle Practice:- Explore your vocal range and identify the notes you're hitting as you sing.\n\n3 Extensive E",
+    "icon": "/icons/teachme.howtosing.png"
+  },
+  "com.gprotabplayer": {
+    "title": "GProTab - Guitar tabs & player",
+    "package": "com.gprotabplayer",
+    "description": "GProTab is the Guitar Pro software files sharing and playing system. Here you can find tabs to learn how to play your most loved songs on a guitar. The chords can be viewed through our tab player, available for each tab on the project. You can download the available tabs by browsing through the inventory or by searching through the form above. You can also share your own tabs by clicking the \"Share tab\" in the main menu (requires registration).",
+    "icon": "/icons/com.gprotabplayer.png"
+  },
+  "com.kls.habitai": {
+    "title": "Ai Habit Tracker: Track Habits",
+    "package": "com.kls.habitai",
+    "description": "Are you looking for an app to build positive habits?\u2028Do you want to download a habit tracker app to improve your lifestyle and get rid of bad habits?\nIf yes, then look no further than the AI Habit Tracker!! It is the ultimate companion that helps you build good habits and achieve lasting success for building positive routines and eliminating bad ones. \n\nIntroduction to the AI Habit Tracker App:\nFirst of all, we warmly welcome all users of iPhone and iPad devices to the most advanced habit tracker app that is powered by Artificial Intelligence that makes the habit-building 3x faster.\nAchieve your goals, build positive habits, and get rid of the negative ones. AI Habit Tracker comes with personalized recommendations and daily insights to make habit-building 3x faster and most rewarding. You ",
+    "icon": "/icons/com.kls.habitai.png"
+  },
+  "com.beecam.faceapp.photoeditor.makeup": {
+    "title": "AI Camera Editor Makeup Effect",
+    "package": "com.beecam.faceapp.photoeditor.makeup",
+    "description": "Every girl has a face with individual and unique features! There are no ugly women, only women who don't know how to highlight their own unique features.\n\u2753 Did you know:\nWhat is your face shaping?\nWhich make up filter, selfie AI generator suits you best?\n\nAre you not satisfied with your selfie? Do you need a smooth skin photo editor, AI camera app that can help you highlight your best features? Then all you need is BeeCam - Makeup Cam, a face app with stunning photo effects filters and personalized makeup camera AI. With make-up filters from BeeCam, you'll be able to find makeup styles and filters that best suit your face, as well as your personality.\n\nMain Features Of BeeCam -  filter pictures app:\n\n\ud83d\udcf7Selfie Camera\n- BeeCam AI camera app owns diverse beauty effect camera: Natural such as t",
+    "icon": "/icons/com.beecam.faceapp.photoeditor.makeup.png"
+  },
+  "techpositive.glassifyme": {
+    "title": "Pupil Distance PD Glasses & VR",
+    "package": "techpositive.glassifyme",
+    "description": "#1 Top Ranked App for measuring Pupillary Distance also known as PD.\n\nPD Meter App by GlassifyMe is the perfect tool to measure your Pupillary Distance (PD) quickly and accurately. Simply take a picture holding a standard sized card with the magnetic strip facing the camera and let us do the rest.\n\nNote: Using a credit card is NOT required, nor recommended. Please use a points or rewards card. The card is only used for the purpose of reference sizing.\n\n\n What is PD?\nPD, short for Pupillary Distance, is the distance between the center of your pupils in millimeters. This measurement is important during the manufacturing of your prescription glasses to ensure you get proper vision. This measurement is also needed for your VR (Virtual Reality) headsets.\n\n\nWhy PD Meter App?\n\u2022 Measure your Dista",
+    "icon": "/icons/techpositive.glassifyme.png"
+  },
+  "com.ultrahuman.android": {
+    "title": "Ultrahuman",
+    "package": "com.ultrahuman.android",
+    "description": "Ultrahuman helps you measure your health performance by creating a unified dashboard of your health. Using metrics from the Ultrahuman Ring, such as Sleep, Activity, Heart Rate, Heart Rate Variability, Skin Temperature, and SPO2, we generate actionable scores for sleep quality, physical activity, recovery, and cardiovascular health; empowering you to decode and effectively improve your health and lifestyle. Additionally, Ultrahuman integrates with continuous glucose monitors, helping you track your glucose control and overall metabolic health in real-time through a daily Metabolic Score. Ultrahuman syncs with Health Connect allowing users to choose their source of Health data in case users are not using both of Ultrahuman Ring and glucose monitors.\n\nKey features:\n\n1. Health monitoring with",
+    "icon": "/icons/com.ultrahuman.android.webp"
+  },
+  "com.dharam.rtstai": {
+    "title": "RTST.ai: Video & Photo Editor",
+    "package": "com.dharam.rtstai",
+    "description": "Create stunning AI-powered videos and images in seconds. RTST.ai transforms your photos into viral TikTok Reels, professional headshots, AI art, and animations using the latest AI models.\n\nWhether you're a content creator, business owner, or just want to have fun RTST.ai puts the power of multiple AI models at your fingertips. No design experience needed.\n\n\u2055 TEXT TO IMAGE\nTurn any idea into stunning artwork. Type a prompt and watch AI bring your vision to life. Choose from multiple AI models and styles to match your creative vision realistic, anime, fantasy, illustration, and more.\n\n\u2055 IMAGE TO VIDEO\nTransform still photos into captivating AI videos. Bring portraits to life, create talking animations, or generate viral video effects from a single image. Perfect for Instagram Reels and TikTo",
+    "icon": "/icons/com.dharam.rtstai.png"
+  },
+  "tattooz.tattoo.maker.name.on.my.photo": {
+    "title": "Tattoo Maker - Tattoo On Photo",
+    "package": "tattooz.tattoo.maker.name.on.my.photo",
+    "description": "Experience the tattoo maker  so you can  tattoo name on my photo  more easily, with TattooZ will bring you new unique tattoos to help you  Best tattoo on my body of my photo . You are looking for an application that can unleash unique tattoo designs. The  TattooZ  app gives you hundreds of latest tattoo ideas. With the main feature helps you insert tattoos into photos. \n\nThe tattoo maker application uses a set of text creation and editing tools to make it easy to create tattoo text that comes with a lot of fonts. For appropriately selected tattoos you can now start your own ideas. Each tattoo has its own meaning, choosing a suitable tattoo is not an easy , ideas must bring about differences in design as well as color. With the tattoo maker of ideas will be easier than ever. \n\n\nCategories o",
+    "icon": "/icons/tattooz.tattoo.maker.name.on.my.photo.png"
+  },
+  "com.v7.net": {
+    "title": "com.v7.net",
+    "package": "com.v7.net"
+  },
+  "com.AAS.Braces.Camera.Try.On.Braces": {
+    "title": "Braces Camera Real",
+    "package": "com.AAS.Braces.Camera.Try.On.Braces",
+    "description": "Stop being insecure about your smile right now! ''Braces Camera Real'' is ideal for all of you who are a bit unsure whether to actually wear braces or not! We are sure that your smile is already stunning, but if you are having second thoughts about braces, a new and special ''smile corrector'' is\nhere to help! Braces are the latest fashion for quite some time, so if you are wondering about getting them, or already having one, this braces camera app will quickly become your best friend! If you are unsure of how you would look like wearing braces, Braces Camera Real will assist you! Try our ''fake braces stickers'', and discover if you should begin wearing ''real braces''! Everyone looks awesome with braces today, because of so many different styles! Try our diamond braces, heart braces, or ",
+    "icon": "/icons/com.AAS.Braces.Camera.Try.On.Braces.png"
+  },
+  "com.lunara.android": {
+    "title": "Lunara: AI beauty assistant",
+    "package": "com.lunara.android",
+    "description": "Meet Lunara AI \u2014 your smart, all-in-one beauty companion powered by advanced artificial intelligence.\nSimply upload a selfie, and Lunara analyzes your face, skin, and beauty parameters to create a personalized beauty profile just for you.\n\nWhat Lunara AI Can Do for You:\n\t\u2022\tAI Beauty Analysis \u2013 Understand your facial features, symmetry, skin tone, and unique beauty traits.\n\t\u2022\tVirtual Makeup Styles \u2013 Try different looks instantly, from natural to glam, and explore makeup styles perfectly tailored to your face.\n\t\u2022\tSkin Insights \u2013 Get detailed information about your skin condition and personalized beauty tips.\n\t\u2022\tComprehensive Face Reports \u2013 Discover how your features work together and receive suggestions to enhance your natural look.\n\t\u2022\tStyle Exploration \u2013 Experiment with trends and find your",
+    "icon": "/icons/com.lunara.android.png"
+  },
+  "com.nailcompany": {
+    "title": "Nail Company",
+    "package": "com.nailcompany",
+    "description": "We are a leading wholesale distributor of professional nail supplies, equipment, and furnishings for the beauty industry. Through a combination of hard work, loyal customers, dedicated employees, and strong partnerships with top manufacturers, we have grown to become one of the largest nail supply distributors in the nation. Our extensive inventory features top brands like OPI, CND, IBD, DND, SNS, ANC, NOTPOLISH, DCH Blending Acrylics, Kiara Sky, Glam & Glits, Apr\u00e8s, Young Nails, Cre8tion, Lechat, Gelish, and more. Our mission is to provide customers with a wide selection of nail supply products at competitive prices. We are committed to delivering quality service and earning your business through our dedication to excellence. At Nail Company Wholesale Supply, we prioritize the needs of ou",
+    "icon": "/icons/com.nailcompany.png"
+  },
+  "app.vocalista.vocalista": {
+    "title": "Vocalista: Vocal Training",
+    "package": "app.vocalista.vocalista",
+    "description": "Vocalista features a growing library of expertly crafted vocal exercises and theory lessons to help you become a better singer.\n\nPERSONALIZED EXERCISES\nAll exercises are adjusted to your vocal range so you can do them with ease.\n\nREAL-TIME PITCH DETECTION\nWhen you exercise, you get real-time pitch feedback that helps you hit every note spot-on.\n\nDAILY GOAL\nSet how many exercises you want to complete each day. Just a few minutes every day can go a long way!\n\nBITE-SIZED THEORY LESSONS\nGrow your knowledge about the foundations of singing.\n\nACHIEVEMENTS\nEarn badges for reaching new milestones on your singing journey. Stay motivated and track your progress as you work towards your singing goals!\n\nEXERCISE REMINDER\nPractice makes progress \u2014 that\u2019s why we want to make it easy for you to build a h",
+    "icon": "/icons/app.vocalista.vocalista.png"
+  },
+  "com.gologin.gologin_mobile": {
+    "title": "Gologin",
+    "package": "com.gologin.gologin_mobile",
+    "description": "Manage Multiple Accounts on Your Smartphone!\n\nGoLogin is an app that allows you to manage multiple accounts across various services from a single smartphone!\n\nWith GoLogin, profiles are completely isolated from one another and your device, ensuring that websites won't block your accounts. This is incredibly helpful for completing various online tasks.\n\nGoLogin helps you hide and control your digital footprint by masking all parameters visible to websites. By concealing these settings, you can create a unique online identity to bypass security systems.\n\nEach profile has a digital fingerprint that resembles an ordinary user profile. GoLogin ensures your anonymity, making you appear like other users so you cannot be identified among them.\n\nTeam Collaboration  \nExperience a convenient ecosyste",
+    "icon": "/icons/com.gologin.gologin_mobile.jpg"
+  },
+  "ru.mvig.mobile.chordfinder": {
+    "title": "Chord finder",
+    "package": "ru.mvig.mobile.chordfinder",
+    "description": "Easy Chord finder for guitar.\nFeatures:\n1. Search by chord name (for example - Am, G7)\n2. Search by chord code (for example 133211 - is F). Visual chord input and search of similar chords.\n3. Guitar tuner\n4. Playing chords by dubble tap or long click on chord view.\n5. Changer chord view style (orientation, colors)",
+    "icon": "/icons/ru.mvig.mobile.chordfinder.png"
+  },
+  "com.arloopa.arloopa": {
+    "title": "ARLOOPA: AI Camera & 3D Scan",
+    "package": "com.arloopa.arloopa",
+    "description": "ARLOOPA is an augmented reality and virtual reality app which provides advanced AR services that lets people impose digital content (images, sounds, text) over a real-world environment. Take your Augmented reality camera and make AR magic with amazing gifs and emojis. Place and preview augmented reality furniture, art or even robots and cars models in your home with 3D effects. Take 3D videos, photos, play with AR 3D wild animals like dinosaurs, sharks and dragons. Use your augmented reality camera to create your own virtual reality with 3D animation: 3D sky, moon and other science models. Scale the 3D augmented reality models in your camera to make them lifesize. AR is about to become a part of everyday life. With Arloopa you will appear in a colorful and imaginative world. The easiest wa",
+    "icon": "/icons/com.arloopa.arloopa.png"
+  },
+  "biz.webcreation.magicplus": {
+    "title": "Magic 8-Ball Plus",
+    "package": "biz.webcreation.magicplus",
+    "description": "Better than a crystal ball, discover the evolved and complete ball of the classic magic 8-ball. With this version you get easy, fast and free predictions about your future.\n\nIt is really a ball with a concentrate of clairvoyance and psychic magic inside. It is able to predict your future in an accurate and truthful way. You will be amazed by the veracity of the psychic readings offered.\n\nShake the magic ball and you get a prediction. You don't get answers to your questions, but real predictions about your future!\n\nThat's why this application is the ideal ally to accompany you throughout your life in order to predict all the events related to your love, your financial life, your friendships and heartaches.\n\nDon't let chance rule your life anymore! To try it is to adopt it.",
+    "icon": "/icons/biz.webcreation.magicplus.jpg"
+  },
+  "com.funtomic.matchmasters": {
+    "title": "Match Masters",
+    "package": "com.funtomic.matchmasters",
+    "description": "Match 3 puzzle game - reinvented! Now stepping into the world of pvp multiplayer games!\n\n\ud83c\udf1f A NEW WAY TO PLAY \ud83c\udf1f Play LIVE with friends OR against opponents from all over the world in a fun online match 3 game competition! Match Masters is free and has tons of new exciting ways to play matching games!\n\n\ud83c\udfae PVP MULTIPLAYER ACTION \ud83c\udfae If you love pvp multiplayer games, Match Masters brings an incredible twist. Players take turns playing against each other on the same match 3 game board, so they must take into account not only the score they will get from their moves, but also the opportunities they could create for their opponent! Experience one of the best pvp multiplayer games out there!\n\n\ud83d\ude80 AWESOME POWERUPS \ud83d\ude80 Every blue star you match charges your Booster, while your opponent collects red circle",
+    "icon": "/icons/com.funtomic.matchmasters.png"
+  },
+  "com.mybogames.pvp2": {
+    "title": "Super Match \u200e- PvP Match 3",
+    "package": "com.mybogames.pvp2",
+    "description": "\ud83c\udfaeDifferent Experience of Match Game!\ud83c\udfae\nNeed something fun to do with your free time? Wanna play match three games? Get ready to match your way to victory with Super Match and become the match master! Dive into the universe of match-3 adventure games and free puzzles that will keep you entertained for hours. Try our fun games for free and play with millions of happy players in Super Match-match 3 online game. Experience the excitement of dynamic match-3 gameplay and the strategic depth of Blast games, while challenging yourself to become the Super Match king!\n\ud83d\udc6bFight Side by Side with Your Partners!\ud83d\udc6b\nUse your unique characteristics to find partners with different abilities, such as greedy vampires, candy girls, best friends, or odd witches, and face off against opponents in an intense pvp mat",
+    "icon": "/icons/com.mybogames.pvp2.png"
+  },
+  "com.alicegames.tilematchgame": {
+    "title": "Triple Match: Match Master",
+    "package": "com.alicegames.tilematchgame",
+    "description": "\"Triple Match: Match Master\" is an engaging and highly addictive tile-matching puzzle game designed to challenge your brain while offering endless fun. Players aim to match three identical items, clearing the board and progressing through increasingly complex levels. With its vibrant graphics, intuitive controls, and a variety of colorful objects to match, the game provides a delightful experience for puzzle enthusiasts of all ages. Whether you're looking to relax or test your strategic skills, Triple Match: Match Master delivers hours of exciting gameplay, complete with unique power-ups, daily challenges, and rewarding achievements. Can you master the art of triple matching and become the ultimate Match Master?",
+    "icon": "/icons/com.alicegames.tilematchgame.png"
+  },
+  "com.tile.triplematch.matching": {
+    "title": "Match Miracle: Triple 3D Game",
+    "package": "com.tile.triplematch.matching",
+    "description": "Hop into a magic journey in Match Miracle: Triple 3D Game, that combines fun tiles matching puzzles and unique building systems. Play with Ben and Jerry on a thrilling triple 3D adventure to train your brain and keep your fun in Match Miracle.  \n\nFind and pop up identical triple 3D objects hidden amongst the piled tiles to make them a 3D match and clear the board. Find triple tiles, beat levels, train your matching skill in every single match puzzle, and become a match master with your puzzle-solving abilities. \n\n* Match Miracle: Triple 3D Game Features: \n\n\u26bd\ufe0f High-quality and cute 3D objects: \nTons of 3D objects are packed within each match triple 3D game level, including fruits, candies, cakes, lovely animals, balls\u2026 With each puzzle board cleared, the new 3D tiles will ensure you an enjo",
+    "icon": "/icons/com.tile.triplematch.matching.jpg"
+  },
+  "ru.adhocapp.vocalrange.phoenix": {
+    "title": "VocalRange Vocaberry",
+    "package": "ru.adhocapp.vocalrange.phoenix",
+    "description": "Vocaberry Vocal Range helps you analyze your vocal range from bass to tenor and from contralto to soprano. \nDiscover your voice type and compare your range with famous singers. \nSee which songs were sung in various ranges and find out if they suit your voice. \nFor example, you may find out that you have a tenor and that Kurt Cobain is closest to you, and the most comfortable song is Heart Shaped Box.\nPerfect for singers, voice coaches, and music enthusiasts. \nKey features: \n\u2014 Vocal range analysis: Identify your voice type (bass, baritone, tenor, alto, mezzo-soprano, soprano). \n\u2014 Compare with famous singers: Find out how your vocal range matches up with the greats. \n\u2014 Compare singers to see who has a wider range and who sings the lowest or highest notes. \n\u2014 Song range insights: See what son",
+    "icon": "/icons/ru.adhocapp.vocalrange.phoenix.png"
+  },
+  "com.yuming.richard": {
+    "title": "Richard - Study with AI",
+    "package": "com.yuming.richard",
+    "description": "Supercharge the way you learn with Richard, your personal AI-powered study companion. Whether it\u2019s a lecture recording, YouTube video, or PDF, Richard helps you turn content into clear notes, summaries, and study tools\u2014so you can focus on understanding, not just reviewing.\n\nWhy Richard?\n\nUpload Lectures & Audio \u2013 Automatically transcribe, highlight key points, and save time.\n\nLearn from YouTube \u2013 Summarize videos into structured notes you can review anytime.\n\nPDF & Document Support \u2013 Extract important insights from textbooks and articles.\n\nAI-Powered Summaries \u2013 Get concise explanations and breakdowns of complex material.\n\nStay Organized \u2013 Keep all your learning resources and notes in one place.\n\nFlashcards & Practice \u2013 Reinforce concepts with instant flashcards and quizzes.\n\nWhether you\u2019r",
+    "icon": "/icons/com.yuming.richard.png"
+  },
+  "com.novagrow.looura": {
+    "title": "Looura \u2013 AI Virtual Try On",
+    "package": "com.novagrow.looura",
+    "description": "See your style and outfit combinations with virtual try on before you buy clothes.\n\nLooura \u2013 AI Virtual Try On helps you see how clothes look on you before making a purchase.\nInstead of guessing, you can try clothes virtually, explore outfit combinations, and understand how different styles fit you \u2014 all in one place.\n\nSimply add a product link from any online store and preview the outfit on you instantly.\nLooura lets you visualize style, fit, and overall appearance with intelligent virtual try on \u2014 without changing clothes or visiting a fitting room.\n\nWhether you\u2019re exploring new outfit combinations or checking how a specific piece looks on you, Looura supports your shopping journey with smart AI assistance and works as a personal AI style assistant built around your taste.\n\n- Why choose ",
+    "icon": "/icons/com.novagrow.looura.png"
+  },
+  "com.eightbitnightmare.chordnotesgenerator": {
+    "title": "Chord Notes Generator",
+    "package": "com.eightbitnightmare.chordnotesgenerator",
+    "description": "Unlock the notes of any chord instantly with Chord Notes Generator!\n\nSimply select the root note, chord quality (like Major, Minor, Sus4, Sus2, Dominant 7th, etc.), and any desired extensions (like add9), and Chord Notes Generator will immediately display the constituent notes.\n\n**Key Features:**\n*   **Intuitive Interface:** Easily select root notes, qualities, and extensions from simple dropdown menus.\n*   **Wide Range of Chords:** Explore common chords including Major, Minor, Diminished, Augmented, Sus2, Sus4, and various 7th chords.\n*   **Chord Extensions:** Add color to your chords with common extensions like 'add9'.\n*   **Clear Display:** Notes are presented clearly, making them easy to read and understand.\n*   **Quick & Lightweight:** Get the information you need without any fuss.\n* ",
+    "icon": "/icons/com.eightbitnightmare.chordnotesgenerator.png"
+  },
+  "com.eyecolor.ultimate": {
+    "title": "Eye Color Changer Ultimate",
+    "package": "com.eyecolor.ultimate",
+    "description": "Eye Color Changer Ultimate is an ultimate app for you to try out hundred plus of eye colors and lenses on your own photo. You can have green, blue, brwon or multiple color eyes! You can even have one of each! Do you want to try out cat eyes? How about adding some flame eyes? How to do select left/right eye? With Eye Color Changer Ultimate, you can try all of these and many more colors and lanses with just a simple click.\n \nReal time adjustment view- You can see in real time adjustment of eye color/lanses.\n \n\u22c6 Features  \u22c6\n\u2722 Simulate hundreds of photo-realistic eye colors on any photo\n\u2722 Over 200+ eye lanses (simple, electric, specs, exotic, animal, alien, and more!!)\n\u2722 Adjust opacity of each eye color effect\n\u2722 Upload a photo from photo gallery, camera, etc\n\u2722 Automatic eye detection and adjus",
+    "icon": "/icons/com.eyecolor.ultimate.png"
+  },
+  "com.ekdu.hiphopbeatmaker": {
+    "title": "HIP HOP BEAT MAKER",
+    "package": "com.ekdu.hiphopbeatmaker",
+    "description": "Unleash Your Inner Hip Hop Producer with HIP HOP BEAT MAKER!\n\nCraft music like a pro with this powerful and easy to use music production app. Designed for aspiring producers, rappers, and trap enthusiasts, HIP HOP BEAT MAKER combines an intuitive drum pad interface with advanced tools to create custom tracks effortlessly.\n\nWhether you're a seasoned creator or just starting out, this app is your gateway to producing fire tracks anytime, anywhere. From freestyle sessions to rap battles, HIP HOP BEAT MAKER has everything you need to bring your sound to life.\n\nKey Features for Music Producers\nExtensive Sound Library: Explore a diverse collection of high-quality sounds, including booming 808s, kicks, snares, hi-hats, and unique samples to give your tracks that signature edge.\n10-Track Sequencer",
+    "icon": "/icons/com.ekdu.hiphopbeatmaker.png"
+  },
+  "com.girls.photo.editor.makeup.face": {
+    "title": "com.girls.photo.editor.makeup.face",
+    "package": "com.girls.photo.editor.makeup.face",
+    "icon": "/icons/com.girls.photo.editor.makeup.face.png"
+  },
+  "com.xaddict": {
+    "title": "Xaddict: AI Addiction Coach",
+    "package": "com.xaddict",
+    "description": "Are you tired of the cycle of relapse? Do you want to regain control of your life, dopamine levels, and future?\n\nMeet Xaddict \u2013 The most advanced AI-powered addiction breaker and sobriety tracker designed to help you quit bad habits and build a legacy. Whether you are battling alcohol, vaping, smoking, pornography (PMO), or gambling, Xaddict is your personal AI Coach that lives in your pocket.\n\nWe don't just count days; we help you rewire your brain.\n\n\ud83d\ude80 NEW: TRACK MULTIPLE ADDICTIONS\nWhy limit yourself? You can now track and conquer multiple habits simultaneously. Quit drinking, stop smoking, and break free from adult content addiction\u2014all in one secure dashboard.\n\n\ud83d\udd25 KEY FEATURES THAT MAKE US DIFFERENT:\n\n\ud83e\udde0 Advanced AI Coach\nFeeling triggered? Talk to our AI Coach instantly. It provides per",
+    "icon": "/icons/com.xaddict.png"
+  },
+  "org.mozilla.firefox_beta": {
+    "title": "Firefox Beta for Testers",
+    "package": "org.mozilla.firefox_beta",
+    "description": "Firefox Browser for Android is automatically private and incredibly fast. Thousands of online trackers are following you every day, collecting information about where you go online and slowing down your speed. Firefox blocks over 2000 of these trackers by default and there are ad blocker add-ons available if you want to customize your browser even more. With Firefox, you\u2019ll get the security you deserve and the speed you need in a private, mobile browser. \n\nFAST. PRIVATE. SAFE.\nFirefox is faster than ever and gives you a powerful web browser that protects your privacy. Keep what\u2019s personal private with Enhanced Tracking Protection, which automatically blocks over 2000 online trackers from invading your privacy. With Firefox, you don\u2019t have to dig in your privacy settings, everything is set ",
+    "icon": "/icons/org.mozilla.firefox_beta.png"
+  },
+  "avinya.tech.ringfit": {
+    "title": "RingFit - Know Your Ring Size",
+    "package": "avinya.tech.ringfit",
+    "description": "Tired of guessing your ring size? RingFit is the definitive Ring Sizer App designed to bring confidence, accuracy, and precision to your jewelry shopping. Whether you're buying a ring online, planning a surprise gift, or tracking metal value, RingFit turns your phone into an essential jewelry toolkit. Say goodbye to costly returns and inaccurate measurements!\n\nAccurate Ring Sizer and Finger Measurement Tool\nDon't know how to measure ring size at home? We make it easy and accurate! RingFit offers two powerful functions to ensure you find the perfect fit every time:\n- Ring Sizer: Easily find the exact internal diameter and circumference of a ring you already own. Simply place your ring on the phone's screen and use our guide. Instantly convert the ring size into all common international unit",
+    "icon": "/icons/avinya.tech.ringfit.png"
+  },
+  "com.ajnalens.lenskartb": {
+    "title": "B By Lenskart",
+    "package": "com.ajnalens.lenskartb",
+    "description": "Connect your B Smart Glasses to access AI features, voice control, and import your photos and videos \u2014 all in one place.\n\nWhat you can do\n1.Voice Control with \u201cHey Buddy\u201d\nActivate your AI assistant instantly using your voice. Ask questions, give commands, and get answers in real time.\n2. Capture photos and videos\nTake photos and videos using voice or gestures \u2014 even without internet. Capture moments without interrupting your flow.\n3. Look & Tell\nPoint your glasses and ask. B captures the scene and describes objects, text, or surroundings out loud.\n4. Live AI\nSee something and need help? B analyzes your surroundings in real time and guides you as you interact.\n5. Record Meeting\nLet B listen, capture key points, and create a summary you can review later.\n6. Make and take calls\nStay connected",
+    "icon": "/icons/com.ajnalens.lenskartb.png"
+  },
+  "org.gologin.orbita": {
+    "title": "Orbita for GoLogin",
+    "package": "org.gologin.orbita",
+    "description": "To ensure anonymous surfing with the GoLogin multiaccounting tool, we needed the most secure browser and we decided to create our own browser. This is how the Orbita appeared.\n\nOrbita is based on the Chromium. It protects your anonymity and allows you to surf the web anonymously. The interface is specially made as familiar as Chrome. We chose Chrome because it is the most popular and is used by most users. But we changed its stuffing so that sites will not be able to track your identity.\nThat is why Orbita is the safest browser on the whole Internet.",
+    "icon": "/icons/org.gologin.orbita.png"
+  },
+  "com.lumosglasses.launch": {
+    "title": "Lumos Glasses",
+    "package": "com.lumosglasses.launch",
+    "description": "Lumos is the official companion app for Lumos smart glasses, designed to make personalized light exposure management simple and effective. With an intuitive interface, you can connect your glasses, start and customize sessions, adjust brightness and duration, and track your daily light usage.\n\nWhether you want to support focus, manage light exposure during travel, or encourage healthier sleep patterns, Lumos provides flexible programs tailored to your lifestyle. All data is encrypted in transit, and you can request account or data deletion at any time for peace of mind.\n\nThe app allows easy pairing with Lumos smart glasses, customizable light sessions, daily usage tracking with insights, and secure data protection with privacy controls. It is updated regularly with new features and improve",
+    "icon": "/icons/com.lumosglasses.launch.png"
+  },
+  "com.magicvfacemakeup.beauty.makeup.camera.selfie.photoeditor.dailyaims": {
+    "title": "com.magicvfacemakeup.beauty.makeup.camera.selfie.photoeditor.dailyaims",
+    "package": "com.magicvfacemakeup.beauty.makeup.camera.selfie.photoeditor.dailyaims"
+  },
+  "com.endgame.nail": {
+    "title": "com.endgame.nail",
+    "package": "com.endgame.nail"
+  },
+  "com.envelopedevelopment.loopz": {
+    "title": "com.envelopedevelopment.loopz",
+    "package": "com.envelopedevelopment.loopz"
+  },
+  "com.viture.spacewalker": {
+    "title": "com.viture.spacewalker",
+    "package": "com.viture.spacewalker",
+    "icon": "/icons/com.viture.spacewalker.webp"
+  },
+  "com.adguard.email": {
+    "title": "AdGuard Mail & Temp Mail",
+    "package": "com.adguard.email",
+    "description": "AdGuard Mail is a service that allows you to receive emails without revealing your personal email address to the sender.\n\nOur service provides you with everything you need to protect your mail:\n\n- Aliases for email forwarding\n- Temporary email addresses for short-term communications\n\nFrom the industry leader with over 15 years of experience in user privacy tools and services.\n\nWith AdGuard Mail you can:\n\n* Create aliases\n* Manage your email subscriptions\n* Use temporary email addresses\n\nWhy use AdGuard Mail?\n\n1. Receive email anonymously\n2. Control email forwarding\n3. Avoid spam in your main inbox\n4. Protect your privacy\n5. Prevent tracking\n\n1. Receive email anonymously: Use aliases to receive email anonymously instead of exposing your primary email address. This method allows you to subsc",
+    "icon": "/icons/com.adguard.email.png"
+  },
+  "com.essilorluxottica.nuanceaudio": {
+    "title": "Nuance Audio",
+    "package": "com.essilorluxottica.nuanceaudio",
+    "description": "Experience enhanced hearing with Nuance Audio Glasses, the stylish eyewear with integrated hearing assistance for mild to moderate hearing loss. The Nuance Audio app is your control center, enabling seamless management of your hearing glasses directly from your smartphone. \n\nKey Features: \n- Device Activation: Set up and activate your Nuance Audio glasses for immediate use. \n- Customization: Tailor sound settings to fit your hearing preferences in any situation. \n- Sound Scenarios: Easily switch between different hearing modes to focus on what matters the most. \n- Noise Management: Adjust settings to reduce background noise and amplify voices in real-time. \n- Preset Controls: Save and apply customized settings for consistent listening experiences. \n- Remote Control: Adjust volume and other",
+    "icon": "/icons/com.essilorluxottica.nuanceaudio.png"
+  },
+  "org.gmoby.tattoo": {
+    "title": "Tattoo AI: Ink Generator",
+    "package": "org.gmoby.tattoo",
+    "description": "Unleash your imagination with Tattoo AI: Ink Generator \u2014 the ultimate tool to create stunning, custom tattoo designs powered by artificial intelligence.\n\nWhether you're a tattoo lover, artist, or just exploring ideas for your first ink, Tattoo AI makes it easy to generate unique designs tailored to your style and body placement.\n\n\ud83c\udfa8 AI-Powered Tattoo Generator \u2013 Describe your idea, pick a style and body part \u2014 get a stunning tattoo instantly.\n\n\u2728 Styles for Everyone \u2013 Minimalist, geometric, tribal, realism, Japanese, blackwork, and more.\n\n\ud83e\udde0 \"Surprise Me\" Ideas \u2013 Stuck for inspiration? Tap a button and let AI do the rest.\n\n\ud83d\uddbc\ufe0f Preview on Skin \u2013 See your tattoo design visualized directly on body parts like forearm, chest, or back.\n\n\u2764\ufe0f Save & Share \u2013 Keep your favorite designs or share them with",
+    "icon": "/icons/org.gmoby.tattoo.png"
+  },
+  "com.nextmar.voogueme": {
+    "title": "Vooglam - Eyewear and Glasses",
+    "package": "com.nextmar.voogueme",
+    "description": "Welcome to Vooglam - where eyewear meets self-expression! Discover frames that celebrate your individuality and creative freedom through our innovative virtual shopping experience.\n\nEXPRESS YOUR STYLE\nBold frame designs for every personality\nCurated collections of unique styles\nDistinctive color combinations\nStatement-making eyewear\nFresh styles added weekly\n\nVIRTUAL TRY-ON TECHNOLOGY\nSmart AR try-on experience\nPrecise sizing measurements\nFace shape analysis\nAccurate pupillary distance tool\nPersonalized frame recommendations\n\nSEAMLESS SHOPPING\nSimple prescription uploads\nSecure payment processing\nGlobal shipping\nEasy returns\nPremium quality at great prices\n\nCREATE YOUR SIGNATURE LOOK Whether you love psychedelic patterns, retro vibes, or bold color combinations, find frames that match your",
+    "icon": "/icons/com.nextmar.voogueme.png"
+  },
+  "com.Vihart.Magic8Ball3DOracle": {
+    "title": "Magic 8 Ball 3D Oracle",
+    "package": "com.Vihart.Magic8Ball3DOracle",
+    "description": "The toy Magic 8 Ball was created in 1950 and used for fortune-telling or for seeking advice. With our realistic app Magic 8 Ball 3D Oracle you can find answers for your questions.\nAre you curious to know about your future? Here is a solution to all your problems. The Magic 8 Ball 3D Oracle is a Fortune Teller, which will answer all your questions. Simply concentrate, think of a question that can be answered with a Yes, No or Maybe, then touch the 3D Oracle to get your answer.\nThis app can improve your ability to make decisions using clairvoyance, especially if it is related to upcoming important events.\nBut remember, you create your own destiny! And only you can change it!\nThe Magic 8 Ball 3D Oracle is a fun way to solve problems and can be very helpful to make less stressful decisions.\n\nM",
+    "icon": "/icons/com.Vihart.Magic8Ball3DOracle.png"
+  },
+  "com.vsvmrti.aisong.making": {
+    "title": "Composer AI: AI Song Generator",
+    "package": "com.vsvmrti.aisong.making",
+    "description": "AI Song Generator tool lets you create professional songs in minutes with the power of AI.\n \nAI Song Generator transforms your ideas into fully produced songs with just a few taps. Making music is now effortless! Whether you\u2019re a pro songwriter or a music lover. Simply describe your dream track, whether it\u2019s an energetic pop hit or a powerful hip hop anthem and let AI bring your melody to life.\n \nComposer AI makes songs and music that feel truly yours. An authentic, emotional, and unique. Easily blend and experiment with genres like pop, rock, electronic, hip-hop, classical, or anything in between. With AI Song Maker, you can explore endless possibilities and make your own sound.\n\nFeatures:\n- Custom Song\nCreate your own song by adding a title, lyrics, music style, and instruments. Write yo",
+    "icon": "/icons/com.vsvmrti.aisong.making.png"
+  },
+  "net.volcanomobile.fluidsynthmidi": {
+    "title": "FluidSynth MIDI Synthesizer",
+    "package": "net.volcanomobile.fluidsynthmidi",
+    "description": "NOTE: A SoundFont (.sf2) is required to use this synthesizer.\n\nPlug your device to your computer, or hook a MIDI USB master keyboard via an OTG cable to play with this low-latency FluidSynth 2.1.7 based Synthesizer.\n\n- load SoundFont 2\n- record your performances directly in WAVE files\n\nThis application uses a modified version of FluidSynth, you can find the source code here https://github.com/VolcanoMobile/fluidsynth-android",
+    "icon": "/icons/net.volcanomobile.fluidsynthmidi.png"
+  },
+  "com.magnifyinghd.binocularsvzoomhdcamera": {
+    "title": "Binoculars v11 Zoom HD Camera",
+    "package": "com.magnifyinghd.binocularsvzoomhdcamera",
+    "description": "Binoculars v11 Zoom HD Camera is a powerful multi-mode camera app designed to help you capture distant objects, improve low-light photography, explore macro details, and add location stamps to your photos and videos.\n\nThis advanced camera utility combines several professional camera modes into one easy-to-use application. Whether you want to use a binocular-style camera for distant viewing, capture clearer images in low light, examine tiny objects using macro magnifier mode, or add GPS location stamps to your photos, this app provides a complete camera experience.\n\nProfessional Camera Modes\n\nBinocular Camera Mode  \nUse the binocular camera layout to view distant objects and capture photos with enhanced clarity. This mode provides a binocular-style interface that makes long-distance viewing",
+    "icon": "/icons/com.magnifyinghd.binocularsvzoomhdcamera.png"
+  },
+  "com.kacamataai.soundmodern": {
+    "title": "Xiaomi AI Smart Glasses Advice",
+    "package": "com.kacamataai.soundmodern",
+    "description": "Welcome to Xiaomi AI Smart Glasses Advice app.\nThis is educational app to explain about Xiaomi AI Smart Glasses Advice.\n\nThis Xiaomi AI Smart Glasses Advice app contains\nXiaomi AI Smart Glasses Advice general guide\nXiaomi AI Smart Glasses Advice explanation\nAnd others\n\nPlease notes :\nThis Xiaomi AI Smart Glasses Advice app is unnoficially and made to educated user.\nThis Xiaomi AI Smart Glasses Advice app content source from internet, once again purposed to educated user and not purposed to impersonate any entity\n\nIf any complaint please let us know at publisherbelajar2022@gmail.com we will pleassure to acomodate you.",
+    "icon": "/icons/com.kacamataai.soundmodern.jpg"
+  },
+  "com.watermark.eraser.remover.photo.video": {
+    "title": "AniEraser - Object Remover",
+    "package": "com.watermark.eraser.remover.photo.video",
+    "description": "AniEraser is an AI-powered photo and video editor for object removal, photo retouching, blurry photo fixing, video enhancement, video upscaling, and old photo restoration. Edit with a tap or simple text prompts and get clean, natural-looking results without complex tools.\n\nWhy Choose AniEraser?\n\u25cf Powerful Image Object Remover\nRemove unwanted objects, text, and background people from photos with one tap while keeping results clean and natural.\n\n\u25cf High-Quality Video Object Remover\nErase distracting objects from videos without frame-by-frame editing. Improved AI delivers cleaner removals with more natural-looking results.\n\n\u25cf All-New AI Video Enhancer\nRestore detail, upscale videos, and reduce noise with General, Face, and Anime models.\n\n\u25cf One-Tap AI Photo Enhancer\nEnhance sharpness, refine li",
+    "icon": "/icons/com.watermark.eraser.remover.photo.video.png"
+  },
+  "com.knightkoder.ai_outfit_tryon": {
+    "title": "Outfit AI: Virtual Try On",
+    "package": "com.knightkoder.ai_outfit_tryon",
+    "description": "Outfit AI uses advanced generative technology to let you try on any garment instantly using just a photo. Whether you are browsing online stores or reinventing your style, our app provides photorealistic visualizations to help you shop smarter and look better.\n\n    Key Features:\n    - Instant Virtual Try-On: See any outfit on your body with high-fidelity AI rendering.\n    - AI Outfit Generator: Experiment with new trends and styles in seconds.\n    - Smart Wardrobe: Mix and match garments from screenshots or your gallery.\n    - Reduce Returns: Make confident buying decisions and shop sustainably.\n\n    How to use:\n    1. Upload a clear full-body photo.\n    2. Select or upload a garment image.\n    3. Visualize your new look instantly and share.\n    4. Experience the future of fashion. Downloa",
+    "icon": "/icons/com.knightkoder.ai_outfit_tryon.png"
+  },
+  "com.dizwe.guico": {
+    "title": "guico- AI Guitar Chord Trainer",
+    "package": "com.dizwe.guico",
+    "description": "guico is a chord quiz app designed to help you build both fretboard literacy and real playing intuition. Just strum the chord shown on the screen, and the app instantly recognizes the sound to verify your fingering. It transforms chord study from static diagrams into a hands-on experience that syncs your eyes, ears, and fingers.\n\nKey Features\nReal-time Chord Detection\nStrum chords like G, Am7, or Dadd9, and get instant feedback on your accuracy.\n\nStep-by-Step Quiz Modes\nProgress naturally from basic open chords to barre chords, sevenths, and complex jazz voicings.\n\nMistake Review\nSmart tracking allows you to revisit only the shapes you struggled with to ensure total mastery.\n\nFocused Practice Environment\nA clean, distraction-free interface designed to keep you focused on the strings.\n\nPerf",
+    "icon": "/icons/com.dizwe.guico.png"
+  },
+  "com.serkanseker.drumbeats": {
+    "title": "DrumBeats - Real Drum Loops",
+    "package": "com.serkanseker.drumbeats",
+    "description": "Drum Beats is an app featuring a wide range of drum loops, perfect for both beginners and professionals. Explore rhythms from various genres and jam along!\n\n\u26a1 Designed for musicians of all levels, Drum Beats helps you create your own songs.\n\n\u26a1 It works well with many instruments, including drums, guitar, piano, darbuka, percussion, violin, strings, and more.\n\n\u26a1 Set the tempo/BPM by tapping the screen, thanks to advanced algorithms.\n\n\u26a1 Jam along with real rhythm tracks, replacing the monotonous sound of a metronome.\n\n\u26a1 Filter loops by BPM, genre, and measure to find the perfect rhythm for your style.\n\n\u26a1 A smart drum engine allows you to adjust the tempo/BPM of each beat, making practice more enjoyable\u2014no need for a metronome or rhythm machine.\n\nMulti-Channel Equalizer\nThe graphic-based equa",
+    "icon": "/icons/com.serkanseker.drumbeats.png"
+  },
+  "cn.hring.veepoo": {
+    "title": "H Ring",
+    "package": "cn.hring.veepoo",
+    "description": "H Ring is a comprehensive health management and fitness tracking application designed for users of smart wearable devices, including smart rings and smartwatches. By seamlessly connecting with your devices, H Ring helps you stay connected and gain deep insights into your physical well-being.\n\nCore Features\n1. Enhanced Connectivity & Communication\nSmart Calling: Connect your smartwatch to make and receive phone calls directly from your wrist. Stay in touch even when your phone isn't in your hand.\nInstant Notifications: Receive real-time alerts for incoming calls, SMS, and unread messages from your favorite apps. Important information is pushed directly to your wearable device, ensuring you never miss a critical update.\n\n2. Real-Time Health Monitoring\nHeart Rate Tracking: Monitor your heart ",
+    "icon": "/icons/cn.hring.veepoo.png"
+  },
+  "com.mediastudios.daytracker": {
+    "title": "Moody: Day-Habit Tracker AI",
+    "package": "com.mediastudios.daytracker",
+    "description": "Talk to an AI therapist!\n\nDiscover a New Way to Track and Improve Your Mood with Moody: Day-Habit Tracker AI, an effortless and comprehensive approach to mood tracking and journaling. With just a few taps, you can log your mood, activities, and even weather conditions, offering a complete picture of your day. Our intuitive interface makes journaling seamless and fully customizable, ensuring that tracking your mood and activities feels like a personal daily check-in with your mental wellness assistant.\n\nYour Personal Mood Analysis Tool: Uncover patterns and gain insights into your mental health with Moody: Day-Habit Tracker AI. Our app provides detailed mood reports over various timeframes, from daily to yearly, helping you identify trends and triggers. Utilize customizable hashtags to effe",
+    "icon": "/icons/com.mediastudios.daytracker.png"
+  },
+  "com.yunyi.smartcamera": {
+    "title": "Yi iot",
+    "package": "com.yunyi.smartcamera",
+    "description": "****Attention!!! This app only supports International Version Yi iot Camera. For people who use China Version YUNYI Smart Camera, please download the suitable app in Mi Store. ****\n\n-YI IoT Camera connects you with your family through real-time video and audio anytime and anywhere just a fingertip away\n-Equipped with a 111\u00b0 wide-angle lens, you can extend the area of coverage to enable a clear view of specific areas and objects. Simply double click to activate 4x digital zoom to focus on details\n-With a simple tap on your mobile phone, you can initiate a 2-way conversation with your family remotely. Its specially designed microphone and speaker ensures loud and clean voice quality\n-By simply panning your mobile phone left and right, a complete panoramic view will be displayed to provide a ",
+    "icon": "/icons/com.yunyi.smartcamera.png"
+  },
+  "com.chordbot.demo.gui": {
+    "title": "Chordbot Lite",
+    "package": "com.chordbot.demo.gui",
+    "description": "Chordbot is a music app that lets you create and play complex chord progressions quickly and easily.\n\nUse it to:\n* Experiment with advanced chord progressions without instruments or fingering charts.\n* Create customisable backing tracks for instrument practice sessions.\n* Rearrange new or existing songs with different instruments and comping patterns.\n* Experiment with music theory without having to master an instrument first.\n\nHow:\n* Add some interesting chords\n* Select a few instruments patterns\n* Hit play. Fiddle around with chords and arrangements in real-time until you find something you like\n* Export as MIDI, refine in DAW, release song, profit (optional)\n\nKey features:\n* 60+ chord types in all keys and inversions\n* 400+ dynamically mixable instrument tracks\n* Key/inversion/root note",
+    "icon": "/icons/com.chordbot.demo.gui.png"
+  },
+  "br.com.iastudio.ajudaai": {
+    "title": "Help AI: Your Homework With AI",
+    "package": "br.com.iastudio.ajudaai",
+    "description": "Discover the power of Artificial Intelligence at your fingertips with Help AI: the app that will transform the way you learn and resolve your queries!\n\nHelp AI is a virtual assistant created to solve your homework and general doubts in a matter of seconds! We utilize one of the most sophisticated artificial intelligence models, capable of answering a vast range of questions and subjects from any discipline.\n\nYou can ask your question in three ways:\n\n- Manually typing\n- Scanning your question with the camera\n- Voice search\n\nThe app also offers some extra features:\n\n\u2022 Custom prompts: You can create and save personalized instructions to assist in your queries. This is useful for frequently used instructions. The app comes with some pre-installed prompts, but you can also create your own!\n\n\u2022 S",
+    "icon": "/icons/br.com.iastudio.ajudaai.png"
+  },
+  "ai.loopring": {
+    "title": "Loop Ring",
+    "package": "ai.loopring",
+    "description": "Loop Ring App \u2013 Your Health Companion on the Go\n\nTake charge of your health and well-being with the Loop Ring App, the ultimate companion for your Loop Ring. Designed to seamlessly sync with your smart ring, this app gives you real-time access to key health metrics, personalised insights, and in-depth tracking, all at your fingertips. Whether you\u2019re monitoring your daily activity, tracking your sleep, or keeping an eye on your vitals, the Loop Ring App ensures that you stay connected to your health journey, anytime, anywhere.\n\nKey Features:\n\n1. Seamless Pairing and Syncing\n\nEasily pair your Loop Ring with the app using Bluetooth, and start monitoring your health instantly. The Loop Ring App syncs your data in real-time, providing instant access to your vital metrics without the hassle of m",
+    "icon": "/icons/ai.loopring.png"
+  },
+  "umagic.ai.aiart.aiartgenrator": {
+    "title": "Umagic: AI Video Generator",
+    "package": "umagic.ai.aiart.aiartgenrator",
+    "description": "Want to go viral? Umagic turns your photos into incredibly fun, trending AI videos in seconds!\nLooking for the best AI video generator to dominate your feed? Welcome to Umagic, where your photos come to life with the power of cutting-edge AI. Whether it\u2019s a viral dance move, a nostalgic \"AI Hug,\" or turning yourself into a designer toy, Umagic is your all-in-one studio for creating high-end content for TikTok, Instagram Reels, and YouTube Shorts.\nJoin over 1 Million creators and start getting likes and followers like crazy!\n\n\ud83c\udfa5 AI Video Magic\nWhy settle for a static photo when you can tell a story? Our AI video engine is designed to make you the star of the show.\n\ud83e\udd17 The Viral AI Hug: This is the magic you\u2019ve been waiting for. Upload two photos\u2014one of yourself and one of a loved one (or even ",
+    "icon": "/icons/umagic.ai.aiart.aiartgenrator.png"
+  },
+  "com.eyenk.eyenkapp": {
+    "title": "Eyenk Contact Lens",
+    "package": "com.eyenk.eyenkapp",
+    "description": "Order medical and cosmetic contact lenses from leading brands with fast delivery across Qatar. Browse daily, monthly, astigmatism, multifocal, and color lenses. Enjoy secure checkout, simple reordering, and convenient home delivery, or visit our store in Tawar Mall, Doha.",
+    "icon": "/icons/com.eyenk.eyenkapp.png"
+  },
+  "it.minsk.mobile115bel": {
+    "title": "115.\u0431\u0435\u043b - \u041c\u0430\u044f \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+    "package": "it.minsk.mobile115bel",
+    "description": "Mobile application 115.bel - May republic allows residents of Belarus to easily and quickly send requests regarding housing and communal services and urban economy. The application is part of the republican portal \"May Republic\".\nUsing a mobile application, the user has the opportunity to create applications, view previously created applications, receive push notifications about changes in their status, maintain a list of selected addresses and receive information about the lack of housing and communal services and the inclusion of heating at these addresses.\nBy contacting the contact center, the user can associate his account with the information about the applicant who contacted by phone and gain access to the previously sent by phone applications.\nThe mobile application is designed to s",
+    "icon": "/icons/it.minsk.mobile115bel.png"
+  },
+  "com.ipsy.mobile.production": {
+    "title": "IPSY: Personalized Beauty",
+    "package": "com.ipsy.mobile.production",
+    "description": "Play, explore, and express your unique beauty with IPSY\u2014curated just for you. We offer 3 plans: Original, Extra, and Ultimate, giving every kind of beauty lover the perfect way to play. All you have to do is take a quick quiz about your preferences (think: skin concerns, hair type, favorite makeup products, and more), and then we match you with the best products for you. \n\nWhether you\u2019re looking to discover unbeatable deals on makeup, skincare, and more; the hottest brands; or a subscription you can truly customize to your beauty preferences and goals, you\u2019re in the right place. As the leading source of beauty discovery, education, and inspiration, IPSY combines personalized products and tips, tricks, and tutorials with member-exclusive deals and shopping events to create the ultimate beau",
+    "icon": "/icons/com.ipsy.mobile.production.png"
+  },
+  "com.nsmb.hd.camera.photo.collage": {
+    "title": "Ultra Cam - HD Camera Lens",
+    "package": "com.nsmb.hd.camera.photo.collage",
+    "description": "HD camera for Android \u2013 Pro Photo & Video Tool\n\nTurn your phone into a powerful HD Ultra Camera and capture every detail like never before. Whether you\u2019re a beginner or a pro photographer, this Ultra HD Camera 4K Camera app transforms your Android device into a full-featured studio. Enjoy crisp, detailed shots, natural colors, and perfect lighting \u2014 all powered by the latest mobile imaging technology.\n\nWith HD Ultra Camera, you can shoot with professional precision using 4K camera lens controls, ultra zoom options, and live filters. Record smooth videos, take portraits with depth, or create high-quality night photos. The app adapts to your environment automatically, ensuring beautiful results in daylight or low light.\n\n\ud83d\udc8e Key Features of HD Ultra Camera\n\u2705 HD Ultra Camera with High Resolutio",
+    "icon": "/icons/com.nsmb.hd.camera.photo.collage.png"
+  },
+  "com.imagezoomer.magnifier": {
+    "title": "Image Zoomer & Magnifier AI",
+    "package": "com.imagezoomer.magnifier",
+    "description": "\ud83d\udd0d IMAGE ZOOMER & MAGNIFIER AI - Ultimate 100x Zoom with AI Enhancement\n\nTransform your phone into a powerful digital magnifying glass! Whether reading tiny text, examining fine details, or zooming photos with crystal clarity - our app delivers up to 100x magnification with AI enhancement, beyond other magnifier apps.\n\n\u2b50 WHY CHOOSE US OVER OTHER MAGNIFIERS?\n\u2713 100x zoom (competitors offer only 10x max)\n\u2713 AI-powered image enhancement (exclusive feature)\n\u2713 Both gallery zoom AND live camera magnifier\n\u2713 Color picker for designers\n\u2713 Completely offline - 100% private\n\n\ud83d\udd2c 100X EXTREME ZOOM\n\u2022 Zoom images up to 100x - highest magnification available\n\u2022 Smooth pinch-to-zoom and precision slider controls\n\u2022 HD quality maintained even at maximum zoom levels\n\u2022 Perfect for reading small print, labels, serial",
+    "icon": "/icons/com.imagezoomer.magnifier.png"
+  },
+  "com.seastone.slay": {
+    "title": "Slay - AI Stylist",
+    "package": "com.seastone.slay",
+    "description": "Slay \u2013 Your Personal AI Stylist & Smart Wardrobe Assistant!\n\nStuck deciding what to wear today? Slay solves your daily styling dilemmas by turning your smartphone into an smart, AI-driven personal shopper and coordinate designer right from your own closet.\n\nOrganize Your Smart Wardrobe Scan and upload your favorite coordinates, tops, bottoms, and accessories effortlessly. Build a digitized catalog view of your personal inventory sorted securely.\n\nGet Smart Outfit Suggestions Our advanced AI reads your catalog items and automatically generates stylish looking sets. Whether you are dressing up for a critical Corporate Presentation, a Relaxed Weekend, or a Night Out\u2014Slay curates modern, flattering templates to guarantee you look your best.\n\nVirtual Try-On (Magic Mirror) Wondering how items lo",
+    "icon": "/icons/com.seastone.slay.png"
+  },
+  "com.leyi.prettyme": {
+    "title": "PrettyMe: AI Clothes Try On",
+    "package": "com.leyi.prettyme",
+    "description": "Never worry about online shopping or \"nothing to wear\" moments ever again! Welcome to your ultimate AI Virtual Fitting Room.\n\nWith our cutting-edge AI technology, you can instantly try on any clothing item, mix and match outfits, and discover your perfect style\u2014all from the comfort of your phone. Whether you are shopping online, planning your daily outfit, or just looking for fashion inspiration, we make it effortless and fun.\n\nStop guessing how a dress, shirt, or jacket will look on you. See it to believe it!\n\n[ KEY FEATURES ]\n\nINSTANT VIRTUAL TRY-ON\nJust upload a front-facing photo of yourself and an image of the clothes you want to try on. Our advanced AI will seamlessly map the garment to your body, providing a highly realistic visualization of how it fits and looks on you.\n\nSTYLE ENHA",
+    "icon": "/icons/com.leyi.prettyme.png"
+  },
+  "dev.tagstudio.sfxlab": {
+    "title": "AI Sound Effects Generator: FX",
+    "package": "dev.tagstudio.sfxlab",
+    "description": "SFXLab is a mobile app that makes sound design simple, fast, and creative. Powered by advanced artificial intelligence, it transforms your ideas into original audio in seconds.\n\nJust type a short prompt and instantly generate high-quality sound effects. From natural ambiences and cinematic atmospheres to mechanical noises, futuristic tones, or everyday sounds, SFXLab creates what you imagine without the limits of traditional sound libraries.\n\nWith its clean, modern design, SFXLab is built for effortless use. No complex menus or long editing steps\u2014simply describe the sound you want, preview it with waveform visuals, and play it back instantly.\n\nKey Features:\n\t\u2022\tAI Sound Generation \u2013 Type your idea and get sound effects instantly\n\t\u2022\tWide Sound Library \u2013 Nature, mechanical, sci-fi, fantasy, a",
+    "icon": "/icons/dev.tagstudio.sfxlab.jpg"
+  },
+  "com.wemade.mir4global": {
+    "title": "MIR4",
+    "package": "com.wemade.mir4global",
+    "description": "\u201cFrom my BATTLE to our WAR\u201d\nJoin MIR4, the unique open world K-Fantasy MMORPG.\n\nTrain your characters in MIR4 and help them grow stronger. Triumph in countless battles. Those who win the war become kings, and that clan will gain absolute power and honor. \n\nMIR4 has diverse growing systems so anyone can become strong through time and effort. A small difference can change the outcome. The wars aren\u2019t just fought with strength - strategies in the growth system and war tactics are a must.\n\nNew Accessories infused with power have arrived in the Land of Mir.\nCraft the newly added Accessories 'Medallion' & 'Charm'\nand gain Great Power.\nThe Boosting World server is back to power your growth!\nRunning for approximately 4 months before merging into a standard server,\nthe Boosting World server lets yo",
+    "icon": "/icons/com.wemade.mir4global.jpg"
+  },
+  "com.mhrtunnel.vip": {
+    "title": "MHR Tunnel VIP - Ultra Speed",
+    "package": "com.mhrtunnel.vip",
+    "description": "Start a secure and private browsing enjoy online freedom, super fast VPN to proxy sites, watch videos and movies, protect WiFi security and protect privacy.\n\n\u2714 Unlimited VPN :\nVPN as much as you want without any limitations.\n\n\u2714 Uninterrupted Connection :\nReconnect automatically to secure VPN proxy when switching from data to Wi-Fi and be online continuously.\n\n\u2714 Secure Internet Connection :\nInternet activity and wifi connection\nsimple switch among locations, then your IP will change to another country easily. surfing anonymously will give your privacy the greatest protection. you are perfectly encrypted and hidden.\n\n\u2714 Unlimited Access & Unblocking Content : \nUnblock blocking restrictions and firewalls to access social network and messaging apps such as Facebook, Twitter, Whatsapp, and Snapc",
+    "icon": "/icons/com.mhrtunnel.vip.png"
+  },
+  "com.timingBladeSoul.hy": {
+    "title": "Dream Master: Origin",
+    "package": "com.timingBladeSoul.hy",
+    "description": "[Game Introduction]\n\n1. Return to the beginning, recreating the classic animation style!\nWith meticulously crafted and detailed illustrations, your familiar companions are faithfully recreated. Reunite with childhood characters and defeat all enemies with dazzling skills to conquer the adventure ahead!\n\n2. Classic evolution tree, nurture your strongest lineup!\nFrom the initial form to the magnificent final evolution, every growth stage is in your hands. Feel the pure fun of nurturing once again as you watch your companions become stronger through collection, training, and evolution!\n\n3. A battle of wits, conquer the arena with strategy!\nIt's not just about level-based battles; it's a true test of tactics. Use attribute relationships and skill combinations cleverly to win comebacks in the P",
+    "icon": "/icons/com.timingBladeSoul.hy.jpg"
+  },
+  "com.kool2play.miscrits": {
+    "title": "Miscrits",
+    "package": "com.kool2play.miscrits",
+    "description": "Explore the World of Miscria!\n\nStart your journey in Sunfall Kingdom and explore the vast and vibrant surroundings! Find and capture hundreds of unique and iconic Miscrits of various types, strength and rarity. Train and evolve your Miscrits into increasingly powerful forms and watch your Miscripedia fill up!\n\nSave Miscria from Apollo Nox!\n\nA mysterious group called the Magicites have vowed to destroy all Miscrits to keep magic under control of the humans. You're Miscria's only hope at stopping them! Their leader, Apollo Nox, has summoned six Elementums that are draining the magic from Miscrits. Deal with the Magicites and defeat all six Elementums to enter his domain and take him down!\n\nBattle Other Players at the Arena!\n\nTake on other players in strategic combat at the arena! Take part i",
+    "icon": "/icons/com.kool2play.miscrits.png"
+  },
+  "abhy.cruis.bracesaiphotoeditor": {
+    "title": "Braces AI Photo Editor",
+    "package": "abhy.cruis.bracesaiphotoeditor",
+    "description": "Braces AI Photo Editor is an advanced and easy-to-use photo editing application that allows you to realistically add and customize braces to your photos using smart AI technology. Designed for fun, creativity, and visualization, the app helps you see how different braces styles look on your face with natural and accurate results.\n\nWith a wide range of AI-powered braces styles such as metal, sapphire, titanium, self-ligating, round button, diamond shape, and more, you can experiment with different looks instantly. The intelligent face detection and alignment system automatically places braces in the correct position, ensuring a realistic and seamless appearance without the need for manual editing.\n\nIn addition to braces, the app also offers beauty enhancement features including AI eyelashes",
+    "icon": "/icons/abhy.cruis.bracesaiphotoeditor.png"
+  },
+  "com.momentum.mrelay": {
+    "title": "M-Relay 2.0",
+    "package": "com.momentum.mrelay",
+    "description": "M-Relay is a mobile solution for sales teams to focus on activity in the field. The platform provides canvassing teams with the visibility they've been missing to increase sales performance and improve team productivity.\n\nCapture activity and get clear visibility on what's happening in the field.\n\nSee full history of every account in real time.\nSales rep accountability with real-time location verification.",
+    "icon": "/icons/com.momentum.mrelay.png"
+  },
+  "com.immusician.fasttuner": {
+    "title": "Lamucal: AI Tabs,Chords,Tuner",
+    "package": "com.immusician.fasttuner",
+    "description": "Transform Your Music with Lamucal: Your Pocket AI Music Maestro\n\nAny Song, Now AI Tabs:\nExperience the magic of music with AI-generated Tabs, Chords, Beats, Lyrics, and Melody for any song, crafted to perfection and musician-approved.Explore over 40 million songs, offering endless possibilities to explore, learn, and master.\n\nPlay and Personalize:\nEngage with your favorite tunes like never before. Edit, transpose, and separate vocals & instruments with ease, tailoring your music learning experience to your style.\n\nInteractive Learning Experience:\nStep into the world of interactive learning with trainers and practice modules designed to enhance your skills in a fun and engaging way.\n\nPowerful Tools at Your Fingertips:\nUtilize Lamucal\u2019s array of powerful, essential tools for your musical jou",
+    "icon": "/icons/com.immusician.fasttuner.png"
+  },
+  "com.biosphera.horseanatomy": {
+    "title": "3D Horse Anatomy",
+    "package": "com.biosphera.horseanatomy",
+    "description": "The 3D Horse Anatomy App is a virtual horse designed especially for students, teachers, veterinary clinics, horse farms and equestrian professionals.\n\nThe 3D Horse Anatomy App lets you explore a detailed three-dimensional model of an Equine. Internal systems can be viewed and manipulated layer by layer or simultaneously with other layers, at various zoom levels. Individual anatomical structures can be highlighted and display a caption, or they can be removed to permit viewing of deeper structures.\n\nAvailable in English, Spanish, Portuguese, French, Japonese, German and Latin.\n\nThe app is intended to be a supplemental educational resource and should NOT be used as the only source of educational information, nor should the app be used as medical advice or for medical diagnoses of any kind.",
+    "icon": "/icons/com.biosphera.horseanatomy.png"
+  },
+  "com.translate.camera.scanner": {
+    "title": "AI Lens: Object Identifier",
+    "package": "com.translate.camera.scanner",
+    "description": "See Something? Scan It! AI Lens Identifies Objects, Text & QR Codes Instantly\n\nGet instant answers with AI Lens \u2013 the smartest AI scanner for everyday life!\n\nAI Lens: Object Identifier  Key Features are:\n\ud83d\udcf7 Photo Scanner for Android;\n\ud83d\udcdd Picture to Text Converter;\n\ud83d\udcf2 QR code Scanner;\n\ud83d\uddbc Picture Scanner;\n\ud83d\udd12 OCR Scanner;\n\ud83d\udcf8 Camera Scanner App!\n\n\u2795 More Powerful Features:\n\u270f\ufe0f Edit Scanned Text \n\ud83c\udf0d 100+ Language Support \n\ud83d\udd0d Searchable Text \n\nText Scanner - Image to Text Converter!\n\n\ud83d\udd0dOCR Image to Text Converter:\nEffortlessly convert photos into txt. Files with just a few taps. This scanner app provides a user-friendly interface, allowing you to scan multiple photos and convert them in various formats. Save time and energy by letting our Picture to Text App do the heavy lifting.\n\n\ud83d\uddbcPicture to Text with Prec",
+    "icon": "/icons/com.translate.camera.scanner.png"
+  },
+  "com.AI.Cam.Vision.Assistant": {
+    "title": "AI Lens: Reverse Image Search",
+    "package": "com.AI.Cam.Vision.Assistant",
+    "description": "Lens App transforms your iPhone into a smart AI Camera: snap a photo and identify animals, plants, coins & more in seconds! No more guessing, AI brings you instant answers anywhere you go. \nSearch what you see & uncover insights effortlessly with your pocket AI encyclopedia & image search app.\n\nYour AI Lens App \u2013 Discover, Identify & Learn Instantly!\nSee something interesting? AI not only identifies\u2014it reveals fascinating facts & insights instantly!\n\nWhat You Can Do with Lens Image Search App\n\u2714 Plants & Flowers \u2013 Instantly recognize species & get care tips\n\u2714 Animals & Insects \u2013 Know what you spotted in seconds\n\u2714 Food & Nutrition \u2013 Scan meals & check calories\n\u2714 Coins & Collectibles \u2013 Discover their history & value\n\u2714 Landmarks & Art \u2013 Learn fun facts instantly\n\u2714 Objects & More \u2013 If you can s",
+    "icon": "/icons/com.AI.Cam.Vision.Assistant.png"
+  },
+  "com.tattoomaker.tattoodesigns.tattooeditor.tattooonphoto": {
+    "title": "Tattoo Maker - Tattoo Designs",
+    "package": "com.tattoomaker.tattoodesigns.tattooeditor.tattooonphoto",
+    "description": "Unleash Your Inner Tattoo Artist with Tattoo Maker and Tattoo on My Photo app.\n\nAre you ready to explore the world of tattoos and express your unique style with tatto creator app? Look no further! Tattoo Maker \nand Tattoo on My Photo app is the ultimate tattoo design app that allows you to experiment with tattoo ideas, create stunning tattoo designs, and visualize them on your photos. You can use this tattoo editor as a tattoo my name on photo as well.\n\n\ud83c\udfa8 Tattoo Maker & tattoo Editor:\nTransform your photos into canvases of self-expression with our minimalist tattoo maker and tattoo editor app. Craft custom tattoos, play with designs, and visualize your creativity on your body.\n\n\ud83d\udcf8 Tattoo My Photo:\nCurious about how a specific tattoo would look on you? Tattoo My Photo app lets you snap a pic",
+    "icon": "/icons/com.tattoomaker.tattoodesigns.tattooeditor.tattooonphoto.png"
+  },
+  "best.photo.app.eyecolorchanger": {
+    "title": "Eye Color Changer",
+    "package": "best.photo.app.eyecolorchanger",
+    "description": "Welcome to the photo app \u201cEye Color Changer Free\u201d, your eye color change app! Add eyes color, eye filter & contact lenses and change eye color on photo!\n\n\u2764\ufe0f The photo app \u201cEye Color Changer Free\u201d is the photo editor app to change eye color on photo!\n\u2661 100+ contact lenses stickers, eyelashes stickers, eyebrows stickers for your perfect eyes on photo!\n\u2661 Change Eye Color or try color contact lenses on photo with Eye Color Changer camera\n\u2661 Eye Color Changer Free is the photo app to make perfect look with beautiful eyes color!\n\u2661 Eye Color Changer Camera is amazing for selfie with an amazing eye filter in 10 seconds!\n\u2661 Eye Color Change App is only for girls who love to add eyes color & contact lenses on photo!\n\u2661 Eye Color Changer Free helps you to find a style of contact lenses!\n\u2661 Eye Color Chan",
+    "icon": "/icons/best.photo.app.eyecolorchanger.png"
   }
 }
