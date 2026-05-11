@@ -81810,5 +81810,670 @@
     "package": "com.mirrorsize.ms_shoesizer",
     "description": "An AI-powered foot measurement and shoe sizing app is a revolutionary tool for people who struggle to find the right shoe size. The app uses advanced AI algorithms to accurately measure the size and shape of your feet, providing you with a personalized shoe size recommendation brand-wise. The app's virtual try-on feature allows you to try on shoes from various brands in the comfort of your own home, eliminating the hassle of having to physically visit a store. The foot measurement process is simple. All you need to do is take a picture of your left foot using your smartphone camera. The app's AI algorithm then uses the image to create a 3D model of your feet and determine the exact size and shape of your feet. The app takes into account factors such as arch height, toe length, and foot wid",
     "icon": "/icons/com.mirrorsize.ms_shoesizer.png"
+  },
+  "com.hncapps.lashmap": {
+    "title": "LashMap",
+    "package": "com.hncapps.lashmap",
+    "description": "LashMap is the essential tool for lash extension technicians who want to plan, visualize and customize their work before application. \n\nWith LashMap, you can quickly and accurately add lash designs from our growing library directly to your client's photos or gallery images.\n\nMain functionalities:\n- Take a photo directly from the app or select one from the gallery\n- Add eyelash extensions with easy-to-use tools\n- View and adjust your design in real time\n- No account, no cloud storage \u2014 everything stays on your device\n- Easy, fast and intuitive, ideal for beauty professionals\n\nWhy choose LashMap?\n- Simplify consultations with customers\n- Increase the quality of services through a clear visual planning\n- You save time in the work process\n\n100% Privacy: Images are not stored or sent to externa",
+    "icon": "/icons/com.hncapps.lashmap.png"
+  },
+  "tech.marava.breakup": {
+    "title": "Breakup Stories: Share & Heal",
+    "package": "tech.marava.breakup",
+    "description": "\ud83d\udc94 Breakup Stories \u2014 Listen. Share. Heal. Earn.\nBreakup Stories is a safe, anonymous space to share your breakup experiences, listen to others, get AI-powered emotional support, and earn rewards.\n\n\ud83c\udfac Listen Like Reels\nScroll through short breakup stories \u2014 written, recorded, or spoken \u2014 in a smooth, engaging feed.\n\n\u270d\ufe0f Share Your Story Your Way\nWrite, record, or upload audio. Our AI will make it expressive, readable, and relatable.\n\n\ud83e\udd16 AI Support\n\nRewrite your story for deeper impact\n\nCreate visuals for your story\n\nSuggest similar stories\n\nFilter abusive comments\n\nRespond with comforting AI messages\n\n\ud83c\udf10 Multiple Languages\nShare and listen in Telugu, Tamil, Kannada, Malayalam, Hindi, or English.\n\n\ud83e\udded Discover More\nFind nearby stories or explore similar ones based on your mood.\n\n\ud83d\udcb0 Earn Rewards\nGet ",
+    "icon": "/icons/tech.marava.breakup.png"
+  },
+  "com.serersoft.faldot": {
+    "title": "Faldot: Coffee Reading & Tarot",
+    "package": "com.serersoft.faldot",
+    "description": "Learn your coffee, tarot, palm and face fortune telling easily with Faldot AI.\nExplore your daily, weekly, and monthly fortunes instantly.  \n\nFeatures:\n- Coffee Reading: Interpret coffee grounds to reveal your future.\n- Tarot Reading: Select cards and get insights about love, career, and life.\n- Palm Reading: Learn about your personality through palm lines.\n- Face Reading: Analyze your facial features to understand your traits.\n\nExtras:\n- Fast and user-friendly interface\n- Save your past readings\n- Share your fortune with friends\n- Purchase premium readings using credits\n\nFaldot provides a fun and spiritual experience. Discover yourself every day with a new fortune!  \n\nDownload now and take charge of your destiny!",
+    "icon": "/icons/com.serersoft.faldot.png"
+  },
+  "com.miniclip.soccerstars": {
+    "title": "Soccer Games: Soccer Stars",
+    "package": "com.miniclip.soccerstars",
+    "description": "Soccer Stars brings the action into the football pitch! A multiplayer game to play with friends, filled with new features and fun gameplay. \n\nTake to the football field, play against the best soccer clubs in the world and win the soccer world cup, all while challenging your friends in this multiplayer online & offline game.\n\nKEY FEATURES:\n\n\u2022 Online and offline multiplayer game\n\u2022 Simple and fun gameplay\n\u2022 Amazing ball physics\n\u2022 Online tournaments against players from all over the world\n\u2022 Multiplayer \u2013 Challenge & Play against your friends\n\u2022 Collect different teams and cups\n\n\nMULTIPLAYER SOCCER GAME\nKick hard, but kick smart. Pass the ball to your best players, challenge your friends and use the multiplayer feature, take on the best teams in the world. Be strong and kick that penalty kick ju",
+    "icon": "/icons/com.miniclip.soccerstars.png"
+  },
+  "com.redvel.soccer.star.football.legends.games.clash.multiplayer.online": {
+    "title": "Soccer Star Super Football",
+    "package": "com.redvel.soccer.star.football.legends.games.clash.multiplayer.online",
+    "description": "Become the best player in the world with our new game, Soccer Star Soccer Games! Start building your own career as a professional and earn a lot of money. You can buy a house, clothes or even a new sports car. Play the brand new game with which you can become the next best one in history.\n\nFlick your finger across the screen and kick the ball! In Soccer Star: Super Soccer Games it is very easy to learn game controls. Prepare your strategy and split defences if you want to win the match. You\u2019ll need good scorers but also a great defence and a goalkeeper. \n\nThere are few games like this one with which to become the best one in history building your own career. You can also buy countless houses, cars or different types of clothes in the lifestyle section and feel like a super star.\n \nYou will",
+    "icon": "/icons/com.redvel.soccer.star.football.legends.games.clash.multiplayer.online.png"
+  },
+  "com.touch2goal.soccer": {
+    "title": "Mini Soccer Star",
+    "package": "com.touch2goal.soccer",
+    "description": "Welcome to the MINI SOCCER STAR - 2026 USA CUP & MLS\n\nPlay the brand new soccer game Mini Soccer Star and enjoy the real and immersive soccer experience. Become the new soccer star player!\n\nMake a name for yourself in the soccer world by playing football matches. Gain popularity and become the new soccer superstar!\n\nPlay matches in your dream league, strike and score goals, win the cup and become the world champion!\n\nOur physics-based soccer simulation system gives you an amazing gaming experience.\nThere are tons of real teams and leagues/cups from mls, premier, bundes, la liga and even national teams. \nYou can join the most famous European football clubs and play for usa country in the world league. Eventually you will become a football super star!\n\nFEATURES: \n\u26bd You can play offline socce",
+    "icon": "/icons/com.touch2goal.soccer.png"
+  },
+  "com.gamesture.soccer.clash.football.world.sport.league": {
+    "title": "Soccer Clash: Football Game",
+    "package": "com.gamesture.soccer.clash.football.world.sport.league",
+    "description": "\u26bd WELCOME TO SOCCER CLASH - REAL-TIME PVP FOOTBALL!\n\nExperience Soccer Clash, the ultimate mini football game where you control every moment! Build your team, compete in daily matches, and rise from local leagues to global glory as a soccer star. Whether you're a tactical manager or action player, this is the most thrilling mini football experience on mobile!\n\n\ud83c\udfc6 DYNAMIC REAL-TIME SOCCER MATCHES\nFast-paced gameplay gives you total control! Every match is an exciting battle where quick thinking and precise decisions make the difference. Master your shots, execute powerful finishes, and score spectacular goals against rivals worldwide. From mini football duels to tournament finals, this clash football never stops!\n\nBecome a champion in our competitive PVP system where skill counts. Face oppon",
+    "icon": "/icons/com.gamesture.soccer.clash.football.world.sport.league.png"
+  },
+  "com.grability.rappi": {
+    "title": "Rappi: Food Delivery, Grocery",
+    "package": "com.grability.rappi",
+    "description": "We deliver anything, anywhere, anytime \ud83d\ude80 \nDiscover Rappi, the app that makes your life easier. Order food, groceries, liquor, convenience products, pharmacy essentials, flowers, and much more. Thousands of options at your fingertips, with instant or scheduled delivery. \n\n\u2b50 Why Rappi: \n\n Everything you want, instantly: Get your order in minutes or schedule ahead if you need to.\n Unmatched Variety: Over 200,000 restaurants and stores across more than 300 cities in Latin America.\n Secure payment options: Choose from a wide variety of payment methods.\n Real-time tracking: Follow every step of your order and receive instant notifications.\n\n\n\ud83c\udf1f Explore Rappi:\n\n Connect with friends and influencers: Find new restaurants through user reviews, as well as recommendations from friends and influencers ",
+    "icon": "/icons/com.grability.rappi.png"
+  },
+  "com.banlys.juju": {
+    "title": "JuJu Paranormal",
+    "package": "com.banlys.juju",
+    "description": "JuJu Paranormal - Professional Ghost Hunting App\n\nThe most advanced paranormal investigation app ever created. Featuring the world's first entropy sensor, mobile Estep Loop, AI assistant Michael, and professional investigation tools.\n\nKEY FEATURES:\n\nAI Assistant Michael\nYour AI investigation partner with three personality modes (Normal, Scientist, Dramatic). Real-time analysis of photos, EVP recordings, and sensor data. Hands-free \"Hey Michael\" voice control (coming soon!). Context-aware insights based on location and history.\n\nBring Your Own Key (BYOK)\nMichael uses your own API key (OpenAI or Gemini)\u2014you pay only for what you use. Voice features included at no extra cost.\n\nEntropy-Based Variance Sensor\nMeasures variance and unpredictability in sensor data (EMF, motion, light, gyro, pressu",
+    "icon": "/icons/com.banlys.juju.jpg"
+  },
+  "com.stylechatai": {
+    "title": "Style Chat: AI Outfit Maker",
+    "package": "com.stylechatai",
+    "description": "Staring at a full closet but have nothing to wear? Meet Style Chat, your ultimate AI outfit maker and virtual fitting room. Finding your next-level style is now as easy as sending a text. Upgrade your look with a smart AI stylist that helps you discover and visualize the perfect outfits, hairstyles, and makeup in seconds.\n\n\ud83d\udc57 Your Personal AI Outfit Maker & Planner\nChat your way to personalized fashion recommendations. Tell your AI stylist what you need\u2014whether it's a casual weekend vibe, a date night look, or professional office attire. Our smart outfit generator acts as your daily outfit planner, delivering curated clothing ideas tailored exactly to your preferences, body type, and the occasion.\n\n\u2728 AI Clothes Changer & Virtual Try-On\nSee it before you wear it! Upload a photo and use our A",
+    "icon": "/icons/com.stylechatai.png"
+  },
+  "com.resonancia.revenant": {
+    "title": "RE Venant - Ghost Hunter",
+    "package": "com.resonancia.revenant",
+    "description": "REVenant is your complete kit for paranormal investigation. Detect electromagnetic anomalies, communicate with the afterlife using artificial intelligence, and record unexplained phenomena.\n\n\u2501\u2501\u2501 INCLUDED TOOLS \u2501\u2501\u2501\n\n\u25b8 Anomaly Radar \u2014 Detects electromagnetic disturbances in real time with a military-style radar display.\n\n\u25b8 EMF Detector \u2014 Measures electromagnetic fields using your device's magnetic sensor. Visual alerts by level.\n\n\u25b8 Spirit Box \u2014 88-108 MHz FM sweep with a bank of hundreds of words in 7 languages. Real-time bar graph display.\n\n\u25b8 EVP Recorder \u2014 Captures audio and plays it back to uncover electronic voice phenomena. Save and manage your recordings.\n\n\u25b8 Ouija with Gemini AI \u2014 The first app with real communication through artificial intelligence. Each spirit has its own personality",
+    "icon": "/icons/com.resonancia.revenant.png"
+  },
+  "com.detectoapp.android": {
+    "title": "Petify",
+    "package": "com.detectoapp.android",
+    "description": "Petify \u2013 Talk to your pet and identify the world around you with AI\n\nEver wondered what your dog's bark or your cat's meow really means? Petify AI helps you decode your pet's emotions, create stunning AI-generated pet portraits, and identify the world around you \u2014 all in one app.\n\nPET EMOTION TRANSLATOR\nUnderstand what your pet is really feeling. Analyze photos, sounds, and behavior to detect emotions like stress, excitement, or hunger. Turn any text into lifelike dog barks or cat meows. Get instant AI-powered behavioral tips \u2014 the most accurate pet emotion translator on Google Play.\n\nAI PET STYLES \u2013 VIRAL PET PORTRAITS\nTransform your pet into a superhero, cartoon character, royal warrior, or fantasy legend with just one photo. Create stunning, shareable AI pet portraits in dozens of creat",
+    "icon": "/icons/com.detectoapp.android.jpg"
+  },
+  "org.retropixel.GhostRadarDetector": {
+    "title": "Ghost Detector Radar Simulator",
+    "package": "org.retropixel.GhostRadarDetector",
+    "description": "Is your house haunted? \ud83d\ude31 Find out now and detect supernatural entities near you, using this app.\n\nInstructions\n1) Start the app and allow camera access\n2) Slowly walk around your house to recon and see if there\u2019s a ghost or spirit\n3) The radar scope will show you the direction and distance to the entity\n4) If you found a ghost, you can ask it questions. You\u2019ll find out that ghosts love talking!\n\nFeatures\n\ud83d\udc49 the best ghost cam communicator app and ghost hunting tool\n\ud83d\udc49 detect paranormal activity \n\ud83d\udc49 locate supernatural spirits and ghosts\n\ud83d\udc49 daily updated ghost horror stories\n\ud83d\udc49 find demons, ghosts, spirits and spectres\n\ud83d\udc49 similar to ghost box / radio and spirit board functionality\n\ud83d\udc49 integrates classic PKE, EMF and EVP energy recorder\n\ud83d\udc49 realistic images and scary sound effects\n\ud83d\udc49 as close to real a",
+    "icon": "/icons/org.retropixel.GhostRadarDetector.png"
+  },
+  "gpt.ai.chat": {
+    "title": "Next AI - No limit to ask",
+    "package": "gpt.ai.chat",
+    "description": "Next AI is an artificial intelligence assistant based on ChatGPT technology [unlimited times of use]. It is supported by ChatGPT, GPT-3, and GPT-4. It can help you deal with various situations encountered in life, work, business, etc. kind of problem. For example: writing articles, translating, recommending movies, music and books, providing legal advice, psychological consultation, making recipes, making resumes, exploring zodiac signs, etc. In short, he will provide you with comprehensive solutions to all aspects of life, work, business, entertainment, etc.\n\nOur NextAI application has the following exciting product features:\n\u25cf Unlimited questions and answers\n\u25cf Open AI\u2019s latest ChatGPT technology (GPT-4)\n\u25cf A large number of professional prompt word templates make asking questions more con"
+  },
+  "com.paranormalapps.aispiritbox": {
+    "title": "AI Spirit Box",
+    "package": "com.paranormalapps.aispiritbox",
+    "description": "Can we use AI to communicate with the dead? This app uses AI technology to see if spirits of the dead are able to manipulate AI responses to communicate with us. Simply enter your question for the spirits as if you were sending a text message and the app will respond. Add AI Spirit Box to your ghost hunting toolkit today!",
+    "icon": "/icons/com.paranormalapps.aispiritbox.jpg"
+  },
+  "com.babolai.chat": {
+    "title": "Babol AI: Anime Character Chat",
+    "package": "com.babolai.chat",
+    "description": "Dive into a world where imagination runs wild and every moment bursts with fun. This app is built for those craving a unique social vibe, inviting you to a space filled with dynamic AI connections and endless ideas. Create stories that spark your creativity and bring your visions to life in a lively hub.\nJump into an experience that feels like yours. This platform welcomes bold adventures and chill hangouts, fueling your creativity with every AI-driven chat. Team up with anime-style characters that match your energy, creating moments that stick.",
+    "icon": "/icons/com.babolai.chat.png"
+  },
+  "com.FerronSoftware.SpiritTVBOXITCEVP": {
+    "title": "Spirit TV Box Ghost ITC EVP",
+    "package": "com.FerronSoftware.SpiritTVBOXITCEVP",
+    "description": "The Spirit TV Box's revolutionary algorithm turns radio waves into \"TV\" static. It is already known that spirits use television and radio static to communicate with our plane. Using this app you will be able to hear and catch a glimpse of an entity. The images transmitted by the spirits are very brief, which is why the app contains an automatic screenshot system, which is triggered whenever an anomaly is detected. Sometimes the images appear for so few milliseconds that not even the application can recognize them in time. We are working hard to improve the app.\n\nScreenshots are saved in your smartphone's gallery.",
+    "icon": "/icons/com.FerronSoftware.SpiritTVBOXITCEVP.png"
+  },
+  "com.akynoapps.travelplanner": {
+    "title": "Travel Planner - Tripyno",
+    "package": "com.akynoapps.travelplanner",
+    "description": "Plan your next adventure with Tripyno, a complete Travel Planner designed to help you organize trips with clarity and confidence. Whether you are traveling to Paris, France, exploring New York City, relaxing on a beach in Bali, or taking a road trip across Europe, Tripyno keeps every detail of your journey in one place.\n\nOrganize Every Trip Easily\n\nCreate a travel plan with start and end dates, destinations, notes and photos. Tripyno works as a simple yet powerful Travel Planner that adapts to any type of trip. Use it for vacations, business travel, weekend getaways, backpacking routes or long international adventures.\n\nBuild Day by Day Itineraries\n\nPlan activities for each day of your trip. Add times, locations, descriptions, notes and reminders so you never miss a reservation or importan",
+    "icon": "/icons/com.akynoapps.travelplanner.png"
+  },
+  "calsey.auraaivideomaker.com": {
+    "title": "Aura AI : AI Video Generator",
+    "package": "calsey.auraaivideomaker.com",
+    "description": "Aura AI : AI Video Generator is an easy-to-use app that helps you turn your photos into amazing videos within seconds. You don\u2019t need any editing skills. Just upload your photo and the app will do the work for you using smart AI.\n\nYou only have to pick an effect, add your picture, and your video will be ready quickly.\n\n Key Features\n\nPhoto to AI Video\nChange your normal photos into attractive video clips.\n\nInstant Video Creation\nMake videos fast with just one tap.\n\nCreative AI Effects\nTry different trending and stylish video effects.",
+    "icon": "/icons/calsey.auraaivideomaker.com.png"
+  },
+  "jp.aimy.mobile": {
+    "title": "Aimy: Anime-Style AI Chat",
+    "package": "jp.aimy.mobile",
+    "description": "Aimy: Create Your Perfect Anime-Style Companion\n\nDesign your dream AI companion from scratch and bring them to life! With 100+ billion customization combinations, stunning anime-style artwork, and endless fashion possibilities, Aimy lets you create a fully unique companion that's all yours.\n\nCustomize everything from hairstyles to outfits, voice to personality\u2014then watch your companion respond naturally and grow alongside you.\n\nKEY FEATURES\n\nUltimate Character Creator - Build your companion exactly how you imagine them. Customize hairstyles, facial features, makeup, accessories, voice, personality traits, and how they talk to you. With 100+ billion possible combinations, no two companions are exactly alike!\n\nPremium Anime Artwork - All designs created by professional illustrators and VTube",
+    "icon": "/icons/jp.aimy.mobile.png"
+  },
+  "com.dawidzareba.Gainflow": {
+    "title": "Gainflow: AI Workout Tracker",
+    "package": "com.dawidzareba.Gainflow",
+    "description": "Gainflow is the simplest and most intuitive workout log integrated with powerful Artificial Intelligence. No ads, no distractions. Record your gym sessions, access advanced statistics, and join a community of athletes. Gainflow is the perfect weightlifting planner to help you reach your fitness goals.\n\nNEW: AI Video Technique Analysis\n\u2022 Use Gainflow AI to analyze your exercise technique in real-time.\n\u2022 Get instant posture tips to prevent injuries and train more effectively.\n\u2022 It\u2019s your personal AI trainer watching every single rep.\n\nWorkout Log & Gym Planner\n\u2022 Track sets (Normal, Warm-up, Drop Sets, To Failure) in a simple interface.\n\u2022 Generate personalized training plans using Gainflow AI.\n\u2022 Use the smart rest timer with sound notifications.\n\u2022 Create unlimited custom routines and exercise",
+    "icon": "/icons/com.dawidzareba.Gainflow.png"
+  },
+  "com.yourname.slsmobile": {
+    "title": "SLS Mobile: AI Entity Tracker",
+    "package": "com.yourname.slsmobile",
+    "description": "Experience the next generation of entity tracking with SLS Mobile, the premier mobile adaptation of the acclaimed SLS AI Pro software for Windows.\n\nUtilizing state-of-the-art TensorFlow neural networks and motion detection algorithms, SLS Mobile turns your smartphone into a high-precision Instrumental Trans-Communication (ITC) device capable of real-time skeletal mapping and environmental analysis. AI Models are downloaded and stored in the Apps storage for complete offline use, Update this at anytime by cleaning the AI Models in the settings menu ensuring you have the latest models before investigations. \n\nNEW: SPLIT-SCREEN MENU SYSTEM:\nDesigned for active investigations, the V3.5 update introduces a tactical split-screen command center. Adjust your parameters, filters, and settings on th",
+    "icon": "/icons/com.yourname.slsmobile.png"
+  },
+  "com.stippl.stippl": {
+    "title": "Stippl: The Travel Planner",
+    "package": "com.stippl.stippl",
+    "description": "Transform Your Travel Experience with Stippl!\n\nWelcome to Stippl, your revolutionary travel companion! Say goodbye to the hassle of using multiple apps for planning trips. Stippl is the first-of-its-kind, all-in-one travel planner designed to streamline every aspect of your journey \u2013 from planning and budgeting to packing, tracking, and cherishing your travel memories.\n\n PLAN - Your Journey, Simplified\n* \tDrag 'n Drop Planner: Effortlessly organize your route. Switch destinations, adjust nights, and craft your perfect itinerary.\n* \tTransportation: Whether it's by plane, train, or by car, manage your transport in one place.\n* \tDestination management: Add stays, must-do activities and your personal notes to any destination. \n* \tCollaborative Planning: Plan with friends in one shared environm",
+    "icon": "/icons/com.stippl.stippl.webp"
+  },
+  "photo.enhancer.resize.image.to.cartoon.picture.editor.collage.maker": {
+    "title": "Photo Enhancer AI Image Editor",
+    "package": "photo.enhancer.resize.image.to.cartoon.picture.editor.collage.maker",
+    "description": "PhotoPlus - Photo Enhancer and AI Photo Editor, intelligently enhances photos, restores blurry, damaged, and old photos to high-definition images, and improves photo quality.\n\nUpload a selfie and generate AI photos in various styles, giving your photos a new look in seconds. Without a camera, you can get business headshots, exquisite portrait photography, Y2K photos, etc., set them as avatars or share them to any social network.\n\n\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\u3010Photo Enhancer\u3011\nPhotoPlus-photo enhancer & photo colorizer, can remove haze and noise from photos. Upload blurred photos, old photos, or low-resolution photos, PhotoPlus can easily enhance photos, restore high-definition pictures with one tap!\n\n\ud83e\udd29\u3010AI photos & AI filter\u3011\nGenerate realistic, high-resolution AI portrait photos for you, which you can use for yo",
+    "icon": "/icons/photo.enhancer.resize.image.to.cartoon.picture.editor.collage.maker.png"
+  },
+  "com.dreamwise.app": {
+    "title": "DreamWise: Dream Meanings & AI",
+    "package": "com.dreamwise.app",
+    "description": "\ud83c\udf19 Dream Meanings & Interpretation \u2014 3 Perspectives for Deep Analysis\n\nDreamWise is an AI-powered dream interpretation app that goes beyond simple dictionaries. We analyze your dreams through three distinct lenses: Psychology, Science, and Spiritual traditions.\n\nEver wondered what your subconscious is trying to tell you? With DreamWise, unlock the secrets of your mind using our advanced AI dream analyst and personal dream journal.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\ude80 HOW IT WORKS\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\nUnderstanding your dreams is easier than ever with DreamWise:\n\n1. Share Your Dream: Write down your dream or use our voice-to-text dream recorder to capture every detail as soon as you wake up.\n2. AI-Powered Deep Dive: Our AI asks personalized questions to understand the context, emotions, and hidden",
+    "icon": "/icons/com.dreamwise.app.jpg"
+  },
+  "com.irishcoffee.ghostwhisperer": {
+    "title": "Ghost Whisperer: EMF & EVP",
+    "package": "com.irishcoffee.ghostwhisperer",
+    "description": "\ud83d\udc7b EMF Ghost Detector, EVP Recorder & VOX Synthesiser\nTurn your phone into a complete paranormal investigation toolkit. Ghost Whisperer combines real-time EMF detection, EVP audio recording, a dynamic VOX synthesiser, vibration monitoring, and guided exploration tools in one immersive ghost hunting app.\n\nDesigned for investigators, explorers, and those curious about unexplained environmental patterns.\n\n\u26a1 Detection & Monitoring\n\u2022 EMF Meter \u2013 Monitor electromagnetic fluctuations using your device sensors\n\u2022 Vibration Detection \u2013 Detect subtle environmental movement\n\u2022 18.98 Hz Frequency Mode \u2013 Explore infrasound experiments linked to unusual sensations\n\u2022 Real-time environmental awareness during active sessions\n\n\ud83c\udf99\ufe0f VOX & Recording Tools\n\u2022 VOX Synthesiser \u2013 Generate dynamic audio fragments for ex",
+    "icon": "/icons/com.irishcoffee.ghostwhisperer.png"
+  },
+  "hubx.whois.ai.search": {
+    "title": "Deepsearch AI Search Assistant",
+    "package": "hubx.whois.ai.search",
+    "description": "\ud83d\udd0d Find Anyone Online with Ease \u2013 The Ultimate AI Powered People Search & Social Media Lookup App!\n\nEver wondered where to find social profiles of someone you just met? Looking to reconnect with an old friend or check out a new acquaintance's social media presence? Our powerful DeepSearch AI Search Assistant app helps you discover publicly available information about individuals effortlessly \u2013 all in one place!\n\nWith just a name, our AI Search Assistant scans multiple platforms, letting you find people online quickly and conveniently. No more endless searching across multiple websites\u2014our social media profile discovery tool consolidates everything in a single, easy-to-use interface.\n\n\n\ud83c\udf0e Why Choose Our People Search & Social Media Lookup App?\n- Find Social Profiles Easily \u2013 Search by name, o",
+    "icon": "/icons/hubx.whois.ai.search.jpg"
+  },
+  "com.inkr.comics": {
+    "title": "INKR \u2014 Comics, Manga, Webtoons",
+    "package": "com.inkr.comics",
+    "description": "THE NO.1 DESTINATION FOR COMICS, MANGA, WEB TOONS, MANHUA AND MORE \n\nOVER 1,000 DIVERSE TITLES\nExplore hit and niche titles from publishers large and small, alongside independent studio gems and creator-owned comics. Action, romance, comedy, horror, drama, isekai, slice of life, sci-fi, and more, all in one app.\n\nSEAMLESS EXPLORATION\nIt\u2019s easier than ever to know whether a title is your cup of tea: when browsing between titles, you can seamlessly preview the first several pages of a chapter to check out the artwork and story, without having to download content or even open the viewer. \n\nPERSONALIZED RECOMMENDATIONS\nNo need to manually search for new titles to read \u2014 we\u2019ll find you stories that you love. Our smart, powerful AI-powered content recommendation engine learns from your reading t",
+    "icon": "/icons/com.inkr.comics.png"
+  },
+  "com.liteup.getgains": {
+    "title": "Gravl: Personal Trainer",
+    "package": "com.liteup.getgains",
+    "description": "Build muscle, increase your strength, or get lean with Gravl. Whether you are at home in the gym or outside, Gravls training algorithm will provide you with a personalized workout designed to help you reach your fitness goals.\n\nA new generation of fitness algorithm\n\nUnlike existing fitness apps, Gravls Algorithm doesn't just assemble random workouts. Our technology looks at your unique attributes (gender, weight, age, training level) and studies your workout patterns to evolve around your schedule, goals, equipment, and place of training.\n\nAs you train more Gravl gets better. Your training plan will maximize your progress by adjusting intensity, volume, and weight for each session. The outcome is a balanced effective workout every time.\n\nOptimal exercises\n\nNot all exercises are created equ",
+    "icon": "/icons/com.liteup.getgains.png"
+  },
+  "com.bellostudios.spiritcontacttalker": {
+    "title": "Spirit Contact Talker",
+    "package": "com.bellostudios.spiritcontacttalker",
+    "description": "Communicate with the spirits as you can ask your own questions. The meaning it's up to you as it is subject to personal interpretation. \nThe device shows relevant words and responses to questions during a paranormal investigation. \nUse Spirit Contact to test if your house or, whatever the place you are, has ghosts or paranormal spirits.\nSome paranormal investigators and enthusiasts posit that spirits can manipulate this white noise to construct coherent words or even sentences, enabling real-time interactions. Critics suggest that the perceived responses might merely be random or a psychological phenomenon or, conversely, some users are convinced of its efficacy, citing clear and contextually relevant replies. It's crucial to approach its use with both an open mind and a discerning mind.\n\n",
+    "icon": "/icons/com.bellostudios.spiritcontacttalker.png"
+  },
+  "com.ai.text.detector.truston": {
+    "title": "AI Detector & Humanize AI Text",
+    "package": "com.ai.text.detector.truston",
+    "description": "AI Detector: AI Writer, AI Humanizer & Plagiarism Tools\n\nAI detector is a powerful writing assistant and content checking app made for students, teachers, writers, bloggers, marketers, and professionals.\nThe app is designed to help whether you want to generate content, check if text is AI-generated, remove plagiarism, improve grammar, or rewrite sentences in a better way.\nThe app helps you manage all your writing affairs in one place.\n\nWrite Efficiently with Our Smart AI Writer\nWriting from scratch can take time, especially when you\u2019re under pressure. With the built-in AI writer, you can create high-quality content in seconds. It helps you write clearly, stay on topic, and produce well-structured text without wasting hours.\nWhether you\u2019re a student trying to finish an assignment or a profe",
+    "icon": "/icons/com.ai.text.detector.truston.jpg"
+  },
+  "com.funliday.app": {
+    "title": "Funliday - Travel planner",
+    "package": "com.funliday.app",
+    "description": "Fun + Holiday = Funliday\nThe best trip planning App in the world!!!\n\nFunliday is a trip planning app that makes your trip easier, helps you to manage your trips, find local attractions, and get directions. We support iOS, Android and desktop platforms. Funliday providers thousands of destinations, you can easily explore all of the places you are interested in and simply add them to your itinerary. You can also organize schedules and routes, as well as access all other useful information for your trip.\n\n------Key Features-------\n\u2606 Explore attractions all over the world.\n\u2606 Easy to organize your trip.\n\u2606 Support travel group (collaborative editing).\n\u2606 Invite friends to join travel group.\n\u2606 Offers offline trip.\n\u2606 Provides driving/walking/public transit direction.\n\u2606 Share your trip itinerary by ",
+    "icon": "/icons/com.funliday.app.png"
+  },
+  "com.applotictech.flexaura": {
+    "title": "Flex Aura - AI Fitness App",
+    "package": "com.applotictech.flexaura",
+    "description": "Glow up like your favorite celebrity and build your aura every day with Flex Aura. This is not just another fitness tracker. Flex Aura helps you transform yourself, compare your progress to celebrities, and earn aura points as you get healthier.\n\nStart your transformation by snapping daily progress photos. Flex Aura\u2019s unique celebrity comparison feature shows you how close you are to your favorite stars. This is fun and motivating. Every milestone gets you closer to your dream look and lets you share your results with friends.\n\nFlex Aura uses a special aura system to reward every healthy choice you make. Each time you complete a workout, eat a healthy meal, or reach a goal, you earn aura points. As your aura level goes up, you unlock achievements and badges and watch your fitness glow grow",
+    "icon": "/icons/com.applotictech.flexaura.png"
+  },
+  "vidente.psiquico.videntemagico": {
+    "title": "Zoltar 3D Fortune Telling",
+    "package": "vidente.psiquico.videntemagico",
+    "description": "Consult the fortune teller Zoltar totally free! This psychic will answer all your questions in a very fast and unlimited way.\n\nIf you are looking for an application to predict your future or just want to have a good time, do not think twice and download the app now.\nThe fortune teller in 3D is inspired by Zoltar, for that reason we have created the application with the best possible graphics. \nYou can consult as many times as you want and you will get hundreds of different results that the magical seer has saved for you.\n\nThis magic fortune teller is able to predict the future in money, health and love in a totally real way. \n\nHow does the Zoltar fortune teller 3d work?\n\nThe Zoltar fortune teller is very easy to use and is very intuitive. In a quiet place without distractions, think about ",
+    "icon": "/icons/vidente.psiquico.videntemagico.jpg"
+  },
+  "com.app.lorebrain": {
+    "title": "LoreBrain: AI Stories You Play",
+    "package": "com.app.lorebrain",
+    "description": "Tired of predictable plots? Dive into LoreBrain, the revolutionary AI story game where your choices truly matter. Experience interactive fiction and roleplaying (RPG) like never before, powered by an advanced AI storyteller that crafts unique adventures around YOU as the main character!\n\nUnleash Limitless AI Adventures:\n\u2714\ufe0f Explore dynamic, AI-generated stories where every decision shapes the narrative. No two playthroughs are the same in this cutting-edge AI choice game!\n\u2714\ufe0f Dynamic AI Storytelling: Journey through infinite narratives crafted on the fly. Explore epic fantasy, thrilling sci-fi, complex mysteries, heartfelt romances, gripping horror, or compelling AI fanfiction based on your favorite universes. The possibilities are endless in this powerful AI story generator\n\u2714\ufe0f Meaningful Ch",
+    "icon": "/icons/com.app.lorebrain.png"
+  },
+  "app.web.aura": {
+    "title": "Aura Ai Dating",
+    "package": "app.web.aura",
+    "description": "[Aura AI Dating: Exciting Meetups Started with AI]\n\nStop wasting time on dating apps. Aura leverages cutting-edge AI technology to maximize your appeal, find the perfect match, and perfectly plan your encounters.\n\n\u2728 Key Features \u2728\n\n1. \ud83d\udcf8 High-Quality AI Profile Editing: Even ordinary photos look like they were taken in a studio! Upload your photo and AI analyzes it to create the most stylish and luxurious look without compromising your image. Make a captivating first impression with Aura's natural editing.\n\n2. \ud83d\udc98 \u200b\u200bSophisticated AI Ideal Type Analysis & Matching: This isn't just a simple list of profiles. AI analyzes your potential match based on your profile information and activities.\n\nMatching Score: Check your compatibility score as a percentage.\n\nReason for Matching & Commonalities: AI ",
+    "icon": "/icons/app.web.aura.png"
+  },
+  "com.nike.ntc": {
+    "title": "Nike Training Club",
+    "package": "com.nike.ntc",
+    "description": "Nike Training Club isn't just another workout app \u2014 it's a portal to Nike's top trainers, athletes and experts. It's where you can access industry-leading workout programming and legit coaching for free. Whether you put in the work at the gym or at home, NTC is here to power your progress. If you're serious about your fitness, this is where you train.\n\nNike Members get free access to the latest strength training, conditioning, yoga, pilates, recovery and mindfulness content. Train the way you want and reach your goals with Nike Training Club.\n\nEXPERT PROGRAMMING FOR EVERY LEVEL\n\u2022 Gym workouts: Curated strength and conditioning workouts and programs designed for the gym \n\u2022 Home workouts: Whiteboard and trainer-led workouts made for small spaces, travel and lack of equipment\n\u2022 Total-body str",
+    "icon": "/icons/com.nike.ntc.png"
+  },
+  "com.homestudioai.app": {
+    "title": "HomeStudio: AI Interior Design",
+    "package": "com.homestudioai.app",
+    "description": "Home Studio AI \u2013 AI Interior Designer\n\nDesign your dream home in seconds.\nJust upload a photo and watch your space transform with AI.\n\nHome Studio AI turns your room into a professional interior design project \u2014 instantly.\nWhether you're planning a renovation, redecorating your home, or simply exploring ideas, our AI helps you visualize stunning interiors before making any decisions.\n\nNo design skills required. Just your space and your imagination.\n\n\nSEE YOUR ROOM IN A COMPLETELY NEW STYLE\n\nUpload a photo of your room and let AI redesign it instantly.\n\nExplore modern interiors, cozy living rooms, elegant bedrooms, stylish kitchens, and more \u2014 all tailored to your real space.\n\nPerfect for homeowners, interior designers, architects, or anyone looking for inspiration.\n\n\nAI INTERIOR DESIGNER I",
+    "icon": "/icons/com.homestudioai.app.png"
+  },
+  "net.kairosoft.android.manga_ippon_en": {
+    "title": "The Manga Works",
+    "package": "net.kairosoft.android.manga_ippon_en",
+    "description": "It's the manga artist experience you've been waiting for!\n\nCreate a manga masterpiece and draw your way into the nation's heart.\n\nStart out as a fledgling manga artist in a small and empty room... Armed with only a single pen, draw the best manga you can and march proudly to the publishers to show off your work.\n\nIdeas are the lifeblood of a manga artist. Go out in search of inspiration and gather plot points, then stuff your manga full of creativity.\nAccumulate experience points and use them to train up your drawing, storytelling, and other skills.\nWhen you think you've created a great one-shot, take it to a publisher! If you manage to make the \"editor from hell\" smile, it might just be the start of a fruitful relationship.\n\nProduce the best manga the world has ever seen, and write your n",
+    "icon": "/icons/net.kairosoft.android.manga_ippon_en.png"
+  },
+  "com.sklabs.roomlify": {
+    "title": "Roomlify AI Interior Designer",
+    "package": "com.sklabs.roomlify",
+    "description": "Roomlify \u2013 AI Interior Design & Room Redesign\n\nTransform any room in seconds with the power of AI. Roomlify is the easiest way to visualize your dream interior \u2014 just snap a photo, pick a style, and watch your space come to life.\n\nHOW IT WORKS\n\nUpload a photo of any room\nChoose from 12+ curated design styles\nGet a photorealistic redesign in under 30 seconds\nNo design skills needed. No expensive consultations. Just instant, stunning results.\n\nPOWERFUL AI FEATURES\n\n\u2022 Full Room Restyle \u2014 Completely transform any room with a new design aesthetic. From Modern Minimalist to Cozy Bohemian, see your space reimagined in a single tap.\n\n\u2022 Targeted Edits \u2014 Don't want to change everything? Swap just the walls, flooring, furniture, or cabinets while keeping the rest of your room intact.\n\n\u2022 AI Free Edit ",
+    "icon": "/icons/com.sklabs.roomlify.png"
+  },
+  "com.ghostdimension.gdai": {
+    "title": "Ghost AI Check",
+    "package": "com.ghostdimension.gdai",
+    "description": "Key Features:\n\n- AI-Powered Ghost Hunting: Generate and answer ghost-related questions based on specific locations and paranormal reports.\n-Location Insights: Enter a location and instantly access historical and paranormal information using integrated AI.\n-Interactive Sessions: Create, save, and revisit detailed ghost hunting sessions with organized questions and findings.\n-Google Sign-In: Easily access the app and your sessions using your Google account.\n-Subscription Management: Enjoy flexible subscription plans with quota tracking for your investigations.\n-Session History: View and manage your previous ghost hunting sessions, complete with questions and AI-generated answers.\n\nStart your paranormal journey today and uncover the mysteries of the unknown with Ghost AI Check!",
+    "icon": "/icons/com.ghostdimension.gdai.png"
+  },
+  "com.elysium.lucidai": {
+    "title": "Lucid AI: Dream Meaning& Tarot",
+    "package": "com.elysium.lucidai",
+    "description": "Lucid AI is a private AI dream journal designed to help you record dreams, understand recurring symbols, track emotional patterns, and build a calmer bedtime reflection routine.\n\nWhether you wake up from a vivid dream, a strange nightmare, or a feeling you cannot explain, Lucid AI helps you capture the moment before it fades. Speak or write your dream, save it to your personal journal, and explore AI-assisted interpretations from psychological, symbolic, traditional, and modern perspectives.\n\nLucid AI is not only about interpreting a single dream. Over time, it helps you notice patterns in your subconscious: repeated emotions, recurring symbols, changing moods, and themes that may reflect your inner world.\n\nWhy Lucid AI?\n\nAI Dream Journal\nRecord your dreams by voice or text. Lucid AI can t",
+    "icon": "/icons/com.elysium.lucidai.png"
+  },
+  "com.tk.cattrans": {
+    "title": "CatTranslator - Cat to Human",
+    "package": "com.tk.cattrans",
+    "description": "Do you Wanna talk with a Cat ? Wanna say \u201cMeow\u201d believing the cat speaks? Want to know what the cat is thinking about? \ud83d\udc08\n\nOur Cat Translator Human to Pet App will help you UNDERSTAND the emotions of your beloved cat. You can perform Cat to Human Translator, Human to Cat Translator, Cat Whistle, Cat Scanning and Cat Emotions all in this Pet Translator app.\n\nWhy should you use this app \"Cat Translator Human to Pet\"? Here are the top benefits:\n\u25c6 Understand your cat\u2019s needs and emotions.\n\u25c6 Analyzes the tone, pitch and frequency of your cat's meow.\n\u25c6 Access a vast collection of cat sounds.\n\u25c6 Communicate effectively by translating your own messages into cat language.\n\u25c6 Record your cat's meow sound and enjoy two-way translation: Cat to Human Translator and Human to Cat Translator.\n\u25c6 Experience th",
+    "icon": "/icons/com.tk.cattrans.jpg"
+  },
+  "com.crunchyroll.manga": {
+    "title": "Crunchyroll Manga",
+    "package": "com.crunchyroll.manga",
+    "description": "If you love anime, manga is the next step into the stories and worlds that made it all possible. Crunchyroll Manga is a dedicated app with hundreds of titles ready to explore, from the series behind your favorite shows to new stories waiting to be discovered. Whether you're just starting out or curious to go deeper, this is your place to read, connect, and experience more of what makes anime and manga so powerful.\n\nUnlimited Manga, Anywhere, Anytime\n\nWith unlimited reading included in your subscription, Ultimate members can enjoy an extensive catalog spanning multiple licensors, ensuring access to all your favorite series in one place. Mega and Fan members can still explore the full catalog for a small additional fee.\n\nThe Ultimate Reading Experience\n\nEnjoy an ad-free reading experience ac",
+    "icon": "/icons/com.crunchyroll.manga.png"
+  },
+  "com.burayagidelim.app": {
+    "title": "Go There: AI Trip Planner",
+    "package": "com.burayagidelim.app",
+    "description": "Turn the places you save on social media into real trips. AI-powered itinerary builder, interactive city map, and friend-shared routes \u2014 all in one app.\n\nYou saved that brunch spot from TikTok. Bookmarked the hidden beach on Instagram. Sent yourself the YouTube vlog about Lisbon. Pinned five Google Maps links for \"someday.\" And\u2026 nothing happened. Hundreds of saves, zero actual trips. Sound familiar?\n\nGo There fixes this. Share any link from Google Maps, TikTok, Instagram, or YouTube \u2014 we extract every place automatically and drop them on your map. Tell the AI when and where you're going, get a day-by-day itinerary in seconds, and head out.\n\nWHO IT'S FOR\nWeekend explorers, dream-trip planners, foodies, solo travelers, and groups planning a city break together. Anyone who's ever said \"let's ",
+    "icon": "/icons/com.burayagidelim.app.png"
+  },
+  "com.tripomatic": {
+    "title": "Tripomatic Planner & Maps",
+    "package": "com.tripomatic",
+    "description": "The new Tripomatic is here! Your trusted trip planner just got even better with improved features and AI travel planning.\n\nDiscover exciting things to do wherever you go. Plan detailed trip itineraries with the Tripomatic (formerly Sygic Travel) itinerary planner. Navigate with helpful travel guides. The ultimate all-in-one planning app for every traveler.\n\nAI TRIP PLANNER\nCreate a detailed day-by-day itinerary for your trip with our easy-to-use trip planner. Get help from AI for even faster travel planning. View estimated travel times and walking distances to keep your plans realistic. Invite friends to collaborate on your trips. Track costs and add notes to keep everything at your fingertips. \n\nOUTDOOR, WINTER, AND SATELLITE MAPS\nChoose from multiple travel maps including outdoor maps, w",
+    "icon": "/icons/com.tripomatic.webp"
+  },
+  "com.badalaryal.soulmate": {
+    "title": "Soulmate: AI Dating & Chat",
+    "package": "com.badalaryal.soulmate",
+    "description": "Welcome to Soulmate, the next evolution of digital companionship. Experience a space where connections are deep, conversations are authentic, and your perfect match is just a swipe away.\n\nWhether you're seeking a casual companion, a deep listener, or a playful banter partner, Soulmate AI offers a diverse universe of intelligent, responsive personalities waiting to meet you.\n\n\u2728 DISCOVER YOUR PERFECT MATCH\nSwipe through a curated feed of beautiful, unique AI profiles. Each has its own background, interests, and conversational style. Filter by your preferences to find the exact vibe you're looking for\u2014from the Intellectual to the Life of the Party.\n\n\ud83d\udcac CHAT WITHOUT LIMITS\nSay goodbye to small talk. Dive into engaging, natural-sounding conversations that flow effortlessly. Our advanced Gemini-p",
+    "icon": "/icons/com.badalaryal.soulmate.png"
+  },
+  "com.ez.ai.chatbot": {
+    "title": "EZ AI \u2013 AI Chatbot & Assistant",
+    "package": "com.ez.ai.chatbot",
+    "description": "Meet EZAI \u2013 Chatbot & Assistant, your all-in-one AI assistant that combines the world\u2019s most advanced AI technologies into a single, seamless experience. Whether you want to chat naturally, generate breathtaking images, or create engaging videos, EZAI brings together multiple powerful AI models\u2014GPT-5, GPT-4o, Google Gemini, Claude, DeepSeek\u2014so you can explore limitless creativity and productivity in one app.\n\n\ud83d\udcac Next-Gen AI Conversations\nPowered by GPT-5 and GPT-4o, EZAI understands context, emotions, and nuance, making every interaction feel like you\u2019re chatting with a knowledgeable friend. From brainstorming ideas to solving complex problems, EZAI adapts to your needs instantly.\n\n\ud83d\uddbc\ufe0f AI Image Generator\nTurn your imagination into reality with AI-generated art. Using Gemini and GPT, EZAI tra",
+    "icon": "/icons/com.ez.ai.chatbot.png"
+  },
+  "com.ojassoft.astrosage": {
+    "title": "AstroSage Kundli: AI Astrology",
+    "package": "com.ojassoft.astrosage",
+    "description": "AstroSage Kundli AI is an Artificial Intelligence based Kundli Software. AstroSage has democratized jyotish by introducing AI astrology and AI horoscope. You can generate your Kundali which is also called Birth Chart, Natal Chart or Vedic Horoscope and talk to Kundli using AI. You can also get Horoscope Matching, Horoscope, Rashifal, Hindu Calendar (Panchang) & much more in this astrology app absolutely FREE.\n\nFeatures\n* Talk to AI Astrologer - Call & Chat with AI Astrologers\n* AI Kundli - Talk to Kundli using Artificial Intelligence\n* AI Horoscope - Accurate Personalized Horoscopes using AI\n* Talk to Astrologer - Now talk to premium AstroSage astrologers\n* Vedic Astrology - Traditional Features\n* Predictions/ Personalized Horoscope- Life Predictions, Monthly & Annual Predictions, Daily Pr",
+    "icon": "/icons/com.ojassoft.astrosage.webp"
+  },
+  "com.semsturgut.ghostfaceai": {
+    "title": "Ghostface AI",
+    "package": "com.semsturgut.ghostfaceai",
+    "description": "Ghostface AI\n\nStep into a nostalgic dreamscape with Ghostface AI, the photo app that transforms your pictures into surreal Y2K-inspired portraits with a chilling twist. Relive the dreamy 90s aesthetic \u2014 shiny satin bedding, butterfly clips, vintage posters, and grainy film textures \u2014 all while Ghostface lurks in the background. The result is a hauntingly beautiful memory that feels straight out of a late-night 90s thriller.\n\nOur advanced AI recreates your photo with authentic Y2K details \u2014 soft lamp lighting, grainy textures, girly bedroom vibes, and delicate jewelry \u2014 while keeping your face intact. Each portrait combines nostalgia and horror, creating images that are both glamorous and unsettling.\n\nPerfect For\n\nFans of classic 90s movies and Y2K fashion.\n\nCreating unique and haunting por",
+    "icon": "/icons/com.semsturgut.ghostfaceai.png"
+  },
+  "com.homexai.interior": {
+    "title": "Home AI-Interior Design",
+    "package": "com.homexai.interior",
+    "description": "Home AI-AI Interior Design & Home Renovation App\n\nTransform your home with the  AI room design app. Homex is your personal AI interior designer, room planner, and home renovation visualizer \u2014 all in one powerful app. Simply upload a photo and watch AI redesign your space in seconds.\n\n\ud83c\udfe0 AI INTERIOR DESIGN & ROOM PLANNER Looking for interior design ideas? Homex is the ultimate room design app and home decorator tool. Upload any room photo \u2014 living room, bedroom, kitchen, bathroom \u2014 and our AI interior designer generates stunning design ideas instantly. Choose from 50+ design styles including modern, minimalist, bohemian, Scandinavian, industrial, farmhouse, coastal, mid-century modern, and more. The perfect room planner for home makeover projects.\n\n\ud83c\udf3f AI LANDSCAPE DESIGN & BACKYARD PLANNER De",
+    "icon": "/icons/com.homexai.interior.png"
+  },
+  "com.a256.gelisimsprituel": {
+    "title": "Spiritual AI: Soul & Dream",
+    "package": "com.a256.gelisimsprituel",
+    "description": "Spiritual AI: Decode Your Dreams, Horoscopes, and Inner World!\nHave you ever wondered what your dreams are trying to tell you? Are you ready to discover the hidden messages lying in the depths of your subconscious? Spiritual AI combines cutting-edge artificial intelligence with ancient spiritual wisdom, astrology, and mindfulness to offer you tailored guidance. It doesn't just analyze your dreams; it sheds light on your life's journey.\n\nWhy Spiritual AI?\n\n\ud83e\udd16 AI-Powered Dream Interpretation & Meanings: Describe your dreams in full detail. Our advanced AI analyzes dream symbols in seconds, revealing the hidden messages of your subconscious and providing the most accurate dream interpretations.\n\n\u2728 Spiritual Guidance & Inner Discovery: Ask the spiritual questions on your mind and receive deep, ",
+    "icon": "/icons/com.a256.gelisimsprituel.jpg"
+  },
+  "com.app.mylo.dating": {
+    "title": "Mylo AI - Meet, Date & Love",
+    "package": "com.app.mylo.dating",
+    "description": "Players - this one\u2019s not for you.\n\nMylo is a dating app designed for people who want real conversations and meaningful connections.\nInstead of endless swiping, Mylo helps you focus on fewer, more compatible matches - and gives you support to start and maintain better conversations.\n\nHow Mylo works:\n- Deep Profiles: Share what actually makes you you.\n- Curated Matches: No endless catalogs. Just high-compatibility matches.\n- Icebreakers Included: Never wonder \"what do I say?\" again. Mylo helps you       start the chat.\n- Slow Reveal: Photos unblur as the conversation flows, ensuring you connect    with the person first.\n\nMylo is built for people who value depth over volume and conversation over games.\n\nIf you\u2019re tired of swiping, unsure what to say, or just want a more intentional dating exp",
+    "icon": "/icons/com.app.mylo.dating.png"
+  },
+  "com.rome2rio.www.rome2rio": {
+    "title": "Rome2Rio: Trip Planner",
+    "package": "com.rome2rio.www.rome2rio",
+    "description": "This super-handy Rome2Rio travel app makes trip planning quick, easy, and hassle-free\nPlanning your next trip can be exciting but also complicated. That's where the Rome2Rio travel app comes in handy! Use it to research, compare, and coordinate your transport options across 240 countries and territories around the world. Whether you prefer to travel by train, ferry, bus, plane, or car, you\u2019re sure to find the right trip that suits your needs.\n\nSay goodbye to multiple tab searches and hello to easy trip planning with Rome2Rio!\n\nThis must-have travel planning app has it all!\nEnter any two addresses, towns, landmarks, attractions or cities anywhere around the world and instantly see many different ways to travel to your destination. Detailed maps and transport schedules show distances, durati",
+    "icon": "/icons/com.rome2rio.www.rome2rio.webp"
+  },
+  "to.blend.mobile_app": {
+    "title": "Blend: AI Videos Logos Try On",
+    "package": "to.blend.mobile_app",
+    "description": "Blend is your all-in-one AI photo editor, background remover, and design studio for small businesses, creators, and online sellers. Create professional product photos, stunning social media posts, and brand designs\u2014right from your phone. No need for expensive photoshoots or graphic designers.\n\nWhat\u2019s New\nAI Model (Virtual Try-On): Instantly create fashion photoshoots. Upload clothing or jewelry images, pick from hundreds of virtual models, or even generate your own by describing attributes like ethnicity, hairstyle, body type, and skin tone. You can also upload your own photo for a personalized look.\n\nStage It: Reshoot your product photos with curated ideas for your category. Reposition products and transform them into high-quality, professional-looking photos in the aesthetic or setting y",
+    "icon": "/icons/to.blend.mobile_app.jpg"
+  },
+  "app.lovable.bellaglowdashboard.app122300": {
+    "title": "AURA",
+    "package": "app.lovable.bellaglowdashboard.app122300",
+    "description": "AURA is the app designed for beauty salon owners who want to grow their business simply, automatically, and intelligently.\n\nWith AURA, you can:\n\n\ud83d\udce3 Book Facebook/Instagram campaigns with ready-made AI creatives\n\n\ud83d\udcac Activate professional WhatsApp promotions, including automatic reminders\n\n\ud83d\udc65 View and contact leads collected from your marketing campaigns\n\n\ud83d\udcc8 Monitor results in real time: leads, ROAS, revenue, scheduled appointments\n\n\u2728 MAIN FEATURES\n\u2705 To-Do List\nTrack all leads received from campaigns and contact them when they've given you call slots.\n\n\u2705 Automatic customer database\nImport your contacts or collect them from active campaigns.\n\n\u2705 Facebook/Instagram Campaigns\nEasily book optimized Meta Ads campaigns. Enter your objective and AURA generates the copy and creative using AI. No technica",
+    "icon": "/icons/app.lovable.bellaglowdashboard.app122300.png"
+  },
+  "com.aura.suite": {
+    "title": "Aura: Security & Protection",
+    "package": "com.aura.suite",
+    "description": "Get comprehensive protection and security with Aura, your trusted solution against identity theft, fraud, and online threats.\n\nAura is an all-in-one digital safety and protection solution to help keep you safe from identity theft, financial fraud, online threats, and data breaches. Protect your data, block online threats, and stay ahead of fraud. Our award-winning technology\u00b9 provides security & protection by monitoring & alerting if your identity, data, passwords, credit, or financial accounts are at risk. \n\nDownload Aura today for digital identity protection, data security, and peace of mind.\n\n\u25ba FAST FRAUD PROTECTION ALERTS\nMonitor identity & credit activity and get fraud alerts on your mobile for security & protection, so you can block scams and stop financial theft before they strike.\n",
+    "icon": "/icons/com.aura.suite.png"
+  },
+  "com.app.inkfusion": {
+    "title": "InkFusion: AI Tattoo Design",
+    "package": "com.app.inkfusion",
+    "description": "InkFusion: Your Unlimited AI-Powered Tattoo Generator\nRevolutionize your tattoo journey with InkFusion, the app that combines cutting-edge AI technology with artistic creativity. Whether you're exploring ideas for your first tattoo, looking for fresh inspiration, or seeking professional-grade designs, InkFusion has you covered.\nWith intuitive tools and advanced features, InkFusion allows you to design, customize, and visualize tattoos effortlessly. Discover a wide range of styles, from minimalist to intricate, and bring your tattoo vision to life in just a few taps.\nKey Features:\n\u2022 AI-Powered Tattoo Generator: Input your ideas, themes, or prompts, and let our AI create unique, tailor-made tattoo designs that match your preferences.\n\u2022 Style Variety: Choose from an extensive library of style",
+    "icon": "/icons/com.app.inkfusion.png"
+  },
+  "com.ismetguler.liededector": {
+    "title": "Lie Detector AI",
+    "package": "com.ismetguler.liededector",
+    "description": "Lie Detector AI: 4-in-1 Ultimate Face & Voice Analysis Prank Tool!\n\nUnlock the secrets of deception with Lie Detector AI, the cutting-edge facial and biometric analysis application designed purely for entertainment and fun. Utilizing advanced Artificial Intelligence (AI) technology, this app simulates analysis across FOUR different modes to deliver startling 'Truth' or 'Lie' results: Face Analysis, Voice Test, Heart Rate Scan, and Vibration Test.\n\n\u26a0\ufe0f DISCLAIMER: This app is strictly for entertainment purposes. The results are not scientifically verified and should NOT be used for real-life polygraph or serious diagnostic analysis. It is designed to be a funny party game and prank tool.\n\n\ud83d\ude80 KEY FEATURES: 4 Advanced Simulated Test Modes:\n\n* **1. Face Test:** Simulated analysis of facial micro",
+    "icon": "/icons/com.ismetguler.liededector.png"
+  },
+  "com.auraai.chat": {
+    "title": "Aura: AI Chatbot & Assistant",
+    "package": "com.auraai.chat",
+    "description": "Aura AI - Free AI Chatbot & Smart Assistant App\nLooking for a powerful AI chatbot and personal assistant in one app? Aura AI is the free AI chatbot and smart assistant that answers questions, analyzes images, and helps you create content - faster than ever. Chat with AI naturally, get instant intelligent responses, and boost your productivity every single day.\nAura AI is your all-in-one AI assistant app powered by advanced conversational AI technology - designed for students, professionals, creators, and anyone who wants a smarter daily assistant.\n\n\ud83d\udcac AI Chatbot - Natural, Smart Conversations\nAura's AI chatbot understands your context, remembers your conversation history, and delivers accurate human-like responses instantly. Unlike basic chatbots, Aura AI adapts to your communication style ",
+    "icon": "/icons/com.auraai.chat.png"
+  },
+  "com.erp04.evpanalyser": {
+    "title": "EVP Analyser - Ghost Voice AI",
+    "package": "com.erp04.evpanalyser",
+    "description": "\ud83d\udd2c EVP ANALYZER - Paranormal Audio Analysis by Artificial Intelligence\n\nTurn your smartphone into a professional audio analysis lab. EVP Analyzer uses cutting-edge artificial intelligence technologies to examine your recordings and detect Electronic Voice Phenomena (EVP).\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83c\udfaf WHAT IS AN EVP?\n\nElectronic Voice Phenomena (EVP) are unexplained sounds or voices captured on audio recordings. For decades, paranormal researchers and investigators have analyzed these phenomena. EVP Analyser brings a scientific and objective approach to this research.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83e\udde0 DUAL ARTIFICIAL INTELLIGENCE\n\nOur application combines two complementary AI engines:\n\nTensorFlow Lite (YAMNet): A neural network trained on millions of sounds. It ",
+    "icon": "/icons/com.erp04.evpanalyser.png"
+  },
+  "google.com": {
+    "title": "google.com",
+    "package": "google.com"
+  },
+  "com.naiveminds.rizz": {
+    "title": "Aura AI - Rizz your replies",
+    "package": "com.naiveminds.rizz",
+    "description": "Aura Chat \u2013 Your AI Wingman for Every Conversation\n\nStuck staring at a message, not sure what to reply? Aura Chat analyzes your dating conversations and crafts the perfect response in seconds \u2013 powered by advanced AI.\n\n\ud83d\udcf8 Screenshot Analysis Upload a screenshot of any chat \u2013 Tinder, Bumble, Hinge, Instagram DMs, WhatsApp, or iMessage \u2013 and get an instant breakdown of what's really being said between the lines.\n\n\u270d\ufe0f Text Analysis Don't have a screenshot? Just type or paste the message and get smart reply suggestions instantly.\n\n\ud83c\udfaf Choose Your Strategy Pick a conversation approach that fits your style: \u2022 Icebreaker \u2013 Start strong with a memorable opener \u2022 Pivot \u2013 Smoothly change the topic or direction \u2022 Closer \u2013 Move the conversation toward a date \u2022 Challenge \u2013 Create playful tension and intrig",
+    "icon": "/icons/com.naiveminds.rizz.png"
+  },
+  "com.roleplayaichat.mybunny": {
+    "title": "My Bunny: AI Anime Mate",
+    "package": "com.roleplayaichat.mybunny",
+    "description": "Welcome to My Bunny \u2013 Your Anime AI Adventure Awaits!\nExplore a world bursting with vibrant personalities, from epic heroes to quirky companions, each ready to ignite your imagination.\n\nChat with Unique AI Pals:\nEngage with diverse anime-inspired characters, each with their own flair, for endless dynamic conversations\u2014where anime AI characters come alive in thrilling text-based chats!\n\nCraft Epic Role-Play Stories:\nBuild immersive scenarios, solve challenges, and live out fantasy adventures tailored to you.\n\nWith My Bunny, every chat is a portal to anime magic, sparking creativity and fun. Download now and start your journey!",
+    "icon": "/icons/com.roleplayaichat.mybunny.jpg"
+  },
+  "com.flubble.asteria": {
+    "title": "Asteria: Dream Meanings & AI",
+    "package": "com.flubble.asteria",
+    "description": "Unlock the Secrets of Your Subconscious with AI!\n\nAsteria is your intelligent companion for mental clarity and self-discovery. Move beyond traditional journaling; record your dreams, visualize them with state-of-the-art AI, and receive deep psychological insights into your inner world.\n\nKey Features:\n\n- AI-Powered Dream Interpretation: Don't just wonder\u2014understand. Our AI analyzes your dream narratives to decode symbols and reveal hidden meanings based on psychology.\n\n- Visualize Your Dreams: Turn your words into art! Transform your dream descriptions into vivid, realistic images using our generative AI engine.\n\n- Smart Dream Journal: Create a secure, digital galaxy of your thoughts. Log your sleep patterns and keep a detailed diary of your subconscious journey.\n\n- Psychological Insights: ",
+    "icon": "/icons/com.flubble.asteria.png"
+  },
+  "com.lie.test.couple.love.android": {
+    "title": "Lie Detector - True Word Test",
+    "package": "com.lie.test.couple.love.android",
+    "description": "Looking for an exciting way to liven up your hangouts with friends? Look no further than the Lie Detector - True Word Test! When boredom strikes and you're craving some fun, this app is your ticket to hours of hilarious deception and truth - seeking.\n\nWith two unique methods, the fingerprint scanner and the voice test, you can easily play the classic truth or lie game. Simply place your fingerprint on the scanner as you answer a question, and the app will \"reveal\" whether you're telling the truth or not. It's a fantastic way to prank your friends and add an element of mystery to your gatherings.\n\nHow it works is simple. Place your finger on the fingerprint scanner, and the app will seem to analyze if you're being honest or not. You can choose to have a bit of mischief by pre - setting fals",
+    "icon": "/icons/com.lie.test.couple.love.android.png"
+  },
+  "com.stephenchheng.fortuneteller": {
+    "title": "Fortune Teller AR",
+    "package": "com.stephenchheng.fortuneteller",
+    "description": "Fortune Teller is a series of augmented frescoes, composed of eyes to animate, texts, music and filters.\n\nEach of the eyes symbolizes an aspect of Nature sharing with us its vision of the world. Inspired by expressions from all over the world, it is a hymn to differences and the multiplicity of views.",
+    "icon": "/icons/com.stephenchheng.fortuneteller.png"
+  },
+  "com.antroph.aura": {
+    "title": "Aura",
+    "package": "com.antroph.aura",
+    "description": "AURA: STORIES THAT HELP YOU UNDERSTAND LIFE\n\nAura is an interactive AI storytelling app where stories become conversations about real-life experiences.\nEach story reflects moments people face every day, overthinking, relationships, self-doubt, ambition, setbacks, spiritual growth and personal growth.\n\nAs the story unfolds, you talk, share your thoughts, and Aura responds with comfort, perspective, and thoughtful questions that help you reflect.\n\nIt\u2019s not just storytelling.\nIt\u2019s a place to process what you're going through.\n\nWHAT YOU CAN DO IN AURA\n\n\u2022 Explore interactive life stories\nChoose from stories inspired by real-life struggles like overthinking, heartbreak, motivation, career uncertainty, spiritual growth and personal growth.\n\n\u2022 Talk through the story\nAura listens as you respond dur",
+    "icon": "/icons/com.antroph.aura.png"
+  },
+  "com.starii.winkit": {
+    "title": "Winkit - AI Video Enhancer",
+    "package": "com.starii.winkit",
+    "description": "Transform your videos into professional-quality masterpieces with Winkit!\n\nWhether you\u2019re a content creator or just someone looking to enhance everyday videos, Winkit is your all-in-one solution for stunning visuals and creative transformations.\n\n[ Core AI Editing Tools ]\n- Portrait Enhancer: Upgrade facial details to HD clarity while preserving natural features.\n- AI Repair: Quickly improve blurry or pixelated visuals with AI-enhanced restoration.\n- Face Retouch: Enhance facial features or experiment with different looks in your photos and videos.\n- Body Reshape: Shape your body, allowing you to define your own standard of beauty.\n- 4K Upscaler: Enhance video resolution with AI, delivering a sharp 4K-like experience.\n- Noise Reducer: Reduce background noise or video grain for cleaner, sha",
+    "icon": "/icons/com.starii.winkit.png"
+  },
+  "com.labyrinthos.app": {
+    "title": "Labyrinthos Tarot Cards",
+    "package": "com.labyrinthos.app",
+    "description": "Explore the rich world of Labyrinthos Tarot, where you can learn the ancient art of tarot by getting tarot readings, exploring different decks of tarot cards, journal your readings, track your daily tarot cards and learn tarot, astrology, lenormand and runes through simple, short-form quizzes. Your inner psychic awaits, ready to guide you through powerful psychic readings and intuitive discoveries.\n\nIn this tarot app, you\u2019ll discover the magic and meaning of all 78 tarot cards, and their ability to help you reveal your inner voice and navigate your life. Use your tarot readings to create a future that is more aligned with you. By learning to read tarot, you\u2019ll also learn to read what lies in your truest self. Plus, explore astrology, horoscopes, moon phase insights, and witchy wellness pra",
+    "icon": "/icons/com.labyrinthos.app.png"
+  },
+  "com.dailyinsights": {
+    "title": "align27 Vedic Astrology Guide",
+    "package": "com.dailyinsights",
+    "description": "Astrologically align your life with align27 \u2014 a time management solution for integrating ancient astrological wisdom in your daily planning, rituals, and self-care.\n\nJOIN USERS ON THE PATH TO SELF-IMPROVEMENT WHO:\n\u2022 Master time with astrology-driven insights\n\u2022 Sync life with cosmic rhythms\n\u2022 Plan with celestial guidance\n\u2022 Enhance daily rituals easily\n\u2022 Access Vedic wisdom\n\u2022 Track lunar cycles\n\u2022 Stay aligned\n\nPERSONALIZED ASTROLOGICAL EXPERIENCE\n\u2022 align27 stands out by offering detailed, individualized guidance, not a one-size-fits-all approach.\n\u2022 Explore why your days vary with our personalized astrological insights.\n\nDAILY HOROSCOPE INSIGHTS\n\u2022 Receive tailored daily insights based on planetary transits and your birth chart.\n\u2022 Start each day informed and aligned with cosmic guidance.\n\nASTR",
+    "icon": "/icons/com.dailyinsights.jpg"
+  },
+  "com.saramsw.dreamteller": {
+    "title": "Dream Interpretation & Meaning",
+    "package": "com.saramsw.dreamteller",
+    "description": "Dream interpretation and dream meaning can reveal emotions, thoughts, and patterns hidden in your daily life. This dream journal app helps you record dreams easily and understand dream meanings through clear dream interpretation and emotion analysis.\n\nNo Login Required \u2013 Start Instantly\n\nThis dream interpretation app requires no login and no account.\nOpen the app and start your dream journal immediately. Recording dreams right after waking up is essential for accurate dream meaning and dream analysis.\n\nVoice Dream Recording & Text Dream Journal\n\nChoose the easiest way to record your dream:\n\nVoice dream recording for fast and natural dream storytelling\n\nText dream journal for detailed dream notes and reflection\n\nThis flexible dream diary lets you capture dream stories exactly as you remembe",
+    "icon": "/icons/com.saramsw.dreamteller.png"
+  },
+  "paraphraser.essaywriter.essayrewriter": {
+    "title": "Essay Rewriter - AI Writer",
+    "package": "paraphraser.essaywriter.essayrewriter",
+    "description": "This https://essayrewriter.io/ android app is an easy and convenient app to rewrite any piece of text, be it a complete essay, a paragraph, or a sentence. \n\nThis pocket-friendly rewriting app is the perfect writing solution for students, writers, and bloggers to keep their writing unique while writing on a subject on which a significant amount of information is available on the web. \nWhat does this essay rewriter do?\n\nIt is a professionally designed online paraphrasing tool that automatically rewrites the existing piece of content using artificial intelligence technology. Its smart algorithm reads and analyzes the text and allows rephrasing the text by keeping the general idea of the text unchanged. \n\nIt changes the wording of the text significantly either by replacing the synonyms or chan",
+    "icon": "/icons/paraphraser.essaywriter.essayrewriter.png"
+  },
+  "com.ai_hairstyle": {
+    "title": "HairMatch AI - Haircut Try On",
+    "package": "com.ai_hairstyle",
+    "description": "AI Style Selection\nUpload your photo and let AI recommend multiple hairstyle references. Choose the style you like, and AI will generate a hairstyle that matches the selected look.\n\nOne-Tap Generation\nNo need to choose or adjust anything. Just upload your photo and AI will instantly generate a hairstyle that suits your face.\n\nCustom Generation\nSelect multiple options such as length, bangs, curls, and style. AI combines your choices to create a personalized hairstyle.",
+    "icon": "/icons/com.ai_hairstyle.png"
+  },
+  "com.ghostapp.ghostlink": {
+    "title": "GhostLink Paranormal Toolkit",
+    "package": "com.ghostapp.ghostlink",
+    "description": "** 24 amazing features at one low price. **\n** No annoying ads or paid subscriptions. **\n** 20 minutes of free usage per day for basic users. **\n** All app features work completely offline. ** \n\nTired of low quality or fake ghost apps with false positives? GhostLink is a professional-grade paranormal investigation toolkit designed for serious researchers, yet is still easy enough to use for complete beginners. Combining cutting-edge sensor technology with advanced detection methods, GhostLink filters interference to help verify possible actual paranormal activity.\n\n**CORE FEATURES**\n\ud83d\udd0a **ITC**: Word fragment processor with echo effect utilizing speech recognition. \n\ud83d\udd0a **Ghost Spectrum**: Detects ultrasonic frequencies that spirits may be speaking at and converts them to be audible to the hum",
+    "icon": "/icons/com.ghostapp.ghostlink.jpg"
+  },
+  "com.vklapps.characterswap": {
+    "title": "CharSwap: AI Video Face Swap",
+    "package": "com.vklapps.characterswap",
+    "description": "Transform yourself with next-generation AI video technology!\n\nWhat is Character Swap?  \nCharacter Swap is an advanced AI face replacement app that lets you transform faces in videos with incredible accuracy. Whether you want to explore creative transformations, make fun clips with friends, or produce high-quality visual effects, our system powered by the Wan 2.2 Replace model delivers professional, realistic results every time.\n\nKey Features:  \n\ud83c\udfad Precise AI Face Replacement \u2013 Upload any video and a reference photo to generate stunning results automatically.  \n\ud83e\udd16 Neural Video Transformation \u2013 Powered by cutting-edge machine learning and diffusion models.  \n\ud83d\udcf1 Intuitive Workflow \u2013 Just choose your video \u2192 select a photo \u2192 let the AI do the rest.  \n\ud83c\udfa5 High-Resolution Output \u2013 Crisp and natural-l",
+    "icon": "/icons/com.vklapps.characterswap.png"
+  },
+  "com.spiritcoms.communicate": {
+    "title": "Spirit Communicate",
+    "package": "com.spiritcoms.communicate",
+    "description": "Professional guided toolkit for ghost communication, occult meditations, and lesser magic with comprehensive protocols and safety practices.  Spirt Communicate offers detailed instructions for all manner of occult practice.\n\nCommunicate with spirts of the deceased\n\tSolo S\u00e9ance \n\tTwo Person S\u00e9ance: Medium and Sitter\n\tSmall Group S\u00e9ance\n\nPerform Ceremonial and Chaos Magic\n\tEuropean Ceremonial Magic\n\tChaos Magic\n\nManifest Eastern Magic: Kundalini Tantra Kriya \n\tKriya Yoga \n\tTantra Yoga\n\tKundalini Yoga\n\nPractice Druidic and Wiccan magic\n\tDruidic Rituals\n\tWiccan Rituals \n\nExplore occult practices for the Digital Age\n\tAstral Projection\n\tRemote Viewing\n\tS\u00e9ance with Laboratory Controls",
+    "icon": "/icons/com.spiritcoms.communicate.png"
+  },
+  "com.HERDOZAStudio.truthdetectorpolygrapher": {
+    "title": "Lie detector-Truth polygraph",
+    "package": "com.HERDOZAStudio.truthdetectorpolygrapher",
+    "description": "Do you want to have fun with your friends and family by simulating with this truth and lie detector or polygraph simulator? Simulate if what they are saying would be true or false and prank with them.\n\nCharacteristics:\n- \"Truth or lie detector / polygraph\" simulates that you analyze if what you are saying is a lie or a truth\n- Fantastic graphics and effects\n- Have fun for hours with this truth and lie detector simulator\n- Simulate using a polygraph\n- Make pranks to everybody\n\nDisclaimer: This polygraph / lie detector app is designed for entertainment and prank purposes only, and does not provide real truth detector functionality.\n\n\n\n\n\n\nBackground vector created by freepik - www.freepik.com, People photo created by wayhomestudio - www.freepik.com, \nTechnology photo created by master1305 - w",
+    "icon": "/icons/com.HERDOZAStudio.truthdetectorpolygrapher.png"
+  },
+  "com.holicay.app": {
+    "title": "Holicay \u2013 Travel Planner",
+    "package": "com.holicay.app",
+    "description": "AI Travel Planner, Trip Planner, Itinerary & Expense Splitter\n\nHolicay is an all-in-one travel planner app to plan, organize, and book trips including road trips, group travel, vacations, and multi-city itineraries.\nCreate and store detailed trip itineraries, organize flights and hotels, map your route, collaborate with friends, track expenses, and manage bookings in one place.\n\nLike Wanderlog, TripIt, and Google Maps but fully integrated into a single travel planning app.\n\nAvailable on Web, iOS, and Android.\n\nWHO IT\u2019S FOR\nHolicay is built for travelers who value structure and collaboration.\n\u2022 Planning group trips with friends or family\n\u2022 Creating detailed day-by-day itineraries\n\u2022 Organizing road trips and multi-city travel globally\n\u2022 Managing flights, hotels, and bookings in one place\n\u2022 S",
+    "icon": "/icons/com.holicay.app.png"
+  },
+  "com.frienzy.app": {
+    "title": "Frienzy: Group Travel Planner",
+    "package": "com.frienzy.app",
+    "description": "Frienzy simplifies group travel, making it easy to plan, organize, and manage every detail of your trip. Whether you\u2019re coordinating on your own or with the help of a professional travel planner, our platform offers the flexibility to suit your needs. Plus, you can discover and connect with trusted travel companies to elevate your experience.\n[BRING YOUR ITINERARIES TO LIFE]\n\u2022 Upload itineraries in PDF, Excel, or Docx format, and let Frienzy\u2019s AI instantly transform them into interactive schedules with maps, activities, and real-time updates.\n[SIMPLIFY GROUP TRAVEL]\n\u2022 Easily plan your trip\u2014create detailed itineraries, track expenses, and keep everyone in sync.\n[BOOK WITH TRUSTED TRAVEL EXPERTS]\n\u2022 Book curated trips directly in-app from vetted agencies specializing in luxury travel, party e",
+    "icon": "/icons/com.frienzy.app.png"
+  },
+  "io.lambus.app": {
+    "title": "Lambus | Travel Planner",
+    "package": "io.lambus.app",
+    "description": "Lambus - Your all-in-one travel companion!\n\nConquer the world with ease and plan your next adventure with Lambus - the ultimate travel app that has everything you need for your trip! From trip planning to organizing your documents to managing expenses, we've got it all under control so you can focus on your adventure! Whether you're traveling solo or on a group adventure, Lambus is your reliable companion on every trip.\n\n# Simply plan, experience more!\nSo much world, so little time! That's why we've made itinerary planning as easy as possible. Mark your destinations as stops and add interesting places effortlessly. Want to change something? No problem! Move or delete your stops in a snap. Planning your trip has never been so easy!\n\n# Import itineraries made easy\nWhether you're planning a b",
+    "icon": "/icons/io.lambus.app.png"
+  },
+  "com.hitpaw.photo.ai": {
+    "title": "FotorPea: Photo Enhancer AI",
+    "package": "com.hitpaw.photo.ai",
+    "description": "HitPaw FotorPea is a powerful AI photo enhancer and restoration tool designed to improve image clarity, restore details, upscale resolution, and enhance overall quality.\nPowered by advanced AI technology, FotorPea intelligently enhances different types of images \u2014 including portraits, old photos, web images, anime, and even text screenshots \u2014 delivering sharper, cleaner, and more natural results in seconds.\n\n-------- What's new in FotorPea app? --------\nTurn blurry photos into crystal-clear images in one tap!\n\nPhoto Enhancement\n- Face Enhancer\uff1aRestore facial details with precision and make portraits look clearer and more natural.\n- AI Ultra Clear\uff1aInstantly improve image clarity and fix blurry or low-resolution photos.\n- Denoise\uff1aRemove noise and grain for smoother and cleaner visuals.\n- Onl",
+    "icon": "/icons/com.hitpaw.photo.ai.png"
+  },
+  "com.idealmatch.idma": {
+    "title": "iris Dating: Find Love with AI",
+    "package": "com.idealmatch.idma",
+    "description": "Explore a smarter way to find love with iris Dating - the next-generation dating app that merges the thrill of romantic discovery with advanced artificial intelligence. Whether you're looking for a committed relationship or simply someone new to meet, iris turns every connection into something meaningful.\nPowered by cutting-edge AI, iris acts as your personal matchmaker, introducing you to singles whose facial features align with your preferences. It\u2019s where smart technology meets human chemistry \u2014 helping you find real attraction, not just random matches.\nFeel the spark of genuine connection with handpicked profiles chosen to match your taste, leading to deeper relationships and long-term compatibility.\nBe part of the growing global community on iris Dating - an international platform whe",
+    "icon": "/icons/com.idealmatch.idma.png"
+  },
+  "com.swapface.androidapp": {
+    "title": "Swapify: FaceSwap & Photoshoot",
+    "package": "com.swapface.androidapp",
+    "description": "Swapify is your all-in-one AI app for creating stunning face swap videos and realistic AI photoshoots \u2014 fast, easy, and fun.\n\nWhether you want to star in viral videos or generate professional-looking photos, Swapify gives you powerful tools to transform your content in seconds.\n\n\u2e3b\n\nKey Features\n\nFace Swap (Video & Photo)\n- Instantly swap faces in videos and photos\n- Create fun, cinematic, or viral clips effortlessly\n\nPartial Face Swap\n- Replace specific faces in group photos or videos\n- Keep the rest of the scene untouched\n- Perfect for precise edits and realistic results\n\nAI Photoshoots\n- Generate high-quality AI photos of yourself\n- Explore different styles, outfits, and scenes\n- Look like you\u2019ve had a professional shoot in minutes\n\nTemplate Packs\n- Ready-to-use themed photoshoot packs\n-",
+    "icon": "/icons/com.swapface.androidapp.jpg"
+  },
+  "com.nttdocomo.android.mangamirai": {
+    "title": "MANGA MIRAI: Reader app",
+    "package": "com.nttdocomo.android.mangamirai",
+    "description": "Enjoy the original manga stories of your favorite seasonal anime with our premier eBook reader app. Discover exciting new titles on our official manga ebookstore, MANGA MIRAI. Then use our app to seamlessly enjoy digital manga volumes from your collection while on the go or at night before bed. With a simple and effortless UI/UX, an immersive manga reading experience awaits!\n\nKey Features\n\u30fbSmooth Reading Experience: Enjoy a simple and fast comic reading experience with our great reader app.\n\u30fbUser-friendly UI/UX: Navigate and enjoy your manga collection with oursleek and modern user interface, designed for both casual readers and manga enthusiasts.\n\u30fbOfficial Manga eBookstore from Japan: Access a wide range of Japanese manga directly from our official website, MANGA MIRAI. Whether you're in ",
+    "icon": "/icons/com.nttdocomo.android.mangamirai.png"
+  },
+  "com.sortavala.flaptrip": {
+    "title": "FlapTrip: AI Travel Planner",
+    "package": "com.sortavala.flaptrip",
+    "description": "Tell FlapTrip where you're going and how you like to travel, and get a complete personalized day-by-day itinerary in about 60 seconds. \n\nWe ask you a few simple questions about your trip: where, when, who you're going with, what you like to eat, how active you want to be, and what your budget looks like. Then we build you a full plan with real places, walking routes, and food spots. How does that sound?\n\nSearching for things to do in a new city can take hours. We do that part for you. Just pick a destination and your vibe, and FlapTrip puts together a day-by-day plan that actually makes sense. Morning, afternoon, evening, all mapped out.\n\nEvery single place in your itinerary is real and verified. You can tap any location and navigate there directly via Google Maps. No vague \"visit the old ",
+    "icon": "/icons/com.sortavala.flaptrip.png"
+  },
+  "com.santonriniapps.imagefaceswap.photoswap": {
+    "title": "AI Face Swap Video Editor",
+    "package": "com.santonriniapps.imagefaceswap.photoswap",
+    "description": "AI Face Swap Video Editor - Create Eye-Catching Swaps with Ease!Discover a creative and entertaining way to transform your photos and videos using the AI Face Swap Video Editor. Designed for speed and realism, this editor allows anyone to create impressive face swaps without complicated tools. With Faceswap AI: Face Changer, advanced recognition technology ensures natural-looking results that blend seamlessly into your content. The AI Swap Face Video Generator gives you the freedom to experiment with expressions, styles, and identities, while the Video Face Swapper keeps the entire process smooth and accessible.\n\nForget complex editing workflows and enjoy instant creativity. Gender Swap: Faces App opens new possibilities for playful transformations, and Face Changer: Head Swap adds a fun t",
+    "icon": "/icons/com.santonriniapps.imagefaceswap.photoswap.png"
+  },
+  "com.pixit.photo.editor.photo.effects": {
+    "title": "Pixit: AI Face Swap & Filters",
+    "package": "com.pixit.photo.editor.photo.effects",
+    "description": "Pixit is your all-in-one photo editor, built to elevate your photos with AI-powered enhancements, pro-level filters, creative collages, and seamless object & background removal \u2014 all in a smooth, one-tap experience.\n\nEdit your photos like a pro with the most advanced photo enhancer, face filters, and photo effects used by creators, influencers, and everyday photographers alike. From vintage filters to HD-quality enhancement, Pixit has everything to help you transform your pictures into stunning visual stories.\n\ud83c\udfad Face Swap Magic!\n Instantly swap faces with friends or celebs in seconds. Create fun, surprising, and shareable photos with one tap! \u2728\n\n\u2728 AI PHOTO ENHANCER & EDITOR\nAutomatically enhance photo quality in seconds! Whether it\u2019s an old photo or a low-light snap, Pixit\u2019s AI photo enhan",
+    "icon": "/icons/com.pixit.photo.editor.photo.effects.png"
+  },
+  "com.haircanvas": {
+    "title": "HairCanvas: AI Hairstyle TryOn",
+    "package": "com.haircanvas",
+    "description": "Step into the future of hairstyling with HairCanvas \u2013 the ultimate AI hairstyle try-on & hair color changer app that lets you see how every haircut, color, or style looks on you in seconds. Powered by advanced AI technology, HairCanvas creates stunningly realistic hairstyle simulations \u2014 no salon, no waiting, no surprises.\n\nWhether you want to try a new haircut, test a different hair color, or find your perfect hairstyle match, HairCanvas transforms your imagination into reality. It\u2019s your personal AI hairstylist, hair color studio, and beauty makeover app \u2014 all in one place.\n\n\ud83d\udc87\u200d\u2640\ufe0f Try New Hairstyles Instantly\n\nUpload your photo or take a selfie and explore hundreds of virtual hairstyles with one tap. From short bobs and medium waves to long layered cuts, HairCanvas uses AI to fit each loo",
+    "icon": "/icons/com.haircanvas.png"
+  },
+  "com.ghostdimension.spirichat": {
+    "title": "Spirit Chatter",
+    "package": "com.ghostdimension.spirichat",
+    "description": "Welcome to Spirit Chatter! Unveil the mysteries around you by using our app to discover words and phrases generated based on EMF (Electromagnetic Field) fluctuations. Get a glimpse into the unseen as our app displays intriguing messages on your screen. Explore the world of spirits and energies with Spirit Chatter today!",
+    "icon": "/icons/com.ghostdimension.spirichat.png"
+  },
+  "com.avo.vpn": {
+    "title": "avoVPN - fast & secure VPN app",
+    "package": "com.avo.vpn",
+    "description": "avoVPN \u2014 mobile VPN app and Android TV VPN app for secure and fast internet access.\n\nLIGHTNING-FAST SPEED\navoVPN utilizes modern and advanced VPN protocols, providing high speeds for streaming, web browsing, and handling large files.\n\nAPP-BASED VPN CONTROL\navoVPN lets you choose which apps use the VPN connection. Full control\u2014route only what you need through the tunnel, saving speed and data.\n\nTOP-NOTCH SECURITY\nBuilt on the latest X-ray family protocols (v2ray, VLESS), avoVPN guarantees enhanced data protection and complete confidentiality.\n\nEASE OF USE\nThe intuitive interface of avoVPN makes it easy to set up the app. The VPN can be turned on and off with a single button press.\n\nHOW TO SET UP\nObtain a key from your VPN provider. The app supports keys in vless:// formats. Simply insert th",
+    "icon": "/icons/com.avo.vpn.webp"
+  },
+  "com.choiceapps.recipesfdw": {
+    "title": "Voicepal: your AI Ghostwriter",
+    "package": "com.choiceapps.recipesfdw",
+    "description": "Unleash your creativity with Voicepal, the ultimate ghostwriting assistant designed for online content creators.\n\nWhether you're scripting videos, drafting newsletters, or writing blog posts, Voicepal streamlines your process and helps you craft high-quality content effortlessly. All while having more fun.\n\nKey features:\n- Say goodbye to writer\u2019s block. Capture your thoughts instantly, whether you prefer speaking or typing, and watch them transform into clean, organized transcripts.\n- Organize your thoughts around topics. Let your ideas flow naturally by organizing them into streams centered around specific topics or concepts.\n- Explore your ideas further. Engage with our built-in shadow reader to delve deeper into your thoughts and enhance the depth of your content.\n- Make content sound j",
+    "icon": "/icons/com.choiceapps.recipesfdw.png"
+  },
+  "interior.ai.design": {
+    "title": "AI Interior Design",
+    "package": "interior.ai.design",
+    "description": "Your Ultimate Companion for Home Makeovers\n\nUnlock the power of artificial intelligence to transform your home into a stunning oasis. Our cutting-edge app uses AI technology to reimagine your space, providing you with personalized interior design solutions that fit your unique style and needs.\n\nExperience the Magic of AI-Generated Designs\n\nWith our app, you can:\n\n- Renovate and redesign your flat using our AI-driven architecture, tailored to your specific design preferences\n- Get expert home advice from our AI decorator, who will guide you through the design process with personalized recommendations\n- Discover new room interior ideas that perfectly match your style, whether you're looking for modern, traditional, or a unique blend of styles\n- Explore a vast library of furniture options to ",
+    "icon": "/icons/interior.ai.design.png"
+  },
+  "com.freepsychicreading": {
+    "title": "Psychic Reading Prediction",
+    "package": "com.freepsychicreading",
+    "description": "Answer your questions with a Psychic Reading\nClaim your Psychic advice. FREE Psychic readings for the first 3 minutes with 3 new psychics.\n\nKnow more about your future:\nAsk our clairvoyants questions about you past, present or future. You will get a quick specific answer that will help you make decisions. Or just check out our daily horoscope.\n\nChat with Psychic Readers :\nReview all psychics, choose your favorite Psycic and start a conversation with him/her. Get a FREE Psychic reading for the first 3 minutes with 3 new psychics!\nThis psychic app gives you the option to talk to a real psychic ( like keen, California psychics, Oranum and Purple ocean) and get a psychic reading !\n\nFeatures in the app:\n* Online Psychics\n* Daily Horoscope\n* Personal Birth chart\n* Live Psychic Readers\n* Love & R",
+    "icon": "/icons/com.freepsychicreading.png"
+  },
+  "com.prai.ld": {
+    "title": "AI Lie detector",
+    "package": "com.prai.ld",
+    "description": "[AI Lie Detector: Truth and Lies as Judged by AI]\nAsk, answer, and let AI decide. Lietector is a new type of AI-based detection app that analyzes language patterns in conversations to help AI determine what's true and what's false.\n\n[Ask Like It's Real, Let AI Judge]\nThe questioner asks questions by voice, and the respondent answers by voice. AI analyzes the content between the two and determines whether it's true or false!\n\n[Advanced Language Analysis Based on GPT-4]\nGPT analyzes the context, logic, emotions, and tone of questions and answers Precise detection based on meaning, not just simple keyword matching\n\n[AI Explains the Reasoning]\nWe provide the reasons why something was judged to be a lie. Interprets and explains emotional elements, logical inconsistencies, evasive expressions, a",
+    "icon": "/icons/com.prai.ld.png"
+  },
+  "com.pushd.client": {
+    "title": "Aura Frames",
+    "package": "com.pushd.client",
+    "description": "Aura is a smart picture frame designed to fill your home with beautiful photos of your family and friends.\n\nUse the Aura App to:\n- Connect your frame to WiFi\n- Choose the pictures, folders, or collections you want displayed on your frame\n- Invite family members to share their photos on your frame\n- Learn more about a photo, change photos, or remove a photo\n\nGet the Aura App and Frame and relive all your favorite memories.",
+    "icon": "/icons/com.pushd.client.png"
+  },
+  "Com.avo.vpn": {
+    "title": "Com.avo.vpn",
+    "package": "Com.avo.vpn"
+  },
+  "mch.pavel.liedetector": {
+    "title": "Lie Detector Test Simulator",
+    "package": "mch.pavel.liedetector",
+    "description": "Are you too bored and want to find a fun game with friends to prank someone? Detector de Mentiras is your best prank tool!\nLie Detector Test - the most real app for uncovering the truth. You can play the truth or lie game and Lie Detector app will help you detect the truth easily.\n\nThis is a great opportunity to Prank your friends! Our Lie Detector Test Polygraph is based on advanced fingerprint scanner technology, making it the perfect tool for detecting lies in various situations.\n\n\ud83c\udf89Playing a good Prank on a friend to have real fun is a real skill at the soul of the party.\n\n\ud83e\udd14Why Detector Check Truthfulness:\nreal Lie Detector Test provides you with the opportunity to check the truthfulness of statements using the latest fingerprint scanning technology.\n\n\ud83d\udc4dFingerprint Scanner - Easy to Use:",
+    "icon": "/icons/mch.pavel.liedetector.png"
+  },
+  "com.bigoen.tattooai": {
+    "title": "InkVista: AI Tattoo Design",
+    "package": "com.bigoen.tattooai",
+    "description": "InkVista - AI Tattoo Design Generator & Body Preview\n\nCreate professional tattoo designs with AI technology. Generate custom tattoo art from text or photos, then preview realistic placement on your body.\n\nTEXT-TO-TATTOO GENERATOR\n\nDescribe your tattoo idea and InkVista AI creates professional artwork instantly. Transform text into custom tattoo designs. No artistic skills needed.\n\nPHOTO-TO-TATTOO CONVERSION\n\nUpload photos and convert into professional tattoo art. Perfect for memorial tattoos, pet portraits, or custom tattoo designs.\n\n20 PROFESSIONAL TATTOO STYLES\n\nTraditional: Bold lines, classic colors, vintage American style\nJapanese: Dragons, koi fish, cherry blossoms, oriental art\nMinimalist: Delicate fine lines, simple elegant designs\nGeometric: Sacred geometry, mandala patterns\nReali",
+    "icon": "/icons/com.bigoen.tattooai.jpg"
+  },
+  "com.dreamybot.dreaminterpreter": {
+    "title": "DreamyBot AI",
+    "package": "com.dreamybot.dreaminterpreter",
+    "description": "Your dreams are a conversation with your subconscious, a direct line to your\ndeepest thoughts and emotions. But how do you learn the language?\n\nDreamyBot is your quiet companion for that journey. We are a first-of-its-kind\nemotional wellness tool designed to help you turn dream analysis into a\nmeaningful, accessible practice of intentional self-reflection. Our conversational AI engages you in a thoughtful dialogue, guiding you toward personal insights in a way that feels natural, supportive, and completely private.\n\nOver 100k+ people have used DreamyBot to find clarity, navigate anxiety, and\nfoster genuine emotional growth. The experience is consistently described as \"spot-on,\" \"life-changing\" and \"transformative.\"\n\nYour Toolkit for Self-Discovery:\n\nDreamyBot Remembers: Save your dream dis",
+    "icon": "/icons/com.dreamybot.dreaminterpreter.png"
+  },
+  "com.koshina.liedetectorvoicescanner": {
+    "title": "Lie Detector - Voice Scanner",
+    "package": "com.koshina.liedetectorvoicescanner",
+    "description": "Welcome to a simulator of a real voice lie detector! This game simulates scanning of your voice and tests the veracity of your statements. Remember that this game is just a simulator and is intended only for entertainment, jokes, and pranks. All results are randomly generated.\n\nTruth or lie? To determine whether a person is lying or telling the truth, one simply needs to click on and hold the button of the voice recording while saying his statement. The lie detector will then determine whether the statement is false or true. So you will get a yes or no response.\n\nIn our lie detector test, you will find colorful scanning animations and realistic sounds. All of these will give you a sense of realism during the testing process.\n\nThe voice scanner, also known as a voice polygraph or truth test",
+    "icon": "/icons/com.koshina.liedetectorvoicescanner.png"
+  },
+  "com.ezt.ai.story.maker": {
+    "title": "AI Story: Interact & RPG",
+    "package": "com.ezt.ai.story.maker",
+    "description": "Step into AI Story: Interact & RPG, where the line between reader and creator vanishes. You aren't just following a plot - you are the protagonist and the director of your own journey. Powered by a high-end, intelligent AI model, every choice you make sparks a world of vivid detail and vast possibilities.\n\nEXPLORE ENDLESS GENRES Dive into a massive library of scenarios or craft your own masterpiece. Whether you crave high-octane action or deep emotional resonance:\n\n- Action & Adventure: Brave the unknown and conquer the impossible.\n\n- Systems & Gamification: Level up in worlds governed by complex RPG mechanics.\n\n- Fantasy & Mutant City: Where ancient magic meets post-apocalyptic grit.\n\n- Isekai & Reincarnation: Start a new life with your future knowledge intact.\n\n- Epic Power & Companions:",
+    "icon": "/icons/com.ezt.ai.story.maker.jpg"
+  },
+  "mch.lie.detector.test.voice": {
+    "title": "Lie Detector Test\uff0dVoice & Face",
+    "package": "mch.lie.detector.test.voice",
+    "description": "Are you too bored and want to find a fun game with friends to prank someone? \nLie Detector Test app is our app for having fun and pranking your friends. Why is a Polygraph a good way to have fun and Prank? Because truth Detector de Mentiras can easily identify a liar.\n\nWelcome to the real Lie Detector, where truth meets technology. This innovative application harnesses cutting-edge voice and facial recognition technologies to determine the veracity of statements and enhance your entertainment.\n\nFeatures:\n\n\ud83c\udfa4 Voice Lie Detector Test: Speak into your device and let our advanced voice analysis technology, the why detector test, determine whether you're telling the truth or not.\n\n\ud83c\udf89 Prank Your Friends: Have fun pranking your friends and family with the Polygraph Test!\n\n\ud83d\udc64 Face scanner: Use the po",
+    "icon": "/icons/mch.lie.detector.test.voice.png"
+  },
+  "com.ciprosoft.ads": {
+    "title": "Anime Dating Sim: Waifu Love",
+    "package": "com.ciprosoft.ads",
+    "description": "Find Your Perfect Waifu!\n\nAnime Dating Sim is an immersive visual novel and text game crafted for true otaku! Dive into a world where your choices shape your destiny! Experience romance, drama, and unexpected plot twists reminiscent of classic bishoujo games. Can you win the heart of a tsundere, manage a yandere's affections, and build your dream harem stories? Or will you find yourself entangled in a thrilling story game of vampires?\n\nKey Features:\n\nShape Your Story: Every decision you make crafts a unique interactive story experience. Your relationships, intrigues, and multiple endings depend on how you make choices! From classic love stories to intense chapters of text-based RPG adventures, every playthrough is different.\n\nHarem of Waifus: Meet cute girls with unique personalities, incl",
+    "icon": "/icons/com.ciprosoft.ads.jpg"
+  },
+  "com.sadpanda.mobile.crushcrush.google": {
+    "title": "Crush Crush - Idle Dating Sim",
+    "package": "com.sadpanda.mobile.crushcrush.google",
+    "description": "Welcome to Crush Crush - the ultimate idle dating sim that's not just a game, but an irresistible journey into the world of love and laughter!\n\nHey there, hot stuff! Are you ready for an anime-style idle dating adventure that guarantees laughter, fun, and a whole lot of flirty moments? Look no further than Crush Crush \u2013 where romance meets idle gameplay!\n\n\ud83c\udf1f Features:\n\n\u2b50 Meet! \u2b50\nEmbark on a journey of romance as you match up with adorable anime girls and engage in charming conversations.\n\n\u2b50 Date! \u2b50\nTake your crush on exciting dates to find that perfect connection. The chemistry is in the air, and love is waiting to bloom!\n\n\u2b50 Earn! \u2b50\nBoost your cash flow and stats by working on various jobs and hobbies. Improve your chances with the lovely ladies who are eager to get to know you better.\n\n\u2b50 U",
+    "icon": "/icons/com.sadpanda.mobile.crushcrush.google.png"
+  },
+  "com.beemoov.amoursucre.ng.android": {
+    "title": "My Candy Love NewGen \u00ae",
+    "package": "com.beemoov.amoursucre.ng.android",
+    "description": "My Candy Love New Gen\u00ae is a free otome game, a romance game where the scenario completely adapts to your choices for a unique love story! Join a community of more than 72 million players around the world and immerse yourself in an adventure where your decisions determine the course of the story, and allow you to experience a unique and personalized romance.\n\n\u2665 New episodes are released regularly. \n\n\u2665 Live a passionate story with your Crush in a colorful universe, enhanced by an immersive interface and carefully crafted animations!\n\n\u2665 Collect romantic illustrations, exclusive outfits and decorative elements. \n\n\u2665 Becomes an integral part of the community, participate in mini-games with other players or in new events throughout the year. \n\n\n\u2606 Story \u2606\n\n\u2665 Explore the colorful streets of Amoris,",
+    "icon": "/icons/com.beemoov.amoursucre.ng.android.png"
+  },
+  "beemoov.amoursucre.android": {
+    "title": "My Candy Love : Otome Sim Game",
+    "package": "beemoov.amoursucre.android",
+    "description": "My Candy Love is a dating/romance game (dating sim) where the scenario adapts entirely to your choices for a unique love story! Join an episode-based love game that combines three otome games and a community of more than 9 million players!\nNew episodes are released regularly. Collect the outfits and illustrations, participate in events and live a passionate story with your Crush!\nChoose the universe you prefer to live a unique romance: at Sweet Amoris High School, at Anteros Academy University or directly in the working world of Love Life!\n\nSTORY\n\nChoose to live your story in high school, at university or in the working world. More than 60 episodes can be played in all, with a new episode available each month!\n\nIn My Candy Love - High School Life, live the life of a high school student at ",
+    "icon": "/icons/beemoov.amoursucre.android.png"
+  },
+  "com.larus.nova": {
+    "title": "com.larus.nova",
+    "package": "com.larus.nova"
+  },
+  "com.energysh.onlinecamera1": {
+    "title": "AI Photo Editor Pic BG Eraser",
+    "package": "com.energysh.onlinecamera1",
+    "description": "Magicut AI Photo Editor presents the exclusive GhibliAI limited-edition stickers, filters, and photo frames to light up your fantasy! With AI Photo Enhancer and Background Eraser, create stunning images effortlessly. This all-in-one AI Photo Editor is perfect for cutout, retouch, and remove BG tasks. Whether you want to cartoon yourself, clean a background, or apply professional filters, Magicut does it all.\n\n\ud83d\udd25 Features of Magicut AI Photo Editor:\n\n\u2022 AI Photo Enhancer \u2013 Upgrade blurred, low-res, or old photos to sharp HD in a tap.\n\u2022 Cutout Tool \u2013 AI-powered cutout lets you isolate subjects with precision.\n\u2022 Background Eraser \u2013 Instantly remove BG, swap scenes, or make PNGs with transparent background.\n\u2022 Retouch Tools \u2013 Smooth skin, reshape facial features, and apply AI retouch effects easi",
+    "icon": "/icons/com.energysh.onlinecamera1.png"
+  },
+  "com.magictiger.ai.picma": {
+    "title": "PicMa: AI Video&Photo Enhancer",
+    "package": "com.magictiger.ai.picma",
+    "description": "PicMa: AI Video&Photo Enhancer - Elevate Your Moments with AI Magic!\n\nDiscover PicMa: Experience the next generation of AI with Nano Banana 2 and Seedance. PicMa lets you create heartwarming connections and dynamic visual stories like never before. From nostalgic photo restoration to pioneering AI video effects, PicMa is your go-to app for truly unique creations.\n\n---\n\nExplore PicMa's AI-Powered Features:\n\nPioneering AI Video Creation by PicMa:\n\u00b7 AI Hug Video \u2013 Bridge Distances with Love: Reconnect with cherished ones or even your younger self! PicMa transforms static photos into heartwarming AI Hug Videos, creating unforgettable moments that transcend time and space.\n\u00b7 AI Kiss Video \u2013 Add a Spark of Affection: Infuse your photos with a playful and romantic touch. Generate charming AI Kiss",
+    "icon": "/icons/com.magictiger.ai.picma.webp"
+  },
+  "interior.deco.home.design.ai": {
+    "title": "Home Interior - AI Design",
+    "package": "interior.deco.home.design.ai",
+    "description": "\ud83c\udfe0 Home Interior - AI Interior Design: Your AI-Powered Room Planner & Decor Tool\n\nTransform your home instantly with Home Interior. Our advanced AI helps you visualize and redesign your living spaces, bedrooms, and exterior areas in seconds. Whether you're planning a complete house remodel or just looking for fresh home decor ideas, our app provides high-quality renders to guide your journey.\n\nExplore our AI-Powered Features:\n\nAI Interior Design: Upload a photo and transform your room into 30+ styles like Minimalist, Scandinavian, Modern, or Industrial.\n\nExterior & Garden Design: Revamp your house facade, backyard, or garden landscape with ease.\n\nAI Object Removal: Easily swap old furniture with new decor items to see what fits best in your space.\n\nSketch to Reality: Turn your simple hand-d",
+    "icon": "/icons/interior.deco.home.design.ai.png"
+  },
+  "com.sagamill.copyai": {
+    "title": "AI Copy - Write Essay & Email",
+    "package": "com.sagamill.copyai",
+    "description": "The AI email writer is an innovative solution that can transform the way we write and communicate through email. Using advanced techniques, this powerful tool can craft well-structured, coherent, and engaging emails, effortlessly. The AI chat bot email writer is a powerful and versatile tool that can revolutionize the way we communicate through email. With its advanced language models, customized capabilities, and seamless integration, this innovative technology can save time, improve productivity, and enhance the overall quality of written communication.\nCustomization\nThe AI chat email writer can be tailored to suit specific needs and preferences. Users can adjust the tone, style, and format of the generated content to fit their requirements.\nReal-time Assistance\nThe AI chat email writer ",
+    "icon": "/icons/com.sagamill.copyai.png"
   }
 }
