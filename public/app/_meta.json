@@ -84870,5 +84870,609 @@
     "package": "com.slipkprojects.sksplus",
     "description": "SocksHttp Plus can be used to create an SSH tunnel, through which all your network traffic will be routed. Supporting HTTP and SSL proxies with custom connection texts to bypass local restrictions and network censorship.\n\n\u2022\u2022\u2022 Attention \u2022\u2022\u2022\n- A configuration file is required that can be purchased from your VPN provider, from other users of the application or you can make your own, requiring advanced knowledge to do so.\n- This application uses VPN permission, when active, all your network traffic will be forwarded encrypted through the server that has been configured in the application.",
     "icon": "/icons/com.slipkprojects.sksplus.png"
+  },
+  "undetectable.ai.humanizer": {
+    "title": "Undetectable AI Text Humanizer",
+    "package": "undetectable.ai.humanizer",
+    "description": "With our AI Humanizer, you just need to upload the text, and the tool will make it undetectable for all AI detectors. Whether you use Copy leaks AI Detector, ZeroGPT, Originality AI, QuillBot AI Detector, Sapling, or Winston AI, this humanized AI text tool will give you natural-sounding and human-style content in seconds.\n\nUsage of AI Humanizer and Detector\nIf you struggle to humanize AI text using this free tool, follow the steps below:\nInstall the AI Text Humanizer app and open it up.\nOn the main page, you will see two options, AI Content Detector and AI Text Humanizer, along with recent files. Choose the Undetectable AI Text Humanizer since you want to humanize AI text.\nThere, you will see an input box where you have to paste the copied text (if you have) or upload the file you want to ",
+    "icon": "/icons/undetectable.ai.humanizer.png"
+  },
+  "com.insaengxsaju.saju_flutter_app": {
+    "title": "\uc778\uc0dd\u00d7\uc0ac\uc8fc - AI \uba85\ud488\uc0ac\uc8fc, \ub098\ub97c \uc774\ud574\ud558\ub294 \uc2dc\uac04",
+    "package": "com.insaengxsaju.saju_flutter_app",
+    "description": "Aren't you curious about the essence you have carried since birth?\n\nThe Will of Heaven, which scholars have studied for thousands of years.\n\nPerhaps we are already encountering that Will of Heaven in our lives.\n\nSaju Palja, Yin-Yang and the Five Elements, Naming, Byeong-O Year (Year of the Red Horse), and the Ganji Calendar.\n\nOur lives are already very closely connected to Saju Myeongnyeonghak (Korean Four Pillars of Destiny).\n\nAnd now, the time has come to understand its meaning.\n\nAt Insaeng x Saju, take the time to deeply understand Saju Myeongnyeonghak and your true essence together with a scholar.\n\n------------------------------------------------------------------------\n\nInsaeng x Saju is a Saju app that reinterprets traditional Korean Saju Myeongnyeonghak using modern AI technology.\n\n",
+    "icon": "/icons/com.insaengxsaju.saju_flutter_app.png"
+  },
+  "com.las.wedding.couple.editor": {
+    "title": "Wedding Dress AI Photo Editor",
+    "package": "com.las.wedding.couple.editor",
+    "description": "Turn your ordinary photos to beautiful wedding photos with our marriage photo editor app. Wedding Dress Photo Editor is an awesome wedding dresses pic editor for both \ud83e\udd7b\ud83e\udd35 Bride and Groom. It is the best dress changer app for all and you can find the latest collection of bridal wedding Dresses, Couple photo suits, Men suits, traditional sarees, formal suits and much more options for photo montage in wedding dress photo editor. This wedding dresses photo editor is best photo editing app for wedding couple with variety of royal dresses for bride & groom.\n\ud83d\udc92 Wedding is a special occasion for both; Bride and Groom. Try our traditional couple suit photo editor for wedding dresses to see your pre-wedding perfect married look at no cost \ud83c\udf89. Girls and Boys! see yourself in a Bridal/Groom attire and ha",
+    "icon": "/icons/com.las.wedding.couple.editor.png"
+  },
+  "com.plagiarism_checker.duplicate": {
+    "title": "Plagiarism Checker",
+    "package": "com.plagiarism_checker.duplicate",
+    "description": "Prepostseo Advanced Plagiarism Checker App \n\nPrepostseo plagiarism checker app can provide great help in avoiding duplication of the content easily and instantly. It supports and scans the docs, txt, and pdf files as well for detecting plagiarism. This plagiarism checker has all the nice features that any of the writers can ask for. All the writers must be assured about the originality and authenticity of their written content. It can be used by anyone, either it\u2019s a content writer, a teacher, a student, or maybe a blogger. \n\nHow to capture and scan text? \n\nPrepostseo plagiarism checker app has introduced the OCR technology to identify plagiarism in a document. It is the updated technology incorporated in this app that allows users to take photo of the document or text. It will read and up",
+    "icon": "/icons/com.plagiarism_checker.duplicate.png"
+  },
+  "com.mokimokiteam.roastmylife": {
+    "title": "Roast My Life: AI Photo Roast",
+    "package": "com.mokimokiteam.roastmylife",
+    "description": "Upload a selfie. Get destroyed by AI.\n\nRoast My Life uses Google Gemini AI to analyze your photo and deliver brutally honest, hilariously savage roasts tailored to your face. Choose your intensity, pick an AI personality, and brace yourself.\n\nNot feeling brave? Switch to Hug mode and let the AI shower you with genuine compliments instead. Or try Caricature mode and watch AI turn you into a cartoon masterpiece.\n\nTHREE MODES, ZERO MERCY\n\n\ud83d\udd25 ROAST MODE\nUpload your photo and get roasted by AI. Choose from Mild, Spicy, or Deadly intensity. The AI generates three roast variants (Savage, Constructive, Poetic) plus a Stupidity Score. If you dare, let the AI modify your photo to match the roast.\n\n\ud83e\udd17 HUG MODE\nFeeling down? Switch to Hug mode. The AI analyzes your photo and generates uplifting, heartfe",
+    "icon": "/icons/com.mokimokiteam.roastmylife.png"
+  },
+  "com.elsueno.hypnothera": {
+    "title": "Hypnothera: AI Self-Hypnosis",
+    "package": "com.elsueno.hypnothera",
+    "description": "Hypnothera AI - Personalized AI Hypnotherapy for Your Mind\nTransform your mental wellness with AI-powered hypnotherapy sessions designed specifically for you. Experience deep relaxation, break through barriers, and unlock your full potential\u2014all from the comfort of your home.\n\ud83c\udfaf WHY HYPNOTHERA?\nTruly Personalized - Every session is custom-crafted based on your unique goals, challenges, and progress. No generic recordings\u2014just hypnotherapy that adapts to YOU.\nAI-Powered Intelligence - Our advanced AI learns from your feedback and evolves your sessions over time, making each experience more effective than the last.\nClinical Expertise Meets Innovation - Professional hypnotherapy scripts enhanced by cutting-edge AI technology for maximum impact.\nNatural, Soothing Voice - Human-like narration cr",
+    "icon": "/icons/com.elsueno.hypnothera.png"
+  },
+  "com.komspek.battleme": {
+    "title": "Rap Fame - Rap Music Studio",
+    "package": "com.komspek.battleme",
+    "description": "Like hip-hop? Try being a Rapper yourself.\nRecord, Promo & Share tracks w. MILLIONS of fans on Rap Fame\n\u00a0\nPRO Music Recording Studio\nGet Audio & Vocal FX\nSound like a Pro on your phone with the latest Rap Studio.\nRappers use us to get signed by the World\u2019s Biggest Labels!!\n\nHip Hop Community\nCollab w. Star Rappers/ Spread Mixtapes/ Win Cash Prizes Rapping!\nRap Fame is a network where passionate Hip-Hop fans can connect and listen to authentic underground rap music.\nNow ft. revolutionary Judge Studio Sessions:\nRappers, it\u2019s time to get your tracks judged.\n\nSo you\u2019re a Beat Maker?\nIf you\u2019re a Beat Maker go upload custom beats!\nTry rapping over your custom beats with a subscription.\nIf you\u2019re a Pro Beat Maker, submit beats and you could make it to our official public beat library.\n\nDownload R",
+    "icon": "/icons/com.komspek.battleme.png"
+  },
+  "com.jurassiclab.omnioracle": {
+    "title": "AI Tarot, I-Ching & Rune",
+    "package": "com.jurassiclab.omnioracle",
+    "description": "Find your clarity in a noisy world.\n\nOmniOracle is a minimalist AI divination tool designed for the modern soul. We bridge four ancient traditions from East and West with cutting-edge AI to provide deep, personal insights for your life journey. This isn't just a fortune teller; it\u2019s a spiritual mirror powered by AI.\n\n\u3010Four Core Features\u3011\n\u2022 AI I-Ching (Yi Jing): Explore the 64 hexagrams with traditional digital coin tossing and deep wisdom.\n\u2022 AI Tarot: Detailed readings for love, career, and personal growth with empathetic AI.\n\u2022 Rune Whispers (Elder Futhark): Connect with ancient Norse energies for daily guidance and reflection.\n\u2022 Astrology & Horoscope: Insights into your traits and life rhythms through celestial paths.\n\n\u3010Why Choose OmniOracle?\u3011\n\u2022 Instant AI Insights: No long waits. Get the",
+    "icon": "/icons/com.jurassiclab.omnioracle.png"
+  },
+  "co.knecht.my_pet_logging_app": {
+    "title": "My Pet App for Health Tracking",
+    "package": "co.knecht.my_pet_logging_app",
+    "description": "\u25a0\u25a0\u25a0\nThe definitive pet health management app!\n\u25a0\u25a0\u25a0\n\nNo need for complicated settings!\nNo complicated settings! Simple and easy to use pet health management app.\n\n\n\u25a0\u25a0\u25a0\nRecommended for the following people\n\u25a0\u25a0\u25a0\n\nIt's too much trouble to write every single thing in a paper notebook every day.\nI want to automatically graph the numbers.\nI want to keep track of your pet's temperature, body fat, and blood pressure in addition to weight.\nI want to keep track of the nutritional balance of my pet's diet.\nI want to keep track of my pet's bowel movements.\nI want to keep track of my expenses for my pet.\nI want to attach a lot of pictures for the record.\nI want to record medication and small notes.\nI want to start using it for free.\nI want to share my pet's condition with the vet when I visit the hospital",
+    "icon": "/icons/co.knecht.my_pet_logging_app.png"
+  },
+  "com.ukassignment.desertation": {
+    "title": "Dissertation Writing Help",
+    "package": "com.ukassignment.desertation",
+    "description": "DissertationWritingHelp lets you have all the help you need on your palm. Whether you are commuting, relaxing, or sitting in your class our top-quality content services are now accessible from anywhere. The solution to your problems is just one click away. Get the best dissertation writing service on the go and make your life easy and relaxed. \n\n\u25cf\tCredible resources\n\u25cf\tAuthentic samples\n\u25cf\tExpert assistance\n\u25cf\tProfessional editing and proofreading help\n\u25cf\tProficiency in all referencing styles\n\u25cf\tStudy material made by subject experts\n\nAll this and much more in one place under one roof. Dissertation Writing Help lets you benefit in many ways, being jam-packed with resources you would never find anywhere else. Now your academic performance can reach its maximum potential and even reach a new pote",
+    "icon": "/icons/com.ukassignment.desertation.png"
+  },
+  "com.dmstudio.roast": {
+    "title": "Roast Me Gently",
+    "package": "com.dmstudio.roast",
+    "description": "Roast Me Gently is your go-to app for funny, light-hearted roasts that feel clever\u2014not cruel.\n\nWhether you want a playful jab, a confidence-boosting roast, or just a laugh after a long day, this app delivers smart humor with good vibes only.\n\u2728 Why you\u2019ll love it\n\ud83d\ude02 Gentle & witty roasts \u2014 humor without hurt\n\ud83c\udfad Different roast styles \u2014 playful, sarcastic, wholesome\n\ud83e\udde0 AI-powered creativity \u2014 every roast feels fresh\n\ud83d\udd12 Privacy-friendly \u2014 no unnecessary data storage\n\u26a1 Fast & simple \u2014 open the app, get roasted, smile\n\nPerfect for:\nLight self-roasting\nSharing laughs with friends\nMood-boosting humor\nPeople who love jokes but hate toxicity\nLaugh at yourself \u2014 kindly.\n\nSome features may require a subscription for unlimited access.\n\nRoast Me Gently keeps it funny, not mean.\n\nPrivacy & Permissions:\nCame",
+    "icon": "/icons/com.dmstudio.roast.png"
+  },
+  "com.positiva.breasttestapp": {
+    "title": "BREAST TEST",
+    "package": "com.positiva.breasttestapp",
+    "description": "Disclaimer\nfor the mobile application Breast Test, developed by Europa Donna Slovenia  \n\nThe Breast Test mobile application is intended exclusively for educational and informational purposes. The application is not a substitute for professional medical advice, diagnosis, or treatment.\n\nThe information provided in the application is general in nature. For any questions or concerns regarding your health condition, always consult your physician or another qualified healthcare professional, as treatment and management vary according to individual circumstances.\n\nThe content of the application is in no way intended to replace professional medical advice, diagnostic procedures, or treatment. Always seek the advice of your physician or another authorised healthcare provider if you have questions ",
+    "icon": "/icons/com.positiva.breasttestapp.png"
+  },
+  "com.menuscan.app": {
+    "title": "MenuScan - Restaurant Calories",
+    "package": "com.menuscan.app",
+    "description": "Scan Any Menu. Know Every Calorie.\n\nNever guess about restaurant nutrition again! MenuScan uses AI to instantly analyze any menu photo and reveal calories, macros, and nutrition facts for every dish.\n\nSnap & Know - Point, shoot, and get instant nutrition data\nComplete Macros - Calories, protein, carbs, fats, and more\nStay On Track - Keep your diet goals even when dining out\nLightning Fast - Results in seconds, no typing required\nAny Restaurant - Works on menus from fast food to fine dining\n\nPerfect for fitness enthusiasts, macro counters, and anyone who wants to make informed food choices without the guesswork. Whether you're cutting, bulking, or maintaining, MenuScan keeps you in control.\n\nDownload now and transform how you dine out!",
+    "icon": "/icons/com.menuscan.app.jpg"
+  },
+  "com.aescape.app": {
+    "title": "Aescape",
+    "package": "com.aescape.app",
+    "description": "Aescape is the world's most advanced massage, consistently exceptional, easily accessible, and fully customizable to your preferences.\n\nYour massage, your way, every time.\nAescape gives you the exact massage you want, because you control the experience. Choose from a diverse range of treatments tailored to your body, control target areas, pressure, intensity, and even select your preferred music, ensuring each session is the perfect massage for you, every time.\n\nBook any time. Enjoy every time.\nWith our on-demand booking app you can browse locations, check availability and choose your ideal massage duration from 15 - 120 mins. Personalized massage is always just a tap away.\n\n30 minutes of work, 60 minutes of impact.\nSynchronized dual arms deliver the benefits of a full 60-minute massage ex",
+    "icon": "/icons/com.aescape.app.jpg"
+  },
+  "com.tryperdiem.wh.pastadiguy": {
+    "title": "Pasta Di Guy",
+    "package": "com.tryperdiem.wh.pastadiguy",
+    "description": "Pasta Di Guy is a fast-casual made-to-order Italian-themed eatery. We specialize in made-from-scratch pasta dishes with a variety of fresh sauces and toppings.\nThe menu features a \u201ccreate your own\u201d pasta bowl so the possibilities are endless! Also on the menu are salads, desserts, and more.",
+    "icon": "/icons/com.tryperdiem.wh.pastadiguy.png"
+  },
+  "com.greemgames.spaghettibreak": {
+    "title": "Spaghetti Break",
+    "package": "com.greemgames.spaghettibreak",
+    "description": "Cut the endless spaghetti and see how fast you can be!\n\nsmash meatballs to get power ups!\n\nDo you have the skill to be a good player?",
+    "icon": "/icons/com.greemgames.spaghettibreak.png"
+  },
+  "com.osfapp.app": {
+    "title": "Old Spaghetti Factory",
+    "package": "com.osfapp.app",
+    "description": "The Old Spaghetti Factory app offers a new and convenient way to order pick-up or delivery. Plus, by downloading the app, you automatically join OSF Rewards where you can earn reward points (\u201cTrolley Tickets\u201d) for every purchase and redeem them for discounts and free food. Yum!\n\nABOUT OSF REWARDS THROUGH THE APP:\n\n-  OSF Rewards members can earn Trolley Tickets with purchases that can be redeemed for rewards.\n-  When dining in-store, users can use their app to scan the bottom of their receipt to earn Trolley Tickets. \n-  Redeem Trolley Tickets for food and more in the app!\n-  Enjoy surprise offers personalized to you.\n-  Be the first to know about new menu items.\n-  Get bonus in-app only offers throughout the year. \n-  Enjoy exclusive birthday offers. \n\nAPP FEATURES:\n\n-  Enjoy easy and fas",
+    "icon": "/icons/com.osfapp.app.png"
+  },
+  "com.soulmate.sketch": {
+    "title": "Soulmate Ai",
+    "package": "com.soulmate.sketch",
+    "description": "Soulmate Ai\u2013 Discover What Your Soulmate Looks Like\n\nEver wondered who your true soulmate really is? With Soulmate Ai you can finally find out \u2014 through a personalized drawing created just for you.\n\nSimply answer a few fun, revealing questions, and our magical AI-assisted process transforms your answers into a custom soulmate sketch. Whether you\u2019re manifesting love, curious about your destiny, or just looking for a fun surprise, Hint Soulmate lets you see your soulmate drawn before your eyes.",
+    "icon": "/icons/com.soulmate.sketch.png"
+  },
+  "com.ForkRanger": {
+    "title": "Fork Ranger - sustainable food",
+    "package": "com.ForkRanger",
+    "description": "Fork Ranger helps you answer two tricky questions:\n\u2018What can I do about climate change?\u2019 & \u2018What\u2019s for dinner?\u2019\n\nWHAT YOU GET:\n- One story a day about sustainable food\n- Infographics about the food system\n- Easy, vegetarian recipes\n\nUSE THIS APP FOR:\n- Eating more plant-based & seasonal\n- Understanding how to eat sustainably\n- Discovering new recipes\n\nOur recipes are super easy and have lots of veggies. They don\u2019t include complicated ingredients and we always add a source of protein.\n\nFor more information, visit www.forkranger.com",
+    "icon": "/icons/com.ForkRanger.webp"
+  },
+  "com.taiga.mylogger": {
+    "title": "MyLogger",
+    "package": "com.taiga.mylogger",
+    "description": "MyLogger application deal with TaigaIoT logger line devices. Make shipment and receive it, collect logging data and send it to WEB platforms over MQTT or/and HTTPS. Create summary extraction with logging data into PDF - useful in case when WEB platform is absent. We made all for pleasure using our logger line devices in every cases with shipment",
+    "icon": "/icons/com.taiga.mylogger.png"
+  },
+  "com.wellnessfoundry.meallogger.android": {
+    "title": "MealLogger-Photo Food Journal",
+    "package": "com.wellnessfoundry.meallogger.android",
+    "description": "MealLogger, the fast photo food journal, is the easy way to keep track of your healthy eating and wellness goals.  Now faster and with more ways to help you stay on track.\n\nOn a diet? Suffering food allergies? Managing your weight? With MealLogger you can simply photograph your food intake, add a bit of text and nutrient information if you choose, and you\u00edre done.  And, if you work with a health professional, MealLogger allows you to connect directly to your dietitian, nutritionist, fitness trainer, etc for feedback, advice, and support on your mobile device. \n\nYou can get great social and one-on-one support from MealLogger, but now you can also join custom Nutrition Programs. Track your daily servings of food categories: Meats, Grains, Fish, Legumes, Vegetables, Supplements, Fruits, and m",
+    "icon": "/icons/com.wellnessfoundry.meallogger.android.png"
+  },
+  "com.tff.escape.vlogger.runway.game": {
+    "title": "Escape from Vlogger Scary Game",
+    "package": "com.tff.escape.vlogger.runway.game",
+    "description": "Escape from Vlogger Scary Game is a thrilling mix of survival horror, stealth gameplay, and puzzle-solving adventure. In this intense experience, you play as a curious explorer who enters the house of a mysterious content creator, only to realize it has become a dangerous trap. Now your mission is clear: escape from vlogger, survive the nightmare, and uncover hidden secrets.\n\nAs you progress through the game, you\u2019ll explore dark rooms, unlock doors, collect useful items, and solve clever puzzles. Each area is designed like an escape challenge, filled with hidden paths, locked compartments, and tricky obstacles that require focus and strategy.\n\nBut you are not alone. The homeowner is always watching. In this vlogger runaway horror game, every sound you make matters. Use stealth to your adva",
+    "icon": "/icons/com.tff.escape.vlogger.runway.game.png"
+  },
+  "com.SpaghettiHouse.EscapeFromBlogger": {
+    "title": "Escape from Vlogger: Runaway",
+    "package": "com.SpaghettiHouse.EscapeFromBlogger",
+    "description": "Escape from Vlogger: Runaway is an atmospheric and intense survival horror game with elements of adventure action, stealth, and puzzle quests. The story follows a curious protagonist who sneaks into the home of a famous vlogger to uncover his secrets and discover the truth behind his public image. But soon the hero realizes that this place is a real trap. The doors slam shut, and your only goal becomes escaping from a house filled with dangerous mysteries and the bizarre behavior of its owner.\n\nYou will explore dark rooms, find useful items, unlock doors, interact with strange mechanisms, and solve a wide variety of logical puzzles. Each room works as its own escape-room challenge, requiring attentiveness, creativity, and patience. Levels include hidden passages, secret compartments, traps",
+    "icon": "/icons/com.SpaghettiHouse.EscapeFromBlogger.png"
+  },
+  "com.dora.facemashup.facepuzzle.challenge": {
+    "title": "Lip Falling: Funny Face Filter",
+    "package": "com.dora.facemashup.facepuzzle.challenge",
+    "description": "\ud83d\udc8b Lip Falling: Funny Face Filter turns your face into a hilarious, interactive game with viral funny filters, lip fall challenges, and chaotic face mashup effects you can\u2019t stop laughing at!\n\nFrom catching falling lips to rebuilding your face, zooming features, and even discovering where your lips come from, every filter is designed to create LOL moments and viral videos for TikTok, Instagram, and Shorts.\n\n\ud83d\ude02 Lip Falling Challenge - Catch the Lips!\nYour lips detach\u2026 and start falling from the sky \ud83d\ude31 Can you catch them before they disappear? With addictive lip falling challenge gameplay, the challenge will test your reflexes and reaction speed. Faster rounds = harder & funnier. Have fun with one of the most viral funny face filters\n\n\ud83e\udde9 Funny Face Mashup Filter\nYour face\u2026 but scrambled. Eyes, n",
+    "icon": "/icons/com.dora.facemashup.facepuzzle.challenge.png"
+  },
+  "com.redvpn.android": {
+    "title": "RedVPN - Fast & Secure VPN",
+    "package": "com.redvpn.android",
+    "description": "Red VPN is your ultimate privacy tool designed to provide fast, secure, and unrestricted access to the internet, no matter where you are in the world. Whether you\u2019re looking to browse safely on public Wi-Fi, access geographically restricted content, or maintain privacy from prying eyes, RedVPN has you covered.\n\nStay Safe on Public Wi-Fi\nPublic Wi-Fi networks can be a hacker's playground. RedVPN protects your data when connected to public hotspots, preventing theft of sensitive information like passwords, credit card details, and private communications.\n\nSecure Your Online Transactions\nWhen shopping or banking online, RedVPN provides a secure tunnel for your financial information, ensuring your sensitive data remains private and out of the hands of cybercriminals.\n\n\nWhy Choose RedVPN?\nCompl",
+    "icon": "/icons/com.redvpn.android.webp"
+  },
+  "com.mm.mapcompass": {
+    "title": "MapCompass: Feng Shui GPSGuide",
+    "package": "com.mm.mapcompass",
+    "description": "Compass & Feng Shui Master is your all-in-one navigation and lifestyle tool combining precise compass direction, real-time GPS positioning, air pressure, magnetic field readings, and traditional Feng Shui LuoPan. Whether you're navigating through the outdoors or seeking daily luck and harmony, this app is designed to guide your way.\n\n\ud83d\udd0d Key Features:\n\ud83e\udded Compass Direction\n\nAccurate directional compass (degrees + cardinal points)\n\nReal-time air pressure, altitude, and magnetic field display\n\nIdeal for travel, hiking, and daily orientation\n\n\ud83e\uddff Feng Shui LuoPan\n\nTraditional Chinese Feng Shui compass\n\nIndicates directions for Wealth God, Blessing God, and Joy God\n\nHelps you attract good fortune and choose auspicious locations\n\n\ud83d\udccd Precise GPS Positioning\n\nLive GPS coordinates (latitude & longitude)\n",
+    "icon": "/icons/com.mm.mapcompass.png"
+  },
+  "com.opticstrainer.botoxplanner": {
+    "title": "Face Injection Planner",
+    "package": "com.opticstrainer.botoxplanner",
+    "description": "A quick and easy way to plan your facial injection treatment!\n\n- Drag and drop interface for deep/superficial injections\n- Use our template male/female faces or take your own photo with the front/back facing camera!\n- Save, edit, duplicate plots for multiple users",
+    "icon": "/icons/com.opticstrainer.botoxplanner.png"
+  },
+  "com.wedbox.planning": {
+    "title": "Wedding Planner by Wedsly",
+    "package": "com.wedbox.planning",
+    "description": "Wedsly's Wedding Planner app is your free, no-ads solution for more efficient wedding planning anytime, anywhere. And if you are a guest, then the guest view of this app is where you will find all the info you need to make this wedding the best one yet!  \n\nWEDSLY HIGHLIGHTS \ud83c\udf1f\n\nWEDDING PLANNING VIEW \u2705\n\u2714\ufe0f Completely free with no ads\n\u2714\ufe0f Easy-to-use checklist to kickstart your wedding planning straight away\n\u2714\ufe0f Categorisation and sorting of your checklist\n\u2714\ufe0f Collaborate with your partner or wedding planner\n\u2714\ufe0f Create and manage your guest list\n\u2714\ufe0f Real-time tracking of RSVPs\n\u2714\ufe0f Spending tracking in the budget tool\n\u2714\ufe0f Personalise your gift list into the ultimate wedding registry\n\nGUEST VIEW \ud83e\udd0d\n\u2714\ufe0f Completely free with no ads\n\u2714\ufe0f Access all wedding details\n\u2714\ufe0f Add your contact details to the guest list",
+    "icon": "/icons/com.wedbox.planning.png"
+  },
+  "com.gamefirst.religioninc": {
+    "title": "Religion Inc. God Simulator",
+    "package": "com.gamefirst.religioninc",
+    "description": "Sandbox Casual Strategy about Gods, Civilisations and Religions!\n\n\ud83d\ude07 Ready to become a source of faith?  \nInstall Religion Inc. \u2014 a strategic religion creation simulator where your choices shape history! \ud83d\ude4f\n\n\ud83d\udcd6 You're not reading this by accident! Are you searching for a game \u2014 or has the game found you?  \nReligion Inc. is more than just a strategy game. It\u2019s a simulator for creating a new reality. Build your unique religion by choosing an archetype: monotheism, shamanism, pantheon, spiritualism, paganism, and many more.\n\n\u2728 Humanity has always sought light in the darkness, and now that light is in your hands.  \nBuild faith from scratch, unlock cultural values, unite followers, discover unique aspects and abilities, and change the world! \ud83d\udd4a\ufe0f\n\nFeatures of the premium version:  \n\u2022 All archetypes ",
+    "icon": "/icons/com.gamefirst.religioninc.jpg"
+  },
+  "com.h2play.canvas_magic": {
+    "title": "Mind Reading Magic Trick",
+    "package": "com.h2play.canvas_magic",
+    "description": "Canvas Trick is a magic app that anyone can easily learn, from beginners to pros. This app uses drawing on a canvas to perform magic tricks and is designed to allow you to create unique magic tricks with your own ideas.\n\nFor example, let's say you ask people to think of something and then draw a picture on the canvas. You then lock the screen so that no one can see the picture. Finally, when you reveal the picture and talk about what people were thinking, it appears on the canvas - this is the magic of the app! Furthermore, this app provides various functions that allow you to perform a wide variety of magic tricks, not just drawing on the canvas.\n\nAnother advantage of Canvas Trick is that it is easy for anyone to learn. Even though there are some difficult magic tricks, there are many tha",
+    "icon": "/icons/com.h2play.canvas_magic.png"
+  },
+  "com.play.house.role": {
+    "title": "Playhouse AI: Photo to Video",
+    "package": "com.play.house.role",
+    "description": "Powered by advanced AI technology, Playhouse.AI offers an immersive platform for AI-driven roleplay experiences. Through intuitive text-based interactions, users can build deep and authentic connections with highly responsive AI characters.\n\nIn this update, we\u2019ve added the new \"Image-to-Video Generation\" feature. Now, you can easily turn your images into dynamic videos within the app, adding more visual expression to your AI chats and interactions. Whether you want to enrich your roleplay stories or bring more energy to your conversations, this feature brings new possibilities to your experience.",
+    "icon": "/icons/com.play.house.role.png"
+  },
+  "com.cinfer.horoscope_app": {
+    "title": "Helia - Horoscope & Astrology",
+    "package": "com.cinfer.horoscope_app",
+    "description": "Your daily, free and accurate horoscope and tarot reading.\n\nAstrology is ancient knowledge about the stars. Horoscopes use your zodiac sign to interpret your possible paths in life. Tarot uses a carefully crafted card deck to predict your future with Tarot Readings.\n\nWhether it's love, career, family or health, we have the horoscope for you. Find out what your zodiac sign says about you today.\n\nThis app contains daily horoscopes, weekly and monthly horoscopes, love, career and health horoscopes for each of the 12 zodiac signs (Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces). Each horoscope is updated daily for free with new astro knowledge.\n\nThis app is designed to bring more happiness to us humans. Please enjoy it!\n\nHere is the horoscop",
+    "icon": "/icons/com.cinfer.horoscope_app.png"
+  },
+  "aura.fonco.cleaner": {
+    "title": "Aura Cleaner",
+    "package": "aura.fonco.cleaner",
+    "description": "Aura Cleaner is a junk file management tool that manages and removes files that have been unused in the system for an extended period.\n\nPrivacy Policy: https://sztreasure.com/privacy.html\n\nContact Us:  hujianfug@gmail.com",
+    "icon": "/icons/aura.fonco.cleaner.png"
+  },
+  "com.ahmdstd.firevpn": {
+    "title": "Fire VPN - Vpn Proxy Browser",
+    "package": "com.ahmdstd.firevpn",
+    "description": "Fire VPN Proxy Browser, trusted and favoured by 10,000,00+ users, is a 100% free VPN for Android users worldwide. \n \nIt is the best unlimited free, fast and secure VPN to watch streaming videos, live sports matches, or movies, accelerate game, secure WiFi hotspot and browse privately & anonymously. Install Fire VPN Proxy get the following features:\n\n\u2705 Unlimited free Fire VPN service - VPN Proxy Browser provides unlimited free VPN service. You could enjoy the free VPN proxy servers anytime and anywhere! \n\n\u2705 Unlimited access, worldwide 60+ fast proxy servers - VPN Proxy Browser provides unlimited free and secure VPN free proxy servers for you to bypass regional blocked websites/ videos/ apps/ game/ players/ network firewalls to access any content at super fast speed. - You can easily connect",
+    "icon": "/icons/com.ahmdstd.firevpn.png"
+  },
+  "com.app.vpn.vpninuae": {
+    "title": "Mena VPN: UAE, KSA, Oman",
+    "package": "com.app.vpn.vpninuae",
+    "description": "MenaVPN \u2013 Best VPN for UAE, KSA, Qatar & the Middle East\nProtect your online privacy with MenaVPN, the ultimate VPN for secure and unrestricted internet access in UAE, Saudi Arabia (KSA), Qatar, Oman, Bahrain, Kuwait, Egypt, and the entire Middle East. Stay private, anonymous, and safe while browsing with our military-grade encryption and strict no-logs policy.\n\nWhy Choose MenaVPN?\n\n\ud83d\udd39 Advanced Encryption \u2013 Keep your data secure with cutting-edge encryption technology.\n\ud83d\udd39 Fast & Stable Servers \u2013 Enjoy high-speed VPN connections in UAE, KSA, Qatar, Bahrain & more.\n\ud83d\udd39 One-Tap Connect \u2013 Connect instantly and browse safely with a single tap.\n\ud83d\udd39 No Logs, No Worries \u2013 We never track or store your browsing history.\n\ud83d\udd39 Unblock Content \u2013 Access your favorite websites and streaming platforms in UAE, Saud",
+    "icon": "/icons/com.app.vpn.vpninuae.png"
+  },
+  "com.quickbeevpn.app": {
+    "title": "QuickBee VPN - Fast, Secure",
+    "package": "com.quickbeevpn.app",
+    "description": "\ud83d\ude80 Quickbee VPN: The Ultimate Global Connection Expert for Speed, Privacy, and Value\nQuickbee VPN is dedicated to providing you with \"one-click connection, ultra-fast bypass,\" with simpler operations than Clash or V2Ray, offering a professional network acceleration tool. We use our self-developed encryption protocol, so no matter where you are, you can easily access the internet and enjoy truly free and secure browsing.\n\nWhy choose Quickbee VPN?\n\u26a1\ufe0f Ultra-fast and stable, say goodbye to lag: With our independently developed protocol, we prioritize connection stability. Just like the \"Quickbee,\" it connects swiftly with one click\u2014whether for work, study, entertainment, or game acceleration, you\u2019ll experience seamless performance.\n\n\ud83d\udee1 Privacy first, zero-log policy: We strictly adhere to a zero",
+    "icon": "/icons/com.quickbeevpn.app.png"
+  },
+  "com.atermel.hairlog": {
+    "title": "HairLog \u2013 Hair Log & Reminder",
+    "package": "com.atermel.hairlog",
+    "description": "HairLog \u2013 Track Your Hair styling/care Sessions Easily!\n\nMulti-language support: English, Spanish, Korean, and Japanese, Simplified Chinese, and Traditional Chinese.\n\nHairLog helps you quickly and securely track your self-haircuts (Self-cut) at home, salon haircuts, coloring, and hair treatments like clinic sessions. Stay on top of your hair routine and never miss your next appointment!\n\nKey Features:\n\nSelf-Cut & Salon Hair styling/care Tracking: Log the date and details of every haircare session, including home cuts, salon visits, coloring, and clinic treatments.\n\nReminders: Get notifications to track how many days have passed since your last haircut, coloring, or hair treatment.\n\nLocal Storage: All data is safely stored on your device. No account or server required.\n\nSimple and Intuitive",
+    "icon": "/icons/com.atermel.hairlog.png"
+  },
+  "com.mdtech.crystal.identifier.android": {
+    "title": "Crystal Identifier",
+    "package": "com.mdtech.crystal.identifier.android",
+    "description": "Explore the magical world of crystals with Crystal Identifier \u2013 your AI-powered crystal recognition and learning companion!\n\nWhether you\u2019re a collector, healer, geology lover, or simply curious, Crystal Identifier helps you instantly identify crystals and gemstones, uncover their properties, and learn their meanings \u2014 all from a single photo.\n\nKey Features\n1. Instant Crystal Identification (Premium Feature) \u2013 Snap or upload a photo, and our advanced AI instantly identifies the crystal with impressive accuracy.\n2. Extensive Crystal Database \u2013 Explore a vast library of raw and polished crystals including Amethyst, Clear Quartz, Citrine, Rose Quartz, Obsidian, Jade, Tiger\u2019s Eye, Selenite, Agate, and many more.\n3. AI-Powered Insights (Premium Feature) \u2013 Learn about each crystal\u2019s mineral compo",
+    "icon": "/icons/com.mdtech.crystal.identifier.android.png"
+  },
+  "com.soulmate.ai": {
+    "title": "Soulmate AI: Your best self",
+    "package": "com.soulmate.ai",
+    "description": "SOULMATE AI: YOUR BEST SELF\n\nLooking for calm, clarity, or the boost to achieve your goals?\n\nSoulmate AI is your personal space for support and growth. Find accompaniment through specialized profiles designed to listen to you and provide practical tools based on what you need at each moment.\n\nCHOOSE THE PROFILE THAT BEST ACCOMPANIES YOU:\n\n\ud83e\udde0 Mariana (Well-being): Science and psychology to manage stress and make good things happen.\n\u2694\ufe0f Marco (Stoic Strength): Practical wisdom to master your reactions and find peace in adversity.\n\ud83d\ude80 Leo (Habits): Based on Atomic Habits. Focus on improving 1% every day with real systems.\n\ud83d\ude4f Mateo (Biblical Guide): Verses applied to your daily life to find direction and hope.\n\ud83e\udd1d Sofia (Empathetic Listening): Your safe space to vent and feel understood without judgm",
+    "icon": "/icons/com.soulmate.ai.png"
+  },
+  "com.zaheer.animalcycletracker": {
+    "title": "Animal Breeding, Birth Manager",
+    "package": "com.zaheer.animalcycletracker",
+    "description": "Manage gestation cycles and complete animal lifecycles with ease! Whether you care for cows, goats, sheep, rabbits, horses, camels, dogs, or cats, this powerful animal breeding and livestock management app helps you stay organized and in control.\n\nAdd unlimited animals, track gestation periods, monitor lifecycle events, manage animal health records, and track farm income & expenses \u2014 all in one complete animal management system.\n\n\ud83d\udccc Key features:\n\nGestation Tracking: Monitor breeding dates, pregnancy timelines, and lifecycle milestones for 30+ animals with accurate gestation tracking and smart reminders.\n\nCustomizable Entries: Add new animals, define unique gestation periods, and create personalized breeding records.\n\nFamily Management: Track parentage, offspring, family tree, and breed his",
+    "icon": "/icons/com.zaheer.animalcycletracker.jpg"
+  },
+  "com.toontech.coloranalysis": {
+    "title": "VividMe: AI Color Analysis",
+    "package": "com.toontech.coloranalysis",
+    "description": "Welcome to VividMe: AI Color Analysis. Are you wondering which colors suit you best? Our advanced AI skin tone detector scans your face to reveal your perfect seasonal color palette. Let the AI find your best colors for outfits, hair, and style. Plus, use our virtual try-on to find makeup that matches you flawlessly!\n\nDiscover your true beauty and style with AI Color Analysis, the all-in-one AI beauty and fashion assistant that helps you look radiant in every shade and outfit.\nUpload a selfie or photo, and our smart AI reveals your best colors, makeup shades, hairstyles, and wardrobe choices \u2014 all tailored to your unique skin tone and style.\n\n\ud83d\udc8e Face & Skin Color Analysis\n\nTake or upload a clear selfie and let the AI analyze your skin tone, undertone, face shape, and contrast level.\nInstant",
+    "icon": "/icons/com.toontech.coloranalysis.png"
+  },
+  "com.tamizhapps.fengshuicompass": {
+    "title": "Feng Shui Compass by Age",
+    "package": "com.tamizhapps.fengshuicompass",
+    "description": "Discover your personal lucky feng shui directions with this elegant compass app. Based on the ancient Eight Mansions system, the app calculates your Kua number from your birth year and shows which compass directions bring prosperity, health, love, and stability into your life.\n\nREAL-TIME FENG SHUI COMPASS\nUse your phone's magnetic sensor to view a precise digital compass overlaid with your personal auspicious and inauspicious directions. The compass auto-rotates smoothly and shows all eight feng shui sectors color-coded for your Kua number. Lock the compass at any position and save a screenshot to review later.\n\nKUA NUMBER CALCULATOR\nEnter your birth year and gender to instantly calculate your personal Kua number. Learn whether you belong to the East or West group, discover your trigram an",
+    "icon": "/icons/com.tamizhapps.fengshuicompass.png"
+  },
+  "com.deb.pubglite.vpn": {
+    "title": "ExVPN: VPN Epik battle royale",
+    "package": "com.deb.pubglite.vpn",
+    "description": "We are at your service with an ad-free vpn that you can use completely free of charge.\n\nWith all your privacy settings, you will be able to access the Internet from anywhere.\n\nProperties:\n- It's completely free.\n- Unlimited access\n- Remove obstacles\n- easy to use\n\nthis application is suitable for use in countries that block Through this application you can play the game safely and safely with low \"ping\". All you have to do is download the application and give the required permissions to activate the game after playing with vpn\n\nA VPN , or Virtual Private Network, permits you to make a safe association with another system over the Internet. VPNs can be utilized to get to district confined sites, shield your perusing action from prying eyes on open Wi-Fi, and then some.\n\nNowadays VPNs are ex",
+    "icon": "/icons/com.deb.pubglite.vpn.png"
+  },
+  "com.exir.vpn": {
+    "title": "Exir VPN \u2013 Private & Fast VPN",
+    "package": "com.exir.vpn",
+    "description": "\ud83d\udd12 Exir VPN \u2013 Fast & Secure VPN for Android\nExir VPN delivers blazing-fast and secure VPN service to protect your privacy online. With one tap, connect to global servers, stream content, and browse anonymously \u2014 all with no logs and full speed. \ud83c\udf0d\u26a1\n\n\u2728 Top Features:\n\n\ud83d\udd11 One-Tap Connection \u2013 Instantly connect to secure VPN servers with a single tap.\n\u23f8\ufe0f Quick Stop & Restart \u2013 Gain total control over your connection in real-time.\n\ud83d\udcfa Stream Mode \u2013 Watch your favorite content without buffering using optimized servers.\n\ud83c\udfae Game Mode \u2013 Enjoy low-latency and stable gaming performance.\n\ud83c\udf0d Worldwide Server Selection \u2013 Choose from multiple countries for open internet access.\n\ud83d\udcca Live Ping Display \u2013 Connect to the fastest server based on real-time ping.\n\ud83d\udd10 Stable Long-Term Connections \u2013 Stay protected without su",
+    "icon": "/icons/com.exir.vpn.png"
+  },
+  "fr.obione.cownotes": {
+    "title": "COW-Notes",
+    "package": "fr.obione.cownotes",
+    "description": "COW notes is an application of diagnosis and monitoring which allows to assess exactly and easily, in few minutes, the main risk factors of metabolic disorders and comfort in breeding.\u00a0\nThere are risk factors, expressed by animals, concerning mastitis, lameness, energy deficit, reproduction and production disorders which are explored. Less than 15 minutes are necessary to assess 20% of the herd, this constitutes a representative sample.\n\nCOW notes allows for the assessment of\u00a0: \n-     Body Condition Score (BCS), \n-     Cleanliness Score, \n-     Rumen Fill Score (RFS), \n-     Back-leg angulation,\n-     Gait Score and\n-     Hock Lesion\n\nBased on the published interpretation grids, COW notes works on the comparison between the proposed photos by the software and what the user sees in the asse",
+    "icon": "/icons/fr.obione.cownotes.png"
+  },
+  "plagiarism.checker.remover": {
+    "title": "Plagiarism Checker and Remover",
+    "package": "plagiarism.checker.remover",
+    "description": "Stop worrying about plagiarism! Our plagiarism checker and remover app scans your document for copied text and then rewrite sentences app it to make it unique!\n\nHow to Use Our AI plagiarism remover?\n- Launch the anti plagiarism and rewording app upload your document.\n- Click on the \u201cCheck and Remove Plagiarism\u201d button and our anti plagiarism checker app with percentage will process, analyze, and rewrite sentences app your content to make it plagiarism free.\nKey Features of ai plagiarism checker and plagiarism detector\n\nUser-Friendly Interface:\nOur plagiarism checker and remover app is designed to be intuitive. It\u2019s easy to use; simply open the duplichecker plagiarism app, upload your document, and receive the output in seconds.\n\nAI plagiarism remover:\nIn addition to spotting plagiarism, ou",
+    "icon": "/icons/plagiarism.checker.remover.png"
+  },
+  "com.fedosov.mindtracker": {
+    "title": "Mind Tracker",
+    "package": "com.fedosov.mindtracker",
+    "description": "Our goal is to make mental health care easier and more accessible.\nWhat can Mind Tracker do? With its help you can: \n\n\u2022 Track Your Mood\nRate your mood at night, morning, afternoon, and evening using various parameters like energy level, mood, stress, and more. Use customizable emojis to mark different emotions you experience.\n\n\u2022 Leave Notes\nWrite about anything you want to share in the free text field, and attach photos if necessary. The smart notes feature suggests topics for reflection.\n\n\u2022 Add Events\nRecord activities you did: a walk with friends, a workout, a long nap, a delicious meal \u2014 whatever you find important.\n\n\u2022 Get Statistics\nAnalyze your state based on statistics: what events often accompanied a good mood? What affects your stress levels? Identify patterns in your state, use ca",
+    "icon": "/icons/com.fedosov.mindtracker.png"
+  },
+  "com.essadeq.chemistry.organic": {
+    "title": "Organic Chemistry",
+    "package": "com.essadeq.chemistry.organic",
+    "description": "Welcome to Organic Chemistry.\nThe ultimate Application for Organic Chemistry.\nIt contains many courses & exercises with their solutions.",
+    "icon": "/icons/com.essadeq.chemistry.organic.png"
+  },
+  "com.realbodywork.horseanatomy": {
+    "title": "Horse Anatomy: Equine 3D",
+    "package": "com.realbodywork.horseanatomy",
+    "description": "Explore the anatomy of the horse in 3D space. Each structure is clearly labeled, with a close-up view, commentary and audio pronunciation. Easily cut down through the layers, or rotate the horse and zoom in to see different views. This app covers superficial landmarks, most muscles, the bones, and the organs. Now the app includes the hoof, head an reproductive 3d models as well as the full horse. The quiz function covers over 300 structures. Quiz yourself on each section, make your own quiz, or have the app quiz you on just what you missed. If you want to understand equine anatomy, this app is for you.",
+    "icon": "/icons/com.realbodywork.horseanatomy.png"
+  },
+  "zanojmobiapps.organicchemistrybasics": {
+    "title": "Organic Chemistry Basics",
+    "package": "zanojmobiapps.organicchemistrybasics",
+    "description": "Organic Chemistry Basics helps students learn important organic chemistry concepts with simple explanations, images, reactions, and mechanisms.\n\nLearn the basics of organic chemistry step by step, including IUPAC nomenclature, isomerism, common organic reactions, and reaction mechanisms.\n\nKey topics included:\n\n\u2714 IUPAC Nomenclature\nLearn how to name organic compounds using clear step-by-step explanations.\n\n\u2714 Isomerism\nUnderstand different types of isomerism with simple examples and diagrams.\n\n\u2714 Organic Chemistry Reactions\nStudy 70+ reactions from important categories, including:\n\n- Alkanes\n- Alkenes\n- Alkynes\n- Alkyl halides\n- Alcohols\n- Aldehydes and ketones\n- Carboxylic acids\n- Esters\n- Amides\n- Benzene\n- Phenol\n- Diazonium salts\n\n\u2714 Reaction Mechanisms\nLearn selected organic chemistry mec",
+    "icon": "/icons/zanojmobiapps.organicchemistrybasics.png"
+  },
+  "com.simpleCompany.horoscope": {
+    "title": "Love Zodiac: Compatibility AI",
+    "package": "com.simpleCompany.horoscope",
+    "description": "How do the stars influence your relationship?\n\nImagine you've met someone, and everything feels mysterious. Can the horoscope tell if you have a future together? Our app is a simple and fast assistant for those who want to check zodiac compatibility in love without complex calculations or vague phrases.\n\nHow it works:\n1. Select the woman's zodiac sign.\n2. Select the man's zodiac sign.\n3. Tap \"Check Compatibility\".\n\nIn seconds, you get two main results:\n- A numeric score (compatibility percentage).\n- A text description \u2014 a specific forecast for your couple: strengths, growth areas, and overall potential in love.\n\nWhy this is useful:\n- No astrological complexity required. You don't need to know birth charts or houses. Just your sun sign.\n- An honest result. The app won't say \"you are perfect",
+    "icon": "/icons/com.simpleCompany.horoscope.png"
+  },
+  "com.exciting.clapbackai.clapbackai": {
+    "title": "Roast App - AI Roast -ClapBack",
+    "package": "com.exciting.clapbackai.clapbackai",
+    "description": "\u25b6 What is our app?\nClapBack AI is your ultimate savage roast battle and gossip companion. Built for stress relief and savage entertainment, it lets you battle AI characters in ruthless roast fights, or gossip and talk trash together about someone who annoys you. Whether you want to practice savage comebacks or just release stress by insulting that annoying boss (without getting fired), ClapBack AI turns your words into weapons.\n\nWith ClapBack AI, you can boost your confidence, sharpen your wit, and have fun unleashing savage burns in a safe space.\n\n\u25b6 Key Features\n1. AI Roast Battle (VS Mode)\nEnter savage VS battles against AI characters who insult and attack you back with ruthless comebacks. Choose your opponent\u2019s age, job, relationship, and personality to customize the battle. Experience ",
+    "icon": "/icons/com.exciting.clapbackai.clapbackai.png"
+  },
+  "com.dogtranslator.training.simulator.humantodog": {
+    "title": "Dog Translator - Human to Dog",
+    "package": "com.dogtranslator.training.simulator.humantodog",
+    "description": "Dog Translator - Human to Dog is a fun and interactive app that lets you simulate communication with your dog! Whether you're curious about how your dog might respond to certain sounds, or you just want to entertain your friends and family, this app is the perfect tool for every dog lover.\n\n\ud83d\udc15 Key Features:\n\u2022 Fun sound effects like \u201cAgree\u201d, \u201cCry\u201d, \u201cBeg\u201d, and \u201cAngry\u201d\n\u2022 Simulate dog reactions with a playful interface\n\u2022 Simple and easy-to-use design\n\u2022 Entertain your pets and friends\n\u2022 Includes clicker, whistle, and basic dog training tools\n\n\ud83c\udfae How to Use:\n1. Choose a dog mood or action (e.g., \u201cCry\u201d or \u201cAgree\u201d).\n2. Tap the button and play the sound.\n3. Watch your dog\u2019s adorable reactions!\n\n\ud83d\udce2 Note:\nThis app is intended for entertainment purposes only. It does not provide real-time translation or ",
+    "icon": "/icons/com.dogtranslator.training.simulator.humantodog.png"
+  },
+  "zen.jiao.breastreductionguide": {
+    "title": "Breast Reduction Guide",
+    "package": "zen.jiao.breastreductionguide",
+    "description": "Breast Reduction Guide is an essential resource for those seeking relief from the pain and discomfort of large breasts. With detailed information on breast reduction surgery, non-surgical options, recovery tips, and lifestyle changes, this app provides a comprehensive roadmap to a lighter, more comfortable you.\n\nOur app offers step-by-step guidance on the breast reduction process, including the consultation, pre-operative planning, surgery, and post-operative care. You can also learn about alternative treatments such as physical therapy, exercise, and supportive garments.\n\nIn addition to practical advice, Breast Reduction Guide also covers the emotional aspects of undergoing breast reduction surgery, including body image issues and self-esteem. Our app provides helpful tips on coping with ",
+    "icon": "/icons/zen.jiao.breastreductionguide.png"
+  },
+  "com.radiojavan.androidradio": {
+    "title": "Radio Javan",
+    "package": "com.radiojavan.androidradio",
+    "description": "Radio Javan is the #1 streaming platform for Persian music and entertainment.\n\nDiscover the newest releases, exclusive content, curated playlists, DJ mixes, and music videos from the biggest Persian artists, all in one elegant and modern app.\nWhether you are into Persian pop, Iranian rap and hip hop, electronic, dance, traditional, or the latest underground talent, Radio Javan delivers a premium listening and viewing experience built for fans around the world.\n\nEverything You Love, All in One Place\n\n\u2022 New Persian Music Released First\u2028.\nStream the latest singles, albums, and EPs from top Iranian and Persian artists, often exclusively on Radio Javan. Stay ahead with trending tracks, new releases, and weekly hits.\n\n\u2022 Curated Playlists for Every Mood.\nExplore expertly crafted playlists and mix",
+    "icon": "/icons/com.radiojavan.androidradio.png"
+  },
+  "com.wifianalyzer.networktools.wifitest.pro": {
+    "title": "WiFi Analyzer Pro - WiFi Test",
+    "package": "com.wifianalyzer.networktools.wifitest.pro",
+    "description": "The WiFi Analyzer tool is used to Analyze and Optimize WiFi Networks by Detecting who is on my WiFi, testing WiFi Signal or Finding crowded signal and channel rating.\n\nThe app will show WiFi channels around you and helps you to find a less crowded channel for your wireless router.\n\nWiFi Analyzer helps you optimize your WiFi network by examining surrounding WiFi networks, measuring their signal strength as well as identifying crowded channels.\n\nIn fact, WiFi Analyzer is also powerful WiFi Protector to Detect Who is on my WiFi. It can help you Block strange devices to protect my WiFi Security.\n\nFeatures:\n- WiFi Channel Analyzer for Nearby APs.\n- Supports 2.4GHz/5GHz.\n- Provides you more information on WiFi channels.\n- Recommends the best channels.\n- Detects crowded channels.\n- Provides open ",
+    "icon": "/icons/com.wifianalyzer.networktools.wifitest.pro.png"
+  },
+  "com.moduworklab.kairis": {
+    "title": "KAIRIS AI Tarot Lotto Oracle",
+    "package": "com.moduworklab.kairis",
+    "description": "KAIRIS Where Ancient Wisdom Meets Cosmic Intelligence\n\nAre you searching for answers hidden in the fog of the future Love career money or difficult decisions KAIRIS delivers profound deeply resonant tarot interpretations powered by cutting edge AI\n\nUnlike generic apps that give random repetitive scripts the KAIRIS AI Master deeply analyzes every card alignment reading the unique vibration of your soul and situation\n\nWhat Makes KAIRIS Your Ultimate Oracle\n\nDiverse Mystical Spreads\nLucky Lotto Numbers Let the cosmos guide your picks for the next lottery draw\nDaily Fortune 1 Card Start your day with cosmic clarity\nLove and Relationships Uncover the hidden truths of your heart\nPast Present Future 3 Cards See the full arc of your journey\nCeltic Cross 10 Cards A profound deep dive revelation for",
+    "icon": "/icons/com.moduworklab.kairis.png"
+  },
+  "com.hiclara_app": {
+    "title": "Feelset - Vent, Heal, Grow",
+    "package": "com.hiclara_app",
+    "description": "Feelset is a safe place designed for you to vent, heal and grow. We are here to support you through all the highs and lows of relationships and daily life.\n\nWhether you're navigating a breakup, dealing with anxiety, struggling with long distance relationships, or just feeling lonely, we\u2019re here for you. \n\nWhat Feelset Can Do for You:\n*Vent Freely: Share anything\u2014about love, life, or whatever\u2019s on your mind. No judgment. You can even chat with people who are going through the same thing \u2014 they\u2019ll totally get it.\n\n*Message in a bottle: Cast your thoughts into the sea to release what burdens you and find connection. Catch bottles from others to discover shared struggles, gain insight from others\u2019 journeys, and offer kindness in return.\n\n*Get Relationship Advice: From dating stress to healing ",
+    "icon": "/icons/com.hiclara_app.png"
+  },
+  "com.jg.velacosmic": {
+    "title": "Vela - Cosmic Soulmate Sketch",
+    "package": "com.jg.velacosmic",
+    "description": "Explore astrology-inspired features and fun cosmic insights in one simple app.\n\nMain features:\n\nSoulmate Sketch\nGenerate an AI portrait inspired by astrology and star signs.\n\nCompatibility\nCheck the love and harmony score between two zodiac signs.\n\nVisual Chemistry\nAnalyze photo compatibility and visual attraction.\n\nFuture Family\nSee a playful prediction of what your future children might look like.\n\nAI Companion\nChat with an AI guide to ask questions about astrology and zodiac topics.\n\nDaily Horoscope\nReceive short, personalized horoscope insights each day.\n\nLucky Number\nGet a cosmic lucky number for today.\n\nThe app provides simple astrology-themed tools designed for exploration and entertainment.",
+    "icon": "/icons/com.jg.velacosmic.png"
+  },
+  "com.LoveTester.TrueLoveTest": {
+    "title": "Love Tester - Compatibility",
+    "package": "com.LoveTester.TrueLoveTest",
+    "description": "Find true love, take the love tester and calculate your love with this fun love calculator and affinity app between couples. Discover your love compatibility with your partner, find out if he or she is your true love, Take out the love calculator and take the compatibility test by names. With the Name Test you can choose 2 options, calculate compatibility with a love tester by name or a BFF test (Best Friends Forever).\n\nLove Tester - Love Calculator will accompany you during all stages of your relationship. Find true love with this love tester app. Use this free love calculator to help you discover the true love essential for loving relationships. We have prepared several love test in this compatibility calculator app.\n\nAnother option we have is the fingerprint test, place your fingers to ",
+    "icon": "/icons/com.LoveTester.TrueLoveTest.png"
+  },
+  "com.oxiwyle.modernagepremium": {
+    "title": "MA 1 \u2013 President Simulator PRO",
+    "package": "com.oxiwyle.modernagepremium",
+    "description": "Unleash Your Leadership and Creative Vision in Modern Age 1 - President Simulator: A Thrilling Country-Managing Adventure! \ud83c\udfd9\ud83d\ude80\n\nWelcome to Modern Age 1 - President Simulator, the ultimate epic combat strategy game! Build a bustling economy, fight stronger opponents, invade and conquer powerful enemies, protect the president's status, manage diplomacy and finances until your ultimate victory in the best president strategy simulation games\n\nBecome a mastermind discovering new technologies, grow your economy and population, collect taxes, plan your journey in the real-time survival single-player strategy game. Battle and defeat challenging AI, research modern warfare skills and equipment, accept new challenges and show your abilities\n\n\u2694\ufe0f War System \u2694\ufe0f\nAnnex states and kingdoms, send troops to ",
+    "icon": "/icons/com.oxiwyle.modernagepremium.png"
+  },
+  "com.jk.dream.artists": {
+    "title": "Mivora AI-Video & Image Maker",
+    "package": "com.jk.dream.artists",
+    "description": "\u2728 Turn your photos into stunning works of art with Mivora AI \u2013 the all-in-one AI photo editor. Instantly enhance images, remove backgrounds, replace objects, and apply creative AI filters, templates, and backgrounds to create social-media-ready photos in seconds.\n\nWhether you're editing selfies, portraits, or everyday photos, Mivora AI helps you transform ordinary pictures into Instagram-worthy masterpieces with powerful AI tools.\n\n\ud83c\udfac AI Dance Generator\nTurn any pose into dynamic AI dance animations and bring your photos to life with fun, viral-ready effects.\n\n\ud83d\udca1 AI Add Object\nEasily add objects, props, or creative elements to your photos with one tap.\n\n\ud83c\udfa8 AI Replace\nReplace anything in your image using smart AI object replacement \u2014 change backgrounds, items, or details instantly.\n\n\ud83d\udcf8 AI Remov",
+    "icon": "/icons/com.jk.dream.artists.png"
+  },
+  "com.hamsoft.face.follow": {
+    "title": "Face Warp - Plastic Surgery",
+    "package": "com.hamsoft.face.follow",
+    "description": "Meet various templates and features with a professional face photo editing program!\n\nChange your face with the fun warp feature.\nWith this app, your face will be more beautiful, cute and fun.\n\nYou can change the size of individual facial parts such as eyes, nose, and mouth as well as the overall shape of the face.\nAlso, make your own face fun by pasting other people's faces naturally.\n\nVarious beauty filters as well as hair color conversion function and background conversion function!\nAll face-related functions are included.",
+    "icon": "/icons/com.hamsoft.face.follow.png"
+  },
+  "com.guapp.vastutool": {
+    "title": "Vastu Wheel: The Vastu Chakra",
+    "package": "com.guapp.vastutool",
+    "description": "Discover the ultimate Vastu app to bring harmony, balance, and prosperity into your home.\n\ud83e\udded\ud83e\udded\ud83e\udded\nOur powerful Vastu chakra, Vastu wheel, and Vastu compass tool helps you align your house plan with the principles of Vastu Shastra, ensuring every room is placed in its most beneficial direction.\n\nWhether you are building, renovating, or just exploring, this Vastu planner gives you instant guidance on room positions, entrances, and energy flow. Simply import your home plan, adjust it on the Vastu wheel, and analyze every part of your house according to the Vastu chakra.\n\n\u2728 Key Features:\n\n\ud83c\udfe0 Import your house plan directly into the Vastu app.\n\n\u2699\ufe0f Rotate and align your plan with the Vastu wheel and Vastu compass for accurate positioning.\n\n\ud83e\ude9f Instantly view 16 directions using the Vastu chakra layout.",
+    "icon": "/icons/com.guapp.vastutool.png"
+  },
+  "io.HoroscopApp": {
+    "title": "Hor\u00f3scopo Diario GRATIS",
+    "package": "io.HoroscopApp",
+    "description": "\u2728 Discover what the stars have in store for you each day with Daily Horoscope - AstroGuide, your personalized daily horoscope app.\nUnique and detailed predictions for each zodiac sign in love, health, work, and money.\n\nConnect with the energy of the universe and make decisions with clarity.\n\n\ud83d\udd2e WHAT DOES ASTROGUIDE OFFER YOU?\n\u2022 Personalized daily horoscopes for each zodiac sign\n\u2022 In-depth predictions about love, health, work, and money\n\u2022 Simple and fast interface\n\u2022 Automatic updates: you'll never miss your horoscope again!\n\n\ud83c\udf1f IDEAL FOR YOU IF YOU'RE PASSIONATE ABOUT:\n\u2714 Astrology and the mystical world\n\u2714 Read your horoscope every morning\n\u2714 Learn how the stars influence your life\n\u2714 Improve your energy and daily decisions\n\u2714 Discover your daily compatibility based on your sign\n\n\ud83e\uddff WHY CHOOSE AST",
+    "icon": "/icons/io.HoroscopApp.png"
+  },
+  "org.keep_a_breast.kabapp": {
+    "title": "Keep A Breast",
+    "package": "org.keep_a_breast.kabapp",
+    "description": "The Keep A Breast App wants to help you establish your own routine and approach to the breast self-check. The app helps guide you in your self-checks as well as lets you schedule a monthly reminder - so you never miss your monthly check! The Keep A Breast app is an app designed to further support you in your self-check journey - we\u2019re here to be your breast bud.",
+    "icon": "/icons/org.keep_a_breast.kabapp.png"
+  },
+  "com.restore.old.photos.videos.app": {
+    "title": "Restore - Old Photos to Videos",
+    "package": "com.restore.old.photos.videos.app",
+    "description": "Restore \u2013 Old Photos to Video \ud83c\udf9e\ufe0f\n\nRestore old photos and turn them into videos using AI-powered photo restoration and animation.\n\nRestore helps you revive old pictures by repairing damage, enhancing details, adding color, and animating photos to create meaningful video memories. Convert still images into smooth photo videos that bring moments back to life.\n\nWhether you want to restore family photos, repair damaged pictures, colorize black and white images, or create old photo animation videos, Restore makes the process simple and fast.\n\nWhat you can do with Restore \u2728\n\u2022 Restore old photos\n\u2022 Repair damaged and faded pictures\n\u2022 Animate old photos into videos\n\u2022 Convert old photos to video\n\u2022 Colorize black and white photos\n\u2022 Enhance old photos for clarity\n\u2022 Revive old photos using AI\n\u2022 Save and",
+    "icon": "/icons/com.restore.old.photos.videos.app.png"
+  },
+  "com.sensustech.tclremote": {
+    "title": "Remote Control for R\u043eku & TCL",
+    "package": "com.sensustech.tclremote",
+    "description": "It is the 21st century, and everything is becoming digital: books, games, meetings. Why? It is more convenient and comfortable. That is why we want to introduce our new app - the Smart Remote app for TCL and Roku TV. \n\nSmart Remote app transforms your phone into a remote control center for the Roku, TCL, Hisense or Insignia TV. It is easy to understand with our intuitive display, and right after install you can begin to control your Smart TV, Roku TV, Streaming Stick, Express, Player or Box.\n\nDid we tell you that our app offers your remote Mirroring Screen for TCL, Roku or Smart TV? \n\nIf you have eyesight problems and always need to put your glasses on or go near a TV, forget it! \n\nNow you can just look at your smartphone and see everything you need. Not only Screen Mirroring, but also you",
+    "icon": "/icons/com.sensustech.tclremote.png"
+  },
+  "com.anonymous.ROASTBATTLEAI": {
+    "title": "Roast Battle AI",
+    "package": "com.anonymous.ROASTBATTLEAI",
+    "description": "HOW TO START:\n\u2022 Simply log in with Apple, Google or an email.\n\u2022 If logging in with an email, you'll receive a 6-digit code to verify \u2014 super simple. Check your spam folder if not received.\n\nBATTLES:\n\u2022 Battle with AI \u2192 configure your battle by choosing the difficulty level, duration, roasting style, etc.\n\u2022 Battle with your friends \u2192 Simply send the battle link and join the chatroom together.\n\u2022 Battle with random users \u2192 Get matched randomly with online users around the world.\n\u2022 Roast Picture \u2192 Upload a pic/take a photo and get roasted.\n\nLIVE SCOREBOARD:\n\u2022 Top users \u2192 see the best roasters with their profiles, scores, battles, etc.\n\u2022 New users \u2192 see the newest users who have joined.\n\u2022 Search a user \u2192 search a specific user by their username to see their profile, scores, battles, etc.\n\u2022 Top B",
+    "icon": "/icons/com.anonymous.ROASTBATTLEAI.jpg"
+  },
+  "com.fitofitness.breast_workout02": {
+    "title": "Boobs Breast enlargement firm",
+    "package": "com.fitofitness.breast_workout02",
+    "description": "this app will help you!\nThis is the set of exercises to strengthen, slim, breast lift trains the chest muscles and enables you to restore a beautiful, firm bust.\n\nYou do not need a sport Club to change the position of your breasts !!!\nThis program helps you to easily shape your breasts and make them bigger Have very shapely \n\nThis program is very effective and is designed and provided by an experienced instructor\n\n Why this app: \n\ud83c\udf80 The movements are designed and precise by a female trainer\n\ud83c\udf80 It can be easily done at home and does not require a club\n\ud83c\udf80 It is completely free and does not require payment\n\ud83c\udf80 Video User Guide - Text and animation descriptions available\n\ud83c\udf80 Can be used for all levels from beginner to professional\n\ud83c\udf80 The inspection section has nutrition\n\ud83c\udf80 The tracking section has weig",
+    "icon": "/icons/com.fitofitness.breast_workout02.png"
+  },
+  "com.shvagerfm.breastworkout": {
+    "title": "Beautiful breast workout",
+    "package": "com.shvagerfm.breastworkout",
+    "description": "Do you want to have a beautiful and tightened breast?\nNew version of app will help you with it!\n\nThis is the set of exercises to strengthen, slim, breast lift trains the chest muscles and enables you to restore a beautiful, firm bust.\n\nThis version contain workouts for 30 days, with timers, animations, voice helpers and  descriptions. Also this version of app work in background.\n\nThe application not only contains a set of exercises, but this is your personal coach who will help to organize sports activities. It will remind you when it's time to do and not be lazy. \n\nPerform exercises everyday and you will got result in 30 days.\n\nYou won\u2019t increase your breast from 1 size to 3 size with this exercises but your breast will be look much better.  These exercises are relevant to young mothers w",
+    "icon": "/icons/com.shvagerfm.breastworkout.png"
+  },
+  "com.soundlabai.soundlab_ai": {
+    "title": "SoundLab AI - Music Generator",
+    "package": "com.soundlabai.soundlab_ai",
+    "description": "SoundLab AI is the ultimate AI music generator \u2014 create songs, beats, and instrumentals from text in seconds. Whether you're a songwriter, content creator, or music lover, SoundLab AI puts a full AI music studio in your pocket.\n\n\ud83c\udfb5 GENERATE MUSIC WITH AI\nTurn your ideas into real songs. Type lyrics or describe a mood, pick a genre, and let AI create music for you. Choose from 5 powerful AI models \u2014 from the stable V1 to the cutting-edge V2 with authentic vocals and superior audio quality. Generate pop, EDM, rock, rap, jazz, metal, folk, funk, country, or instrumental tracks.\n\n\u270d\ufe0f AI LYRICS GENERATOR\nStuck on words? Describe your song concept and let AI write full, production-ready lyrics for you. Choose a genre and mood, and get complete song lyrics in seconds \u2014 ready to generate into a full",
+    "icon": "/icons/com.soundlabai.soundlab_ai.png"
+  },
+  "cm.pt.barkforschools": {
+    "title": "Bark for Schools",
+    "package": "cm.pt.barkforschools",
+    "description": "Download the Bark for Schools app to manage settings and access alerts from your mobile device. \n\nWhat is Bark for Schools?\n\nBark for Schools is a free student and school safety product that detects potential issues across Google Workspace, Microsoft 365, and Chrome to help protect students online and in real life. Our award-winning monitoring tool scans emails, chats, and saved files for issues like bullying, online predators, sexual content, suicidal ideation, and more. \n\nBark for Schools was launched in response to the Parkland school shooting tragedy in 2018, and this community giveback is made possible by the success of our product for families. Free and available to every public and private K\u201312 school in the U.S.",
+    "icon": "/icons/cm.pt.barkforschools.png"
+  },
+  "com.gistdev.calculusai": {
+    "title": "Calculus AI: Homework & Quiz",
+    "package": "com.gistdev.calculusai",
+    "description": "Master Calculus with Your AI-Powered Tutor!\n\nStuck on a tricky calculus problem? Whether it's derivatives, integrals, limits, series, multivariable calculus, differential equations, or optimization, Calculus AI is your go-to calculus solver and homework helper. Get fast solutions and understand the \"why\" and \"how\" behind every step.\n\nSimply snap a photo of your calculus problem or upload an image from your gallery, and our advanced AI solver will provide detailed, step-by-step solutions in seconds. A powerful calculus problem solver and study app for students and learners!\n\nKEY FEATURES:\n\n- Snap & Solve: Take a picture of any calculus problem and get fast solutions. Your camera-based calculus solver, photo scanner, and OCR-powered homework helper for on-the-go problem solving.\n- Step-by-St",
+    "icon": "/icons/com.gistdev.calculusai.png"
+  },
+  "com.orgdevapp.nomenclature": {
+    "title": "Organic Chemistry Names",
+    "package": "com.orgdevapp.nomenclature",
+    "description": "Master naming organic chemistry compounds with our all-in-one flashcard and quiz app, designed to turn you into an expert at naming organic compounds. You\u2019ll work through over 1,600 expertly crafted flashcards, drill yourself with interactive quizzes, and track your progress\u2014whether you\u2019re a beginner or need to review advanced multifunctional molecules.\n\nKey features:\n\n\u2022 1,600+ Flashcards\nEach card pairs clear structures with their names, covering alkanes, alkenes, alkynes, alcohols, thiols, amines, carbonyls, carboxylic-acid derivatives and key biochemicals like amino acids, carbohydrates, lipids, and nucleotides.\n\n\u2022 Two Flexible Study Modes\n\u2013 Flashcard Mode: Swipe left or right to move between cards; tap to flip from structure to name or vice versa.\n\u2013 Multiple-Choice Mode: Challenge your",
+    "icon": "/icons/com.orgdevapp.nomenclature.png"
+  },
+  "com.mahsanet.mahsang": {
+    "title": "com.mahsanet.mahsang",
+    "package": "com.mahsanet.mahsang"
+  },
+  "app.mentory.mentory": {
+    "title": "AI Mentor - Personal Guidance",
+    "package": "app.mentory.mentory",
+    "description": "Turn your goals into action \u2013 with your personal AI Mentor. Based on ChatGPT.\n\nWhether it\u2019s switching careers, improving your habits, or launching a side hustle, AI Mentor helps you define your goal and walks you step-by-step toward success.\n\nYour growth journey, one task at a time.\n\nFeatures\n\ud83d\udcac Chat-driven mentoring experience\n\ud83c\udfaf Goal setting made simple\n\ud83d\udee0\ufe0f Custom action plans and tasks\n\ud83d\udd04 Progress tracking with phases\n\ud83c\udf89 Motivating feedback and celebrations",
+    "icon": "/icons/app.mentory.mentory.png"
+  },
+  "com.lenavpn.ang": {
+    "title": "Lena VPN - Fast & Secure VPN",
+    "package": "com.lenavpn.ang",
+    "description": "Lena VPN is a free V2ary client app with built-in configs for easy access to the Internet in countries such as China, Iran, etc.\n\nEnjoy a fast and secure VPN connection with high speed USA VPN servers.\n\nLena VPN is a lightning-fast app provide free VPN service. Not need any configuration, just simply click one button, you can access the Internet securely and anonymously.\n\nLena VPN encrypts your Internet connection so that third parties can\u2019t track your online activity, making it more secure than a typical proxy, make your Internet's safety and security, especially when you using public free Wi-Fi.\n\nWe have built a global VPN network included America, Europe and Asia, and expand to more country soon. All servers are free to use, you can click the server list and change server as any times a",
+    "icon": "/icons/com.lenavpn.ang.jpg"
+  },
+  "com.hairtrackai": {
+    "title": "HairTrack Hair & Health Scan",
+    "package": "com.hairtrackai",
+    "description": "HairTrack \u2013 AI-Powered Hair Health & Style Analysis\n\nDiscover your hair\u2019s true potential in seconds. Advanced AI algorithms analyze your photos to deliver personalized insights, recommendations, and progress tracking\u2014all in one sleek app.\n\nKey Features\n\n\ud83d\udcf8 Multi-Angle Capture\nSnap front, top, side, and back photos for a complete view of your hair.\n\n\ud83d\udd0d Detailed Health Report\nGet scores for breakage, shedding risk, density, and moisture balance.\n\n\ud83c\udfa8 Style & Color Suggestions\nReceive haircut, color, and care tips tailored to your face shape and hair type.\n\n\ud83d\udcc8 Progress Tracking\nVisualize your hair\u2019s transformation over time with interactive charts.\n\n\ud83c\udf3f Personalized Care Routine\nGenerate daily or weekly regimens based on your hair goals.\n\n\ud83d\udd12 Privacy & Security\nAll images and data are end-to-end encry",
+    "icon": "/icons/com.hairtrackai.png"
+  },
+  "com.hannataylorapps.learnmagictricks": {
+    "title": "Easy Magic Tricks To Learn",
+    "package": "com.hannataylorapps.learnmagictricks",
+    "description": "Would you like to discover the ways of magic? If you want to learn magic tricks fast, download the easy magic tricks app.\n\n\nWith over a thousand magic trick courses covering mentalism, disappearing acts, sleight of hand, card tricks, and more, you can learn the secrets of all the most famous illusions. While online classes are more suited to experienced magicians, beginner-friendly guidelines provide easy steps to follow. Create mind-blowing illusions to amaze Christmas partygoers and New Year's Eve revelers alike!\n\n\nThere are hundreds of easy magic tricks to learn in our app, all with clear explanations and videos to help you perform them. Anyone can learn magic with the help of the detailed instructions. No matter your level of magic expertise, our software contains all the techniques yo",
+    "icon": "/icons/com.hannataylorapps.learnmagictricks.png"
+  },
+  "com.nahxuan.predictcardmagictrick": {
+    "title": "Predict Card Magic Trick",
+    "package": "com.nahxuan.predictcardmagictrick",
+    "description": "Unleash Your Inner Magician with Predict Card Magic Trick!\n\nPredict Card Magic Trick lets you perform mind-blowing magic tricks anytime, anywhere \u2013 no props or experience needed. Simply follow the easy steps, predict any card, and watch jaws drop as you reveal your magical skills. Perfect for parties, gatherings, or just casual fun!\n\nWhy You'll Love It:\n\n* Easy to Learn - step-by-step guides for flawless card prediction tricks.\n* Impress Instantly - stun audiences with professional-level magic.\n* No Equipment Needed - just your phone and this app \u2013 pure magic!\n* Fun for All Ages - great for beginners and seasoned magicians alike.\n\nKey Features:\n\n* Interactive card magic tutorials.\n* Predict cards magic trick with 100% accuracy every time.\n* Sleek, user-friendly design for seamless tricks.\n",
+    "icon": "/icons/com.nahxuan.predictcardmagictrick.png"
+  },
+  "info.camposha.reiki": {
+    "title": "Reiki Healing Music",
+    "package": "info.camposha.reiki",
+    "description": "Namaste! Welcome to our app. Reiki is a Japanese form of energy healing. Reiki practitioners use a technique called palm healing or hands-on healing through which a universal energy is transferred through the palms of the practitioner, thus encouraging emotional healing. This app will provide you with the best Reiki music you can use for meditation and to heal yourself emotionally. \n\nNo registration or special requirement is needed with this app, just install it and start watching.\n\nThis app is a multi-language app. It supports the following languages as local language within the app:\n\n1. English\n2. German\n3. French\n4. Spanish\n5. Portuguese\n6. Italian\n7. Japanese\n8. Korean\n9. Hindi\n11. Arabic\n12. Indonesian\n13. Polish\n14. Dutch\n\n> If you want more languages please request it so that I add ",
+    "icon": "/icons/info.camposha.reiki.jpg"
+  },
+  "ai.tarotica": {
+    "title": "Tarotica AI",
+    "package": "ai.tarotica",
+    "description": "Ready to embark on a mysterious and romantic journey of self-discovery? Tarotica invites you into the enchanting world of Tarot, where each card draw becomes a unique opportunity for introspection. Whether you\u2019re a curious beginner or a seasoned Tarot reader, you\u2019ll find guidance and inspiration to delve deep within, tap into hidden energies, and unlock limitless possibilities. With its carefully crafted interface, in-depth card interpretations, and interactive reading experiences, you\u2019ll uncover the magic and allure of Tarot in a delightfully immersive setting. Join the wondrous adventure of Tarotica\u2014and let Tarot illuminate your path forward!\n\n\u2014 Tarotica\u2019s Main Features \u2014\n\n[Professional Interpretations]\nShare your current worries or questions with Tarotica, your AI Tarot expert, and it w",
+    "icon": "/icons/ai.tarotica.png"
+  },
+  "com.MagiCreation.MindReading": {
+    "title": "Magic Trick - Mind Reading",
+    "package": "com.MagiCreation.MindReading",
+    "description": "The spectator swipe the cards and stops on whatever card he wants, no forces. No matter on which card he stopped , the magician will know the card every time. And when the card is known to the magician there are many options to make an awesome effect. Watch the video and it will explain you everything.\n\nhttps://youtu.be/Z5LwcgGIeuM\n\n\nPlaying Cards:\n\nVector Playing Cards 3.0\n    https://totalnonsense.com/open-source-vector-playing-cards/\n    Copyright 2011,2019 \u2013 Chris Aguilar \u2013 conjurenation@gmail.com\n    Licensed under: LGPL 3.0 - https://www.gnu.org/licenses/lgpl-3.0.html",
+    "icon": "/icons/com.MagiCreation.MindReading.png"
+  },
+  "com.anlasana.app": {
+    "title": "Anlasana: Find Your Soulmate",
+    "package": "com.anlasana.app",
+    "description": "Anlasana AI : Dating App for Meaningful Relationships\n\nTired of modern dating that feels empty and repetitive?\n\nAnlasana is a serious dating app designed for people who want real love, not temporary attention. If you are seeking a meaningful relationship instead of casual swiping, this is where your journey begins.\n\nPowered by advanced AI compatibility analysis, Anlasana connects you with people aligned with your personality, emotional depth, and long-term relationship goals using advanced AI and AI companion SANA\n\n\ud83d\udc98 Smart Dating & Matchmaking\n\nUnlike traditional dating apps, Anlasana focuses on emotional compatibility and relationship readiness. Our AI studies personality patterns to help you build love that lasts.\n\n\ud83d\udcac Sana \u2013 Your AI Companion\n\nMeet Sana, your intelligent AI companion buil",
+    "icon": "/icons/com.anlasana.app.jpg"
+  },
+  "com.touchsurgery": {
+    "title": "Touch Surgery: Surgical Videos",
+    "package": "com.touchsurgery",
+    "description": "Prepare for surgical cases or learn new procedures & test your knowledge with Touch Surgery anytime, anywhere.\nOur multi-award winning surgical training platform for doctors and surgeons has been researched by world leading institutions and published in peer reviewed journals. \n\nTouch Surgery is integrated into over 100 residency programs in the US and is endorsed by the AO foundation, American Association for Surgery of the Hand (AASH), British Association of Plastic, Reconstructive and Aesthetic Surgeons (BAPRAS) and The Royal College of Surgeons of Edinburgh.\n\nFEATURES:\n\n- Step by step simulations of surgical procedures \n- Prepare for procedures anytime, anywhere!\n- Explore our entire library straight to your smartphone\n- Experience surgical cases with state-of-the-art 3D graphics\n- Mas",
+    "icon": "/icons/com.touchsurgery.png"
+  },
+  "com.obdocker.obdocker": {
+    "title": "OBDocker - OBD2 Car Scanner",
+    "package": "com.obdocker.obdocker",
+    "description": "Crafted with user-friendliness and power in mind, OBDocker is a professional OBD2 car scanner app that empowers you to diagnose, service, and customize your vehicles with ease and precision.\n\n\n*************************\nKEY FEATURES\n\n1\ufe0f\u20e3Triple-Mode Diagnostics\n\n\u25cb Full-Systems Diagnose: One-Click OE-Level full-systems diagnostics.\n\u25cb Multi-Systems Diagnose: Scan multiple systems through ECUs filtering such as TMS, SRS, ABS, TCM, BCM and many more.\n\u25cb Quick Scan: Swiftly read and clear engine fault codes to maintain a smooth drive.\n\n2\ufe0f\u20e3Triple-Mode Live Data\n\n\u25cb Health Monitor: Track every systems performance by diving into real-time parameters.\n\u25cb Engine Monitor: Monitor your engine's performance.\n\u25cb Dash Monitor: Visualize your vehicle's metrics in real-time.\n\n3\ufe0f\u20e3Full-Cycle Service\n\n\u25cb Emissions P",
+    "icon": "/icons/com.obdocker.obdocker.png"
+  },
+  "com.motordata.obd": {
+    "title": "MotorData OBD2 ELM car scanner",
+    "package": "com.motordata.obd",
+    "description": "Looking for a powerful app for car scanning? MOTORDATA OBD is here!\nOur elm327 car scanner offers expert car diagnostics in accordance with manufacturer protocols.\nFree engine diagnostics are included. Advanced car diagnostics are available for purchase.\nThe car scanner allows you to read and clear error codes from up to 25 electronic control units (ECUs), including the engine, transmission, ABS, SRS, ESP, AC, and more.\n\nMOTORDATA OBD expands the capabilities of the OBD2 scanner:\n\n\u2022 Car scanner - reads and clears error codes from control units. With our paid plugins, you can read up to 25 ECUs depending on the car make, model, year, and your scanner. You can read codes from the automatic transmission, CVT, ABS, SRS, ESP, AC, and other ECUs.\n\n\u2022 Decodes malfunction codes (DTC P0 and P2 OBD2)",
+    "icon": "/icons/com.motordata.obd.webp"
+  },
+  "mureung.obdproject": {
+    "title": "Infocar - OBD2 ELM Scanner",
+    "package": "mureung.obdproject",
+    "description": "Smart Vehicle Management App, InfoCar  \nFrom vehicle diagnostics to driving style analysis, manage your vehicle smarter with InfoCar!\n\n\u25a0 Vehicle Diagnostics  \n\u2022 Check your vehicle's condition yourself. Detect malfunctions in ignition systems, exhaust systems, electronic circuits, and more.  \n\u2022 Detailed error code explanations are provided. Easily understand issues with error codes divided into three levels and delete stored error codes from the ECU with a simple tap.  \n\n\u25a0 Manufacturer Data  \n\u2022 Experience results 99% identical to workshop diagnostics.  \n\u2022 Manage your vehicle with over 2,000 manufacturer-specific data sensors tailored to your vehicle model.  \n\u2022 Check detailed diagnostic results categorized by control unit (ECU).  \n\n\u25a0 Real-time Monitoring  \n\u2022 Access over 800 OBD2 sensor data ",
+    "icon": "/icons/mureung.obdproject.png"
+  },
+  "boobs.systemsbase.breast.enlargement": {
+    "title": "Breast enlargement exercise",
+    "package": "boobs.systemsbase.breast.enlargement",
+    "description": "Boobs app is breast enlargement exercise for women. It is also a breast firming exercise and breast lifting exercise at home. The app presents exercises to lift sagging breasts by strengthening muscles around the breast and boobs area, this strengthened muscles will help in supporting the boobs making them to look rounder and bigger. Daily exercise targeted at surrounding breast muscles is highly  important for breast health and well-being of the woman and her boobs. Breast increase workout for women at home in 30 days.\n\nThe natural breasts are predominately a fatty tissue located directly over top of the pectoral muscles. One of the best ways to lift your breasts is to strengthen the muscles underneath your breasts as they help to support them.\n\nThis app may not necessarily make your brea",
+    "icon": "/icons/boobs.systemsbase.breast.enlargement.png"
+  },
+  "com.byusingai": {
+    "title": "ByUsingAI-AI image music video",
+    "package": "com.byusingai",
+    "description": "ByUsingAI \u2013 Create. Edit. Photo. \ud83c\udfa8\ud83c\udfb6\u2728\n\nUnleash your creativity with ByUsingAI, the all-in-one AI-powered creation platform! Whether you want to generate stunning images, edit photos like a pro, compose original music, or write beautiful songs, ByUsingAI makes it possible \u2014 instantly and effortlessly. \ud83d\ude80\n\n\ud83c\udfa8 Create & Edit Images Like Magic\n\nTurn your imagination into reality with the most advanced AI image models available today:\n\n\ud83d\udd8c AI Image Generation \u2013 Create breathtaking art, realistic portraits, landscapes, and concept designs from just a few words.\n\n\u2702\ufe0f Smart Image Editing \u2013 Remove objects, enhance quality, change backgrounds, and retouch images with AI precision by using image to image.\n\n\ud83c\udf08 Unlimited Styles \u2013 Choose from photorealistic, anime, 3D, digital painting, minimalist, and more!\n\nN",
+    "icon": "/icons/com.byusingai.webp"
+  },
+  "com.astroly.app": {
+    "title": "Soulmate Sketch: Astrology",
+    "package": "com.astroly.app",
+    "description": "Astroly is your all-in-one astrology and horoscope app that connects you with the stars, moon, and universe.\nDiscover your destiny, love energy, and emotions with daily horoscopes, moon astrology, and soulmate sketches inspired by star astrology.\n\nAstroly blends ancient astrology with modern AI to reveal how the moon and planets align with your zodiac energy.\nWhether you want to explore your birth chart, read your daily horoscope, or see your soulmate sketch, Astroly is your personal astrology companion.\n\n\u2728 Horoscope Features\n\n\ud83c\udf1f Daily Horoscope & Moon Readings\nCheck your daily horoscope every morning. See how the moon and planetary movements influence your emotions, career, and love.\nYour personalized AI astrology is updated daily for every zodiac sign.\n\n\ud83d\udcab Birth Chart & Report\nGenerate you",
+    "icon": "/icons/com.astroly.app.png"
+  },
+  "com.hypnocloud.relaxandletgo": {
+    "title": "HypnoCloud: Hypnosis",
+    "package": "com.hypnocloud.relaxandletgo",
+    "description": "HypnoCloud is a powerful and life-changing Hypnosis app, Featuring World Renowned Hypnotherapist -\nVictoria Gallagher - As seen on ABC\u2019s 20/20 - #1 Best Selling Author - and Law of Attraction Expert.\nWith HypnoCloud you can achieve all of your goals; the wealth you desire, finally get a good night sleep,\nbe healthy and fit, attract the career you want, live the lifestyle of which you dream, enjoy sex, improve\nrelationships, and reach spiritual fulfillment.\nAll sessions are written and narrated by Victoria Gallagher, Certified Master Hypnotherapist. She has been\nhelping people improve their lives through the power of their mind, for over 20 years. Victoria has a\nsoothing, appealing voice that is ideal for putting you in a relaxed, receptive state.\nWhat is Hypnosis?\nHypnosis is a powerful to",
+    "icon": "/icons/com.hypnocloud.relaxandletgo.png"
+  },
+  "nl.onesixty.owise": {
+    "title": "OWise Breast Cancer Support",
+    "package": "nl.onesixty.owise",
+    "description": "OWise is the multi-award-winning health app that helps you to regain control of your life from the first day of a breast cancer diagnosis. OWise gives you personalized, safe, reliable and credible information as well as practical support and guidance, in one easy-to-view place.\n\nUsed by thousands of breast cancer patients before you, OWise is designed by health professionals and has demonstrated it can improve the communication with your healthcare providers. Using the OWise app you can easily keep track of more than 30 different side effects related to treatments such as hormone therapy, chemotherapy or immunotherapy, replacing the need for paper diaries. Moreover, through tracking, reviewing and sharing how you feel from day-to-day, your doctor can make timely and informed decisions to h",
+    "icon": "/icons/nl.onesixty.owise.png"
+  },
+  "com.mychavel.app": {
+    "title": "My Cheval: Horse Management",
+    "package": "com.mychavel.app",
+    "description": "\ud83d\udc34 My Cheval \u2013 The Ultimate App for Horse Owners\n\nTired of juggling notebooks, screenshots, WhatsApp messages and mental reminders just to manage your horse\u2019s life?\n\nMy Cheval is your all-in-one digital stable.\nDesigned by horse owners, for horse owners, this powerful app brings everything together \u2014 health, training, schedules, finances, memories, and now your actual rides, tracked in real time.\n\nWhether you manage one beloved pony or a full competition yard, My Cheval gives you complete control, total clarity, and priceless peace of mind.\n\n\ud83c\udf1f Key Features\n\ud83e\uddfe Horse Profiles\n\nCreate beautiful, detailed profiles for each horse.\nStore passports, documents, photos, notes, age, breed, medical info and more \u2014 all instantly accessible.\n\n\ud83d\udef0\ufe0f NEW \u2014 Ride Tracker with GPS\n\nTurn every ride into real data",
+    "icon": "/icons/com.mychavel.app.png"
+  },
+  "com.savelli.body.fat.scanner": {
+    "title": "Formfy: AI Body Fat Scanner",
+    "package": "com.savelli.body.fat.scanner",
+    "description": "Turn every selfie into a health insight.\nFormfy is the all-in-one AI fitness & nutrition tracker that scans your body-fat %, builds personalised workout plans and counts calories from a single photo of your meal. No wearables, no spreadsheets\u2014just point, scan and thrive.\n\n\ud83d\udd0d Why Formfy?\nBody-Fat & BMI Scanner \u2013 Computer-vision estimates your body-composition from a single full-body photo.\n\nInstant Meal Scanner \u2013 Take a picture of your plate; our nutrition AI returns calories, carbs, protein & fat.\n\nPersonalised Workout Programs \u2013 Answer a few questions and get a gym- or home-plan that evolves with you.\n\nSmart Calorie & Macro Counter \u2013 Auto-syncs scans with manual entries for seamless diet tracking.\n\nBasal & Active Calories \u2013 Live widget mixes BMR, steps and exercise for a full-day burn tota",
+    "icon": "/icons/com.savelli.body.fat.scanner.png"
+  },
+  "com.gotechmakers.wedding": {
+    "title": "Wedding Planner - No Stress!",
+    "package": "com.gotechmakers.wedding",
+    "description": "Congratulations on your engagement! Planning your wedding is a special journey, and with our app, you can organise everything effortlessly and with joy.\n \nOur wedding planner gathers all your tasks in one place, so you can focus on the excitement of your big day.\n\n1. Wedding Checklist: Pre-made task lists to ensure you don\u2019t miss a single detail.\n2. Guest List: Track invitation statuses, group guests by categories, and create the perfect seating arrangement.\n3. Wedding Budget: Manage expenses and keep all financial documents in one convenient place.\n4. Personal Wedding Website: Create a beautiful site with an RSVP form where guests can find all the details and confirm their attendance.\n5. Online Invitations: Design elegant digital invitations and send them directly to your guests.\n6. Weddi",
+    "icon": "/icons/com.gotechmakers.wedding.png"
+  },
+  "com.yarnpal.ai": {
+    "title": "YarnPal - Crochet for Beginner",
+    "package": "com.yarnpal.ai",
+    "description": "YarnPal helps you learn crochet and knitting with ease, even if you\u2019ve never held a hook before. Learn new stitches, explore hundreds of patterns, track your progress, and design your own projects all in one place. With tons of beginner-friendly patterns and step-by-step video guides, YarnPal supports your crafting journey from the very first stitch. It\u2019s an all-in-one crochet tutor and pattern maker designed to help you create with confidence.\n\nMain Features:\nLearn Step-by-Step\nGo from \"how-to\" to \"I-made-this.\" Our five signature beginner courses guide you through basic stitches and into real-world projects. With a clear, natural progression, you\u2019ll build the skills and confidence to create anything you imagine.\n\nFull Video Tutorials\nMaster basics with video guides. Unlike fragmented soc",
+    "icon": "/icons/com.yarnpal.ai.png"
+  },
+  "xyz.chatboxapp.chatbox": {
+    "title": "Chatbox AI: Powerful AI Client",
+    "package": "xyz.chatboxapp.chatbox",
+    "description": "Unleash the Power of AI in Your Pocket! \n\nChatbox AI is a powerful, universal AI client that seamlessly connects you with the world's leading AI models. Available everywhere you need it - from desktop (Windows, MacOS, Linux) to mobile and web, it's your go-to AI companion on any device.\n\nKEY FEATURES:\n\u2022 Chat with Multiple AI Models - Access various cutting-edge AI models for different needs\n\u2022 Smart File Understanding - Upload documents, images, or code files for instant AI analysis\n\u2022 Code Assistant - Generate, review, and optimize code with AI-powered suggestions\n\u2022 Image Generation - Transform your ideas into stunning visuals with text-to-image generation\n\u2022 LaTeX & Markdown Support - Perfect for academic writing and technical documentation\n\u2022 Local Data Storage - Your conversations stay pri",
+    "icon": "/icons/xyz.chatboxapp.chatbox.png"
+  },
+  "ch.deepgrow": {
+    "title": "DeepGrow: AI-Powered Hypnosis",
+    "package": "ch.deepgrow",
+    "description": "DeepGrow brings personalized hypnosis session to your fingertips, helping you achieve personal goals like stress relief, better sleep, and enhanced confidence. Our personalized audio sessions combine effective hypnotherapy with mindful relaxation, promoting lasting and meaningful change.personal growth.\n\ud83c\udf3f Key Features:\n-Personalized Hypnosis: Create unique sessions tailored to your preferences.\nPersonality Profiling: Understand yourself through the OCEAN model and communication insights.\n-Daily Check-In: Reflect on your mood, energy, and progress in a mindful way.\nVoice Customization: Use soothing AI voices or your own cloned voice for an authentic experience.\n\n-Journaling: Capture your thoughts and track growth over time.\nExpert Directory: Find professional guidance when you need human co",
+    "icon": "/icons/ch.deepgrow.png"
+  },
+  "com.ksajus.app": {
+    "title": "K-Destiny: AI Fortune Reading",
+    "package": "com.ksajus.app",
+    "description": "What does your birth chart reveal about your love life, career, and future?\n\nK-Destiny combines the ancient wisdom of Korean Saju (Four Pillars of Destiny) with modern AI to deliver personalized fortune readings \u2014 just for you.\n\nYOUR DESTINY, UNLOCKED\nEnter your birth date and time to unlock 56+ unique readings covering love, money, career, and life. Each reading is crafted by AI based on your personal Saju chart.\n\nLOVE & RELATIONSHIPS\n- Discover your love type and ideal partner profile\n- Check couple compatibility scores\n- Find out when love (or a proposal!) is coming\n- Get advice on confessions, breakups, and red flags\n\nCAREER & MONEY\n- Uncover your natural career strengths\n- Get financial forecasts and salary negotiation tips\n- Find your perfect side hustle based on your chart\n- Receive",
+    "icon": "/icons/com.ksajus.app.png"
   }
 }
