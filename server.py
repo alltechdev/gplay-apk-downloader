@@ -769,7 +769,8 @@ def sitemap():
             app_urls = ''.join(
                 f'  <url><loc>{SITE_URL}/app/{pkg}</loc><lastmod>{date.today().isoformat()}</lastmod></url>\n'
                 for pkg in meta
-                if re.match(r'^[a-zA-Z][a-zA-Z0-9_.]*$', pkg)
+                if pkg not in BLACKLISTED_PACKAGES
+                and re.match(r'^[a-zA-Z][a-zA-Z0-9_.]*$', pkg)
             )
             if app_urls:
                 xml = xml.replace('</urlset>', app_urls + '</urlset>')

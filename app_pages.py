@@ -71,11 +71,26 @@ def _load_blacklist():
 
 _BLACKLISTED_PACKAGES = _load_blacklist()
 
+# Android package: lowercase first segment, then segments of [letters/digits/_], dot-separated.
+# Rejects user typos like "Com.wealthfront", "Apkdl.dietdroid.com", "google.com" (no leading lowercase letter segment).
+_VALID_PKG_RE = re.compile(r'^[a-z][a-z0-9_]*(\.[A-Za-z0-9_]+)+$')
+
+
+def is_valid_package_name(pkg):
+    """Return True if pkg looks like a real Android package id."""
+    if not pkg or len(pkg) > 200:
+        return False
+    if pkg.endswith(('.apk', '.com', '.html', '.png', '.org', '.net')):
+        return False
+    return bool(_VALID_PKG_RE.match(pkg))
+
 
 def cache_app(pkg, title, icon_url=None, description=''):
     """Cache app metadata and icon. Called after successful download."""
     if pkg in _BLACKLISTED_PACKAGES:
         return  # blacklisted, do not cache
+    if not is_valid_package_name(pkg):
+        return  # invalid package id (user typo etc.), do not cache
     with _meta_lock:
         meta = _load_meta()
         if pkg in meta and meta[pkg].get('title') and meta[pkg].get('description'):
