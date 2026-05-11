@@ -249,8 +249,31 @@ def _guess_category(pkg, title):
     return 'Other'
 
 
+_browse_cache = {'html': None, 'meta_mtime': 0, 'template_mtime': 0}
+_browse_cache_lock = threading.Lock()
+
+
 def render_browse_page():
-    """Render the app catalog/browse page."""
+    """Render the app catalog/browse page.
+
+    Rendering 15k entries to ~12MB of HTML takes 1-2s per request; cache by
+    (meta file mtime, template file mtime) so repeated hits are instant.
+    Each worker caches independently (no cross-worker invalidation needed —
+    each worker's cache invalidates on its next request after _meta.json
+    changes on disk).
+    """
+    try:
+        meta_mtime = META_FILE.stat().st_mtime
+        template_mtime = BROWSE_TEMPLATE_FILE.stat().st_mtime
+    except FileNotFoundError:
+        meta_mtime = template_mtime = 0
+
+    with _browse_cache_lock:
+        if (_browse_cache['html'] is not None
+                and _browse_cache['meta_mtime'] == meta_mtime
+                and _browse_cache['template_mtime'] == template_mtime):
+            return _browse_cache['html']
+
     with _meta_lock:
         meta = _load_meta()
     try:
@@ -291,6 +314,11 @@ def render_browse_page():
 
     html = template.replace('__APP_COUNT__', str(app_count))
     html = html.replace('__CARDS__', cards_html)
+
+    with _browse_cache_lock:
+        _browse_cache['html'] = html
+        _browse_cache['meta_mtime'] = meta_mtime
+        _browse_cache['template_mtime'] = template_mtime
     return html
 
 
