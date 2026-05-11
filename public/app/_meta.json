@@ -89545,5 +89545,337 @@
   "com.x.app": {
     "title": "com.x.app",
     "package": "com.x.app"
+  },
+  "com.sbg.mobile.phone": {
+    "title": "Standard Bank / Stanbic Bank",
+    "package": "com.sbg.mobile.phone",
+    "description": "Your money, your way\n\nEasily track your finances, discover tools and features to help you manage your money, and explore personalised offers \u2013 all at your fingertips.\n\nEffortless day-to-day banking\n\n\u2022\tQuick payments and transfers: Send money with ease\n\u2022\tTop up instantly: Buy airtime, data, SMS bundles, and electricity\n\u2022\tSend money vouchers: Share cash vouchers to anyone with a cellphone\n\u2022\tHassle-free international payments: Make global transactions in just a few taps\n\u2022\tPlay Lotto: Try your luck directly from the app\n\nTake control of your money\n\n\u2022\tOpen a savings account online: Start saving in minutes\n\u2022\tManage your cards: Set payment limits, stop or replace cards quickly\n\u2022\tAccess documents on-demand: Get stamped statements, bank letters and tax certificates\n\u2022\tQuick balance checks: View your",
+    "icon": "/icons/com.sbg.mobile.phone.png"
+  },
+  "com.pathway.tripturbo.android": {
+    "title": "Trip Turbo - Travel Deals",
+    "package": "com.pathway.tripturbo.android",
+    "description": "Your All-in-One Travel Companion for Nepal.\n\nTrip Turbo is a travel booking app in Nepal that helps you book flights, bus tickets, hotels, and activities easily in one place.\n\nPlan your trips with a simple and reliable travel marketplace designed for travelers in Nepal. Whether you're booking a domestic flight, international flight, bus ticket, hotel stay, or adventure activity, Trip Turbo helps you compare options and book quickly from your phone.\n\nEnjoy convenient booking, secure payments, and travel support while planning your journeys across Nepal and beyond.\n\nOur Core Services:\n\n\u2708\ufe0f Domestic & International Flights\nBook domestic flights in Nepal with ease. Compare fares and get great rates for Buddha Air, Yeti Airlines, and Shree Airlines. Planning a trip abroad? Search and book intern",
+    "icon": "/icons/com.pathway.tripturbo.android.png"
+  },
+  "com.ethiopianairlines.ethiopianairlines": {
+    "title": "Ethiopian Airlines",
+    "package": "com.ethiopianairlines.ethiopianairlines",
+    "description": "Experience travel like never before. Elevate your journey with the new Ethiopian Airlines Mobile App and enjoy up to 10% off. Redefine your travels \u2013 download now.\n\nFeatures \n1. Smooth Booking Experience:\n\u2022\tExplore Flights: Browse and book your flights with ease, discovering a range of options tailored to your preferences.\n\u2022\tManage Bookings: Your travel plans at your fingertips. Review, modify, or even cancel your bookings hassle-free.\n\n2. Effortless Check-in & Boarding:\n\u2022\tOnline Check-In: Beat the lines at the airport by checking in from the comfort of your device, receiving your digital boarding pass instantly.\n3. Choose Your Perfect Seat:\n\u2022\tSelect Seats: View the aircraft layout and pick your preferred seat before you even arrive at the airport.\n4. Baggage Made Simple:\n\u2022\tBaggage Informa",
+    "icon": "/icons/com.ethiopianairlines.ethiopianairlines.png"
+  },
+  "com.safaricom.mpesa.lifestyle": {
+    "title": "My OneApp",
+    "package": "com.safaricom.mpesa.lifestyle",
+    "description": "Your Entire Digital Life in One Place\nMy OneApp brings together everything you need\u2014your M\u2011PESA balance, airtime, data, SMS, Bonga points, and essential services\u2014right on your home screen. No switching between apps. No hassle.\n \nA Fresh New Experience\nGet instant visibility of what matters most from your M-PESA, bundle and even bonga balance\n \nSimpler Navigation\nAccess your quick actions and frequent transactions faster\n \nDo More With Your Money\nUnlock more possibilities with M\u2011PESA \u2013 Invest, Borrow, Insure\n \nConnectivity Made Easy\nBuy airtime, data bundles, and home fibre quickly and conveniently\n \nMake Payments Faster\nPay quickly and securely with Scan to Pay QR, AI Pay and NFC payments\n \nCare, Right at Your Fingertips\nHandle essential support requests directly from your phone",
+    "icon": "/icons/com.safaricom.mpesa.lifestyle.jpg"
+  },
+  "ke.co.equitygroup.equitymobile": {
+    "title": "Equity Mobile",
+    "package": "ke.co.equitygroup.equitymobile",
+    "description": "Equity mobile has revolutionised digital banking. This app gives you complete control of your financial and lifestyle needs. Simply view your balances, pay your bills, buy airtime, send money and so much more, all from one convenient platform. \n\nWith Equity mobile, you will be able to:\n\nConveniently and securely do your banking\n- Open a bank account in an instant\n- Create your profile from the comfort of your home at any time\n- Have a full view of your accounts, balances and transactions\n- Download account statements and transaction receipts\n- Lost your card? Block it temporarily\n\nGrow\n- Borrow with ease\n- View and pay your loan balances\n\nTransact on the go\nSend money\n- To your own or other Equity accounts\n- To other banks, locally or internationally\n- To mobile money\n- To your prepaid or ",
+    "icon": "/icons/ke.co.equitygroup.equitymobile.png"
+  },
+  "za.co.fnb.connect.itt": {
+    "title": "FNB Banking App",
+    "package": "za.co.fnb.connect.itt",
+    "description": "Award-winning banking made simple, secure, and built around you.\n\nWelcome to the future of banking.\n\nDiscover smarter, safer banking with the FNB App, recognised globally and named Best Consumer Digital Bank and Best Mobile Banking App in South Africa four years in a row.\n\nHow the FNB App helps you:\n\nIntelligent Search\nFind what you need, faster. Discover smarter banking with intelligent search; from shortcuts and saved recipients to offers, FAQs, and instant help.\n\nCustomise your app\u2028\nMake your Home screen yours by adding your most-used features for quick, effortless banking.\n\nApp PIN & biometrics\u2028\nSign in securely with a 5-digit PIN or biometric authentication.\n\nMultiple profiles\u2028\nSwitch seamlessly between different users via My profile.\n\nInnovative payments\u2028\nPay your way with ChatPay, P",
+    "icon": "/icons/za.co.fnb.connect.itt.png"
+  },
+  "com.kbrosapp.accountmanagerplus": {
+    "title": "Account Manager +",
+    "package": "com.kbrosapp.accountmanagerplus",
+    "description": "Account Manager + - The #1 Financial planning, review, expense tracking, and personal asset management app for Android! Track your Expenses and Save More!\n\nAccount Manager+ makes managing personal finances as easy as pie! Now easily record your personal and business financial transactions, generate spending reports, review your daily, weekly, and monthly financial data, and manage your assets with the Account Manager's spending tracker!\n\n* Applying a double-entry bookkeeping accounting system\nAccount Manager + facilitates efficient asset management and accounting. It does not just record your money coming in and out of your account but deposits your money into your account as soon as your income is input and draws money from your account as soon as your expense is input.\n\n* Budget and expe",
+    "icon": "/icons/com.kbrosapp.accountmanagerplus.png"
+  },
+  "com.heycoder.accountmanager": {
+    "title": "Account Manager",
+    "package": "com.heycoder.accountmanager",
+    "description": "It's a powerful money manager which keeps track of your daily expenses. It makes it easy to monitor your personal budget. It makes accounting easy to manage and user-friendly easy to use. You do not need a ledger or diary now the app will do all the calculations itself.\nYou can assign tags to your transaction and see statistics according to them in a beautiful pie chart.\nAccount Manager is totally free application to track your daily transactions as per your need.\nYou can manage all your personal accounts easily.\nFeatures:\n- Add Unlimited Accounts\n- Add daily expenses and transactions\n- Built-in Calculator\n- Works Offline\n- Add, Delete, and Update Daily Money Transaction\n- Instant Statistics\n- Simple Elegant UI\nApp Uses\n- Add Accounts and transactions from the add button\nYou can send feedb",
+    "icon": "/icons/com.heycoder.accountmanager.png"
+  },
+  "com.zlinksoft.accountmanager": {
+    "title": "Account Manager - Ledger Book",
+    "package": "com.zlinksoft.accountmanager",
+    "description": "Account Manager - Ledger Book : The #1 expense tracker, budget planner, small business khatabook, financial review, and personal ledger book management app for Android!\n\nManage your day-to-day transactions easily with Account Manager Ledger Book. Track expenses, record income, plan your budget, and review your financial activity in one simple app \u2014 fully offline and completely private. Whether for personal use, household budgeting, or business expense tracking, Account Manager helps you stay in control of your money. All account in one place to track your daily expenses and income transactions. Easily generate expense reports, and review monthly, weekly, and yearly spending. With smart budgeting tools, expense tracking, and personal asset management features, Account Manager helps you save",
+    "icon": "/icons/com.zlinksoft.accountmanager.png"
+  },
+  "com.jrummy.apps.rom.installer": {
+    "title": "ROM Installer",
+    "package": "com.jrummy.apps.rom.installer",
+    "description": "ROM Installer helps you find and install custom ROMs and ZIPs, a must have app for any root user!\n\nROM Installer has plenty of ROMs available, more than any other app on the Google Play Store. With ROM installer, you will always be up-to-date with your favorite ROMs and recovery. Popular ROMs available for install include CyanogenMod (cyngn), Android Open Kang Project (AOKP), Paranoid Android, OMNI, Carbon, Slim, Vanir, PAC-man and many more! In order for a particular ROM to be visible, it must be supported by your device.\n\nROM Installer Features\n\u2605 View, download, and install popular ROMs and ZIPs\n\u2605 1-Click install of the latest TWRP and ClockworkMod\n\u2605 Backup and restore your current ROM (nandroid), kernel, and recovery\n\u2605 Install queue to flash multiple ZIP files\n\u2605 Built-in GooManager with",
+    "icon": "/icons/com.jrummy.apps.rom.installer.png"
+  },
+  "com.jrummy.liberty.toolboxpro": {
+    "title": "ROM Toolbox Pro",
+    "package": "com.jrummy.liberty.toolboxpro",
+    "description": "ROM Toolbox is THE MUST HAVE APP for every root user.\n\nROM Toolbox combines all the great root apps into one monster app with a beautiful and easy to use interface.  ROM Toolbox has every tool you need to make your Android device fast and customized to your liking. Save 85% by getting ROM Toolbox instead of spending $30 or more on other apps.\n\nROM Toolbox has been featured on LifeHacker, XDA-Developers, Droid-Life, Android Central, RootzWiki, Android Police, and other popular sites. We know you will love it; Over 14,000 5 star user reviews! \u2605\u2605\u2605\u2605\u2605\n\nThis app requires root permission. For fast and friendly support please email us at contact@maplemedia.io. We will be glad to help answer your questions or concerns.\n\nROM Toolbox combines apps like Titanium Backup, ROM Manager, Root Explorer, Set",
+    "icon": "/icons/com.jrummy.liberty.toolboxpro.png"
+  },
+  "com.jrummy.liberty.toolbox": {
+    "title": "ROM Toolbox Lite",
+    "package": "com.jrummy.liberty.toolbox",
+    "description": "ROM Toolbox Lite for Android power users\n\nROM Toolbox combines several powerful apps to customize and enhance the performance of your device into one app.  Featuring a user friendly interface for easy navigation. \n\nROM Toolbox has been featured on LifeHacker, XDA-Developers, Droid-Life, Android Central, RootzWiki, Android Police, DroidForums and other popular sites. Over 12,000 5 star user reviews! \u2605\u2605\u2605\u2605\u2605\n\nROM Toolbox combines apps like Titanium Backup, SetCPU, MetaMorph, Autorun Manager, Terminal Emulator, Scripter, SD Boost, BuildProp Editor, Font Installer, Boot Animations & many more apps into an all-in-one app!\n\n\u2605 ROM Management \u2605\n\u2606 Install ROMs & themes. AOKP, CyanogenMod and other popular ROMs included.\n\u2606 Create, manage & restore nandroid backups\n\u2606 Wipe data, cache, dalvik-cache, bat",
+    "icon": "/icons/com.jrummy.liberty.toolbox.png"
+  },
+  "com.romcoach": {
+    "title": "ROM Coach (Mobility Workouts)",
+    "package": "com.romcoach",
+    "description": "ROM Coach is your #1 resource to eliminate pain and get back to and keep doing the active things you love. Designed by Kinesiologist Eric Wong (aka \"Coach E\"), who has been helping people move freely and without pain since 2005 and has gained the trust from people worldwide with over 733,000 subscribers on his Precision Movement YouTube channel.\n\n2-4 MINUTES FOR QUICK RELIEF\nTweak or hurt something and suffering from pain? Instead of reaching for pills, open up ROM Coach and use our Movement Painkillers to safely help you take the edge off the pain and helping you avoid popping unnecessary pain pills. \n\nDECREASE PAIN, REHAB INJURIES\nFrom head to toe including neck pain, shoulder impingement, rotator cuff tendonitis, rhomboid pain, poor posture, golfer's and tennis elbow, carpal tunnel, hip",
+    "icon": "/icons/com.romcoach.png"
+  },
+  "app.mantispro.gamepad": {
+    "title": "Mantis Gamepad Pro Beta",
+    "package": "app.mantispro.gamepad",
+    "description": "Mantis Gamepad Pro is the most Modern & Intuitive Gamepad Screen Mapper App on Android. It is the Companion App your Powerful Gamepad deserves. With Mantis\u2019 Screen Mapping Tech, you can Play any Android Game with any Gamepad Controller on any Android Device.\n \nMantis has been specifically tested with Major Android Games like Call of Duty Mobile, Genshin Impact, PUBG, Pokemon Unite, League of Legends: Wild Rift, Mobile Legends, Free Fire, etc to give you the PRO Level Gaming experience right on your Smartphone. \n\n\n\n\u2605 Great Gamepad Compatibility \ud83c\udfae : Mantis supports almost all Gamepads supported by Android. Gamepads from Major brands Xbox, Playstation, Nintendo, Razer, GameSir, iPega, Logitech, etc have been thoroughly tested and work great.\n\n\u2605 Phases \ud83c\udf16 : Mantis gives you the ability to creat",
+    "icon": "/icons/app.mantispro.gamepad.png"
+  },
+  "com.dirar.kalamdahab": {
+    "title": "XtremeXperience",
+    "package": "com.dirar.kalamdahab",
+    "description": "Discover a collection of stylish, high-quality sports wallpapers for your smartphone. The app offers a selection of images featuring dynamic scenes from hockey, basketball, and football. Vibrant shots, atmospheric lighting, and modern design will help make your phone's screen unique and striking.\n\nThe app features wallpapers for your home screen and lock screen. All images are optimized for mobile devices and are perfect for a variety of display sizes. You can quickly browse the collection, select your favorites, and set them in just a few taps.\n\nThe app is perfect for sports enthusiasts who appreciate dynamic scenes and a modern visual style. The catalog features images of matches, game moments, athletes, and spectacular sports arenas. The collection is constantly updated with new wallpap",
+    "icon": "/icons/com.dirar.kalamdahab.png"
+  },
+  "com.hidea.cat.magicrecipe": {
+    "title": "Cats & Soup : Magic Recipe",
+    "package": "com.hidea.cat.magicrecipe",
+    "description": "Cats & Soup: Magic Recipe is officially out now! \u2728\nThe purr-fectly awaited official sequel to Cats & Soup has finally arrived!\n\nTo celebrate the official launch, we're gifting everyone two limited cats: the sweet Calico Latte cat and the lovely Cherry Blossom Shorthair! \ud83d\udc31\ud83c\udf38\n\nEmbark on a magical merge adventure with adorable kitties today!\ud83d\udc3e\n\nMerge ingredients to whip up magical recipes, and decorate a cozy Share House for your feline friends!\n\n\nAre you ready to dive into one of the cutest cat games ever? \nMerge ingredients, cook tasty recipes, and build a dreamy cat home.\nCollect cats and enjoy simple mini-games as your cozy world grows. \nIf you love cat games, merge games, cooking, and decorating, this is your perfect escape. It's one of the top cat games among the merge games out there! \ud83d\udc31\n",
+    "icon": "/icons/com.hidea.cat.magicrecipe.png"
+  },
+  "am.tunnel.lite": {
+    "title": "am.tunnel.lite",
+    "package": "am.tunnel.lite"
+  },
+  "com.chimbori.hermitcrab.premium.unlocker": {
+    "title": "Hermit Premium \u2014 Unlocker",
+    "package": "com.chimbori.hermitcrab.premium.unlocker",
+    "description": "UNLOCK EXCLUSIVE PREMIUM FEATURES\nGet access to special Premium-only features in Hermit Lite Apps Browser!\n\nEvery version brings new Premium-only features. Check out our Help Article for the growing list of Premium features in the current version.\n\nhttps://hermit.chimbori.com/features/premium\n\nALREADY PURCHASED, BUT NOT BEING ACTIVATED?\nSome users have reported problems while purchasing Hermit Premium through the In-App Purchase. This is unfortunately a long-standing well-known bug in Google Play.\n\nCheck out our Help Article for a suggested solution:\nhttps://hermit.chimbori.com/help/premium\n\nIf you are having trouble purchasing Hermit Premium through the main Hermit app, you can purchase this Unlocker app instead.\n\nIf you have already purchased the In-App Purchase Premium upgrade, and the ",
+    "icon": "/icons/com.chimbori.hermitcrab.premium.unlocker.png"
+  },
+  "com.amarkets": {
+    "title": "AMarkets: Finance & Trading",
+    "package": "com.amarkets",
+    "description": "AMarkets: Trading & Investing\nUnlock the world of financial markets with AMarkets \u2013 the trusted company for traders of all levels, from beginners to experts.\n\nJoin Over 3 Million Traders Worldwide\nBecome part of a global community and elevate your trading performance with AMarkets.\n\nExperience Trading Like Never Before\nThe AMarkets app gives you seamless access to the world's largest and most liquid financial markets.\n\nWhy Choose the AMarkets App?\nExplore diverse market opportunities across 7 asset classes:\n\n\u25cf Forex: Major, minor, and exotic currency pairs\n\u25cf Metals: Gold and other precious metals\n\u25cf Stocks: Shares of leading global companies\n\u25cf Indices: Key global stock indices\n\u25cf Commodities & Bonds: Diversify your portfolio\n\nPowerful Features\n\n\u25cf 550+ trading instruments\n\u25cf Lightning-fast exe",
+    "icon": "/icons/com.amarkets.png"
+  },
+  "com.sportpesa.scores": {
+    "title": "SportPesa Score: Sport Results",
+    "package": "com.sportpesa.scores",
+    "description": "Welcome to the ultimate Sports app \u2013 Make SP Score your go-to destination for real-time updates, in-depth statistical insights, and everything you need to stay on top of your favourite sports. Whether you\u2019re looking for live scores, detailed match results, expert previews, or the latest news, our app delivers it all in a user-friendly interface. Stay informed with comprehensive stats, follow the action as it happens, and never miss a beat with up-to-the-minute updates from the world of sports.\n\nEngineered to be lightning fast and data friendly, download SP Score now and #MakeItCount\n\nSP Score Features:\n\n\u2022 Fantastic coverage of the world\u2019s leading sports, including the English Premier League, Italian Serie A, German Bundesliga, Spanish La Liga, UEFA Champions League, UEFA Europa League, the",
+    "icon": "/icons/com.sportpesa.scores.png"
+  },
+  "com.playtika.wsop.gp": {
+    "title": "WSOP Poker: Texas Holdem Game",
+    "package": "com.playtika.wsop.gp",
+    "description": "The WSOP official app awaits you! show off your Texas Hold'em Poker skills -\n\nCrush the tables to become a poker legend and enjoy the thrilling poker experience in the palm of your hand!\n\nStart playing with 1,000,000 FREE poker chips when you download!\n\nCalling all WSOP fans! Step into the world of high-stakes poker with the official World Series of Poker App. Play Texas Hold'em and Omaha, compete in worldwide tournaments, and dive into free poker games like Beat the House and King of the Table.\n\nCrush tables, outsmart opponents, and rise to the top against players from around the world. Feel the adrenaline rush as you make strategic moves, execute incredible bluffs, and accumulate a fortune in chips. Live your poker dreams and prove yourself as a true champion with the official WSOP app.\n",
+    "icon": "/icons/com.playtika.wsop.gp.png"
+  },
+  "com.forgegames.warshipswarfare": {
+    "title": "Warships Mobile 2: Naval War",
+    "package": "com.forgegames.warshipswarfare",
+    "description": "Warships Mobile 2 \u2013 Command the Seas in the Ultimate Naval War Multiplayer PvP Action\n\nStep into the captain\u2019s chair and experience epic online naval war battles in Warships Mobile 2, the ultimate combination of modern war combat, realistic naval simulation, and competitive multiplayer warship games on mobile. Take command of powerful warships, fast attack war boats, and stealth submarines in intense massively multiplayer PvP warfare.\n\nWhether you thrive in fast-paced real-time naval PvP matches, high-intensity naval blitz battles, or coordinated team warfare, this is the war game that puts you in control of the ocean\u2019s most advanced fleets. Outmaneuver rival captains, unleash precision strikes, and dominate the seas in the most immersive warship simulator ever. Perfect for fans of massive",
+    "icon": "/icons/com.forgegames.warshipswarfare.png"
+  },
+  "com.mark.ProjectCommunicatie": {
+    "title": "Mark!",
+    "package": "com.mark.ProjectCommunicatie",
+    "description": "With the Mark! app, we keep you informed about projects. In the app, you can find project information such as schedules, updates, documents, and contact the environmental manager.",
+    "icon": "/icons/com.mark.ProjectCommunicatie.png"
+  },
+  "com.motion.videokeeper.mark": {
+    "title": "Motion Mark-Wish Cart",
+    "package": "com.motion.videokeeper.mark",
+    "description": "Wishlist, Movie Guide & Cinema\nWelcome to Motion Mark, the ultimate digital sanctuary for collectors, shoppers, and cinephiles alike. Motion Mark is an exclusive collection and wishlist tracking tool for every trendsetter and dream chaser, making every beautiful item you desire accurately captured, exquisitely preserved, and wonderfully presented. But we do not stop at your personal shopping goals. We have seamlessly integrated a world-class movie database and a legally curated, unlocked streaming library, transforming this app into your ultimate digital showcase for both tracking physical goods and discovering breathtaking cinematic stories.\n\ud83d\udecd\ufe0f YOUR PERSONALIZED SHOPPING SHOWCASE On the home page, users can clearly see the price, type, and name of all kinds of goods. These crucial pieces ",
+    "icon": "/icons/com.motion.videokeeper.mark.png"
+  },
+  "com.mark_me": {
+    "title": "Mark Me",
+    "package": "com.mark_me",
+    "description": "Mark Me is a simple and secure work time tracker that helps you punch in and out, manage comp time, and monitor your worked hours effortlessly. With no sign-up required, all your data stays safely stored on your device\u2014never collected or shared. Whether you're a freelancer, shift worker, or just want to track your hours, Mark Me offers a clean, offline-friendly solution to stay in control of your time.",
+    "icon": "/icons/com.mark_me.jpg"
+  },
+  "com.markOne.ss_app": {
+    "title": "Mark - Auto Screenshot deleter",
+    "package": "com.markOne.ss_app",
+    "description": "Mark Auto Screenshot deleter is a smart screenshot manager and screenshot cleaner designed to help you manage screenshots the moment you take them.\n\nIf you often capture temporary screenshots for receipts, chat messages, order confirmations, addresses, notes, reference images, or reminders, Mark helps you stay in control without letting them pile up in your gallery. Instead of manually cleaning screenshots later, you can decide right away what should happen to each one. Mark helps keep your gallery clean, reduce clutter, and free storage by removing screenshots you no longer need.\n\nWhenever you take a screenshot, Mark instantly shows a quick popup dialog with a preview and simple actions. You can choose from 3 timer options to auto-delete the screenshot after your selected time, and you ca",
+    "icon": "/icons/com.markOne.ss_app.png"
+  },
+  "com.mudassirmarkmint.markvpn": {
+    "title": "Mark VPN: Fast Secure Proxy",
+    "package": "com.mudassirmarkmint.markvpn",
+    "description": "\ud83d\udee1\ufe0f Mark VPN \u2013 Fast & Secure VPN Proxy for Everyone\n\nLooking for a VPN that's actually fast, secure, and reliable? Mark VPN is the lightweight VPN proxy app built to protect your online privacy, unblock restricted websites, and give you safe, anonymous internet access \u2014 anytime, anywhere.\n\nWith one tap, Mark VPN encrypts your connection, hides your real IP address, and routes your traffic through high-speed servers around the world. Whether you're on public WiFi, mobile data, or home internet, your data stays private and your identity stays yours.\n\n\ud83d\ude80 Why Choose Mark VPN?\n\n\u2714 Unlimited Bandwidth \u2013 Stream, download, and browse without limits\n\u2714 Super Fast Servers \u2013 Optimized for low ping and stable speed\n\u2714 Strong Encryption \u2013 Bank-grade AES-256 security on every connection\n\u2714 No Logs Policy \u2013 We",
+    "icon": "/icons/com.mudassirmarkmint.markvpn.jpg"
+  },
+  "com.mewcraft.SchedulelDrugDealer": {
+    "title": "Drug Dealer Schedule 1 Game",
+    "package": "com.mewcraft.SchedulelDrugDealer",
+    "description": "In Drug Dealer Schedule Game, you start from nothing and rise to become a feared drug kingpin. Manage, craft, and sell various drugs while avoiding police, rival cartels, and other dangerous threats in the gritty streets of SCHEDULE 1.\n\n\ud83d\udd25 Key Features:\n\ud83c\udf31 Deep Business Simulation \u2013 Control every aspect of your operation from cultivation to manufacturing and sales in the world of SCHEDULE 1. Build your drug empire step by step.\n\n\ud83c\udf0d Dynamic Open\u2011World Sandbox \u2013 Experience the evolving challenges in SCHEDULE 1 with random events, police patrols, and surprise raids.\n\n\ud83d\udcc8 Strategic Planning & Tactics \u2013 In SCHEDULE 1, you must hire employees, upgrade your facilities, and purchase properties to maximize profits and grow your empire.\n\nWith SCHEDULE 1\u2019s dark humor and engaging strategy gameplay, every ",
+    "icon": "/icons/com.mewcraft.SchedulelDrugDealer.jpg"
+  },
+  "com.abyssal.schedule1kingpintools": {
+    "title": "Schedule 1 Kingpin Tools",
+    "package": "com.abyssal.schedule1kingpintools",
+    "description": "Build your empire smarter with Schedule 1 Kingpin Tools, the ultimate companion app for Schedule 1 players.\n\nPlan detailed property layouts, optimize your customer-dealer flow, and now\u2014design powerful product recipes using in-game ingredients.\n\nTake your strategy beyond the game.\n\nCurrent Features:\n\n\ud83e\uddf1 Layout Blueprint Builder\nDesign custom layouts using a powerful grid-based editor. Place grow equipment, processors, storage units and more to plan labs, safehouses, or grow ops with precision.\n\n\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Dealer-Customer Assignment\nManage your network by assigning customers to dealers. Track connections visually and optimize for profit or location.\n\n\ud83d\udcd6 Recipe Cookbook\nCreate and save your own product recipes by combining in-game ingredients. Plan costs, tweak effects, and maximize profit potential",
+    "icon": "/icons/com.abyssal.schedule1kingpintools.png"
+  },
+  "com.Blingames.TheScheduleVProject": {
+    "title": "Substance Syndicate Tycoon V",
+    "package": "com.Blingames.TheScheduleVProject",
+    "description": "Build Your Empire from Nothing!\n\nYou are a small time dealer of sorts with no money, no items, no connections. There's only one way, time to get down to business!\n\nStart small\u2014hustling on the streets, manufacturing your own homegrown \u201cplants,\u201d and selling to local customers. But as your empire expands, so do the risks.\n\n\ud83d\udd25 Grow, Sell, Expand\n\nCultivate and manufacture your own product.\nSell to different customers\u2014each with their own needs and risks.\nManage your supply and demand carefully to maximize profits.\n\n\ud83d\udcb0 Build Your Business\n\nOpen fronts to launder money and expand your influence.\nHire workers and dealers to handle operations.\nUpgrade your production and distribution network to scale up.\n\n\ud83d\ude94 Watch Out for the Law\n\nCops are always on the lookout\u2014stay low or bribe your way out of troubl",
+    "icon": "/icons/com.Blingames.TheScheduleVProject.jpg"
+  },
+  "com.gs.schedule.game": {
+    "title": "Schedule 1",
+    "package": "com.gs.schedule.game",
+    "description": "You're a small-time drug dealer rolling into a fresh town with no cash, no product and no connections. Build your drug empire from the ground up in the grungy west-coast city Point. Contend against intensifying law enforcement and deadly cartel competitors to expand your empire and reach the peak of the underworld.\n\nProduce a range of drugs to satisfy your customers, each one with it's own unique production process. Discover special recipes to create new drug variants with special properties.\n\nManage your inventory, negotiate deals, and avoid the cops as you climb the ranks of the cartel. Every decision matters. Will you be a strategic mastermind or a ruthless enforcer? Explore the gritty 3D open world, find hidden stash spots, and outsmart rival gangs who want you out of the picture.\n\n\nKe",
+    "icon": "/icons/com.gs.schedule.game.jpg"
+  },
+  "com.whirlpool.filter.challenge": {
+    "title": "Whirlpool Filter Challenge",
+    "package": "com.whirlpool.filter.challenge",
+    "description": "With Whirlpool Filter Challenge Fun - Join with your friends and laugh out loud.\n\n\ud83c\udf2a\ufe0f Whirlpool Effect: Feel the magical feeling of space being swirled, stretched and twisted. With Whirlpool Effects - transform every object in the frame into soft, flexible, and illogical forms. Perfect for sharing and impressing your friends!\n\u2728 Ranking Filter: Put your judgment skills to the test! Choose from a variety of topics and rank items from best to worst.\n\ud83c\udfa8 Color Filters: Color the shapes correctly to complete the target challenge!\n\ud83d\udc37\ud83d\udc36\ud83d\udc14 Pig\u2013Dog\u2013Chicken Filter: Say animal names out loud, match the beat. Challenge your reflexes to be funny and extremely attractive.\n\ud83d\udd12 Lock Filter: Challenge your brain by covering half of the lock. Find the correct code to open the lock.\n\ud83d\udca1 Photo Crop Challenge a simple y",
+    "icon": "/icons/com.whirlpool.filter.challenge.png"
+  },
+  "com.stickify.stickermaker": {
+    "title": "Sticker Maker",
+    "package": "com.stickify.stickermaker",
+    "description": "A powerful tool for creating your own custom stickers for WhatsApp. You can also explore and choose from thousands of stickers.\n\nTop features in Sticker Maker \ud83c\udfc6\n- Create stickers from photos\n- Make animated stickers from videos & GIFs\n- Automatic background remover with face detection\n- Easy crop and erase options\n- Add text, emojis & decorations to stickers\n- Collect stickers from your WhatsApp chats\n\nExplore stickers curated for you \ud83d\udd0d\n- Search and find interesting stickers\n- Discover stickers for different occasions & emotions\n- Emoji stickers & movie stickers\n\nSticker creator to make you more expressive \ud83d\ude0e\n- Add text with custom font styles & colors\n- Use amusing decorations like beards, spectacles, hats & more\n- Create sticker memes to tease your friends\n- Make custom birthday stickers ",
+    "icon": "/icons/com.stickify.stickermaker.png"
+  },
+  "com.wastickerapps.stickerstore": {
+    "title": "Stickify",
+    "package": "com.wastickerapps.stickerstore",
+    "description": "Introducing Stickify - a powerful app to discover and create personalized stickers for WhatsApp. Choose from thousands of curated stickers or design your own to make your chats more expressive and fun.\n\nAmazing features of Stickify \ud83c\udfc6\n- Explore endless stickers from various categories\n- Create custom stickers from photos\n- Make animated stickers from videos & GIFs\n- Automatic background remover with face detection\n- Easy crop and erase options\n- Add text, emojis & decorations to stickers\n- Save stickers from your WhatsApp chats\n\nDiscover stickers crafted just for you \ud83d\udd0d\n- Search and find fascinating stickers\n- Discover stickers for different occasions & emotions\n- Emoji stickers, movie stickers, and more\n- Frequent updates with new and trending stickers\n\nSticker creator to enhance your expre",
+    "icon": "/icons/com.wastickerapps.stickerstore.png"
+  },
+  "com.snowcorp.stickerly.android": {
+    "title": "Sticker.ly - Sticker Maker",
+    "package": "com.snowcorp.stickerly.android",
+    "description": "Discover billions of funny WhatsApp animated stickers and create your own stickers (WAsticker).\n- Explore billions of meme animated stickers and use them in your chats and status\n- Follow your favorite creators or artists to get new WA stickers instantly\n- Create animated stickers from your videos with new Auto Cut technology\n- Easily export your gif stickers to WhatsApp and Telegram (WASticker Apps)\n- Share your high quality gif emoji packs with friends through sharable links\n- Build and grow your brand with sticker.ly\n\n\nHere\u2019s how to create sticker pack for WhatsApp.\n1. Name your sticker pack.\n2. Select photos and cut out stickers from your photos\n3. Add captions to give your stickers more character.\n4. Export your stickers to WhatsApp and send them to friends.\n\n\nStay up to date with Sti",
+    "icon": "/icons/com.snowcorp.stickerly.android.png"
+  },
+  "com.gameloft.android.anmp.gloftgghm": {
+    "title": "com.gameloft.android.anmp.gloftgghm",
+    "package": "com.gameloft.android.anmp.gloftgghm"
+  },
+  "com.nordnet": {
+    "title": "Nordnet: Stocks & Funds",
+    "package": "com.nordnet",
+    "description": "Nordnet's products and services are available in Denmark, Finland, Norway and Sweden. With Nordnet's award-winning app, investing in stocks, funds, and ETFs is easier than ever. In the app you can track your progress and what is happening on the stock market. It's completely free to download and use the app.\n\n\u2022 We offer trading in stocks, funds, and other securities at low fees on several of the world's largest exchanges.\n\u2022 Discover new investments through top and theme lists, articles, and current campaigns.\n\u2022 See discussions about investing and specific stocks and funds from our users.\n\u2022 Follow your holdings and the stock market's development in real-time.\n\n\nGet started in three minutes.\nCreate an account directly in the app. Deposit your money easily and secure to start trading and inve",
+    "icon": "/icons/com.nordnet.png"
+  },
+  "con.netspark.mobile": {
+    "title": "Netspark Real-time filter",
+    "package": "con.netspark.mobile",
+    "description": "You can get everything you need in one app with Netspark's video, image, and text filtering - the most comprehensive filtering app on the market!\n\nThe Netspark app provides complete content filtering for smartphones and tablets, even without an internet connection, and even if the content  is locally stored or from an external source (USB flash drive, for example). We offer complete protection, while maintaining access to the content you and your family value!\n \nFeatures of the Netspark app - \n- Real-time sexting deterrence\n- Partial clothing filtering\n- Automatically blocks inappropriate content\n- Removal prevention\u2013 the app cannot be removed without a parent\u2019s permission\n- Enjoy pre-defined filters by category\n- Parental alerts- get alerts on new installations, unapproved installations a",
+    "icon": "/icons/con.netspark.mobile.png"
+  },
+  "com.spark.network": {
+    "title": "\u0633\u0628\u0627\u0631\u0643 \u0646\u062a",
+    "package": "com.spark.network",
+    "description": "The SparkNet app is the ideal solution for SparkNet subscribers to recharge their internet quickly and easily via their mobile phone. The app allows you to recharge your internet balance using recharge cards or digital codes in a secure and reliable manner, with the ability to track your data consumption and remaining balance directly.\n\nThe app offers a simple and user-friendly interface that allows you to recharge with just one click. It also displays a history of previous recharges so you can review all your recharges. It also provides instant notifications to alert you when your package expires or your balance is low, helping you stay connected without interruption.\n\nThe app features high security that protects your personal data and does not store sensitive information. It also include",
+    "icon": "/icons/com.spark.network.jpg"
+  },
+  "com.readdle.spark": {
+    "title": "Spark Mail: AI Email, Calendar",
+    "package": "com.readdle.spark",
+    "description": "Reclaim your time and focus with Spark \u2014 the AI-powered email app loved by millions. Declutter your inbox, manage your calendar, and move through emails faster than ever. \ud83d\ude80\n\n\u201cIt\u2019s a combination of polish, simplicity, and depth.\u201d \u2013 FastCompany\n\u201cYou can create an email experience that works for you.\u201d \u2013 TechCrunch\n\nMANAGE MULTIPLE EMAIL ACCOUNTS\nConnect all your emails \u2014 including Gmail, Microsoft Outlook, AOL, Yahoo, Hotmail, IMAP, GMX, and  iCloud \u2014 in one unified inbox. \n\nSTAY ORGANIZED WITH SMART INBOX\nKeep personal and high-priority emails up top \u2014 newsletters and notifications stay neatly grouped below. \n\nWORK SMARTER WITH SPARK +AI\nSummarize long threads, draft replies, rephrase messages, and adjust tone \u2014 all powered by AI. Use your AI Assistant to manage your inbox, translate emails,",
+    "icon": "/icons/com.readdle.spark.png"
+  },
+  "com.safaricom.mpesa.orgapp": {
+    "title": "M-PESA for Business",
+    "package": "com.safaricom.mpesa.orgapp",
+    "description": "The M-PESA for Business app is the easiest way for M-PESA merchants to transact and track M-PESA collections and disbursements.\n\nIn this version, merchants will be able to:\n\nTrack business growth\n\n\u00b7        View your organisation\u2019s Money-in and Money-out trends from a performance graph. Click to see accumulated values per day.\n\nView full Statements\n\n\u00b7        See all transactions that were made or received in your account. Use Money-in and Money-out to filter between credits and debits.\n\nTransact easily\n\n\u00b7        Pay Customer feature allows you to send money to pay suppliers, refunds or salaries directly to their M-PESA.\n\n\u00b7       Withdraw money allows merchants to move money collected on the till to owners\u2019 M-PESA account, M-PESA agent or bank\n\n\u00b7 \tPay Bill and Buy Goods allows merchants to p",
+    "icon": "/icons/com.safaricom.mpesa.orgapp.png"
+  },
+  "com.cc.grameenphone": {
+    "title": "GPAY",
+    "package": "com.cc.grameenphone",
+    "description": "GPAY is a mobile wallet that customers of any Grameenphone number can use to recharge their GP mobile numbers, make payments of utility bills (Electricity, Gas or water) and to purchase train tickets from their own mobile number. To use GPAY, customers have to register by using the GPAY mobile app (from Google Play store) or just dial * 777 # from any device. Once you are registered, you are allowed to make your payments. To refill your GPAY wallet you can use your bank accounts (Rocket, AB Bank, Islami bank) or if you do not have any account from these banks then you can visit any MobiCash outlet. For hassle free payment solution start using GPay from today and open the window of opportunities of your time and money.",
+    "icon": "/icons/com.cc.grameenphone.png"
+  },
+  "com.monetizeaiapp": {
+    "title": "MonetizeAI: Make Money with AI",
+    "package": "com.monetizeaiapp",
+    "description": "Generate & sell digital products with AI\n\nMonetize AI let's you generate digital products and automatically upload them to marketplaces for sale.\n\nUnlock your creative potential and turn your ideas into income with MonetizeAI, the ultimate platform for generating and selling digital products. Whether you're a seasoned creator or just starting, MonetizeAI provides the tools you need to bring your vision to life and build your own digital storefront.\n\n\nFREE FEATURES:\nOne Free Product Generation: Get started without any cost and experience the power of our AI-driven creation tools.\nEasy Uploads: Seamlessly upload and manage your digital products.\n\n\nPREMIUM SUBSCRIPTION UNLOCKS:\nFull Generation with Credit-Based System: Gain access to our complete suite of advanced generation tools. Our flexib",
+    "icon": "/icons/com.monetizeaiapp.png"
+  },
+  "com.vaib.agents": {
+    "title": "Vaib Social: AI Agents",
+    "package": "com.vaib.agents",
+    "description": "VAIB - Where AI Influencers Come to Life!\nStep into the future of AI influencers\u2014chat, create, invest, and shape your own digital economy. Whether you're here to interact with AI personalities, design your dream characters, or earn rewards, VAIB is your ultimate playground for AI-driven experiences!\n\n\ud83c\udf1f Discover AI Influencers Like Never Before\nEngage with a diverse world of AI influencers, from community-created personalities to trendsetting virtual figures. Chat in real time, build connections, and watch them evolve based on your interactions!\n\n\ud83c\udfa8 Design & Launch Your Own AI Character\nWhy follow when you can lead? Create unique AI characters with customizable looks, voices, and personalities. Shape their identity and bring them to life in the VAIB universe!\n\n\ud83d\udcd6 Craft Interactive Storylines\n",
+    "icon": "/icons/com.vaib.agents.png"
+  },
+  "com.ogoul.werfieapp": {
+    "title": "Werfie: Social Media with AI",
+    "package": "com.ogoul.werfieapp",
+    "description": "Join Werfie, Your Next-Generation Social Media Platform with AI!\n\nDiscover a whole new way to connect, share, and stay updated with Werfie. Powered by Artificial Intelligence (AI), Werfie lets you engage with viral content, latest news, trending topics, and real-time conversations, all while breaking language barriers!\n\nTop Features of Werfie:\n\n1. AI-Powered Chat Assistant\nAsk anything, anytime! Chat with Werfie's advanced AI assistant to get real-time answers, advice, or simply engage in a conversation.\n\n2. Share Unlimited Media\nPost photos, videos, audio, files, and even documents without size restrictions. Share your thoughts and creativity without limits!\n\n3. Real-Time Trends and News\nStay connected to the latest news and trending topics. Use hashtags to join the conversation, or start",
+    "icon": "/icons/com.ogoul.werfieapp.png"
+  },
+  "com.innovationredefined.socialcraftai": {
+    "title": "SocialCraftAI: AI Social Tools",
+    "package": "com.innovationredefined.socialcraftai",
+    "description": "SocialCraftAI is your ultimate AI-powered toolkit for creating compelling social media content with ease. Whether you're a creator, influencer, or business, our range of tools helps you generate fresh content ideas, edit existing posts, craft engaging captions, find trending hashtags, and even write scripts for your videos. Elevate your social media game and build a strong online presence with our AI-driven solutions.\n\nKey Features:\n\n    - Content Ideas: Struggling with what to post next? Let our AI generate the perfect content idea to inspire you.\n    - Content Editing: Need a final touch on your post? Get suggestions and improvements for your content instantly.\n    - Caption Creation: Writing captions can be challenging. SocialCraftAI will help you create catchy and engaging captions for",
+    "icon": "/icons/com.innovationredefined.socialcraftai.jpg"
+  },
+  "pan.alexander.tordnscrypt.gp": {
+    "title": "InviZible Pro: Tor & Firewall",
+    "package": "pan.alexander.tordnscrypt.gp",
+    "description": "Preserves privacy, prevents tracking, and provides access to restricted and hidden online content.\n\nInviZible Pro combines the strengths of Tor, DNSCrypt, and Purple I2P to provide a comprehensive solution for online privacy, security, and anonymity.\n\nTor is responsible for privacy and anonymity. It acts like an unlimited free VPN proxy, but does so in the most secure way possible. Tor uses military-grade encryption and routes your internet traffic through a network of volunteer-run proxy servers. This helps protect your identity and location by hiding your IP address. It allows you to browse the internet anonymously, access websites that are otherwise restricted, and communicate privately. Tor also allows access to websites hosted on the Tor network, known as \"onion services\" or dark web,",
+    "icon": "/icons/pan.alexander.tordnscrypt.gp.png"
+  },
+  "com.duosecurity.duomobile": {
+    "title": "Duo Mobile",
+    "package": "com.duosecurity.duomobile",
+    "description": "Duo Mobile works with Duo Security's two-factor authentication service to make logins more secure. The application generates passcodes for login and can receive push notifications for easy, one-tap authentication.\n\nAdditionally, you can use Duo Mobile to manage two-factor authentication for other application and web services that make use of passcodes.\n\nDuo Mobile also has a companion app for Wear OS, Duo Wear, making secure authentication even more convenient on your smartwatch.\n\nNote: For Duo accounts, Duo Mobile needs to be activated and linked to your account before it will work. You will receive an activation link as part of Duo's enrollment process. You may add third-party accounts at any time.\n\nAdditionally, we will request access to use your camera for the sole purpose of scanning ",
+    "icon": "/icons/com.duosecurity.duomobile.webp"
+  },
+  "com.excelliance.multiaccounts": {
+    "title": "Multiple Accounts: Dual Space",
+    "package": "com.excelliance.multiaccounts",
+    "description": "Clone a wide range of popular social, messaging, and gaming apps and use them simultaneously with Multiple Accounts. \n\n- Do you want to use multiple WhatsApp or Facebook accounts on one device?\n- Do you want to separate your personal and professional accounts into their own dual spaces?\n- Are you a competitive gamer looking for an edge in your favorite mobile game? \n\nChoose Multiple Accounts! As one of the most downloaded, best rated cloning apps on the market, we help millions of users run dual or multiple accounts across top social and gaming apps, including: WhatsApp, Facebook, Instagram, Line, Google Play Services - and today\u2019s most played mobile games like FreeFire, Mobile Legends, LOL and Rise of Kingdoms!\n\nKey Features\n\nClone popular Social and Gaming Apps; access multiple accounts ",
+    "icon": "/icons/com.excelliance.multiaccounts.png"
+  },
+  "com.excelliance.multiaccount": {
+    "title": "2Accounts - Dual Apps Space",
+    "package": "com.excelliance.multiaccount",
+    "description": "Do you have two accounts for Whatsapp and are tired of switching accounts throughout the day?\nDo you find it hard to manage two phones at the same time to keep up with both your work and personal social accounts?\nDo you play multiple accounts of the same game and wish that you could log on to all accounts at the same time?\n\n2Accounts is the perfect solution for your problem! Users can use 2Accounts to log into two accounts of the same app on a single device. 2Accounts enables two accounts to run in a parallel environment. This ensures that the app data is stored independently and that you won\u2019t miss a single notification from each app. \n\nHighlight features of 2Accounts:\n\n\ud83d\udc4d\ud83c\udffc Clone popular social media apps (Facebook, Whatsapp, Instagram, etc.) and gaming apps (Clash of Clans, Lords Mobile, ",
+    "icon": "/icons/com.excelliance.multiaccount.png"
+  },
+  "com.ludashi.dualspace": {
+    "title": "Dual Space - Multiple Accounts",
+    "package": "com.ludashi.dualspace",
+    "description": "The first application that compatible with WhatsApp completely. If you find WhatsApp crashing in other cloned application, please choose DualSpace. We can guarantee the running stability of WhatsApp.\n\nDid you have to frequently switch different social account of same app on your phone?\n\nHave you ever used two or more phones for keeping your accounts online just in case of  missing any message from WhatsApp?\n\nNow, the black technology, Dual Space has released! It can perfectly solve your problem! You can easily use one phone to log in multiple accounts and keep them all online at the same time! And you don\u2019t need to worry about the message reception and data storage problem of different accounts, because they will work independently and with no interference to each other.\n\nKeep multiple soc",
+    "icon": "/icons/com.ludashi.dualspace.png"
+  },
+  "com.mc.huawei1": {
+    "title": "Notify for Huawei",
+    "package": "com.mc.huawei1",
+    "description": "\ud83c\udf1f Supports All Latest Huawei Smartwatches \ud83c\udf1f\nThis app is compatible with the latest Huawei smartwatch and smartband models, including Huawei Band, and Huawei Watch.\n* Wear OS watches are not supported\n\nBEST FEATURES\n- \ud83d\udd12 Your data is safe and secure: no cloud storage, no third-party sharing\n- \ud83d\udc46 Smartwatch button custom actions: next music track, tasker, IFTTT, selfie, voice assistant, Alexa, HTTP request, ...)\n- \u270f\ufe0f Quick reply to Whatsapp, Telegram, \u2026 messages using your smartwatch\n- \ud83d\uddd3\ufe0f Sync phone calendar reminders, custom repeated reminders, custom wake up alarm, power nap\n- \ud83d\uddfa\ufe0f Maps, OsmAnd, Komoot and Google Clock app dedicated support\n- \ud83d\udc66 Customize notifications for each contact (mom, girlfriend, friends, ...)\n- \ud83c\udfa8 Multiple app profiles to customize app behaviors depending on days, locati",
+    "icon": "/icons/com.mc.huawei1.png"
+  },
+  "com.pamuktiappss.huaweifreebudsse2appguide": {
+    "title": "Huawei freebuds se 2 app Guide",
+    "package": "com.pamuktiappss.huaweifreebudsse2appguide",
+    "description": "Experience the next level of wireless audio freedom with the Huawei FreeBuds SE 2. Elevate your music, calls, and overall audio experience with these cutting-edge true wireless earbuds. Packed with advanced features and sleek design, the FreeBuds SE 2 redefine how you connect, listen, and communicate on the go. Immerse yourself in high-quality sound with the Huawei FreeBuds SE 2. The dynamic drivers deliver impressive audio clarity, rich bass, and balanced tones, allowing you to enjoy your favorite music in its full glory.\n\nIn this application you can find information about the Huawei freebuds se 2, such as information about product specifications, features, user manual, reviews and much other information that can help you maximize the use of the Huawei freebuds se 2.\n\nDISCLAIMER:\n\nThis Ap",
+    "icon": "/icons/com.pamuktiappss.huaweifreebudsse2appguide.png"
+  },
+  "com.starwatchfaces.huawei": {
+    "title": "Watch faces for Huawei",
+    "package": "com.starwatchfaces.huawei",
+    "description": "Introducing \"Watch Faces for Huawei\" \u231a, your ultimate companion for personalized timekeeping for all your Huawei Smartwatches and bands!\n\nElevate your Huawei smartwatch/band experience with our feature-packed Android app, meticulously crafted to bring you a stunning array of watch faces, ensuring that your wristwear reflects your unique style and preferences.\n\n\ud83c\udfa8 Extensive Watch Face Collection \ud83c\udfa8\nExplore a diverse and ever-expanding collection of meticulously designed watch faces that cater to every taste and occasion. From sleek minimalistic designs to vibrant animated faces, our app offers a watch face for every mood.\n\n\ud83c\udd93 Latest Free Watch Faces \ud83c\udd93 \nStay ahead with our regularly updated selection of the latest free watch faces. Experience the freshest designs without compromising on quality",
+    "icon": "/icons/com.starwatchfaces.huawei.png"
+  },
+  "com.huaweiwatchfit.app": {
+    "title": "Huawei Watch Fit App",
+    "package": "com.huaweiwatchfit.app",
+    "description": "Connect and control your Huawei Watch Fit or Fit SE with this powerful companion app!\n\nThe Huawei Watch Fit App is designed to simplify your smartwatch experience. Pair your watch with your Android device effortlessly and unlock advanced features that keep you informed, active, and connected\u2014all from your wrist.\n\nKey Features:\n\n\u2705 Easy Bluetooth Pairing\nQuickly connect your Huawei Watch Fit and Fit SE to your smartphone.\n\n\u2705 Real-Time Notifications\nGet instant alerts for calls, texts, and app messages directly on your smartwatch.\n\n\u2705 Multiple Watch Faces\nCustomize your watch with unique and stylish watch face options.\n\n\u2705 Activity Sync\nTrack and sync your daily steps, heart rate, sleep, and other health data.\n\n\u2705 Find My Watch\nEasily locate your smartwatch when it\u2019s misplaced.\n\n\u2705 Clean, Simple ",
+    "icon": "/icons/com.huaweiwatchfit.app.png"
+  },
+  "com.volunteerx360.huawei.huaweip40.wallpaper2020.launcher2020.themes2020.huaweip.p40wallpaper.icon2020.huaweipro": {
+    "title": "Huawei P40 Pro Launcher 2023",
+    "package": "com.volunteerx360.huawei.huaweip40.wallpaper2020.launcher2020.themes2020.huaweip.p40wallpaper.icon2020.huaweipro",
+    "description": "This application has beautiful HD wallpapers and stunning themes with new features and beautiful look which will make your Huawei P40 Pro mobile a new look. It contains best animated beautiful launchers which will make your phone smarter than usual. It will improve your smart phone battery by less consumption of battery cells and you will experience a best experience with it.\n\nTry out Theme and launchers for your Huawei P40 Pro with beautiful and lavish look of themes and wallpapers with latest features.\n\nThis theme for Huawei P40 Pro is a resemblance to the UI of the phone made by Huawei; you will get the stock/original wallpapers of the Huawei P40 Pro phone. The wallpapers are with FHD+ resolution which will make your phone smarter and with greater resolution, wallpapers quality will be ",
+    "icon": "/icons/com.volunteerx360.huawei.huaweip40.wallpaper2020.launcher2020.themes2020.huaweip.p40wallpaper.icon2020.huaweipro.png"
   }
 }
