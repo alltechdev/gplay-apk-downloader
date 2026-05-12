@@ -89877,5 +89877,636 @@
     "package": "com.volunteerx360.huawei.huaweip40.wallpaper2020.launcher2020.themes2020.huaweip.p40wallpaper.icon2020.huaweipro",
     "description": "This application has beautiful HD wallpapers and stunning themes with new features and beautiful look which will make your Huawei P40 Pro mobile a new look. It contains best animated beautiful launchers which will make your phone smarter than usual. It will improve your smart phone battery by less consumption of battery cells and you will experience a best experience with it.\n\nTry out Theme and launchers for your Huawei P40 Pro with beautiful and lavish look of themes and wallpapers with latest features.\n\nThis theme for Huawei P40 Pro is a resemblance to the UI of the phone made by Huawei; you will get the stock/original wallpapers of the Huawei P40 Pro phone. The wallpapers are with FHD+ resolution which will make your phone smarter and with greater resolution, wallpapers quality will be ",
     "icon": "/icons/com.volunteerx360.huawei.huaweip40.wallpaper2020.launcher2020.themes2020.huaweip.p40wallpaper.icon2020.huaweipro.png"
+  },
+  "com.idea.backup.smscontacts": {
+    "title": "Super Backup & Restore",
+    "package": "com.idea.backup.smscontacts",
+    "description": "The fastest data backup and restore tool on Android!\nYou can backup Apps, Contacts, SMS, Call Logs, Bookmarks, Calendars to your SD card.\nYou can share installation APK files  to your friends.\nYou will never lose your data again!\n\n\u2605Important Notice #1\nIf you intend to do a factory reset on the phone, please make sure default backup folder is in your external SD card before doing it. If not, please copy the entire backup folder (\"SmsContactsBackup\" by default) to your external SD card \n\n\u2605Important Notice #2\nSince Android M 6.0, access bookmarks from 3rd party application is disabled, so Super Backup cannot backup and restore bookmarks.\n\n\u2605Important Notice #3\nIf you schedule automatic backups,  and you use some apps such as Task Killer or Memory Clear,  please make sure you had add Super Back",
+    "icon": "/icons/com.idea.backup.smscontacts.png"
+  },
+  "com.nokia.OnTheGo": {
+    "title": "Nokia Learn",
+    "package": "com.nokia.OnTheGo",
+    "description": "Nokia Learn \u2013 Learn your way, anywhere, anytime\n \nNokia Learn is your go-to learning companion, designed to help you grow your skills wherever you are. Whether you\u2019re on your phone or at your desk, you can access courses, videos, 3D content, and more, all tailored to support your development at your own pace.\n \nThe app features a clean and intuitive design that makes it easy to find what you need, save your favorite content, and track your progress. It supports multiple formats, works in dark mode, and includes a built-in scanner to connect Nokia products with their technical documentation.\n \nIf you have a registration code, you can unlock content specific to your role or organization. If not, you can still explore a variety of free learning materials.\n \nWherever you\u2019re headed, Nokia Learn",
+    "icon": "/icons/com.nokia.OnTheGo.png"
+  },
+  "com.nokia.fwa.nokiawireless": {
+    "title": "Nokia Wireless",
+    "package": "com.nokia.fwa.nokiawireless",
+    "description": "Nokia Wireless App provides installation guidance for FastMile broadband receiver devices. It will help you register a new device and find a suitable place for the installation. Nokia Wireless App can also be used to manage and monitor already installed devices.\n\nPlease note that Nokia Wireless App is used in conjunction with FWA specific supported hardware mentioned below. For any account information or other details for using Nokia Wireless App please contact your operator\u2019s customer support.\n\nDevices Supported:\n\u2022 FastMile 4G Receiver\n\u2022 FastMile 5G Receiver",
+    "icon": "/icons/com.nokia.fwa.nokiawireless.png"
+  },
+  "com.nokia.cloud.ntc": {
+    "title": "Nokia Team Comms - Cloud",
+    "package": "com.nokia.cloud.ntc",
+    "description": "Nokia Team Comms brings video and voice capabilities for reliable and secure campus-wide communications, for one-to-one and one-to-many push-to-talk calls, throughout industrial locations such as mines, ports and factories \u2013 both indoors and outdoors. Nokia Team Comms resides on the MXIE and thus is easy to install, upgrade and maintain.",
+    "icon": "/icons/com.nokia.cloud.ntc.png"
+  },
+  "com.com.classic.launcheren": {
+    "title": "Nokia 1280 Launcher",
+    "package": "com.com.classic.launcheren",
+    "description": "Disclaimer:\nThis app is not affiliated directly to the creator of the images / narrations .It is just fan application, it has no official connection with Nokia Corporation.\n\nRelive the memories of the past with the Nokia Launcher. This app brings back the vintage style of the classic Nokia phone to your Android device. Get the authentic feel of the Nokia of the past with the retro phone design and old school themes.\n\nThis app offers a wide range of Nokia old themes that will give your phone a retro look. You can choose from a variety of classic Nokia wallpapers, call icons, and even the phone color.\n\nThe Nokia Launcher is easy to use and will change the look and feel of your Android phone. Get the classic Nokia experience with just one tap and take a trip down memory lane.\n\nIf you're a fan",
+    "icon": "/icons/com.com.classic.launcheren.png"
+  },
+  "com.nokia.wifi": {
+    "title": "Nokia WiFi",
+    "package": "com.nokia.wifi",
+    "description": "The Nokia WiFi app lets you to quickly setup and easily manage your Nokia WiFi Beacon units (purchased separately). Use the app in your home for quick insights to get the most out of your Nokia WiFi network. \nThe first real time mesh Wi-Fi solution that allows you to enjoy uninterrupted Wi-Fi speed and coverage throughout your home. The Nokia WiFi network is self-optimizing against interferences in real time to avoid disruptions. \nYou can do the following with your Nokia WiFi app: \n\t\u2022 Set up your Beacon units in just a few minutes \n\t\u2022 Manage internet access for connected devices \n\t\u2022 Quickly create and share a guest network \n\t\u2022 Easily check each devices\u2019 connection speed in your network \n\t\u2022 Automatically update your network at scheduled times \n\t\u2022 Simple interface that shows which devices ha",
+    "icon": "/icons/com.nokia.wifi.png"
+  },
+  "com.hmdglobal.support": {
+    "title": "My Device by HMD",
+    "package": "com.hmdglobal.support",
+    "description": "The official app for Nokia and HMD smartphones running Android. It\u2019s got lots of useful stuff to help you get the best out of your phone: get personal customer support, read your phone\u2019s user guide, and diagnose device issues. \n \nWhat\u2019s more, you can discover the latest product news and offers, check your device warranty status, and manage your insurance, all with just a few taps. Handy, right? \n\nMy Device app for Nokia and HMD smartphones and tablets enables users to: \n\n- View battery health, storage space, device temperature, and more\u202f \n- Access 24-hour customer support\u202f \n- Get the latest news on Nokia phones and HMD products\u202f \n- Receive exclusive offers and deals from our partners \n- Explore personalized content",
+    "icon": "/icons/com.hmdglobal.support.png"
+  },
+  "com.phone.backup.restore": {
+    "title": "Phone Backup and Restore",
+    "package": "com.phone.backup.restore",
+    "description": "Phone Backup and Restore: Data Transfer Solution Made For You!Looking for a reliable and secure way to manage your data across devices? With Phone Backup And Restore: Data Transfer, you can easily transfer and restore your phone's essential data, such as contacts, messages, call logs, calendars, and even applications. Forget about the headache of data migration with this efficient Phone Backup And Restore: Data Transfer solution for all your devices.\n\nPhone Clone Content Transfer tools make the process seamless and safe for your information.\n\n\ud83d\udcc4 Key Features of Phone Backup and Restore: \ud83d\udcc4\n\u2714\ufe0f Phone Clone Content Transfer;\n\u2714\ufe0f Contact Backup: Messages Recovery;\n\u2714\ufe0f Contacts Backup And Restore: All Phone Transfer;\n\u2714\ufe0f Backup Contacts: Restore Data Recovery;\n\u2714\ufe0f Transfer My Data: SMS Backup And Res",
+    "icon": "/icons/com.phone.backup.restore.png"
+  },
+  "com.hmdglobal.app.hermes": {
+    "title": "HMD Mobile",
+    "package": "com.hmdglobal.app.hermes",
+    "description": "The HMD Mobile app is all you need to manage your HMD Mobile SIM plan. Check your mobile data consumption, change your SIM plan for the next renewal cycle, manage your account, and contact support. You can also purchase add-ons for international calls and texts. HMD Mobile keeps you connected, and the HMD Mobile app keeps you in control.",
+    "icon": "/icons/com.hmdglobal.app.hermes.png"
+  },
+  "com.aimobiapps.onphone": {
+    "title": "OnPhone: Second Phone Number",
+    "package": "com.aimobiapps.onphone",
+    "description": "Get a second phone number instantly \u2014 no SIM card required. Call, text, and receive SMS verification codes while keeping your personal number private.\nPerfect for sign-ups, messaging, business, and everyday use.\nUse your number with popular apps like WhatsApp, Telegram, Facebook, and more.\nChoose local numbers from the United States (US), United Kingdom (UK), France (FR), Brazil (BR), Canada (CA), Spain (ES), Mexico (MX), Australia (AU), South Korea (KR), Japan (JP), Hong Kong (HK) \u2014 and 100+ other countries.\nNo SIM swaps. No extra devices. Manage multiple numbers from one app, anytime, anywhere. Affordable calls and messaging for personal and business use.\n\nSecond number for SMS & verification\nOnPhone is built for real use:\n\u2714 receive SMS and verification codes\n\u2714 create accounts and sign u",
+    "icon": "/icons/com.aimobiapps.onphone.webp"
+  },
+  "com.onoffapp.app": {
+    "title": "Onoff Numbers",
+    "package": "com.onoffapp.app",
+    "description": "What if you could get a second number in minutes, without the hassle of using a second phone or a second SIM card, but just by downloading an app? You dreamed of it, Onoff made it happen!\n\nDownload the Onoff app and get a second number in an instant!\n\nYou will want to use a second number for:\n\nHaving a separate professional line - separate your professional and personal life\n\nProtecting your privacy when you are online - your safety is our priority\n\nSelling goods online in total confidence - safely communicating with your potential buyers\n\nCarrying only one phone on you - less weight in your pocket, less hassle between switching the phones\n\nBeing able to use your phone number from any smartphone and even from your web browser - we want you to have a number as flexible as your email!\n\nMake ",
+    "icon": "/icons/com.onoffapp.app.png"
+  },
+  "com.phone.app": {
+    "title": "Phone.com - Mobile Office",
+    "package": "com.phone.app",
+    "description": "Introducing Phone.com for Android. \n\nSignup as a customer on Phone.com to enjoy the benefits of using Android App. Signup here: http://www.phone.com/pricing/\n\nPhone.com for Android brings all your cloud communication features together into one app\u2014with the added benefit of being able to make calls over your carrier network or by VoIP call using data coverage or WiFi. \n\nSay goodbye to desk phones, because your Android device is now a Phone.com extension! Make calls, manage contacts, access visual voicemail, trascription, conference calling, SMS, Fax and many more features. Get incoming calls even if your app is not active and stay in touch with push-notification.\n\nGot a second business phone? Why not use your Android device instead, and simply separate your personal and business calls by ro",
+    "icon": "/icons/com.phone.app.png"
+  },
+  "com.springleaf.mobile": {
+    "title": "OneMain Financial",
+    "package": "com.springleaf.mobile",
+    "description": "Access the tools you need and all the best extras. Stay in control of your loan and keep tabs on your progress.\nAn active OneMain account is required to use this app. To apply for a new personal loan, visit OMF.com.\nAPP FEATURES\n- Make loan payments on the go.\n- Turn on AutoPay to schedule automatic payments.\n- Sign up for paperless statements and payment alerts.\n- Monitor your VantageScore (R) (updated monthly).\n- Access Trim by OneMain (R) to track your spending and even save some cash.\nNote: Deleting this app does not close or delete a OneMain account. As a regulated lender and financial institution, we must retain certain records under applicable law.\nABOUT ONEMAIN FINANCIAL\nWe provide personal loans that can help you get the money you need, for purposes such as:\n- Debt consolidation\n-",
+    "icon": "/icons/com.springleaf.mobile.png"
+  },
+  "com.numidatech.numida": {
+    "title": "Numida - Business Loans",
+    "package": "com.numidatech.numida",
+    "description": "Numida is unlocking the potential of thousands of Ugandan small businesses. Simply apply for a fast and convenient business loan through our app and receive funds over mobile money in under 72 hours, no security required! \n\nNumida is very easy to use! By using our app, you can increase your loan limit and get even larger loans to help you grow your business. Also, discover interesting financial insights about your business by entering your records. \n\nMake sure that you always have the latest version of Numida on your phone to get the latest features. \n\nDate & Privacy: Numida takes your privacy and data very seriously. That's why we use the same security as banks to keep your information safe!",
+    "icon": "/icons/com.numidatech.numida.png"
+  },
+  "com.viewer.comicscreen": {
+    "title": "ComicScreen - PDF, ComicReader",
+    "package": "com.viewer.comicscreen",
+    "description": "1. Support compressed files/type : zip, rar, cbz, cbr, pdf\n\n2. Support Images : jpg, png, gif, bmp, tiff, webp, avif\n\n3. key functions\n\n- Folder, File Explorer (Search, Rename, Delete)\n- usb-otg drive support\n- smb, ftp network\n- Drag & Drop (file, folder, etc)\n- See list images in folders.\n\n- Smooth image scrolling\n- Bookmark preview\n- zip file quick view\n- Page move preview\n- Horizontal view mode (2 pages)\n- Vertical view mode (1 page)\n- Automatic page resort\n- Support chapter Drawer, if a folder in zip file.\n- Cut margin\n- Page move by hardware key\n\nFunctions for easy management and display of images.\n\n(no images, compressed file in this app)",
+    "icon": "/icons/com.viewer.comicscreen.png"
+  },
+  "oghab.app": {
+    "title": "oghab.app",
+    "package": "oghab.app"
+  },
+  "xyz.easypro.httpcustom": {
+    "title": "HTTP Custom - AIO Tunnel VPN",
+    "package": "xyz.easypro.httpcustom",
+    "description": "HTTP Custom is a AIO (All in One) tunnel VPN client with custom HTTP request header to secure surfing\n\n \ud83d\udce2  PLEASE READ BEFORE YOU DOWNLOAD\n\nNote:\n- Can't disconnect vpn when it connecting, try use on/off data to force stop vpn.\n\nFeature:\n\u2714\ufe0f Secure surfing using SSH and VPN\n\u2714\ufe0f Custom request header\n\u2714\ufe0f Free VPN server\n\u2714\ufe0f DNS Changer\n\u2714\ufe0f Share your SSH/VPN connection (Hotspot or USB Tethering)\n\u2714\ufe0f Export config\n\u2714\ufe0f No root needed\n\nEasy tool to modify requests and access blocked websites behind firewall with HTTP Custom. Get free unlimited vpn server without username, password, registration, and bandwidth limitation.\n\nWhy HTTP Custom:\n\u2611\ufe0f User friendly\n\u2611\ufe0f Free unlimited vpn server\n\u2611\ufe0f Custom HTTP request header\n\u2611\ufe0f AIO (All in One VPN Client)\n\u2611\ufe0f SSH & VPN support SNI (Server Name Indication)\n\nPermis",
+    "icon": "/icons/xyz.easypro.httpcustom.png"
+  },
+  "com.kaufland.Kaufland": {
+    "title": "Kaufland - Shopping & Offers",
+    "package": "com.kaufland.Kaufland",
+    "description": "The Kaufland App is your practical shopping aid when you shop in the supermarket. The current leaflet, a shopping list, offers, recipes and much more await you.\n\nWith Kaufland shopping becomes an experience for the whole family, whether you browse through an online leaflet or find offers with the store finder and save money while you shop or discover new recipes for cooking on the move and add the groceries directly to the shopping list online - the Kaufland App is your loyal companion while you shop and helps you to save money for your supermarket shopping.\n\nUse Kaufland\u2019s store finder to find current offers and save money when you shop your groceries! Welcome to the world of Kaufland:\n\n\u27a1\ufe0f Plan your supermarket purchase with the shopping list\n\u27a1\ufe0f Get inspired by our variety of groceries\n\u27a1\ufe0f"
+  },
+  "com.frogtosea.iprint": {
+    "title": "iPrint",
+    "package": "com.frogtosea.iprint",
+    "description": "Super-Resolution Grayscale Algorithm\nIndustry-first & self-developed patent, enhancing image details through super-resolution magnification compensation, making grayscale printing more precise.\n\n7 AI Image Applications to Make Learning More Fun:\n\nArtistic Photo Creation: Easily create various themed and styled artistic photos with you as the main character.\nDoodle Practice: Generate image outlines and add sticker elements to simplify tracing and drawing.\nLine Art: Convert complex images into simple line drawings for a minimalist art experience.\nVersatile Scenarios: Integrate portraits into a variety of changing scenes!\nCreative Drawing: Generate exquisite works by referring to traced sketches, breathing new life into creations.\nAI Painting: Generate images from text, simply describe it to ",
+    "icon": "/icons/com.frogtosea.iprint.png"
+  },
+  "gh.r.mm": {
+    "title": "gh.r.mm",
+    "package": "gh.r.mm"
+  },
+  "com.gullivernet.mdc.android.gui.ibmobile": {
+    "title": "Info MOBILE",
+    "package": "com.gullivernet.mdc.android.gui.ibmobile",
+    "description": "Info MOBILE, which integrates perfectly with portable devices, allows you to optimise and automate the process of creating a final statement for maintenance work carried out by technicians. Technical staff with a smartphone or tablet will be able, at any stage and any time, to access the system in order to create a final statement for the maintenance work, and to carry out other activities. The key features and advantages of the Info MOBILE app are:\n\u2022\tintegrates perfectly with all other Info platform software\n\u2022\tpossibility of integration with other software processes\n\u2022\tvery user-friendly, thanks to the possibility of personalising the app's windows and the use of your device's standard functions (e.g. GPS, camera, barcode scanner and phone are built-in) \n\u2022\tone tool to manage all your activ",
+    "icon": "/icons/com.gullivernet.mdc.android.gui.ibmobile.png"
+  },
+  "com.epocrates": {
+    "title": "epocrates: Drug Info & Pill ID",
+    "package": "com.epocrates",
+    "description": "1M+ clinicians rely on us for fast, reliable drug references, interaction checks, guidelines & calculators - support at the point of care.\n\nMake safer, faster clinical decisions - anywhere you practice.\n\nepocrates is the trusted clinical intelligence platform for US physicians (MDs/DOs), nurse practitioners (NPs), physician associates (PAs), pharmacists, and medical students - helping you confidently prescribe, stay up to date, calculate dosages, and save time.\n\nTop Tools for Busy Clinicians\n\n\u25cf\tComprehensive Drug Reference - 10,000+ Rx and OTC monographs for brand and generic drugs, including adult and pediatric dosing, contraindications, black box warnings, and pharmacology.\n\u25cf\tDrug Interaction Checker\u2014Quickly identify interactions among up to 30 medications at once to ensure safer prescri",
+    "icon": "/icons/com.epocrates.webp"
+  },
+  "com.gusi.student.gusi_student": {
+    "title": "ScanHub by GUSI",
+    "package": "com.gusi.student.gusi_student",
+    "description": "GUSI scanHub is a specialized medical application designed for healthcare professionals to securely upload and manage ultrasound images and videos for diagnostic and educational purposes.",
+    "icon": "/icons/com.gusi.student.gusi_student.png"
+  },
+  "com.huckleberry_labs.app": {
+    "title": "Huckleberry: Smart Baby Care",
+    "package": "com.huckleberry_labs.app",
+    "description": "Huckleberry is your all-in-one parenting partner, proudly trusted by 5+ million families worldwide. \n\nFrom baby tracker to personalized guidance, our award-winning app helps you navigate sleep, feeding, milestones, and everything in between. Backed by a team of pediatric experts and powered by smart tools, Huckleberry supports each family\u2019s unique journey. We turn restless nights into restful routines, making more space for everyday magic.\n\nTRUSTED SLEEP GUIDANCE & TRACKING\n\nYour baby's sleep and daily rhythms are unique. Our comprehensive baby tracker helps you understand their natural patterns while providing expert sleep guidance every step of the way. From breastfeeding to diapers, our newborn tracker gives you peace of mind in those early days and beyond.\n\nSWEETSPOT\u00ae: YOUR SLEEP TIMIN",
+    "icon": "/icons/com.huckleberry_labs.app.png"
+  },
+  "com.snorelab.app": {
+    "title": "SnoreLab : Record Your Snoring",
+    "package": "com.snorelab.app",
+    "description": "Record and track your snoring with the No.1 snore app. Sleep quieter and better!\n\n- Monitoring over 1 million nights of snoring per month\n- Measures how loud your snoring is and tracks it over time\n- The worldwide No.1 app for snorers on iOS and Android\n\nThe most popular and innovative app of its kind, SnoreLab records, measures and tracks your snoring and helps you to discover effective ways to reduce it. \n\nSnoreLab has monitored more than 50 million nights of sleep and has helped millions of people to better understand or even eliminate their snoring problem.\n\nThe app is very easy to use: simply set SnoreLab running next to your bed whilst you sleep. In the morning you will discover your Snore Score, exactly when and how loudly you snored, and listen to some highlights!\n\nSnoreLab lets yo",
+    "icon": "/icons/com.snorelab.app.png"
+  },
+  "com.philips.lighting.hue2": {
+    "title": "Philips Hue",
+    "package": "com.philips.lighting.hue2",
+    "description": "The official Philips Hue app is the most comprehensive way to organize, control, and customize your Philips Hue smart lights and accessories. \n\nOrganize your smart lights\nGroup your lights into Rooms or Zones \u2014 your entire downstairs floor or all the lights in the living room, for example \u2014 that mirror the physical rooms in your home.\n\nEasily control your lights \u2014 from anywhere\nUse the app to control your lights anywhere you have an internet connection. \n\nExplore the Hue scene gallery\nCreated by professional lighting designers, the scenes in the scene gallery can help you set the mood for any occasion. You can even create your own scenes based on a photo or your favorite colors. \n\nSet up bright home security \nMake your home feel safer, no matter where you are. The Security Center lets you ",
+    "icon": "/icons/com.philips.lighting.hue2.png"
+  },
+  "com.it4you.petralex": {
+    "title": "Hearing Aid APP:PETRALEX 4 EAR",
+    "package": "com.it4you.petralex",
+    "description": "Petralex - Personal Audio Amplifier & Sound Enhancer\n\nPetralex transforms Android smartphone into a sophisticated audio amplifier & hearing app companion. Enjoy MUSIC BOOST with 3x AMPLIFIER, personalized settings, clear sound, noise reducer & built-in hearing test. Petralex \u2014 advanced SUPER HEARING app.\n\n# Key Benefits\n\n\u25cf Personalized Sound \u2013 Adapts to your unique audiogram or hearing profile.\n\u25cf Award-Winning Tech \u2013 Microsoft Inspire P2P Winner (2017).\n\u25cf No Ads, No Sign-Up \u2013 Just plug in and enjoy improved clarity.\n\u25cf Trusted by 4.000.000+ Users \u2013 Join a GLOBAL COMMUNITY focused on better listening.\n\n# FREE Features You\u2019ll Love\n\n\u2023 Custom audio adjustment per ear \u2013 INDIVIDUAL LEFT/RIGHT BALANCE to amplify precisely.\n\u2023 Intelligent environment adaptation \u2013 From SILENT SPACES to BUSY AREAS.\n\u2023 ",
+    "icon": "/icons/com.it4you.petralex.png"
+  },
+  "com.dogrescue.savethedog.kidsgame": {
+    "title": "Antistress - Dog Rescue",
+    "package": "com.dogrescue.savethedog.kidsgame",
+    "description": "Oops! These bees are dangerous! Dog is in danger! Could you protect Dog from the bad bees? \n\nSave the Dog: Draw To Save is a draw save puzzle games. You draw one line with your fingers to create walls that protect the Dog from attacks by bees in the hive. You need to draw to save the cat with the painted wall for 12 seconds during the attack of the bees, hold on and you will win the game. Use your brain to save the Dog.\n\nHow to play:\n* Swipe the screen to create a wall to protect the Dog;\n* As long as you don't let go, you can always draw the line;\n* You can let go after producing a satisfactory pattern;\n* Wait for the bees in the hive to attack;\n* Hold your wall for 12 seconds, so that the Dog will not be attacked by bees;\n6. You will win the game.\n\nWelcome to play our Dog games, if you h",
+    "icon": "/icons/com.dogrescue.savethedog.kidsgame.png"
+  },
+  "com.draw.line.protect.gog.jaug.gp": {
+    "title": "Draw Line Protect Dog",
+    "package": "com.draw.line.protect.gog.jaug.gp",
+    "description": "Draw Line Protect Dog is a highly creative casual puzzle game. In the game, cute dogs are faced with threats from bees and other dangers. Players need to draw lines of various shapes by drawing to protect the dogs.  The game features a rich variety of levels, and each level presents unique challenges, testing players' logical thinking and adaptability. With a light - hearted and cute art style, players can enjoy the fun of using their brains to solve puzzles and protect the dogs in a relaxed and pleasant atmosphere.",
+    "icon": "/icons/com.draw.line.protect.gog.jaug.gp.png"
+  },
+  "com.LandmarkGames.TopDogsBestInShow": {
+    "title": "Pocket Paws: My lovely dogs",
+    "package": "com.LandmarkGames.TopDogsBestInShow",
+    "description": "Create the ultimate team of doggy champions!\n\nBreed your dogs and train them in this delightful dog training game. Nurture your pooches, show them love, and take them on the road to become the best dog owner ever.\n\nEnter the world of dog games, pick your favorite breeds and have them take part in events like Flyball, Dock Dive, Agility Courses, and more! Win competitions to earn fabulous prizes and progress on the road to the international stage, where everyone will know you\u2019re a magnificent dog trainer!\n\nWatch your dogs compete in fully animated 3D events and train them using a combination of treats, treatments, and a whole lot of love!\n\nNURTURE, TRAIN AND COMPETE\nLook after your dogs and they\u2019ll perform their best\nTrain your dogs to turn them into incredible competitors\nName your dogs to",
+    "icon": "/icons/com.LandmarkGames.TopDogsBestInShow.png"
+  },
+  "com.imaginewhat.save.dog": {
+    "title": "Save The Dog - Protect",
+    "package": "com.imaginewhat.save.dog",
+    "description": "Save The Dog is game protect the dog from attacks by bees. You draw lines with your fingers to create walls that protect the dog from attacks by bees in the hive. Hold on 10 seconds to prevent the bees from hurting dog. Use your brain to save the dog.",
+    "icon": "/icons/com.imaginewhat.save.dog.png"
+  },
+  "com.yundas.dogrescue": {
+    "title": "Dog Rescue",
+    "package": "com.yundas.dogrescue",
+    "description": "My Dog is a very fun puzzle casual game with excellent graphics, interesting dog characters, and simple design that allows players to easily understand the various elements in the game.And the game features a massive number of meticulously designed levels that burn your brain. In each level, there is a little dog waiting for you to save.The main gameplay of the game is to use the opportunity of drawing lines to protect dogs from bee attacks. By using your infinite imagination to draw different lines and finding suitable methods to complete your challenges, you can use the various lines drawn to resist bee attacks, which is very interesting.It is worth mentioning that the rich creativity and interesting puzzle questions in my dog game may break common sense, allowing you to switch to anothe",
+    "icon": "/icons/com.yundas.dogrescue.png"
+  },
+  "com.koinmurah.app": {
+    "title": "Topup Chip Domino Termurah",
+    "package": "com.koinmurah.app",
+    "description": "\ud83d\ude80 Practical & Automatic Domino Chip Top-Up\n\nThis application provides an automatic Higgs Domino chip top-up service that can be used anytime.\n\nWith this system, users can top up their domino chips conveniently through the application.\n\n\u26a1 Main Features\n\u2714 24-hour automatic top-up system\n\u2714 Simple process\n\u2714 Easy to use\n\u2714 Available to meet various user needs\n\n\ud83d\udd25 Available Services\n\u2022 Top up Higgs Domino chips\n\u2022 Buy domino chips\n\u2022 Top up dominoes\n\u2022 Domino chip agent\n\n\ud83c\udfaf Usage\nThis application can be used by users who want to top up their domino chips conveniently via mobile devices.\n\n\ud83d\ude80 Use it now\nEnjoy the convenience of topping up your Higgs Domino chips directly from the application.",
+    "icon": "/icons/com.koinmurah.app.jpg"
+  },
+  "net.imamali.wafid": {
+    "title": "\u0648\u0627\u0641\u062f",
+    "package": "net.imamali.wafid",
+    "description": "The \"Wafid\" application is an innovative platform that aims to facilitate visitors' journey to the holy shrines by providing comprehensive religious services tailored to each shrine. The application allows users to access images and landmarks of the holy shrines, follow their news, watch live broadcasts, and benefit from host reservation and visitor guidance services.\nIn addition, \u201cWafid\u201d provides general services such as answering legal referendums, reminders for performing prayers and fasting, and a guide to hotels and restaurants, which makes the visitor\u2019s experience integrated and comfortable.\n\nIt enhances the religious and social aspect of users. The app requires creating an account to access all services, and is available for free, making it an ideal companion for all visitors.",
+    "icon": "/icons/net.imamali.wafid.jpg"
+  },
+  "com.macrovideo.v380pro": {
+    "title": "V380 Pro",
+    "package": "com.macrovideo.v380pro",
+    "description": "Through \"V380 Pro\" video monitoring service, you can easily view live stream and replay of apartments,villas,stores,factories,working offices and so on\uff1bthrough \"V380s Pro\" alarming service,you can receive any abnormal message of places you concern.\n[Remote Monitoring] Viewing video on App remotely,know what is going on at home anywhere anytime.\n[Voice Talkback] Voice Talkback anywhere,as if you are at home.\n[Device Sharing] Share the device with your family,view together,more at ease.\n[Motion Trajectory Tracking] Automatically capture motion trajectory,real time tracing shooting alarm,more intuitive.\n[Motion Detection Alarm] Instant alarm and picture capturing on abnormal situation,view what happened on recordings,guard your security.\n[Cloud recording Service] Videos reserved on cloud,do n",
+    "icon": "/icons/com.macrovideo.v380pro.png"
+  },
+  "com.ysxlite.cam": {
+    "title": "YsxLite",
+    "package": "com.ysxlite.cam",
+    "description": "YsxLite is a smart camera app. Watch live video, manage SD card files, capture screenshots, record video, and adjust camera settings anytime, anywhere.",
+    "icon": "/icons/com.ysxlite.cam.png"
+  },
+  "com.tda.satpointer": {
+    "title": "Satellite Pointer",
+    "package": "com.tda.satpointer",
+    "description": "It has never been easier to install your television dish.\n\nDirect your device to the sky and look in realty augmented mode at the geostationary satellites orbiting around the earth. You will have access to an updated database of more than 200 satellites with a research option capability to facilitate your search. \n\nOnce a satellite has been selected, you will be able to read a number of information necessary to your installation, such as its geographical zone, its longitude, the available band frequencies, its Azimuth, Elevation and Polarization angles as calculated based on your location. \n\nYou may then select such satellite in Dish Aligning Mode (only available in PRO version): you will be provided with a four steps alignment tool that will help you install your TV antenna easily. \n\n\nFea",
+    "icon": "/icons/com.tda.satpointer.png"
+  },
+  "com.creativepixels.blaze.backless.iconpack.app": {
+    "title": "Blaze Backless Icon Pack",
+    "package": "com.creativepixels.blaze.backless.iconpack.app",
+    "description": "Transform your home screen with Blaze Backless, a trendy and modern dark icon pack featuring vivid, eye-catching gradients. Every single icon is meticulously crafted with a \"backless\" (transparent) design, allowing them to blend seamlessly with deep dark wallpapers or minimalist setups.\n\nWhether you want a stealthy dark mode layout or a setup that pops with vibrant color, Blaze Backless provides the ultimate premium aesthetic.\n\n\u2728 KEY FEATURES:\n\u2022 11,500+ high-quality backless icons (and growing with every update!).\n\u2022 Vibrant color gradients optimized for dark themes and AMOLED screens.\n\u2022 7 Handcrafted matching dark wallpapers included.\n\u2022 Perfect auto-masking for unthemed apps so your setup stays perfectly clean.\n\u2022 Dynamic Calendar icon support.\n\u2022 Cloud-based wallpapers and a slick Material ",
+    "icon": "/icons/com.creativepixels.blaze.backless.iconpack.app.png"
+  },
+  "de.exultation.satellietfinder": {
+    "title": "Satellite Finder (DishAligner)",
+    "package": "de.exultation.satellietfinder",
+    "description": "The app helps to align your satellite dish. Based on your location and the selected satellite the app shows you the horizontal and vertical direction in wich you have to align your satellite dish.\n\n\nDepending on your location, the following satellites are available:\n\n1DirecTV 9S\nABS 2\nABS 3A\nABS 6\nAfghansat 1\nAfricasat 1a\nAfristar\nAl Yah 1\nAlcomsat 1\nAmazonas 1\nAmazonas 2\nAMC 10\nAMC 11\nAMC 15\nAMC 16\nAMC 18 \nAMC 2\nAMC 21\nAMC 3\nAMC 6\nAMC 8\nAMC 9\nAMC-12\nAMC-23\nAmericas 13\nAmos 3\nAmos 4\nAmos 7\nAnik F1\nAnik F1R\nAnik F2\nAnik F3\nAntik G1\nApstar 4\nApstar 6\nApstar 7\nApstar 9\nArabsat 2B\nArabsat 5A\nArabsat 5C\nArsat 1\nArsat 2\nAsiaSat\nAsiaSat 4\nAsiaSat 5\nAsiasat 6\nAsiaSat 9\nAsiastar\nAstra 19,2E\nAstra 1D\nAstra 1E\nAstra 1G\nAstra 2A\nAstra 2B\nAstra 2C\nAstra 2D\nAstra 2F\nAstra 2G\nAstra 3A\nAstra 3B\nAstra 4A\nA",
+    "icon": "/icons/de.exultation.satellietfinder.png"
+  },
+  "com.sheetgo.android": {
+    "title": "Sheetgo",
+    "package": "com.sheetgo.android",
+    "description": "Sheetgo is a cloud-based software platform that allows users to automate the process of transferring data between spreadsheets. With Sheetgo, users can easily connect and merge data from multiple spreadsheets, eliminating the need to manually copy and paste data between them.\n\nSome of the key features of Sheetgo include the ability to schedule automatic updates, consolidate data from multiple sheets into a single source, and create dashboards and reports using the combined data. Sheetgo is available as a web application and can be accessed from any device with an internet connection. It is suitable for both personal and business use and is designed to be user-friendly and easy to use.",
+    "icon": "/icons/com.sheetgo.android.png"
+  },
+  "com.mehdirabiee.XtremeMotorbikes": {
+    "title": "Xtreme Motorbikes",
+    "package": "com.mehdirabiee.XtremeMotorbikes",
+    "description": "The xtreme motorbikes gives you a real feeling of riding and performing free style\nthis game brings awesome bike physics with beautifully free style city,\nThe xtreme motorbikes free style experience in the most realistic simulator motorbike game around. If you like motorbike games try it.\nSmooth controls, realistic motorbike physics.\nTest your real freestyle skills.\n\n\nMain Features:\n- Drive more than 40 powerful and exciting, highly detailed sport motorbikes\n- Realistic physics, simulating every aspect of motorbike behavior\n- Customize your motorbikes with exclusive paint jobs and rims\n- Turbocharger, gearbox and tires sounds\n- Change your rider and passenger\n- Realistic engine sounds\n- Realistic 3D graphics\n- Drift slow motion\n- Free Coins\n...\n\nGame Support:\nContact us on: 3dpowermax@gmai",
+    "icon": "/icons/com.mehdirabiee.XtremeMotorbikes.png"
+  },
+  "moe.matsuri.lite": {
+    "title": "Nekoha VPN",
+    "package": "moe.matsuri.lite",
+    "description": "V2Ray / universal proxy toolchain for Android, written in Kotlin.\n\nSupport a variety of mainstream proxy and subscription types, including VMess/Trojan/Shadowsocks.\n\nDocumentation\nhttps://matsuridayo.github.io/\n\nGitHub\nhttps://github.com/MatsuriDayo/Matsuri\n\nVPN usage description:\n\nNekoha for Android uses VpnService to create a VPN tunnel to your secure server. This allows us to provide you with a number of benefits, including:\n\nImproved security: Your data is encrypted while it is transmitted over the VPN tunnel, making it more difficult for attackers to intercept.\nAccess to blocked content: If you are in a country where certain websites or apps are blocked, you can use Nekoha to access them through our VPN tunnel.\nBypass geo-restrictions: You can use Nekoha to bypass geo-restrictions on ",
+    "icon": "/icons/moe.matsuri.lite.png"
+  },
+  "com.xten.ufl": {
+    "title": "UFL - Soccer Game 2026",
+    "package": "com.xten.ufl",
+    "description": "Experience the next generation of football gaming right on your mobile device! UFL is the soccer simulation that puts your talent to the ultimate test. It's time to build your legacy from the ground up and challenge players globally in a fair, engaging, and competitive environment.\n\nBuild your football club: start your journey, assemble your dream top eleven squad, and implement a strategy that rewards pure football games knowledge. UFL is designed for fresh, skill-rewarding gameplay where the pro sport manager and player win. Experience the most authentic mobile gameplay.\n\nENTER THE UFL LEGACY: Play with the confidence of a global title.\nTake total control of your club's destiny. Recruit players from a massive database, develop unique training programs, and craft complex formations. Every",
+    "icon": "/icons/com.xten.ufl.png"
+  },
+  "white.dns": {
+    "title": "white.dns",
+    "package": "white.dns"
+  },
+  "com.shpavda.diy_eliquid_calculator": {
+    "title": "DIY E-Liquid Calculator | Vape",
+    "package": "com.shpavda.diy_eliquid_calculator",
+    "description": "Discover the ultimate vape juice mixing calculator for electronic cigarettes, which every vaper can use. Combining modernity and simplicity, our application is designed to enhance your vaping experience, whether you're a beginner or a seasoned enthusiast.\n\nOur vape tool simplifies the process of creating custom vape juice mixes. With the DIY E-Liquid Calculator, you can accurately measure and calculate the amount of each ingredient required for your e-liquid, ensuring perfect balance and taste every time. Plus, it's easy to save your unique recipes for future use, streamlining the mixing process.\n\nCurrently, calculator allows you to specify:\n1) The amount of liquid to make (ml);\n2) Propylene Glycol (PG) / Vegetable Glycerin (VG) Ratio (%);\n3) Extra diluent (%) like Water, Vodka, or PGA;\n4)",
+    "icon": "/icons/com.shpavda.diy_eliquid_calculator.png"
+  },
+  "com.fourksoft.openvpn": {
+    "title": "hidemy.name VPN",
+    "package": "com.fourksoft.openvpn",
+    "description": "hidemy.name VPN paid service has been protecting its clients for over 15 years, ensuring privacy and security on the internet.\n\nServers around the world, including popular locations such as Turkey, Ukraine, Russia, Kazakhstan, Armenia, India, and more.\n\nChoose for yourself under the IP addresses of which country to browse websites, buy tickets, book hotels, and transmit data. Switching between servers can be done in seconds. VPN will not add any extra load to your internet.\n\nWith our VPN, you can use the internet as if you were physically in the country to which you are connected. Install any applications and prevent the theft of personal data. We strive to keep any information about you confidential, so hidemy.name VPN does not require registration.\n\nThe connected VPN provides protection:",
+    "icon": "/icons/com.fourksoft.openvpn.png"
+  },
+  "com.halls.of.torment.paid.gp": {
+    "title": "Halls of Torment: Premium",
+    "package": "com.halls.of.torment.paid.gp",
+    "description": "Halls of Torment is a horde survival game with a pre-rendered retro look reminiscent of RPGs from the late 90s. Choose one of many hero characters and descend into the deadly Halls of Torment. Fight unholy horrors from beyond and survive wave after wave of enemies until you face one of the tormented Lords. \n\nStrengthen your hero with character traits, abilities, and items. Create a new powerful build during each run. Explore various underground expanses and find new powerful items that enable you to venture even deeper into the abyss.\n\nFirst available on Steam, the 90's-style RPG survival roguelike, Halls of Torment, is now making its debut on mobile!\n\n\u3010Features\u3011\n\u25c6 Quick and casual 30 minute runs\n\u25c6 Old school pre-rendered art style\n\u25c6 Quest-based meta progression\n\u25c6 Large selection of divers",
+    "icon": "/icons/com.halls.of.torment.paid.gp.jpg"
+  },
+  "com.halls.of.torment.roguelike.gp": {
+    "title": "Halls of Torment",
+    "package": "com.halls.of.torment.roguelike.gp",
+    "description": "From the mobile porting team behind Brotato and 20 Minutes Till Dawn, this mobile version of the hit Steam roguelike Halls of Torment brings all the excitement of the original \u2014 now free to play, with additional features and content designed to challenge and thrill.\n\nDive into the chilling world of dungoen world, a horde survivor roguelite where the Lords of the underworld await you. Treasures, magical trinkets, and a growing cast of heroes will grant you the power to vanquish these horrors from beyond. Fight against unholy, horrific creatures and try to survive waves of enemies and be the bullet heaven! \n\n\u3010Game Features\u3011\n\u25c6 Deeper equipment growth with more strategy and customization\n\u25c6 Streamlined 6\u201315 min battles for flexible mobile play\n\u25c6 11 iconic classes to master and customize\n\u25c6 Brew ",
+    "icon": "/icons/com.halls.of.torment.roguelike.gp.png"
+  },
+  "com.video.videodownloader_appdl": {
+    "title": "SSS Video Downloader - TTSave",
+    "package": "com.video.videodownloader_appdl",
+    "description": "SSS Video Downloader - TTSave: download videos from TT, Instagram, Facebook for free! Save Twitter videos, Snackvideo, and others. No login required! No more worrying about slow loading or missing your favorite videos. The official ssstik.io app!\n\nHow to use this TT saver no watermark: find the video, which you want to save, copy the link, open our ssstik.io app and paste the link. That is all.\n\nThis TT video downloader is helpful if you want to:\n\n\u2b50\ufe0f Save Twitter videos to your local device.\n\u2b50\ufe0f Convert FB video to mp3.\n\u2b50\ufe0f Download videos from TT in HD.\n\u2b50\ufe0f Save Instagram videos, Twitter, FB and other social media.\n\u2b50\ufe0f Create a collection of funny stuff on your phone or PC.\n\u2b50\ufe0f Make content for other social networks.\n\nWhat makes our TT saver no watermark so good?\n\n\ud83d\udc4d Our TT video downloader app",
+    "icon": "/icons/com.video.videodownloader_appdl.png"
+  },
+  "com.jumpjumpvpn.app": {
+    "title": "com.jumpjumpvpn.app",
+    "package": "com.jumpjumpvpn.app"
+  },
+  "com.sinyee.babybus.gameworld.design.home.friends.fun.life.story": {
+    "title": "Kalliu Game World: Life Story",
+    "package": "com.sinyee.babybus.gameworld.design.home.friends.fun.life.story",
+    "description": "Bigger! Freer! Wilder!\nSecrets to unlock. Adventures to conquer.\nThis is only the first chapter of Kalliu Game World.\nA greater Kalliu World is on the way.\nAre you ready to step in?\n\nIn this fully open world, you can create characters, design houses, explore every location, and unlock hidden surprises. Build, discover, upgrade\u2014this is your world. \n\nCREATE UNLIMITED CHARACTERS\nBecome a doctor, a designer, a celebrity\u2026 or anyone you want! Create endless characters and style their hair, outfits, expressions, and actions. Change identities anytime and rewrite the story whenever you feel like it.\nNo rules. No limits. Just your imagination.\n\nBUILD AND DESIGN YOUR DREAM HOME\nPrincess house? Modern loft? Seaside villa? Just get creative! With the powerful home design system, you can build the hous",
+    "icon": "/icons/com.sinyee.babybus.gameworld.design.home.friends.fun.life.story.png"
+  },
+  "com.fuseboxgames.loveisland2.gp": {
+    "title": "Love Island: The Game",
+    "package": "com.fuseboxgames.loveisland2.gp",
+    "description": "Love Island: The Game is the interactive story game and dating simulator based on the global hit reality TV show. Step into the iconic villa, where every romance, every drama, and every episode is shaped by your choices.\n\nYOUR INTERACTIVE STORY. YOUR ROMANCE.\n\nWhether you're into interactive fiction, dating simulation, story games, or just want to live your best Love Island life. This is the choice-driven experience built for you. Find your type on paper, couple up, and graft through villa drama. Pursue romance choices that could change everything. Choose your own adventure. Play it sweet, flirty, snakey, or full chaos. Your style, your ending.\n\nSEASONS OF ROMANCE AND DRAMA\n\nEvery season brings a brand-new cast, fresh storylines, and engaging episodes of romance choices and drama. Each sto",
+    "icon": "/icons/com.fuseboxgames.loveisland2.gp.png"
+  },
+  "com.relax.match.story": {
+    "title": "Match Story",
+    "package": "com.relax.match.story",
+    "description": "Swipe colors, solve match-3 puzzles and Help those in need. An exciting adventure is calling you!\n\nHelp these characters lift their spirits, regain their confidence, and witness their exciting transformations as you complete challenging match-3 levels.\n\n* Play the game completely free\n* Relaxed and fun match 3 puzzles\n* Interesting and touching stories are developing\n* Unlock new story episodes\n* Fresh puzzle-solving experience\n* No internet, no wifi required\n\nDownload now and start swapping for endless fun.",
+    "icon": "/icons/com.relax.match.story.png"
+  },
+  "com.faceit.mobile": {
+    "title": "FACEIT: CS2 Command Centre",
+    "package": "com.faceit.mobile",
+    "description": "Welcome to FACEIT; Your Ultimate Gaming Destination! Dive into the heart of the gaming universe and experience a revolutionary platform designed for gamers, by gamers. Whether you're a casual player or a competitive esports enthusiast, FACEIT has everything you need to elevate your gaming experience to new heights.\n\nKey Features:\n\nGaming Platform: Enter a world of endless possibilities on our state-of-the-art gaming platform. Seamlessly access your favorite games including Counter Strike/CS2, Overwatch and PUBG Mobile. You can get notifications when a match is found when playing matchmaking with CS2, connect with friends, and discover new gaming experiences all in one place.\n\nEsports Tournaments: Prepare to test your skills against the best in our thrilling esports tournaments. From intens",
+    "icon": "/icons/com.faceit.mobile.png"
+  },
+  "linkdesks.storymatch": {
+    "title": "Story Match",
+    "package": "linkdesks.storymatch",
+    "description": "Welcome to Story Match\u2728 Ultimate Match 3 & Heartfelt Stories!\n\nEnjoy match-3 fun and restore hearts\u2014one puzzle at a time! Restore homes, heal hearts, and rewrite someone\u2019s story! \ud83e\udd73\n\nStruggling families, lonely children, and heartbroken souls are counting on you! \u23f0\n\n\ud83c\udf88 More Than Just a Match-3 Game!\n\nClassic Match-3 puzzles meet deep, emotional stories. Every level you beat brings hope, joy, and a brighter future!\n\n\ud83d\udd0d Why You\u2019ll LOVE Story Match\n\n* Classic, Relaxing Match-3 Puzzles\n* Smooth, Easy-to-Play Gameplay\n* Heartwarming Stories to Unlock\n* Many Chapters and Special Events\n* Play Offline Anytime\n* 100% FREE to Play\n* Ideal Time Killer and IQ Boost\n\n\ud83e\udde9 Your Mission\n\n\u25fe Restore homes and fix broken lives!\n\u25fe Stand by characters through their hardest moments!\n\u25fe Make choices that shape inspir",
+    "icon": "/icons/linkdesks.storymatch.png"
+  },
+  "com.phemex.app": {
+    "title": "Phemex: Buy Bitcoin & Crypto",
+    "package": "com.phemex.app",
+    "description": "Buy bitcoin & crypto securely with Phemex \u2013 The User-First Crypto Exchange for Bitcoin, Ethereum and 600+ coins.\nDesigned for both beginners and professional traders, Phemex combines Financial-grade stability with a simple, clean interface. Whether you're a beginner buying your first BTC or a pro trader using futures trading and copy trading, Phemex delivers fast execution, low fees, and 100% transparency proof of reserves in one powerful app.\n\nPhemex Prediction Market is live!  Trade real-world events and join the Prediction Championship for weekly rewards. Turn your insights into action across Crypto, Sports, and Pop Culture today. Explore the market and start trading!\n\nEasy Start for Beginners\nStart simple. No complicated charts. No overwhelming dashboards.\n- One-Click Buy: Use your Cre",
+    "icon": "/icons/com.phemex.app.png"
+  },
+  "com.siberinfotech.yashmatrimony": {
+    "title": "BitX",
+    "package": "com.siberinfotech.yashmatrimony",
+    "description": "BitX\u00a0instantly computes bitrate from a file size and duration.\u2028\nEnter\u00a0file size (MB)\u00a0and\u00a0time (seconds), tap\u00a0CALCULATE, and see the\u00a0bitrate in bps.\n\nPerfect for:\nAudio/video encoding\nData transfer rate\nStreaming calculations\nQuick checks\n\nFeatures:\nEnter file size (MB) and time (s)\nInstantly see bitrate (bps)\nCopy/share/clear\nClean, simple UI\n\nCalculate bitrate fast with BitX!",
+    "icon": "/icons/com.siberinfotech.yashmatrimony.png"
+  },
+  "com.bitpurx.app": {
+    "title": "Bitpurx | Bitcoin Tools & Keys",
+    "package": "com.bitpurx.app",
+    "description": "Bitpurx is a Bitcoin tools app that provides live Bitcoin market cap data, real-time BTC price tracking, and a random Bitcoin private key generator for educational use.\n\nPerfect for crypto traders, blockchain learners, and Bitcoin enthusiasts.\n\n\ud83d\udcca Live Bitcoin Market Data\n\u25cf Track important Bitcoin statistics including:\n\u25cf Bitcoin price (BTC price tracker)\n\u25cf Bitcoin market cap\n\u25cf 24-hour trading volume\n\u25cf Market trends and price changes\n\nStay updated with real-time cryptocurrency market information in a simple and fast interface.\n\n\ud83d\udd10 Random Bitcoin Private Key Generator (Educational Tool)\nBitpurx includes a Bitcoin private key generator designed for understanding how Bitcoin addresses are created.\n\u25cf Generate random Bitcoin private keys\n\u25cf View corresponding BTC addresses\n\u25cf Learn about blockchain ",
+    "icon": "/icons/com.bitpurx.app.png"
+  },
+  "com.bitallx.apps": {
+    "title": "Bitallx - Buy & Sell Crypto",
+    "package": "com.bitallx.apps",
+    "description": "Bitallx is your all-in-one cryptocurrency platform, designed to make buying, selling, and trading digital assets simple, secure, and fast. Whether you are a beginner just starting your crypto journey or an experienced trader managing multiple coins, Bitallx provides the tools and features you need to stay ahead in the crypto market.\n\nWhy Choose Bitallx?\n\nBuy & Sell Crypto Instantly: Trade popular cryptocurrencies like Bitcoin, Ethereum, and many more, directly from your account. Our fast and secure transaction system ensures your trades are executed quickly.\n\nSecure Wallet Management: Your digital assets are protected with state-of-the-art encryption and security measures. Only you have access to your funds.\n\nReal-Time Market Data: Stay updated with live cryptocurrency prices, trends, and ",
+    "icon": "/icons/com.bitallx.apps.png"
+  },
+  "com.bitfinex.mobileapp": {
+    "title": "Bitfinex: Trade Digital Assets",
+    "package": "com.bitfinex.mobileapp",
+    "description": "Now with zero trading fees, Bitfinex is one of the most cost-effective crypto exchanges in the space. The Bitfinex mobile app lets you trade and manage your account on the go, with access to key features of our platform. Please visit our Terms of Service: https://www.bitfinex.com/legal/exchange/terms/\n\nBUY AND SELL HUNDREDS OF DIGITAL ASSETS WITH ZERO TRADING FEES\nBuy and sell Bitcoin, Ethereum, Tether tokens, Cardano, Dogecoin, and hundreds of other cryptocurrencies directly from your mobile device. \n\nTRADE LIKE A PRO\nBitfinex provides advanced services for Digital Tokens traders and liquidity providers. Traders can enjoy exchange and margin, trading and lending functionalities with fast execution thanks to our industry-leading liquidity.\n\nWe\u2019ve built leading-edge trading tools to help yo",
+    "icon": "/icons/com.bitfinex.mobileapp.webp"
+  },
+  "com.esys.satfinder": {
+    "title": "SatFinder",
+    "package": "com.esys.satfinder",
+    "description": "SatFinder (Satellite Finder) is a tool which will help you to set up satellite dish. It will give you azimuth, elevation and LNB tilt for your location (based on GPS) and chosen satellite from list. The result is shown both as numeric data and graphical on google maps. It has also built in compass which will help you to find proper satellite azimuth. It also can use augmented reality to show where is satellite on camera view. \n\nCompass works only on devices with compass sensor (magnetometer).\n\n\nHow to use this app:\n\n1.\tFirst of all, you should enable GPS and Internet on your phone. Remember \u2013 in most cases it is impossible to receive GPS signal inside buildings. So if you want to get very accurate location \u2013 please go near windows or go even outside.\n\nIn current app version location should",
+    "icon": "/icons/com.esys.satfinder.png"
+  },
+  "gram.members.android": {
+    "title": "Membersgram:  Members + Views",
+    "package": "gram.members.android",
+    "description": "Buy Telegram members, boost your channel, get more post views, and grow faster with Membersgram \u2014 your trusted Telegram growth app and SMM panel.\n\nMembersgram is the easiest way to buy Telegram members, subscribers, and followers safely and instantly. Whether you manage a channel, a group, or promote a brand, this app helps you boost channel engagement, increase credibility, and reach real audiences worldwide.\n\n\ud83d\ude80 Grow with Smart Automation\nMembersgram combines advanced automation with smart delivery systems.\nYou can buy Telegram members, buy Telegram subscribers cheap, and get Telegram post views using a simple, secure interface.\nAll you need is your channel username or invite link \u2014 no Telegram login required.\nDelivery starts within seconds and continues naturally to keep your account saf",
+    "icon": "/icons/gram.members.android.png"
+  },
+  "org.vidogram.messenger": {
+    "title": "Vidogram",
+    "package": "org.vidogram.messenger",
+    "description": "Vidogram is an UNOFFICIAL Telegram client.\u2028 Vidogram uses Telegram API to give you a secure and fast messaging experience.\n\nNot only Vidogram has all the Telegram\u2019s features, but also it has an enormous package of useful & unique extra features, prepared for you to get the most out of your messaging experience.\n\nIf you got excited about our app and want to know more, just keep reading the description to get familiar with Vidogram and what it brings to the table.\n\n\u2028\u2028Free Video & Voice Call: Always wanted to make video calls while using Telegram? Our free, high quality & secure video call service is here to give you what you always wished for.\u2028\n\nAdvanced Forward: Have you ever wanted to forward a message to someone but you didn\u2019t want to mention the source of it, or the message had some link",
+    "icon": "/icons/org.vidogram.messenger.png"
+  },
+  "com.blockabc.cctip": {
+    "title": "Cwallet - Secure Crypto Wallet",
+    "package": "com.blockabc.cctip",
+    "description": "Cwallet is a powerful, secure wallet and multi-chain crypto wallet designed for the next generation of Web3 users. Combining both centralized and decentralized features, Cwallet empowers over 50 million users with a streamlined, feature-rich experience for managing, paying, swapping and earning from their cryptocurrencies \u2014 all in one place.\n\n---\nWhy Cwallet?\n- Support for 1000+ tokens and 60+ chains (Bitcoin (BTC), Ethereum (ETH), Tether (USDT), TRON (TRX), Dogecoin (DOGE), SATS, Solana (SOL), Cardano (ADA), Sui (SUI), Stellar (XLM), XRP and more\n- Swap and cryptocurrency financial services powered by smart contracts\n- Native Telegram experience (Wallet Bot & Wallet Mini App) for seamless community engagement and crypto utilities\n- All-in-one crypto finance tools: Cozy Card (Virtual Card)",
+    "icon": "/icons/com.blockabc.cctip.png"
+  },
+  "cc.coolline.client.pro": {
+    "title": "Cool VPN Pro: Secure VPN Proxy",
+    "package": "cc.coolline.client.pro",
+    "description": "Cool VPN Pro is a fast and unlimited VPN (Virtual Private Network) proxy, offering you thousands of VPN servers.\n\n\u2714Reasons to choose Cool VPN Pro:\n\n\u2b50 100% Secure free VPN\nThe best secured free VPN clients for Android. You can enjoy unlimited VPN service and VPN proxy servers anytime, anywhere on any networks.\n\n\u2b50 Access websites with secure Cool VPN Pro\nAccess apps and sites with super stable and fast VPN speed. No worry about the network unavailable problem, because when the network condition is unsatisfying, you can connect to Cool VPN Pro proxy servers or dedicated servers to access the web resources, forum, news, social network, shopping websites or the streaming services with stable and fast speed.\n\n\u2b50No logs kept\nCool VPN Pro does not track or keep any logs of users\u2019 activities. Your s",
+    "icon": "/icons/cc.coolline.client.pro.png"
+  },
+  "com.fsecure.ms.safe": {
+    "title": "F-Secure: Total Security & VPN",
+    "package": "com.fsecure.ms.safe",
+    "description": "F-Secure all-in-one security makes online protection easy  \nGet antivirus, scam protection, VPN, password management, and identity protection in one app. Choose the protection that matches your needs. \n\nSign up in the app and get Mobile security subscription 14 days free.\n\nMobile security subscription: security on the go\n\u2713 Download apps and files safely to your device with top-rated antivirus.\n\u2713 No more guessing \u2013 detect phishing websites and fake online stores automatically on Chrome browser.\n\u2713 SMS Protection \u2013 Filter scam SMS messages instantly with AI-powered SMS protection.\n\u2713 Keep your money safe when banking, browsing, and shopping online. \n\u2713 Connect to any WiFi hotspot securely with a VPN and make your browsing private. \n\u2713 Prevent identity theft with 24/7 dark web monitoring and data",
+    "icon": "/icons/com.fsecure.ms.safe.png"
+  },
+  "com.myirancell": {
+    "title": "MyIrancell | \u0627\u06cc\u0631\u0627\u0646\u0633\u0644 \u0645\u0646",
+    "package": "com.myirancell",
+    "description": "Using MyIrancell super app is not only the easiest way to manage your Irancell account, shop Irancell data & voice packages, pay your postpaid bills or top-up your prepaid SIM, it also lets you gain access to a great marketplace of Irancell & non-Irancell digital products and services, sparing you the need to install numerous apps on your mobile phone!\n\nSignificant Features & Options:\n\u2022\tView and manage your Irancell account\n\u2022\tLearn about your remaining data\n\u2022\tManage shared accounts\n\u2022\tSubmit your requests to go from prepaid to postpaid and/or from 3G to 4G\n\u2022\tManage your TD-LTE fixed internet account\n\u2022\tReceive exclusive offers and promotional plans\n\u2022\tShop data and voice packages\n\u2022\tShop mobile and fixed modems\n\u2022\tView the history and details of your recent usage\n\u2022\tSend data packages as gifts t",
+    "icon": "/icons/com.myirancell.webp"
+  },
+  "com.dylan.dalle3.pro": {
+    "title": "Taskly \u2013 Smarter AI Automation",
+    "package": "com.dylan.dalle3.pro",
+    "description": "\ud83d\ude80 Automate your daily phone tasks in minutes \u2013 no coding needed\n\nTired of repeating the same operations every day? Taskly combines powerful automation tools with AI natural language creation to help you build custom automation tasks faster than ever. Simply describe what you want, and Taskly will generate it for you.\n\n\u2728 Why Choose Taskly?\n\n\ud83c\udfaf AI-Powered Task Automation\n\u2022 Natural Language to Automation: Just tell AI what you need \u2013 e.g., \u201cMute my phone at night\u201d \u2013 and get a ready-to-use task instantly\n\n\u26a1 Simpler than Tasker, Smarter than Manual\n\u2022 No Programming Required: Beginners can create tasks in minutes\n\u2022 Visual Editor: Drag-and-drop style interface for clear, simple setup\n\u2022 No Root Needed: Install and start automating right away\n\n\ud83c\udf1f Core Automation Features\n\n\ud83d\udcf1 Popular Ready-Made Scenari",
+    "icon": "/icons/com.dylan.dalle3.pro.png"
+  },
+  "com.celzero.bravedns": {
+    "title": "Rethink: DNS + Firewall + VPN",
+    "package": "com.celzero.bravedns",
+    "description": "Say hello to a safer, transparent, and secure Android.\n\nVPN: Connects to multiple WireGuard VPNs of your choice.\n\nSafe: Reveals network activity of installed apps and lets you disable, uninstall, or firewall them.\n\nSecure: First line of defense against spyware, ransomware, and malware that steal personal information and takeover accounts. Protects from DNS manipulation typically employed to censor websites, social media, and messaging apps.\n\nFast: DNS Servers deployed to 300+ locations world-wide to ensure your internet is as fast and highly available as it can be.\n\nOpen: Open source and free of any trackers.\n\n***Features***\n\nFirewall: Prevent apps from connecting to the Internet. Block spyware, malware, ransomware and more.\n     \nA firewall blocks any app connecting to the Internet over W",
+    "icon": "/icons/com.celzero.bravedns.png"
+  },
+  "com.inunxlabs.easydns": {
+    "title": "Easy DNS (NO/ROOT)",
+    "package": "com.inunxlabs.easydns",
+    "description": "DNS changer using builtin command and direct your connection to prevent dnsleak, default dns server using opendns, builtin command need root access, only default dns port 53 is supported without root access\n\nFeatures:\n- supported android api 15+ (ICS) to the latest version api 29+ (Q)\n- auto detect using dns root/vpn services\n- unofficial DNS port supported by DNS service provider and rooted device\n- improve iptables/ip6tables nat table support checker\n- start service without available network\n- show in-app order id in about dialog\n- added DNS lookup for supported devices",
+    "icon": "/icons/com.inunxlabs.easydns.png"
+  },
+  "com.andevstudioth.changedns": {
+    "title": "Change DNS (No Root 5G/Wifi)",
+    "package": "com.andevstudioth.changedns",
+    "description": "- Change your DNS settings instantly with just one tap.\n- Access blocked or restricted websites with ease.\n- Enjoy faster and more stable browsing with the right DNS server.\n- Clean, simple, and easy-to-use interface.\n- Works on both Wi-Fi and Mobile Data, no root required.\n\nChange DNS is a powerful yet simple DNS changer for Android. Whether you want to speed up your internet connection, unblock restricted websites, or improve security, this tool helps you switch DNS servers effortlessly.\n\nUnlike many DNS changer apps, Change DNS works without root and supports both Wi-Fi and Mobile Data. With its lightweight design and one-click setup, anyone can optimize their internet experience in seconds.\n\n\ud83d\udd12 Why does this app create a VPN connection?\nTo apply custom DNS without root permissions, Andr",
+    "icon": "/icons/com.andevstudioth.changedns.png"
+  },
+  "free.vpn.unblock.proxy.vpnjump": {
+    "title": "free.vpn.unblock.proxy.vpnjump",
+    "package": "free.vpn.unblock.proxy.vpnjump"
+  },
+  "com.topface.kisskiss": {
+    "title": "Kiss Kiss: Spin the Bottle",
+    "package": "com.topface.kisskiss",
+    "description": "Tired of the traditional kissing games? Kiss Kiss: spin the bottle is your new chance to fall in love and find amazing friends. Join one of the best bottle spin games!\n\nKiss or Dare? Don\u2019t be shy! Meet people around the world in seconds: more than 100,000,000 players worldwide have already joined our exciting bottle game. Kiss Kiss is one of the best dating games for chatting, dating, and having fun with players in your city and other countries. \n\nComplete fun, simple tasks to find a multitude of new friends. Chat and swap compliments, participate in friendly matches, bombard your competitors with snowballs, get more kisses than anyone else and win in contests. \n\nKiss Kiss is:\n\u2764 A fun game to play spin the bottle (or truth or dare) with friends from Facebook, as well as more than 25 millio",
+    "icon": "/icons/com.topface.kisskiss.png"
+  },
+  "love.journey.episode.luv": {
+    "title": "LUV: Interactive Adult Game XX",
+    "package": "love.journey.episode.luv",
+    "description": "Looking for something engaging and fun? Try LUV \u2014 a playful social experience where chatting, flirting, and interactive stories come together. Explore a world full of surprises, meet new people, and enjoy exciting daily challenges.\n\nLog in, join the flow, and discover who you will meet next! LUV combines the charm of a dating simulator with the unpredictability of a multiplayer social game. Chat with friends or strangers, make choices in interactive storylines, and enjoy a relaxed environment made for connection and entertainment.\n\nWhat you can do in LUV:\n\n\u2022 Chat in real time with friends or completely new people\n\u2022 Join interactive storylines and shape the direction with your choices\n\u2022 Unlock unique gifts by collecting kisses and progressing in events\n\u2022 Compete in fun challenges and earn r",
+    "icon": "/icons/love.journey.episode.luv.png"
+  },
+  "com.buzztv.me": {
+    "title": "BuzzTV",
+    "package": "com.buzztv.me",
+    "description": "Welcome to BuzzTV \u2014 your premium short drama and video streaming app! Enjoy thousands of high-quality short dramas, romance, suspense, fantasy, family and popular shows anytime, anywhere.\n\nWhy Choose BuzzTV?\nMassive library of genuine short dramas\nDaily content updates\nHD smooth playback with speed control\nAuto-play next episode for easy viewing\nSmart personalized recommendations\nFavorites list and watch history supported\nLightweight app, fast loading, stable experience"
+  },
+  "com.rauch.myrauch.android": {
+    "title": "my.rauch",
+    "package": "com.rauch.myrauch.android",
+    "description": "Rauch is one of the largest providers of wardrobe and bedroom programs in Europe. The rauch furniture is made from certified sustainable production and with a high level of technical competence. my.rauch is the rauch Group's central information app and is therefore relevant for all partners (m / f / d), employees (m / f / d), applicants (m / f / d) and interested parties (m / f / d).\nThe my.rauch app offers a wide range of insights into the company and its products and provides information on current furnishing trends and career opportunities at rauch. The app bundles news from the company and important information about our products and the topic of sustainability, which can be received quickly and conveniently via smartphone or tablet. Thanks to the news feed, you are regularly informed ",
+    "icon": "/icons/com.rauch.myrauch.android.png"
+  },
+  "com.mysamaj.app": {
+    "title": "MySamaj",
+    "package": "com.mysamaj.app",
+    "description": "MySamaj is for community organizations to Connect, Communicate and Collaborate with all registered members. Manage profiles, subscriptions & event tickets; enjoy news, gallery, listings, coupons, voting, polls and quizzes that stimulate the spirit of our Samaj.\n\nMore details at www.mysamaj.app.",
+    "icon": "/icons/com.mysamaj.app.webp"
+  },
+  "com.mqi.minhajbooks": {
+    "title": "Minhaj Books - \u0645\u0646\u06c1\u0627\u062c \u0628\u06a9\u0633",
+    "package": "com.mqi.minhajbooks",
+    "description": "Shaykh-ul-Islam Dr Muhammad Tahir-ul-Qadri has authored 1000 books in Urdu, English and Arabic languages. About 600 of these books have been published so far. His works have also been translated in many languages of the world. His revivalist, reformative and reconstructive efforts bear historic significance and hold an unparalleled position in promoting the cause of world peace and human rights, propagating the true Islamic faith and teachings of the Quran and Sunna.\n\nThe purpose of this application is to present the teachings, ideology and thoughts of Shaykh-ul-Islam Dr Muhammad Tahir-ul-Qadri to the knowledgeable sections of society and general public in the form of digital library. Here you can search for reliable material on different topics and can easily find material in order to pre",
+    "icon": "/icons/com.mqi.minhajbooks.png"
+  },
+  "com.ztech.trendal": {
+    "title": "Masaha | \u0645\u0633\u0627\u062d\u0629",
+    "package": "com.ztech.trendal",
+    "description": "MASAHA is a unique, first-of-its-kind custom tailoring app in Kuwait that enables customers to create and tailor their own dishdasha with a user-friendly experience. It presents the first virtual fitting room in the region, using AI to take precise measurements. MASAHA aims to make the traditional process easier, faster, and more enjoyable. The app is set to disrupt the fashion market by leveraging AI and technology.",
+    "icon": "/icons/com.ztech.trendal.png"
+  },
+  "com.ad.minhaajulmuslim": {
+    "title": "Minhaajul-Muslim-Afaan Oromoo",
+    "package": "com.ad.minhaajulmuslim",
+    "description": "Minhaajul-Muslim kitaaba qajeelfama Muslima beekamaa Abu Bakar Jabir Al-Jazairiin barreeffamee, Afaan Araba irra gara Afaan Oromotti Hasanmaaruf Adem Hussein kan hiikameedha.\nAppiin kun kitaaba Gaadi 1ffaa fi 2ffaa ofi kessaa kan qabu yoo tahu guutuu isaa salphaatti moobaayila keessan irratti buusuun dubbisuu dandeessu.\nMuuxannoo dubbisaa salphaa fi qulqulluu ta\u2019een kan qophaa\u2019e dha.",
+    "icon": "/icons/com.ad.minhaajulmuslim.png"
+  },
+  "com.buzztv.iptv.tv": {
+    "title": "BuzzTV 6 For G-Series",
+    "package": "com.buzztv.iptv.tv",
+    "description": "Introducing BuzzTV 6, the latest iteration of the popular IPTV player app. The app features a sleek new user interface for VOD and Live TV, a convenient shortcuts bar for quick access to common tasks like subtitles, favorites, and a powerful universal search function. These enhancements, along with many others, make BuzzTV 6 the ultimate IPTV companion.\n\nPLEASE NOTE:\nThis app will only function on BuzzTV G-Series Set Top Boxes.\nIt will not work on any other device.\n\nBuzzTV 6 is a pure media player application. It does not provide, host, or include any media content, playlists, or subscriptions. Users must provide their own legally acquired content (e.g., via M3U playlists or Xtream Codes API) from their respective service providers. BuzzTV 6 does not endorse the streaming of copyright-prot",
+    "icon": "/icons/com.buzztv.iptv.tv.png"
+  },
+  "com.buzztv.iptv.mobile": {
+    "title": "BuzzTV 6 - Mobile",
+    "package": "com.buzztv.iptv.mobile",
+    "description": "Experience the Future of TV with BuzzTV 6\n\nRebuilt from the ground up on a brand-new coding language, BuzzTV 6 is more than just an IPTV player\u2014it\u2019s a complete media revolution for your mobile device. We\u2019ve taken the power of our world-class set-top boxes and optimized it for the best mobile viewing experience possible.\n\nWhy BuzzTV 6?\n\nLightning Fast: Our new engine delivers faster channel switching, improved stability, and significantly reduced buffering times.\n\nModern Interface: Enjoy a sleek, streamlined Home Screen designed for quick access to Live TV, VOD, and your favorite apps.\n\nUniversal Search: Find exactly what you\u2019re looking for  with a powerful, integrated search function and history.\n\nPLEASE NOTE:\n\nBuzzTV 6 is a pure media player application. It does not provide, host, or incl",
+    "icon": "/icons/com.buzztv.iptv.mobile.png"
+  },
+  "com.buztvmovies.trailllertvshow": {
+    "title": "Buz TV : Movies & TV Shows",
+    "package": "com.buztvmovies.trailllertvshow",
+    "description": "Buz TV - Movies & TV Shows is an unofficial informational tool that helps you stay up to date with movie and TV release dates.\nYou cannot watch or stream content in this app \u2014 Buz TV is strictly for tracking and discovery.\n\nQuickly find upcoming release dates, get notified about schedule changes, follow your favorite actors, and stay informed about the entertainment you love.\n\nWith Buz TV, you\u2019ll always be the first to know when a new season or episode is announced!\n\n---\n\n## Features\n\n* Set Reminders for your favorite series and movie release dates.\n* Notifications for new seasons, episodes, and production changes.\n* Follow Actors and get notified about new shows and movies they\u2019re in.\n* Smart Subscriptions to help you save on streaming services.\n* Track Watched Progress for your movies an",
+    "icon": "/icons/com.buztvmovies.trailllertvshow.jpg"
+  },
+  "com.gyanlive.app": {
+    "title": "com.gyanlive.app",
+    "package": "com.gyanlive.app"
+  },
+  "com.GYANLIVE.app": {
+    "title": "com.GYANLIVE.app",
+    "package": "com.GYANLIVE.app"
+  },
+  "com.behtar.gyantv": {
+    "title": "GyanTV: Short Learning Videos",
+    "package": "com.behtar.gyantv",
+    "description": "\ud83c\udf93 Learn. Grow. Succeed.\nGyanTV is India's first Edutainment OTT platform, bringing you 1000+ short video lessons on Part-time Earnings,  English Learning, Technology, Finance, Business, Career Growth, Psychology, Relationships, and more! Whether you have 2 minutes or 10, turn every moment into a learning opportunity.\n\n\ud83c\udf10 Available in Telugu, Tamil, Kannada & Hindi\nGyanTV now offers content in three South Indian languages\u2014Telugu, Tamil,  Kannada & Hindi\u2014so you can learn in the language you're most comfortable with!\n\n\ud83d\udd25 What Can You Learn on GyanTV?\n\u2705 English Learning & Communication \u2013 Improve your English fluency with simple lessons.\n\u2705 Part-time Earnings \u2013 Learn freelancing, side hustles, and online income methods.\n\u2705 Business & Startups \u2013 Understand how to start, grow, and scale a business.\n\u2705",
+    "icon": "/icons/com.behtar.gyantv.jpg"
+  },
+  "co.gyanlive": {
+    "title": "GYAN LIVE",
+    "package": "co.gyanlive",
+    "description": "TEST",
+    "icon": "/icons/co.gyanlive.png"
+  },
+  "com.gyan.bindu": {
+    "title": "GYAN BINDU G.S ACADEMY PATNA",
+    "package": "com.gyan.bindu",
+    "description": "GYAN BINDU G.S ACADEMY PATNA is a smart learning platform designed to help students and aspirants prepare effectively for competitive exams with confidence.\n\nWith structured content, interactive learning, and regular practice, the app makes preparation simple and result-oriented. It helps users build strong understanding, track progress, and improve performance over time.\n\nThe platform offers a smooth and user-friendly experience, allowing easy access to classes, study materials, practice sessions, mock tests, and continuous performance tracking. It supports steady preparation and keeps learners motivated throughout their journey.\n\nBuilt for focused aspirants in Patna and beyond, GYAN BINDU G.S ACADEMY PATNA provides the right tools to learn, practice, and succeed.",
+    "icon": "/icons/com.gyan.bindu.png"
+  },
+  "com.nbcnews.msnbc.mobile": {
+    "title": "MS NOW: Watch Live News",
+    "package": "com.nbcnews.msnbc.mobile",
+    "description": "MS NOW app brings you the latest breaking news and in-depth analysis of the day\u2019s top headlines. Watch MS NOW live, listen to live audio 24/7 or catch up on full episodes of your favorite MS NOW shows. Understand today\u2019s news with insightful commentary and informed perspectives from award-winning journalists and trusted experts. Keep up with the latest news in politics and government as well as topics spanning pop culture, current events and the trends that shape our world.\n\nStream the latest TV shows from MS NOW including:\nAlex Witt Reports\nAll In with Chris Hayes\nAna Cabrera Reports\nThe Beat with Ari Melber\nThe Briefing with Jen Psaki\nChris Jansing Reports\nDeadline: White House with Nicolle Wallace\nKaty Tur Reports\nThe Last Word with Lawrence O\u2019Donnell\nMorning Joe\nPoliticsNation with Rev",
+    "icon": "/icons/com.nbcnews.msnbc.mobile.png"
+  },
+  "com.mightybell.mysurrogacyjourney": {
+    "title": "My Surrogacy Journey\u00ae",
+    "package": "com.mightybell.mysurrogacyjourney",
+    "description": "A first for surrogacy support and education, an App to connect those on a surrogacy journey. Whether you\u2019re a surrogate, an intended parent or parent(s) or a known egg donor, you\u2019ll love how we\u2019ve expanded the support we\u2019re known for, and applied to our latest interactive community for our members. Your Journey App.\n\nMy Surrogacy Journey (MSJ) is a leading UK not for profit surrogacy organisation, operating globally. MSJ was developed following our founders' own surrogacy experience and their frustration with the lack of reliable educational content, and credible support from experts and professionals.\n\nThis app changes the landscape for you, our members, by giving you everything you need right in the palm of your hand.\n\nYour Journey App\n\nFrom the outset, our goal was to pioneer a fresh ex",
+    "icon": "/icons/com.mightybell.mysurrogacyjourney.png"
+  },
+  "com.capitalone.autonavigator": {
+    "title": "Auto Navigator New & Used Cars",
+    "package": "com.capitalone.autonavigator",
+    "description": "Take your car shopping on the go with Auto Navigator. Whether you\u2019re looking to buy a new car or a used car, we\u2019re here to help you find a new ride that works for both you and your finances.\n\nWondering how Auto Navigator works? It\u2019s pretty simple:\n \nSHOP FOR THE PERFECT CAR:\nChoose from millions of new cars and used cars for sale nationwide to find the one you love. Whether you\u2019re looking for your first car or a family car, we have plenty of vehicle options for you to choose from. When you find a car you\u2019re interested in, you can save it to compare with other cars you\u2019ve favorited.\n\nCUSTOMIZE YOUR SEARCH:\nYour next car is out there, just tell us what you\u2019re looking for and what matters most to you in a new ride. You can filter by make, model, year, body style, price, mileage, fuel economy ",
+    "icon": "/icons/com.capitalone.autonavigator.webp"
+  },
+  "com.capitalcu.capitalcu": {
+    "title": "Capital Credit Union Mobile",
+    "package": "com.capitalcu.capitalcu",
+    "description": "Capital Credit Union\u2019s mobile app gives you secure, intuitive access to your finances\u2014anytime, anywhere.\n\n\t\u25aa\tView balances and transactions in real-time\n\t\u25aa\tDeposit checks remotely\n\t\u25aa\tSet up your payroll as a direct deposit\n\t\u25aa\tKeep card info for subscription services (and more) up to date with CardSync\n\t\u25aa\tPay bills and send money with Bill Pay and Zelle\u00ae\n\t\u25aa\tTransfer funds between accounts\n\t\u25aa\tSet custom real-time alerts for visibility and security\n\t\u25aa\tManage your cards with self-serve options\n\t\u25aa\tAccess your credit score and financial tools\n\t\u25aa\tSecurely message the Capital CU team\n\t\u25aa\tOpen new accounts\n\t\u25aa\tUse for personal or business accounts\n\t\u25aa\tAdd to your Mobile Wallet\n\nWhether you're at home or on the go, Capital CU helps you manage your money with confidence.",
+    "icon": "/icons/com.capitalcu.capitalcu.png"
+  },
+  "com.cisco.anyconnect.vpn.android.avf": {
+    "title": "Cisco Secure Client-AnyConnect",
+    "package": "com.cisco.anyconnect.vpn.android.avf",
+    "description": "Formerly AnyConnect\n\nCOMPATIBLE DEVICES:\nAndroid 4.4+\n\nKNOWN ISSUES:\n- Some freezes are known to occur on the Diagnostics screen\n- Split DNS is not available on Android 7.x/8.x (OS limitation)\n\nLIMITATIONS:\nThe following features are not supported using this package:\n- Filter Support\n- Trusted Network Detection\n- Split Exclude\n- Local LAN Exception\n- Secure Gateway Web Portal (inaccessible when tunneled)\n\nAPPLICATION DESCRIPTION:\nCisco Secure Client provides reliable and easy-to-deploy encrypted network connectivity from devices by delivering persistent corporate access for users on the go. Whether providing access to business email, a virtual desktop session, or most other Android applications, Cisco Secure Client enables business-critical application connectivity.\n\nThe Cisco Umbrella mod",
+    "icon": "/icons/com.cisco.anyconnect.vpn.android.avf.png"
+  },
+  "com.icecoldapps.screenshoteasy": {
+    "title": "Screenshot Easy",
+    "package": "com.icecoldapps.screenshoteasy",
+    "description": "Screenshot Easy lets you take screenshots on your tablet, phone or other Android device the easy way! The screen recorder allows you to capture a video which you can easily share with your friends. Capture full screen scroll pages, with the scrolling screenshot functionality. Website screenshot captures a full size web page in high quality.\n\nUse the easiest screenshot app to not only take snapshots but also view, edit or share them directly.\n\n\u2605For free\u2605\n\nDepending on your device you can use the following triggers:\n\u2022 Overlay icon\n\u2022 Hidden overlay area\n\u2022 Notification icon click\n\u2022 Shake\n\u2022 Camera hardware button\n\u2022 Custom shortcut\n\u2022 Widget\n\u2022 Locale, Tasker plugin support\n\u2022 Power connect/disconnect\n\n\u2605Featuring screen recording using the screen record functionality!\u2605\n\nScreen capture:\n\u2022 Screenshot",
+    "icon": "/icons/com.icecoldapps.screenshoteasy.png"
+  },
+  "com.gamezvpn.fastvpn": {
+    "title": "Gamez VPN -  Low Ping Gaming",
+    "package": "com.gamezvpn.fastvpn",
+    "description": "Tired of lag spikes ruining your match? Gamez VPN is designed for gamers who demand a smooth and stable connection. Our service helps optimize your route to game servers, which can lead to a more consistent ping and reduced latency during crucial gameplay moments.\n\nKey Features:\n\nPerformance-First: Connect to optimized servers for a potentially smoother gaming experience.\n\nGlobal Access: Unlock and access game servers, early releases, or content that may be region-specific.\n\nSecure Sessions: Adds a layer of security to your connection, especially useful on public Wi-Fi.\n\nSimple & Fast: One-tap connection to a high-speed server network.\n\nGain a competitive edge with a more stable connection. Gamez VPN puts performance and access in your hands.\n\nImportant Note for Users:\nGamez VPN is a perso",
+    "icon": "/icons/com.gamezvpn.fastvpn.png"
+  },
+  "com.fng.foxnation": {
+    "title": "FOX Nation: Celebrate America",
+    "package": "com.fng.foxnation",
+    "description": "Delve into live shows, original specials, movies, news, and documentaries, with new entertainment added daily. Stream full episodes of Hannity, and Jesse Watters Primetime the morning after they air.\n\nStream binge-worthy entertainment:\nCOPS\nMartin Scorsese Presents: The Saints \nJesus Crown of Thorns\nYellowstone to Yosemite with Kevin Costner \nDuck Family Treasure\nThe Tides That Bind: Inside Alabama Football\nGod.Family.Football \nResolute with Benjamin Hall \nBlood on the Bridge: The Battle of Lexington and Concord w/ Kelsey Grammer\nHiking with Kevin Nealon\nArt of the Surge \nLast Cowboy Standing\nWhat did I Miss?\n\n\nWatch the personalities you trust:\nSean Hannity \nJesse Watters\nBrian Kilmeade\nHarris Faulkner \nBenjamin Hall \nAbby Hornacek\nDana Perino\nBret Baier\nAinsley Earhardt\nLawrence Jones\nJo",
+    "icon": "/icons/com.fng.foxnation.png"
+  },
+  "com.foxnews.android": {
+    "title": "FOX News - Daily Breaking News",
+    "package": "com.foxnews.android",
+    "description": "Stay informed with 24/7 access to the latest headlines and expert analysis on the reports of today with the FOX News App, your leading source for breaking national and international stories. Get daily coverage and live updates on politics, weather, stocks, business, sports, smart tech, health, and more with expert perspectives and new, in-depth reporting.\n\nGet your news, however you want: \nWATCH LIVESTREAM OR ON-DEMAND VIDEOS. Enjoy your favorite FOX News tv shows while browsing the smart app, with picture-in-picture viewing. Your world, reported live\u2014with all your favorite shows:\n-\tFOX & Friends\u2014the #1 morning show on cable\n-\tSpecial Report\n-\tAmerica\u2019s Newsroom\n-\tFOX News Sunday\n\nGET BREAKING NEWS WITH ALERTS. Receive real-time notifications about today\u2019s hottest topics\n\nSHARE, SAVE, & CO",
+    "icon": "/icons/com.foxnews.android.webp"
+  },
+  "com.Evag.SMX": {
+    "title": "SMX: Supermoto Vs. Motocross",
+    "package": "com.Evag.SMX",
+    "description": "Experience the thrill of SMX, your pocket-sized gateway to a console-level MX-style adventure! Enjoy stunning visuals and gameplay that\u2019s both intuitive and incredibly lifelike. Whether you\u2019re throwing whips, cruising on free rides, or climbing the leaderboards, every moment is packed with excitement.\n\nSMX Features:\nTracks: Choose from 7 high-quality tracks and 4 classic legacy tracks.\nEvents: Dive into 6 rally events or challenge yourself with 1 snowcross event.\nBikes: Ride one of 14 customizable dirt bikes, tweak everything from exhausts and rims to graphics and guards.\nGear: Gear up with a selection of 45 pieces, including helmets, goggles, and suits.\nEditor: Unleash your creativity with the built-in track editor.\nUser-Made Content: Download and enjoy user-generated content, from custom",
+    "icon": "/icons/com.Evag.SMX.png"
+  },
+  "com.turborilla.bike.racing.madskillsmotocross3": {
+    "title": "Mad Skills Motocross 3",
+    "package": "com.turborilla.bike.racing.madskillsmotocross3",
+    "description": "The ultimate 3D offroad motorcycle racing game! \n\nFeel the thrill of offroad motorcycle racing like never before with Mad Skills Motocross 3. This game delivers heart-pounding action as you take control of a powerful dirtbike across insane trails and supercross tracks. Perfect for motocross fans and moto enthusiasts alike, Mad Skills Motocross 3 brings a dynamic 3D racing experience to your fingertips.\n\n\ud83c\udfcd\ufe0f OFFROAD MOTORCYCLE ACTION\nGet ready to race across extreme offroad trail paths, supercross circuits, and motocross courses in stunning 3D. This game combines realistic motorcycle physics with challenging moto tracks to test your skills. You\u2019ll feel the acceleration, weight, torque, and suspension of the dirtbike on rough dirt terrain. Whether you\u2019re a casual rider or an mx pro, Mad Skill",
+    "icon": "/icons/com.turborilla.bike.racing.madskillsmotocross3.png"
+  },
+  "com.redbull.moto": {
+    "title": "Dirt Bike Unchained: MX Racing",
+    "package": "com.redbull.moto",
+    "description": "Get your ride and explore a moto racing paradise in Dirt Bike Unchained! \n\nCompete against other players around the world on the beautiful trails in the desert, swamp and forest. Engage with Red Bull athletes, get real-brand bikes & gear.      \n\nOUTSTANDING GRAPHICS\nThe lines get blurred between mobile and console graphics for two-wheel racing games. Feel the dirt fly and enjoy epic sunsets & vast landscapes as in real life.  \n\nREPUTATION TRACK\nComplete in-game challenges, gain reputation on the tracks and make your way from Dust Eater to a proud Red Bull helmet owner.   \n\n20+ EPIC BIKES\nDesign your very own collection of dirt bikes. Unlock & upgrade authentic KTM and fantasy off-road motorcycles.   \n\nTEAM COOP\nTeam up with up to 24 other dirt bike addicts to complete missions together and",
+    "icon": "/icons/com.redbull.moto.png"
+  },
+  "com.turborilla.MadSkillsMotocross2": {
+    "title": "Mad Skills Motocross 2",
+    "package": "com.turborilla.MadSkillsMotocross2",
+    "description": "Get ready to experience one of the most thrilling motocross games ever made! Mad Skills Motocross 2 brings you heart-pounding action and insane challenges in the world of offroad dirt bike racing. This moto game offers both casual and hardcore players the ultimate dirt bike experience, blending physics-based gameplay with high-flying stunts and intense races.\n\nRace through trails and tracks designed for all levels of mad skills. Compete against friends or take on players from around the globe in this fast-paced moto adventure. Master your dirt bike controls, perfect your jumps, and show the world you\u2019re the best offroad rider on the track.\n\nREALISTIC ARCADE BIKE PHYSICS\nFeel the rush of motocross racing with bike physics that make every bike jump, flip, wheelie, and crash feel real.\n\nUNLOC",
+    "icon": "/icons/com.turborilla.MadSkillsMotocross2.png"
+  },
+  "com.ironguard.vpn": {
+    "title": "IronGuard VPN \u2013 Tap & Go Proxy",
+    "package": "com.ironguard.vpn",
+    "description": "\u25a0 One-tap VPN connection\n\u25a0 Unlimited bandwidth\n\u25a0 Global server locations\n\u25a0 Fast, stable performance for everyday use\n\u25a0 Encrypted VPN tunnel for privacy\n\nPREMIUM VPN FEATURES\nIronGuard VPN is built for users who want reliable speed, strong privacy, and smooth connectivity.\n- Unlimited bandwidth for browsing, streaming, and gaming\n- High-performance VPN servers across multiple regions\n- Secure encrypted tunnel to protect internet traffic\n- No-activity-logs approach\n- Stable connection quality on Wi-Fi and mobile networks\n- Simple setup with easy one-tap connect\n- No ads\n\nWHAT A VPN CAN HELP WITH\nVPNs create an encrypted tunnel for your data and help protect your online identity by hiding your IP address. IronGuard VPN can help you:\n- secure your connection on public Wi-Fi (school, work, trav",
+    "icon": "/icons/com.ironguard.vpn.png"
+  },
+  "com.app.xt": {
+    "title": "XT.com: Buy Bitcoin & Ethereum",
+    "package": "com.app.xt",
+    "description": "Xplore Crypto, Trade with Trust! Welcome to XT.com, the world's most trusted cryptocurrency exchange and crypto futures trading platform!\n\nXT.com is a comprehensive crypto exchange in Seychelles, specialising in spot, margin, and derivatives trading. XT is inspired by the digital finance market and uses cutting-edge technology for Bitcoin, Ethereum, and other cryptocurrency trading, deposits, and withdrawals to meet the needs of its global active users. The exchange\u2019s extensive security measures make it a go-to platform for everyone looking for the best selection of cryptocurrencies. Additionally, XT.com is a full-service trading platform that supports 100+ high-quality currencies, 1,000+ coins and 1,300+ trading pairs. Currency trading, leveraged trades, OTC trading, futures trading, and ",
+    "icon": "/icons/com.app.xt.jpg"
+  },
+  "com.odoo.mobile": {
+    "title": "Odoo",
+    "package": "com.odoo.mobile",
+    "description": "Odoo Mobile:\n\nFor Odoo 16 or higher (Enterprise only)\n\nThe Odoo Mobile app for Android provides access to all Odoo applications directly from your mobile phone. Optimized for interfaces on any Android device, Odoo Mobile provides the next level of flexibility in your business management software. \n\nEvery application in your Odoo database is available from one native app, allowing you to maintain your records, reports, sales, content management, and more while on-the-go. Push notifications keep you informed of every task or action you follow, and the adaptive content delivery system ensures that every screen is optimally viewable from any device size.\n\nGet more out of your Odoo database and stay on top of all of your priorities without worrying about time spent away from your computer. Take",
+    "icon": "/icons/com.odoo.mobile.png"
+  },
+  "dnz.vcenter.dnzteam": {
+    "title": "V Center",
+    "package": "dnz.vcenter.dnzteam",
+    "description": "Your all-in-one app for buying and selling smartphone spare parts easily and securely. We offer a wide range of original and compatible parts for various global brands, with continuously updated inventory to ensure you always have the latest parts on the market.\n\nThrough the app, you can browse products by device type, quickly search for the part you need, view full specifications, and see clear images and prices. You can also add products to your cart and complete your order in a few simple steps.\n\nApp Features:\n\nA wide selection of screens, batteries, cameras, power supplies, and maintenance accessories\n\nEasy and fast user interface\n\nAdvanced search by model or part name\n\nContinuously updated prices and inventory\n\nTechnical support and customer service to answer your questions\n\nWhether y",
+    "icon": "/icons/dnz.vcenter.dnzteam.png"
+  },
+  "com.labs.ludo": {
+    "title": "Accessible Board Games",
+    "package": "com.labs.ludo",
+    "description": "Play your favorite classic games in one place - simple, fast, and designed for everyone.\n\n\ud83c\udfae Classic Games\n- Ludo, Mini Ludo, Farkle, Pig, Yatzy, Snake & Ladder, Tug or Rise, Businessman, Big One Wins, Fill The Box, Black Jack, 99, Set, Street Fighter, Memory, Penalty Kicks, Rock Paper Scissor, Hide & Seek, Diamond Heist, Dominoes, Bingo, Tic Tac Toe, Chess, Checkers, Mills and more.\n\n\ud83c\udfb2 Screen Reader Support\n- Fully optimized for screen readers, providing clear instructions and feedback for every move.\n\n\ud83d\udd0a Immersive Audio Effects\n- Audio cues guide you through dice rolls, piece movements, and opponent actions.\n- Enjoy a seamless auditory experience that keeps you engaged in the game.\n- Custom sounds allows you to set your own audio files.\n\n\ud83e\udd32 Touch Navigation\n- Intuitive touch-based controls ",
+    "icon": "/icons/com.labs.ludo.png"
+  },
+  "retail.grameenphone.com.gpretail": {
+    "title": "Cockpit",
+    "package": "retail.grameenphone.com.gpretail",
+    "description": "Cockpit by Grameenphone is the smarter way for GP\u2019s physical distribution ecosystem to serve customers\u2014fast, securely, and at scale. Built on years of learning from the field, Cockpit helps modernize the distribution value chain with tools that are simple to use and powerful under the hood.\n\nDesigned for GP partners\u2014including retailers, sales executives, and GPCF agents\u2014Cockpit unifies the essentials you need to run and grow your business, in one streamlined app.\n\nWhat you can do with Cockpit\n\n* Mobile Recharge: Recharge any GP number in seconds with reliable, real-time confirmation.\n* Sell New SIMs: Seamless onboarding for new customers with guided flows and checks.\n* Personalized Offers: See customer-ready campaigns curated from GP\u2019s latest propositions.\n* Amar Khushi (Make Your Own Camp"
+  },
+  "com.simplexsolutionsinc.vpn_unlimited": {
+    "title": "KeepSolid VPN Unlimited",
+    "package": "com.simplexsolutionsinc.vpn_unlimited",
+    "description": "KeepSolid VPN Unlimited \u2013 The Best \ud83c\udfc6 Private & Secure VPN app for Android!\n\nConnect to one of our VPN proxy servers:\n\ud83d\udd39 Get fast access to the content you want\n\ud83d\udd39 Unblock video streaming websites \n\ud83d\udd39 Protect yourself on public WiFi hotspot \n\ud83d\udd39 Get turbo speed\n\nFrom now on, VPN Unlimited becomes a part of our brand new security bundle MonoDefense. Also, this bundle includes Passwarden - secure storage for all your passwords and other sensitive data. And the range of MonoDefense solutions will be extended. So stay tuned for updates!\n\nKeepSolid VPN Unlimited for Android is a well-trusted software with more than 9-year experience in the security field \ud83d\udd12. Our virtual private network provides you with online protection \ud83d\udee1\ufe0f, complete privacy \ud83d\udc64, and unlimited access \ud83d\udd11 to your favorite websites. Our top",
+    "icon": "/icons/com.simplexsolutionsinc.vpn_unlimited.png"
   }
 }
