@@ -1,3 +1,5 @@
+# Announcement
+
 If you are wondering where https://apkdl.dietdroid.com went, click on the link for a brief explanation.
 
 # GPlay APK Downloader
