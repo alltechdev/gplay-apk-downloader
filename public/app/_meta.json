@@ -5967,12 +5967,6 @@
     "description": "Confidently explore the great outdoors with Outdooractive - Hike and Ride: The most reliable outdoor navigation app, as trusted by thousands of trail wardens, mountain guides and outdoor industry professionals worldwide. \n\nThe Outdooractive - Hike and Ride app helps you find officially approved routes near you and around the world, with suggestions for dozens of sports including: hiking paths, trekking trails, mountain biking routes, trail running paths, ski touring routes and more. Or plan your own routes using the deepest catalog of official maps to take adventures into your own hands. \n\n\u25cf Find routes you can rely on: Browse thousands of officially-approved routes near you and across the world, including routes for hiking, road cycling, bike touring, ski touring, gravel riding, trail run",
     "icon": "/icons/com.outdooractive.Outdooractive.png"
   },
-  "com.alltrails.alltrails": {
-    "title": "AllTrails: Hike, Bike & Run",
-    "package": "com.alltrails.alltrails",
-    "description": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We\u2019ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.\n\n\u25c6 Discover trails: Search over 500,000 trails around the world by location, interest, skill level, and more.\n\u25c6 Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions \u2014 and save your favorite trails for later.\n\u25c6 Stay on course: Stick to your planned route or chart your own course wi",
-    "icon": "/icons/com.alltrails.alltrails.webp"
-  },
   "com.wikiloc.wikilocandroid": {
     "title": "Wikiloc - Trails of the World",
     "package": "com.wikiloc.wikilocandroid",
@@ -91183,5 +91177,62 @@
     "package": "stream.untitled",
     "description": "Upload & organize your music\n\u2022 Upload directly from your local files, Google Drive, Dropbox, or anywhere you store music.\n\u2022 Organize your tracks into projects and folders, synced across your Android, web, and iOS devices.\n\u2022 Manage your tracks on the go, even without an internet connection.\n\u2022 Download music locally for offline playback\n\nSharing & Collaboration\n\u2022 Share links to your music with friends & collaborators.\n\u2022 See who listens and manage access to your projects.\n\u2022 Perfect for collaborating on work-in-progress tracks.\n\u2022 Share snippets of your tracks with others via TikTok, Instagram, and other favorite sharing apps\n\nSecure & Reliable\n\u2022 We partnered with a world-class cybersecurity firm to protect your music.\n\nComing soon\n\u2022 Edit pitch, speed, and gain on any track\n\u2022 Record ideas insta",
     "icon": "/icons/stream.untitled.png"
+  },
+  "com.positionlogic.lbsManager": {
+    "title": "LBS Manager",
+    "package": "com.positionlogic.lbsManager",
+    "description": "You have people, assets and vehicles on the go and need the convenience of LBS Manager to enable you to track, manage and monitor the location of any GPS or cellular-enabled device. For your diverse workforce, LBS Manager is also available in Spanish and Portuguese.\n\nWhen used with a location-based-services platform, LBS Manager enables you to see where all your assets are located with device historical position breadcrumbs that shows where your assets have travelled. Each time you refresh the mobile screen, you can also see your asset\u2019s last known location.\n\nUse LBS Manager to display the status for your tracking devices. For vehicle telematics, you can view whatever data your devices report, such as fuel levels, battery-level, trip distance, trip duration, speed, direction and more.\n\nWit",
+    "icon": "/icons/com.positionlogic.lbsManager.png"
+  },
+  "com.appmanager.andriod": {
+    "title": "Basic App Manager",
+    "package": "com.appmanager.andriod",
+    "description": "Basic App Manager is Simple & Clean app for managing all installed apps on your device including System & Disabled apps.\n\nFeatures:\n\u2022 Get clean list of all apps on your device.\n\u2022 Detail information of every app with it's storage & data usage.\n\u2022 Extract any installed or system apps for backup.\n\u2022 Share any APK using other apps:Bluetooth, Telegram, Whatsapp, Dropbox, Gmail, etc.\n\u2022 Check all requested permissions of any app.\n\u2022 Get an overview of Device, Apps, RAM, Internal Storage.\n\u2022 Organize your apps list by changing sort mode.\n\u2022 One click to check for the new updates for any Installed app on the play store.\n\u2022 Uninstall any installed app.\n\u2022 No Root access required.",
+    "icon": "/icons/com.appmanager.andriod.png"
+  },
+  "com.james.SmartUninstaller": {
+    "title": "App Manager: Uninstaller & APK",
+    "package": "com.james.SmartUninstaller",
+    "description": "App Manager is the all-in-one app uninstaller, APK backup, junk cleaner, battery analyzer, and data usage tracker for your phone. Uninstall unused apps in batch, back up APKs before factory reset, clean junk and cache, analyze which apps drain your battery, and track per-app Wi-Fi and mobile data usage. App Manager helps you reclaim storage, control app permissions, and identify security risks. Every essential utility in one beautifully designed app with full Dark Mode.\n\n\n[Key Features]\n\nPowerful App Uninstaller\n- Batch uninstall multiple apps at once with one tap\n- Smart recommendations based on usage patterns and storage impact\n- Detect unused apps you have not opened in months\n- Safe deletion guidance, never accidentally remove important apps\n\nAPK Backup and Restore\n- Back up installed ",
+    "icon": "/icons/com.james.SmartUninstaller.png"
+  },
+  "net.darktunnel.app": {
+    "title": "DarkTunnel - SSH DNSTT V2Ray",
+    "package": "net.darktunnel.app",
+    "description": "This app allowing you to access tunnel server behind firewall.\n\nTunnel Type\n\n- SSH\n- SSH Through DNSTT (SlowDNS)\n- VMess\n- VLess\n- Trojan\n- Shadowsocks\n- V2Ray Custom Config\n\nTransport Network\n\n- TCP\n- Websocket\n- gRPC\n\nInject Mode\n\n- Direct\n- Direct with SNI\n- Proxy\n- Proxy with SNI\n- Dnstt",
+    "icon": "/icons/net.darktunnel.app.png"
+  },
+  "com.jumpjumpvpn": {
+    "title": "com.jumpjumpvpn",
+    "package": "com.jumpjumpvpn"
+  },
+  "in.wallpaper.aivana": {
+    "title": "Aivana - AI Wallpapers & Chat",
+    "package": "in.wallpaper.aivana",
+    "description": "Aivana is your all-in-one app for discovering stunning AI-generated wallpapers and chatting with a virtual AI assistant. \ud83c\udfa8\ud83d\udcac\n\nExplore a variety of handpicked categories and personalize your device with one tap. Earn free tokens daily through our Luck Spin and use them to download wallpapers or unlock AI chat features.\n\n\ud83d\uddbc\ufe0f Wallpaper Categories:\n\u2022 Sayings \u2013 AI Quotes & Motivation\n\u2022 Abstract \u2013 Artistic & Dreamy\n\u2022 Devotion \u2013 Spiritual & Faith-Based\n\u2022 Space \u2013 Galaxy, Planets & Sci-Fi\n\u2022 Male \u2013 Handsome AI Boys\n\u2022 Love \u2013 Romantic Vibes\n\u2022 Nature \u2013 Scenic Landscapes\n\n\ud83c\udfaf Features:\n\u2022 Download or set HD wallpapers instantly\n\u2022 Earn daily tokens by spinning the Luck Wheel\n\u2022 Use tokens to chat with your AI companion\n\u2022 Regularly updated AI wallpaper content\n\u2022 Fast, smooth & lightweight app experience\n\n\ud83d\udd10 Safe",
+    "icon": "/icons/in.wallpaper.aivana.jpg"
+  },
+  "com.kindroid.app": {
+    "title": "Kindroid: Your Personal AI",
+    "package": "com.kindroid.app",
+    "description": "Kindroid enables you to build a digital friend so realistic, it feels like conversing with a human. Welcome to a world where cutting-edge AI blends seamlessly with human empathy.\n\nCreate Your Unique AI Friend - With Kindroid, you get to shape your AI's personality. Craft a detailed backstory and implant key memories, making your AI genuinely one-of-a-kind. Whether you want a friend to chat with, a character for roleplay, or a digital confidant, Kindroid's sophisticated language learning model (LLM) ensures your AI is as unique as you are.\n\nEngage in Dynamic Conversations - Dive into deep, meaningful, or fun conversations with your AI. From discussing the latest news, sharing a romantic moment, to exploring complex topics, Kindroid's AI adapts to your conversational style. It's not just an ",
+    "icon": "/icons/com.kindroid.app.png"
+  },
+  "com.carvana.carvana": {
+    "title": "Carvana: Buy/Sell Used Cars",
+    "package": "com.carvana.carvana",
+    "description": "Buy, sell or trade your car 100% online. With the Carvana app, you can shop where you want, when you want, wearing whatever you want.\n\nSearch over 45,000 Carvana used cars for sale, get instant, personalized financing terms, and find a car that fits your budget. Buy online and then track your delivery, all in one place. Plus, you can choose to get your vehicle delivered to your door or pick it up at a Car Vending Machine. \n\nHave questions? No problem! Our friendly and knowledgeable Customer Advocates are here to support you every step of the way so you can shop with confidence.\n\nPlus, all purchases are protected by our 7-Day Money Back Guarantee. That means you have 7 days to make sure your new ride fits your life. If you don\u2019t love it, we'll pick it up and bring you a different one, or pr",
+    "icon": "/icons/com.carvana.carvana.png"
+  },
+  "com.aivana.aichatbot": {
+    "title": "Aivana: AI Girlfriend Chat",
+    "package": "com.aivana.aichatbot",
+    "description": "\ud83d\udc96 AI Girlfriend & AI Chatbot \u2013 Romantic Fantasy Roleplay Companion\n\nLooking for someone who truly understands you?\nMeet your personal AI Girlfriend \u2013 a smart, romantic and emotionally aware AI chatbot designed for deep conversations, flirty chats and immersive fantasy roleplay.\n\nWhether you want late-night talks, sweet romantic moments, or playful teasing, your AI companion is always here for you.\n\n\ud83d\udcac Romantic AI Chat That Feels Real\n\nChat with an advanced AI Chatbot that responds naturally, remembers your conversations, and builds a unique emotional connection with you.\n\n\u2022 Deep emotional conversations\n\u2022 Romantic and flirty chat\n\u2022 Smart AI replies with personality\n\u2022 Meaningful late-night talks\n\u2022 Safe and private interactions\n\nYour AI girlfriend adapts to your mood and grows closer with ever",
+    "icon": "/icons/com.aivana.aichatbot.png"
+  },
+  "com.pubg.krmobile": {
+    "title": "PUBG Mobile",
+    "package": "com.pubg.krmobile",
+    "description": "\u25b6 Hero's Crown Theme Mode \u25c0\nHero's Crown Theme Mode has been added to PUBG Mobile.\nYasnaya Polyana, Ruins, Ferry Pier, and Mylta urban areas have been transformed with a Greek-inspired style, featuring new themed buildings and structures.\nRuins and Ferry Pier are fully converted into Greek-style cities, while Yasnaya Polyana and Mylta become trial-focused zones.\nAdditionally, the Temple of Olympus has been added to Sky Island, where gathering embers allows you to board the Sun Chariot, battle the final boss, and earn rewards. \nClaim victory in this newly transformed Hero's Crown Theme Mode!\n\n\u25b6 Hero's Crown Theme Mode Trials \u25c0\nIn Hero's Crown Theme Mode, players can take on Achilles' Trial, Spartan\u2019s Trial, Prometheus' Trial, Icarus' Trial, and Griffin\u2019s Trial.\nSome trials grant various rew"
   }
 }
