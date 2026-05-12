@@ -1,3 +1,5 @@
+If you are wondering where https://apkdl.dietdroid.com went, click on the link for a brief explanation.
+
 # GPlay APK Downloader
 
 Download APKs from Google Play Store. Can merge split APKs (App Bundles) into single installable APKs.
