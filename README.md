@@ -36,10 +36,25 @@ Download APKs from Google Play Store. Can merge split APKs (App Bundles) into si
 ### Quick Install
 
 ```bash
-git clone <repo-url> gplay-apk-downloader
+git clone --depth 1 https://github.com/alltechdev/gplay-apk-downloader.git
 cd gplay-apk-downloader
 ./setup.sh
 ```
+
+> The `--depth 1` flag fetches only the latest snapshot (~15 MB) instead of the full history. Required for a fast clone — the repository's history contains a large legacy catalog cache that ships with full clones.
+
+### Restoring the Historical Catalog Snapshot (Optional)
+
+The previously hosted public service at apkdl.dietdroid.com built up a cache of ~15,000 app icons and a metadata index over time. This is **not required** for self-hosting — your instance will build its own cache organically as users download apps. The historical snapshot is preserved as a release asset for archival purposes.
+
+To restore it, run from the repository root:
+
+```bash
+curl -L https://github.com/alltechdev/gplay-apk-downloader/releases/download/v1.0-snapshot/catalog-snapshot.tar.gz \
+  | tar -xz
+```
+
+Restores `public/icons/` and `public/app/_meta.json`.
 
 ### Manual Dependencies (Ubuntu/Debian)
 
@@ -514,7 +529,10 @@ gplay-apk-downloader/
 │   ├── index.html       # HTML skeleton
 │   ├── style.css        # Styles
 │   ├── app.js           # Main application JS
-│   └── adb.js           # WebUSB ADB module
+│   ├── adb.js           # WebUSB ADB module
+│   └── app/             # Auto-generated app pages
+│       ├── _browse.html # Catalog browse page template
+│       └── _template.html # App detail page template
 ├── gunicorn.conf.py     # Gunicorn production config
 ├── start-server.sh      # Server startup script (dev/production)
 ├── setup.sh             # Installation script
