@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /download/
+
+Sitemap: __SITE_URL__/sitemap.xml

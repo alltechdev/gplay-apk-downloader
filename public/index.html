@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0a0a0a">
+  <meta name="description" content="Download APKs directly from Google Play Store. Search apps, download split or merged APKs, and install via ADB — free and anonymous.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="__SITE_URL__/">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="__SITE_URL__/">
+  <meta property="og:title" content="GPlay APK Downloader">
+  <meta property="og:description" content="Download APKs directly from Google Play Store. Search apps, download split or merged APKs, and install via ADB.">
+  <meta property="og:image" content="__SITE_URL__/favicon-192.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="GPlay APK Downloader">
+  <meta name="twitter:description" content="Download APKs directly from Google Play Store. Search, download, merge splits, and install via ADB.">
+  <meta name="twitter:image" content="__SITE_URL__/favicon-192.png">
+  <title>GPlay APK Downloader - Download APKs from Google Play</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" integrity="sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG" crossorigin="anonymous"></script>
+  <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+  <link rel="icon" type="image/png" href="/favicon-192.png" sizes="192x192">
+  <link rel="stylesheet" href="/style.css?v=2">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "GPlay APK Downloader",
+    "url": "__SITE_URL__/",
+    "applicationCategory": "UtilitiesApplication",
+    "operatingSystem": "Any",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "isAccessibleForFree": true
+  }
+  </script>
+</head>
+<body>
+  <div class="wrapper">
+    <header class="header">
+      <div class="header-badge">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        APK Downloader
+      </div>
+      <h1>G<span>Play</span> APK Downloader</h1>
+      <p>Download APKs directly from Google Play Store</p>
+      <div class="stat-counter" id="stat-counter" style="display:none"></div>
+    </header>
+
+    <!-- ADB Device -->
+    <div class="card adb-card" id="adb-card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+        Install to Device
+      </div>
+      <div class="adb-status" id="adb-status">
+        <button class="btn-secondary" id="adb-connect-btn" onclick="adbConnect()">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v4M17 2v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 4.93l-2.83 2.83M12 8v4M12 16v.01"/><circle cx="12" cy="12" r="6"/></svg>
+          Connect Device
+        </button>
+      </div>
+    </div>
+
+    <!-- Download Card -->
+    <div class="card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg>
+        Direct Download
+      </div>
+      <input type="text" id="pkg-input" placeholder="com.example.app" spellcheck="false" autocomplete="off">
+      <div class="options-row">
+        <select id="arch-select">
+          <option value="arm64-v8a">ARM64 (modern)</option>
+          <option value="armeabi-v7a">ARMv7 (legacy)</option>
+        </select>
+        <label class="checkbox-wrap" id="merge-label">
+          <input type="checkbox" id="merge-apks" checked>
+          <span>Merge splits</span>
+        </label>
+      </div>
+      <div class="note">
+        Merged APKs are re-signed with a debug key. Apps without splits keep their original signature.
+        <br><br>
+        <details class="disclaimer">
+          <summary>&#9888; Disclaimer</summary>
+          <div class="disclaimer-body">
+            <p class="disclaimer-warn">NOT RECOMMENDED FOR APPS FROM META, UBER, WHATSAPP, ANY GOOGLE APP REQUIRING AN ACCOUNT, OR ANY BANKING APP. RISK OF ACCOUNT BAN WITH CHANGED SIGNATURE.</p>
+            <br><p class="disclaimer-tip">For these apps, use <strong>Install to Device</strong> via USB or <strong>download as ZIP</strong> (uncheck merge) to preserve original signatures.<br><br>Use your own judgement to decide if an app is serious enough about security to warrant not merging. We do not take responsibility for any account bans or restrictions resulting from the use of re-signed APKs.</p>
+          </div>
+        </details>
+      </div>
+      <div class="btn-row">
+        <button class="btn-secondary" onclick="getInfo()">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+          Info
+        </button>
+        <button class="btn-primary" onclick="download()">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          Download
+        </button>
+      </div>
+      <div id="info-result" class="results"></div>
+    </div>
+
+    <!-- Log Panel -->
+    <div class="log-panel" id="log-panel">
+      <div class="log-header" onclick="toggleLog()">
+        <div class="log-header-left">
+          <div class="card-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>
+            Activity Log
+          </div>
+          <span class="log-badge empty" id="log-badge">0</span>
+          <div class="log-active-dot" id="log-dot" style="display:none"></div>
+        </div>
+        <svg class="log-toggle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+      </div>
+      <div class="log-body">
+        <div class="log-actions">
+          <button class="log-clear-btn btn-ghost" onclick="event.stopPropagation();clearLog()">clear</button>
+        </div>
+        <div class="log-scroll" id="log-scroll">
+          <div class="log-empty" id="log-empty">No activity yet</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- App Catalog -->
+    <a href="/apps" class="card" style="display:flex;align-items:center;gap:12px;text-decoration:none;cursor:pointer">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+      <div>
+        <div style="font-size:13px;font-weight:600;color:var(--text-primary);margin-bottom:3px">App Catalog</div>
+        <div style="font-size:11px;font-family:var(--font-mono);color:var(--text-tertiary)">Browse what others are downloading</div>
+      </div>
+    </a>
+
+    <!-- Search Card -->
+    <div class="card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        Search
+      </div>
+      <input type="text" id="search-q" placeholder="Search the Play Store..." onkeypress="if(event.key==='Enter')search()">
+      <div class="btn-row">
+        <button class="btn-primary" onclick="search()">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          Search
+        </button>
+      </div>
+      <div id="search-results" class="results"></div>
+    </div>
+
+    <!-- Backup/Restore Card -->
+    <div class="card backup-card" id="backup-card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
+        Backup &amp; Restore
+      </div>
+      <div class="backup-actions" id="backup-actions">
+        <button class="btn-primary" id="backup-btn" onclick="backupApps()" style="display:none">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+          Backup App List
+        </button>
+        <div class="file-input-wrap">
+          <button class="btn-secondary">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Import List
+          </button>
+          <input type="file" accept=".json" onchange="importBackup(event)">
+        </div>
+      </div>
+      <div id="backup-result"></div>
+    </div>
+
+    <footer class="footer">
+      <p>Uses Aurora Store token dispenser for anonymous auth</p>
+      <a href="https://github.com/alltechdev/gplay-apk-downloader" target="_blank" rel="noopener" class="footer-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+        alltechdev/gplay-apk-downloader
+      </a>
+      <div class="footer-link" id="gh-stars" style="display:none">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        <span id="gh-stars-count">—</span> stars
+      </div>
+    </footer>
+  </div>
+
+  <script type="module" src="/adb.js"></script>
+  <script src="/app.js?v=2"></script>
+</body>
+</html>
