@@ -8,6 +8,8 @@ tests/fixtures/*.bin
 *.zip
 # E2E screenshots are dev-loop artifacts — never commit.
 screenshots/
-# Raw stderr / error dumps must not be committed.
+# Raw stderr / devtools-console error dumps must not be committed.
 error.txt
+errors.txt
 *.error.txt
+*.errors.txt
