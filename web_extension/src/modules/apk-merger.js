@@ -11,6 +11,7 @@
 
 import * as fflate from 'fflate';
 import { patchManifestFusedModules, getAssetPackSplitNames } from './axml-patcher.js';
+import { writeAlignedZip } from './zipalign.js';
 
 function isOldSignature(path) {
   if (!path.startsWith('META-INF/')) return false;
@@ -51,5 +52,8 @@ export function mergeApks(baseBytes, splits) {
     }
   }
 
-  return fflate.zipSync(out, { level: 0 });
+  // Use the aligned writer (zipalign-equivalent) so the merged APK is
+  // 4-byte aligned and lib/*/*.so is 4096-byte page-aligned, matching
+  // what legacy `zipalign -p 4` produces.
+  return writeAlignedZip(out);
 }

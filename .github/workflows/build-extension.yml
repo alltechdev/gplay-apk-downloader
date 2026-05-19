@@ -1,0 +1,70 @@
+name: build-extension
+
+on:
+  push:
+    branches: [main, feat/web-extension]
+    paths:
+      - 'web_extension/**'
+      - '.github/workflows/build-extension.yml'
+  pull_request:
+    paths:
+      - 'web_extension/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: build + lint + unit
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web_extension
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+          cache-dependency-path: web_extension/package-lock.json
+
+      - name: Install npm deps
+        env:
+          PUPPETEER_SKIP_DOWNLOAD: '1'
+        run: npm ci || npm install --no-audit --no-fund
+
+      - name: Lint manifest
+        run: npm run lint
+
+      - name: Unit tests
+        run: npm test
+
+      - name: Build bundles
+        run: npm run build:bundles
+
+      - name: Build extension zip
+        run: npm run build
+
+      - name: Show artifact info
+        run: ls -la dist/
+
+      - name: Upload extension zip
+        uses: actions/upload-artifact@v4
+        with:
+          name: gplay-apk-downloader-extension
+          path: web_extension/dist/*.zip
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Upload source-loaded dir
+        uses: actions/upload-artifact@v4
+        with:
+          name: gplay-apk-downloader-unpacked
+          path: |
+            web_extension/src/**
+            !web_extension/src/**/*.map
+          if-no-files-found: error
+          retention-days: 30

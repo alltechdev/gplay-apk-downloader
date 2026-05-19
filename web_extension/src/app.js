@@ -75,13 +75,12 @@ function setAuthCard(status) {
   $('#arch-select').value = status.arch || 'arm64-v8a';
   if (status.signedIn) {
     const stale = status.stale ? ' (stale, will refresh on next call)' : '';
+    // Legacy does not surface the dispenser-account email; we don't either.
     statusEl.innerHTML =
       '<div class="adb-dot"></div>' +
-      '<div class="adb-device-name">' + esc(status.email || 'anonymous') +
+      '<div class="adb-device-name">Authenticated' +
       '<small>' + esc(status.profileLabel || status.profileKey || '') +
-      ' · ' + esc(status.profileArch || '') +
-      ' · gsfId ' + esc(String(status.gsfId || '').slice(0, 16)) +
-      stale + '</small></div>';
+      ' · ' + esc(status.profileArch || '') + stale + '</small></div>';
     signInBtn.style.display = 'none';
     signOutBtn.style.display = '';
   } else {
@@ -198,12 +197,12 @@ async function doDownload() {
       : await rpc('app.details', { packageName: pkg });
     currentDetails = d;
     log('Download: ' + d.title + ' v' + d.versionString + ' (vc=' + d.versionCode + ')', 'info');
-    const outputFormat = $('#output-select').value;
-    if (outputFormat === 'splits') {
+    const merge = $('#merge-apks').checked;
+    if (merge) {
+      await downloadAsSingleFile(pkg, d, 'merge');
+    } else {
       const res = await rpc('app.download', { packageName: pkg, versionCode: d.versionCode });
       log('Queued ' + res.files.length + ' file(s) under ' + res.dirPrefix, 'dl');
-    } else {
-      await downloadAsSingleFile(pkg, d, outputFormat);
     }
   } catch (err) {
     log('Download failed: ' + err.message, 'err');
@@ -550,9 +549,17 @@ document.addEventListener('DOMContentLoaded', async () => {
   $('#backup-btn').addEventListener('click', backupAppList);
 
   $('#arch-select').addEventListener('change', async (e) => {
+    const arch = e.target.value;
     try {
-      await rpc('arch.set', { arch: e.target.value });
-      log('Architecture set to ' + e.target.value + ' — re-sign in to switch profile', 'info');
+      const status = await rpc('arch.set', { arch });
+      log('Architecture set to ' + arch, 'info');
+      // Legacy parity: auth picks a profile per arch at request time. If we
+      // already have a token for a different arch, rotate now so subsequent
+      // downloads use the matching profile.
+      if (status.signedIn && status.profileArch && status.profileArch !== arch) {
+        log('Profile arch (' + status.profileArch + ') differs — re-authenticating', 'info');
+        setAuthCard(await rpc('auth.signIn', { arch }));
+      }
     } catch (err) {
       log('arch.set failed: ' + err.message, 'err');
     }
@@ -581,5 +588,15 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   await refreshAuth();
   $('#pkg-input').focus();
+  // GitHub stars badge (legacy parity, footer)
+  fetch('https://api.github.com/repos/alltechdev/gplay-apk-downloader')
+    .then((r) => r.json())
+    .then((d) => {
+      if (d?.stargazers_count != null) {
+        $('#gh-stars-count').textContent = d.stargazers_count.toLocaleString();
+        $('#gh-stars').style.display = 'inline-flex';
+      }
+    })
+    .catch(() => {});
   log('Extension page loaded', 'ok');
 });

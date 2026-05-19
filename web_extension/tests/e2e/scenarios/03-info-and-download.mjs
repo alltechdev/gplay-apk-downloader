@@ -51,6 +51,8 @@ export default async function infoAndDownload({ browser, extensionId, shotDir, l
 
   // Info lookup.
   await page.type('#pkg-input', TEST_PKG);
+  // Ensure merge is unchecked so the chrome.downloads splits path is exercised.
+  await page.$eval('#merge-apks', (el) => { el.checked = false; });
   await page.click('#info-btn');
   await page.waitForSelector('#info-result .msg.ok, #info-result .msg.err', { timeout: 30000 });
   const infoOk = await page.$('#info-result .msg.ok') !== null;
