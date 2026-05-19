@@ -70,30 +70,37 @@
 
     /* Two-column block. On narrow screens .cols stacks vertically with each
        column also stacked, so the visual order is:
-         col-1: Install to Device, Search
+         col-1: Authentication, Install to Device, Search
          col-2: Direct Download, Backup & Restore
        At >= 960px the two .col flexboxes sit side-by-side; each column's
        cards stack tightly (no row-alignment gap from grid). */
     .cols {
       display: flex;
       flex-direction: column;
-      gap: 16px;
-      margin-bottom: 16px;
+      gap: 20px;
+      margin-bottom: 24px;
     }
     .col {
       display: flex;
       flex-direction: column;
-      gap: 16px;
+      gap: 20px;
     }
     .col > .card { margin-bottom: 0; }
 
     @media (min-width: 960px) {
-      .wrapper { max-width: 1240px; }
+      .wrapper { max-width: 1100px; }
       .cols {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        column-gap: 24px;
+        column-gap: 32px;
         align-items: start;
+      }
+      /* Activity Log is short log lines — full wrapper width is overkill.
+         Constrain to a comfortable reading width, centered. */
+      .wrapper > #log-panel {
+        max-width: 720px;
+        margin-left: auto;
+        margin-right: auto;
       }
     }
 
