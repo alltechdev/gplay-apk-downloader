@@ -81,7 +81,8 @@ export default async function searchTrigger({ browser, extensionId, shotDir, lat
   await page.close();
 
   if (!pkgInput) throw new Error('expected #pkg-input to be filled after Download click');
-  if (!infoText.includes('Play:')) throw new Error('#info-result did not render the details block; got: ' + infoText.slice(0, 200));
+  // Legacy-parity info block is "<title>\nv<ver> · <arch> · <size>[ · includes …]".
+  if (!/v\d.*ARM\d+/i.test(infoText)) throw new Error('#info-result did not render the details block; got: ' + infoText.slice(0, 200));
   if (!logOpen) throw new Error('Activity Log did not auto-open');
 
   return { pkgInput, firstPkg, infoSnippet: infoText.slice(0, 160), logOpen };

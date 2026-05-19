@@ -14,7 +14,7 @@
 import * as fflate from 'fflate';
 import { DEBUG_CERT_DER, DEBUG_KEY_PKCS8_DER } from './debug-cert.js';
 import { mergeApks } from './apk-merger.js';
-import { signApkV2 } from './apk-signer.js';
+import { signApk } from './apk-signer.js';
 
 async function blobToU8(blob) {
   return new Uint8Array(await blob.arrayBuffer());
@@ -49,7 +49,11 @@ async function mergeAndSign(files, outputName) {
   const splitBytes = await Promise.all(splitFiles.map(async (f) => ({ name: f.name, bytes: await blobToU8(f.blob) })));
 
   const merged = mergeApks(baseBytes, splitBytes);
-  const signed = await signApkV2(merged, DEBUG_KEY_PKCS8_DER, DEBUG_CERT_DER);
+  // Match legacy `apksigner sign` defaults: v1 + v2 + v3 all enabled.
+  // The same RSA-2048 debug keypair signs every APK — there's no per-app
+  // decision, mirroring how the legacy server's debug.keystore signs all
+  // merged output identically.
+  const signed = await signApk(merged, DEBUG_KEY_PKCS8_DER, DEBUG_CERT_DER, { v1: true, v2: true, v3: true });
   const blob = new Blob([signed], { type: 'application/vnd.android.package-archive' });
   downloadBlob(blob, outputName);
   return { bytes: signed.byteLength };
