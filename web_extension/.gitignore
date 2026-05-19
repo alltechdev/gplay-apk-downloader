@@ -6,4 +6,8 @@ tests/logs/
 tests/fixtures/*.bin
 *.xpi
 *.zip
-# screenshots/ IS tracked — it's evidence, not transient output.
+# E2E screenshots are dev-loop artifacts — never commit.
+screenshots/
+# Raw stderr / error dumps must not be committed.
+error.txt
+*.error.txt
