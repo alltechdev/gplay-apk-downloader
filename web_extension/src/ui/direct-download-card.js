@@ -63,19 +63,24 @@ function infoBody(d, installed) {
   return rows;
 }
 
+async function fetchAndShowInfo(pkg) {
+  const [d, installed] = await Promise.all([
+    rpc('app.details', { packageName: pkg }),
+    getInstalledVersion(pkg),
+  ]);
+  currentDetails = d;
+  showMsg(infoBody(d, installed), 'ok');
+  return { details: d, installed };
+}
+
 async function doInfo() {
   const pkg = $('#pkg-input').value.trim();
   if (!pkg) { showMsg('enter a package name first', 'err'); return; }
   showMsg([h('span', { class: 'spinner' }), 'looking up ' + pkg + '…']);
   log('Info: ' + pkg, 'info');
   try {
-    const [d, installed] = await Promise.all([
-      rpc('app.details', { packageName: pkg }),
-      getInstalledVersion(pkg),
-    ]);
-    currentDetails = d;
-    showMsg(infoBody(d, installed), 'ok');
-    log('Info ok: ' + d.title + ' v' + d.versionString + (installed ? ' · device has v' + installed.versionName : ''), 'ok');
+    const { details, installed } = await fetchAndShowInfo(pkg);
+    log('Info ok: ' + details.title + ' v' + details.versionString + (installed ? ' · device has v' + installed.versionName : ''), 'ok');
   } catch (err) {
     currentDetails = null;
     showMsg(err.message, 'err');
@@ -126,7 +131,10 @@ async function installToDevice(pkg, details) {
 
 /**
  * Fetch and produce a single-file download for the given package.
- * Used by both the Download button and the bulk Restore flow.
+ * Used by the Direct Download button and the bulk Restore flow.
+ * Does NOT mirror the package into the Info card; for that use
+ * `triggerDownloadFor`.
+ *
  * @param {string} pkg - Play Store package name.
  * @param {string} [format] - 'merge' | 'zip'; falls back to the checkbox state.
  */
@@ -138,6 +146,46 @@ export async function downloadPackage(pkg, format = null) {
   log('Download: ' + d.title + ' v' + d.versionString + ' (vc=' + d.versionCode + ')', 'info');
   const fmt = format || ($('#merge-apks').checked ? 'merge' : 'zip');
   await downloadAsSingleFile(pkg, d, fmt);
+}
+
+/**
+ * Full download-flow entry point for external triggers (e.g. clicking
+ * Download on a search result). Mirrors what the user would see if they
+ * typed the package name themselves and clicked the Direct Download
+ * button:
+ *
+ *   1. Fill #pkg-input with the package name.
+ *   2. Open the Activity Log so progress is visible.
+ *   3. Fetch app.details and render the Info block in #info-result
+ *      (same view the Info button produces).
+ *   4. Branch:
+ *       - ADB device connected → install to device (pm install-*).
+ *       - Otherwise → save the single ZIP (or merged APK, if checkbox on).
+ *
+ * @param {string} pkg
+ */
+export async function triggerDownloadFor(pkg) {
+  $('#pkg-input').value = pkg;
+  ensureLogOpen();
+  setLogActive(true);
+  showMsg([h('span', { class: 'spinner' }), 'looking up ' + pkg + '…']);
+  try {
+    const { details, installed } = await fetchAndShowInfo(pkg);
+    log('Info ok: ' + details.title + ' v' + details.versionString + (installed ? ' · device has v' + installed.versionName : ''), 'ok');
+    if (window.gplaydlAdb?.connected) {
+      log('ADB device connected — installing to device', 'info');
+      await installToDevice(pkg, details);
+    } else {
+      const fmt = $('#merge-apks').checked ? 'merge' : 'zip';
+      await downloadAsSingleFile(pkg, details, fmt);
+    }
+  } catch (err) {
+    currentDetails = null;
+    showMsg(err.message, 'err');
+    log('Download failed: ' + err.message, 'err');
+  } finally {
+    setLogActive(false);
+  }
 }
 
 async function doDownload() {
