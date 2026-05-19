@@ -1,14 +1,19 @@
 // 90-action.js — toolbar button click + lifecycle hooks for DNR.
 
-chrome.runtime.onInstalled.addListener(() => {
-  installCoreDnrRules().catch((e) => swLog.error('DNR install (onInstalled):', e));
-});
-chrome.runtime.onStartup.addListener(() => {
-  installCoreDnrRules().catch((e) => swLog.error('DNR install (onStartup):', e));
-});
+async function bootDnr(reason) {
+  try { await installCoreDnrRules(); } catch (e) { swLog.error('DNR install (' + reason + '):', e); }
+  // Sweep per-download rules orphaned by a previous SW lifetime (crashed
+  // mid-merge, tab closed before releaseRules, etc.). Safe to nuke
+  // anything in the download-id range that isn't tied to a live
+  // chrome.downloads job in `downloadRuleByDl`.
+  try { await sweepStaleDownloadRules(); } catch (e) { swLog.warn('DNR sweep (' + reason + '):', e); }
+}
+
+chrome.runtime.onInstalled.addListener(() => { bootDnr('onInstalled'); });
+chrome.runtime.onStartup.addListener(()  => { bootDnr('onStartup'); });
 // Also call eagerly on first SW boot — `onInstalled` does not fire when
 // the SW is woken by a message rather than freshly installed.
-installCoreDnrRules().catch((e) => swLog.error('DNR install (boot):', e));
+bootDnr('boot');
 
 chrome.action.onClicked.addListener(async () => {
   const tabs = await chrome.tabs.query({ url: PAGE_URL });
