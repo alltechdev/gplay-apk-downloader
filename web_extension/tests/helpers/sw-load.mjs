@@ -29,10 +29,11 @@ const DEFAULT_GLOBALS = {
  *
  * @param {string[]} files       Filenames inside `src/sw/`, in order.
  * @param {string[]} captureNames Names to make available on the returned object.
+ * @param {object} [extraGlobals] Additional globals (fetch, custom chrome stub, …)
  * @returns {object} An object with every captured name (and ctx for direct access).
  */
-export function loadSw(files, captureNames) {
-  const ctx = vm.createContext({ ...DEFAULT_GLOBALS });
+export function loadSw(files, captureNames, extraGlobals = {}) {
+  const ctx = vm.createContext({ ...DEFAULT_GLOBALS, ...extraGlobals });
   let combined = '';
   for (const f of files) combined += readFileSync(resolve(swDir, f), 'utf8') + '\n';
   combined += `;Object.assign(globalThis, { ${captureNames.join(', ')} });`;
