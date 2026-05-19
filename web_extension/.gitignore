@@ -1,0 +1,9 @@
+.venv/
+.venv-legacy/
+node_modules/
+dist/
+tests/logs/
+tests/fixtures/*.bin
+*.xpi
+*.zip
+# screenshots/ IS tracked — it's evidence, not transient output.

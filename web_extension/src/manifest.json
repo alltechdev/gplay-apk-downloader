@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "GPlay APK Downloader",
+  "short_name": "gplaydl",
+  "version": "0.0.1",
+  "description": "Fetch APKs from Google Play directly to your browser. No server in the loop.",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_title": "GPlay APK Downloader",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "downloads",
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "https://auroraoss.com/*",
+    "https://android.clients.google.com/*",
+    "https://play.googleapis.com/*",
+    "https://play-fe.googleapis.com/*",
+    "https://play.google.com/*",
+    "https://*.gvt1.com/*",
+    "https://*.googleusercontent.com/*",
+    "https://fonts.googleapis.com/*",
+    "https://fonts.gstatic.com/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "gplaydl@dietdroid.com",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
+}

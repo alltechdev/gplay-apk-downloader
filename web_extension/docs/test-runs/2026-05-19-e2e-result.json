@@ -1,0 +1,20 @@
+{
+  "chromium": "144.x",
+  "extensionId": "nejhpfdpjkomecnmibkbpfgolfaioiph",
+  "timestamp": "2026-05-19T14:11:04.398Z",
+  "results": [
+    {
+      "scenario": "smoke.popup",
+      "ok": true,
+      "h1": "GPlay APK Downloader",
+      "screenshot": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/tests/logs/e2e-2026-05-19T14-11-03-185Z/popup.png"
+    },
+    {
+      "scenario": "scenarios/01-blacklist-rpc.mjs",
+      "ok": true,
+      "status": "this package is blacklisted in this build",
+      "console": []
+    }
+  ],
+  "ok": true
+}
