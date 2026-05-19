@@ -1,6 +1,6 @@
 // adb-card.js — "Install to Device" card.
 //
-// All WebUSB work lives in window.gplaydlAdb (loaded from
+// All WebUSB work lives behind `ui/runtime.js#adb()` (loaded from
 // vendor/adb-bundle.js). This module is just the UI wrapper plus a
 // `adb-status` custom event dispatched on the document so other cards
 // can react (Backup enables its Backup-App-List button, Direct Download
@@ -9,6 +9,7 @@
 import { $, h, replace } from './dom.js';
 import { icoConnect } from './icons.js';
 import { log } from './log.js';
+import { adb, adbSupported } from './runtime.js';
 
 let info = null;
 
@@ -47,10 +48,11 @@ function setCard(state, deviceInfo) {
 }
 
 async function doConnect() {
-  if (!window.gplaydlAdb) { log('ADB bundle not loaded', 'err'); return; }
+  const a = adb();
+  if (!a) { log('ADB bundle not loaded', 'err'); return; }
   log('Connecting to device — tap "Allow" if your device prompts', 'info');
   try {
-    info = await window.gplaydlAdb.connect();
+    info = await a.connect();
     setCard('connected', info);
     log('ADB connected: ' + info.model + ' (Android ' + info.android + ')', 'ok');
   } catch (err) {
@@ -60,7 +62,7 @@ async function doConnect() {
 }
 
 async function doDisconnect() {
-  try { await window.gplaydlAdb.disconnect(); }
+  try { await adb()?.disconnect(); }
   catch (err) { log('ADB disconnect error: ' + err.message, 'warn'); }
   info = null;
   setCard('disconnected');
@@ -70,6 +72,6 @@ async function doDisconnect() {
 export function getAdbInfo() { return info; }
 
 export function initAdbCard() {
-  if (!window.gplaydlAdb || !window.gplaydlAdb.supported) setCard('unsupported');
+  if (!adbSupported()) setCard('unsupported');
   else setCard('disconnected');
 }

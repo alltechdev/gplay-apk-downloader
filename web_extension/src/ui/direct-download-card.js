@@ -9,6 +9,7 @@
 
 import { $, h, replace, fmtSize } from './dom.js';
 import { rpc } from './rpc.js';
+import { adb, adbConnected, apkTools } from './runtime.js';
 import {
   log, setLogActive, ensureLogOpen,
   shouldEmitProgress, updateProgressEntry, removeProgressEntry, logWithAction,
@@ -28,9 +29,10 @@ function showMsg(content, cls = 'info') {
 }
 
 async function getInstalledVersion(pkg) {
-  if (!window.gplaydlAdb?.connected) return null;
+  const a = adb();
+  if (!a?.connected) return null;
   try {
-    const out = await window.gplaydlAdb.shell("dumpsys package " + pkg + " | grep -E 'versionName|versionCode' | head -2");
+    const out = await a.shell("dumpsys package " + pkg + " | grep -E 'versionName|versionCode' | head -2");
     const vn = out.match(/versionName=([^\s]+)/)?.[1];
     const vc = out.match(/versionCode=([0-9]+)/)?.[1];
     if (!vn && !vc) return null;
@@ -107,16 +109,16 @@ async function fetchSplits(pkg, details) {
 }
 
 async function downloadAsSingleFile(pkg, details, format) {
-  if (!window.gplaydlApkTools) throw new Error('apk-tools bundle not loaded');
+  const tools = apkTools();
   log('Preparing ' + (format === 'zip' ? 'zip bundle' : 'merged signed APK') + '…', 'dl');
   const apks = await fetchSplits(pkg, details);
   const baseName = pkg + '-' + details.versionCode;
   if (format === 'zip') {
-    const r = await window.gplaydlApkTools.bundleZip(apks, baseName + '.zip');
+    const r = await tools.bundleZip(apks, baseName + '.zip');
     log('ZIP ready (' + fmtSize(r.bytes) + ') — downloading ' + baseName + '.zip', 'ok');
   } else {
     log('Merging and signing… this can take a few seconds', 'dl');
-    const r = await window.gplaydlApkTools.mergeAndSign(apks, baseName + '.apk');
+    const r = await tools.mergeAndSign(apks, baseName + '.apk');
     log('Merged APK ready (' + fmtSize(r.bytes) + ') — downloading ' + baseName + '.apk', 'ok');
   }
 }
@@ -125,15 +127,13 @@ async function installToDevice(pkg, details) {
   log('Preparing install for ' + pkg + ' (ADB device connected)', 'dl');
   const apks = await fetchSplits(pkg, details);
   log('Installing on device via ADB…', 'dl');
-  await window.gplaydlAdb.installSplit(apks, (phase, msg) => log('ADB ' + phase + ': ' + msg, 'dl'));
+  await adb().installSplit(apks, (phase, msg) => log('ADB ' + phase + ': ' + msg, 'dl'));
   log('Install complete: ' + details.title + ' v' + details.versionString, 'ok');
 }
 
 /**
  * Fetch and produce a single-file download for the given package.
  * Used by the Direct Download button and the bulk Restore flow.
- * Does NOT mirror the package into the Info card; for that use
- * `triggerDownloadFor`.
  *
  * @param {string} pkg - Play Store package name.
  * @param {string} [format] - 'merge' | 'zip'; falls back to the checkbox state.
@@ -149,18 +149,13 @@ export async function downloadPackage(pkg, format = null) {
 }
 
 /**
- * Full download-flow entry point for external triggers (e.g. clicking
- * Download on a search result). Mirrors what the user would see if they
- * typed the package name themselves and clicked the Direct Download
- * button:
- *
- *   1. Fill #pkg-input with the package name.
- *   2. Open the Activity Log so progress is visible.
- *   3. Fetch app.details and render the Info block in #info-result
- *      (same view the Info button produces).
- *   4. Branch:
- *       - ADB device connected → install to device (pm install-*).
- *       - Otherwise → save the single ZIP (or merged APK, if checkbox on).
+ * External-trigger entry point (e.g. clicking Download on a search result).
+ * Mirrors what the user sees from typing a package name + clicking the
+ * Direct Download button:
+ *   1. Fill #pkg-input.
+ *   2. Open the Activity Log.
+ *   3. Render the Info block in #info-result.
+ *   4. Install to device (if ADB connected) or save the single file.
  *
  * @param {string} pkg
  */
@@ -172,7 +167,7 @@ export async function triggerDownloadFor(pkg) {
   try {
     const { details, installed } = await fetchAndShowInfo(pkg);
     log('Info ok: ' + details.title + ' v' + details.versionString + (installed ? ' · device has v' + installed.versionName : ''), 'ok');
-    if (window.gplaydlAdb?.connected) {
+    if (adbConnected()) {
       log('ADB device connected — installing to device', 'info');
       await installToDevice(pkg, details);
     } else {
@@ -201,7 +196,7 @@ async function doDownload() {
 async function doInstall() {
   const pkg = $('#pkg-input').value.trim();
   if (!pkg) { showMsg('enter a package name first', 'err'); return; }
-  if (!window.gplaydlAdb?.connected) { log('Connect a device first', 'warn'); return; }
+  if (!adbConnected()) { log('Connect a device first', 'warn'); return; }
   ensureLogOpen();
   setLogActive(true);
   try {
@@ -248,7 +243,7 @@ function onDownloadEvent(p) {
 
 function updateInstallBtnVisibility() {
   const btn = $('#install-btn');
-  if (btn) btn.style.display = window.gplaydlAdb?.connected ? '' : 'none';
+  if (btn) btn.style.display = adbConnected() ? '' : 'none';
 }
 
 export function initDirectDownloadCard() {

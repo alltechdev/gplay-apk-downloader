@@ -1,8 +1,9 @@
 // Integration test for /fdfe/details + /fdfe/delivery against real Google.
 // 1. Signs in to AuroraOSS dispenser (Pv profile)
-// 2. Calls /details for com.duckduckgo.mobile.android (small, free, multi-arch — safe target)
+// 2. Calls /details for com.duckduckgo.mobile.android (small, free, multi-arch)
 // 3. Calls /delivery for the returned versionCode
-// 4. Parses each response with the same decoder + schemas the extension ships
+// 4. Parses each response with the same decoder + schemas the extension
+//    ships in `src/sw/20-pb.js` (loaded via `tests/helpers/pb-sw.mjs`).
 //
 // Skipped when NO_NETWORK=1.
 
@@ -11,51 +12,11 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import {
-  decode, STRING, INT32, INT64, NESTED,
-} from '../../src/modules/pb-decode.js';
+import { decode } from '../../src/modules/pb-decode.js';
+import { PB_ResponseWrapper } from '../helpers/pb-sw.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const SKIP = process.env.NO_NETWORK === '1';
-
-// Schemas — duplicate of the ones inlined in background.js. Source of truth
-// here is identical; if the SW changes, this changes too.
-const HttpCookie = { 1: { name: 'name', type: STRING }, 2: { name: 'value', type: STRING } };
-const SplitDeliveryData = {
-  1: { name: 'name', type: STRING },
-  2: { name: 'downloadSize', type: INT64 },
-  5: { name: 'downloadUrl', type: STRING },
-};
-const AndroidAppDeliveryData = {
-  1:  { name: 'downloadSize',       type: INT64 },
-  2:  { name: 'sha1',               type: STRING },
-  3:  { name: 'downloadUrl',        type: STRING },
-  5:  { name: 'downloadAuthCookie', type: NESTED, schema: HttpCookie, repeated: true },
-  15: { name: 'splitDeliveryData',  type: NESTED, schema: SplitDeliveryData, repeated: true },
-};
-const DeliveryResponse = {
-  1: { name: 'status', type: INT32 },
-  2: { name: 'appDeliveryData', type: NESTED, schema: AndroidAppDeliveryData },
-};
-const AppDetails = {
-  3:  { name: 'versionCode',      type: INT32 },
-  4:  { name: 'versionString',    type: STRING },
-  9:  { name: 'installationSize', type: INT64 },
-  14: { name: 'packageName',      type: STRING },
-  25: { name: 'splitId',          type: STRING, repeated: true },
-};
-const DocumentDetails = { 1: { name: 'appDetails', type: NESTED, schema: AppDetails } };
-const DocV2 = {
-  1:  { name: 'docid',   type: STRING },
-  5:  { name: 'title',   type: STRING },
-  13: { name: 'details', type: NESTED, schema: DocumentDetails },
-};
-const DetailsResponse = { 4: { name: 'docV2', type: NESTED, schema: DocV2 } };
-const Payload = {
-  2:  { name: 'detailsResponse',  type: NESTED, schema: DetailsResponse },
-  21: { name: 'deliveryResponse', type: NESTED, schema: DeliveryResponse },
-};
-const ResponseWrapper = { 1: { name: 'payload', type: NESTED, schema: Payload } };
 
 const DFE_ENCODED_TARGETS = 'CAESN/qigQYC2AMBFfUbyA7SM5Ij/CvfBoIDgxXrBPsDlQUdMfOLAfoFrwEHgAcBrQYhoA0cGt4MKK0Y2gI';
 const DFE_PHENOTYPE = 'H4sIAAAAAAAAAB3OO3KjMAAA0KRNuWXukBkBQkAJ2MhgAZb5u2GCwQZbCH_EJ77QHmgvtDtbv-Z9_H63zXXU0NVPB1odlyGy7751Q3CitlPDvFd8lxhz3tpNmz7P92CFw73zdHU2Ie0Ad2kmR8lxhiErTFLt3RPGfJQHSDy7Clw10bg8kqf2owLokN4SecJTLoSwBnzQSd652_MOf2d1vKBNVedzg4ciPoLz2mQ8efGAgYeLou-l-PXn_7Sna1MfhHuySxt-4esulEDp8Sbq54CPPKjpANW-lkU2IZ0F92LBI-ukCKSptqeq1eXU96LD9nZfhKHdtjSWwJqUm_2r6pMHOxk01saVanmNopjX3YxQafC4iC6T55aRbC8nTI98AF_kItIQAJb5EQxnKTO7TZDWnr01HVPxelb9A2OWX6poidMWl16K54kcu_jhXw-JSBQkVcD_fPsLSZu6joIBAAA';
@@ -120,7 +81,7 @@ test('Play API: details + delivery for com.duckduckgo.mobile.android', { skip: S
 
   const detailsBytes = await fetchDetails(auth, PKG);
   console.log('  details bytes:', detailsBytes.byteLength);
-  const detailsWrap = decode(detailsBytes, ResponseWrapper);
+  const detailsWrap = decode(detailsBytes, PB_ResponseWrapper);
   const app = detailsWrap?.payload?.detailsResponse?.docV2;
   assert.ok(app?.docid, 'no docV2.docid in details response');
   assert.equal(app.docid, PKG);
@@ -132,7 +93,7 @@ test('Play API: details + delivery for com.duckduckgo.mobile.android', { skip: S
 
   const deliveryBytes = await fetchDelivery(auth, PKG, appDetails.versionCode);
   console.log('  delivery bytes:', deliveryBytes.byteLength);
-  const deliveryWrap = decode(deliveryBytes, ResponseWrapper);
+  const deliveryWrap = decode(deliveryBytes, PB_ResponseWrapper);
   const dd = deliveryWrap?.payload?.deliveryResponse?.appDeliveryData;
   assert.ok(dd, 'no appDeliveryData');
   assert.ok(dd.downloadUrl, 'no downloadUrl');
