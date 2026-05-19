@@ -8,6 +8,7 @@ import { initAdbCard } from './ui/adb-card.js';
 import { initDirectDownloadCard } from './ui/direct-download-card.js';
 import { initSearchCard } from './ui/search-card.js';
 import { initBackupCard } from './ui/backup-card.js';
+import { trackPageview } from './ui/analytics.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   initLog();
@@ -31,4 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .catch(() => {});
 
   log('Extension page loaded', 'ok');
+
+  // Umami pageview — tagged hostname:'extension' to differentiate from website traffic.
+  trackPageview();
 });
