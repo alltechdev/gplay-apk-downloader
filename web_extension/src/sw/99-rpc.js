@@ -20,9 +20,13 @@ const RPC = {
 chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
   if (msg?.type === 'auth.event' || msg?.type === 'download.event') return false;
   const fn = RPC[msg?.type];
-  if (!fn) { sendResponse({ error: `unknown rpc: ${msg?.type}` }); return false; }
+  if (!fn) { sendResponse({ error: `unknown rpc: ${msg?.type}`, code: 'UNKNOWN_RPC' }); return false; }
   Promise.resolve(fn(msg.payload || {}))
     .then((result) => sendResponse({ result }))
-    .catch((err) => sendResponse({ error: String(err?.message || err) }));
+    .catch((err) => sendResponse({
+      error: String(err?.message || err),
+      code:  err?.code,
+      status: err?.status,
+    }));
   return true;
 });

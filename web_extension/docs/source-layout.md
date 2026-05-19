@@ -78,15 +78,17 @@ Cross-card communication is one `adb-status` `CustomEvent` on the document — n
 
 `modules/` is the ESM source consumed by **both** the unit-test runner and esbuild:
 
-| File                       | Used by                                                                        |
-|----------------------------|--------------------------------------------------------------------------------|
-| `modules/pb-decode.js`     | Unit + integration tests. (The SW has a copy at `sw/20-pb.js`.)                |
-| `modules/apk-merger.js`    | Bundled into `vendor/apk-tools-bundle.js`; unit-tested.                        |
-| `modules/apk-signer.js`    | Bundled; unit-tested.                                                          |
-| `modules/axml-patcher.js`  | Bundled; unit-tested with byte-identical parity against legacy Python source.  |
-| `modules/zipalign.js`      | Bundled; unit-tested.                                                          |
-| `modules/debug-cert.js`    | Bundled. Auto-generated RSA-2048 cert + key embedded as JS constants.          |
-| `modules/adb-entry.js`     | esbuild entry → `vendor/adb-bundle.js`.                                        |
+| File                        | Used by                                                                        |
+|-----------------------------|--------------------------------------------------------------------------------|
+| `modules/pb-decode.js`      | Unit + integration tests. (The SW has a copy at `sw/20-pb.js`.)                |
+| `modules/asn1.js`           | DER builder + minimal Certificate parser; used by `pkcs7.js` and `apk-signer.js`. |
+| `modules/pkcs7.js`          | `buildPkcs7(certDer, sig)` → CERT.RSA bytes. Used by `apk-signer.js`.          |
+| `modules/apk-merger.js`     | Bundled into `vendor/apk-tools-bundle.js`; unit-tested.                        |
+| `modules/apk-signer.js`     | Bundled; unit-tested. v1 (JAR) + v2 + v3 signing.                              |
+| `modules/axml-patcher.js`   | Bundled; unit-tested with byte-identical parity against legacy Python source.  |
+| `modules/zipalign.js`       | Bundled; unit-tested.                                                          |
+| `modules/debug-cert.js`     | Bundled. Auto-generated RSA-2048 cert + key embedded as JS constants.          |
+| `modules/adb-entry.js`      | esbuild entry → `vendor/adb-bundle.js`.                                        |
 | `modules/apk-tools-entry.js`| esbuild entry → `vendor/apk-tools-bundle.js`.                                  |
 
 `vendor/` holds the committed esbuild output:

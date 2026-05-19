@@ -6,7 +6,8 @@
 // can react (Backup enables its Backup-App-List button, Direct Download
 // shows the Install-to-Device button).
 
-import { $, esc } from './dom.js';
+import { $, h, replace } from './dom.js';
+import { icoConnect } from './icons.js';
 import { log } from './log.js';
 
 let info = null;
@@ -19,28 +20,29 @@ function setCard(state, deviceInfo) {
   const card = $('#adb-card');
   const statusEl = $('#adb-status');
   card.classList.toggle('connected', state === 'connected');
+
   if (state === 'unsupported') {
-    statusEl.innerHTML = '<span class="adb-unsupported">WebUSB requires Chrome or Edge (and a secure context)</span>';
+    replace(statusEl, h('span', { class: 'adb-unsupported' }, 'WebUSB requires Chrome or Edge (and a secure context)'));
     emitStatus(false);
     return;
   }
+
   if (state === 'connected') {
-    statusEl.innerHTML =
-      '<div class="adb-dot"></div>' +
-      '<div class="adb-device-name">' + esc(deviceInfo.model || 'device') +
-      '<small>Android ' + esc(deviceInfo.android || '?') +
-      (deviceInfo.serial ? ' · ' + esc(deviceInfo.serial) : '') + '</small></div>' +
-      '<button class="btn-ghost" id="adb-disconnect-btn">Disconnect</button>';
-    $('#adb-disconnect-btn').addEventListener('click', doDisconnect);
+    const small = h('small', null,
+      'Android ' + (deviceInfo.android || '?') + (deviceInfo.serial ? ' · ' + deviceInfo.serial : ''),
+    );
+    replace(statusEl,
+      h('div', { class: 'adb-dot' }),
+      h('div', { class: 'adb-device-name' }, deviceInfo.model || 'device', small),
+      h('button', { class: 'btn-ghost', onClick: doDisconnect }, 'Disconnect'),
+    );
     emitStatus(true);
     return;
   }
-  statusEl.innerHTML =
-    '<button class="btn-secondary" id="adb-connect-btn">' +
-    '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v4M17 2v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 4.93l-2.83 2.83M12 8v4M12 16v.01"/><circle cx="12" cy="12" r="6"/></svg>' +
-    'Connect Device' +
-    '</button>';
-  $('#adb-connect-btn').addEventListener('click', doConnect);
+
+  replace(statusEl,
+    h('button', { class: 'btn-secondary', onClick: doConnect }, icoConnect(), 'Connect Device'),
+  );
   emitStatus(false);
 }
 

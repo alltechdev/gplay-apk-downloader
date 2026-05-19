@@ -50,7 +50,7 @@ async function authSignIn({ arch } = {}) {
     }
   }
   broadcast('auth.event', { phase: 'fail' });
-  throw new Error(lastErr ? `all profiles failed (last: ${lastErr.message})` : 'all profiles rejected by dispenser');
+  throw new AuthError(lastErr ? `all profiles failed (last: ${lastErr.message})` : 'all profiles rejected by dispenser');
 }
 
 async function authStatus() {

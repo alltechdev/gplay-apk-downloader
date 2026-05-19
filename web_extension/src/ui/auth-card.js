@@ -6,27 +6,31 @@
 //
 // Legacy parity: dispenser-account email is *not* surfaced.
 
-import { $, esc } from './dom.js';
+import { $, h, replace } from './dom.js';
 import { rpc } from './rpc.js';
 import { log, setLogActive } from './log.js';
 
 function setAuthCard(status) {
   const statusEl = $('#auth-status');
-  const signInBtn = $('#auth-signin-btn');
+  const signInBtn  = $('#auth-signin-btn');
   const signOutBtn = $('#auth-signout-btn');
   $('#arch-select').value = status.arch || 'arm64-v8a';
   if (status.signedIn) {
     const stale = status.stale ? ' (stale, will refresh on next call)' : '';
-    statusEl.innerHTML =
-      '<div class="adb-dot"></div>' +
-      '<div class="adb-device-name">Authenticated' +
-      '<small>' + esc(status.profileLabel || status.profileKey || '') +
-      ' · ' + esc(status.profileArch || '') + stale + '</small></div>';
-    signInBtn.style.display = 'none';
+    const detail = (status.profileLabel || status.profileKey || '') +
+                   ' · ' + (status.profileArch || '') + stale;
+    replace(statusEl,
+      h('div', { class: 'adb-dot' }),
+      h('div', { class: 'adb-device-name' },
+        'Authenticated',
+        h('small', null, detail),
+      ),
+    );
+    signInBtn.style.display  = 'none';
     signOutBtn.style.display = '';
   } else {
     statusEl.textContent = 'Not signed in. Click "Sign in" for an anonymous AuroraOSS token.';
-    signInBtn.style.display = '';
+    signInBtn.style.display  = '';
     signOutBtn.style.display = 'none';
   }
 }
@@ -37,14 +41,14 @@ async function refreshAuth() {
 }
 
 function onAuthEvent(p) {
-  if (p.phase === 'start')      { log('Sign-in started (arch=' + p.arch + ')', 'info'); setLogActive(true); }
-  else if (p.phase === 'try')    log('Trying profile ' + p.key + ' (' + p.label + ', ' + p.arch + ')', 'info');
-  else if (p.phase === 'reject') log('Dispenser rejected ' + p.key + ' (HTTP ' + p.status + ')', 'warn');
-  else if (p.phase === 'error')  log('Network error on ' + p.key + ': ' + p.error, 'err');
-  else if (p.phase === 'ok')     log('Got token from ' + p.key, 'ok');
+  if      (p.phase === 'start')   { log('Sign-in started (arch=' + p.arch + ')', 'info'); setLogActive(true); }
+  else if (p.phase === 'try')      log('Trying profile ' + p.key + ' (' + p.label + ', ' + p.arch + ')', 'info');
+  else if (p.phase === 'reject')   log('Dispenser rejected ' + p.key + ' (HTTP ' + p.status + ')', 'warn');
+  else if (p.phase === 'error')    log('Network error on ' + p.key + ': ' + p.error, 'err');
+  else if (p.phase === 'ok')       log('Got token from ' + p.key, 'ok');
   else if (p.phase === 'done')   { log('Sign-in complete (' + p.profileKey + ')', 'ok'); setLogActive(false); refreshAuth(); }
   else if (p.phase === 'fail')   { log('Sign-in failed — all profiles rejected', 'err'); setLogActive(false); }
-  else if (p.phase === 'refresh') log('Re-authenticating (' + p.reason + ')', 'info');
+  else if (p.phase === 'refresh')  log('Re-authenticating (' + p.reason + ')', 'info');
 }
 
 export function initAuthCard() {

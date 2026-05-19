@@ -75,3 +75,12 @@ Running log of significant changes to the web_extension port. Append-only.
 - **CDN CORS fix**: added `*://*.gvt1.com/*` + `*://*.googleusercontent.com/*` to host_permissions; new DNR rule id 3 strips `Origin` + `Sec-Fetch-*` on those CDN redirects so page-side fetch can follow Play's by-token → by-id redirect chain.
 - **Major refactor — single-responsibility files**: `background.js` (783 → 21 LOC entry) now `importScripts(...)` eleven `sw/NN-*.js` modules (config, utils, pb, storage, dnr, auth, play-api, downloads, search, action, rpc). `app.js` (643 → 34 LOC entry) is an ES-module entry that imports eight `ui/*.js` cards (dom, rpc, log, auth-card, adb-card, direct-download-card, search-card, backup-card). Cross-card communication uses a single `adb-status` custom event — no import cycles. Every source file under ~200 LOC.
 - **Documentation refreshed**: `docs/source-layout.md` is the new file-by-file map. `docs/architecture.md` rewritten around the modular layout.
+- **Cleanup pass**:
+  - Split `apk-signer.js` into `modules/asn1.js` (DER builder + cert parser), `modules/pkcs7.js` (CERT.RSA), and the actual signer. Crypto logic is now readable in isolation.
+  - Replaced every `innerHTML = …` in UI code with `h()` / `replace()` DOM-building helpers. SVG icons live in `<template>` elements in `index.html` and are cloned via `ui/icons.js`. Lint: 0 errors, 0 warnings, 0 notices.
+  - New `sw/05-logger.js` — `swLog.debug/info/warn/error` tagged and level-filtered. `console.*` removed from `sw/40-dnr.js` and `sw/90-action.js`.
+  - New `sw/15-errors.js` — `AuthError` / `NetworkError` / `PlayApiError` / `ProtoError` / `ValidationError`. SW throws typed errors; the RPC layer serialises `code` + `status` alongside the message; `ui/rpc.js` rebuilds an `Error` with those properties so page code can `e.code === 'AUTH'` / etc.
+  - JSDoc on public APIs: `rpc`, `appDetails`, `appDelivery`, `appSearch`, `validatePackageName`, `loadProfilesJson`, `h`, `replace`, `downloadPackage`, `signApk`, `buildPkcs7`.
+  - Deleted obsolete placeholder test files.
+  - **"Merge splits" checkbox now defaults OFF** — matches the user's expectation that downloads stay multi-file (one ZIP of splits) unless explicitly merged.
+- **Wide-screen layout**: two columns (≥960px viewport), wrapper capped at 960px so the page doesn't grow past the threshold width. Left column: Authentication, Install to Device, Search. Right column: Direct Download, Backup & Restore. Activity Log centered at 720px below. Mobile (< 960px) keeps the original single-column flow.
