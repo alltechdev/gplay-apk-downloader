@@ -9,8 +9,10 @@ const _upgradeIcon = (url) => url.replace(/=s\d+/, '=s128').replace(/=w\d+/, '=s
 async function appSearch({ query }) {
   if (typeof query !== 'string' || !query.trim()) throw new Error('query required');
   if (query.length > 200) throw new Error('query too long');
-  const res = await fetch(SEARCH_URL + '?q=' + encodeURIComponent(query) + '&c=apps');
+  const url = SEARCH_URL + '?q=' + encodeURIComponent(query) + '&c=apps&hl=en&gl=us';
+  const res = await fetch(url, { credentials: 'omit', referrer: 'https://play.google.com/' });
   if (!res.ok) throw new Error('Play search HTTP ' + res.status);
+  if (res.url.includes('accounts.google.com')) throw new Error('Play Store redirected to sign-in — try a different query');
   const html = await res.text();
   const results = [];
   const seen = new Set();

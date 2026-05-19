@@ -1,8 +1,8 @@
 {
   "chromium": "144.x",
   "extensionId": "nejhpfdpjkomecnmibkbpfgolfaioiph",
-  "timestamp": "2026-05-19T17:45:53.846Z",
-  "shotDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/2026-05-19T17-44-08-511Z",
+  "timestamp": "2026-05-19T18:13:39.193Z",
+  "shotDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/2026-05-19T18-12-31-723Z",
   "latestDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/latest",
   "results": [
     {
@@ -24,24 +24,19 @@
       "beforeText": "Not signed in. Click \"Sign in\" for an anonymous AuroraOSS token.",
       "statusText": "AuthenticatedGoogle Pixel 9a · arm64-v8a",
       "logEntries": [
-        "13:44:21✓Extension page loaded",
-        "13:44:27•Sign-in started (arch=arm64-v8a)",
-        "13:44:27•Trying profile Pv (Google Pixel 9a, arm64-v8a)",
-        "13:44:33✓Got token from Pv",
-        "13:44:33✓Sign-in complete (Pv)"
+        "14:12:38✓Extension page loaded",
+        "14:12:39•Sign-in started (arch=arm64-v8a)",
+        "14:12:39•Trying profile Pv (Google Pixel 9a, arm64-v8a)",
+        "14:12:43✓Got token from Pv",
+        "14:12:43✓Sign-in complete (Pv)"
       ]
     },
     {
       "scenario": "scenarios/03-info-and-download.mjs",
       "ok": true,
       "infoSnippet": "DuckDuckGo, Duck.ai, & VPN\ncom.duckduckgo.mobile.android\nPlay: v5.279.1 (vc=52791000)\nDuckDuckGo\nsize: 113 MB\nsplits: (none)",
-      "completedFiles": [
-        {
-          "filename": "com.duckduckgo.mobile.android-52791000.zip",
-          "bytes": 118374209
-        }
-      ],
-      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-e2e-Fg5VpJ"
+      "completedFiles": [],
+      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-e2e-dsGz7I"
     },
     {
       "scenario": "scenarios/04-backup-restore.mjs",
@@ -52,7 +47,7 @@
       "files": [
         "com.duckduckgo.mobile.android-52791000.apk"
       ],
-      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-bk-E6P0ii/downloads"
+      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-bk-QXy19f/downloads"
     }
   ],
   "ok": true
