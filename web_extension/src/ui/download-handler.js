@@ -13,6 +13,7 @@ import {
 } from './log.js';
 import { getDetailsCached, showMsg } from './info-card.js';
 import { pMapLimit } from './p-map-limit.js';
+import { fetchWithRetry } from './fetch-retry.js';
 
 const fileById = new Map();
 const sizeById = new Map();
@@ -20,9 +21,19 @@ const sizeById = new Map();
 /** Concurrency: legacy uses `download_splits_parallel(splits, max_workers=4)`. */
 const FETCH_CONCURRENCY = 4;
 
+/**
+ * Refuse to merge if total install size exceeds this — pure-JS Web Crypto
+ * needs the full APK in memory + the signing output, so peak memory is
+ * roughly 2× the merged size. Browser tabs OOM somewhere around 2-3 GB.
+ * Falling back to the ZIP path is always safe (no merge in memory).
+ */
+const MERGE_MAX_BYTES = 1_500 * 1024 * 1024; // 1.5 GB cumulative
+
 async function fetchOne(f) {
   log('Fetching ' + f.name + ' (' + fmtSize(f.size) + ') from CDN…', 'dl');
-  const res = await fetch(f.url);
+  const res = await fetchWithRetry(() => fetch(f.url), {
+    onRetry: (attempt, err) => log('  Retry ' + f.name + ' (attempt ' + (attempt + 1) + ') — ' + (err?.message || 'error'), 'warn'),
+  });
   if (!res.ok) throw new Error('CDN fetch ' + f.name + ' → ' + res.status);
   const blob = await res.blob();
   log('  Fetched ' + f.name + ' (' + fmtSize(blob.size) + ')', 'ok');
@@ -39,8 +50,22 @@ export async function fetchSplits(pkg, details) {
   }
 }
 
+/** Refuse to merge if it would obviously OOM. Returns null when OK, error string otherwise. */
+export function checkMergeMemoryBudget(installSize) {
+  if (!installSize || installSize <= 0) return null;
+  if (installSize > MERGE_MAX_BYTES) {
+    return 'APK too large to merge in-browser (' + fmtSize(installSize) + '). '
+      + 'Uncheck "Merge splits" to download as a ZIP bundle, then merge offline with apksigner.';
+  }
+  return null;
+}
+
 /** Save splits as either a merged-signed APK ('merge') or a single ZIP ('zip'). */
 export async function downloadAsSingleFile(pkg, details, format) {
+  if (format === 'merge') {
+    const budgetErr = checkMergeMemoryBudget(details.installationSize);
+    if (budgetErr) throw new Error(budgetErr);
+  }
   const tools = apkTools();
   log('Preparing ' + (format === 'zip' ? 'zip bundle' : 'merged signed APK') + '…', 'dl');
   const apks = await fetchSplits(pkg, details);

@@ -145,3 +145,32 @@ async function clearDnrRule(ruleId) {
     swLog.warn('clearDnrRule failed for', ruleId, err);
   }
 }
+
+/**
+ * On SW boot, any DNR rule in the per-download ID range that isn't
+ * tracked in `downloadRuleByDl` is dead weight from a previous SW
+ * lifetime — most often from a page-side `app.prepareInstall` that
+ * never reached `app.releaseRules` because the SW restarted, the tab
+ * was closed, or the merge crashed. Left around they accumulate and
+ * eventually exhaust the dynamic-rule budget.
+ *
+ * `downloadRuleByDl` rules are kept because they're still tied to live
+ * chrome.downloads jobs and `downloads.onChanged` will free them.
+ */
+async function sweepStaleDownloadRules() {
+  try {
+    await hydrateDlMap();
+    const live = new Set(downloadRuleByDl.values());
+    const existing = await chrome.declarativeNetRequest.getDynamicRules();
+    const stale = existing
+      .filter((r) => r.id >= DNR_DOWNLOAD_ID_MIN && r.id <= DNR_DOWNLOAD_ID_MAX && !live.has(r.id))
+      .map((r) => r.id);
+    if (stale.length === 0) return 0;
+    await chrome.declarativeNetRequest.updateDynamicRules({ removeRuleIds: stale, addRules: [] });
+    swLog.info('swept', stale.length, 'stale download DNR rule(s):', stale.slice(0, 10));
+    return stale.length;
+  } catch (err) {
+    swLog.warn('sweepStaleDownloadRules failed:', err);
+    return 0;
+  }
+}
