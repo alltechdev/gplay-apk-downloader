@@ -2,7 +2,7 @@
 // Confirms entries combine, signatures drop, base wins on conflict.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { mergeApks } from '../../src/modules/apk-merger.js';
+import { mergeApks, mergeApksFromBlobs } from '../../src/modules/apk-merger.js';
 import * as fflate from 'fflate';
 
 function makeZip(entries) {
@@ -41,6 +41,34 @@ test('mergeApks: base wins on path conflict', () => {
   const merged = mergeApks(base, [{ name: 'x', bytes: split }]);
   const entries = fflate.unzipSync(merged);
   assert.equal(new TextDecoder().decode(entries['AndroidManifest.xml']), 'base-manifest');
+});
+
+test('mergeApksFromBlobs: produces byte-identical output to mergeApks', async () => {
+  const base = makeZip({
+    'AndroidManifest.xml':        'base-manifest',
+    'classes.dex':                'base-dex',
+    'META-INF/MANIFEST.MF':       'old-sig',
+  });
+  const split1 = makeZip({ 'lib/arm64-v8a/libnative.so': 'arm64-lib' });
+  const split2 = makeZip({ 'res/values-en/strings.xml': 'english-strings' });
+
+  const fromBytes = mergeApks(base, [
+    { name: 'config.arm64_v8a', bytes: split1 },
+    { name: 'config.en',        bytes: split2 },
+  ]);
+  const fromBlobs = await mergeApksFromBlobs(new Blob([base]), [
+    { name: 'config.arm64_v8a', blob: new Blob([split1]) },
+    { name: 'config.en',        blob: new Blob([split2]) },
+  ]);
+
+  // Byte-identical output → identical merge logic, just a different
+  // intake path.
+  assert.equal(fromBlobs.length, fromBytes.length);
+  for (let i = 0; i < fromBytes.length; i++) {
+    if (fromBlobs[i] !== fromBytes[i]) {
+      assert.fail(`byte ${i} differs: blob=${fromBlobs[i]} bytes=${fromBytes[i]}`);
+    }
+  }
 });
 
 test('mergeApks: strips old signatures', () => {
