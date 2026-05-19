@@ -144,7 +144,7 @@ web_extension/
     integration/                node --test, real network (AuroraOSS + Play API)
     e2e/                        puppeteer-core + system chromium (smoke + page-loads + auth + info-and-download + backup-restore)
     fixtures/, logs/, parity/   transient + future
-  screenshots/                  history of e2e screenshots (committed)
+  screenshots/                  e2e output (gitignored — local dev artifact)
   package.json
   .venv/                        Python venv (gitignored)
   node_modules/                 (gitignored)
