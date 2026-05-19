@@ -41,7 +41,7 @@ function loadAnalytics({ fetchImpl, optedOut = false }) {
   };
 }
 
-test('trackPageview: POSTs to stats.dietdroid.com with hostname=extension', async () => {
+test('trackPageview: POSTs to stats.dietdroid.com with extension website-id', async () => {
   let captured;
   const fetchImpl = async (url, opts) => { captured = { url, opts }; return { ok: true }; };
   const { trackPageview } = loadAnalytics({ fetchImpl });
@@ -50,10 +50,12 @@ test('trackPageview: POSTs to stats.dietdroid.com with hostname=extension', asyn
   assert.equal(captured.opts.method, 'POST');
   const body = JSON.parse(captured.opts.body);
   assert.equal(body.type, 'event');
-  assert.equal(body.payload.hostname, 'extension');
-  assert.equal(body.payload.website, '12d179c4-3415-494c-995b-19d1eca1cc2a');
+  assert.equal(body.payload.hostname, 'extension.gplaydl');
+  assert.equal(body.payload.url, 'https://extension.gplaydl/');
+  assert.equal(body.payload.website, '9875f721-0411-4cbd-9702-87e6bb8be189');
   assert.equal(body.payload.language, 'en-US');
   assert.equal(body.payload.screen, '1920x1080');
+  assert.equal(body.payload.name, undefined, 'plain pageview, no event name');
 });
 
 test('trackEvent: includes event name and data', async () => {
@@ -63,7 +65,7 @@ test('trackEvent: includes event name and data', async () => {
   await trackEvent('download-clicked', { pkg: 'com.example.app' });
   assert.equal(captured.payload.name, 'download-clicked');
   assert.deepEqual(captured.payload.data, { pkg: 'com.example.app' });
-  assert.equal(captured.payload.hostname, 'extension');
+  assert.equal(captured.payload.hostname, 'extension.gplaydl');
 });
 
 test('analytics swallows fetch errors silently', async () => {
