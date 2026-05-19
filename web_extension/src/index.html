@@ -107,6 +107,27 @@
       <div id="search-results" class="results"></div>
     </div>
 
+    <div class="card backup-card visible" id="backup-card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
+        Backup &amp; Restore
+      </div>
+      <div class="backup-actions" id="backup-actions">
+        <button class="btn-primary" id="backup-btn" style="display:none">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+          Backup App List
+        </button>
+        <div class="file-input-wrap">
+          <button class="btn-secondary">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Import List
+          </button>
+          <input type="file" id="backup-import" accept=".json">
+        </div>
+      </div>
+      <div id="backup-result"></div>
+    </div>
+
     <div class="log-panel" id="log-panel">
       <div class="log-header" id="log-header">
         <div class="log-header-left">
@@ -127,27 +148,6 @@
           <div class="log-empty" id="log-empty">No activity yet</div>
         </div>
       </div>
-    </div>
-
-    <div class="card backup-card visible" id="backup-card">
-      <div class="card-label">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
-        Backup &amp; Restore
-      </div>
-      <div class="backup-actions" id="backup-actions">
-        <button class="btn-primary" id="backup-btn" style="display:none">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
-          Backup App List
-        </button>
-        <div class="file-input-wrap">
-          <button class="btn-secondary">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-            Import List
-          </button>
-          <input type="file" id="backup-import" accept=".json">
-        </div>
-      </div>
-      <div id="backup-result"></div>
     </div>
 
     <footer class="footer">
