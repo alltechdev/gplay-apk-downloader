@@ -42,6 +42,31 @@ function dnrFdfeRule(userAgent) {
     condition: { urlFilter: '||android.clients.google.com/fdfe', resourceTypes: ['xmlhttprequest'] },
   };
 }
+function dnrSearchRule() {
+  // play.google.com redirects to accounts.google.com if the request looks
+  // like a logged-out browser-extension fetch. A real desktop-Chrome UA
+  // and a stripped Origin defuses that.
+  return {
+    id: DNR_SEARCH_ID,
+    priority: 1,
+    action: {
+      type: 'modifyHeaders',
+      requestHeaders: [
+        { header: 'User-Agent', operation: 'set', value: PLAY_WEB_UA },
+        { header: 'Origin', operation: 'remove' },
+        { header: 'Referer', operation: 'set', value: 'https://play.google.com/' },
+        { header: 'Sec-Fetch-Site', operation: 'remove' },
+        { header: 'Sec-Fetch-Mode', operation: 'remove' },
+        { header: 'Sec-Fetch-Dest', operation: 'remove' },
+        { header: 'Sec-Fetch-User', operation: 'remove' },
+      ],
+    },
+    condition: {
+      urlFilter: '||play.google.com/store',
+      resourceTypes: ['xmlhttprequest'],
+    },
+  };
+}
 function dnrCdnRule() {
   // The Play API redirects to *.gvt1.com; CDN doesn't return CORS headers,
   // so strip Origin + Sec-Fetch-* on those domains too.
@@ -66,13 +91,12 @@ function dnrCdnRule() {
 }
 
 async function installCoreDnrRules(playUserAgent) {
+  const coreIds = new Set([DNR_DISPENSER_ID, DNR_FDFE_ID, DNR_CDN_ID, DNR_SEARCH_ID]);
   const existing = await chrome.declarativeNetRequest.getDynamicRules();
-  const removeRuleIds = existing
-    .filter((r) => r.id === DNR_DISPENSER_ID || r.id === DNR_FDFE_ID || r.id === DNR_CDN_ID)
-    .map((r) => r.id);
+  const removeRuleIds = existing.filter((r) => coreIds.has(r.id)).map((r) => r.id);
   await chrome.declarativeNetRequest.updateDynamicRules({
     removeRuleIds,
-    addRules: [dnrDispenserRule(), dnrFdfeRule(playUserAgent), dnrCdnRule()],
+    addRules: [dnrDispenserRule(), dnrFdfeRule(playUserAgent), dnrCdnRule(), dnrSearchRule()],
   });
 }
 
