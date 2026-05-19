@@ -9,30 +9,13 @@
 // shows up under its own row in the Umami dashboard rather than mixed
 // into the website's stats.
 //
-// Opt-out: set `analytics-opt-out` to true in chrome.storage.local
-// (toggled by the checkbox in the footer).
+// To remove analytics entirely, delete the `trackPageview()` call in
+// `src/app.js` (and optionally this file).
 
 const UMAMI_HOST       = 'https://stats.dietdroid.com';
 const UMAMI_WEBSITE_ID = '9875f721-0411-4cbd-9702-87e6bb8be189';
 const EXT_HOSTNAME     = 'extension.gplaydl';
 const EXT_URL_BASE     = 'https://extension.gplaydl';
-const OPT_OUT_KEY      = 'analytics-opt-out';
-
-async function isOptedOut() {
-  try {
-    if (typeof chrome === 'undefined' || !chrome.storage?.local) return false;
-    const r = await chrome.storage.local.get(OPT_OUT_KEY);
-    return !!r[OPT_OUT_KEY];
-  } catch { return false; }
-}
-
-export async function getOptOut() { return isOptedOut(); }
-
-export async function setOptOut(value) {
-  try {
-    await chrome.storage.local.set({ [OPT_OUT_KEY]: !!value });
-  } catch { /* storage failure shouldn't break the UI */ }
-}
 
 function payload(path, extra = {}) {
   return {
@@ -48,7 +31,6 @@ function payload(path, extra = {}) {
 }
 
 async function send(payloadFields) {
-  if (await isOptedOut()) return;
   try {
     await fetch(`${UMAMI_HOST}/api/send`, {
       method: 'POST',

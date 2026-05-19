@@ -8,7 +8,7 @@ import { initAdbCard } from './ui/adb-card.js';
 import { initDirectDownloadCard } from './ui/direct-download-card.js';
 import { initSearchCard } from './ui/search-card.js';
 import { initBackupCard } from './ui/backup-card.js';
-import { trackPageview, getOptOut, setOptOut } from './ui/analytics.js';
+import { trackPageview } from './ui/analytics.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   initLog();
@@ -33,12 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   log('Extension page loaded', 'ok');
 
-  // Analytics: a single anonymous pageview ping so the maintainer can see
-  // roughly how many people use the extension. Checkbox in the footer
-  // disables it entirely. Tagged hostname:'extension' so it stays separate
-  // from website traffic in the Umami dashboard.
-  const optOutBox = $('#analytics-opt-out');
-  getOptOut().then((v) => { optOutBox.checked = !!v; });
-  optOutBox.addEventListener('change', () => setOptOut(optOutBox.checked));
+  // Anonymous page-load ping to the extension's Umami site.
+  // Users who want to remove analytics can delete this line.
   trackPageview();
 });
