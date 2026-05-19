@@ -97,10 +97,13 @@
         grid-template-columns: 1fr 1fr;
         column-gap: 32px;
         /* Default grid `align-items: stretch` makes both .col cells the
-           same height (= the taller of the two natural heights), so we
-           can grow the last card in each column to fill the gap below. */
+           same height (= the taller of the two natural heights). The
+           extra space in the shorter column goes into the gaps between
+           cards (space-between) instead of stretching individual cards,
+           so cards keep their natural size — no awkward empty space
+           inside a card. */
       }
-      .col > :last-child { flex: 1 1 auto; }
+      .col { justify-content: space-between; }
       /* Activity Log is short log lines — full wrapper width is overkill.
          Constrain to a comfortable reading width, centered. */
       .wrapper > #log-panel {
