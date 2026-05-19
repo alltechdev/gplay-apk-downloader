@@ -76,8 +76,13 @@ How the moving parts fit together. Pair with `docs/source-layout.md` for the fil
 | `ui/log.js`                | Activity Log: append, in-place progress, clear, toggle, "show in folder" action, per-download cancel link. |
 | `ui/auth-card.js`          | Auth status display + sign-in/out + arch dropdown (auto re-auth on change). |
 | `ui/adb-card.js`           | WebUSB connect/disconnect; dispatches `adb-status` on document. |
-| `ui/direct-download-card.js`| Info / Download / Install-to-Device. Exports `downloadPackage(pkg, format?)` used by search + backup. |
-| `ui/search-card.js`        | Renders search results; clicking Download fills `#pkg-input` and calls `downloadPackage`. |
+| `ui/direct-download-card.js`| Orchestrator wiring info-card + download-handler + install-handler. Exports `downloadPackage` and `triggerDownloadFor`. |
+| `ui/info-card.js`          | Info lookup + render. Legacy-parity block `Title \n v… · arch · size [· includes <obb>]`. Tags non-`config.*` splits with `[asset pack]`. |
+| `ui/download-handler.js`   | Split fetch (4-way concurrent via `pMapLimit`, matching legacy `download_splits_parallel`) + zip/merge save. |
+| `ui/install-handler.js`    | Streams splits to a connected ADB device. |
+| `ui/p-map-limit.js`        | Pure `pMapLimit` — order-preserving, error-propagating parallel map. |
+| `ui/analytics.js`          | Umami beacon tagged `hostname:'extension'` + opt-out via `chrome.storage.local`. |
+| `ui/search-card.js`        | Renders search results; clicking Download fills `#pkg-input` and calls `triggerDownloadFor`. |
 | `ui/backup-card.js`        | Backup App List (ADB) + Import List + sequential restore with cancel. |
 
 ## How forbidden headers get set
@@ -122,14 +127,16 @@ splits download (Play CDN) ─▶ Page Blob[] ─▶ apk-merger.js:
                                                   add com.android.dynamic.apk.fused.modules
                                                 zipalign.js: emit aligned ZIP (4-byte default,
                                                   4096-byte for lib/*/*.so)
-                                              ▶ apk-signer.js:
-                                                v1 (JAR): MANIFEST.MF + CERT.SF + CERT.RSA (PKCS#7)
-                                                v2 (APK Signing Scheme v2): id 0x7109871a block
-                                                v3 (id 0xf05368c0 block, with min/max SDK)
+                                              ▶ apk-signer.js (orchestrator):
+                                                apk-signer-v1.js     → MANIFEST.MF + CERT.SF + CERT.RSA (PKCS#7)
+                                                apk-signer-v2v3.js   → id 0x7109871a (v2) + id 0xf05368c0 (v3) blocks
+                                                apk-signer-utils.js  → shared crypto/byte helpers
                                               ▶ Blob ▶ <a download>
 ```
 
-All four pieces are pure JS, no external CLI. The protobuf decoder, AXML patcher, and zipalign are unit-tested; the AXML patcher is cross-validated against the legacy Python source for byte-identical output.
+Every merged APK gets **v1 + v2 + v3** by default — matching legacy `apksigner sign` defaults (server.py:352, no per-scheme flags). The end-to-end test in `tests/unit/apk-signer-verify.test.mjs` shells out to the real `apksigner verify` binary and asserts all three schemes verify on the extension's output.
+
+All pieces are pure JS, no external CLI. The protobuf decoder, AXML patcher, zipalign, and signing schemes are unit-tested; the AXML patcher is cross-validated against the legacy Python source for byte-identical output.
 
 ## Storage
 

@@ -45,7 +45,10 @@ A GitHub Actions workflow at `.github/workflows/build-extension.yml` runs the li
 | AuroraOSS anonymous auth | server-side `cloudscraper` POST | client-side `fetch` + `declarativeNetRequest` to set Aurora UA |
 | Play API protobuf (details/purchase/delivery) | gpapi (Python) | hand-rolled `pb-decode.js` + schema |
 | Architecture selector | `arch=` query param | `arch.set` RPC; auto re-auth on change |
-| Merge splits + sign | `APKEditor.jar` + `apksigner` | `fflate` merge + zipalign + v1 (JAR) + v2 + v3 signing |
+| Merge splits + sign | `APKEditor.jar` + `apksigner sign` (default v1+v2+v3) | `fflate` merge + zipalign + v1+v2+v3 pure-JS signing; tested with real `apksigner verify` |
+| Split fetch concurrency | `download_splits_parallel(splits, max_workers=4)` | `pMapLimit(prep.files, 4, fetchOne)` |
+| Info-block format | `Title \n v… · ARM64 (modern) · 23 MB · includes <obb>` + `<N> files: …` | identical, plus optional device-version row when ADB is connected |
+| Asset-pack label in splits list | `name [asset pack]` for non-`config.*` splits | identical |
 | `axml_patcher.py` fused-modules meta-data (modern App-Bundle asset packs) | yes | **byte-identical port** (unit-tested against the Python source) |
 | Classic OBB expansion files (`AndroidAppDeliveryData.additionalFile[]`) | **not handled** | **not handled** (parity) |
 | `zipalign -p 4` (4-byte entries, 4096-byte page-align for `lib/*.so`) | yes | yes (`zipalign.js`) |
@@ -106,7 +109,12 @@ web_extension/
       log.js                    Activity Log with in-place progress entries
       auth-card.js              authentication card + arch dropdown
       adb-card.js               WebUSB ADB connect/disconnect; dispatches `adb-status` events
-      direct-download-card.js   Info / Download / Install-to-Device + exported downloadPackage()
+      direct-download-card.js   orchestrator: wires info-card + download-handler + install-handler
+      info-card.js              Info lookup + legacy-parity render block + currentDetails cache
+      download-handler.js       split fetch (4-way parallel via pMapLimit) + zip/merge save
+      install-handler.js        stream splits to a connected ADB device
+      p-map-limit.js            pure ordered/bounded concurrent map helper (unit-tested)
+      analytics.js              Umami beacon (hostname='extension') + opt-out via chrome.storage
       search-card.js            Play Store search rendering
       backup-card.js            backup app-list + import JSON + sequential restore
 
@@ -115,7 +123,10 @@ web_extension/
       asn1.js                   DER builder + minimal X.509 parser
       pkcs7.js                  PKCS#7 SignedData → CERT.RSA bytes
       apk-merger.js             merge base + splits with axml patching + zipalign
-      apk-signer.js             v1 (JAR) + v2 + v3 APK signing in pure JS (Web Crypto)
+      apk-signer.js             thin orchestrator: applies v1+v2+v3 by default (matches `apksigner sign`)
+      apk-signer-utils.js       shared byte/crypto helpers + constants
+      apk-signer-v1.js          JAR-style META-INF signing (MANIFEST.MF + CERT.SF + CERT.RSA)
+      apk-signer-v2v3.js        APK Signing Block (v2 id 0x7109871a + v3 id 0xf05368c0)
       axml-patcher.js           binary AndroidManifest.xml patcher; byte-identical to legacy Python
       zipalign.js               zipalign -p 4 in JS (4-byte default, 4096-byte page-align for lib/*/*.so)
       debug-cert.js             auto-generated RSA-2048 cert/key for merged-APK signing
@@ -129,7 +140,7 @@ web_extension/
   docs/                         living documentation (port-spec, architecture, play-api, testing, ADRs, test-runs, changelog)
   scripts/                      install.sh, serve.mjs, dev.mjs, lint.mjs
   tests/
-    unit/                       node --test (pb-decode, merger, signer, axml-patcher, zipalign)
+    unit/                       node --test (pb-decode + drift, merger, signer structural + end-to-end `apksigner verify`, asn1, pkcs7, axml-patcher, zipalign, dom helpers, sw utils, analytics opt-out, pMapLimit, info-card helpers)
     integration/                node --test, real network (AuroraOSS + Play API)
     e2e/                        puppeteer-core + system chromium (smoke + page-loads + auth + info-and-download + backup-restore)
     fixtures/, logs/, parity/   transient + future
