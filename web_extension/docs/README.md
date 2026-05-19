@@ -18,7 +18,8 @@ Living documentation for the browser-extension port. **Everything is documented 
 ## Index
 
 - `port-spec.md` — what we're porting and how.
-- `architecture.md` — current concrete architecture (SW, page, DNR rules, RPC contract).
+- `architecture.md` — current concrete architecture (SW + page + DNR rules + RPC contract).
+- `source-layout.md` — file-by-file map of `src/sw/` and `src/ui/`.
 - `play-api.md` — endpoints, headers, protobuf schemas, gotchas.
 - `testing.md` — the realistic 5-stage test pipeline.
 - `dev-server.md` — local preview (`npm run serve`) + real-extension launch (`npm run dev`).
