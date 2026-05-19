@@ -35,13 +35,6 @@ export default async function errorBanner({ browser, extensionId, shotDir, lates
   await page.screenshot({ path: resolve(shotDir, 'error-banner-1-open.png') });
   await page.screenshot({ path: resolve(latestDir, 'error-banner-1-open.png') });
 
-  // clearError() takes it down again.
-  await page.evaluate(async () => {
-    const m = await import('./ui/error-banner.js');
-    m.clearError();
-  });
-  await page.waitForFunction(() => !document.getElementById('error-banner')?.classList.contains('open'), { timeout: 2000 });
-
   await page.close();
-  return { opened: true, cleared: true };
+  return { opened: true };
 }

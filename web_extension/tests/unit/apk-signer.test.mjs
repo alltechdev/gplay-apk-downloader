@@ -3,7 +3,7 @@
 // produces a structurally valid signing block for every scheme combo.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { signApk, signApkV2 } from '../../src/modules/apk-signer.js';
+import { signApk } from '../../src/modules/apk-signer.js';
 import { DEBUG_CERT_DER, DEBUG_KEY_PKCS8_DER } from '../../src/modules/debug-cert.js';
 import * as fflate from 'fflate';
 
@@ -29,9 +29,9 @@ function freshApk() {
   }, { level: 0 });
 }
 
-test('signApkV2: produces a parseable zip with signing block + magic', async () => {
+test('signApk(v2 only): produces a parseable zip with signing block + magic', async () => {
   const apk = freshApk();
-  const signed = await signApkV2(apk, DEBUG_KEY_PKCS8_DER, DEBUG_CERT_DER);
+  const signed = await signApk(apk, DEBUG_KEY_PKCS8_DER, DEBUG_CERT_DER, { v1: false, v2: true, v3: false });
   assert.ok(signed.length > apk.length, 'signed output should be larger than input');
 
   // EOCD must still be parseable.

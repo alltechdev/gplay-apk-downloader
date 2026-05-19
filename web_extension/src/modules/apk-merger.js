@@ -43,35 +43,16 @@ function patchFusedModulesIfNeeded(out, splitNames) {
 }
 
 /**
- * In-memory merge (kept for unit tests). For very large APKs prefer
- * `mergeApksFromBlobs`, which never holds every split's bytes at once.
- */
-export function mergeApks(baseBytes, splits) {
-  const out = {};
-  const baseEntries = fflate.unzipSync(baseBytes);
-  // Seed `out` with the base entries (base wins).
-  for (const [path, data] of Object.entries(baseEntries)) {
-    if (isOldSignature(path)) continue;
-    out[path] = data;
-  }
-  for (const split of splits) {
-    copyEntriesInto(out, fflate.unzipSync(split.bytes));
-  }
-  patchFusedModulesIfNeeded(out, splits.map((s) => s.name));
-  return writeAlignedZip(out);
-}
-
-/**
  * Streaming merge: loads one Blob at a time and lets the previous
- * Uint8Array go GC-eligible before the next allocation. Halves peak
- * memory on large multi-split installs (the merged dict still holds all
- * entries, but we never have N+1 raw split buffers in flight at once).
+ * Uint8Array go GC-eligible before the next allocation. The merged
+ * entries dict still holds every path's data, but we never have N+1
+ * raw split buffers in flight at once.
  *
  * @param {Blob} baseBlob
  * @param {Array<{ name: string, blob: Blob }>} splitFiles
  * @returns {Promise<Uint8Array>}
  */
-export async function mergeApksFromBlobs(baseBlob, splitFiles) {
+export async function mergeApks(baseBlob, splitFiles) {
   const out = {};
 
   {

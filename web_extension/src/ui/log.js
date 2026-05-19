@@ -64,7 +64,7 @@ export function logWithAction(msg, type, actionLabel, onAction) {
   bumpBadge();
 }
 
-export function clearLog() {
+function clearLog() {
   replace($('#log-scroll'), h('div', { class: 'log-empty', id: 'log-empty' }, 'No activity yet'));
   count = 0;
   const badge = $('#log-badge');
@@ -72,7 +72,7 @@ export function clearLog() {
   badge.classList.add('empty');
 }
 
-export function toggleLog()      { $('#log-panel').classList.toggle('open'); }
+function toggleLog()             { $('#log-panel').classList.toggle('open'); }
 export function ensureLogOpen()  { if (!$('#log-panel').classList.contains('open')) toggleLog(); }
 export function setLogActive(active) { $('#log-dot').style.display = active ? 'block' : 'none'; }
 

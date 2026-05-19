@@ -47,8 +47,3 @@ async function send(payloadFields) {
 export function trackPageview() {
   return send(payload('/'));
 }
-
-/** Fire a named custom event (e.g. trackEvent('download', { pkg })). */
-export function trackEvent(name, data) {
-  return send(payload('/event', { name, ...(data ? { data } : {}) }));
-}

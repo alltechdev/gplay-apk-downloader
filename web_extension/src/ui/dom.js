@@ -1,7 +1,6 @@
 // dom.js — tiny DOM helpers shared by every UI module.
 
-export const $  = (sel, root = document) => root.querySelector(sel);
-export const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
+export const $ = (sel, root = document) => root.querySelector(sel);
 
 /** HTML-entity escape; for cases where a raw text string sneaks into markup. */
 export function esc(s) {
