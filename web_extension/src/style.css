@@ -68,28 +68,32 @@
       padding: 40px 20px 60px;
     }
 
-    /* On wider viewports use two columns. Header / Auth / Activity Log /
-       Footer span the full row; the remaining cards flow into either
-       column in DOM order. Below 960px we fall back to the original
-       single-column layout (which mobile media query also tightens). */
+    /* Two-column block. On narrow screens .cols stacks vertically with each
+       column also stacked, so the visual order is:
+         col-1: Install to Device, Search
+         col-2: Direct Download, Backup & Restore
+       At >= 960px the two .col flexboxes sit side-by-side; each column's
+       cards stack tightly (no row-alignment gap from grid). */
+    .cols {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .col {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .col > .card { margin-bottom: 0; }
+
     @media (min-width: 960px) {
-      .wrapper {
-        max-width: 1240px;
+      .wrapper { max-width: 1240px; }
+      .cols {
         display: grid;
         grid-template-columns: 1fr 1fr;
         column-gap: 24px;
-        row-gap: 16px;
         align-items: start;
-      }
-      .wrapper > .header,
-      .wrapper > .footer,
-      .wrapper > #auth-card,
-      .wrapper > #log-panel {
-        grid-column: 1 / -1;
-      }
-      .wrapper > .card,
-      .wrapper > .log-panel {
-        margin-bottom: 0;
       }
     }
 

@@ -9,8 +9,8 @@ export default async function wideLayout({ browser, extensionId, shotDir, latest
   await page.goto(`chrome-extension://${extensionId}/index.html`, { waitUntil: 'networkidle0' });
   await page.waitForSelector('header h1');
 
-  // Layout assertions: at 1280px wide, .wrapper should be display: grid with 2 columns.
-  const grid = await page.$eval('.wrapper', (el) => {
+  // Layout assertions: at 1280px wide, .cols should be display: grid with 2 columns.
+  const grid = await page.$eval('.cols', (el) => {
     const cs = getComputedStyle(el);
     return { display: cs.display, cols: cs.gridTemplateColumns };
   });
@@ -29,7 +29,7 @@ export default async function wideLayout({ browser, extensionId, shotDir, latest
   await page.close();
 
   if (!grid.display.includes('grid')) {
-    throw new Error('expected wrapper display:grid at 1280px, got: ' + grid.display);
+    throw new Error('expected .cols display:grid at 1280px, got: ' + grid.display);
   }
   return { grid, cardPositions };
 }
