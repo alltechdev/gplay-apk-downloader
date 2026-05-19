@@ -9,7 +9,9 @@ Companion to `architecture.md`. Every source file is single-responsibility and <
 ```js
 importScripts(
   'sw/00-config.js',
+  'sw/05-logger.js',
   'sw/10-utils.js',
+  'sw/15-errors.js',
   'sw/20-pb.js',
   'sw/30-storage.js',
   'sw/40-dnr.js',
@@ -27,16 +29,18 @@ The numeric prefix is the dependency order — config first, dispatcher last. Ea
 | File                | What it owns                                                                                                |
 |---------------------|-------------------------------------------------------------------------------------------------------------|
 | `sw/00-config.js`   | URLs (dispenser, Play, search), storage keys, DNR rule IDs, TTL constants, hardcoded `X-DFE-*` headers.     |
-| `sw/10-utils.js`    | `broadcast`, `validatePackageName`, `sanitizeFilenameSegment`, `loadProfilesJson`.                           |
+| `sw/05-logger.js`   | `swLog.debug/info/warn/error` — tagged + level-filtered.                                                    |
+| `sw/10-utils.js`    | `broadcast`, `validatePackageName`, `sanitizeFilenameSegment`, `loadProfilesJson`.                          |
+| `sw/15-errors.js`   | `AuthError`, `NetworkError`, `PlayApiError`, `ProtoError`, `ValidationError`.                                |
 | `sw/20-pb.js`       | Minimal protobuf decoder + Play API schemas (`PB_ResponseWrapper`, `PB_AppDetails`, `PB_AndroidAppDeliveryData`, …). |
 | `sw/30-storage.js`  | `chrome.storage` wrappers (`getAuthStored`/`setAuthStored`/…) + the download↔rule map persisted in `chrome.storage.session`. |
-| `sw/40-dnr.js`      | Three static dynamic rules + the per-download cookie-rule allocator/free-er.                                |
-| `sw/50-auth.js`     | `authSignIn` (iterates priority profiles by arch), `authStatus`, `authSignOut`, `setArchRpc`.               |
-| `sw/60-play-api.js` | `fdfeRequest` (auto-retry on 401), `appDetails`, `appPurchase`, `appDelivery`.                              |
+| `sw/40-dnr.js`      | Four static dynamic rules (dispenser / fdfe / CDN / play.google.com search) + the per-download cookie-rule allocator/free-er. |
+| `sw/50-auth.js`     | `authSignIn` (iterates priority profiles by arch), `authStatus`, `authSignOut`, `setArchRpc`. Throws `AuthError`. |
+| `sw/60-play-api.js` | `fdfeRequest` (auto-retry on 401), `appDetails`, `appPurchase`, `appDelivery`. Throws `PlayApiError` / `ProtoError`. |
 | `sw/70-downloads.js`| `chrome.downloads.onChanged` listener; `queueDownloadFile`, `cancelDownload`, `showDownload`, `appDownload`, `appPrepareInstall`, `releaseRules`. |
-| `sw/80-search.js`   | `appSearch` — HTML scrape of `play.google.com/store/search`, three extraction strategies (featured / related / JSON). |
+| `sw/80-search.js`   | `appSearch` — HTML scrape of `play.google.com/store/search`, three extraction strategies (featured / related / JSON). Caps at 5 results. |
 | `sw/90-action.js`   | Toolbar click → open `index.html`; `installCoreDnrRules` on `onInstalled` / `onStartup` / SW boot.          |
-| `sw/99-rpc.js`      | The RPC table; routes message types to SW handlers. Ignores broadcast events (`auth.event`, `download.event`). |
+| `sw/99-rpc.js`      | The RPC table; routes message types to SW handlers. Serialises `error` + `code` + `status` so callers can rebuild typed-error info. |
 
 ## Page — `src/app.js` + `src/ui/`
 
@@ -65,12 +69,13 @@ Cross-card communication is one `adb-status` `CustomEvent` on the document — n
 
 | File                            | What it owns                                                          |
 |---------------------------------|-----------------------------------------------------------------------|
-| `ui/dom.js`                     | `$`, `$$`, `esc`, `fmtSize`.                                          |
-| `ui/rpc.js`                     | `rpc(type, payload)` — Promise that resolves with `result` or rejects. |
+| `ui/dom.js`                     | `$`, `$$`, `esc`, `fmtSize`, plus `h(tag, attrs, …children)` and `replace(el, …)`. |
+| `ui/icons.js`                   | Dynamic SVG icons via `<template>` cloning (no `innerHTML`).         |
+| `ui/rpc.js`                     | `rpc(type, payload)` — rejects with an `Error` carrying `.code` + `.status`. |
 | `ui/log.js`                     | Activity Log: append, in-place progress, clear, toggle, action links. |
 | `ui/auth-card.js`               | Auth status display + sign-in / sign-out + arch dropdown.             |
 | `ui/adb-card.js`                | WebUSB ADB UI; emits `adb-status` events.                             |
-| `ui/direct-download-card.js`    | Info / Download / Install-to-Device. Exports `downloadPackage(pkg)`.  |
+| `ui/direct-download-card.js`    | Info / Download / Install-to-Device. Exports `downloadPackage(pkg, format?)`. |
 | `ui/search-card.js`             | Renders search results; click → calls `downloadPackage`.              |
 | `ui/backup-card.js`             | Backup App List + Import + sequential restore (with Cancel).         |
 
