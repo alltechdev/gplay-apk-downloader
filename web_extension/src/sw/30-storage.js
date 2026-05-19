@@ -16,7 +16,7 @@ async function getArchPref() {
   return obj?.[ARCH_STORAGE_KEY] || DEFAULT_ARCH;
 }
 async function setArchPref(arch) {
-  if (arch !== 'arm64-v8a' && arch !== 'armeabi-v7a') throw new Error('unknown arch: ' + arch);
+  if (arch !== 'arm64-v8a' && arch !== 'armeabi-v7a') throw new ValidationError('unknown arch: ' + arch);
   await chrome.storage.local.set({ [ARCH_STORAGE_KEY]: arch });
 }
 

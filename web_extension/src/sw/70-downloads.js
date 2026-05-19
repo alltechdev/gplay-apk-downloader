@@ -34,7 +34,7 @@ async function queueDownloadFile({ url, cookies, filename }) {
 }
 
 async function cancelDownload({ id }) {
-  if (typeof id !== 'number') throw new Error('id must be number');
+  if (typeof id !== 'number') throw new ValidationError('id must be number');
   await hydrateDlMap();
   await chrome.downloads.cancel(id);
   const ruleId = downloadRuleByDl.get(id);
@@ -43,7 +43,7 @@ async function cancelDownload({ id }) {
 }
 
 async function showDownload({ id }) {
-  if (typeof id !== 'number') throw new Error('id must be number');
+  if (typeof id !== 'number') throw new ValidationError('id must be number');
   await chrome.downloads.show(id);
   return { ok: true };
 }
@@ -98,7 +98,7 @@ async function appPrepareInstall({ packageName, versionCode }) {
 }
 
 async function releaseRules({ ruleIds }) {
-  if (!Array.isArray(ruleIds)) throw new Error('ruleIds must be an array');
+  if (!Array.isArray(ruleIds)) throw new ValidationError('ruleIds must be an array');
   for (const id of ruleIds) await clearDnrRule(id);
   return { released: ruleIds.length };
 }

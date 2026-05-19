@@ -1,5 +1,7 @@
 // search-card.js — Play Store search via SW HTML scrape.
-// Clicking a result fills the pkg input and kicks off downloadPackage.
+// Clicking a result hands off to triggerDownloadFor in
+// direct-download-card.js, which fills #pkg-input, opens the Activity
+// Log, renders the Info block, and downloads (or ADB-installs).
 
 import { $, h, replace } from './dom.js';
 import { rpc } from './rpc.js';
