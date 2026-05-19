@@ -24,36 +24,72 @@ function isOldSignature(path) {
   return false;
 }
 
+function copyEntriesInto(out, entries) {
+  for (const [path, data] of Object.entries(entries)) {
+    if (isOldSignature(path)) continue;
+    if (path in out) continue; // base wins
+    out[path] = data;
+  }
+}
+
+function patchFusedModulesIfNeeded(out, splitNames) {
+  const assetPacks = getAssetPackSplitNames(splitNames);
+  if (assetPacks.length > 0 && out['AndroidManifest.xml']) {
+    const patched = patchManifestFusedModules(out['AndroidManifest.xml'], assetPacks.join(','));
+    if (patched !== out['AndroidManifest.xml']) {
+      out['AndroidManifest.xml'] = patched;
+    }
+  }
+}
+
+/**
+ * In-memory merge (kept for unit tests). For very large APKs prefer
+ * `mergeApksFromBlobs`, which never holds every split's bytes at once.
+ */
 export function mergeApks(baseBytes, splits) {
   const out = {};
   const baseEntries = fflate.unzipSync(baseBytes);
+  // Seed `out` with the base entries (base wins).
   for (const [path, data] of Object.entries(baseEntries)) {
     if (isOldSignature(path)) continue;
     out[path] = data;
   }
   for (const split of splits) {
-    const entries = fflate.unzipSync(split.bytes);
-    for (const [path, data] of Object.entries(entries)) {
+    copyEntriesInto(out, fflate.unzipSync(split.bytes));
+  }
+  patchFusedModulesIfNeeded(out, splits.map((s) => s.name));
+  return writeAlignedZip(out);
+}
+
+/**
+ * Streaming merge: loads one Blob at a time and lets the previous
+ * Uint8Array go GC-eligible before the next allocation. Halves peak
+ * memory on large multi-split installs (the merged dict still holds all
+ * entries, but we never have N+1 raw split buffers in flight at once).
+ *
+ * @param {Blob} baseBlob
+ * @param {Array<{ name: string, blob: Blob }>} splitFiles
+ * @returns {Promise<Uint8Array>}
+ */
+export async function mergeApksFromBlobs(baseBlob, splitFiles) {
+  const out = {};
+
+  {
+    const baseBytes = new Uint8Array(await baseBlob.arrayBuffer());
+    const baseEntries = fflate.unzipSync(baseBytes);
+    for (const [path, data] of Object.entries(baseEntries)) {
       if (isOldSignature(path)) continue;
-      if (path in out) continue; // base wins
       out[path] = data;
     }
+    // baseBytes + baseEntries dict now have no live refs.
   }
 
-  // If there are asset-pack splits, add the fused-modules meta-data so
-  // Play Core's AssetPackManager treats them as fused-into-base.
-  const splitNames = splits.map((s) => s.name);
-  const assetPacks = getAssetPackSplitNames(splitNames);
-  if (assetPacks.length > 0 && out['AndroidManifest.xml']) {
-    const fusedValue = assetPacks.join(',');
-    const patched = patchManifestFusedModules(out['AndroidManifest.xml'], fusedValue);
-    if (patched !== out['AndroidManifest.xml']) {
-      out['AndroidManifest.xml'] = patched;
-    }
+  for (const split of splitFiles) {
+    const bytes = new Uint8Array(await split.blob.arrayBuffer());
+    copyEntriesInto(out, fflate.unzipSync(bytes));
+    // bytes drops out of scope before the next iteration allocates.
   }
 
-  // Use the aligned writer (zipalign-equivalent) so the merged APK is
-  // 4-byte aligned and lib/*/*.so is 4096-byte page-aligned, matching
-  // what legacy `zipalign -p 4` produces.
+  patchFusedModulesIfNeeded(out, splitFiles.map((s) => s.name));
   return writeAlignedZip(out);
 }

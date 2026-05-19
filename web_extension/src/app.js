@@ -9,8 +9,10 @@ import { initDirectDownloadCard } from './ui/direct-download-card.js';
 import { initSearchCard } from './ui/search-card.js';
 import { initBackupCard } from './ui/backup-card.js';
 import { trackPageview } from './ui/analytics.js';
+import { initErrorBanner } from './ui/error-banner.js';
 
 document.addEventListener('DOMContentLoaded', () => {
+  initErrorBanner();             // top-of-page banner for SW failures + uncaught errors
   initLog();
   initAdbCard();              // dispatches `adb-status` events that other cards listen for
   initAuthCard();

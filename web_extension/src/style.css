@@ -1035,3 +1035,33 @@
       .btn-row button { padding: 10px 12px; font-size: 12px; }
       .log-scroll { max-height: 200px; }
     }
+
+/* Top-of-page error banner — surfaces SW failures + uncaught errors.
+   Hidden by default; #error-banner.open shows it. */
+#error-banner {
+  display: none;
+  background: linear-gradient(180deg, #3a1414, #2a0d0d);
+  border-bottom: 1px solid #5a2222;
+  color: #ffd4d4;
+  font-size: 13px;
+  padding: 12px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+#error-banner.open { display: block; }
+#error-banner strong { color: #ff7575; }
+#error-banner .error-banner-detail { display: inline-block; opacity: 0.75; margin-top: 2px; font-family: var(--font-mono, monospace); font-size: 11px; }
+#error-banner .error-banner-action {
+  margin-left: 8px;
+  background: #5a2222;
+  border: 1px solid #7a3333;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  cursor: pointer;
+}
+#error-banner .error-banner-action:hover { background: #7a3333; }
+
