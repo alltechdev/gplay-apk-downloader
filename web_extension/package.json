@@ -25,6 +25,7 @@
     "esbuild": "^0.28.0",
     "fflate": "^0.8.3",
     "jszip": "^3.10.1",
+    "linkedom": "^0.18.12",
     "puppeteer-core": "^23.0.0",
     "web-ext": "^8.3.0"
   }
