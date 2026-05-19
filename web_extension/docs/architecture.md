@@ -53,27 +53,30 @@ How the moving parts fit together. Pair with `docs/source-layout.md` for the fil
 | File | Responsibility |
 |------|----------------|
 | `sw/00-config.js`  | Constants: URLs, storage keys, DNR rule IDs, hardcoded DFE headers, TTLs. |
+| `sw/05-logger.js`  | `swLog.debug/info/warn/error` — tagged + level-filtered. |
 | `sw/10-utils.js`   | `broadcast`, `validatePackageName`, `sanitizeFilenameSegment`, `loadProfilesJson`. |
+| `sw/15-errors.js`  | `AuthError`, `NetworkError`, `PlayApiError`, `ProtoError`, `ValidationError`. |
 | `sw/20-pb.js`      | `pbDecode` (wire types 0/1/2/5) + Play API message schemas (`PB_ResponseWrapper`, `PB_AppDetails`, …). |
 | `sw/30-storage.js` | `chrome.storage` wrappers, arch preference, download↔rule map persisted in `chrome.storage.session`. |
-| `sw/40-dnr.js`     | Static DNR rules (dispenser / fdfe / CDN) + per-download cookie rule allocator. |
+| `sw/40-dnr.js`     | Static DNR rules (dispenser / fdfe / CDN / play.google.com search) + per-download cookie rule allocator. |
 | `sw/50-auth.js`    | AuroraOSS sign-in (iterates priority profiles by arch), sign-out, status, arch.set. |
 | `sw/60-play-api.js`| `fdfeGet` / `fdfePost` with 401 auto-retry; `appDetails`, `appPurchase`, `appDelivery`. |
 | `sw/70-downloads.js`| `chrome.downloads.onChanged` lifecycle; `queueDownloadFile`, `cancelDownload`, `showDownload`, `appDownload`, `appPrepareInstall`, `releaseRules`. |
-| `sw/80-search.js`  | `appSearch` — HTML scrape of `play.google.com/store/search`, three extraction strategies. |
+| `sw/80-search.js`  | `appSearch` — HTML scrape of `play.google.com/store/search`, three extraction strategies, capped at 5 results. |
 | `sw/90-action.js`  | Toolbar `chrome.action.onClicked` → open `index.html`; `installCoreDnrRules` on `onInstalled` / `onStartup` / boot. |
-| `sw/99-rpc.js`     | The RPC table; routes message types to SW handlers. |
+| `sw/99-rpc.js`     | The RPC table; routes message types to SW handlers. Serialises `code` + `status` on errors. |
 
 **Extension page** is one HTML file plus eight ES-module `ui/*.js` files. `app.js` is a 34-line entry that imports each card's `init*()` function. Cross-card communication happens via a single `adb-status` `CustomEvent` (no import cycles).
 
 | File | Responsibility |
 |------|----------------|
-| `ui/dom.js`                | `$`, `$$`, `esc`, `fmtSize`. |
-| `ui/rpc.js`                | `rpc(type, payload)` — normalises SW response into a Promise. |
+| `ui/dom.js`                | `$`, `$$`, `esc`, `fmtSize` + `h(tag, attrs, …children)` and `replace(el, …)` — no `innerHTML` anywhere in UI code. |
+| `ui/icons.js`              | Dynamic SVG icons cloned from `<template>` elements in `index.html`. |
+| `ui/rpc.js`                | `rpc(type, payload)` — normalises SW response into a Promise; preserves `.code` + `.status` on rejections. |
 | `ui/log.js`                | Activity Log: append, in-place progress, clear, toggle, "show in folder" action, per-download cancel link. |
 | `ui/auth-card.js`          | Auth status display + sign-in/out + arch dropdown (auto re-auth on change). |
 | `ui/adb-card.js`           | WebUSB connect/disconnect; dispatches `adb-status` on document. |
-| `ui/direct-download-card.js`| Info / Download / Install-to-Device. Exports `downloadPackage(pkg)` used by search + backup. |
+| `ui/direct-download-card.js`| Info / Download / Install-to-Device. Exports `downloadPackage(pkg, format?)` used by search + backup. |
 | `ui/search-card.js`        | Renders search results; clicking Download fills `#pkg-input` and calls `downloadPackage`. |
 | `ui/backup-card.js`        | Backup App List (ADB) + Import List + sequential restore with cancel. |
 

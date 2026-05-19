@@ -142,6 +142,6 @@ async function clearDnrRule(ruleId) {
   try {
     await chrome.declarativeNetRequest.updateDynamicRules({ removeRuleIds: [ruleId], addRules: [] });
   } catch (err) {
-    console.warn('clearDnrRule failed for', ruleId, err);
+    swLog.warn('clearDnrRule failed for', ruleId, err);
   }
 }

@@ -46,16 +46,16 @@ A GitHub Actions workflow at `.github/workflows/build-extension.yml` runs the li
 | Play API protobuf (details/purchase/delivery) | gpapi (Python) | hand-rolled `pb-decode.js` + schema |
 | Architecture selector | `arch=` query param | `arch.set` RPC; auto re-auth on change |
 | Merge splits + sign | `APKEditor.jar` + `apksigner` | `fflate` merge + zipalign + v1 (JAR) + v2 + v3 signing |
-| `axml_patcher.py` fused-modules meta-data | yes | **byte-identical port** (unit-tested against the Python source) |
+| `axml_patcher.py` fused-modules meta-data (modern App-Bundle asset packs) | yes | **byte-identical port** (unit-tested against the Python source) |
+| Classic OBB expansion files (`AndroidAppDeliveryData.additionalFile[]`) | **not handled** | **not handled** (parity) |
 | `zipalign -p 4` (4-byte entries, 4096-byte page-align for `lib/*.so`) | yes | yes (`zipalign.js`) |
 | Backup app list via ADB | server-side `adb` binary | WebUSB ADB |
 | Install via ADB | server-side `adb install-multiple` | WebUSB ADB `pm install-create/write/commit` |
 | GitHub stars badge in footer | yes | yes |
 | `--version` CLI arg | yes (CLI only; **not in legacy web UI**) | not in extension web UI either |
-| Search / App Catalog | yes | **omitted by policy** (no catalog, no descriptions, no images) |
+| Search | yes (HTML scrape of `play.google.com/store/search`) | yes (same scrape, ported to SW, capped at 5 results) |
 | Stats counter | yes (`/api/stats`) | omitted (no server) |
-| Server-side download SSE | yes | `chrome.downloads.onChanged` broadcasts |
-| Classic OBB (`additionalFile[]`) | not handled | not handled (parity) |
+| Server-side download SSE | yes | `chrome.downloads.onChanged` broadcasts + page-side log events |
 
 ## Test pipeline
 
@@ -82,24 +82,27 @@ web_extension/
     icons/                      16 / 32 / 48 / 128 PNG
     profiles.json               14 priority device profiles, generated from legacy CLI's .properties
 
-    background.js               21-line `importScripts(...)` entry
+    background.js               importScripts(...) entry
     sw/                         service-worker modules (loaded in numeric order)
       00-config.js              constants (URLs, IDs, TTLs, hardcoded DFE headers)
+      05-logger.js              swLog.debug/info/warn/error (tagged + level-filtered)
       10-utils.js               broadcast, validatePackageName, sanitizeFilenameSegment, loadProfilesJson
+      15-errors.js              AuthError / NetworkError / PlayApiError / ProtoError / ValidationError
       20-pb.js                  protobuf decoder + Play API message schemas
       30-storage.js             chrome.storage wrappers + download↔rule map persistence
       40-dnr.js                 declarativeNetRequest dynamic rules (UA / Origin / Cookie injection)
       50-auth.js                AuroraOSS sign-in / sign-out / status + arch selection
       60-play-api.js            /fdfe/details, /fdfe/purchase, /fdfe/delivery (with 401 auto-retry)
       70-downloads.js           chrome.downloads + per-download cookie rule lifecycle + prepareInstall
-      80-search.js              Play Store HTML scrape
+      80-search.js              Play Store HTML scrape (capped at 5 results)
       90-action.js              toolbar click handler + DNR install hooks
-      99-rpc.js                 RPC dispatcher
+      99-rpc.js                 RPC dispatcher (serialises code + status alongside error message)
 
-    app.js                      34-line ES-module entry; imports each ui/ card and calls init…()
+    app.js                      ES-module entry; imports each ui/ card and calls init…()
     ui/                         page-side modules (ES modules)
-      dom.js                    $, $$, esc, fmtSize
-      rpc.js                    page → SW request helper
+      dom.js                    $, $$, esc, fmtSize + h() / replace() DOM-building helpers
+      icons.js                  dynamic SVG icons via <template> cloning (no innerHTML)
+      rpc.js                    page → SW request helper (preserves code + status on errors)
       log.js                    Activity Log with in-place progress entries
       auth-card.js              authentication card + arch dropdown
       adb-card.js               WebUSB ADB connect/disconnect; dispatches `adb-status` events
@@ -109,6 +112,8 @@ web_extension/
 
     modules/                    ESM source consumed by unit tests AND bundled by esbuild
       pb-decode.js              same wire format as sw/20-pb.js; ESM version for unit tests
+      asn1.js                   DER builder + minimal X.509 parser
+      pkcs7.js                  PKCS#7 SignedData → CERT.RSA bytes
       apk-merger.js             merge base + splits with axml patching + zipalign
       apk-signer.js             v1 (JAR) + v2 + v3 APK signing in pure JS (Web Crypto)
       axml-patcher.js           binary AndroidManifest.xml patcher; byte-identical to legacy Python

@@ -10,6 +10,12 @@
 //
 // Unknown field tags are skipped silently. Repeated fields accumulate into
 // arrays. Missing optional fields are simply absent from the result object.
+//
+// MIRROR: this file's `decode` is logically the same as `pbDecode` in
+// sw/20-pb.js, which is loaded into the SW via importScripts (no ES
+// imports allowed there). When the wire format or schemas change, update
+// both places. The SW also redefines the Play API schemas; they are kept
+// inline there for the same reason.
 
 export const VARINT = 'varint';
 export const INT32  = 'int32';
@@ -77,13 +83,12 @@ export function decode(buf, schema) {
       pos = p2 + L;
     } else if (field.type === INT32 || field.type === VARINT) {
       const [v, p2] = readVarint(buf, pos);
-      // Two's complement for negative int32.
       const n = Number(v & 0xffffffffn);
       value = (n & 0x80000000) ? n - 0x100000000 : n;
       pos = p2;
     } else if (field.type === INT64) {
       const [v, p2] = readVarint(buf, pos);
-      value = v; // BigInt — caller can convert if it fits in Number.
+      value = v;
       pos = p2;
     } else if (field.type === BOOL) {
       const [v, p2] = readVarint(buf, pos);

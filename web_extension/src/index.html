@@ -79,7 +79,7 @@
           <option value="armeabi-v7a">ARMv7 (legacy)</option>
         </select>
         <label class="checkbox-wrap" id="merge-label">
-          <input type="checkbox" id="merge-apks" checked>
+          <input type="checkbox" id="merge-apks">
           <span>Merge splits</span>
         </label>
       </div>
@@ -168,6 +168,15 @@
       </div>
     </footer>
   </div>
+
+  <!-- Static icon templates cloned by ui/icons.js. Keeping them in HTML
+       means JS never needs innerHTML/createContextualFragment for SVG. -->
+  <template id="ico-connect">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2v4M17 2v4M2 12h4M18 12h4M4.93 4.93l2.83 2.83M16.24 4.93l-2.83 2.83M12 8v4M12 16v.01"/><circle cx="12" cy="12" r="6"/></svg>
+  </template>
+  <template id="ico-download">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+  </template>
 
   <script src="vendor/adb-bundle.js"></script>
   <script src="vendor/apk-tools-bundle.js"></script>

@@ -26,7 +26,7 @@ function buildFdfeHeaders(auth) {
 
 async function fdfeRequest(method, path, body) {
   let auth = await getAuthStored();
-  if (!auth) throw new Error('not signed in');
+  if (!auth) throw new AuthError('not signed in');
   for (let attempt = 0; attempt < 2; attempt++) {
     const headers = buildFdfeHeaders(auth);
     if (body) headers['Content-Type'] = 'application/x-www-form-urlencoded';
@@ -36,22 +36,27 @@ async function fdfeRequest(method, path, body) {
       broadcast('auth.event', { phase: 'refresh', reason: 'got 401 from ' + path });
       await authSignIn();
       auth = await getAuthStored();
-      if (!auth) throw new Error('re-auth failed after 401');
+      if (!auth) throw new AuthError('re-auth failed after 401');
       continue;
     }
-    throw new Error(`Play /fdfe${path} → ${res.status}`);
+    throw new PlayApiError(`Play /fdfe${path} → ${res.status}`, res.status);
   }
-  throw new Error(`Play /fdfe${path}: retry exhausted`);
+  throw new PlayApiError(`Play /fdfe${path}: retry exhausted`);
 }
 const fdfeGet  = (path)         => fdfeRequest('GET',  path, null);
 const fdfePost = (path, formBody) => fdfeRequest('POST', path, formBody);
 
+/**
+ * Fetch app details from /fdfe/details and shape into a plain object.
+ * @param {{packageName:string}} args
+ * @returns {Promise<{packageName,title,developerName,versionCode,versionString,installationSize,uploadDate,splitId:string[]}>}
+ */
 async function appDetails({ packageName }) {
   validatePackageName(packageName);
   const bytes = await fdfeGet(`/details?doc=${encodeURIComponent(packageName)}`);
   const wrapper = pbDecode(bytes, PB_ResponseWrapper);
   const docV2 = wrapper?.payload?.detailsResponse?.docV2;
-  if (!docV2?.docid) throw new Error(`no docV2 in response for ${packageName}`);
+  if (!docV2?.docid) throw new ProtoError(`no docV2 in response for ${packageName}`);
   const app = docV2.details?.appDetails || {};
   return {
     packageName: app.packageName || docV2.docid,
@@ -71,6 +76,13 @@ async function appPurchase({ packageName, versionCode }) {
   return { ok: true };
 }
 
+/**
+ * Resolve the download URLs (base + splits) + auth cookies for a package.
+ * @param {{packageName:string, versionCode:number}} args
+ * @returns {Promise<{downloadUrl:string, downloadSize:number, sha1:string,
+ *                    cookies:{name:string,value:string}[],
+ *                    splits:{name:string, downloadUrl:string, downloadSize:number}[]}>}
+ */
 async function appDelivery({ packageName, versionCode }) {
   validatePackageName(packageName);
   const bytes = await fdfeGet(`/delivery?doc=${encodeURIComponent(packageName)}&ot=1&vc=${versionCode}`);
@@ -78,7 +90,7 @@ async function appDelivery({ packageName, versionCode }) {
   const data = wrapper?.payload?.deliveryResponse?.appDeliveryData;
   if (!data?.downloadUrl) {
     const status = wrapper?.payload?.deliveryResponse?.status;
-    throw new Error(`no downloadUrl (status=${status}); the app may need purchase/license`);
+    throw new PlayApiError(`no downloadUrl (status=${status}); the app may need purchase/license`, status);
   }
   return {
     downloadUrl: data.downloadUrl,

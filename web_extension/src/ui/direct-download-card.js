@@ -7,20 +7,24 @@
 // fetches blobs directly from the CDN and pushes them via
 // `pm install-create/write/commit` — no disk roundtrip.
 
-import { $, esc, fmtSize } from './dom.js';
+import { $, h, replace, fmtSize } from './dom.js';
 import { rpc } from './rpc.js';
 import {
   log, setLogActive, ensureLogOpen,
   shouldEmitProgress, updateProgressEntry, removeProgressEntry, logWithAction,
 } from './log.js';
-import { getAdbInfo } from './adb-card.js';
 
 let currentDetails = null;
 const fileById = new Map();
 const sizeById = new Map();
 
-function showMsg(html, cls = 'info') {
-  $('#info-result').innerHTML = '<div class="msg ' + cls + '">' + html + '</div>';
+/** Replace the #info-result block with a message node. */
+function showMsg(content, cls = 'info') {
+  const box = h('div', { class: 'msg ' + cls });
+  if (content instanceof Node) box.append(content);
+  else if (Array.isArray(content)) for (const c of content) box.append(c);
+  else box.append(String(content));
+  replace($('#info-result'), box);
 }
 
 async function getInstalledVersion(pkg) {
@@ -34,10 +38,35 @@ async function getInstalledVersion(pkg) {
   } catch { return null; }
 }
 
+function infoBody(d, installed) {
+  const rows = [
+    h('strong', null, d.title),
+    h('br'),
+    d.packageName,
+    h('br'),
+    'Play: v' + d.versionString + ' (vc=' + d.versionCode + ')',
+    h('br'),
+    d.developerName,
+    h('br'),
+    'size: ' + fmtSize(d.installationSize),
+    h('br'),
+    'splits: ' + (d.splitId?.length ? d.splitId.join(', ') : '(none)'),
+  ];
+  if (installed) {
+    const tag = d.versionCode > installed.versionCode
+      ? h('span', { style: 'color:var(--accent);font-weight:600' }, ' (update available)')
+      : d.versionCode === installed.versionCode
+        ? h('span', { style: 'color:var(--success)' }, ' (up to date)')
+        : h('span', { style: 'color:#fbbf24' }, ' (device has newer)');
+    rows.push(h('br'), 'Device: v' + installed.versionName + ' (vc=' + installed.versionCode + ')', tag);
+  }
+  return rows;
+}
+
 async function doInfo() {
   const pkg = $('#pkg-input').value.trim();
   if (!pkg) { showMsg('enter a package name first', 'err'); return; }
-  showMsg('<span class="spinner"></span>looking up ' + esc(pkg) + '…');
+  showMsg([h('span', { class: 'spinner' }), 'looking up ' + pkg + '…']);
   log('Info: ' + pkg, 'info');
   try {
     const [d, installed] = await Promise.all([
@@ -45,26 +74,11 @@ async function doInfo() {
       getInstalledVersion(pkg),
     ]);
     currentDetails = d;
-    let body =
-      '<strong>' + esc(d.title) + '</strong>' +
-      '<br>' + esc(d.packageName) +
-      '<br>Play: v' + esc(d.versionString) + ' (vc=' + d.versionCode + ')' +
-      '<br>' + esc(d.developerName) +
-      '<br>size: ' + fmtSize(d.installationSize) +
-      (d.splitId?.length ? '<br>splits: ' + d.splitId.map(esc).join(', ') : '<br>splits: (none)');
-    if (installed) {
-      const tag = d.versionCode > installed.versionCode
-        ? ' <span style="color:var(--accent);font-weight:600">(update available)</span>'
-        : d.versionCode === installed.versionCode
-          ? ' <span style="color:var(--success)">(up to date)</span>'
-          : ' <span style="color:#fbbf24">(device has newer)</span>';
-      body += '<br>Device: v' + esc(installed.versionName) + ' (vc=' + installed.versionCode + ')' + tag;
-    }
-    showMsg(body, 'ok');
+    showMsg(infoBody(d, installed), 'ok');
     log('Info ok: ' + d.title + ' v' + d.versionString + (installed ? ' · device has v' + installed.versionName : ''), 'ok');
   } catch (err) {
     currentDetails = null;
-    showMsg(esc(err.message), 'err');
+    showMsg(err.message, 'err');
     log('Info failed: ' + err.message, 'err');
   }
 }
@@ -110,6 +124,12 @@ async function installToDevice(pkg, details) {
   log('Install complete: ' + details.title + ' v' + details.versionString, 'ok');
 }
 
+/**
+ * Fetch and produce a single-file download for the given package.
+ * Used by both the Download button and the bulk Restore flow.
+ * @param {string} pkg - Play Store package name.
+ * @param {string} [format] - 'merge' | 'zip'; falls back to the checkbox state.
+ */
 export async function downloadPackage(pkg, format = null) {
   const d = currentDetails && currentDetails.packageName === pkg
     ? currentDetails
@@ -148,12 +168,14 @@ async function doInstall() {
   } finally { setLogActive(false); }
 }
 
-// Listen to SW download.event broadcasts (chrome.downloads progress, queueing,
-// completion — only fires when the legacy app.download splits path is used).
 function onDownloadEvent(p) {
   if (p.phase === 'purchase')        log('Purchasing ' + p.packageName + ' v' + p.versionCode, 'info');
   else if (p.phase === 'delivery')   log('Resolving delivery for ' + p.packageName, 'info');
-  else if (p.phase === 'start')      { fileById.set(p.id || '', p.file); sizeById.set(p.id || '', p.size || 0); log('Starting download: ' + p.file + (p.size ? ' (' + fmtSize(p.size) + ')' : ''), 'dl'); }
+  else if (p.phase === 'start')      {
+    fileById.set(p.id || '', p.file);
+    sizeById.set(p.id || '', p.size || 0);
+    log('Starting download: ' + p.file + (p.size ? ' (' + fmtSize(p.size) + ')' : ''), 'dl');
+  }
   else if (p.phase === 'queued')     { fileById.set(p.id, p.file); log('Queued #' + p.id + ': ' + p.file, 'dl'); }
   else if (p.phase === 'progress') {
     if (!shouldEmitProgress(p.id)) return;

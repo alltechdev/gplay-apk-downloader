@@ -1,6 +1,7 @@
 // backup-card.js — Backup app list from ADB + Import JSON + sequential restore.
 
-import { $, esc } from './dom.js';
+import { $, h, replace } from './dom.js';
+import { icoDownload } from './icons.js';
 import { rpc } from './rpc.js';
 import { log, setLogActive, ensureLogOpen } from './log.js';
 import { downloadPackage } from './direct-download-card.js';
@@ -8,12 +9,16 @@ import { getAdbInfo } from './adb-card.js';
 
 let bulkAborted = false;
 
+function msgNode(text, cls) { return h('div', { class: 'msg ' + cls }, text); }
+
 async function backupAppList() {
   if (!window.gplaydlAdb?.connected) { log('Connect a device first', 'warn'); return; }
   const btn = $('#backup-btn');
   btn.disabled = true;
   const resultEl = $('#backup-result');
-  resultEl.innerHTML = '<div class="msg info"><span class="spinner"></span>Reading installed packages from device…</div>';
+  replace(resultEl,
+    h('div', { class: 'msg info' }, h('span', { class: 'spinner' }), 'Reading installed packages from device…'),
+  );
   setLogActive(true);
   try {
     const packages = await window.gplaydlAdb.listUserPackages();
@@ -33,14 +38,57 @@ async function backupAppList() {
     document.body.appendChild(a); a.click(); document.body.removeChild(a);
     URL.revokeObjectURL(url);
     log('Backup exported as ' + filename, 'ok');
-    resultEl.innerHTML = '<div class="msg ok">Saved ' + packages.length + ' packages to <code>' + esc(filename) + '</code>. Import it later to re-download.</div>';
+    replace(resultEl,
+      h('div', { class: 'msg ok' },
+        'Saved ' + packages.length + ' packages to ', h('code', null, filename),
+        '. Import it later to re-download.',
+      ),
+    );
   } catch (err) {
     log('Backup failed: ' + err.message, 'err');
-    resultEl.innerHTML = '<div class="msg err">' + esc(err.message) + '</div>';
+    replace(resultEl, msgNode(err.message, 'err'));
   } finally {
     btn.disabled = false;
     setLogActive(false);
   }
+}
+
+function renderImported(resultEl, data, available, total) {
+  const summary = h('div', { class: 'backup-summary' });
+  summary.append(available.length + ' available · ' + (total - available.length) + ' marked unavailable');
+  if (data.device) summary.append(' · from ' + data.device);
+  if (data.date)   summary.append(' · ' + new Date(data.date).toLocaleDateString());
+  summary.append(' · ');
+  const allLink = h('a', { href: '#', style: 'color:var(--accent)' }, 'Select all');
+  const noneLink = h('a', { href: '#', style: 'color:var(--accent)' }, 'None');
+  allLink.addEventListener('click', (ev) => { ev.preventDefault(); document.querySelectorAll('.backup-check:not(:disabled)').forEach((c) => { c.checked = true; }); });
+  noneLink.addEventListener('click', (ev) => { ev.preventDefault(); document.querySelectorAll('.backup-check').forEach((c) => { c.checked = false; }); });
+  summary.append(allLink, ' / ', noneLink);
+
+  const list = h('div', { class: 'backup-list' });
+  for (const r of data.packages) {
+    const av = r.available !== false;
+    const pkgLabel = r.title
+      ? [r.title, ' ', h('span', { style: 'opacity:.5' }, '(' + r.package + ')')]
+      : [r.package];
+    list.append(
+      h('div', { class: 'backup-item' },
+        h('input', av
+          ? { type: 'checkbox', class: 'backup-check', 'data-pkg': r.package, checked: 'checked' }
+          : { type: 'checkbox', class: 'backup-check', 'data-pkg': r.package, disabled: 'disabled' }
+        ),
+        h('span', { class: 'pkg-name' }, pkgLabel),
+        h('span', { class: 'pkg-status ' + (av ? 'available' : 'unavailable') }, av ? 'available' : 'unavailable'),
+      ),
+    );
+  }
+
+  const restoreBtn = h('button', { class: 'btn-primary', id: 'backup-restore-btn', onClick: doRestore },
+    icoDownload(), 'Download all selected',
+  );
+  const actions = h('div', { class: 'backup-actions' }, restoreBtn);
+
+  replace(resultEl, summary, list, actions);
 }
 
 async function onBackupImport(e) {
@@ -53,40 +101,10 @@ async function onBackupImport(e) {
     if (!Array.isArray(data.packages)) throw new Error('expected "packages": [ … ]');
     const available = data.packages.filter((r) => r.available !== false);
     if (available.length === 0) throw new Error('no packages marked "available"');
-    const total = data.packages.length;
-
-    let html = '<div class="backup-summary">' + available.length + ' available · ' + (total - available.length) + ' marked unavailable';
-    if (data.device) html += ' · from ' + esc(data.device);
-    if (data.date) html += ' · ' + new Date(data.date).toLocaleDateString();
-    html += ' · <a href="#" id="backup-all" style="color:var(--accent)">Select all</a> / <a href="#" id="backup-none" style="color:var(--accent)">None</a></div>';
-    html += '<div class="backup-list">';
-    for (const r of data.packages) {
-      const av = r.available !== false;
-      html += '<div class="backup-item">' +
-        '<input type="checkbox" class="backup-check" data-pkg="' + esc(r.package) + '"' + (av ? ' checked' : ' disabled') + '>' +
-        '<span class="pkg-name">' + (r.title ? esc(r.title) + ' <span style="opacity:.5">(' + esc(r.package) + ')</span>' : esc(r.package)) + '</span>' +
-        '<span class="pkg-status ' + (av ? 'available' : 'unavailable') + '">' + (av ? 'available' : 'unavailable') + '</span>' +
-        '</div>';
-    }
-    html += '</div>';
-    html += '<div class="backup-actions">' +
-      '<button class="btn-primary" id="backup-restore-btn">' +
-      '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>' +
-      'Download all selected' +
-      '</button></div>';
-    resultEl.innerHTML = html;
-    $('#backup-restore-btn').addEventListener('click', doRestore);
-    $('#backup-all').addEventListener('click', (ev) => {
-      ev.preventDefault();
-      document.querySelectorAll('.backup-check:not(:disabled)').forEach((c) => { c.checked = true; });
-    });
-    $('#backup-none').addEventListener('click', (ev) => {
-      ev.preventDefault();
-      document.querySelectorAll('.backup-check').forEach((c) => { c.checked = false; });
-    });
-    log('Imported list with ' + total + ' packages (' + available.length + ' marked available)', 'ok');
+    renderImported(resultEl, data, available, data.packages.length);
+    log('Imported list with ' + data.packages.length + ' packages (' + available.length + ' marked available)', 'ok');
   } catch (err) {
-    resultEl.innerHTML = '<div class="msg err">' + esc('Invalid backup file: ' + err.message) + '</div>';
+    replace(resultEl, msgNode('Invalid backup file: ' + err.message, 'err'));
     log('Import failed: ' + err.message, 'err');
   }
 }
@@ -98,18 +116,14 @@ async function doRestore() {
   const parent = btn?.parentNode;
   if (btn) btn.disabled = true;
   bulkAborted = false;
-  const cancelBtn = document.createElement('button');
-  cancelBtn.className = 'btn-ghost';
-  cancelBtn.id = 'backup-cancel-btn';
-  cancelBtn.textContent = 'Cancel';
-  cancelBtn.addEventListener('click', () => {
-    cancelBtn.disabled = true;
-    bulkAborted = true;
-    log('Cancel requested — stopping after current app', 'warn');
-  });
+  const cancelBtn = h('button', { class: 'btn-ghost', id: 'backup-cancel-btn',
+    onClick: () => { cancelBtn.disabled = true; bulkAborted = true; log('Cancel requested — stopping after current app', 'warn'); },
+  }, 'Cancel');
   if (parent) parent.appendChild(cancelBtn);
+
   setLogActive(true);
   ensureLogOpen();
+  const format = $('#merge-apks').checked ? 'merge' : 'zip';
   log('Downloading ' + selected.length + ' app(s) sequentially…', 'dl');
   let ok = 0, failed = 0;
   try {
@@ -117,7 +131,7 @@ async function doRestore() {
       if (bulkAborted) { log('Bulk aborted after ' + i + ' of ' + selected.length, 'warn'); break; }
       const pkg = selected[i];
       log('[' + (i + 1) + '/' + selected.length + '] ' + pkg, 'info');
-      try { await downloadPackage(pkg); ok++; }
+      try { await downloadPackage(pkg, format); ok++; }
       catch (err) { failed++; log('[fail] ' + pkg + ': ' + err.message, 'err'); }
     }
     const label = bulkAborted ? 'Bulk download aborted' : 'Bulk download done';
@@ -133,7 +147,7 @@ function onAdbStatus(e) {
   const btn = $('#backup-btn');
   if (!btn) return;
   if (e.detail?.connected) { btn.disabled = false; btn.style.display = ''; }
-  else { btn.disabled = true; btn.style.display = 'none'; }
+  else                     { btn.disabled = true;  btn.style.display = 'none'; }
 }
 
 export function initBackupCard() {

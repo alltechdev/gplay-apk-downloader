@@ -8,7 +8,9 @@
 // in its own short file.
 importScripts(
   'sw/00-config.js',
+  'sw/05-logger.js',
   'sw/10-utils.js',
+  'sw/15-errors.js',
   'sw/20-pb.js',
   'sw/30-storage.js',
   'sw/40-dnr.js',
