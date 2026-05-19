@@ -1,8 +1,8 @@
 {
   "chromium": "144.x",
   "extensionId": "nejhpfdpjkomecnmibkbpfgolfaioiph",
-  "timestamp": "2026-05-19T17:31:24.472Z",
-  "shotDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/2026-05-19T17-30-28-083Z",
+  "timestamp": "2026-05-19T17:45:53.846Z",
+  "shotDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/2026-05-19T17-44-08-511Z",
   "latestDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/latest",
   "results": [
     {
@@ -24,11 +24,11 @@
       "beforeText": "Not signed in. Click \"Sign in\" for an anonymous AuroraOSS token.",
       "statusText": "AuthenticatedGoogle Pixel 9a · arm64-v8a",
       "logEntries": [
-        "13:30:41✓Extension page loaded",
-        "13:30:45•Sign-in started (arch=arm64-v8a)",
-        "13:30:45•Trying profile Pv (Google Pixel 9a, arm64-v8a)",
-        "13:30:50✓Got token from Pv",
-        "13:30:50✓Sign-in complete (Pv)"
+        "13:44:21✓Extension page loaded",
+        "13:44:27•Sign-in started (arch=arm64-v8a)",
+        "13:44:27•Trying profile Pv (Google Pixel 9a, arm64-v8a)",
+        "13:44:33✓Got token from Pv",
+        "13:44:33✓Sign-in complete (Pv)"
       ]
     },
     {
@@ -41,7 +41,7 @@
           "bytes": 118374209
         }
       ],
-      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-e2e-taSZur"
+      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-e2e-Fg5VpJ"
     },
     {
       "scenario": "scenarios/04-backup-restore.mjs",
@@ -52,7 +52,7 @@
       "files": [
         "com.duckduckgo.mobile.android-52791000.apk"
       ],
-      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-bk-0pbPYa/downloads"
+      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-bk-E6P0ii/downloads"
     }
   ],
   "ok": true
