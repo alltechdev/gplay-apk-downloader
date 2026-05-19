@@ -6,13 +6,14 @@ import { rpc } from './rpc.js';
 import { log, setLogActive, ensureLogOpen } from './log.js';
 import { downloadPackage } from './direct-download-card.js';
 import { getAdbInfo } from './adb-card.js';
+import { adb, adbConnected } from './runtime.js';
 
 let bulkAborted = false;
 
 function msgNode(text, cls) { return h('div', { class: 'msg ' + cls }, text); }
 
 async function backupAppList() {
-  if (!window.gplaydlAdb?.connected) { log('Connect a device first', 'warn'); return; }
+  if (!adbConnected()) { log('Connect a device first', 'warn'); return; }
   const btn = $('#backup-btn');
   btn.disabled = true;
   const resultEl = $('#backup-result');
@@ -21,7 +22,7 @@ async function backupAppList() {
   );
   setLogActive(true);
   try {
-    const packages = await window.gplaydlAdb.listUserPackages();
+    const packages = await adb().listUserPackages();
     log('Found ' + packages.length + ' user-installed packages on device', 'ok');
     const info = getAdbInfo();
     const data = {
