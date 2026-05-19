@@ -32,7 +32,7 @@ async function appSearch({ query }) {
   // Method 1b: related apps (Epkrse)
   const relRe = /href="\/store\/apps\/details\?id=([^"&]+)"[^>]*>[\s\S]*?<img[^>]*src="(https:\/\/play-lh\.googleusercontent\.com\/[^"=]+=[sw]\d+[^"]*)"[^>]*>[\s\S]*?class="Epkrse\s*">([^<]+)<\/div>/g;
   let m;
-  while ((m = relRe.exec(html)) !== null && results.length < 10) {
+  while ((m = relRe.exec(html)) !== null && results.length < 5) {
     const [, pkg, icon, title] = m;
     if (seen.has(pkg)) continue;
     seen.add(pkg);
@@ -43,7 +43,7 @@ async function appSearch({ query }) {
   if (results.length < 3) {
     const pkgRe = /\[\["(com\.[a-zA-Z0-9_.]+)",7\],\[null,2/g;
     let pm;
-    while ((pm = pkgRe.exec(html)) !== null && results.length < 10) {
+    while ((pm = pkgRe.exec(html)) !== null && results.length < 5) {
       const pkg = pm[1];
       if (seen.has(pkg)) continue;
       const titleRe = new RegExp(
