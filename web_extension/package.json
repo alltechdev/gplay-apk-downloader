@@ -5,7 +5,7 @@
   "description": "Browser-extension port of gplay-apk-downloader. APK bytes never touch a server.",
   "type": "module",
   "scripts": {
-    "lint": "web-ext lint --source-dir=src --self-hosted",
+    "lint": "node scripts/lint.mjs",
     "test": "node --test 'tests/unit/**/*.test.mjs'",
     "test:net": "node --test 'tests/integration/**/*.test.mjs'",
     "test:parity": "bash tests/parity/run.sh",
