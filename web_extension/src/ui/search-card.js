@@ -4,7 +4,7 @@
 import { $, h, replace } from './dom.js';
 import { rpc } from './rpc.js';
 import { log } from './log.js';
-import { downloadPackage } from './direct-download-card.js';
+import { triggerDownloadFor } from './direct-download-card.js';
 
 function resultRow(app, onClick) {
   const children = [];
@@ -40,11 +40,7 @@ async function doSearch() {
     }
     log('Found ' + d.results.length + ' results for "' + q + '"', 'ok');
     replace(el, d.results.map((a) =>
-      resultRow(a, async () => {
-        $('#pkg-input').value = a.package;
-        try { await downloadPackage(a.package); }
-        catch (err) { log('Download failed: ' + err.message, 'err'); }
-      })
+      resultRow(a, () => triggerDownloadFor(a.package))
     ));
   } catch (err) {
     replace(el, h('div', { class: 'msg err' }, err.message));
