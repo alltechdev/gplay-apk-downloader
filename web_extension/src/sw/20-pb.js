@@ -14,12 +14,12 @@ const PB_NESTED = 'nested';
 function pbReadVarint(buf, pos) {
   let result = 0n, shift = 0n, byte;
   for (;;) {
-    if (pos >= buf.length) throw new Error('pb: truncated varint');
+    if (pos >= buf.length) throw new ProtoError('pb: truncated varint');
     byte = buf[pos++];
     result |= BigInt(byte & 0x7f) << shift;
     if ((byte & 0x80) === 0) break;
     shift += 7n;
-    if (shift > 70n) throw new Error('pb: varint too long');
+    if (shift > 70n) throw new ProtoError('pb: varint too long');
   }
   return [result, pos];
 }
@@ -28,7 +28,7 @@ function pbSkip(buf, pos, wire) {
   if (wire === 2) { const [len, p] = pbReadVarint(buf, pos); return p + Number(len); }
   if (wire === 1) return pos + 8;
   if (wire === 5) return pos + 4;
-  throw new Error('pb: unknown wire type ' + wire);
+  throw new ProtoError('pb: unknown wire type ' + wire);
 }
 function pbDecode(buf, schema) {
   if (!(buf instanceof Uint8Array)) buf = new Uint8Array(buf);
@@ -71,7 +71,7 @@ function pbDecode(buf, schema) {
       value = v !== 0n;
       pos = p2;
     } else {
-      throw new Error('pb: unsupported type ' + field.type);
+      throw new ProtoError('pb: unsupported type ' + field.type);
     }
     if (field.repeated) (out[field.name] ||= []).push(value);
     else out[field.name] = value;
