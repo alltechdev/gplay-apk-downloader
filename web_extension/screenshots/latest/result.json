@@ -1,8 +1,8 @@
 {
   "chromium": "144.x",
   "extensionId": "nejhpfdpjkomecnmibkbpfgolfaioiph",
-  "timestamp": "2026-05-19T18:13:39.193Z",
-  "shotDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/2026-05-19T18-12-31-723Z",
+  "timestamp": "2026-05-19T18:28:14.581Z",
+  "shotDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/2026-05-19T18-27-33-290Z",
   "latestDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/latest",
   "results": [
     {
@@ -24,19 +24,19 @@
       "beforeText": "Not signed in. Click \"Sign in\" for an anonymous AuroraOSS token.",
       "statusText": "AuthenticatedGoogle Pixel 9a · arm64-v8a",
       "logEntries": [
-        "14:12:38✓Extension page loaded",
-        "14:12:39•Sign-in started (arch=arm64-v8a)",
-        "14:12:39•Trying profile Pv (Google Pixel 9a, arm64-v8a)",
-        "14:12:43✓Got token from Pv",
-        "14:12:43✓Sign-in complete (Pv)"
+        "14:27:40✓Extension page loaded",
+        "14:27:42•Sign-in started (arch=arm64-v8a)",
+        "14:27:42•Trying profile Pv (Google Pixel 9a, arm64-v8a)",
+        "14:27:46✓Got token from Pv",
+        "14:27:46✓Sign-in complete (Pv)"
       ]
     },
     {
       "scenario": "scenarios/03-info-and-download.mjs",
       "ok": true,
-      "infoSnippet": "DuckDuckGo, Duck.ai, & VPN\ncom.duckduckgo.mobile.android\nPlay: v5.279.1 (vc=52791000)\nDuckDuckGo\nsize: 113 MB\nsplits: (none)",
+      "infoSnippet": "DuckDuckGo, Duck.ai, & VPN\ncom.duckduckgo.mobile.android\nPlay: v5.280.0 (vc=52800000)\nDuckDuckGo\nsize: 115 MB\nsplits: (none)",
       "completedFiles": [],
-      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-e2e-dsGz7I"
+      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-e2e-rD0pOW"
     },
     {
       "scenario": "scenarios/04-backup-restore.mjs",
@@ -45,9 +45,21 @@
       "done": false,
       "lastLogs": [],
       "files": [
-        "com.duckduckgo.mobile.android-52791000.apk"
+        "com.duckduckgo.mobile.android-52800000.apk"
       ],
-      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-bk-QXy19f/downloads"
+      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-bk-tpVcs3/downloads"
+    },
+    {
+      "scenario": "scenarios/05-wide-layout.mjs",
+      "ok": true,
+      "grid": {
+        "display": "grid",
+        "cols": "588px 588px"
+      },
+      "cardPositions": {
+        "ddTop": 367.1875,
+        "srTop": 732.6875
+      }
     }
   ],
   "ok": true

@@ -68,6 +68,31 @@
       padding: 40px 20px 60px;
     }
 
+    /* On wider viewports use two columns. Header / Auth / Activity Log /
+       Footer span the full row; the remaining cards flow into either
+       column in DOM order. Below 960px we fall back to the original
+       single-column layout (which mobile media query also tightens). */
+    @media (min-width: 960px) {
+      .wrapper {
+        max-width: 1240px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 24px;
+        row-gap: 16px;
+        align-items: start;
+      }
+      .wrapper > .header,
+      .wrapper > .footer,
+      .wrapper > #auth-card,
+      .wrapper > #log-panel {
+        grid-column: 1 / -1;
+      }
+      .wrapper > .card,
+      .wrapper > .log-panel {
+        margin-bottom: 0;
+      }
+    }
+
     /* Header */
     .header {
       text-align: center;
