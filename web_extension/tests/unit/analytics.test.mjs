@@ -1,4 +1,4 @@
-// Unit tests for src/ui/analytics.js — Umami beacon payload shape + opt-out.
+// Unit tests for src/ui/analytics.js — Umami beacon payload shape.
 
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
@@ -10,35 +10,19 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const srcPath = resolve(__dirname, '..', '..', 'src', 'ui', 'analytics.js');
 
-function loadAnalytics({ fetchImpl, optedOut = false }) {
-  // Rewrite ESM `export` to global assignment so we can vm.runInContext.
+function loadAnalytics({ fetchImpl }) {
   const raw = readFileSync(srcPath, 'utf8')
     .replace(/^export\s+(async\s+)?function\s+/gm, (m, a) => (a ? 'async function ' : 'function '))
-    + `\nObject.assign(globalThis, { trackPageview, trackEvent, getOptOut, setOptOut });`;
-  const storage = { 'analytics-opt-out': optedOut };
+    + `\nObject.assign(globalThis, { trackPageview, trackEvent });`;
   const ctx = vm.createContext({
     fetch: fetchImpl,
     navigator: { language: 'en-US' },
     screen: { width: 1920, height: 1080 },
     document: { title: 'GPlay APK Downloader' },
-    chrome: {
-      storage: {
-        local: {
-          get: async (k) => ({ [k]: storage[k] }),
-          set: async (obj) => Object.assign(storage, obj),
-        },
-      },
-    },
     JSON, Object,
   });
   vm.runInContext(raw, ctx);
-  return {
-    trackPageview: ctx.trackPageview,
-    trackEvent: ctx.trackEvent,
-    getOptOut: ctx.getOptOut,
-    setOptOut: ctx.setOptOut,
-    storage,
-  };
+  return { trackPageview: ctx.trackPageview, trackEvent: ctx.trackEvent };
 }
 
 test('trackPageview: POSTs to stats.dietdroid.com with extension website-id', async () => {
@@ -72,22 +56,4 @@ test('analytics swallows fetch errors silently', async () => {
   const fetchImpl = async () => { throw new Error('network down'); };
   const { trackPageview } = loadAnalytics({ fetchImpl });
   await assert.doesNotReject(() => trackPageview());
-});
-
-test('opt-out: trackPageview is a no-op when analytics-opt-out is true', async () => {
-  let called = false;
-  const fetchImpl = async () => { called = true; return { ok: true }; };
-  const { trackPageview } = loadAnalytics({ fetchImpl, optedOut: true });
-  await trackPageview();
-  assert.equal(called, false, 'fetch must not be called when opted out');
-});
-
-test('setOptOut: persists to chrome.storage.local', async () => {
-  const { setOptOut, getOptOut, storage } = loadAnalytics({ fetchImpl: async () => ({}) });
-  await setOptOut(true);
-  assert.equal(storage['analytics-opt-out'], true);
-  assert.equal(await getOptOut(), true);
-  await setOptOut(false);
-  assert.equal(storage['analytics-opt-out'], false);
-  assert.equal(await getOptOut(), false);
 });

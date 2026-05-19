@@ -114,7 +114,7 @@ web_extension/
       download-handler.js       split fetch (4-way parallel via pMapLimit) + zip/merge save
       install-handler.js        stream splits to a connected ADB device
       p-map-limit.js            pure ordered/bounded concurrent map helper (unit-tested)
-      analytics.js              Umami beacon (hostname='extension') + opt-out via chrome.storage
+      analytics.js              Umami pageview ping (extension's own website-id in stats.dietdroid.com)
       search-card.js            Play Store search rendering
       backup-card.js            backup app-list + import JSON + sequential restore
 
@@ -140,7 +140,7 @@ web_extension/
   docs/                         living documentation (port-spec, architecture, play-api, testing, ADRs, test-runs, changelog)
   scripts/                      install.sh, serve.mjs, dev.mjs, lint.mjs
   tests/
-    unit/                       node --test (pb-decode + drift, merger, signer structural + end-to-end `apksigner verify`, asn1, pkcs7, axml-patcher, zipalign, dom helpers, sw utils, analytics opt-out, pMapLimit, info-card helpers)
+    unit/                       node --test (pb-decode + drift, merger, signer structural + end-to-end `apksigner verify`, asn1, pkcs7, axml-patcher, zipalign, dom helpers, sw utils, analytics payload, pMapLimit, info-card helpers)
     integration/                node --test, real network (AuroraOSS + Play API)
     e2e/                        puppeteer-core + system chromium (smoke + page-loads + auth + info-and-download + backup-restore)
     fixtures/, logs/, parity/   transient + future
@@ -159,6 +159,12 @@ web_extension/
 | `storage`  | auth token + arch preference (`chrome.storage.local`); per-download → DNR-rule id map (`chrome.storage.session`) |
 | `downloads`| `chrome.downloads.download` for split files; `chrome.downloads.show` for the in-log "show in folder" action |
 | `declarativeNetRequest` + `declarativeNetRequestWithHostAccess` | rewrite forbidden headers (User-Agent / Origin / Sec-Fetch-*) and inject the per-download `Cookie` from the delivery response |
-| `host_permissions` | `auroraoss.com`, `android.clients.google.com`, `play.googleapis.com`, `*.gvt1.com`, `*.googleusercontent.com`, `fonts.googleapis.com`, `fonts.gstatic.com`, `api.github.com` |
+| `host_permissions` | `auroraoss.com`, `android.clients.google.com`, `play.googleapis.com`, `*.gvt1.com`, `*.googleusercontent.com`, `fonts.googleapis.com`, `fonts.gstatic.com`, `api.github.com`, `stats.dietdroid.com` (anonymous load counter — see Analytics below) |
 
-No `tabs` / `scripting` / `activeTab`. No content scripts. No telemetry.
+No `tabs` / `scripting` / `activeTab`. No content scripts.
+
+## Analytics
+
+The extension fires one anonymous Umami pageview ping to `stats.dietdroid.com` on each page load — just enough for me to see roughly how many people use the tool. No accounts, package names, IPs, or other identifying data are stored.
+
+**To remove it entirely**, delete the `trackPageview()` line in [`src/app.js`](src/app.js). The rest of the extension does not depend on `analytics.js`. You can also remove `stats.dietdroid.com` from `host_permissions` in `src/manifest.json`.
