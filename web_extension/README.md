@@ -165,6 +165,16 @@ No `tabs` / `scripting` / `activeTab`. No content scripts.
 
 ## Analytics
 
-The extension fires one anonymous Umami pageview ping to `stats.dietdroid.com` on each page load — just enough for me to see roughly how many people use the tool. No accounts, package names, IPs, or other identifying data are stored.
+The extension fires one Umami pageview ping to `stats.dietdroid.com` on each page load — enough for me to see roughly how many people use the tool.
 
-**To remove it entirely**, delete the `trackPageview()` line in [`src/app.js`](src/app.js). The rest of the extension does not depend on `analytics.js`. You can also remove `stats.dietdroid.com` from `host_permissions` in `src/manifest.json`.
+What [Umami](https://umami.is) records per ping (no account, no package name, no per-action telemetry):
+
+- Country (derived from your IP — the IP itself is hashed and discarded by Umami; not stored as a raw address)
+- Browser, OS, screen size, language
+- Referrer (empty here)
+- Anonymous session id (salted hash that rotates daily; not linkable across days)
+- Visit URL (`https://extension.gplaydl/`) and page title
+
+That's it — nothing else is sent. There is no per-search, per-download, or per-install event.
+
+**To remove analytics entirely**, delete the `trackPageview()` line in [`src/app.js`](src/app.js). The rest of the extension does not depend on `analytics.js`. You can also remove `stats.dietdroid.com` from `host_permissions` in `src/manifest.json`.
