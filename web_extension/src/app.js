@@ -197,17 +197,43 @@ async function doDownload() {
       : await rpc('app.details', { packageName: pkg });
     currentDetails = d;
     log('Download: ' + d.title + ' v' + d.versionString + ' (vc=' + d.versionCode + ')', 'info');
-    const merge = $('#merge-apks').checked;
-    if (merge) {
-      await downloadAsSingleFile(pkg, d, 'merge');
-    } else {
-      const res = await rpc('app.download', { packageName: pkg, versionCode: d.versionCode });
-      log('Queued ' + res.files.length + ' file(s) under ' + res.dirPrefix, 'dl');
-    }
+    const format = $('#merge-apks').checked ? 'merge' : 'zip';
+    await downloadAsSingleFile(pkg, d, format);
   } catch (err) {
     log('Download failed: ' + err.message, 'err');
   } finally {
     setLogActive(false);
+  }
+}
+
+async function doSearch() {
+  const q = $('#search-q').value.trim();
+  if (!q) return;
+  const el = $('#search-results');
+  el.innerHTML = '<div class="loading"><span class="spinner"></span>Searching…</div>';
+  log('Searching for "' + q + '"…', 'info');
+  try {
+    const d = await rpc('app.search', { query: q });
+    if (!d?.results?.length) { el.innerHTML = '<div class="msg info">No results found</div>'; log('No results for "' + q + '"', 'warn'); return; }
+    log('Found ' + d.results.length + ' results for "' + q + '"', 'ok');
+    el.innerHTML = d.results.map((a) =>
+      '<div class="app-item">' +
+      (a.icon ? '<img class="app-icon" src="' + esc(a.icon) + '" alt="" loading="lazy">' : '') +
+      '<div class="app-info"><h3>' + esc(a.title || a.package) + '</h3>' +
+      '<div class="pkg">' + esc(a.package) + '</div></div>' +
+      '<div class="app-actions"><button class="btn-primary" data-pkg="' + esc(a.package) + '">Download</button></div>' +
+      '</div>'
+    ).join('');
+    el.querySelectorAll('button[data-pkg]').forEach((b) => {
+      b.addEventListener('click', () => {
+        $('#pkg-input').value = b.dataset.pkg;
+        currentDetails = null;
+        doDownload();
+      });
+    });
+  } catch (err) {
+    el.innerHTML = '<div class="msg err">' + esc(err.message) + '</div>';
+    log('Search failed: ' + err.message, 'err');
   }
 }
 
@@ -339,33 +365,46 @@ async function onBackupImport(e) {
   }
 }
 
+let bulkAborted = false;
+
 async function doRestore() {
   const selected = Array.from(document.querySelectorAll('.backup-check:checked')).map((c) => c.dataset.pkg);
   if (selected.length === 0) { log('No packages selected', 'warn'); return; }
   const btn = $('#backup-restore-btn');
   const parent = btn?.parentNode;
   if (btn) btn.disabled = true;
+  bulkAborted = false;
   const cancelBtn = document.createElement('button');
   cancelBtn.className = 'btn-ghost';
   cancelBtn.id = 'backup-cancel-btn';
   cancelBtn.textContent = 'Cancel';
-  cancelBtn.addEventListener('click', async () => {
+  cancelBtn.addEventListener('click', () => {
     cancelBtn.disabled = true;
-    try { await rpc('app.abortBulk'); log('Cancel requested — stopping after current app', 'warn'); }
-    catch (err) { log('Cancel failed: ' + err.message, 'err'); }
+    bulkAborted = true;
+    log('Cancel requested — stopping after current app', 'warn');
   });
   if (parent) parent.appendChild(cancelBtn);
   setLogActive(true);
   if (!$('#log-panel').classList.contains('open')) toggleLog();
+  const format = $('#merge-apks').checked ? 'merge' : 'zip';
   log('Downloading ' + selected.length + ' app(s) sequentially…', 'dl');
+  let ok = 0, failed = 0;
   try {
-    const res = await rpc('app.downloadList', { packages: selected });
-    const ok = res.results.filter((r) => r.ok).length;
-    const failed = res.results.length - ok;
-    const label = res.aborted ? 'Bulk download aborted' : 'Bulk download done';
-    log(label + ': ' + ok + ' ok, ' + failed + ' failed' + (res.aborted ? ' (cancelled)' : ''), failed || res.aborted ? 'warn' : 'ok');
-  } catch (err) {
-    log('Bulk download failed: ' + err.message, 'err');
+    for (let i = 0; i < selected.length; i++) {
+      if (bulkAborted) { log('Bulk aborted after ' + i + ' of ' + selected.length, 'warn'); break; }
+      const pkg = selected[i];
+      log('[' + (i + 1) + '/' + selected.length + '] ' + pkg, 'info');
+      try {
+        const d = await rpc('app.details', { packageName: pkg });
+        await downloadAsSingleFile(pkg, d, format);
+        ok++;
+      } catch (err) {
+        failed++;
+        log('[fail] ' + pkg + ': ' + err.message, 'err');
+      }
+    }
+    const label = bulkAborted ? 'Bulk download aborted' : 'Bulk download done';
+    log(label + ': ' + ok + ' ok, ' + failed + ' failed', failed || bulkAborted ? 'warn' : 'ok');
   } finally {
     setLogActive(false);
     if (btn) btn.disabled = false;
@@ -465,7 +504,7 @@ function setAdbCard(state, info) {
       (info.serial ? ' · ' + esc(info.serial) : '') + '</small></div>' +
       '<button class="btn-ghost" id="adb-disconnect-btn">Disconnect</button>';
     $('#adb-disconnect-btn').addEventListener('click', adbDoDisconnect);
-    if (backupBtn) backupBtn.disabled = false;
+    if (backupBtn) { backupBtn.disabled = false; backupBtn.style.display = ''; }
   } else {
     statusEl.innerHTML =
       '<button class="btn-secondary" id="adb-connect-btn">' +
@@ -473,7 +512,7 @@ function setAdbCard(state, info) {
       'Connect Device' +
       '</button>';
     $('#adb-connect-btn').addEventListener('click', adbDoConnect);
-    if (backupBtn) backupBtn.disabled = true;
+    if (backupBtn) { backupBtn.disabled = true; backupBtn.style.display = 'none'; }
   }
   updateInstallBtnVisibility();
 }
@@ -584,6 +623,8 @@ document.addEventListener('DOMContentLoaded', async () => {
   $('#download-btn').addEventListener('click', doDownload);
   $('#install-btn').addEventListener('click', doInstall);
   $('#pkg-input').addEventListener('keypress', (e) => { if (e.key === 'Enter') doInfo(); });
+  $('#search-btn').addEventListener('click', doSearch);
+  $('#search-q').addEventListener('keypress', (e) => { if (e.key === 'Enter') doSearch(); });
   $('#backup-import').addEventListener('change', onBackupImport);
 
   await refreshAuth();

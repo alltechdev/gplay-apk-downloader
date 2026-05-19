@@ -44,7 +44,7 @@ export default async function pageLoads({ browser, extensionId, shotDir, latestD
   if (h1 !== 'GPlay APK Downloader') throw new Error(`h1 mismatch: "${h1}"`);
   if (!hasFooter) throw new Error('footer missing');
   if (!hasLog) throw new Error('log panel missing');
-  if (hasSearchInput) throw new Error('search input present — must be removed (no catalog policy)');
+  if (!hasSearchInput) throw new Error('search input missing — restored for legacy parity');
   if (!hasAuthCard) throw new Error('auth card missing');
   if (!hasDownloadCard) throw new Error('download card missing');
   if (!hasAdbCard) throw new Error('adb card missing');

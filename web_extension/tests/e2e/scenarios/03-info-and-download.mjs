@@ -51,7 +51,7 @@ export default async function infoAndDownload({ browser, extensionId, shotDir, l
 
   // Info lookup.
   await page.type('#pkg-input', TEST_PKG);
-  // Ensure merge is unchecked so the chrome.downloads splits path is exercised.
+  // Merge unchecked → one ZIP with all splits inside (legacy behaviour).
   await page.$eval('#merge-apks', (el) => { el.checked = false; });
   await page.click('#info-btn');
   await page.waitForSelector('#info-result .msg.ok, #info-result .msg.err', { timeout: 30000 });
@@ -64,35 +64,16 @@ export default async function infoAndDownload({ browser, extensionId, shotDir, l
   await page.screenshot({ path: resolve(shotDir, 'flow-2-info.png') });
   await page.screenshot({ path: resolve(latestDir, 'flow-2-info.png') });
 
-  // Track chrome.downloads via the SW.
-  // Instrument the page to count download.event broadcasts.
-  await page.evaluate(() => {
-    window.__downloadEvents = [];
-    chrome.runtime.onMessage.addListener((msg) => {
-      if (msg?.type === 'download.event') window.__downloadEvents.push(msg.payload);
-    });
-  });
-
-  // Click Download.
+  // Click Download — page-side fetch + zip + <a download>.
   await page.click('#download-btn');
 
-  // Wait for the SW to broadcast queue events.
-  await page.waitForFunction(
-    () => (window.__downloadEvents || []).some((p) => p.phase === 'queued'),
-    { timeout: 60000 },
-  );
-
-  // Give the SW a moment to queue all splits.
-  await new Promise((r) => setTimeout(r, 2000));
-
-  // Wait until chrome.downloads reports at least one complete file. The
-  // base APK is ~100MB and may not finish before the test budget over
-  // Termux Wi-Fi; a single complete split is enough proof that the full
-  // auth → details → purchase → delivery → CDN download chain works.
-  await page.evaluate(() => { window.__dlState = {}; });
+  // Wait until the page logs "ZIP ready" (page-side path) or until at
+  // least one file appears in chrome.downloads.
   const t0 = Date.now();
   let dlReport;
-  while (Date.now() - t0 < 120000) {
+  let done = false;
+  while (Date.now() - t0 < 180000) {
+    const okLog = await page.$$eval('#log-scroll .log-entry', (els) => els.some((e) => /ZIP ready/i.test(e.textContent)));
     dlReport = await page.evaluate(async () => {
       return new Promise((resolve) => {
         chrome.downloads.search({}, (items) => {
@@ -100,13 +81,9 @@ export default async function infoAndDownload({ browser, extensionId, shotDir, l
         });
       });
     });
-    const completeCount = dlReport.filter((d) => d.state === 'complete').length;
-    if (completeCount >= 1) break;
-    await new Promise((r) => setTimeout(r, 2000));
+    if (okLog || dlReport.some((d) => d.state === 'complete')) { done = true; break; }
+    await new Promise((r) => setTimeout(r, 3000));
   }
-
-  const events = await page.evaluate(() => window.__downloadEvents || []);
-  const queued = events.filter((e) => e.phase === 'queued');
   await page.screenshot({ path: resolve(shotDir, 'flow-3-downloading.png') });
   await page.screenshot({ path: resolve(latestDir, 'flow-3-downloading.png') });
 
@@ -118,15 +95,12 @@ export default async function infoAndDownload({ browser, extensionId, shotDir, l
 
   await page.close();
 
-  if (queued.length < 1) throw new Error('expected ≥1 queued download, got 0. events=' + JSON.stringify(events));
-  const completed = (dlReport || []).filter((d) => d.state === 'complete');
-  const inProgress = (dlReport || []).filter((d) => d.state === 'in_progress' && d.bytesReceived > 0);
-  if (completed.length < 1 && inProgress.length < 1) {
-    throw new Error('expected ≥1 completed (or in-progress) download within 120s, got 0. report=' + JSON.stringify(dlReport));
+  if (!done) {
+    throw new Error('zip download never finished. dlReport=' + JSON.stringify(dlReport || []));
   }
+  const completed = (dlReport || []).filter((d) => d.state === 'complete');
   return {
     infoSnippet: infoText.slice(0, 200),
-    queuedFiles: queued.map((q) => q.file),
     completedFiles: completed.map((c) => ({ filename: c.filename.split('/').pop(), bytes: c.bytesReceived })),
     downloadDir,
   };
