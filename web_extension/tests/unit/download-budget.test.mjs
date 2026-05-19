@@ -19,13 +19,13 @@ function loadHelper() {
   // Pull out the constant + function bodies.
   const limitMatch = /const MERGE_MAX_BYTES = ([\d_]+) \* 1024 \* 1024/.exec(src);
   if (!limitMatch) throw new Error('cannot find MERGE_MAX_BYTES');
-  const fnMatch = /export function checkMergeMemoryBudget\(installSize\) \{[\s\S]*?\n\}/.exec(src);
+  const fnMatch = /function checkMergeMemoryBudget\(installSize\) \{[\s\S]*?\n\}/.exec(src);
   if (!fnMatch) throw new Error('cannot find checkMergeMemoryBudget');
 
   const code = `
     const fmtSize = (b) => (b / (1024*1024)).toFixed(2) + ' MB';
     const MERGE_MAX_BYTES = ${limitMatch[1]} * 1024 * 1024;
-    ${fnMatch[0].replace('export ', '')}
+    ${fnMatch[0]}
     globalThis.MERGE_MAX_BYTES = MERGE_MAX_BYTES;
     globalThis.checkMergeMemoryBudget = checkMergeMemoryBudget;
   `;

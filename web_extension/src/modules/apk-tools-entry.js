@@ -15,7 +15,7 @@
 
 import * as fflate from 'fflate';
 import { DEBUG_CERT_DER, DEBUG_KEY_PKCS8_DER } from './debug-cert.js';
-import { mergeApksFromBlobs } from './apk-merger.js';
+import { mergeApks } from './apk-merger.js';
 import { signApk } from './apk-signer.js';
 
 function downloadBlob(blob, name) {
@@ -46,7 +46,7 @@ async function mergeAndSign(files, outputName) {
   const baseFile = files.find((f) => /^base\.apk$/i.test(f.name)) || files[0];
   const splitFiles = files.filter((f) => f !== baseFile);
 
-  let merged = await mergeApksFromBlobs(baseFile.blob, splitFiles);
+  let merged = await mergeApks(baseFile.blob, splitFiles);
 
   // Match legacy `apksigner sign` defaults: v1 + v2 + v3 all enabled.
   const signed = await signApk(merged, DEBUG_KEY_PKCS8_DER, DEBUG_CERT_DER, { v1: true, v2: true, v3: true });

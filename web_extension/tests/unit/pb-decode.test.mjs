@@ -2,7 +2,11 @@
 // Hand-encoded payloads round-trip the wire format we care about.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { decode, STRING, INT32, INT64, NESTED, BOOL } from '../../src/modules/pb-decode.js';
+import { decode } from '../../src/modules/pb-decode.js';
+
+// Wire-type sentinels are internal to pb-decode.js; tests pass the
+// literal strings, exactly like real schema definitions do.
+const STRING = 'string', INT32 = 'int32', INT64 = 'int64', NESTED = 'nested', BOOL = 'bool';
 
 function tag(fieldNo, wire) {
   return (fieldNo << 3) | wire;

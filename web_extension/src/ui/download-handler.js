@@ -51,7 +51,7 @@ export async function fetchSplits(pkg, details) {
 }
 
 /** Refuse to merge if it would obviously OOM. Returns null when OK, error string otherwise. */
-export function checkMergeMemoryBudget(installSize) {
+function checkMergeMemoryBudget(installSize) {
   if (!installSize || installSize <= 0) return null;
   if (installSize > MERGE_MAX_BYTES) {
     return 'APK too large to merge in-browser (' + fmtSize(installSize) + '). '

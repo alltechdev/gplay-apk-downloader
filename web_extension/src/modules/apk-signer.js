@@ -95,7 +95,3 @@ export async function signApk(apk, pkcs8KeyDer, certDer, opts = { v1: true, v2: 
   return out;
 }
 
-/** Back-compat helper used by older unit tests. */
-export async function signApkV2(apk, pkcs8KeyDer, certDer) {
-  return signApk(apk, pkcs8KeyDer, certDer, { v1: false, v2: true, v3: false });
-}

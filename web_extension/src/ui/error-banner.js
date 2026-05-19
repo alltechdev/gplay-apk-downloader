@@ -46,14 +46,6 @@ export function showError(message, { detail = null, reloadable = true } = {}) {
   banner.classList.add('open');
 }
 
-/** Hide the error banner (call after the user clears the underlying issue). */
-export function clearError() {
-  ensure();
-  if (!banner) return;
-  banner.classList.remove('open');
-  if (inner) inner.textContent = '';
-}
-
 /**
  * Heuristic: does this RPC error look like the SW is unreachable
  * (terminated, not yet booted, or otherwise not answering)?

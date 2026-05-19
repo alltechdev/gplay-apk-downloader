@@ -17,13 +17,15 @@
 // both places. The SW also redefines the Play API schemas; they are kept
 // inline there for the same reason.
 
-export const VARINT = 'varint';
-export const INT32  = 'int32';
-export const INT64  = 'int64';
-export const BOOL   = 'bool';
-export const STRING = 'string';
-export const BYTES  = 'bytes';
-export const NESTED = 'nested';
+// Wire-type sentinels — internal. Schema definitions in callers use the
+// literal strings ('varint' / 'string' / 'nested' / …) directly.
+const VARINT = 'varint';
+const INT32  = 'int32';
+const INT64  = 'int64';
+const BOOL   = 'bool';
+const STRING = 'string';
+const BYTES  = 'bytes';
+const NESTED = 'nested';
 
 function readVarint(buf, pos) {
   let result = 0n, shift = 0n, byte;
