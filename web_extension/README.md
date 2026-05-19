@@ -71,31 +71,69 @@ Every release-blocking claim is backed by a test, and every visual claim is back
 
 ## Layout
 
+Every source file is single-responsibility and under ~200 LOC.
+
 ```
 web_extension/
   src/                          loaded as the unpacked extension
     manifest.json
-    background.js               single-file MV3 service worker (auth, Play API, downloads, DNR)
     index.html                  the tab page (matches legacy site visual style verbatim)
-    app.js                      page controller
     style.css                   verbatim from public/style.css
-    icons/                      16/32/48/128 PNG
+    icons/                      16 / 32 / 48 / 128 PNG
     profiles.json               14 priority device profiles, generated from legacy CLI's .properties
-    debug-cert.js (gen)         bundled RSA-2048 debug cert/key for merged-APK signing
-    vendor/adb-bundle.js        esbuild output of @yume-chan/adb (~65 KB)
-    vendor/apk-tools-bundle.js  esbuild output of fflate + merger + signer + zipalign (~33 KB)
-    modules/                    ESM source for unit tests (pb-decode, profile, auth, adb, apk-merger, apk-signer, axml-patcher, zipalign, apk-tools-entry)
-  docs/                         living documentation (port-spec, architecture, play-api, testing, changelog, ADRs, test-runs)
-  scripts/                      install.sh, serve.mjs, dev.mjs
+
+    background.js               21-line `importScripts(...)` entry
+    sw/                         service-worker modules (loaded in numeric order)
+      00-config.js              constants (URLs, IDs, TTLs, hardcoded DFE headers)
+      10-utils.js               broadcast, validatePackageName, sanitizeFilenameSegment, loadProfilesJson
+      20-pb.js                  protobuf decoder + Play API message schemas
+      30-storage.js             chrome.storage wrappers + download↔rule map persistence
+      40-dnr.js                 declarativeNetRequest dynamic rules (UA / Origin / Cookie injection)
+      50-auth.js                AuroraOSS sign-in / sign-out / status + arch selection
+      60-play-api.js            /fdfe/details, /fdfe/purchase, /fdfe/delivery (with 401 auto-retry)
+      70-downloads.js           chrome.downloads + per-download cookie rule lifecycle + prepareInstall
+      80-search.js              Play Store HTML scrape
+      90-action.js              toolbar click handler + DNR install hooks
+      99-rpc.js                 RPC dispatcher
+
+    app.js                      34-line ES-module entry; imports each ui/ card and calls init…()
+    ui/                         page-side modules (ES modules)
+      dom.js                    $, $$, esc, fmtSize
+      rpc.js                    page → SW request helper
+      log.js                    Activity Log with in-place progress entries
+      auth-card.js              authentication card + arch dropdown
+      adb-card.js               WebUSB ADB connect/disconnect; dispatches `adb-status` events
+      direct-download-card.js   Info / Download / Install-to-Device + exported downloadPackage()
+      search-card.js            Play Store search rendering
+      backup-card.js            backup app-list + import JSON + sequential restore
+
+    modules/                    ESM source consumed by unit tests AND bundled by esbuild
+      pb-decode.js              same wire format as sw/20-pb.js; ESM version for unit tests
+      apk-merger.js             merge base + splits with axml patching + zipalign
+      apk-signer.js             v1 (JAR) + v2 + v3 APK signing in pure JS (Web Crypto)
+      axml-patcher.js           binary AndroidManifest.xml patcher; byte-identical to legacy Python
+      zipalign.js               zipalign -p 4 in JS (4-byte default, 4096-byte page-align for lib/*/*.so)
+      debug-cert.js             auto-generated RSA-2048 cert/key for merged-APK signing
+      adb-entry.js              entry: wraps @yume-chan/adb for the page
+      apk-tools-entry.js        entry: bundles fflate + merger + signer + zipalign
+
+    vendor/                     committed esbuild output, loaded by index.html
+      adb-bundle.js             ~65 KB
+      apk-tools-bundle.js       ~33 KB
+
+  docs/                         living documentation (port-spec, architecture, play-api, testing, ADRs, test-runs, changelog)
+  scripts/                      install.sh, serve.mjs, dev.mjs, lint.mjs
   tests/
-    unit/                       node --test
-    integration/                node --test, real network
-    e2e/                        puppeteer-core + system chromium
+    unit/                       node --test (pb-decode, merger, signer, axml-patcher, zipalign)
+    integration/                node --test, real network (AuroraOSS + Play API)
+    e2e/                        puppeteer-core + system chromium (smoke + page-loads + auth + info-and-download + backup-restore)
     fixtures/, logs/, parity/   transient + future
   screenshots/                  history of e2e screenshots (committed)
   package.json
   .venv/                        Python venv (gitignored)
   node_modules/                 (gitignored)
+
+.github/workflows/build-extension.yml  CI: lint + unit + build; uploads zip + unpacked artifacts on push to main / feat/web-extension and on PRs touching web_extension/
 ```
 
 ## Permissions requested

@@ -64,3 +64,14 @@ Running log of significant changes to the web_extension port. Append-only.
 - **Download→rule map persisted in `chrome.storage.session`** so SW restarts mid-download don't orphan DNR rules.
 - **Top-level `web_extension/README.md`** with install + usage + layout.
 - **Installed-version display on Info**: when a WebUSB ADB device is connected, the Info card runs `dumpsys package <pkg>` on the device and shows the installed `versionName` / `versionCode` next to the Play version, plus an "update available" / "up to date" / "device has newer" tag.
+- **zipalign port** (`src/modules/zipalign.js`): custom store-only zip writer aligns every entry to 4 bytes and `lib/*/*.so` to 4096 bytes. Replaces `fflate.zipSync` in the merge path. Unit-tested.
+- **Merge-splits checkbox** replaces the output-format dropdown (legacy parity). Default ON. Unchecked → single ZIP of the original splits; checked → merged + zipaligned + v1/v2/v3-signed APK.
+- **Auto re-auth on arch change**: switching the architecture dropdown rotates to a matching priority profile if the current token's arch differs.
+- **Email hidden** in the Auth card — legacy doesn't surface it either. Card shows only "Authenticated · profile · arch".
+- **Search restored**: `app.search` SW RPC scrapes `play.google.com/store/search` (featured + related + JSON fallback regex, ported from `server.py:/api/search`). Results render with the legacy `app-item` layout; clicking Download fills `#pkg-input` and triggers the same `downloadPackage` path used elsewhere.
+- **GitHub stars badge** in the footer.
+- **GH Actions workflow** at `.github/workflows/build-extension.yml`: on push to `main` / `feat/web-extension` and on PRs touching `web_extension/`, runs lint + unit, builds bundles + packed zip, uploads both as artifacts.
+- **`scripts/lint.mjs` wrapper**: filters the single addons-linter false-positive about MV3 `background.service_worker` so CI passes on warnings without losing real-error coverage.
+- **CDN CORS fix**: added `*://*.gvt1.com/*` + `*://*.googleusercontent.com/*` to host_permissions; new DNR rule id 3 strips `Origin` + `Sec-Fetch-*` on those CDN redirects so page-side fetch can follow Play's by-token → by-id redirect chain.
+- **Major refactor — single-responsibility files**: `background.js` (783 → 21 LOC entry) now `importScripts(...)` eleven `sw/NN-*.js` modules (config, utils, pb, storage, dnr, auth, play-api, downloads, search, action, rpc). `app.js` (643 → 34 LOC entry) is an ES-module entry that imports eight `ui/*.js` cards (dom, rpc, log, auth-card, adb-card, direct-download-card, search-card, backup-card). Cross-card communication uses a single `adb-status` custom event — no import cycles. Every source file under ~200 LOC.
+- **Documentation refreshed**: `docs/source-layout.md` is the new file-by-file map. `docs/architecture.md` rewritten around the modular layout.
