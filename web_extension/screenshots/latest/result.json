@@ -1,8 +1,8 @@
 {
   "chromium": "144.x",
   "extensionId": "nejhpfdpjkomecnmibkbpfgolfaioiph",
-  "timestamp": "2026-05-19T17:14:40.570Z",
-  "shotDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/2026-05-19T17-14-11-774Z",
+  "timestamp": "2026-05-19T17:31:24.472Z",
+  "shotDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/2026-05-19T17-30-28-083Z",
   "latestDir": "/data/data/com.termux/files/home/gplay-apk-downloader/web_extension/screenshots/latest",
   "results": [
     {
@@ -24,45 +24,35 @@
       "beforeText": "Not signed in. Click \"Sign in\" for an anonymous AuroraOSS token.",
       "statusText": "AuthenticatedGoogle Pixel 9a · arm64-v8a",
       "logEntries": [
-        "13:14:18✓Extension page loaded",
-        "13:14:19•Sign-in started (arch=arm64-v8a)",
-        "13:14:19•Trying profile Pv (Google Pixel 9a, arm64-v8a)",
-        "13:14:24✓Got token from Pv",
-        "13:14:24✓Sign-in complete (Pv)"
+        "13:30:41✓Extension page loaded",
+        "13:30:45•Sign-in started (arch=arm64-v8a)",
+        "13:30:45•Trying profile Pv (Google Pixel 9a, arm64-v8a)",
+        "13:30:50✓Got token from Pv",
+        "13:30:50✓Sign-in complete (Pv)"
       ]
     },
     {
       "scenario": "scenarios/03-info-and-download.mjs",
       "ok": true,
-      "infoSnippet": "DuckDuckGo, Duck.ai, & VPN\ncom.duckduckgo.mobile.android\nPlay: v5.280.0 (vc=52800000)\nDuckDuckGo\nsize: 115 MB\nsplits: (none)",
-      "queuedFiles": [
-        "base.apk",
-        "config.arm64_v8a.apk",
-        "config.en.apk",
-        "config.xxhdpi.apk"
-      ],
+      "infoSnippet": "DuckDuckGo, Duck.ai, & VPN\ncom.duckduckgo.mobile.android\nPlay: v5.279.1 (vc=52791000)\nDuckDuckGo\nsize: 113 MB\nsplits: (none)",
       "completedFiles": [
         {
-          "filename": "AF3DWBfkGpzLDiMDFxTo4XhicYUCStAldu_bYSMV_CIXaT0cwmrqNZQ6XmjK4pF3XzkCYWhhK8tuRuMjb_B3BjhTOHPpLIVp-BPX2k-Rs2264jFd08C0KjaHmprXvbDVis8USB447FIQX4RvZntzfH0iGDGYsOHang.apk",
-          "bytes": 20477040
-        },
-        {
-          "filename": "AF3DWBfkGpzLDiMDFxTo4XhicYUCStAldu_bYSMV_CIXaT0cwiw2ZwwfL05DsdPTtztUzdsEJpPu10KTWHyCS_mjXlkSyZs_Iahx7EGkLrdCAHro7wCQCNMZdVH-CVoreJKe9XyvRT4ha5w876UGZ-b6bSjtNUgmhw.apk",
-          "bytes": 909818
-        },
-        {
-          "filename": "AF3DWBfkGpzLDiMDFxTo4XhicYUCStAldu_bYSMV_CIXaT0cwlj3rind0uoj3wEGw5wGksA8-836UFaLKTJ_C3vaSZi_zAKCukSkGg7N76dGC6heOO-sxAUOeXxE9Nevsskmewku9_RghkSOuPs9OKzyrs57MEjsyw.apk",
-          "bytes": 164249
+          "filename": "com.duckduckgo.mobile.android-52791000.zip",
+          "bytes": 118374209
         }
       ],
-      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-e2e-DZ8tGG"
+      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-e2e-taSZur"
     },
     {
       "scenario": "scenarios/04-backup-restore.mjs",
       "ok": true,
-      "listStart": 1,
-      "queued": 4,
-      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-bk-d0e0z5/downloads"
+      "okZip": false,
+      "done": false,
+      "lastLogs": [],
+      "files": [
+        "com.duckduckgo.mobile.android-52791000.apk"
+      ],
+      "downloadDir": "/data/data/com.termux/files/usr/tmp/gplaydl-bk-0pbPYa/downloads"
     }
   ],
   "ok": true

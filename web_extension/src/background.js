@@ -656,6 +656,58 @@ async function releaseRules({ ruleIds }) {
 
 let bulkAbort = false;
 
+// Search the Play Store by scraping play.google.com/store/search HTML.
+// Mirrors server.py:/api/search (Method 1 + Method 2 regex extraction).
+async function appSearch({ query }) {
+  if (typeof query !== 'string' || !query.trim()) throw new Error('query required');
+  if (query.length > 200) throw new Error('query too long');
+  const res = await fetch('https://play.google.com/store/search?q=' + encodeURIComponent(query) + '&c=apps');
+  if (!res.ok) throw new Error('Play search HTTP ' + res.status);
+  const html = await res.text();
+  const results = [];
+  const seen = new Set();
+  const decodeHtml = (s) => s.replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"');
+  const upgradeIcon = (url) => url.replace(/=s\d+/, '=s128').replace(/=w\d+/, '=s128');
+
+  // Method 1a: featured app
+  const featured = html.match(/href="\/store\/apps\/details\?id=([^"&]+)"[^>]*>[\s\S]*?<img[^>]*src="(https:\/\/play-lh\.googleusercontent\.com\/[^"]+)"[^>]*>[\s\S]*?<div class="vWM94c">([^<]+)<\/div>/);
+  if (featured) {
+    const [, pkg, icon, title] = featured;
+    if (!seen.has(pkg)) { seen.add(pkg); results.push({ package: pkg, title: decodeHtml(title), icon: upgradeIcon(icon) }); }
+  }
+
+  // Method 1b: related apps
+  const rel = /href="\/store\/apps\/details\?id=([^"&]+)"[^>]*>[\s\S]*?<img[^>]*src="(https:\/\/play-lh\.googleusercontent\.com\/[^"=]+=[sw]\d+[^"]*)"[^>]*>[\s\S]*?class="Epkrse\s*">([^<]+)<\/div>/g;
+  let m;
+  while ((m = rel.exec(html)) !== null && results.length < 10) {
+    const [, pkg, icon, title] = m;
+    if (seen.has(pkg)) continue;
+    seen.add(pkg);
+    results.push({ package: pkg, title: decodeHtml(title), icon: upgradeIcon(icon) });
+  }
+
+  // Method 2: JSON-embedded packages.
+  if (results.length < 3) {
+    const pkgRe = /\[\["(com\.[a-zA-Z0-9_.]+)",7\],\[null,2/g;
+    let pm;
+    while ((pm = pkgRe.exec(html)) !== null && results.length < 10) {
+      const pkg = pm[1];
+      if (seen.has(pkg)) continue;
+      const titleRe = new RegExp('\\[\\["' + pkg.replace(/[.]/g, '\\.') + '",7\\][\\s\\S]*?\\],"([^"]+)",\\["[0-9.]+",\\s*[0-9.]+', '');
+      const titleM = html.match(titleRe);
+      const iconRe = new RegExp('\\[\\["' + pkg.replace(/[.]/g, '\\.') + '",7\\],\\[null,2,(?:null|\\[[0-9]+,[0-9]+\\]),\\[null,null,"(https://play-lh\\.googleusercontent\\.com/[^"]+)"\\]', '');
+      const iconM = html.match(iconRe);
+      seen.add(pkg);
+      results.push({
+        package: pkg,
+        title: titleM ? titleM[1].replace(/\\u0026/g, '&').replace(/\\u0027/g, "'") : pkg,
+        icon: iconM ? upgradeIcon(iconM[1]) : '',
+      });
+    }
+  }
+  return { results };
+}
+
 async function appDownloadList({ packages }) {
   if (!Array.isArray(packages) || packages.length === 0) throw new Error('packages must be a non-empty array');
   bulkAbort = false;
@@ -717,6 +769,7 @@ const RPC = {
   'app.showDownload':   (p) => showDownload(p),
   'app.prepareInstall': (p) => appPrepareInstall(p),
   'app.releaseRules':   (p) => releaseRules(p),
+  'app.search':         (p) => appSearch(p),
 };
 
 chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {

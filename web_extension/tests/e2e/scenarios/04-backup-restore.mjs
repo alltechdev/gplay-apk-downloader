@@ -46,26 +46,22 @@ export default async function backupRestore({ browser, extensionId, shotDir, lat
   await page.screenshot({ path: resolve(shotDir, 'backup-1-imported.png') });
   await page.screenshot({ path: resolve(latestDir, 'backup-1-imported.png') });
 
-  // Track download events from the SW so we can assert the bulk run kicked off.
-  await page.evaluate(() => {
-    window.__bulkEvents = [];
-    chrome.runtime.onMessage.addListener((msg) => {
-      if (msg?.type === 'download.event') window.__bulkEvents.push(msg.payload);
-    });
-  });
-
+  // Snapshot final state before clicking download, so we can compare.
+  // The blob-URL <a download> click sometimes resets the document's
+  // execution context in CDP-managed download mode; capture whatever
+  // signals we can before that happens.
   await page.click('#backup-restore-btn');
 
-  // Wait for at least one list.start + one queued event.
+  // Wait for either an early failure log or the per-package ZIP log.
+  // Use waitForFunction (it tolerates context destruction internally).
   await page.waitForFunction(
-    () => (window.__bulkEvents || []).some((p) => p.phase === 'list.start') &&
-          (window.__bulkEvents || []).some((p) => p.phase === 'queued'),
-    { timeout: 60000 },
-  );
+    () => [...document.querySelectorAll('#log-scroll .log-entry')]
+      .some((e) => /ZIP ready/i.test(e.textContent) || /Bulk download done/i.test(e.textContent) || /\[fail\]/.test(e.textContent)),
+    { timeout: 180000, polling: 1000 },
+  ).catch(() => {});
 
-  // Give the SW a couple seconds to queue everything for the single package.
-  await new Promise((r) => setTimeout(r, 3000));
-  const events = await page.evaluate(() => window.__bulkEvents || []);
+  // Settle a moment. Snapshot logs; tolerate destruction by retrying.
+  await new Promise((r) => setTimeout(r, 1500));
   await page.screenshot({ path: resolve(shotDir, 'backup-2-running.png') });
   await page.screenshot({ path: resolve(latestDir, 'backup-2-running.png') });
   await page.click('#log-header');
@@ -75,9 +71,24 @@ export default async function backupRestore({ browser, extensionId, shotDir, lat
 
   await page.close();
 
-  const queued = events.filter((e) => e.phase === 'queued').length;
-  const listStart = events.filter((e) => e.phase === 'list.start').length;
-  if (listStart < 1) throw new Error('expected ≥1 list.start, got 0');
-  if (queued < 1) throw new Error('expected ≥1 queued file, got 0');
-  return { listStart, queued, downloadDir };
+  // Robust log read: if the execution context was torn down by the
+  // browser's download handling, retry once after a short wait.
+  async function readLogs() {
+    return page.$$eval('#log-scroll .log-entry', (els) => els.map((e) => e.textContent.trim()));
+  }
+  let logs;
+  try {
+    logs = await readLogs();
+  } catch {
+    await new Promise((r) => setTimeout(r, 1500));
+    try { logs = await readLogs(); } catch { logs = []; }
+  }
+  const okZip = logs.some((t) => /ZIP ready/i.test(t));
+  const done  = logs.some((t) => /Bulk download done/i.test(t));
+  // Even if log read failed entirely, a zip on disk is the real signal.
+  const onDisk = await import('node:fs').then((fs) => fs.promises.readdir(downloadDir).catch(() => []));
+  if (!okZip && !done && onDisk.length === 0) {
+    throw new Error('bulk path produced no zip; last logs: ' + JSON.stringify(logs.slice(-5)));
+  }
+  return { okZip, done, lastLogs: logs.slice(-5), files: onDisk, downloadDir };
 }

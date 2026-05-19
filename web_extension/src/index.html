@@ -65,13 +65,13 @@
         </label>
       </div>
       <div class="note">
-        Splits download to your downloads folder under <code>gplaydl/&lt;package&gt;-&lt;versionCode&gt;/</code>. Install with <code>adb install-multiple</code>, a split-aware installer, or connect a device above for one-click install.
+        Merged APKs are re-signed with a debug key. Apps without splits keep their original signature.
         <br><br>
         <details class="disclaimer">
           <summary>&#9888; Disclaimer</summary>
           <div class="disclaimer-body">
-            <p class="disclaimer-warn">DOWNLOADED APKS ARE THE ORIGINAL, UNMODIFIED, GOOGLE-SIGNED FILES. SIGNATURES ARE PRESERVED.</p>
-            <p class="disclaimer-tip">Apps that require server-side anti-tampering (banking, ride-share, WhatsApp, account-bound Google apps) are downloaded fine and install fine. The extension is in the legal posture of a tool author, not a service operator — APK bytes never touch a server. Use your own judgement and your own Google account at your own risk.</p>
+            <p class="disclaimer-warn">NOT RECOMMENDED FOR APPS FROM META, UBER, WHATSAPP, ANY GOOGLE APP REQUIRING AN ACCOUNT, OR ANY BANKING APP. RISK OF ACCOUNT BAN WITH CHANGED SIGNATURE.</p>
+            <br><p class="disclaimer-tip">For these apps, use <strong>Install to Device</strong> via USB or <strong>download as ZIP</strong> (uncheck merge) to preserve original signatures.<br><br>Use your own judgement to decide if an app is serious enough about security to warrant not merging. We do not take responsibility for any account bans or restrictions resulting from the use of re-signed APKs.</p>
           </div>
         </details>
       </div>
@@ -90,6 +90,21 @@
         </button>
       </div>
       <div id="info-result" class="results"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        Search
+      </div>
+      <input type="text" id="search-q" placeholder="Search the Play Store...">
+      <div class="btn-row">
+        <button class="btn-primary" id="search-btn">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          Search
+        </button>
+      </div>
+      <div id="search-results" class="results"></div>
     </div>
 
     <div class="log-panel" id="log-panel">
@@ -119,11 +134,8 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
         Backup &amp; Restore
       </div>
-      <div class="note">
-        Backup the installed-app list from a connected device, or import a previously saved JSON and re-download everything sequentially.
-      </div>
-      <div class="backup-actions">
-        <button class="btn-primary" id="backup-btn" disabled>
+      <div class="backup-actions" id="backup-actions">
+        <button class="btn-primary" id="backup-btn" style="display:none">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
           Backup App List
         </button>
