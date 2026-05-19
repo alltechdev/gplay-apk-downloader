@@ -2,6 +2,22 @@
 
 Running log of significant changes to the web_extension port. Append-only.
 
+## 2026-05-19 — legacy-parity pass
+
+- **APK signing now produces real `apksigner verify`-passing output.** Added end-to-end test that shells out to the apksigner binary and asserts v1 + v2 + v3 all verify. Fixed three v3 bugs caught by it:
+  1. Signed-data missing inner `minSdk`/`maxSdk` (mismatch error).
+  2. Digests sequence missing outer `lp32` wrap (v2 had the same silently-broken layout).
+  3. EOCD passed to chunked-SHA-256 had wrong CD-offset — per spec it must point at the APK Signing Block, not at the new CD location.
+- Every merged APK now gets v1+v2+v3 by default (matches legacy `apksigner sign` defaults). Previously was v2-only.
+- v1 `CERT.SF` only declares `X-Android-APK-Signed` for schemes actually applied — avoids "Signature stripped?" when signing v1-only.
+- Split `apk-signer.js` (326 LOC) into `apk-signer-utils.js` + `apk-signer-v1.js` + `apk-signer-v2v3.js` + slim 60-LOC orchestrator.
+- Split `direct-download-card.js` (257 LOC) into `info-card.js` + `download-handler.js` + `install-handler.js` + a thin wiring orchestrator.
+- Extracted `pMapLimit` (ordered, bounded-concurrency parallel map) to its own `ui/p-map-limit.js`; unit-tested for ordering, peak concurrency, error propagation, and edge cases.
+- **Split fetching now runs 4-way concurrent** — matching legacy `download_splits_parallel(splits, max_workers=4)`. Was serial.
+- **Info block renders legacy-parity format:** `Title \n v1.2.3 · ARM64 (modern) · 23 MB · includes <obb>` plus `<N> files: <split-list>` line. Non-`config.*` splits tagged `[asset pack]`.
+- **Umami analytics** added — POSTs to the same `stats.dietdroid.com` collector the legacy site uses, tagged `hostname:'extension'` so the dashboard can filter website vs extension traffic. Footer checkbox writes `analytics-opt-out` to `chrome.storage.local`; `trackPageview`/`trackEvent` short-circuit when opted out.
+- Test suite now: **64 unit / 2 integration / 6 e2e** — all green. Added `apk-signer-verify`, `info-card-helpers`, `download-handler-helpers`, expanded `apk-signer` to per-scheme coverage.
+
 ## 2026-05-19
 
 - Branch `feat/web-extension` cut from `main` @ `3ccde88`.
