@@ -1,0 +1,31 @@
+{
+  "name": "gplay-apk-downloader-extension",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Browser-extension port of gplay-apk-downloader. APK bytes never touch a server.",
+  "type": "module",
+  "scripts": {
+    "lint": "web-ext lint --source-dir=src --self-hosted",
+    "test": "node --test 'tests/unit/**/*.test.mjs'",
+    "test:net": "node --test 'tests/integration/**/*.test.mjs'",
+    "test:parity": "bash tests/parity/run.sh",
+    "test:e2e": "node tests/e2e/run.mjs",
+    "test:all": "npm run lint && npm test && npm run test:net && npm run test:e2e",
+    "serve": "node scripts/serve.mjs",
+    "dev": "node scripts/dev.mjs",
+    "build:adb": "esbuild src/modules/adb-entry.js --bundle --format=iife --target=es2020 --outfile=src/vendor/adb-bundle.js --minify --legal-comments=none",
+    "build:apk-tools": "esbuild src/modules/apk-tools-entry.js --bundle --format=iife --target=es2020 --outfile=src/vendor/apk-tools-bundle.js --minify --legal-comments=none",
+    "build:bundles": "npm run build:adb && npm run build:apk-tools",
+    "build": "npm run build:bundles && web-ext build --source-dir=src --artifacts-dir=dist --overwrite-dest"
+  },
+  "devDependencies": {
+    "@yume-chan/adb": "^2.6.0",
+    "@yume-chan/adb-credential-web": "^2.1.0",
+    "@yume-chan/adb-daemon-webusb": "^2.3.2",
+    "esbuild": "^0.28.0",
+    "fflate": "^0.8.3",
+    "jszip": "^3.10.1",
+    "puppeteer-core": "^23.0.0",
+    "web-ext": "^8.3.0"
+  }
+}

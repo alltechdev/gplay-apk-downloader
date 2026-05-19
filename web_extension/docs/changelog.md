@@ -1,0 +1,66 @@
+# Changelog
+
+Running log of significant changes to the web_extension port. Append-only.
+
+## 2026-05-19
+
+- Branch `feat/web-extension` cut from `main` @ `3ccde88`.
+- Surveyed the legacy CLI; produced `docs/port-spec.md` enumerating auth, device profile, Play API endpoints, download flow, post-processing, blacklist, and server architecture. Five open questions flagged `[UNVERIFIED]`.
+- Created `web_extension/` skeleton: `docs/`, `tests/{unit,integration,parity,e2e,fixtures,logs}/`, `scripts/`, `src/`.
+- Wrote `scripts/install.sh` (idempotent): probes tools, creates Python venv at `.venv`, installs Python deps, installs Node deps with `PUPPETEER_SKIP_DOWNLOAD=1` (we use the system chromium), sanity-launches chromium headless.
+- Confirmed environment supports the full five-stage test pipeline locally (Chromium 144 + puppeteer-core works). ADR-0001 records the decision.
+- First end-to-end pipeline run:
+  - lint: pending (needs manifest)
+  - unit: ✔
+  - net: ✔
+  - parity: stub
+  - e2e: ✔ — `Chrome/144.0.7559.109` reachable from `puppeteer-core`
+- Scaffolded MV3 extension at `src/`: manifest, service worker (`background.js`), popup HTML/CSS/JS, blacklist module (`modules/blacklist.js`), icons resized to 16/32/48/128 with Pillow.
+- Wrote `tests/unit/blacklist.test.mjs` (3 tests, all pass) using the `_setForTests` hook to avoid mocking `chrome.runtime.getURL`.
+- Wrote `tests/e2e/scenarios/01-blacklist-rpc.mjs` — opens the popup in real Chrome, types a blacklisted package, asserts the UI shows the block. PASS.
+- Pipeline run promoted to `docs/test-runs/2026-05-19-scaffold.md` with screenshots.
+- Confirmed: MV3 manifest loads, service worker registers, popup ↔ worker RPC works. Four browser-specific claims still `[UNVERIFIED]` (Play API CORS, AuroraOSS CORS, DNR Cookie injection, large blob downloads).
+- **Removed blacklist entirely** — extension runs client-side; the user is responsible for what they download. Deleted `src/blacklist.json`, `src/modules/blacklist.js`, blacklist unit test, blacklist e2e scenario.
+- **Removed search/catalog** — no Search card, no /apps anchor. Direct download by package name only (when that lands). Reduces DMCA surface to zero on the project side.
+- **Ported legacy site visual style** — replaced popup with full-page `index.html`. Copied `public/style.css` verbatim. JetBrains Mono + Plus Jakarta Sans loaded via Google Fonts (CSP relaxed: `style-src` adds `fonts.googleapis.com`, `font-src` adds `fonts.gstatic.com`).
+- **Enforced no-stubs policy.** Every "not yet implemented" handler and every UI element with no working backend has been deleted. The page is now: header, Activity Log, footer. Feature cards (ADB, Download, Backup) return when their modules ship.
+- **`chrome.action.onClicked` opens `index.html` in a new tab** (reuses an existing tab if already open). The popup approach is gone.
+- **Dev server**: `npm run serve` (static HTTP on src/) and `npm run dev` (system chromium with extension loaded; headed if $DISPLAY, headless+CDP otherwise). See `docs/dev-server.md`.
+- New screenshot pipeline: every `npm run test:e2e` writes to `screenshots/<timestamp>/` (history) AND `screenshots/latest/` (current); per-run forensic copy in `tests/logs/` (gitignored).
+- New e2e scenario `01-page-loads.mjs`: opens the extension page, asserts header/log/footer, asserts no stub buttons present, opens the log panel, takes 3 screenshots.
+- New test run record: `docs/test-runs/2026-05-19-style-port.md` with promoted screenshots.
+- **Bundled priority device profiles** (`src/profiles.json`, 14 profiles, 158KB) generated from the legacy CLI's `profiles/*.properties` via the venv'd Python. Priority order matches `device_profiles.PRIORITY_ARM64` + `PRIORITY_ARMV7`.
+- **Auth fully implemented**: `auth.signIn`, `auth.signOut`, `auth.status` RPCs in the service worker. Iterates priority profiles, POSTs to `https://auroraoss.com/api/auth`, stores result in `chrome.storage.local`. Sign-in broadcasts `auth.event` updates so the UI logs each attempt in real time.
+- **declarativeNetRequest rules** for forbidden-header rewriting: rule 1 sets the Aurora UA + strips `Origin` for `/api/auth` (otherwise Cloudflare returns 403). Rule 2 sets per-profile Android-Finsky UA + strips `Origin` for `/fdfe/*`. Rules 100+ inject `Cookie` headers per-download.
+- **First real-Chrome auth e2e**: `scenarios/02-auth-signin.mjs` types into the popup, asserts the auth card flips to signed-in with the Pixel 9a profile and real `gsfId` returned by AuroraOSS. PASS.
+- **Tiny protobuf decoder** at `src/modules/pb-decode.js` (~70 LOC, no deps). Wire types 0, 2, 1, 5. Unknown fields skipped. 6 unit tests covering string/int32/int64/bool/nested/repeated.
+- **Play API ported** inline into `background.js`: `app.details`, `app.delivery`, `app.download` RPCs. Schemas (`ResponseWrapper`, `Payload`, `DetailsResponse`, `DocV2`, `AppDetails`, `DeliveryResponse`, `AndroidAppDeliveryData`, `HttpCookie`, `SplitDeliveryData`) hand-written from gpapi's compiled descriptor + cross-checked against Aurora Store's proto. Field numbers documented in `docs/play-api.md`.
+- **Download flow**: `app.download` calls purchase → delivery → schedules `chrome.downloads.download()` for the base APK plus each split, each behind a per-URL DNR rule that injects the `downloadAuthCookie` payload from the delivery response. Files land under `gplaydl/<pkg>-<vc>/`.
+- **Architecture doc** at `docs/architecture.md`. Single-file SW decision recorded (Chrome 144 MV3 module-SW issues). Security posture documented (permissions, host permissions, package-name validation, narrow DNR scopes, token never leaves extension).
+- **No-blacklist policy doubled down**: legacy `/apps` catalog and search card were already removed; auth flow exposes no third-party listings; the only user input is a package name they type.
+- **End-to-end real-world test pass** (`docs/test-runs/2026-05-19-full-flow.md`): real Chromium 144 → real AuroraOSS sign-in → real Play details + delivery for `com.duckduckgo.mobile.android` v5.279.1 → 3 of 4 split APKs (~21 MB) downloaded to disk via `chrome.downloads` with DNR-injected `Cookie` headers. Base APK request fired successfully but didn't complete within the 90 s test budget (113 MB over Termux Wi-Fi).
+- **All four e2e scenarios green**: `smoke.page`, `01-page-loads`, `02-auth-signin`, `03-info-and-download`.
+- **e2e target discovery fix**: puppeteer's `browser.targets()` is event-cached and missed the service-worker target. Switched `tests/e2e/run.mjs` to query CDP directly (`Target.getTargets`) for reliable SW discovery.
+- **Architecture selector** in Direct Download (ARM64 / ARMv7). New `arch.set` RPC persists choice in `chrome.storage.local`; `auth.signIn` accepts an `arch` arg and filters profiles before iterating.
+- **WebUSB ADB integration**: `@yume-chan/adb` + `@yume-chan/adb-daemon-webusb` + `@yume-chan/adb-credential-web` installed via npm; bundled via `esbuild` into `src/vendor/adb-bundle.js` (~65 KB, committed). New "Install to Device" card with Connect/Disconnect buttons. `window.gplaydlAdb` exposed for the page.
+- **Backup & Restore card** (legacy parity):
+  - Backup App List uses the connected device's `pm list packages -3` and downloads a JSON file.
+  - Import List reads a JSON, renders a checkbox UI, and triggers `app.downloadList` for selected packages — sequential downloads share the same `app.download` path so wire behaviour is identical.
+- **DNR rule cleanup**: `chrome.downloads.onChanged` listener removes the per-download cookie rule when the download completes or is interrupted. Dynamic-rule ids cycle through `100–9999` (reuse-aware).
+- **Download lifecycle broadcasts**: SW now emits `download.event` for `purchase`, `delivery`, `start`, `queued`, `complete`, `interrupted`, plus `list.start`, `list.itemDone`, `list.itemFail`, `list.done` for the bulk path. Page log surfaces them all.
+- **New e2e scenario `04-backup-restore.mjs`**: writes a one-package JSON to a temp dir, drives `<input type="file">` via puppeteer's `uploadFile`, clicks the rendered "Download all selected" button, asserts ≥ 1 `list.start` and ≥ 1 `queued` event. Pipeline now 5/5 e2e.
+- **`01-page-loads.mjs`** asserts the ADB card, backup card, and that `window.gplaydlAdb` is non-null (catches a missing or broken bundle immediately).
+- **Auto-retry on Play 401**: `fdfeRequest` re-signs in on a first 401 and retries the request once. Emits `auth.event { phase: 'refresh' }` so the UI shows the rotation.
+- **Direct ADB install path**: when a WebUSB ADB device is connected, the Download button no longer routes through `chrome.downloads`. Instead the page fetches each APK URL directly from the CDN (cookies attached automatically by the SW-installed DNR rule) and pipes the blobs into `gplaydlAdb.installSplit`. New SW RPCs `app.prepareInstall` and `app.releaseRules` manage the cookie rule lifecycle for the page-side fetch.
+- **Bulk cancel**: SW `app.abortBulk` flips a flag that the `appDownloadList` loop checks between packages. UI grows a "Cancel" button next to "Download all selected" while bulk runs.
+- **Build scripts**: `npm run build:adb` rebuilds the bundled WebUSB ADB blob from `src/modules/adb-entry.js` via esbuild. `npm run build` now runs `build:bundles` then `web-ext build`, so the shipped artifact always reflects the latest sources.
+- **chrome.downloads.onChanged progress broadcasts**: SW now broadcasts `download.event { phase: 'progress', id, bytes }` on each in-flight `bytesReceived` change.
+- **In-place download progress entries** in the Activity Log: per-download id, the page mutates the same log entry on each progress tick (throttled to ~1.3 Hz). The entry is removed when the download finishes and replaced by a regular `complete` / `interrupted` line. No log flooding, no extra DOM cost.
+- **Per-download cancel** link on every in-flight progress entry. Calls `app.cancelDownload` → `chrome.downloads.cancel(id)` + DNR rule cleanup.
+- **"show" link** on every completed download entry. Calls `app.showDownload` → `chrome.downloads.show(id)` (opens the file in the OS file browser).
+- **Select all / None** links in the imported backup list (legacy parity).
+- **Disclaimer** inside the Direct Download card (legacy parity, updated wording: APKs are Google-signed and unmodified; the extension is a tool author, not a service operator).
+- **UX polish**: package-name input is auto-focused on page load; Activity Log panel auto-opens when a Direct Download starts.
+- **Download→rule map persisted in `chrome.storage.session`** so SW restarts mid-download don't orphan DNR rules.
+- **Top-level `web_extension/README.md`** with install + usage + layout.
+- **Installed-version display on Info**: when a WebUSB ADB device is connected, the Info card runs `dumpsys package <pkg>` on the device and shows the installed `versionName` / `versionCode` next to the Play version, plus an "update available" / "up to date" / "device has newer" tag.
