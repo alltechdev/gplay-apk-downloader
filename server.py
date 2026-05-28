@@ -87,7 +87,9 @@ except (ImportError, TypeError) as e:
     HAS_GPAPI = False
     print(f"Warning: gpapi not available ({e}). Using fallback parser.")
 
-DISPENSER_URL = 'https://auroraoss.com/api/auth'
+DISPENSER_URL = os.environ.get('DISPENSER_URL', '').strip()
+if not DISPENSER_URL:
+    print("WARNING: DISPENSER_URL is not set. Downloads will fail until you configure a self-hosted dispenser. Do not use auroraoss.com (see issue #22).")
 FDFE_URL = 'https://android.clients.google.com/fdfe'
 PURCHASE_URL = f'{FDFE_URL}/purchase'
 DELIVERY_URL = f'{FDFE_URL}/delivery'

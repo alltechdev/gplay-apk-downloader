@@ -40,10 +40,9 @@ except ImportError:
     print("Error: requests library not found. Install with: pip install requests")
     sys.exit(1)
 
-# Default dispenser URLs for anonymous authentication
-DISPENSER_URLS = [
-    "https://auroraoss.com/api/auth",
-]
+# Dispenser URLs for anonymous authentication. No default — supply your own via
+# --dispenser <url> or the DISPENSER_URL env var. Do NOT use auroraoss.com (see issue #22).
+DISPENSER_URLS = [u for u in [os.environ.get("DISPENSER_URL", "").strip()] if u]
 
 # Google Play API endpoints
 FDFE_URL = "https://android.clients.google.com/fdfe"
@@ -159,7 +158,11 @@ def format_size(size_bytes):
 
 def get_dispenser_auth(dispenser_url=None):
     """Get anonymous authentication from dispenser with profile fallback."""
-    url = dispenser_url or DISPENSER_URLS[0]
+    url = dispenser_url or (DISPENSER_URLS[0] if DISPENSER_URLS else None)
+    if not url:
+        print("Error: no dispenser URL configured. Pass --dispenser <url> or set DISPENSER_URL.")
+        print("See https://github.com/alltechdev/gplay-apk-downloader/issues/22 — do not use auroraoss.com.")
+        sys.exit(1)
     print(f"Authenticating via dispenser: {url}")
 
     # Use cloudscraper to bypass Cloudflare protection

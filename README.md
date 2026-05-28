@@ -1,3 +1,7 @@
+# Notice
+
+No default dispenser ships with this project. You must supply your own via `--dispenser <url>` or the `DISPENSER_URL` env var. A replacement dispenser is in the works; in the meantime, please **do not** point this at `auroraoss.com` (it's [reserved for direct Aurora Store users](https://github.com/alltechdev/gplay-apk-downloader/issues/22)).
+
 # Announcement
 
 If you are wondering where https://apkdl.dietdroid.com went, click on the link for a brief explanation.

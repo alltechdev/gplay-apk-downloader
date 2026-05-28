@@ -8,7 +8,10 @@ import time
 import cloudscraper
 import requests
 
-DISPENSER_URL = "https://auroraoss.com/api/auth"
+DISPENSER_URL = os.environ.get("DISPENSER_URL", "").strip()
+if not DISPENSER_URL:
+    print("Error: set DISPENSER_URL env var to a self-hosted dispenser. Do not use auroraoss.com.")
+    sys.exit(1)
 DETAILS_URL = "https://android.clients.google.com/fdfe/details"
 TEST_APPS = [
     "com.chase.sig.android",  # Chase - often restricted
