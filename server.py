@@ -88,8 +88,34 @@ except (ImportError, TypeError) as e:
     print(f"Warning: gpapi not available ({e}). Using fallback parser.")
 
 DISPENSER_URL = os.environ.get('DISPENSER_URL', '').strip()
+
+NO_DISPENSER_MSG = (
+    "No token dispenser configured. Set DISPENSER_URL to your self-hosted "
+    "Aurora-compatible dispenser (e.g. https://dispenser.example.com/api/auth) "
+    "and restart the server. Do not use auroraoss.com (see issue #22)."
+)
+BAD_DISPENSER_MSG = (
+    f"DISPENSER_URL is not a valid URL ({DISPENSER_URL!r}). It must include a "
+    "scheme, e.g. https://dispenser.example.com/api/auth."
+)
+
+
+def dispenser_config_error():
+    """Return a user-facing message if DISPENSER_URL is unusable, else None.
+
+    Without this check an empty/scheme-less URL raises MissingSchema inside the
+    token-rotation loops, where it looks like a transient per-token failure and
+    gets retried across every profile until the SSE timeout.
+    """
+    if not DISPENSER_URL:
+        return NO_DISPENSER_MSG
+    if not DISPENSER_URL.startswith(('http://', 'https://')):
+        return BAD_DISPENSER_MSG
+    return None
+
+
 if not DISPENSER_URL:
-    print("WARNING: DISPENSER_URL is not set. Downloads will fail until you configure a self-hosted dispenser. Do not use auroraoss.com (see issue #22).")
+    print(f"WARNING: {NO_DISPENSER_MSG}")
 FDFE_URL = 'https://android.clients.google.com/fdfe'
 PURCHASE_URL = f'{FDFE_URL}/purchase'
 DELIVERY_URL = f'{FDFE_URL}/delivery'
@@ -886,6 +912,13 @@ def auth_stream():
             yield f"data: {json.dumps({'type': 'success', 'authenticated': True, 'cached': True, 'attempt': 0})}\n\n"
             return
 
+        # Fresh tokens require the dispenser - fail fast instead of retrying a bad URL
+        cfg_err = dispenser_config_error()
+        if cfg_err:
+            logger.error(cfg_err)
+            yield f"data: {json.dumps({'type': 'error', 'message': cfg_err})}\n\n"
+            return
+
         attempt = 0
         # Get priority-ordered profiles for rotation
         profiles = get_priority_device_configs('arm64-v8a')
@@ -1270,6 +1303,13 @@ def download_info_stream(pkg):
             except Exception as e:
                 logger.warning(f"Cached token error for {pkg}: {e}")
                 yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token error, trying new tokens...'})}\n\n"
+
+        # Fresh tokens require the dispenser - fail fast instead of retrying a bad URL
+        cfg_err = dispenser_config_error()
+        if cfg_err:
+            logger.error(cfg_err)
+            yield f"data: {json.dumps({'type': 'error', 'message': cfg_err})}\n\n"
+            return
 
         while True:
             # Check timeout
@@ -1859,6 +1899,13 @@ def download_merged_stream(pkg):
                     pass
 
             if not auth_data:
+                # Fresh tokens require the dispenser - fail fast instead of retrying a bad URL
+                cfg_err = dispenser_config_error()
+                if cfg_err:
+                    logger.error(cfg_err)
+                    yield f"data: {json.dumps({'type': 'error', 'message': cfg_err})}\n\n"
+                    return
+
                 scraper = get_scraper()  # Reuse scraper across attempts
                 max_attempts = profile_count * MAX_PROFILE_CYCLES
                 for attempt in range(max_attempts):
@@ -2054,6 +2101,12 @@ def download_merged(pkg):
 
     # If cached didn't work, try new tokens with profile rotation
     if not auth_data:
+        # Fresh tokens require the dispenser - fail fast instead of retrying a bad URL
+        cfg_err = dispenser_config_error()
+        if cfg_err:
+            logger.error(cfg_err)
+            return jsonify({'error': cfg_err}), 503
+
         profiles = get_priority_device_configs(arch)
         profile_count = len(profiles)
         max_attempts = profile_count * MAX_PROFILE_CYCLES
