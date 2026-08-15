@@ -2,6 +2,9 @@
 
 No default dispenser ships with this project. You must supply your own via `--dispenser <url>` or the `DISPENSER_URL` env var. Please **do not** point this at `auroraoss.com` (it's [reserved for direct Aurora Store users](https://github.com/alltechdev/gplay-apk-downloader/issues/22)).
 
+To download APKs **without** a dispenser, see [Downloader Codes (`dlcode`)](#downloader-codes-dlcode)
+— that path needs no Google auth at all.
+
 # Announcement
 
 If you are wondering where https://apkdl.dietdroid.com went, click on the link for a brief explanation.
@@ -23,6 +26,7 @@ Download APKs from Google Play Store. Can merge split APKs (App Bundles) into si
 - ADB install from CLI — download and install directly to device via `adb`
 - Backup & restore — export installed app list from device, batch restore later
 - CLI tool with JSON output for scripting and automation
+- `dlcode` — download APKs by AFTVnews [Downloader code](#downloader-codes-dlcode) (`aftv.news/141733`); needs no auth or dispenser
 - Apps without splits preserve original signature
 - Merged APKs are signed with debug keystore
 - Auto-generated SEO app pages — each downloaded app gets its own detail page with description and icon, plus a browsable catalog at `/apps`. Disable with `DISABLE_APP_PAGES=1`
@@ -352,6 +356,89 @@ The web UI also supports backup and restore when an ADB device is connected:
 2. **Export**: Save the list as a JSON file for later use
 3. **Import**: Load a previously exported backup JSON
 4. **Restore**: Install selected apps back to the device, or download them if no device is connected
+
+---
+
+## Downloader Codes (`dlcode`)
+
+`dlcode` downloads APKs by **AFTVnews Downloader code** — the short numeric codes you type into
+the [Downloader](https://www.aftvnews.com/downloader/) app on Fire TV / Android TV, shared as
+`aftv.news/141733` or just "code 141733".
+
+This is a completely separate path from the rest of this project: Downloader codes are plain
+URL-shortener entries pointing at publicly hosted files, so **`dlcode` needs no Google auth and no
+dispenser**. If `DISPENSER_URL` isn't configured, `dlcode` still works.
+
+### Usage
+
+```bash
+# Resolve a code and download the APK
+./dlcode 141733
+
+# Save somewhere specific
+./dlcode 7947185 -o ~/Downloads
+
+# Just print the destination URL, don't download
+./dlcode resolve 141733
+
+# JSON output for scripting
+./dlcode 7947185 --json
+
+# Keep the file even if it fails APK validation
+./dlcode 141733 --force
+```
+
+Codes may be passed bare (`141733`), or as a pasted URL (`aftv.news/141733`) — both work.
+
+### Options
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `-o`, `--output` | `.` | Output directory |
+| `--json` | off | Emit result as JSON |
+| `--force` | off | Keep the download even if it isn't a valid APK |
+
+### How it works
+
+`aftv.news/<code>` returns an HTML page that sets its destination with a JS assignment
+(`window.location = "..."`). `dlcode` extracts that URL, normalizes it, streams the file down, and
+validates it.
+
+Three things it handles that a plain `curl` won't:
+
+- **Share pages.** Many codes point at Dropbox or Google Drive *share* links, which serve an HTML
+  preview instead of the file. Dropbox `dl=0` is rewritten to `dl=1`, and Drive `/file/d/<id>/view`
+  to `uc?export=download&id=<id>`.
+- **Unregistered codes.** These don't 404 — the shortener silently falls through to a Google search
+  page. `dlcode` detects this and reports the code as unregistered.
+- **Validation.** Every download is checked for zip magic bytes plus an `AndroidManifest.xml`, and
+  discarded unless `--force` is passed. This is what catches an expired link that returned an error
+  page named `.apk`.
+
+Exit status is `0` on success, `1` on any failure, so it composes in scripts:
+
+```bash
+# Download a batch of codes
+for code in 141733 7947185; do ./dlcode "$code" -o ~/apks || echo "failed: $code"; done
+
+# Resolve without downloading
+./dlcode resolve 7947185 --json | jq -r .url
+```
+
+### Inspecting what you got
+
+Downloader-code APKs are unsigned-by-Play, unreviewed builds. Worth checking what a file actually is
+before installing:
+
+```bash
+java -jar APKEditor.jar info -i ~/Downloads/iboxplayer.apk
+# package="com.eedvistore.iboexplayer"
+# AppName="Ibo XPlayer"
+# VersionName="8828.0"
+```
+
+Sideloaded APKs from this path get flagged by Play Protect and carry no store review — check the
+permissions they request on first launch.
 
 ---
 
