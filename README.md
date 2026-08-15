@@ -2,6 +2,18 @@
 
 No default dispenser ships with this project. You must supply your own via `--dispenser <url>` or the `DISPENSER_URL` env var. Please **do not** point this at `auroraoss.com` (it's [reserved for direct Aurora Store users](https://github.com/alltechdev/gplay-apk-downloader/issues/22)).
 
+**Every download fails without it**, and the server now says so explicitly instead of cycling
+through device profiles until the request times out:
+
+```
+No token dispenser configured. Set DISPENSER_URL to your self-hosted
+Aurora-compatible dispenser and restart the server.
+```
+
+```bash
+DISPENSER_URL="https://your-dispenser.example.com/api/auth" ./start-server.sh
+```
+
 # Announcement
 
 If you are wondering where https://apkdl.dietdroid.com went, click on the link for a brief explanation.
