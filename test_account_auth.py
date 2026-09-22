@@ -327,8 +327,61 @@ def test_webui_browser_mode():
         account_auth.find_browser = real_find
 
 
+def test_dispenser_per_arch(base):
+    print('\n[6] Dispenser auth: one token per architecture (issue #29)')
+    import socket, subprocess as sp, re, threading as th
+    from http.server import BaseHTTPRequestHandler, HTTPServer
+
+    class MockDispenser(BaseHTTPRequestHandler):
+        """Returns AuthData whose device UA mirrors the posted profile's arch."""
+        def log_message(self, *a):
+            pass
+        def do_POST(self):
+            length = int(self.headers.get('Content-Length', 0))
+            profile = json.loads(self.rfile.read(length))
+            abis = profile.get('Platforms', '').replace(',', ';')
+            body = json.dumps({
+                'email': 'pool@example.com',
+                'authToken': MOCK_PLAY,
+                'gsfId': '1122334455667788',
+                'dfeCookie': '',
+                'deviceInfoProvider': {
+                    'userAgentString': f'Android-Finsky/x (api=3,supportedAbis={abis})',
+                    'mccMnc': '310260',
+                },
+            }).encode()
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/json')
+            self.send_header('Content-Length', str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+
+    disp = HTTPServer(('127.0.0.1', 0), MockDispenser)
+    th.Thread(target=disp.serve_forever, daemon=True).start()
+    try:
+        with tempfile.TemporaryDirectory() as home:
+            cli_env = dict(os.environ, HOME=home)
+            proc = sp.run([PYTHON, str(REPO / 'gplay-downloader.py'), 'auth',
+                           '-d', f'http://127.0.0.1:{disp.server_port}'],
+                          capture_output=True, text=True, env=cli_env, cwd=REPO, timeout=120)
+            check('dispenser auth exits 0', proc.returncode == 0, proc.stdout[-300:] + proc.stderr[-200:])
+            arm64 = Path(home) / '.gplay-auth.json'
+            armv7 = Path(home) / '.gplay-auth-armv7.json'
+            check('dispenser auth wrote both arch files', arm64.exists() and armv7.exists())
+            if arm64.exists() and armv7.exists():
+                ua64 = json.loads(arm64.read_text())['deviceInfoProvider']['userAgentString']
+                ua7 = json.loads(armv7.read_text())['deviceInfoProvider']['userAgentString']
+                abis64 = re.search(r'supportedAbis=([^)]*)', ua64).group(1)
+                abis7 = re.search(r'supportedAbis=([^)]*)', ua7).group(1)
+                check('ARM64 token requested with an arm64 profile', 'arm64-v8a' in abis64, abis64)
+                check('ARMv7 token requested with an armv7-only profile',
+                      'armeabi-v7a' in abis7 and 'arm64' not in abis7, abis7)
+    finally:
+        disp.shutdown()
+
+
 def test_live_negative():
-    print('\n[6] LIVE negative test against real android.clients.google.com')
+    print('\n[7] LIVE negative test against real android.clients.google.com')
     if os.environ.get('GPLAY_SKIP_LIVE'):
         print('  skipped (GPLAY_SKIP_LIVE set)')
         return
@@ -364,6 +417,7 @@ def main():
         test_webui(base)
         test_browser_capture(base)
         test_webui_browser_mode()
+        test_dispenser_per_arch(base)
         test_live_negative()
     finally:
         server.shutdown()

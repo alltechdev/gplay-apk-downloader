@@ -189,7 +189,7 @@ Or with a token you obtained manually (see [Google Account Login](#google-accoun
 ./gplay auth-account --email you@gmail.com --aas-token 'aas_et/...'       # long-lived token from a previous login
 ```
 
-Or with an anonymous dispenser token:
+Or with an anonymous dispenser token (fetches one token per architecture, so `-a armv7` downloads get real ARMv7 splits — see [#29](https://github.com/alltechdev/gplay-apk-downloader/issues/29)):
 
 ```bash
 ./gplay auth -d https://custom-dispenser.example.com
