@@ -327,8 +327,50 @@ def test_webui_browser_mode():
         account_auth.find_browser = real_find
 
 
+def test_local_dispenser(base):
+    print('\n[6] Local dispenser: per-arch tokens via ./gplay-downloader.py auth (issue #29)')
+    import socket, subprocess as sp, time, re
+    s = socket.socket(); s.bind(('127.0.0.1', 0)); port = s.getsockname()[1]; s.close()
+
+    env = dict(os.environ, GPLAY_ACCOUNT_AUTH_BASE=base,
+               GPLAY_DISPENSER_EMAIL='burner@example.com',
+               GPLAY_DISPENSER_AAS_TOKEN=MOCK_AAS)
+    disp = sp.Popen([PYTHON, str(REPO / 'local_dispenser.py'), str(port)],
+                    env=env, cwd=REPO, stdout=sp.PIPE, stderr=sp.STDOUT, text=True)
+    try:
+        import requests as rq
+        for _ in range(50):
+            try:
+                rq.get(f'http://127.0.0.1:{port}/', timeout=1); break
+            except Exception:
+                time.sleep(0.2)
+
+        with tempfile.TemporaryDirectory() as home:
+            cli_env = dict(os.environ, HOME=home, GPLAY_ACCOUNT_AUTH_BASE=base)
+            proc = sp.run([PYTHON, str(REPO / 'gplay-downloader.py'), 'auth',
+                           '-d', f'http://127.0.0.1:{port}'],
+                          capture_output=True, text=True, env=cli_env, cwd=REPO, timeout=120)
+            check('dispenser auth exits 0', proc.returncode == 0, proc.stdout[-300:] + proc.stderr[-200:])
+            arm64 = Path(home) / '.gplay-auth.json'
+            armv7 = Path(home) / '.gplay-auth-armv7.json'
+            check('dispenser auth wrote both arch files', arm64.exists() and armv7.exists())
+            if arm64.exists() and armv7.exists():
+                a64 = json.loads(arm64.read_text()); a7 = json.loads(armv7.read_text())
+                ua64 = a64['deviceInfoProvider']['userAgentString']
+                ua7 = a7['deviceInfoProvider']['userAgentString']
+                abis64 = re.search(r'supportedAbis=([^)]*)', ua64).group(1)
+                abis7 = re.search(r'supportedAbis=([^)]*)', ua7).group(1)
+                check('ARM64 token registered an arm64 device', 'arm64-v8a' in abis64, abis64)
+                check('ARMv7 token registered an armv7-only device',
+                      'armeabi-v7a' in abis7 and 'arm64' not in abis7, abis7)
+                check('dispensed tokens do not leak the AAS token',
+                      'aasToken' not in a64 and 'aasToken' not in a7)
+    finally:
+        disp.terminate()
+
+
 def test_live_negative():
-    print('\n[6] LIVE negative test against real android.clients.google.com')
+    print('\n[7] LIVE negative test against real android.clients.google.com')
     if os.environ.get('GPLAY_SKIP_LIVE'):
         print('  skipped (GPLAY_SKIP_LIVE set)')
         return
@@ -364,6 +406,7 @@ def main():
         test_webui(base)
         test_browser_capture(base)
         test_webui_browser_mode()
+        test_local_dispenser(base)
         test_live_negative()
     finally:
         server.shutdown()

@@ -3,7 +3,7 @@
 No default dispenser ships with this project. You have two options for authentication:
 
 1. **Google account login (recommended for self-hosting)** — sign in with your own (preferably throwaway) Google account. No dispenser needed. See [Google Account Login](#google-account-login).
-2. **Token dispenser** — supply your own via `--dispenser <url>` or the `DISPENSER_URL` env var. Please **do not** point this at `auroraoss.com` (it's [reserved for direct Aurora Store users](https://github.com/alltechdev/gplay-apk-downloader/issues/22)).
+2. **Token dispenser** — supply your own via `--dispenser <url>` or the `DISPENSER_URL` env var. Please **do not** point this at `auroraoss.com` (it's [reserved for direct Aurora Store users](https://github.com/alltechdev/gplay-apk-downloader/issues/22)). This repo ships `local_dispenser.py`, a small dispenser you can self-host, backed by your own burner account (sign in once with `auth-account`, then `python3 local_dispenser.py`).
 
 # Announcement
 
@@ -189,10 +189,11 @@ Or with a token you obtained manually (see [Google Account Login](#google-accoun
 ./gplay auth-account --email you@gmail.com --aas-token 'aas_et/...'       # long-lived token from a previous login
 ```
 
-Or with an anonymous dispenser token:
+Or with an anonymous dispenser token (fetches one token per architecture, so `-a armv7` downloads get real ARMv7 splits — see [#29](https://github.com/alltechdev/gplay-apk-downloader/issues/29)):
 
 ```bash
 ./gplay auth -d https://custom-dispenser.example.com
+./gplay auth -d http://127.0.0.1:8765   # self-hosted local_dispenser.py
 ```
 
 Tokens are saved to `~/.gplay-auth.json` (ARM64) and `~/.gplay-auth-armv7.json` (ARMv7), shared between CLI and web server.

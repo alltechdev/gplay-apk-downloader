@@ -159,14 +159,19 @@ def format_size(size_bytes):
     return f"{size_bytes:.2f} TB"
 
 
-def get_dispenser_auth(dispenser_url=None):
-    """Get anonymous authentication from dispenser with profile fallback."""
+def get_dispenser_auth(dispenser_url=None, arch=None):
+    """Get anonymous authentication from dispenser with profile fallback.
+
+    arch: 'arm64' or 'armv7' restricts the device profiles tried, so the
+    returned token is registered for that architecture (Play delivers
+    splits for the profile the token was minted with - see issue #29).
+    """
     url = dispenser_url or (DISPENSER_URLS[0] if DISPENSER_URLS else None)
     if not url:
         print("Error: no dispenser URL configured. Pass --dispenser <url> or set DISPENSER_URL.")
         print("See https://github.com/alltechdev/gplay-apk-downloader/issues/22 — do not use auroraoss.com.")
         sys.exit(1)
-    print(f"Authenticating via dispenser: {url}")
+    print(f"Authenticating via dispenser: {url}" + (f" ({arch})" if arch else ""))
 
     # Use cloudscraper to bypass Cloudflare protection
     scraper = cloudscraper.create_scraper()
@@ -177,9 +182,12 @@ def get_dispenser_auth(dispenser_url=None):
     }
 
     # Try priority-ordered profiles (most reliable first)
-    priority_arm64 = get_priority_profiles('arm64')
-    priority_armv7 = get_priority_profiles('armv7')
-    all_profiles = priority_arm64 + priority_armv7
+    if arch == 'arm64':
+        all_profiles = get_priority_profiles('arm64')
+    elif arch == 'armv7':
+        all_profiles = get_priority_profiles('armv7')
+    else:
+        all_profiles = get_priority_profiles('arm64') + get_priority_profiles('armv7')
 
     for profile_name, profile in all_profiles:
         try:
@@ -279,17 +287,25 @@ def api_request(auth, url, params=None, method='GET'):
 
 
 def cmd_auth(args):
-    """Authenticate with Google Play."""
-    auth_data = get_dispenser_auth(args.dispenser)
-
+    """Authenticate with Google Play via a dispenser (one token per architecture)."""
+    auth_data = get_dispenser_auth(args.dispenser, arch='arm64')
     if not auth_data:
         print("Authentication failed!")
         return 1
 
     email = auth_data.get('email', 'unknown')
-    print(f"Got auth token for: {email}")
-
+    print(f"Got ARM64 auth token for: {email}")
     save_auth(auth_data)
+
+    # Second token minted with an ARMv7 profile, so -a armv7 downloads get
+    # armeabi-v7a splits instead of arm64 ones (issue #29)
+    auth_v7 = get_dispenser_auth(args.dispenser, arch='armv7')
+    if auth_v7:
+        AUTH_FILE_ARMV7.write_text(json.dumps(auth_v7, indent=2))
+        print(f"ARMv7 auth saved to: {AUTH_FILE_ARMV7}")
+    else:
+        print("Warning: could not get an ARMv7 token - armv7 downloads may receive arm64 splits")
+
     print("Authentication successful!")
     return 0
 
