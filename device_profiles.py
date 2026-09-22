@@ -210,3 +210,16 @@ def list_profiles():
 
 if __name__ == '__main__':
     list_profiles()
+
+
+# Newest ARMv7 profile (highest Android version). Personal-account logins
+# register this device so modern apps (which often require recent Android)
+# still resolve for 32-bit downloads.
+def _newest_profile(profile_list, fallback):
+    try:
+        return max(profile_list,
+                   key=lambda kp: int(kp[1].get('Build.VERSION.SDK_INT', 0)))[1]
+    except (ValueError, TypeError):
+        return fallback
+
+NEWEST_ARMV7_PROFILE = _newest_profile(ARMV7_PROFILES, DEFAULT_ARMV7_PROFILE)

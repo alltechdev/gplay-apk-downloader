@@ -875,3 +875,90 @@
       if (statusEl) statusEl.textContent = current + '/' + total;
       if (barEl) barEl.style.width = pct + '%';
     }
+
+    // --- Google account (burner) login ---
+    async function refreshGoogleStatus() {
+      try {
+        const d = await fetch('/api/auth/status').then(r => r.json());
+        const resultEl = $('#google-login-result');
+        const signoutBtn = $('#google-signout-btn');
+        if (d.accountType === 'personal' && d.email) {
+          resultEl.innerHTML = 'Signed in as <b>' + esc(d.email) + '</b>.';
+          $('#google-browser-btn').style.display = 'none';
+          signoutBtn.style.display = '';
+        } else {
+          $('#google-browser-btn').style.display = '';
+          signoutBtn.style.display = 'none';
+        }
+      } catch (e) { /* status is cosmetic */ }
+    }
+    document.addEventListener('DOMContentLoaded', refreshGoogleStatus);
+
+    async function googleSignOut() {
+      const resultEl = $('#google-login-result');
+      try {
+        await fetch('/api/auth/google/logout', { method: 'POST' });
+        log('Signed out of Google account', 'ok');
+        resultEl.textContent = 'Signed out.';
+      } catch (e) {
+        log('Sign-out failed: ' + e.message, 'err');
+      }
+      refreshGoogleStatus();
+    }
+
+    async function googleLogin() {
+      const resultEl = $('#google-login-result');
+      const btn = $('#google-browser-btn');
+
+      btn.disabled = true;
+      $('#log-panel').classList.add('open');
+      setLogActive(true);
+      log('Google sign-in started - a browser window will open on the server machine');
+      resultEl.textContent = 'A browser window is opening - sign in there...';
+
+      try {
+        const resp = await fetch('/api/auth/google', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ browser: true })
+        });
+        if (resp.status === 400) {
+          const err = await resp.json();
+          throw new Error(err.error || 'Bad request');
+        }
+        if (!resp.ok || !resp.body) throw new Error('HTTP ' + resp.status);
+
+        const reader = resp.body.getReader();
+        const decoder = new TextDecoder();
+        let buf = '';
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          buf += decoder.decode(value, { stream: true });
+          let idx;
+          while ((idx = buf.indexOf('\n\n')) >= 0) {
+            const chunk = buf.slice(0, idx);
+            buf = buf.slice(idx + 2);
+            const line = chunk.split('\n').find(l => l.indexOf('data: ') === 0);
+            if (!line) continue;
+            const d = JSON.parse(line.slice(6));
+            if (d.type === 'progress') {
+              log(d.message);
+            } else if (d.type === 'success') {
+              log('Signed in as ' + d.email + (d.validated ? ' (token validated against Play API)' : ' (token saved but validation failed - may be limited)'), d.validated ? 'ok' : 'warn');
+              resultEl.innerHTML = 'Signed in as <b>' + esc(d.email) + '</b>. Downloads now use this account.';
+              refreshGoogleStatus();
+            } else if (d.type === 'error') {
+              log('Google sign-in failed: ' + d.message, 'err');
+              resultEl.textContent = 'Failed: ' + d.message;
+            }
+          }
+        }
+      } catch (e) {
+        log('Google sign-in error: ' + e.message, 'err');
+        resultEl.textContent = 'Error: ' + e.message;
+      } finally {
+        btn.disabled = false;
+        setLogActive(false);
+      }
+    }
