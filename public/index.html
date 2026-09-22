@@ -23,7 +23,7 @@
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" integrity="sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG" crossorigin="anonymous"></script>
   <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
   <link rel="icon" type="image/png" href="/favicon-192.png" sizes="192x192">
-  <link rel="stylesheet" href="/style.css?v=2">
+  <link rel="stylesheet" href="/style.css?v=4">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -52,6 +52,25 @@
       <p>Download APKs directly from Google Play Store</p>
       <div class="stat-counter" id="stat-counter" style="display:none"></div>
     </header>
+
+    <!-- Google Account Login Card -->
+    <div class="card" id="google-login-card">
+      <div class="card-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        Google Account Login (optional, must use dispenser otherwise)
+      </div>
+      <p class="hint" style="margin:6px 0 10px">
+        Sign in with your own (burner) Google account instead of a token dispenser.
+      </p>
+      <button class="btn-primary" id="google-browser-btn" onclick="googleLogin(true)" style="width:100%">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        Sign in with Google
+      </button>
+      <button class="btn-secondary" id="google-signout-btn" onclick="googleSignOut()" style="width:100%;display:none">
+        Sign out
+      </button>
+      <div id="google-login-result" class="hint" style="margin-top:8px"></div>
+    </div>
 
     <!-- ADB Device -->
     <div class="card adb-card" id="adb-card">
@@ -192,6 +211,6 @@
   </div>
 
   <script type="module" src="/adb.js"></script>
-  <script src="/app.js?v=2"></script>
+  <script src="/app.js?v=4"></script>
 </body>
 </html>

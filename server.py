@@ -464,6 +464,30 @@ def save_cached_auth(auth_data, arch='arm64-v8a'):
         return False
 
 
+def refresh_personal_auth(arch='arm64-v8a'):
+    """Rebuild a personal-account session from the stored long-lived AAS token.
+
+    Personal sessions can go stale (details/delivery start returning empty);
+    a rebuild takes a few seconds and needs no sign-in.
+    """
+    cached = get_cached_auth(arch)
+    if not (cached and cached.get('accountType') == 'personal' and cached.get('aasToken')):
+        return None
+    import account_auth
+    from device_profiles import NEWEST_ARMV7_PROFILE
+    profile = NEWEST_ARMV7_PROFILE if arch == 'armeabi-v7a' else DEFAULT_ARM64_PROFILE
+    try:
+        logger.info(f'Refreshing personal-account session for {arch}...')
+        auth = account_auth.build_auth_data(
+            cached['email'], cached['aasToken'], device=profile,
+            log=lambda m: logger.info(f'[google-refresh] {m}'))
+        save_cached_auth(auth, arch)
+        return auth
+    except Exception as e:
+        logger.warning(f'Personal auth refresh failed for {arch}: {e}')
+        return None
+
+
 def test_auth_token(auth, strict=False):
     """Test if an auth token works by making a simple API request.
 
@@ -593,11 +617,13 @@ def get_download_info(pkg, auth):
                     logger.warning(f"Paid app detected: {pkg} costs {offer.formattedAmount} ({offer.micros} micros)")
                     return {'error': 'paid_app', 'formattedAmount': offer.formattedAmount or 'paid'}
 
-        # If version_code is 0, try to get it from offer
-        if version_code == 0 and app.offer:
-            for offer in app.offer:
-                if offer.offerType == 1:
-                    logger.debug(f"Offer version fallback for {pkg}: micros={offer.micros}")
+        # versionCode=0 with a resolvable title means Play has no version
+        # compatible with the registered (virtual) device. On a fresh session
+        # this is a real incompatibility; on a stale session everything
+        # returns 0, which the callers handle by refreshing once first.
+        if version_code == 0:
+            return {'error': 'incompatible',
+                    'message': f'No compatible version of {title or pkg} for this device profile/architecture'}
 
     except Exception as e:
         return {'error': f'Failed to parse app details: {str(e)}'}
@@ -892,6 +918,10 @@ def auth_stream():
         profile_count = len(profiles)
         max_attempts = profile_count * MAX_PROFILE_CYCLES
 
+        if not DISPENSER_URL:
+            yield f"data: {json.dumps({'type': 'error', 'message': 'Token failed and no dispenser is configured. Sign in with a Google account (top card) and try again.'})}\n\n"
+            return
+
         while True:
             # Check timeout
             if time_module.time() - start_time > SSE_MAX_DURATION:
@@ -973,10 +1003,146 @@ def auth_stream():
     )
 
 
+def _build_personal_auth_armv7(email, token, log):
+    """Register a second virtual device (ARMv7) so both arches can download."""
+    import account_auth
+    try:
+        log('Registering a second virtual device for ARMv7 downloads...')
+        from device_profiles import NEWEST_ARMV7_PROFILE
+        return account_auth.build_auth_data(email, token,
+                                            device=NEWEST_ARMV7_PROFILE, log=log)
+    except Exception as e:
+        log(f'ARMv7 device registration failed ({e}) - ARM64 downloads still work')
+        return None
+
+
+# Email + long-lived AAS token from the last successful browser sign-in,
+# kept so retries and re-logins don't need the browser (or 2FA) again.
+_google_login_state = {}
+
+
+@app.route('/api/auth/google', methods=['POST'])
+def auth_google():
+    """Sign in with a personal (burner) Google account — no dispenser needed.
+
+    Body: {"email": ..., "aasToken": "aas_et/..."} or {"email": ..., "oauthToken": "oauth2_4/..."}
+    Streams SSE-format progress events (consumed via fetch + ReadableStream).
+    """
+    import queue as queue_module
+    import account_auth
+
+    payload = request.get_json(silent=True) or {}
+    email = (payload.get('email') or '').strip()
+    aas_token = (payload.get('aasToken') or '').strip()
+    oauth_token = (payload.get('oauthToken') or '').strip()
+    use_browser = bool(payload.get('browser'))
+
+    if not use_browser and (not email or not (aas_token or oauth_token)):
+        return jsonify({'error': 'email plus aasToken or oauthToken is required (or set browser: true)'}), 400
+    if use_browser and not account_auth.find_browser():
+        return jsonify({'error': 'No Chromium-based browser found on the server machine. '
+                                 'Browser sign-in only works when the server runs on your own computer; '
+                                 'use the manual oauth_token flow instead.'}), 400
+
+    def generate():
+        q = queue_module.Queue()
+        result = {}
+
+        def log(msg):
+            logger.info(f"[google-login] {msg}")
+            q.put({'type': 'progress', 'message': msg})
+
+        def worker():
+            try:
+                acct_email = email
+                token = aas_token
+                otoken = oauth_token
+                if use_browser and not token and not otoken:
+                    # A long-lived AAS token from an earlier sign-in lets us skip
+                    # the browser (and any 2-step verification) entirely.
+                    if not _google_login_state.get('aasToken'):
+                        prev = get_cached_auth()
+                        if prev and prev.get('accountType') == 'personal' and prev.get('aasToken'):
+                            _google_login_state.update({'email': prev['email'], 'aasToken': prev['aasToken']})
+                    if _google_login_state.get('aasToken'):
+                        try:
+                            log(f"Found AAS token from a previous sign-in ({_google_login_state['email']}) - retrying without the browser")
+                            result['auth'] = account_auth.build_auth_data(
+                                _google_login_state['email'], _google_login_state['aasToken'], log=log)
+                            result['auth_armv7'] = _build_personal_auth_armv7(
+                                _google_login_state['email'], _google_login_state['aasToken'], log)
+                            result['email'] = _google_login_state['email']
+                            return
+                        except account_auth.AccountAuthError as e:
+                            log(f"Stored AAS token no longer works ({e}) - opening browser sign-in")
+                            _google_login_state.clear()
+                    scraped_email, otoken = account_auth.capture_oauth_token_via_browser(log=log)
+                    acct_email = acct_email or scraped_email
+                    if not acct_email:
+                        raise account_auth.AccountAuthError(
+                            'Could not detect the account email automatically - '
+                            'fill in the email field and try again')
+                if not token:
+                    token = account_auth.exchange_oauth_token(acct_email, otoken, log=log)
+                    # Keep the long-lived token so a failure later in the flow
+                    # (or a future re-login) does not need another sign-in.
+                    _google_login_state.update({'email': acct_email, 'aasToken': token})
+                result['auth'] = account_auth.build_auth_data(acct_email, token, log=log)
+                result['auth_armv7'] = _build_personal_auth_armv7(acct_email, token, log)
+                result['email'] = acct_email
+            except Exception as e:
+                result['error'] = str(e)
+            finally:
+                q.put(None)
+
+        threading.Thread(target=worker, daemon=True).start()
+        while True:
+            item = q.get()
+            if item is None:
+                break
+            yield f"data: {json.dumps(item)}\n\n"
+
+        if 'auth' in result:
+            auth_data = result['auth']
+            save_cached_auth(auth_data)
+            if result.get('auth_armv7'):
+                save_cached_auth(result['auth_armv7'], 'armeabi-v7a')
+            yield f"data: {json.dumps({'type': 'progress', 'message': 'Auth saved. Validating token against Play API...'})}\n\n"
+            valid = test_auth_token(auth_data)
+            yield f"data: {json.dumps({'type': 'success', 'authenticated': True, 'email': result.get('email', email), 'validated': bool(valid), 'aasToken': auth_data.get('aasToken', '')})}\n\n"
+        else:
+            yield f"data: {json.dumps({'type': 'error', 'message': result.get('error', 'unknown error')})}\n\n"
+
+    return Response(generate(), mimetype='text/event-stream',
+                    headers={'Cache-Control': 'no-cache', 'X-Accel-Buffering': 'no'})
+
+
 @app.route('/api/auth/status')
 def auth_status():
     auth = get_auth_from_request()
-    return jsonify({'authenticated': bool(auth and auth.get('authToken'))})
+    resp = {'authenticated': bool(auth and auth.get('authToken'))}
+    if auth and auth.get('accountType') == 'personal':
+        resp['accountType'] = 'personal'
+        resp['email'] = auth.get('email', '')
+    return jsonify(resp)
+
+
+@app.route('/api/auth/google/logout', methods=['POST'])
+def auth_google_logout():
+    """Sign out: remove cached personal-account auth and the stored AAS token."""
+    _google_login_state.clear()
+    removed = []
+    for arch, cache_file in AUTH_CACHE_FILES.items():
+        try:
+            if cache_file.exists():
+                auth = json.loads(cache_file.read_text())
+                if auth.get('accountType') == 'personal':
+                    cache_file.unlink()
+                    removed.append(arch)
+        except Exception as e:
+            logger.warning(f'Logout: could not remove {cache_file}: {e}')
+    logger.info(f'[google-login] Signed out (cleared: {removed or "nothing"})')
+    return jsonify({'success': True, 'cleared': removed})
 
 
 _search_rate = {}  # {ip: [timestamps]}
@@ -1232,9 +1398,10 @@ def download_info_stream(pkg):
         attempt = 0
         max_attempts = profile_count * MAX_PROFILE_CYCLES
 
-        # Try cached token for this architecture
+        # Try cached token, then (once) a refreshed personal-account session
         cached = get_cached_auth(arch)
-        if cached:
+        refresh_allowed = True
+        while cached:
             yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Trying cached token...'})}\n\n"
             try:
                 info = get_download_info(pkg, cached)
@@ -1266,10 +1433,34 @@ def download_info_stream(pkg):
                     yield f"data: {json.dumps(result)}\n\n"
                     return
                 else:
-                    yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token failed, trying new tokens...'})}\n\n"
+                    if refresh_allowed:
+                        refresh_allowed = False
+                        cached = refresh_personal_auth(arch)
+                        if cached:
+                            yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token failed - refreshed Google account session, retrying...'})}\n\n"
+                            continue
+                    if info.get('error') == 'incompatible':
+                        # Session is fresh (already refreshed) and Play still
+                        # reports no version for this device: a real incompatibility
+                        yield f"data: {json.dumps({'type': 'error', 'message': info.get('message', 'App is not available for this device/architecture')})}\n\n"
+                        return
+                    _errname = info.get('error', 'unknown error')
+                    yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token failed (' + str(_errname) + '), trying new tokens...'})}\n\n"
+                    break
             except Exception as e:
                 logger.warning(f"Cached token error for {pkg}: {e}")
+                if refresh_allowed:
+                    refresh_allowed = False
+                    cached = refresh_personal_auth(arch)
+                    if cached:
+                        yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token error - refreshed Google account session, retrying...'})}\n\n"
+                        continue
                 yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token error, trying new tokens...'})}\n\n"
+                break
+
+        if not DISPENSER_URL:
+            yield f"data: {json.dumps({'type': 'error', 'message': 'Token failed and no dispenser is configured. Sign in with a Google account (top card) and try again.'})}\n\n"
+            return
 
         while True:
             # Check timeout
@@ -1859,8 +2050,21 @@ def download_merged_stream(pkg):
                     pass
 
             if not auth_data:
+                refreshed = refresh_personal_auth(arch)
+                if refreshed:
+                    yield f"data: {json.dumps({'type': 'progress', 'step': 'auth', 'message': 'Refreshed Google account session, retrying...'})}\n\n"
+                    try:
+                        info = get_download_info(pkg, refreshed)
+                        if 'error' not in info:
+                            auth_data = refreshed
+                    except Exception:
+                        pass
+
+            if not auth_data:
                 scraper = get_scraper()  # Reuse scraper across attempts
                 max_attempts = profile_count * MAX_PROFILE_CYCLES
+                if not DISPENSER_URL:
+                    max_attempts = 0  # no dispenser: skip token rotation entirely
                 for attempt in range(max_attempts):
                     # Rotate through profiles
                     profile_key, profile = profiles[attempt % profile_count]
@@ -1901,7 +2105,16 @@ def download_merged_stream(pkg):
                         time_module.sleep(get_backoff_delay(attempt, base=0.5))
 
             if not info or 'error' in info:
-                yield f"data: {json.dumps({'type': 'error', 'message': 'Failed to get download info'})}\n\n"
+                err = (info or {}).get('error', 'Failed to get download info')
+                if err == 'paid_app':
+                    msg = f"This app is not free ({(info or {}).get('formattedAmount', 'paid')}). Only free apps can be downloaded."
+                elif err == 'incompatible':
+                    msg = (info or {}).get('message', 'App is not available for this device/architecture')
+                elif not DISPENSER_URL and not auth_data:
+                    msg = f'Could not get a working token ({err}). Sign in with a Google account (top card) and try again.'
+                else:
+                    msg = f'Failed to get download info: {err}'
+                yield f"data: {json.dumps({'type': 'error', 'message': msg})}\n\n"
                 return
 
             splits = info.get('splits', [])
@@ -2057,6 +2270,8 @@ def download_merged(pkg):
         profiles = get_priority_device_configs(arch)
         profile_count = len(profiles)
         max_attempts = profile_count * MAX_PROFILE_CYCLES
+        if not DISPENSER_URL:
+            max_attempts = 0  # no dispenser: skip token rotation entirely
         scraper = get_scraper()  # Reuse scraper across attempts
         for attempt in range(max_attempts):
             profile_key, profile = profiles[attempt % profile_count]

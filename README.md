@@ -1,6 +1,9 @@
 # Notice
 
-No default dispenser ships with this project. You must supply your own via `--dispenser <url>` or the `DISPENSER_URL` env var. Please **do not** point this at `auroraoss.com` (it's [reserved for direct Aurora Store users](https://github.com/alltechdev/gplay-apk-downloader/issues/22)).
+No default dispenser ships with this project. You have two options for authentication:
+
+1. **Google account login (recommended for self-hosting)** — sign in with your own (preferably throwaway) Google account. No dispenser needed. See [Google Account Login](#google-account-login).
+2. **Token dispenser** — supply your own via `--dispenser <url>` or the `DISPENSER_URL` env var. Please **do not** point this at `auroraoss.com` (it's [reserved for direct Aurora Store users](https://github.com/alltechdev/gplay-apk-downloader/issues/22)).
 
 # Announcement
 
@@ -13,6 +16,7 @@ Download APKs from Google Play Store. Can merge split APKs (App Bundles) into si
 ## Features
 
 - Download any free app from Google Play (paid apps are detected early and rejected with the price shown)
+- Google account login — sign in with your own (burner) account instead of a token dispenser; one-click browser sign-in, works for both ARM64 and ARMv7
 - Automatic split APK merging using [APKEditor](https://github.com/REAndroid/APKEditor), with Play Asset Delivery support (OBB/asset pack fusing)
 - 23 device profiles with automatic rotation for reliable downloads
 - Architecture support: ARM64 (modern phones) and ARMv7 (older phones)
@@ -125,6 +129,23 @@ Open http://localhost:5000 in your browser.
 >
 > **Not recommended for apps from Meta, Uber, WhatsApp, any Google app requiring an account, or any banking app.** Re-signing removes the original Play Store signature, which may result in account bans or restrictions. For these apps, use `./gplay download <pkg> -i` to install splits directly via ADB (original signatures preserved), or download without `-m` to keep the original split APKs. Use your own judgement to decide if an app warrants not merging. We do not take responsibility for any account bans or restrictions resulting from the use of re-signed APKs.
 
+### Google Account Login
+
+The top card of the web UI lets you sign in with your own Google account instead of using a token dispenser. Use a **throwaway account**, not your main one — Google has been known to flag accounts used with third-party Play clients.
+
+**How it works** (same flow as Aurora Store's personal login):
+
+1. Click **Sign in with Google**. A browser window opens on the server machine at Google's Android device sign-in page (`accounts.google.com/EmbeddedSetup`).
+2. Sign in (complete 2-step verification if asked). The `oauth_token` cookie and account email are captured automatically, and the window closes.
+3. The token is exchanged for a long-lived AAS token, two virtual devices are registered (ARM64: Pixel 9a, ARMv7: Samsung J5 Prime), and Play auth tokens are issued for both. Every step streams into the activity log.
+
+Notes:
+
+- Browser sign-in requires the server to run on the machine you're sitting at (it needs a local Chromium-based browser). On a remote server, POST `email` + `oauthToken`/`aasToken` to `/api/auth/google` instead.
+- The sign-in window uses a persistent profile (`~/.gplay-login-profile`), so 2-step verification is usually only needed the first time.
+- The long-lived AAS token is stored in the auth cache. If the Play session goes stale, downloads refresh it automatically — no re-login. Re-clicking **Sign in with Google** also reuses it without opening a browser.
+- **Sign out** clears the cached tokens for both architectures.
+
 ### WebUSB ADB (Chrome/Edge only)
 
 Connect an Android device via USB to install APKs directly without downloading to your computer first.
@@ -155,14 +176,26 @@ kill $(lsof -ti:5000)           # Stop server
 
 ### First-Time Setup
 
-Authenticate to get an anonymous token:
+Authenticate with your own Google account (opens a browser window, captures the sign-in token for you):
 
 ```bash
-./gplay auth
-./gplay auth -d https://custom-dispenser.example.com  # Use custom dispenser
+./gplay auth-account --browser
 ```
 
-Token is saved to `~/.gplay-auth.json` and shared between CLI and web server.
+Or with a token you obtained manually (see [Google Account Login](#google-account-login)):
+
+```bash
+./gplay auth-account --email you@gmail.com --oauth-token 'oauth2_4/...'   # from the EmbeddedSetup cookie
+./gplay auth-account --email you@gmail.com --aas-token 'aas_et/...'       # long-lived token from a previous login
+```
+
+Or with an anonymous dispenser token:
+
+```bash
+./gplay auth -d https://custom-dispenser.example.com
+```
+
+Tokens are saved to `~/.gplay-auth.json` (ARM64) and `~/.gplay-auth-armv7.json` (ARMv7), shared between CLI and web server.
 
 ### Commands
 
@@ -256,6 +289,16 @@ Shows all available split APKs including language splits.
 | Option | Description |
 |--------|-------------|
 | `-d`, `--dispenser` | Custom dispenser URL |
+
+#### `auth-account`
+
+| Option | Description |
+|--------|-------------|
+| `--browser` | Open a browser window and capture the sign-in token automatically |
+| `--email` | Google account email (auto-detected with `--browser`) |
+| `--oauth-token` | `oauth_token` cookie from accounts.google.com/EmbeddedSetup (`oauth2_4/...`) |
+| `--aas-token` | Long-lived AAS token from a previous login (`aas_et/...`) |
+| `--device` | Override the device profile used for checkin (a `profiles/*.properties` name or gpapi codename) |
 
 #### `search`
 
@@ -375,8 +418,10 @@ The web server exposes these REST and SSE endpoints:
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/api/auth` | POST | Get/validate cached auth token |
-| `/api/auth/stream` | GET | SSE: acquire token with profile rotation |
-| `/api/auth/status` | GET | Check if authenticated |
+| `/api/auth/stream` | GET | SSE: acquire dispenser token with profile rotation |
+| `/api/auth/google` | POST | Google account sign-in. Body: `{"browser": true}` or `{"email", "oauthToken"\|"aasToken"}`. Streams SSE progress |
+| `/api/auth/google/logout` | POST | Sign out (clears cached personal-account auth for both arches) |
+| `/api/auth/status` | GET | Check if authenticated (includes `email`/`accountType` for personal accounts) |
 
 ### Search & Info
 
@@ -594,11 +639,16 @@ Set these in your systemd service file or shell environment.
 |------|-------------|
 | `~/.gplay-auth.json` | ARM64 auth token cache |
 | `~/.gplay-auth-armv7.json` | ARMv7 auth token cache |
+| `~/.gplay-login-profile/` | Browser profile for Google sign-in (keeps the device trusted so 2FA is one-time) |
+
+Personal-account caches also hold the long-lived `aasToken`, which the server uses to refresh stale Play sessions automatically.
 | `~/.gplay-download-count` | Persistent download counter |
 
 ---
 
 ## Security
+
+> **Google account risk**: signing in through a third-party Play client is against Google's ToS, and accounts have been suspended for it. Use a dedicated throwaway account for downloads, never your personal one.
 
 - **Content-Security-Policy**: Enforcing CSP restricts scripts, styles, fonts, images, and connections to explicitly allowed origins
 - **Security headers**: X-Content-Type-Options, X-Frame-Options (DENY), Referrer-Policy, Permissions-Policy (no camera/mic/geo)
@@ -648,6 +698,9 @@ The tool automatically rotates through device profiles when acquiring tokens. So
 The token's device profile isn't compatible with this app. The server will automatically try the next profile in the rotation.
 
 ---
+
+
+With a personal Google account this usually means the Play session went stale; the server refreshes it automatically from the stored AAS token on the next download. For the CLI, re-run `./gplay auth-account --aas-token <saved token> --email <email>`.
 
 ## License
 
