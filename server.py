@@ -88,8 +88,28 @@ except (ImportError, TypeError) as e:
     print(f"Warning: gpapi not available ({e}). Using fallback parser.")
 
 DISPENSER_URL = os.environ.get('DISPENSER_URL', '').strip()
+
+
+def dispenser_config_error():
+    """User-facing message if DISPENSER_URL is unusable, else None.
+
+    A scheme-less URL would otherwise raise MissingSchema inside the token
+    rotation loops and look like a transient per-token failure (PR #25).
+    """
+    if not DISPENSER_URL:
+        return None  # no dispenser is a valid setup: Google account login works without one
+    if not DISPENSER_URL.startswith(('http://', 'https://')):
+        return (f"DISPENSER_URL is not a valid URL ({DISPENSER_URL!r}) - it must start with "
+                "http:// or https://. Fix it, or unset it and sign in with a Google account.")
+    return None
+
+
 if not DISPENSER_URL:
-    print("WARNING: DISPENSER_URL is not set. Downloads will fail until you configure a self-hosted dispenser. Do not use auroraoss.com (see issue #22).")
+    print("WARNING: DISPENSER_URL is not set. Sign in with a Google account (web UI top card or "
+          "'gplay-downloader.py auth-account'), or configure a self-hosted dispenser. "
+          "Do not use auroraoss.com (see issue #22).")
+elif dispenser_config_error():
+    print(f"WARNING: {dispenser_config_error()}")
 FDFE_URL = 'https://android.clients.google.com/fdfe'
 PURCHASE_URL = f'{FDFE_URL}/purchase'
 DELIVERY_URL = f'{FDFE_URL}/delivery'
@@ -918,8 +938,10 @@ def auth_stream():
         profile_count = len(profiles)
         max_attempts = profile_count * MAX_PROFILE_CYCLES
 
-        if not DISPENSER_URL:
-            yield f"data: {json.dumps({'type': 'error', 'message': 'Token failed and no dispenser is configured. Sign in with a Google account (top card) and try again.'})}\n\n"
+        _cfg_err = dispenser_config_error()
+        if not DISPENSER_URL or _cfg_err:
+            _msg = _cfg_err or 'Token failed and no dispenser is configured. Sign in with a Google account (top card) and try again.'
+            yield f"data: {json.dumps({'type': 'error', 'message': _msg})}\n\n"
             return
 
         while True:
@@ -1458,8 +1480,10 @@ def download_info_stream(pkg):
                 yield f"data: {json.dumps({'type': 'progress', 'attempt': 0, 'message': 'Cached token error, trying new tokens...'})}\n\n"
                 break
 
-        if not DISPENSER_URL:
-            yield f"data: {json.dumps({'type': 'error', 'message': 'Token failed and no dispenser is configured. Sign in with a Google account (top card) and try again.'})}\n\n"
+        _cfg_err = dispenser_config_error()
+        if not DISPENSER_URL or _cfg_err:
+            _msg = _cfg_err or 'Token failed and no dispenser is configured. Sign in with a Google account (top card) and try again.'
+            yield f"data: {json.dumps({'type': 'error', 'message': _msg})}\n\n"
             return
 
         while True:
@@ -2063,8 +2087,8 @@ def download_merged_stream(pkg):
             if not auth_data:
                 scraper = get_scraper()  # Reuse scraper across attempts
                 max_attempts = profile_count * MAX_PROFILE_CYCLES
-                if not DISPENSER_URL:
-                    max_attempts = 0  # no dispenser: skip token rotation entirely
+                if not DISPENSER_URL or dispenser_config_error():
+                    max_attempts = 0  # no usable dispenser: skip token rotation entirely
                 for attempt in range(max_attempts):
                     # Rotate through profiles
                     profile_key, profile = profiles[attempt % profile_count]
@@ -2267,11 +2291,15 @@ def download_merged(pkg):
 
     # If cached didn't work, try new tokens with profile rotation
     if not auth_data:
+        _cfg_err = dispenser_config_error()
+        if not DISPENSER_URL or _cfg_err:
+            msg = _cfg_err or ('No working auth. Sign in with a Google account '
+                               '(web UI top card) or configure DISPENSER_URL.')
+            logger.error(msg)
+            return jsonify({'error': msg}), 503
         profiles = get_priority_device_configs(arch)
         profile_count = len(profiles)
         max_attempts = profile_count * MAX_PROFILE_CYCLES
-        if not DISPENSER_URL:
-            max_attempts = 0  # no dispenser: skip token rotation entirely
         scraper = get_scraper()  # Reuse scraper across attempts
         for attempt in range(max_attempts):
             profile_key, profile = profiles[attempt % profile_count]
