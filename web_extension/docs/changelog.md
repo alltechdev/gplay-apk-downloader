@@ -1,0 +1,104 @@
+> Historical record of the original port. Authentication has since been replaced with the personal Google account flow in [architecture.md](architecture.md).
+
+# Changelog
+
+Running log of significant changes to the web_extension port. Append-only.
+
+## 2026-05-19 — legacy-parity pass
+
+- **APK signing now produces real `apksigner verify`-passing output.** Added end-to-end test that shells out to the apksigner binary and asserts v1 + v2 + v3 all verify. Fixed three v3 bugs caught by it:
+  1. Signed-data missing inner `minSdk`/`maxSdk` (mismatch error).
+  2. Digests sequence missing outer `lp32` wrap (v2 had the same silently-broken layout).
+  3. EOCD passed to chunked-SHA-256 had wrong CD-offset — per spec it must point at the APK Signing Block, not at the new CD location.
+- Every merged APK now gets v1+v2+v3 by default (matches legacy `apksigner sign` defaults). Previously was v2-only.
+- v1 `CERT.SF` only declares `X-Android-APK-Signed` for schemes actually applied — avoids "Signature stripped?" when signing v1-only.
+- Split `apk-signer.js` (326 LOC) into `apk-signer-utils.js` + `apk-signer-v1.js` + `apk-signer-v2v3.js` + slim 60-LOC orchestrator.
+- Split `direct-download-card.js` (257 LOC) into `info-card.js` + `download-handler.js` + `install-handler.js` + a thin wiring orchestrator.
+- Extracted `pMapLimit` (ordered, bounded-concurrency parallel map) to its own `ui/p-map-limit.js`; unit-tested for ordering, peak concurrency, error propagation, and edge cases.
+- **Split fetching now runs 4-way concurrent** — matching legacy `download_splits_parallel(splits, max_workers=4)`. Was serial.
+- **Info block renders legacy-parity format:** `Title \n v1.2.3 · ARM64 (modern) · 23 MB · includes <obb>` plus `<N> files: <split-list>` line. Non-`config.*` splits tagged `[asset pack]`.
+- **Umami analytics** added — POSTs to the same `stats.dietdroid.com` collector the legacy site uses, tagged `hostname:'extension'` so the dashboard can filter website vs extension traffic. Footer checkbox writes `analytics-opt-out` to `chrome.storage.local`; `trackPageview`/`trackEvent` short-circuit when opted out.
+- Test suite now: **64 unit / 2 integration / 6 e2e** — all green. Added `apk-signer-verify`, `info-card-helpers`, `download-handler-helpers`, expanded `apk-signer` to per-scheme coverage.
+
+## 2026-05-19
+
+- Branch `feat/web-extension` cut from `main` @ `3ccde88`.
+- Surveyed the legacy CLI; produced `docs/port-spec.md` enumerating auth, device profile, Play API endpoints, download flow, post-processing, blacklist, and server architecture. Five open questions flagged `[UNVERIFIED]`.
+- Created `web_extension/` skeleton: `docs/`, `tests/{unit,integration,parity,e2e,fixtures,logs}/`, `scripts/`, `src/`.
+- Wrote `scripts/install.sh` (idempotent): probes tools, creates Python venv at `.venv`, installs Python deps, installs Node deps with `PUPPETEER_SKIP_DOWNLOAD=1` (we use the system chromium), sanity-launches chromium headless.
+- Confirmed environment supports the full five-stage test pipeline locally (Chromium 144 + puppeteer-core works). ADR-0001 records the decision.
+- First end-to-end pipeline run:
+  - lint: pending (needs manifest)
+  - unit: ✔
+  - net: ✔
+  - parity: stub
+  - e2e: ✔ — `Chrome/144.0.7559.109` reachable from `puppeteer-core`
+- Scaffolded MV3 extension at `src/`: manifest, service worker (`background.js`), popup HTML/CSS/JS, blacklist module (`modules/blacklist.js`), icons resized to 16/32/48/128 with Pillow.
+- Wrote `tests/unit/blacklist.test.mjs` (3 tests, all pass) using the `_setForTests` hook to avoid mocking `chrome.runtime.getURL`.
+- Wrote `tests/e2e/scenarios/01-blacklist-rpc.mjs` — opens the popup in real Chrome, types a blacklisted package, asserts the UI shows the block. PASS.
+- Pipeline run promoted to `docs/test-runs/2026-05-19-scaffold.md` with screenshots.
+- Confirmed: MV3 manifest loads, service worker registers, popup ↔ worker RPC works. Four browser-specific claims still `[UNVERIFIED]` (Play API CORS, AuroraOSS CORS, DNR Cookie injection, large blob downloads).
+- **Removed blacklist entirely** — extension runs client-side; the user is responsible for what they download. Deleted `src/blacklist.json`, `src/modules/blacklist.js`, blacklist unit test, blacklist e2e scenario.
+- **Removed search/catalog** — no Search card, no /apps anchor. Direct download by package name only (when that lands). Reduces DMCA surface to zero on the project side.
+- **Ported legacy site visual style** — replaced popup with full-page `index.html`. Copied `public/style.css` verbatim. JetBrains Mono + Plus Jakarta Sans loaded via Google Fonts (CSP relaxed: `style-src` adds `fonts.googleapis.com`, `font-src` adds `fonts.gstatic.com`).
+- **Enforced no-stubs policy.** Every "not yet implemented" handler and every UI element with no working backend has been deleted. The page is now: header, Activity Log, footer. Feature cards (ADB, Download, Backup) return when their modules ship.
+- **`chrome.action.onClicked` opens `index.html` in a new tab** (reuses an existing tab if already open). The popup approach is gone.
+- **Dev server**: `npm run serve` (static HTTP on src/) and `npm run dev` (system chromium with extension loaded; headed if $DISPLAY, headless+CDP otherwise). See `docs/dev-server.md`.
+- New screenshot pipeline: every `npm run test:e2e` writes to `screenshots/<timestamp>/` (history) AND `screenshots/latest/` (current); per-run forensic copy in `tests/logs/` (gitignored).
+- New e2e scenario `01-page-loads.mjs`: opens the extension page, asserts header/log/footer, asserts no stub buttons present, opens the log panel, takes 3 screenshots.
+- New test run record: `docs/test-runs/2026-05-19-style-port.md` with promoted screenshots.
+- **Bundled priority device profiles** (`src/profiles.json`, 14 profiles, 158KB) generated from the legacy CLI's `profiles/*.properties` via the venv'd Python. Priority order matches `device_profiles.PRIORITY_ARM64` + `PRIORITY_ARMV7`.
+- **Auth fully implemented**: `auth.signIn`, `auth.signOut`, `auth.status` RPCs in the service worker. Iterates priority profiles, POSTs to `https://auroraoss.com/api/auth`, stores result in `chrome.storage.local`. Sign-in broadcasts `auth.event` updates so the UI logs each attempt in real time.
+- **declarativeNetRequest rules** for forbidden-header rewriting: rule 1 sets the Aurora UA + strips `Origin` for `/api/auth` (otherwise Cloudflare returns 403). Rule 2 sets per-profile Android-Finsky UA + strips `Origin` for `/fdfe/*`. Rules 100+ inject `Cookie` headers per-download.
+- **First real-Chrome auth e2e**: `scenarios/02-auth-signin.mjs` types into the popup, asserts the auth card flips to signed-in with the Pixel 9a profile and real `gsfId` returned by AuroraOSS. PASS.
+- **Tiny protobuf decoder** at `src/modules/pb-decode.js` (~70 LOC, no deps). Wire types 0, 2, 1, 5. Unknown fields skipped. 6 unit tests covering string/int32/int64/bool/nested/repeated.
+- **Play API ported** inline into `background.js`: `app.details`, `app.delivery`, `app.download` RPCs. Schemas (`ResponseWrapper`, `Payload`, `DetailsResponse`, `DocV2`, `AppDetails`, `DeliveryResponse`, `AndroidAppDeliveryData`, `HttpCookie`, `SplitDeliveryData`) hand-written from gpapi's compiled descriptor + cross-checked against Aurora Store's proto. Field numbers documented in `docs/play-api.md`.
+- **Download flow**: `app.download` calls purchase → delivery → schedules `chrome.downloads.download()` for the base APK plus each split, each behind a per-URL DNR rule that injects the `downloadAuthCookie` payload from the delivery response. Files land under `gplaydl/<pkg>-<vc>/`.
+- **Architecture doc** at `docs/architecture.md`. Single-file SW decision recorded (Chrome 144 MV3 module-SW issues). Security posture documented (permissions, host permissions, package-name validation, narrow DNR scopes, token never leaves extension).
+- **No-blacklist policy doubled down**: legacy `/apps` catalog and search card were already removed; auth flow exposes no third-party listings; the only user input is a package name they type.
+- **End-to-end real-world test pass** (`docs/test-runs/2026-05-19-full-flow.md`): real Chromium 144 → real AuroraOSS sign-in → real Play details + delivery for `com.duckduckgo.mobile.android` v5.279.1 → 3 of 4 split APKs (~21 MB) downloaded to disk via `chrome.downloads` with DNR-injected `Cookie` headers. Base APK request fired successfully but didn't complete within the 90 s test budget (113 MB over Termux Wi-Fi).
+- **All four e2e scenarios green**: `smoke.page`, `01-page-loads`, `02-auth-signin`, `03-info-and-download`.
+- **e2e target discovery fix**: puppeteer's `browser.targets()` is event-cached and missed the service-worker target. Switched `tests/e2e/run.mjs` to query CDP directly (`Target.getTargets`) for reliable SW discovery.
+- **Architecture selector** in Direct Download (ARM64 / ARMv7). New `arch.set` RPC persists choice in `chrome.storage.local`; `auth.signIn` accepts an `arch` arg and filters profiles before iterating.
+- **WebUSB ADB integration**: `@yume-chan/adb` + `@yume-chan/adb-daemon-webusb` + `@yume-chan/adb-credential-web` installed via npm; bundled via `esbuild` into `src/vendor/adb-bundle.js` (~65 KB, committed). New "Install to Device" card with Connect/Disconnect buttons. `window.gplaydlAdb` exposed for the page.
+- **Backup & Restore card** (legacy parity):
+  - Backup App List uses the connected device's `pm list packages -3` and downloads a JSON file.
+  - Import List reads a JSON, renders a checkbox UI, and triggers `app.downloadList` for selected packages — sequential downloads share the same `app.download` path so wire behaviour is identical.
+- **DNR rule cleanup**: `chrome.downloads.onChanged` listener removes the per-download cookie rule when the download completes or is interrupted. Dynamic-rule ids cycle through `100–9999` (reuse-aware).
+- **Download lifecycle broadcasts**: SW now emits `download.event` for `purchase`, `delivery`, `start`, `queued`, `complete`, `interrupted`, plus `list.start`, `list.itemDone`, `list.itemFail`, `list.done` for the bulk path. Page log surfaces them all.
+- **New e2e scenario `04-backup-restore.mjs`**: writes a one-package JSON to a temp dir, drives `<input type="file">` via puppeteer's `uploadFile`, clicks the rendered "Download all selected" button, asserts ≥ 1 `list.start` and ≥ 1 `queued` event. Pipeline now 5/5 e2e.
+- **`01-page-loads.mjs`** asserts the ADB card, backup card, and that `window.gplaydlAdb` is non-null (catches a missing or broken bundle immediately).
+- **Auto-retry on Play 401**: `fdfeRequest` re-signs in on a first 401 and retries the request once. Emits `auth.event { phase: 'refresh' }` so the UI shows the rotation.
+- **Direct ADB install path**: when a WebUSB ADB device is connected, the Download button no longer routes through `chrome.downloads`. Instead the page fetches each APK URL directly from the CDN (cookies attached automatically by the SW-installed DNR rule) and pipes the blobs into `gplaydlAdb.installSplit`. New SW RPCs `app.prepareInstall` and `app.releaseRules` manage the cookie rule lifecycle for the page-side fetch.
+- **Bulk cancel**: SW `app.abortBulk` flips a flag that the `appDownloadList` loop checks between packages. UI grows a "Cancel" button next to "Download all selected" while bulk runs.
+- **Build scripts**: `npm run build:adb` rebuilds the bundled WebUSB ADB blob from `src/modules/adb-entry.js` via esbuild. `npm run build` now runs `build:bundles` then `web-ext build`, so the shipped artifact always reflects the latest sources.
+- **chrome.downloads.onChanged progress broadcasts**: SW now broadcasts `download.event { phase: 'progress', id, bytes }` on each in-flight `bytesReceived` change.
+- **In-place download progress entries** in the Activity Log: per-download id, the page mutates the same log entry on each progress tick (throttled to ~1.3 Hz). The entry is removed when the download finishes and replaced by a regular `complete` / `interrupted` line. No log flooding, no extra DOM cost.
+- **Per-download cancel** link on every in-flight progress entry. Calls `app.cancelDownload` → `chrome.downloads.cancel(id)` + DNR rule cleanup.
+- **"show" link** on every completed download entry. Calls `app.showDownload` → `chrome.downloads.show(id)` (opens the file in the OS file browser).
+- **Select all / None** links in the imported backup list (legacy parity).
+- **Disclaimer** inside the Direct Download card (legacy parity, updated wording: APKs are Google-signed and unmodified; the extension is a tool author, not a service operator).
+- **UX polish**: package-name input is auto-focused on page load; Activity Log panel auto-opens when a Direct Download starts.
+- **Download→rule map persisted in `chrome.storage.session`** so SW restarts mid-download don't orphan DNR rules.
+- **Top-level `web_extension/README.md`** with install + usage + layout.
+- **Installed-version display on Info**: when a WebUSB ADB device is connected, the Info card runs `dumpsys package <pkg>` on the device and shows the installed `versionName` / `versionCode` next to the Play version, plus an "update available" / "up to date" / "device has newer" tag.
+- **zipalign port** (`src/modules/zipalign.js`): custom store-only zip writer aligns every entry to 4 bytes and `lib/*/*.so` to 4096 bytes. Replaces `fflate.zipSync` in the merge path. Unit-tested.
+- **Merge-splits checkbox** replaces the output-format dropdown (legacy parity). Default ON. Unchecked → single ZIP of the original splits; checked → merged + zipaligned + v1/v2/v3-signed APK.
+- **Auto re-auth on arch change**: switching the architecture dropdown rotates to a matching priority profile if the current token's arch differs.
+- **Email hidden** in the Auth card — legacy doesn't surface it either. Card shows only "Authenticated · profile · arch".
+- **Search restored**: `app.search` SW RPC scrapes `play.google.com/store/search` (featured + related + JSON fallback regex, ported from `server.py:/api/search`). Results render with the legacy `app-item` layout; clicking Download fills `#pkg-input` and triggers the same `downloadPackage` path used elsewhere.
+- **GitHub stars badge** in the footer.
+- **GH Actions workflow** at `.github/workflows/build-extension.yml`: on push to `main` / `feat/web-extension` and on PRs touching `web_extension/`, runs lint + unit, builds bundles + packed zip, uploads both as artifacts.
+- **`scripts/lint.mjs` wrapper**: filters the single addons-linter false-positive about MV3 `background.service_worker` so CI passes on warnings without losing real-error coverage.
+- **CDN CORS fix**: added `*://*.gvt1.com/*` + `*://*.googleusercontent.com/*` to host_permissions; new DNR rule id 3 strips `Origin` + `Sec-Fetch-*` on those CDN redirects so page-side fetch can follow Play's by-token → by-id redirect chain.
+- **Major refactor — single-responsibility files**: `background.js` (783 → 21 LOC entry) now `importScripts(...)` eleven `sw/NN-*.js` modules (config, utils, pb, storage, dnr, auth, play-api, downloads, search, action, rpc). `app.js` (643 → 34 LOC entry) is an ES-module entry that imports eight `ui/*.js` cards (dom, rpc, log, auth-card, adb-card, direct-download-card, search-card, backup-card). Cross-card communication uses a single `adb-status` custom event — no import cycles. Every source file under ~200 LOC.
+- **Documentation refreshed**: `docs/source-layout.md` is the new file-by-file map. `docs/architecture.md` rewritten around the modular layout.
+- **Cleanup pass**:
+  - Split `apk-signer.js` into `modules/asn1.js` (DER builder + cert parser), `modules/pkcs7.js` (CERT.RSA), and the actual signer. Crypto logic is now readable in isolation.
+  - Replaced every `innerHTML = …` in UI code with `h()` / `replace()` DOM-building helpers. SVG icons live in `<template>` elements in `index.html` and are cloned via `ui/icons.js`. Lint: 0 errors, 0 warnings, 0 notices.
+  - New `sw/05-logger.js` — `swLog.debug/info/warn/error` tagged and level-filtered. `console.*` removed from `sw/40-dnr.js` and `sw/90-action.js`.
+  - New `sw/15-errors.js` — `AuthError` / `NetworkError` / `PlayApiError` / `ProtoError` / `ValidationError`. SW throws typed errors; the RPC layer serialises `code` + `status` alongside the message; `ui/rpc.js` rebuilds an `Error` with those properties so page code can `e.code === 'AUTH'` / etc.
+  - JSDoc on public APIs: `rpc`, `appDetails`, `appDelivery`, `appSearch`, `validatePackageName`, `loadProfilesJson`, `h`, `replace`, `downloadPackage`, `signApk`, `buildPkcs7`.
+  - Deleted obsolete placeholder test files.
+  - **"Merge splits" checkbox now defaults OFF** — matches the user's expectation that downloads stay multi-file (one ZIP of splits) unless explicitly merged.
+- **Wide-screen layout**: two columns (≥960px viewport), wrapper capped at 960px so the page doesn't grow past the threshold width. Left column: Authentication, Install to Device, Search. Right column: Direct Download, Backup & Restore. Activity Log centered at 720px below. Mobile (< 960px) keeps the original single-column flow.

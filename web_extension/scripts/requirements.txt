@@ -1,0 +1,7 @@
+# Python deps for web_extension parity + integration tests.
+# The legacy CLI's own requirements.txt is also installed by install.sh
+# so we can drive the existing Python downloader as an oracle.
+pytest>=8
+requests>=2.31
+protobuf>=4.25
+Pillow>=10
