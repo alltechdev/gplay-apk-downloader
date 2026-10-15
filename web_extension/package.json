@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "lint": "node scripts/lint.mjs",
-    "test": "node --test tests/unit",
-    "test:net": "node --test tests/integration",
+    "test": "node --test tests/unit/*.test.mjs",
+    "test:net": "node --test tests/integration/*.test.mjs",
     "test:parity": "bash tests/parity/run.sh",
     "test:e2e": "node tests/e2e/run.mjs",
     "test:all": "npm run lint && npm test && npm run test:net && npm run test:e2e && npm run test:cdn",
