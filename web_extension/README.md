@@ -194,3 +194,7 @@ Live account tests are opt-in: supply `GPLAY_ACCOUNT_EMAIL` and `GPLAY_AAS_TOKEN
 Device profiles are generated from the server’s `device_profiles.py` with `npm run build:profiles` (Python 3 required). Personal-account defaults match main: Pixel 9a (`Pv`) for ARM64 and the newest ARMv7 profile, Samsung A13 5G (`Gj`). Login registers both architectures; failure of the secondary registration preserves the primary session. Architecture-specific sessions are cached separately and sign-out clears both.
 
 Play requests refresh a stale session once when details are empty, the version is zero, or delivery has no URL. A fresh zero-version result reports device incompatibility; paid apps report their price before purchase. Downloads retry interrupted response bodies, verify file sizes, and retain cookie rules until all active transfers finish.
+
+## Automated local testing and logs
+
+Run `npm run dev` to start a persistent, dedicated test browser. Run `npm run logs` to read redacted extension and network diagnostics, and `npm run test:live -- --smoke` to test the shipped merge/sign bundle without an account. Once this profile is signed in, `npm run test:live -- --package com.kiloo.subwaysurf` checks the live download, ZIP and signed APK paths. Reports, downloads and browser state stay in the Git-ignored `.local/` directory. See [development testing](docs/dev-server.md) for coverage and requirements.

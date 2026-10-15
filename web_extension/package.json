@@ -10,14 +10,17 @@
     "test:net": "node --test tests/integration",
     "test:parity": "bash tests/parity/run.sh",
     "test:e2e": "node tests/e2e/run.mjs",
-    "test:all": "npm run lint && npm test && npm run test:net && npm run test:e2e",
+    "test:all": "npm run lint && npm test && npm run test:net && npm run test:e2e && npm run test:cdn",
     "serve": "node scripts/serve.mjs",
     "dev": "node scripts/dev.mjs",
     "build:adb": "esbuild src/modules/adb-entry.js --bundle --format=iife --target=es2020 --outfile=src/vendor/adb-bundle.js --minify --legal-comments=none",
     "build:apk-tools": "esbuild src/modules/apk-tools-entry.js --bundle --format=iife --target=es2020 --outfile=src/vendor/apk-tools-bundle.js --minify --legal-comments=none",
     "build:bundles": "npm run build:adb && npm run build:apk-tools",
     "build": "npm run build:profiles && npm run build:bundles && web-ext build --source-dir=src --artifacts-dir=dist --overwrite-dest",
-    "build:profiles": "python3 scripts/export-profiles.py"
+    "build:profiles": "python3 scripts/export-profiles.py",
+    "test:live": "node scripts/test-live.mjs",
+    "logs": "node scripts/read-logs.mjs",
+    "test:cdn": "node tests/e2e/cdn-transport.mjs"
   },
   "devDependencies": {
     "@yume-chan/adb": "^2.6.0",

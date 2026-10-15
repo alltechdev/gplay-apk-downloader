@@ -3,6 +3,7 @@
 // Reference: https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html#Signed_JAR_File
 
 import * as fflate from 'fflate';
+import { writeAlignedZip } from './zipalign.js';
 import { concat } from './asn1.js';
 import { buildPkcs7 } from './pkcs7.js';
 import { sha256, base64Encode } from './apk-signer-utils.js';
@@ -98,11 +99,11 @@ export async function v1Sign(zipBytes, pkcs8KeyDer, certDer, alsoSchemes = [2, 3
   const sig = new Uint8Array(await crypto.subtle.sign({ name: 'RSASSA-PKCS1-v1_5' }, key, sfBytes));
   const certRsa = buildPkcs7(certDer, sig);
 
-  // Add the three META-INF files at the top of the new ZIP (apksigner's order).
-  return fflate.zipSync({
+  // Adding META-INF shifts every entry. Re-align before the v2/v3 digest is signed.
+  return writeAlignedZip({
     'META-INF/MANIFEST.MF': manifestBytes,
     'META-INF/CERT.SF':     sfBytes,
     'META-INF/CERT.RSA':    certRsa,
     ...entries,
-  }, { level: 0 });
+  });
 }

@@ -20,19 +20,37 @@ Use this when iterating on CSS / HTML.
 
 ```bash
 cd web_extension
-npm run dev                          # headed if $DISPLAY is set, else headless with CDP
-HEADLESS=1 npm run dev               # force headless + CDP
-DEBUG_PORT=9333 npm run dev          # custom CDP port (default 9222)
+npm run dev                       # opens a dedicated test browser
+HEADLESS=1 npm run dev            # same persistent profile, without a window
+npm run logs                      # latest redacted diagnostic entries
+npm run test:live -- --smoke      # no account needed
+npm run test:live -- --package com.kiloo.subwaysurf
 ```
 
-Launches system Chromium with the extension loaded unpacked from `src/`. Uses a fresh temp profile each time so nothing pollutes your real browser data.
+The browser loads `src/` and retains its separate profile in `.local/chrome-profile`.
+Set `CHROMIUM_BIN` to override the detected Chrome/Chromium executable. Close the
+browser before starting another instance. Sign-in in this profile is separate
+from your normal browser and persists across restarts.
 
-- **With a display** (X server, Termux:X11, VNC, real desktop): a Chromium window opens. Click the toolbar icon to open the extension page.
-- **Without a display**: runs headless with `--remote-debugging-port=9222`. From any other machine on your network you can:
-  - Open `http://<termux-ip>:9222` in a desktop Chrome to inspect.
-  - Use `chrome://inspect` → "Configure" → add `<termux-ip>:9222` to attach DevTools.
+Automation connects over a random loopback-only debugging port recorded in
+`.local/browser.json`. Activity Log entries, console errors, service-worker errors,
+HTTP failures and Chrome network/CORS reasons are saved in `.local/extension.jsonl`.
+Capture excludes request bodies, headers and storage; emails, credentials and
+HTTP URL paths/query strings are redacted. The entire `.local/` directory is
+ignored by Git; it contains private browser state and downloaded APKs.
 
-Use this when you need real `chrome.*` behaviour (CORS, downloads, declarativeNetRequest, service worker).
+The smoke check verifies logging, DNR rules and the shipped merge/sign bundle,
+then verifies actual browser-downloaded APK signatures and alignment with
+`apksigner` and `zipalign` (required on PATH). The live check additionally exercises search, details, purchase,
+delivery, complete CDN downloads, ZIP packaging and merged APK signatures.
+It reports blocked account-dependent checks if this profile is not signed in.
+Reports and downloads are saved under `.local/runs/`. USB hardware installation
+requires a connected device and browser permission and is reported separately.
+
+`npm run test:all` runs lint, unit, integration and isolated Chromium scenarios.
+Deterministic browser fault tests cover network failures, 403/429/503 responses,
+short bodies, recovery, concurrent cleanup and simulated ADB installation.
+These tests do not establish that a live Google Play download or hardware install works.
 
 ## Which one for what
 
@@ -51,4 +69,6 @@ Use this when you need real `chrome.*` behaviour (CORS, downloads, declarativeNe
   export DISPLAY=:0
   npm run dev
   ```
-- `npm run dev` headless works anywhere — useful for poking the extension via DevTools from your laptop on the same Wi-Fi.
+- `npm run dev` headless supports local automation without a display.
+
+`npm run test:cdn` uses local HTTP/HTTPS servers and the actual extension host permissions and cookie rules. It verifies authenticated CDN reads without CORS response headers, 231 MB + 32 MB parallel downloads, interrupted-body recovery and rule cleanup. Requires OpenSSL. Test-only TLS and hostname overrides apply only to its isolated browser.

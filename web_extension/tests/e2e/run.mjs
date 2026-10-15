@@ -33,8 +33,11 @@ await mkdir(shotDir, { recursive: true });
 if (existsSync(latestDir)) await rm(latestDir, { recursive: true, force: true });
 await mkdir(latestDir, { recursive: true });
 
-const EXECUTABLE = process.env.CHROMIUM_BIN ||
-  '/data/data/com.termux/files/usr/bin/chromium-browser';
+const EXECUTABLE = process.env.CHROMIUM_BIN || [
+  '/usr/bin/google-chrome', '/usr/bin/chromium', '/usr/bin/chromium-browser',
+  '/data/data/com.termux/files/usr/bin/chromium-browser',
+].find(existsSync);
+if (!EXECUTABLE) throw new Error('Set CHROMIUM_BIN to an installed Chrome/Chromium executable.');
 
 console.log('[e2e] chromium      :', EXECUTABLE);
 console.log('[e2e] extension src :', SRC_DIR);
@@ -57,6 +60,7 @@ const browser = await puppeteer.launch({
   ],
 });
 
+const browserVersion = await browser.version();
 const results = [];
 let extensionId = null;
 
@@ -110,7 +114,7 @@ try {
       try {
         const mod = await import(resolve(SCENARIO_DIR, f));
         const out = await mod.default(ctx);
-        results.push({ scenario: name, ok: true, ...out });
+        results.push({ scenario: name, ok: true, status: out?.skipped ? 'skipped' : 'passed', ...out });
       } catch (err) {
         console.error('[e2e] scenario failed:', name, err);
         results.push({ scenario: name, ok: false, error: String(err?.message || err) });
@@ -122,15 +126,16 @@ try {
 }
 
 const summary = {
-  chromium: '144.x',
+  chromium: browserVersion,
   extensionId,
   timestamp: new Date().toISOString(),
   shotDir,
   latestDir,
   results,
+  counts: { passed: results.filter((r) => r.ok && !r.skipped).length, skipped: results.filter((r) => r.skipped).length, failed: results.filter((r) => !r.ok).length },
   ok: results.every((r) => r.ok),
 };
 await writeFile(resolve(logDir, 'result.json'), JSON.stringify(summary, null, 2));
 await writeFile(resolve(latestDir, 'result.json'), JSON.stringify(summary, null, 2));
-console.log('[e2e]', summary.ok ? 'PASS' : 'FAIL', '— result:', resolve(logDir, 'result.json'));
+console.log('[e2e]', summary.ok ? 'PASS' : 'FAIL', JSON.stringify(summary.counts), '— result:', resolve(logDir, 'result.json'));
 if (!summary.ok) process.exit(1);

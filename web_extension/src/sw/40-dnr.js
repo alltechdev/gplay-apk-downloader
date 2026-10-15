@@ -74,8 +74,9 @@ function dnrSearchRule() {
   };
 }
 function dnrCdnRule() {
-  // The Play API redirects to *.gvt1.com; CDN doesn't return CORS headers,
-  // so strip Origin + Sec-Fetch-* on those domains too.
+  // CDN responses may omit CORS headers. Manifest host permissions for both
+  // HTTP and HTTPS allow reading them; stripping Origin alone cannot do that.
+  // Remove browser-only request metadata on those domains too.
   return {
     id: DNR_CDN_ID,
     priority: 1,

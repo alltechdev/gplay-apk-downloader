@@ -1,59 +1,47 @@
-// Launches the system chromium with the extension loaded unpacked from src/.
-// Headed (non-headless) so the user can interact with it.
-//
-// Requires a display: either an attached X server (Termux:X11, VNC, or a
-// real desktop). If $DISPLAY is unset and HEADLESS!=0 we run with the new
-// headless mode and start the remote-debugging endpoint so the user can
-// attach DevTools from another machine.
-//
-// Usage:
-//   npm run dev                        # default: headed if DISPLAY is set
-//   HEADLESS=1 npm run dev             # force headless (remote-debug only)
-//   DEBUG_PORT=9222 npm run dev        # change the CDP port
+// Persistent, local-only test browser. No changes to the user's normal profile.
+import { mkdir, writeFile, rm } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+import puppeteer from 'puppeteer-core';
+import { EXT_DIR, LOCAL_DIR, SESSION_PATH, LOG_PATH, captureDiagnostics } from './browser-support.mjs';
 
-import { spawn } from 'node:child_process';
-import { mkdtemp } from 'node:fs/promises';
-import { tmpdir } from 'node:os';
-import { dirname, resolve } from 'node:path';
-import { fileURLToPath } from 'node:url';
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const SRC_DIR = resolve(__dirname, '..', 'src');
-const CHROMIUM = process.env.CHROMIUM_BIN ||
-  '/data/data/com.termux/files/usr/bin/chromium-browser';
-const DEBUG_PORT = Number(process.env.DEBUG_PORT || 9222);
-const FORCE_HEADLESS = process.env.HEADLESS === '1';
-const HAS_DISPLAY = !!process.env.DISPLAY;
-
-const profile = await mkdtemp(resolve(tmpdir(), 'gplaydl-dev-'));
-
-const args = [
-  '--no-sandbox',
-  '--disable-dev-shm-usage',
-  `--user-data-dir=${profile}`,
-  `--disable-extensions-except=${SRC_DIR}`,
-  `--load-extension=${SRC_DIR}`,
-  `--remote-debugging-port=${DEBUG_PORT}`,
-  `chrome-extension://placeholder/index.html`, // replaced after Chrome assigns the ID
-];
-
-if (FORCE_HEADLESS || !HAS_DISPLAY) {
-  args.unshift('--headless=new');
-  args.unshift('--disable-gpu');
-  console.log('[dev] no DISPLAY and/or HEADLESS=1 — running headless');
-  console.log(`[dev] attach DevTools from another machine: http://localhost:${DEBUG_PORT}`);
-} else {
-  console.log(`[dev] using DISPLAY=${process.env.DISPLAY}, running headed`);
+const executablePath = process.env.CHROMIUM_BIN || [
+  '/usr/bin/google-chrome', '/usr/bin/chromium', '/usr/bin/chromium-browser',
+  '/data/data/com.termux/files/usr/bin/chromium-browser',
+].find(existsSync);
+if (!executablePath) throw new Error('Set CHROMIUM_BIN to an installed Chrome/Chromium executable.');
+await mkdir(LOCAL_DIR, { recursive: true, mode: 0o700 });
+const headless = process.env.HEADLESS === '1' || (!process.env.DISPLAY && !process.env.WAYLAND_DISPLAY);
+const browser = await puppeteer.launch({
+  executablePath, headless, defaultViewport: null,
+  userDataDir: resolve(LOCAL_DIR, 'chrome-profile'),
+  ignoreDefaultArgs: ['--disable-extensions'],
+  args: ['--no-sandbox', '--disable-dev-shm-usage', '--enable-unsafe-extension-debugging', '--remote-debugging-address=127.0.0.1', '--remote-debugging-port=0'],
+});
+let diagnostics;
+let stopping = false;
+async function stop() {
+  if (stopping) return;
+  stopping = true;
+  await browser.close().catch(() => {});
 }
-
-console.log('[dev] chromium :', CHROMIUM);
-console.log('[dev] extension:', SRC_DIR);
-console.log('[dev] profile  :', profile);
-console.log('[dev] cdp port :', DEBUG_PORT);
-console.log('[dev] open chrome://extensions to find the loaded extension');
-console.log('[dev] press Ctrl-C to stop');
-
-const proc = spawn(CHROMIUM, args, { stdio: 'inherit' });
-process.on('SIGINT', () => proc.kill('SIGINT'));
-process.on('SIGTERM', () => proc.kill('SIGTERM'));
-proc.on('exit', (code) => process.exit(code ?? 0));
+process.on('SIGINT', stop);
+process.on('SIGTERM', stop);
+try {
+  const cdp = await browser.target().createCDPSession();
+  const { id } = await cdp.send('Extensions.loadUnpacked', { path: resolve(EXT_DIR, 'src') });
+  diagnostics = await captureDiagnostics(browser, id);
+  await writeFile(SESSION_PATH, JSON.stringify({ browserWSEndpoint: browser.wsEndpoint(), extensionId: id }, null, 2), { mode: 0o600 });
+  let page = (await browser.pages()).find((p) => p.url().startsWith(`chrome-extension://${id}/`));
+  if (!page) page = await browser.newPage();
+  await page.goto(`chrome-extension://${id}/index.html`);
+  await page.bringToFront();
+  console.log(`[dev] Test browser ready (${headless ? 'headless' : 'visible'}). Sign in in this window once; the profile is retained.`);
+  console.log(`[dev] Logs: ${LOG_PATH}`);
+  console.log('[dev] Tests: npm run test:live -- --smoke, or npm run test:live -- --package com.whatsapp');
+  await new Promise((resolveDone) => browser.once('disconnected', resolveDone));
+} finally {
+  await stop();
+  await diagnostics?.flush();
+  await rm(SESSION_PATH, { force: true });
+}
