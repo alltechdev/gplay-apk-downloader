@@ -19,14 +19,7 @@ export default async function searchTrigger({ browser, extensionId, shotDir, lat
 
   // Sign in (only if not already signed in from an earlier scenario).
   const already = await page.$eval('#auth-signout-btn', (el) => el.offsetParent !== null).catch(() => false);
-  if (!already) {
-    await page.click('#auth-signin-btn');
-    await page.waitForFunction(() => {
-      const out = document.getElementById('auth-signout-btn');
-      const err = !!document.querySelector('#log-scroll .log-icon.err');
-      return (out && out.offsetParent !== null) || err;
-    }, { timeout: 30000 });
-  }
+  if (!already) { await page.close(); return { skipped: 'Sign in with a personal account first' }; }
 
   // Type a query and submit.
   await page.type('#search-q', 'duckduckgo');

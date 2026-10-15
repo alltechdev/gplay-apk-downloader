@@ -44,12 +44,16 @@ console.log('[e2e] shot dir      :', shotDir);
 const browser = await puppeteer.launch({
   executablePath: EXECUTABLE,
   headless: 'new',
+  pipe: true,
+  ignoreDefaultArgs: ['--disable-extensions'],
   args: [
     '--no-sandbox',
+    '--enable-unsafe-extension-debugging',
     '--disable-gpu',
     '--disable-dev-shm-usage',
-    `--disable-extensions-except=${SRC_DIR}`,
-    `--load-extension=${SRC_DIR}`,
+    ...(process.env.LEGACY_EXTENSION_FLAGS === '1' ? [
+      `--disable-extensions-except=${SRC_DIR}`, `--load-extension=${SRC_DIR}`,
+    ] : []),
   ],
 });
 
@@ -61,6 +65,9 @@ try {
   // puppeteer's browser.targets() is event-cached and may not include the SW
   // until a targetcreated event fires; ask CDP directly to avoid that lag.
   const cdp = await browser.target().createCDPSession();
+  // Modern Chrome loads unpacked extensions through CDP; older Chromium uses the launch flags.
+  try { extensionId = (await cdp.send('Extensions.loadUnpacked', { path: SRC_DIR })).id; }
+  catch { /* fall back to service-worker discovery below */ }
   for (let i = 0; i < 100 && !extensionId; i++) {
     const { targetInfos } = await cdp.send('Target.getTargets');
     const sw = targetInfos.find((t) => t.type === 'service_worker' && t.url.startsWith('chrome-extension://'));

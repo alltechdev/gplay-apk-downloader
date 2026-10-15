@@ -29,14 +29,7 @@ export default async function backupRestore({ browser, extensionId, shotDir, lat
 
   // Sign in if not already.
   const alreadySignedIn = await page.$eval('#auth-signout-btn', (el) => el.offsetParent !== null).catch(() => false);
-  if (!alreadySignedIn) {
-    await page.click('#auth-signin-btn');
-    await page.waitForFunction(() => {
-      const out = document.getElementById('auth-signout-btn');
-      const errored = !!document.querySelector('#log-scroll .log-icon.err');
-      return (out && out.offsetParent !== null) || errored;
-    }, { timeout: 30000 });
-  }
+  if (!alreadySignedIn) { await page.close(); return { skipped: 'Sign in with a personal account first' }; }
 
   // Upload the backup list.
   const fileInput = await page.$('#backup-import');
@@ -69,8 +62,6 @@ export default async function backupRestore({ browser, extensionId, shotDir, lat
   await page.screenshot({ path: resolve(shotDir, 'backup-3-log.png') });
   await page.screenshot({ path: resolve(latestDir, 'backup-3-log.png') });
 
-  await page.close();
-
   // Robust log read: if the execution context was torn down by the
   // browser's download handling, retry once after a short wait.
   async function readLogs() {
@@ -83,6 +74,7 @@ export default async function backupRestore({ browser, extensionId, shotDir, lat
     await new Promise((r) => setTimeout(r, 1500));
     try { logs = await readLogs(); } catch { logs = []; }
   }
+  await page.close();
   const okZip = logs.some((t) => /ZIP ready/i.test(t));
   const done  = logs.some((t) => /Bulk download done/i.test(t));
   // Even if log read failed entirely, a zip on disk is the real signal.

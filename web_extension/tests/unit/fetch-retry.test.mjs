@@ -108,3 +108,27 @@ test('fetchWithRetry: calls onRetry for each retry attempt', async () => {
   assert.equal(events[0].status, 503);
   assert.equal(events[1].attempt, 2);
 });
+
+test('fetchWithRetry: retries interrupted response bodies, not just response headers', async () => {
+  let calls = 0;
+  const retries = [];
+  const blob = await fetchWithRetry(async () => {
+    calls++;
+    if (calls === 1) return new Response(new ReadableStream({
+      start(controller) { controller.enqueue(new Uint8Array([1, 2])); controller.error(new TypeError('Failed to fetch')); },
+    }));
+    return new Response(new Uint8Array([1, 2, 3, 4]));
+  }, { sleep: noSleep, consume: (res) => res.blob(), onRetry: (attempt) => retries.push(attempt) });
+  assert.equal(calls, 2);
+  assert.deepEqual(retries, [1]);
+  assert.deepEqual([...new Uint8Array(await blob.arrayBuffer())], [1, 2, 3, 4]);
+});
+
+test('fetchWithRetry: persistent body failures exhaust the retry budget', async () => {
+  let calls = 0;
+  await assert.rejects(fetchWithRetry(async () => {
+    calls++;
+    return new Response(new ReadableStream({ start(controller) { controller.error(new TypeError('body interrupted')); } }));
+  }, { sleep: noSleep, consume: (res) => res.blob() }), /body interrupted/);
+  assert.equal(calls, 3);
+});

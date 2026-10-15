@@ -1,3 +1,5 @@
+> Historical record of the original port. Authentication has since been replaced with the personal Google account flow in [architecture.md](architecture.md).
+
 # Port Spec — Python CLI → Browser Extension
 
 Source: survey of `gplay-apk-downloader` repo on branch `feat/web-extension` at HEAD `3ccde88`.

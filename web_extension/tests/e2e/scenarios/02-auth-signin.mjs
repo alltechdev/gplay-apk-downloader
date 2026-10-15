@@ -1,9 +1,10 @@
 // e2e: signs in via the extension UI, asserts the auth card flips from
 // "Not signed in" to the signed-in state. Verifies the extension can hit
-// AuroraOSS from the chrome-extension:// origin (CORS reality check).
+// Google from the chrome-extension:// origin. Requires explicit test credentials.
 import { resolve } from 'node:path';
 
 export default async function authSignIn({ browser, extensionId, shotDir, latestDir }) {
+  if (!process.env.GPLAY_ACCOUNT_EMAIL || !process.env.GPLAY_AAS_TOKEN) return { skipped: 'Personal account credentials not supplied' };
   if (!extensionId) throw new Error('no extensionId');
   const page = await browser.newPage();
   await page.setViewport({ width: 760, height: 720, deviceScaleFactor: 1 });
@@ -21,7 +22,12 @@ export default async function authSignIn({ browser, extensionId, shotDir, latest
   const beforeText = await page.$eval('#auth-status', (el) => el.textContent.trim());
 
   // Trigger sign-in.
-  await page.click('#auth-signin-btn');
+  // Test credential provisioning stays in the harness, never in the product UI.
+  const login = await page.evaluate((email, token) => chrome.runtime.sendMessage({
+    type: 'auth.signIn', payload: { email, token, arch: 'arm64-v8a' },
+  }), process.env.GPLAY_ACCOUNT_EMAIL, process.env.GPLAY_AAS_TOKEN);
+  if (login.error) throw new Error(login.error);
+  await page.reload({ waitUntil: 'networkidle0' });
 
   // Wait for either the sign-out button to show (success) or an "err" log.
   await page.waitForFunction(
@@ -31,7 +37,7 @@ export default async function authSignIn({ browser, extensionId, shotDir, latest
       const errored = !!document.querySelector('#log-scroll .log-icon.err');
       return (out && out.offsetParent !== null) || errored || stat?.textContent?.includes('Got token') ;
     },
-    { timeout: 30000 },
+    { timeout: 180000 },
   );
 
   // Capture state.

@@ -1,6 +1,6 @@
 # web_extension — Browser-side port of gplay-apk-downloader
 
-A Chromium / Firefox Manifest V3 extension that replaces the Flask server in the parent repo with a **fully client-side flow**: anonymous AuroraOSS sign-in, Play API details/purchase/delivery over a hand-rolled protobuf decoder, APKs streamed directly from Google Play's CDN to the user's disk or to a connected Android device, optional merge + sign of split APKs locally.
+A Chromium / Firefox Manifest V3 extension that replaces the Flask server in the parent repo with a **fully client-side flow**: personal Google account sign-in, Play API details/purchase/delivery over a hand-rolled protobuf decoder, APKs streamed directly from Google Play's CDN to the user's disk or to a connected Android device, optional merge + sign of split APKs locally.
 
 **No APK bytes ever transit a server.** The extension is a tool author, not a service operator.
 
@@ -32,7 +32,7 @@ A GitHub Actions workflow at `.github/workflows/build-extension.yml` runs the li
 
 | Card | Feature |
 |------|---------|
-| Authentication | Anonymous AuroraOSS dispenser sign-in. Iterates priority device profiles by architecture. Auto-rotates to a matching profile when the arch selector changes. Auto-retries on Play 401. Surfaces only "Authenticated" + profile name + arch — no dispenser-account email. |
+| Authentication | Personal Google account sign-in, matching device profiles for each architecture, and automatic AAS-based refresh on Play 401. No anonymous authentication. |
 | Install to Device | WebUSB ADB connection (`@yume-chan/adb`). Shows model + Android version + serial when connected. |
 | Direct Download | Type a package name → Info shows title/version/size/splits/installed-version-on-device (when ADB is connected). **Merge splits** checkbox (default ON, legacy-parity): merged + zipaligned + v1/v2/v3-signed single APK; unchecked: separate APK files. **Install to Device** button (when ADB connected): fetches blobs directly from Play CDN and `pm install-create` / `install-write` / `install-commit` to the device. |
 | Activity Log | Every step is logged with a clickable per-download cancel link and a "show in folder" action on completed entries. |
@@ -42,7 +42,7 @@ A GitHub Actions workflow at `.github/workflows/build-extension.yml` runs the li
 
 | Feature | Legacy server | This extension |
 |---------|---------------|----------------|
-| AuroraOSS anonymous auth | server-side `cloudscraper` POST | client-side `fetch` + `declarativeNetRequest` to set Aurora UA |
+| Google account auth | `account_auth.py` | JavaScript port: token exchange, two checkins, device config and Play terms |
 | Play API protobuf (details/purchase/delivery) | gpapi (Python) | hand-rolled `pb-decode.js` + schema |
 | Architecture selector | `arch=` query param | `arch.set` RPC; auto re-auth on change |
 | Merge splits + sign | `APKEditor.jar` + `apksigner sign` (default v1+v2+v3) | `fflate` merge + zipalign + v1+v2+v3 pure-JS signing; tested with real `apksigner verify` |
@@ -65,7 +65,7 @@ A GitHub Actions workflow at `.github/workflows/build-extension.yml` runs the li
 ```bash
 npm run lint                    # web-ext lint on manifest
 npm test                        # node:test unit tests (protobuf decoder, merge, zipalign, AXML patcher cross-validated against Python, v2 signer)
-npm run test:net                # integration against live AuroraOSS + Play API
+npm run test:net                # integration against Google account + Play API (requires explicit test credentials)
 npm run test:e2e                # puppeteer + system chromium, real downloads from real Google
 npm run test:all                # lint + unit + net + e2e
 ```
@@ -94,7 +94,9 @@ web_extension/
       20-pb.js                  protobuf decoder + Play API message schemas
       30-storage.js             chrome.storage wrappers + download↔rule map persistence
       40-dnr.js                 declarativeNetRequest dynamic rules (UA / Origin / Cookie injection)
-      50-auth.js                AuroraOSS sign-in / sign-out / status + arch selection
+      45-account-proto.js       Checkin/config/terms protobuf schemas and encoder
+      46-account-session.js     Port of account_auth.py token and device flow
+      50-auth.js                Google account sign-in / sign-out / status + arch selection
       60-play-api.js            /fdfe/details, /fdfe/purchase, /fdfe/delivery (with 401 auto-retry)
       70-downloads.js           chrome.downloads + per-download cookie rule lifecycle + prepareInstall
       80-search.js              Play Store HTML scrape (capped at 5 results)
@@ -141,7 +143,7 @@ web_extension/
   scripts/                      install.sh, serve.mjs, dev.mjs, lint.mjs
   tests/
     unit/                       node --test (pb-decode + drift, merger, signer structural + end-to-end `apksigner verify`, asn1, pkcs7, axml-patcher, zipalign, dom helpers, sw utils, analytics payload, pMapLimit, info-card helpers)
-    integration/                node --test, real network (AuroraOSS + Play API)
+    integration/                node --test, real network (Google account + Play API)
     e2e/                        puppeteer-core + system chromium (smoke + page-loads + auth + info-and-download + backup-restore)
     fixtures/, logs/, parity/   transient + future
   screenshots/                  e2e output (gitignored — local dev artifact)
@@ -159,7 +161,7 @@ web_extension/
 | `storage`  | auth token + arch preference (`chrome.storage.local`); per-download → DNR-rule id map (`chrome.storage.session`) |
 | `downloads`| `chrome.downloads.download` for split files; `chrome.downloads.show` for the in-log "show in folder" action |
 | `declarativeNetRequest` + `declarativeNetRequestWithHostAccess` | rewrite forbidden headers (User-Agent / Origin / Sec-Fetch-*) and inject the per-download `Cookie` from the delivery response |
-| `host_permissions` | `auroraoss.com`, `android.clients.google.com`, `play.googleapis.com`, `*.gvt1.com`, `*.googleusercontent.com`, `fonts.googleapis.com`, `fonts.gstatic.com`, `api.github.com`, `stats.dietdroid.com` (anonymous load counter — see Analytics below) |
+| `host_permissions` | `accounts.google.com`, `android.clients.google.com`, `play.googleapis.com`, `*.gvt1.com`, `*.googleusercontent.com`, `fonts.googleapis.com`, `fonts.gstatic.com`, `api.github.com`, `stats.dietdroid.com` (anonymous load counter — see Analytics below) |
 
 No `tabs` / `scripting` / `activeTab`. No content scripts.
 
@@ -178,3 +180,17 @@ What [Umami](https://umami.is) records per ping (no account, no package name, no
 That's it — nothing else is sent. There is no per-search, per-download, or per-install event.
 
 **To remove analytics entirely**, delete the `trackPageview()` line in [`src/app.js`](src/app.js). The rest of the extension does not depend on `analytics.js`. You can also remove `stats.dietdroid.com` from `host_permissions` in `src/manifest.json`.
+
+## Google account sign-in
+
+Load `web_extension/src` as an unpacked extension. Click **Sign in with Google** and complete Google’s login, including any 2FA, in the opened window. The extension automatically detects the account email and oauth cookie, then finishes signing in. The only account controls are **Sign in with Google** and **Sign out**, matching the server UI.
+
+The worker ports `account_auth.py`: exchange the cookie for an AAS credential, register a device, and create a Google Play session. Saved personal credentials refresh sessions and support architecture changes. If a previous session setup failed, the same sign-in button first retries the saved credential, as the server does.
+
+The `cookies` and `scripting` permissions are scoped by host access to `accounts.google.com`: they capture the oauth cookie and the signed-in email from the login window the extension opened. Passwords are entered only on Google’s page. **Sign out** clears extension credentials; it does not sign you out of Google in other windows. Existing anonymous sessions are discarded. No Aurora endpoint, host permission, or authentication fallback remains.
+
+Live account tests are opt-in: supply `GPLAY_ACCOUNT_EMAIL` and `GPLAY_AAS_TOKEN` in the test environment and run `npm run test:net`. Without them, account-dependent tests are skipped. Test credentials are not exposed as UI fields.
+
+Device profiles are generated from the server’s `device_profiles.py` with `npm run build:profiles` (Python 3 required). Personal-account defaults match main: Pixel 9a (`Pv`) for ARM64 and the newest ARMv7 profile, Samsung A13 5G (`Gj`). Login registers both architectures; failure of the secondary registration preserves the primary session. Architecture-specific sessions are cached separately and sign-out clears both.
+
+Play requests refresh a stale session once when details are empty, the version is zero, or delivery has no URL. A fresh zero-version result reports device incompatibility; paid apps report their price before purchase. Downloads retry interrupted response bodies, verify file sizes, and retain cookie rules until all active transfers finish.

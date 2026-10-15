@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "lint": "node scripts/lint.mjs",
-    "test": "node --test 'tests/unit/**/*.test.mjs'",
-    "test:net": "node --test 'tests/integration/**/*.test.mjs'",
+    "test": "node --test tests/unit",
+    "test:net": "node --test tests/integration",
     "test:parity": "bash tests/parity/run.sh",
     "test:e2e": "node tests/e2e/run.mjs",
     "test:all": "npm run lint && npm test && npm run test:net && npm run test:e2e",
@@ -16,7 +16,8 @@
     "build:adb": "esbuild src/modules/adb-entry.js --bundle --format=iife --target=es2020 --outfile=src/vendor/adb-bundle.js --minify --legal-comments=none",
     "build:apk-tools": "esbuild src/modules/apk-tools-entry.js --bundle --format=iife --target=es2020 --outfile=src/vendor/apk-tools-bundle.js --minify --legal-comments=none",
     "build:bundles": "npm run build:adb && npm run build:apk-tools",
-    "build": "npm run build:bundles && web-ext build --source-dir=src --artifacts-dir=dist --overwrite-dest"
+    "build": "npm run build:profiles && npm run build:bundles && web-ext build --source-dir=src --artifacts-dir=dist --overwrite-dest",
+    "build:profiles": "python3 scripts/export-profiles.py"
   },
   "devDependencies": {
     "@yume-chan/adb": "^2.6.0",

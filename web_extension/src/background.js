@@ -14,6 +14,8 @@ importScripts(
   'sw/20-pb.js',
   'sw/30-storage.js',
   'sw/40-dnr.js',
+  'sw/45-account-proto.js',
+  'sw/46-account-session.js',
   'sw/50-auth.js',
   'sw/60-play-api.js',
   'sw/70-downloads.js',

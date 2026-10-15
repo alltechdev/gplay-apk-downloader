@@ -1,3 +1,5 @@
+> Historical record of the original port. Authentication has since been replaced with the personal Google account flow in [architecture.md](architecture.md).
+
 # Changelog
 
 Running log of significant changes to the web_extension port. Append-only.

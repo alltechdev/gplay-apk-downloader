@@ -6,14 +6,14 @@
 
 let nextDownloadRuleId = DNR_DOWNLOAD_ID_MIN;
 
-function dnrDispenserRule() {
+function dnrAuthRule(userAgent = 'GoogleAuth/1.4') {
   return {
-    id: DNR_DISPENSER_ID,
+    id: DNR_AUTH_ID,
     priority: 1,
     action: {
       type: 'modifyHeaders',
       requestHeaders: [
-        { header: 'User-Agent', operation: 'set', value: DISPENSER_UA },
+        userAgent ? { header: 'User-Agent', operation: 'set', value: userAgent } : { header: 'User-Agent', operation: 'remove' },
         { header: 'Origin', operation: 'remove' },
         { header: 'Sec-Fetch-Site', operation: 'remove' },
         { header: 'Sec-Fetch-Mode', operation: 'remove' },
@@ -21,8 +21,14 @@ function dnrDispenserRule() {
         { header: 'Sec-Fetch-User', operation: 'remove' },
       ],
     },
-    condition: { urlFilter: '||auroraoss.com/api/auth', resourceTypes: ['xmlhttprequest'] },
+    condition: { urlFilter: '|https://android.clients.google.com/auth|', resourceTypes: ['xmlhttprequest'] },
   };
+}
+function dnrCheckinRule(userAgent) {
+  const rule = dnrFdfeRule(userAgent);
+  rule.id = DNR_CHECKIN_ID;
+  rule.condition.urlFilter = '|https://android.clients.google.com/checkin|';
+  return rule;
 }
 function dnrFdfeRule(userAgent) {
   return {
@@ -91,12 +97,13 @@ function dnrCdnRule() {
 }
 
 async function installCoreDnrRules(playUserAgent) {
-  const coreIds = new Set([DNR_DISPENSER_ID, DNR_FDFE_ID, DNR_CDN_ID, DNR_SEARCH_ID]);
-  const existing = await chrome.declarativeNetRequest.getDynamicRules();
-  const removeRuleIds = existing.filter((r) => coreIds.has(r.id)).map((r) => r.id);
+  // updateDynamicRules is atomic and permits removing absent IDs. Always
+  // replace the full core set: a prior getDynamicRules snapshot can become
+  // stale when boot/onInstalled/onStartup/sign-in overlap.
+  const removeRuleIds = [DNR_AUTH_ID, DNR_FDFE_ID, DNR_CDN_ID, DNR_SEARCH_ID, DNR_CHECKIN_ID];
   await chrome.declarativeNetRequest.updateDynamicRules({
     removeRuleIds,
-    addRules: [dnrDispenserRule(), dnrFdfeRule(playUserAgent), dnrCdnRule(), dnrSearchRule()],
+    addRules: [dnrCheckinRule(playUserAgent), dnrAuthRule(), dnrFdfeRule(playUserAgent), dnrCdnRule(), dnrSearchRule()],
   });
 }
 

@@ -35,7 +35,7 @@ Real-browser E2E is **local** on this host. There is no manual gate.
 
 ### Stage 3 — Integration against real Google endpoints (Node)
 - Command: `npm run test:net`
-- Tool: `node --test 'tests/integration/**/*.test.mjs'` with real `fetch` to AuroraOSS + `android.clients.google.com/fdfe/*`.
+- Tool: `node --test 'tests/integration/**/*.test.mjs'` with real `fetch` to Google account + `android.clients.google.com/fdfe/*`.
 - Confirms request shape and response parsing against live endpoints.
 - Limit: Node `fetch` doesn't enforce CORS; browser-specific failures cannot be caught here — those land in Stage 5.
 
@@ -76,3 +76,5 @@ Each item below requires a written stage-4 or stage-5 test before being claimed:
 - That the popup renders at the default 360×600.
 
 All of the above are tracked as test-pending items in `docs/test-runs/`.
+
+Personal account integration and authenticated browser scenarios require `GPLAY_ACCOUNT_EMAIL` and `GPLAY_AAS_TOKEN`. They skip explicitly when credentials are absent. Browser form validation, migration, cancellation, and Google-only request rules are tested without credentials. Modern Chrome uses CDP to load the unpacked extension; older Chromium can use `LEGACY_EXTENSION_FLAGS=1`.

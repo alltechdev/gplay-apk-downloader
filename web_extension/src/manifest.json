@@ -26,10 +26,11 @@
     "storage",
     "downloads",
     "declarativeNetRequest",
-    "declarativeNetRequestWithHostAccess"
+    "declarativeNetRequestWithHostAccess",
+    "cookies",
+    "scripting"
   ],
   "host_permissions": [
-    "https://auroraoss.com/*",
     "https://android.clients.google.com/*",
     "https://play.googleapis.com/*",
     "https://play-fe.googleapis.com/*",
@@ -39,7 +40,8 @@
     "https://fonts.googleapis.com/*",
     "https://fonts.gstatic.com/*",
     "https://api.github.com/*",
-    "https://stats.dietdroid.com/*"
+    "https://stats.dietdroid.com/*",
+    "https://accounts.google.com/*"
   ],
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com"
@@ -48,7 +50,9 @@
     "gecko": {
       "id": "gplaydl@dietdroid.com",
       "data_collection_permissions": {
-        "required": ["none"]
+        "required": [
+          "none"
+        ]
       }
     }
   }

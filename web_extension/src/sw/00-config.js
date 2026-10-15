@@ -2,7 +2,10 @@
 // Loaded first via importScripts so every later module sees these globals.
 
 const PAGE_URL = chrome.runtime.getURL('index.html');
-const DISPENSER_URL = 'https://auroraoss.com/api/auth';
+const GOOGLE_AUTH_URL = 'https://android.clients.google.com/auth';
+const GOOGLE_CHECKIN_URL = 'https://android.clients.google.com/checkin';
+const GOOGLE_LOGIN_URL = 'https://accounts.google.com/EmbeddedSetup';
+const LOGIN_STORAGE_KEY = 'gplaydl.pendingLogin';
 const PLAY_BASE = 'https://android.clients.google.com/fdfe';
 const SEARCH_URL = 'https://play.google.com/store/search';
 
@@ -13,7 +16,7 @@ const DOWNLOAD_RULE_MAP_KEY = 'gplaydl.downloadRules';
 const AUTH_TTL_MS = 1000 * 60 * 60 * 4;
 const DEFAULT_ARCH = 'arm64-v8a';
 
-const DNR_DISPENSER_ID = 1;
+const DNR_AUTH_ID = 1;
 const DNR_FDFE_ID = 2;
 const DNR_CDN_ID = 3;
 const DNR_SEARCH_ID = 4;
@@ -21,7 +24,7 @@ const DNR_DOWNLOAD_ID_MIN = 100;
 const DNR_DOWNLOAD_ID_MAX = 9999;
 
 const PLAY_FALLBACK_UA = 'Android-Finsky/45.8.21-31 [0] [PR] 747433787 (api=3,versionCode=84582130,sdk=35,device=tegu,hardware=tegu,product=tegu,platformVersionRelease=15,model=Pixel%209a,buildId=BD4A.250405.003,isWideScreen=0,supportedAbis=arm64-v8a)';
-const DISPENSER_UA = 'com.aurora.store-4.6.1-70';
+const DNR_CHECKIN_ID = 5;
 // Plain desktop-Chrome UA for `play.google.com/store/*` HTML scrapes. Without
 // a "real" UA the Play Store redirects to accounts.google.com sign-in.
 const PLAY_WEB_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';

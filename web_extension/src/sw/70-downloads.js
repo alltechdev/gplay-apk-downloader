@@ -50,12 +50,16 @@ async function showDownload({ id }) {
 
 // Direct, server-style "download splits to disk" path (legacy single-app
 // download with merge unchecked still kept around for power users + tests).
-async function appDownload({ packageName, versionCode }) {
+async function appDownload({ packageName, versionCode, arch }) {
   validatePackageName(packageName);
+  arch ||= await getArchPref();
+  const details = await appDetails({ packageName, arch });
+  versionCode = details.versionCode;
   broadcast('download.event', { phase: 'purchase', packageName, versionCode });
-  await appPurchase({ packageName, versionCode });
+  await appPurchase({ packageName, versionCode, arch });
   broadcast('download.event', { phase: 'delivery', packageName, versionCode });
-  const delivery = await appDelivery({ packageName, versionCode });
+  const delivery = await appDelivery({ packageName, versionCode, arch });
+  versionCode = delivery.versionCode;
   const dirPrefix = `gplaydl/${sanitizeFilenameSegment(packageName)}-${versionCode}`;
   const files = [{ kind: 'base', name: 'base.apk', url: delivery.downloadUrl, size: delivery.downloadSize }];
   delivery.splits.forEach((s, i) => {
@@ -76,12 +80,16 @@ async function appDownload({ packageName, versionCode }) {
 // returns the URLs + cookies and installs per-URL DNR rules so the page can
 // fetch each blob directly (no chrome.downloads roundtrip). Page must call
 // app.releaseRules with the returned ruleIds when done.
-async function appPrepareInstall({ packageName, versionCode }) {
+async function appPrepareInstall({ packageName, versionCode, arch }) {
   validatePackageName(packageName);
+  arch ||= await getArchPref();
+  const details = await appDetails({ packageName, arch });
+  versionCode = details.versionCode;
   broadcast('download.event', { phase: 'purchase', packageName, versionCode });
-  await appPurchase({ packageName, versionCode });
+  await appPurchase({ packageName, versionCode, arch });
   broadcast('download.event', { phase: 'delivery', packageName, versionCode });
-  const delivery = await appDelivery({ packageName, versionCode });
+  const delivery = await appDelivery({ packageName, versionCode, arch });
+  versionCode = delivery.versionCode;
   const files = [{ kind: 'base', name: 'base.apk', url: delivery.downloadUrl, size: delivery.downloadSize }];
   delivery.splits.forEach((s, i) => {
     const baseName = sanitizeFilenameSegment(s.name || `split${i}`);

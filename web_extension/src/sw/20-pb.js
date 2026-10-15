@@ -7,6 +7,7 @@
 const PB_STRING = 'string';
 const PB_INT32  = 'int32';
 const PB_INT64  = 'int64';
+const PB_FIXED64 = 'fixed64';
 const PB_BOOL   = 'bool';
 const PB_BYTES  = 'bytes';
 const PB_NESTED = 'nested';
@@ -42,7 +43,11 @@ function pbDecode(buf, schema) {
     const field = schema[fieldNo];
     if (!field) { pos = pbSkip(buf, pos, wire); continue; }
     let value;
-    if (field.type === PB_STRING) {
+    if (field.type === PB_FIXED64) {
+      if (wire !== 1 || pos + 8 > buf.length) throw new ProtoError('pb: invalid fixed64');
+      value = 0n;
+      for (let i = 0; i < 8; i++) value |= BigInt(buf[pos++]) << BigInt(i * 8);
+    } else if (field.type === PB_STRING) {
       const [len, p2] = pbReadVarint(buf, pos);
       const L = Number(len);
       value = new TextDecoder('utf-8').decode(buf.subarray(p2, p2 + L));
@@ -109,9 +114,15 @@ const PB_AppDetails = {
   25: { name: 'splitId',          type: PB_STRING, repeated: true },
 };
 const PB_DocumentDetails = { 1: { name: 'appDetails', type: PB_NESTED, schema: PB_AppDetails } };
+const PB_Offer = {
+  1: { name: 'micros', type: PB_INT64 },
+  3: { name: 'formattedAmount', type: PB_STRING },
+  8: { name: 'offerType', type: PB_INT32 },
+};
 const PB_DocV2 = {
   1:  { name: 'docid',   type: PB_STRING },
   5:  { name: 'title',   type: PB_STRING },
+  8:  { name: 'offer', type: PB_NESTED, schema: PB_Offer, repeated: true },
   13: { name: 'details', type: PB_NESTED, schema: PB_DocumentDetails },
 };
 const PB_DetailsResponse = { 4: { name: 'docV2', type: PB_NESTED, schema: PB_DocV2 } };

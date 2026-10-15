@@ -28,13 +28,13 @@ The numeric prefix is the dependency order — config first, dispatcher last. Ea
 
 | File                | What it owns                                                                                                |
 |---------------------|-------------------------------------------------------------------------------------------------------------|
-| `sw/00-config.js`   | URLs (dispenser, Play, search), storage keys, DNR rule IDs, TTL constants, hardcoded `X-DFE-*` headers.     |
+| `sw/00-config.js`   | URLs (Google auth/checkin/login, Play, search), storage keys, DNR rule IDs, TTL constants, hardcoded `X-DFE-*` headers.     |
 | `sw/05-logger.js`   | `swLog.debug/info/warn/error` — tagged + level-filtered.                                                    |
 | `sw/10-utils.js`    | `broadcast`, `validatePackageName`, `sanitizeFilenameSegment`, `loadProfilesJson`.                          |
 | `sw/15-errors.js`   | `AuthError`, `NetworkError`, `PlayApiError`, `ProtoError`, `ValidationError`.                                |
 | `sw/20-pb.js`       | Minimal protobuf decoder + Play API schemas (`PB_ResponseWrapper`, `PB_AppDetails`, `PB_AndroidAppDeliveryData`, …). |
 | `sw/30-storage.js`  | `chrome.storage` wrappers (`getAuthStored`/`setAuthStored`/…) + the download↔rule map persisted in `chrome.storage.session`. |
-| `sw/40-dnr.js`      | Four static dynamic rules (dispenser / fdfe / CDN / play.google.com search) + the per-download cookie-rule allocator/free-er. |
+| `sw/40-dnr.js`      | Five core dynamic rules (Google auth / checkin / fdfe / CDN / Play search) + the per-download cookie-rule allocator/free-er. |
 | `sw/50-auth.js`     | `authSignIn` (iterates priority profiles by arch), `authStatus`, `authSignOut`, `setArchRpc`. Throws `AuthError`. |
 | `sw/60-play-api.js` | `fdfeRequest` (auto-retry on 401), `appDetails`, `appPurchase`, `appDelivery`. Throws `PlayApiError` / `ProtoError`. |
 | `sw/70-downloads.js`| `chrome.downloads.onChanged` listener; `queueDownloadFile`, `cancelDownload`, `showDownload`, `appDownload`, `appPrepareInstall`, `releaseRules`. |
@@ -116,7 +116,7 @@ Cross-card communication is one `adb-status` `CustomEvent` on the document — n
 | Dir                | Runner           | What                                                              |
 |--------------------|------------------|-------------------------------------------------------------------|
 | `tests/unit/`      | `node --test`    | pb-decode + drift, apk-merger, apk-signer structural + end-to-end `apksigner verify`, asn1, pkcs7, axml-patcher (Python parity), zipalign, dom helpers, sw utils, analytics opt-out, pMapLimit, info-card describeSplits. |
-| `tests/integration/`| `node --test`   | live AuroraOSS dispenser, live Play API details + delivery.       |
+| `tests/integration/`| `node --test`   | live Google account authentication, live Play API details + delivery.       |
 | `tests/e2e/`       | `puppeteer-core` | system chromium + the unpacked extension. 4 scenarios + smoke.    |
 | `tests/parity/`    | bash             | placeholder for future legacy CLI byte-diff runs.                 |
 | `tests/fixtures/`  | —                | gitignored binary fixtures.                                       |

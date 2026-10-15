@@ -7,7 +7,7 @@ This is the canonical test pipeline. Everything that proves the extension works 
 ```
 tests/
   unit/         node --test, pure-logic JS modules
-  integration/  node --test, real network to AuroraOSS + Play API
+  integration/  node --test, real network to Google account + Play API
   parity/       bash + python: drive the legacy CLI in venv, compare bytes/protobuf
   e2e/          puppeteer-core driving system chromium with the unpacked extension
   fixtures/     captured protobuf payloads, golden outputs (binary, gitignored)
@@ -38,4 +38,4 @@ Logs are gitignored. To preserve a run for posterity, copy it into `docs/test-ru
 
 ## Rule: tests prove claims
 
-If a doc says "we authenticate with AuroraOSS", there is a test in `tests/integration/auth.test.mjs` that proves it. If a doc says "the popup opens", there is a screenshot in `docs/test-runs/`. No exceptions.
+Personal account live tests require GPLAY_ACCOUNT_EMAIL and GPLAY_AAS_TOKEN; without credentials they are explicitly skipped. If a doc says "the popup opens", there is a screenshot in `docs/test-runs/`. No exceptions.

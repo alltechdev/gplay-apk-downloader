@@ -26,7 +26,8 @@ const DEFAULT_SLEEP = (ms) => new Promise((r) => setTimeout(r, ms));
  * @param {number} [opts.attempts]  Total attempts including the first. Default 3.
  * @param {(attempt: number, err: Error|null, status: number|null) => void} [opts.onRetry]
  * @param {(ms: number) => Promise<void>} [opts.sleep]  Injected for tests.
- * @returns {Promise<Response>}
+ * @param {(response: Response) => Promise<any>} [opts.consume] Read the body within the retry boundary.
+ * @returns {Promise<any>} Response, or the consumed body when consume is supplied.
  */
 export async function fetchWithRetry(doFetch, opts = {}) {
   const attempts = opts.attempts ?? 3;
@@ -35,7 +36,9 @@ export async function fetchWithRetry(doFetch, opts = {}) {
   for (let i = 1; i <= attempts; i++) {
     try {
       const res = await doFetch();
-      if (res.ok) return res;
+      if (res.ok) return opts.consume ? await opts.consume(res) : res;
+      // Release failed HTTP responses before opening another connection.
+      await res.body?.cancel().catch(() => {});
       // Retry on 5xx and 429; everything else is a hard fail.
       if (res.status >= 500 || res.status === 429) {
         lastErr = new Error('HTTP ' + res.status);

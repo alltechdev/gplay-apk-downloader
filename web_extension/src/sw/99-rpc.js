@@ -3,6 +3,9 @@
 // not in the RPC table so the SW ignores its own broadcasts.
 
 const RPC = {
+  'auth.beginLogin':    (p) => authBeginLogin(p),
+  'auth.completeLogin': () => authCompleteLogin(),
+  'auth.cancelLogin':   () => authCancelLogin(),
   'auth.status':        ()  => authStatus(),
   'auth.signIn':        (p) => authSignIn(p),
   'auth.signOut':       ()  => authSignOut(),

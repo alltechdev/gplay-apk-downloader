@@ -88,7 +88,7 @@ function infoBody(d, installed, arch) {
 /** Fetch details + installed version, cache details, render to #info-result. */
 export async function fetchAndShowInfo(pkg) {
   const [d, installed] = await Promise.all([
-    rpc('app.details', { packageName: pkg }),
+    rpc('app.details', { packageName: pkg, arch: $('#arch-select')?.value }),
     getInstalledVersion(pkg),
   ]);
   currentDetails = d;
@@ -99,8 +99,9 @@ export async function fetchAndShowInfo(pkg) {
 
 /** Return cached details if they match `pkg`, else fetch fresh. */
 export async function getDetailsCached(pkg) {
-  if (currentDetails && currentDetails.packageName === pkg) return currentDetails;
-  const d = await rpc('app.details', { packageName: pkg });
+  const arch = $('#arch-select')?.value;
+  if (currentDetails && currentDetails.packageName === pkg && currentDetails.arch === arch) return currentDetails;
+  const d = await rpc('app.details', { packageName: pkg, arch });
   currentDetails = d;
   return d;
 }

@@ -31,22 +31,31 @@ const MERGE_MAX_BYTES = 1_500 * 1024 * 1024; // 1.5 GB cumulative
 
 async function fetchOne(f) {
   log('Fetching ' + f.name + ' (' + fmtSize(f.size) + ') from CDN…', 'dl');
-  const res = await fetchWithRetry(() => fetch(f.url), {
-    onRetry: (attempt, err) => log('  Retry ' + f.name + ' (attempt ' + (attempt + 1) + ') — ' + (err?.message || 'error'), 'warn'),
-  });
-  if (!res.ok) throw new Error('CDN fetch ' + f.name + ' → ' + res.status);
-  const blob = await res.blob();
+  let blob;
+  try {
+    blob = await fetchWithRetry(() => fetch(f.url), {
+      consume: async (res) => {
+        const body = await res.blob();
+        if (f.size > 0 && body.size !== f.size) throw new Error('Size mismatch: received ' + body.size + ' bytes, expected ' + f.size);
+        return body;
+      },
+      onRetry: (attempt, err) => log('  Retry ' + f.name + ' (attempt ' + (attempt + 1) + ') — ' + (err?.message || 'error'), 'warn'),
+    });
+  } catch (err) {
+    throw new Error('CDN download ' + f.name + ' failed: ' + (err?.message || 'network error'), { cause: err });
+  }
   log('  Fetched ' + f.name + ' (' + fmtSize(blob.size) + ')', 'ok');
   return { name: f.name, blob, size: blob.size };
 }
 
 /** Fetch every split listed in `app.prepareInstall` straight from the CDN. */
 export async function fetchSplits(pkg, details) {
-  const prep = await rpc('app.prepareInstall', { packageName: pkg, versionCode: details.versionCode });
+  const prep = await rpc('app.prepareInstall', { packageName: pkg, versionCode: details.versionCode, arch: details.arch });
+  details.versionCode = prep.versionCode;
   try {
     return await pMapLimit(prep.files, FETCH_CONCURRENCY, fetchOne);
   } finally {
-    rpc('app.releaseRules', { ruleIds: prep.ruleIds }).catch(() => {});
+    await rpc('app.releaseRules', { ruleIds: prep.ruleIds }).catch(() => {});
   }
 }
 

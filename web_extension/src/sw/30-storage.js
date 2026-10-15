@@ -1,11 +1,30 @@
 // 30-storage.js — chrome.storage wrappers and the in-memory download↔rule map.
 
-async function getAuthStored() {
+async function getAuthStored(arch) {
   const obj = await chrome.storage.local.get(AUTH_STORAGE_KEY);
-  return obj?.[AUTH_STORAGE_KEY] || null;
+  const auth = obj?.[AUTH_STORAGE_KEY];
+  if (auth && (auth.accountType !== 'personal' || !auth.aasToken)) {
+    await clearAuthStored(); // Retire anonymous sessions from older extension versions.
+    return null;
+  }
+  if (!auth || !arch) return auth || null;
+  const session = auth._sessions?.[arch];
+  if (session) return { ...session, email: auth.email, aasToken: auth.aasToken, accountType: 'personal' };
+  if (auth._profileArch === arch || (!auth._profileArch && arch === DEFAULT_ARCH)) return auth;
+  // Never send the other architecture's token to Play (main issue #29).
+  return { email: auth.email, aasToken: auth.aasToken, accountType: 'personal', _profileArch: arch };
 }
 async function setAuthStored(auth) {
-  await chrome.storage.local.set({ [AUTH_STORAGE_KEY]: auth });
+  const old = (await chrome.storage.local.get(AUTH_STORAGE_KEY))[AUTH_STORAGE_KEY];
+  const sameAccount = old?.email === auth.email && old?.aasToken === auth.aasToken;
+  const sessions = sameAccount ? { ...old?._sessions } : {};
+  if (sameAccount && old?.authToken && old?._profileArch) {
+    const { _sessions, ...previous } = old;
+    sessions[old._profileArch] = previous;
+  }
+  const { _sessions, ...current } = auth;
+  if (current.authToken && current._profileArch) sessions[current._profileArch] = current;
+  await chrome.storage.local.set({ [AUTH_STORAGE_KEY]: { ...current, _sessions: sessions } });
 }
 async function clearAuthStored() {
   await chrome.storage.local.remove(AUTH_STORAGE_KEY);

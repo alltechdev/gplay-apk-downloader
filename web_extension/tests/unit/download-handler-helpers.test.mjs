@@ -42,3 +42,25 @@ test('pMapLimit: limit larger than items still works', async () => {
   const out = await pMapLimit([1, 2], 10, async (n) => n * 2);
   assert.deepEqual(out, [2, 4]);
 });
+
+test('pMapLimit: retains resources until active workers settle and stops scheduling after failure', async () => {
+  let release;
+  const gate = new Promise((resolve) => { release = resolve; });
+  const started = [];
+  let cleaned = false;
+  let settled = false;
+  const job = pMapLimit([0, 1, 2, 3], 2, async (n) => {
+    started.push(n);
+    if (n === 0) throw new Error('first failure');
+    await gate;
+    assert.equal(cleaned, false, 'cookie rules must remain until this worker finishes');
+    throw new Error('later failure');
+  }).finally(() => { cleaned = true; settled = true; });
+  const rejection = assert.rejects(job, /first failure/);
+  await new Promise((resolve) => setImmediate(resolve));
+  assert.equal(settled, false);
+  assert.deepEqual(started, [0, 1]);
+  release();
+  await rejection;
+  assert.equal(cleaned, true);
+});

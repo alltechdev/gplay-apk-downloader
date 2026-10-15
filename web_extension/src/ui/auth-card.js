@@ -1,78 +1,94 @@
-// auth-card.js — Authentication card.
-//
-// Renders sign-in state, listens for SW `auth.event` broadcasts, and
-// handles the arch selector (which auto re-signs-in if the current
-// profile's arch doesn't match).
-//
-// Legacy parity: dispenser-account email is *not* surfaced.
-
+// Matches the server UI: sign in with Google, automatic capture, and sign out.
 import { $, h, replace } from './dom.js';
 import { rpc } from './rpc.js';
 import { log, setLogActive } from './log.js';
+import { clearDetailsCache } from './info-card.js';
+
+let pollTimer = null;
+let polling = false;
 
 function setAuthCard(status) {
-  const statusEl = $('#auth-status');
-  const signInBtn  = $('#auth-signin-btn');
-  const signOutBtn = $('#auth-signout-btn');
   $('#arch-select').value = status.arch || 'arm64-v8a';
+  $('#auth-signin-btn').style.display = status.signedIn ? 'none' : '';
+  $('#auth-signin-btn').disabled = !!status.pendingLogin;
+  $('#auth-signout-btn').style.display = status.signedIn ? '' : 'none';
   if (status.signedIn) {
-    const stale = status.stale ? ' (stale, will refresh on next call)' : '';
-    const detail = (status.profileLabel || status.profileKey || '') +
-                   ' · ' + (status.profileArch || '') + stale;
-    replace(statusEl,
-      h('div', { class: 'adb-dot' }),
-      h('div', { class: 'adb-device-name' },
-        'Authenticated',
-        h('small', null, detail),
-      ),
-    );
-    signInBtn.style.display  = 'none';
-    signOutBtn.style.display = '';
+    const detail = `${status.profileLabel || status.profileKey || ''} · ${status.profileArch || ''}` +
+      (status.stale ? ' (will refresh on next request)' : '');
+    replace($('#auth-status'), h('div', { class: 'adb-dot' }),
+      h('div', { class: 'adb-device-name' }, status.email || 'Authenticated', h('small', null, detail)));
   } else {
-    statusEl.textContent = 'Not signed in. Click "Sign in" for an anonymous AuroraOSS token.';
-    signInBtn.style.display  = '';
-    signOutBtn.style.display = 'none';
+    $('#auth-status').textContent = status.pendingLogin
+      ? 'Sign in with Google in the opened window…'
+      : 'Not signed in. Sign in with your Google account.';
   }
 }
 
-async function refreshAuth() {
-  try { setAuthCard(await rpc('auth.status')); }
-  catch (err) { log('auth status failed: ' + err.message, 'err'); }
+function showAuthError(err) {
+  $('#auth-status').textContent = err.message;
+  $('#auth-signin-btn').disabled = false;
+  log('Google sign-in failed: ' + err.message, 'err');
+  setLogActive(false);
 }
 
-function onAuthEvent(p) {
-  if      (p.phase === 'start')   { log('Sign-in started (arch=' + p.arch + ')', 'info'); setLogActive(true); }
-  else if (p.phase === 'try')      log('Trying profile ' + p.key + ' (' + p.label + ', ' + p.arch + ')', 'info');
-  else if (p.phase === 'reject')   log('Dispenser rejected ' + p.key + ' (HTTP ' + p.status + ')', 'warn');
-  else if (p.phase === 'error')    log('Network error on ' + p.key + ': ' + p.error, 'err');
-  else if (p.phase === 'ok')       log('Got token from ' + p.key, 'ok');
-  else if (p.phase === 'done')   { log('Sign-in complete (' + p.profileKey + ')', 'ok'); setLogActive(false); refreshAuth(); }
-  else if (p.phase === 'fail')   { log('Sign-in failed — all profiles rejected', 'err'); setLogActive(false); }
-  else if (p.phase === 'refresh')  log('Re-authenticating (' + p.reason + ')', 'info');
+function pollLogin() {
+  if (pollTimer || polling) return;
+  pollTimer = setTimeout(async () => {
+    pollTimer = null;
+    polling = true;
+    let pending = false;
+    try {
+      const result = await rpc('auth.completeLogin');
+      pending = !!result.pending;
+      if (!pending) { setAuthCard(result); setLogActive(false); }
+    } catch (err) { showAuthError(err); }
+    finally { polling = false; }
+    if (pending) pollLogin();
+  }, 1000);
+}
+
+async function refreshAuth() {
+  try {
+    const status = await rpc('auth.status');
+    setAuthCard(status);
+    if (status.pendingLogin) pollLogin();
+  } catch (err) { log('Auth status failed: ' + err.message, 'err'); }
 }
 
 export function initAuthCard() {
   $('#auth-signin-btn').addEventListener('click', async () => {
+    clearDetailsCache();
     $('#auth-signin-btn').disabled = true;
-    try { setAuthCard(await rpc('auth.signIn', { arch: $('#arch-select').value })); }
-    catch (err) { log('Sign-in failed: ' + err.message, 'err'); setLogActive(false); }
-    finally { $('#auth-signin-btn').disabled = false; }
+    $('#auth-status').textContent = 'A browser window is opening — sign in there…';
+    setLogActive(true);
+    try {
+      const result = await rpc('auth.beginLogin', { arch: $('#arch-select').value });
+      if (result.pending) pollLogin();
+      else { setAuthCard(result); setLogActive(false); }
+    } catch (err) { showAuthError(err); }
   });
   $('#auth-signout-btn').addEventListener('click', async () => {
-    try { setAuthCard(await rpc('auth.signOut')); log('Signed out', 'info'); }
-    catch (err) { log('Sign-out failed: ' + err.message, 'err'); }
+    clearDetailsCache();
+    try { setAuthCard(await rpc('auth.signOut')); log('Signed out of Google account', 'info'); }
+    catch (err) { showAuthError(err); }
   });
   $('#arch-select').addEventListener('change', async (e) => {
-    const arch = e.target.value;
+    clearDetailsCache();
     try {
+      const arch = e.target.value;
       const status = await rpc('arch.set', { arch });
-      log('Architecture set to ' + arch, 'info');
-      if (status.signedIn && status.profileArch && status.profileArch !== arch) {
-        log('Profile arch (' + status.profileArch + ') differs — re-authenticating', 'info');
-        setAuthCard(await rpc('auth.signIn', { arch }));
-      }
-    } catch (err) { log('arch.set failed: ' + err.message, 'err'); }
+      if (status.canRetry || (status.signedIn && status.profileArch !== arch)) setAuthCard(await rpc('auth.signIn', { arch }));
+      else setAuthCard(status);
+    } catch (err) { showAuthError(err); }
   });
-  chrome.runtime.onMessage.addListener((msg) => { if (msg?.type === 'auth.event') onAuthEvent(msg.payload || {}); });
+  chrome.runtime.onMessage.addListener((msg) => {
+    if (msg?.type !== 'auth.event') return;
+    const p = msg.payload || {};
+    if (p.phase === 'start') { log('Signing in with Google…', 'info'); setLogActive(true); }
+    else if (p.phase === 'progress') { $('#auth-status').textContent = p.message; log(p.message, 'info'); }
+    else if (p.phase === 'done') { log('Google Play session ready', 'ok'); setLogActive(false); refreshAuth(); }
+    else if (p.phase === 'fail') setLogActive(false);
+    else if (p.phase === 'refresh') log('Refreshing Google Play session', 'info');
+  });
   refreshAuth();
 }

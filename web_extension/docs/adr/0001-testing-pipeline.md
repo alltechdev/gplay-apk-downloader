@@ -20,7 +20,7 @@ Five-stage pipeline, all stages runnable on the dev host:
 
 1. `web-ext lint` — manifest static check
 2. `node --test` over `tests/unit/` — pure-logic unit tests
-3. `node --test` over `tests/integration/` — live network against AuroraOSS + Google
+3. `node --test` over `tests/integration/` — live network against Google account + Google
 4. `tests/parity/run.sh` — diff JS output against legacy Python CLI (opt-in)
 5. `puppeteer-core` over `src/` loaded as unpacked extension — real Chrome E2E
 

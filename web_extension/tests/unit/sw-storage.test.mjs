@@ -38,14 +38,14 @@ function loadStorage(chromeStub) {
 test('auth: set → get round-trip', async () => {
   const local = {};
   const sw = loadStorage(makeChrome({ local }));
-  await sw.setAuthStored({ authToken: 'abc', email: 'x@y' });
+  await sw.setAuthStored({ accountType: 'personal', aasToken: 'aas_et/test', authToken: 'abc', email: 'x@y' });
   const got = await sw.getAuthStored();
   assert.equal(got.authToken, 'abc');
   assert.equal(got.email, 'x@y');
 });
 
 test('auth: clear removes the key', async () => {
-  const local = { 'gplaydl.auth': { authToken: 't' } };
+  const local = { 'gplaydl.auth': { accountType: 'personal', aasToken: 'aas_et/test', authToken: 't' } };
   const sw = loadStorage(makeChrome({ local }));
   assert.ok((await sw.getAuthStored())?.authToken);
   await sw.clearAuthStored();

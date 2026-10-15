@@ -29,18 +29,8 @@ export default async function infoAndDownload({ browser, extensionId, shotDir, l
 
   // If a prior scenario already signed in, skip sign-in.
   const alreadySignedIn = await page.$eval('#auth-signout-btn', (el) => el.offsetParent !== null).catch(() => false);
-  if (!alreadySignedIn) {
-    await page.waitForSelector('#auth-signin-btn', { visible: true });
-    await page.click('#auth-signin-btn');
-    await page.waitForFunction(
-      () => {
-        const out = document.getElementById('auth-signout-btn');
-        const errored = !!document.querySelector('#log-scroll .log-icon.err');
-        return (out && out.offsetParent !== null) || errored;
-      },
-      { timeout: 30000 },
-    );
-  }
+  if (!alreadySignedIn) { await page.close(); return { skipped: 'Sign in with a personal account first' }; }
+
   const signedIn = await page.$eval('#auth-signout-btn', (el) => el.offsetParent !== null).catch(() => false);
   if (!signedIn) {
     const logs = await page.$$eval('#log-scroll .log-entry', (els) => els.map((e) => e.textContent.trim()));

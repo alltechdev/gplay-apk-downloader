@@ -29,7 +29,7 @@ function loadRpc(handlers) {
   };
   const stubs = {};
   // The dispatcher names every handler symbol used in the RPC map.
-  for (const name of ['authStatus','authSignIn','authSignOut','setArchRpc','appDetails','appDelivery','appDownload','cancelDownload','showDownload','appPrepareInstall','releaseRules','appSearch']) {
+  for (const name of ['authBeginLogin','authCompleteLogin','authCancelLogin','authStatus','authSignIn','authSignOut','setArchRpc','appDetails','appDelivery','appDownload','cancelDownload','showDownload','appPrepareInstall','releaseRules','appSearch']) {
     stubs[name] = handlers[name] || (async () => { throw new Error(name + ' not stubbed'); });
   }
   const code = readFileSync(resolve(swDir, '99-rpc.js'), 'utf8');

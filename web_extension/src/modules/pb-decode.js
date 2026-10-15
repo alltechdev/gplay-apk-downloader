@@ -22,6 +22,7 @@
 const VARINT = 'varint';
 const INT32  = 'int32';
 const INT64  = 'int64';
+const FIXED64 = 'fixed64';
 const BOOL   = 'bool';
 const STRING = 'string';
 const BYTES  = 'bytes';
@@ -68,7 +69,11 @@ export function decode(buf, schema) {
     const field = schema[fieldNo];
     if (!field) { pos = skip(buf, pos, wire); continue; }
     let value;
-    if (field.type === STRING) {
+    if (field.type === FIXED64) {
+      if (wire !== 1 || pos + 8 > buf.length) throw new Error('pb: invalid fixed64');
+      value = 0n;
+      for (let i = 0; i < 8; i++) value |= BigInt(buf[pos++]) << BigInt(i * 8);
+    } else if (field.type === STRING) {
       const [len, p2] = readVarint(buf, pos);
       const L = Number(len);
       value = utf8Decode(buf, p2, L);

@@ -1,5 +1,5 @@
 // Unit tests for src/sw/50-auth.js — authStatus / authSignOut / setArchRpc
-// state transitions. authSignIn is covered by the live integration test.
+// state transitions. account-session.test.mjs covers sign-in and the protocol flow.
 
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
@@ -17,7 +17,7 @@ function makeChrome({ auth = null, arch = null } = {}) {
         set:    async (o) => Object.assign(local, o),
         remove: async (k) => { delete local[k]; },
       },
-      session: { get: async () => ({}), set: async () => {} },
+      session: { get: async () => ({}), set: async () => {}, remove: async () => {} },
     },
   };
 }
@@ -39,7 +39,7 @@ test('authStatus: not signed in → { signedIn: false } with default arch', asyn
 
 test('authStatus: signed in returns profile fields + age + stale flag', async () => {
   const fresh = {
-    authToken: 'abc', email: 'x@y', gsfId: 'gsf',
+    accountType: 'personal', aasToken: 'aas_et/test', authToken: 'abc', email: 'x@y', gsfId: 'gsf',
     _profileKey: 'pk', _profileLabel: 'Pixel 9a', _profileArch: 'arm64-v8a',
     _obtainedAt: Date.now(),
   };
@@ -57,7 +57,7 @@ test('authStatus: signed in returns profile fields + age + stale flag', async ()
 
 test('authStatus: marks stale when older than TTL (4 h)', async () => {
   const old = {
-    authToken: 'abc',
+    accountType: 'personal', aasToken: 'aas_et/test', authToken: 'abc',
     _obtainedAt: Date.now() - 5 * 60 * 60 * 1000, // 5 hours ago
   };
   const sw = loadAuth(makeChrome({ auth: old }));
@@ -66,13 +66,13 @@ test('authStatus: marks stale when older than TTL (4 h)', async () => {
 });
 
 test('authStatus: defaults profileArch to arm64-v8a when missing', async () => {
-  const sw = loadAuth(makeChrome({ auth: { authToken: 't', _obtainedAt: 0 } }));
+  const sw = loadAuth(makeChrome({ auth: { accountType: 'personal', aasToken: 'aas_et/test', authToken: 't', _obtainedAt: 0 } }));
   const s = await sw.authStatus();
   assert.equal(s.profileArch, 'arm64-v8a');
 });
 
 test('authSignOut: clears stored auth and returns { signedIn: false }', async () => {
-  const sw = loadAuth(makeChrome({ auth: { authToken: 't', _obtainedAt: 0 } }));
+  const sw = loadAuth(makeChrome({ auth: { accountType: 'personal', aasToken: 'aas_et/test', authToken: 't', _obtainedAt: 0 } }));
   // Sanity: starts signed in.
   assert.equal((await sw.authStatus()).signedIn, true);
   const s = await sw.authSignOut();
@@ -82,7 +82,7 @@ test('authSignOut: clears stored auth and returns { signedIn: false }', async ()
 
 test('authSignOut: preserves the arch preference', async () => {
   const sw = loadAuth(makeChrome({
-    auth: { authToken: 't', _obtainedAt: 0 },
+    auth: { accountType: 'personal', aasToken: 'aas_et/test', authToken: 't', _obtainedAt: 0 },
     arch: 'armeabi-v7a',
   }));
   const s = await sw.authSignOut();

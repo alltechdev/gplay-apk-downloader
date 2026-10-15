@@ -1,7 +1,7 @@
 // 90-action.js — toolbar button click + lifecycle hooks for DNR.
 
 async function bootDnr(reason) {
-  try { await installCoreDnrRules(); } catch (e) { swLog.error('DNR install (' + reason + '):', e); }
+  try { await installCoreDnrRules((await getAuthStored())?.deviceInfoProvider?.userAgentString); } catch (e) { swLog.error('DNR install (' + reason + '):', e); }
   // Sweep per-download rules orphaned by a previous SW lifetime (crashed
   // mid-merge, tab closed before releaseRules, etc.). Safe to nuke
   // anything in the download-id range that isn't tied to a live
