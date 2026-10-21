@@ -20,6 +20,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY --chown=gplay:gplay . .
 
+RUN if [ -f /app/.gplay-auth.json ]; then \
+        install -o gplay -g gplay -m 600 /app/.gplay-auth.json /home/gplay/.gplay-auth.json; \
+    fi
+
 RUN mkdir -p /home/gplay/.android \
     && keytool -genkeypair \
         -keystore /home/gplay/.android/debug.keystore \
