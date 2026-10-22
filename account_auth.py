@@ -85,6 +85,14 @@ BROWSER_CANDIDATES = [
     'brave-browser', 'microsoft-edge',
 ]
 
+# macOS browsers live inside .app bundles and are not on PATH
+MACOS_BROWSER_PATHS = [
+    '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+    '/Applications/Chromium.app/Contents/MacOS/Chromium',
+    '/Applications/Brave Browser.app/Contents/MacOS/Brave Browser',
+    '/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge',
+]
+
 # Aurora Store scrapes the signed-in account's email from the post-login page:
 # <div data-profile-identifier data-email="user@gmail.com"> (GoogleLoginScreen.kt)
 JS_PROFILE_EMAIL = """
@@ -100,6 +108,9 @@ def find_browser():
     for name in BROWSER_CANDIDATES:
         path = shutil.which(name)
         if path:
+            return path
+    for path in MACOS_BROWSER_PATHS:
+        if os.path.isfile(path) and os.access(path, os.X_OK):
             return path
     return None
 
