@@ -85,12 +85,18 @@ BROWSER_CANDIDATES = [
     'brave-browser', 'microsoft-edge',
 ]
 
-# macOS browsers live inside .app bundles and are not on PATH
+# macOS browsers live inside .app bundles and are not on PATH.
+# System-wide /Applications first, then per-user ~/Applications.
+_MACOS_APP_BINARIES = [
+    'Google Chrome.app/Contents/MacOS/Google Chrome',
+    'Chromium.app/Contents/MacOS/Chromium',
+    'Brave Browser.app/Contents/MacOS/Brave Browser',
+    'Microsoft Edge.app/Contents/MacOS/Microsoft Edge',
+]
 MACOS_BROWSER_PATHS = [
-    '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-    '/Applications/Chromium.app/Contents/MacOS/Chromium',
-    '/Applications/Brave Browser.app/Contents/MacOS/Brave Browser',
-    '/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge',
+    os.path.join(apps_dir, binary)
+    for apps_dir in ('/Applications', os.path.expanduser('~/Applications'))
+    for binary in _MACOS_APP_BINARIES
 ]
 
 # Aurora Store scrapes the signed-in account's email from the post-login page:
