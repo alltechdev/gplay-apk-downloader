@@ -266,6 +266,36 @@ def test_webui(base):
     check('webui surfaces BadAuthentication for wrong token', 'BadAuthentication' in body, body[:200])
 
 
+def test_find_browser_app_bundle_fallback():
+    print('\n[3b] find_browser falls back to macOS .app bundle paths when PATH has none')
+    import shutil
+    import account_auth
+
+    real_which = shutil.which
+    real_paths = getattr(account_auth, 'MACOS_BROWSER_PATHS', None)
+    with tempfile.TemporaryDirectory() as tmp:
+        fake = os.path.join(tmp, 'Google Chrome')
+        Path(fake).write_text('#!/bin/sh\n')
+        os.chmod(fake, 0o755)
+        not_exec = os.path.join(tmp, 'Not Executable')
+        Path(not_exec).write_text('')
+        try:
+            shutil.which = lambda name, *a, **kw: None
+            account_auth.MACOS_BROWSER_PATHS = [os.path.join(tmp, 'missing'), not_exec, fake]
+            found = account_auth.find_browser()
+            check('find_browser returns first executable .app bundle path', found == fake, repr(found))
+
+            account_auth.MACOS_BROWSER_PATHS = [not_exec]
+            found = account_auth.find_browser()
+            check('find_browser returns None when nothing executable exists', found is None, repr(found))
+        finally:
+            shutil.which = real_which
+            if real_paths is None:
+                account_auth.__dict__.pop('MACOS_BROWSER_PATHS', None)
+            else:
+                account_auth.MACOS_BROWSER_PATHS = real_paths
+
+
 def test_browser_capture(base):
     print('\n[4] Automatic browser capture (real headless Chrome + CDP) against mock login page')
     import account_auth
@@ -415,6 +445,7 @@ def main():
         test_module(base)
         test_cli(base)
         test_webui(base)
+        test_find_browser_app_bundle_fallback()
         test_browser_capture(base)
         test_webui_browser_mode()
         test_dispenser_per_arch(base)
