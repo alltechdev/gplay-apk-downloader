@@ -1,0 +1,18 @@
+.venv/
+.venv-legacy/
+node_modules/
+dist/
+tests/logs/
+tests/fixtures/*.bin
+*.xpi
+*.zip
+# E2E screenshots are dev-loop artifacts — never commit.
+screenshots/
+# Raw stderr / devtools-console error dumps must not be committed.
+error.txt
+errors.txt
+*.error.txt
+*.errors.txt
+
+# Local test-browser profile, debugging endpoint, logs and downloaded APKs.
+.local/
