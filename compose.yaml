@@ -1,0 +1,21 @@
+services:
+  gplay-downloader:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: gplay-apk-downloader:local
+    container_name: gplay-apk-downloader
+    restart: unless-stopped
+    ports:
+      - "${PORT:-3080}:${PORT:-3080}"
+    environment:
+      PORT: "${PORT:-3080}"
+      LOG_LEVEL: "${LOG_LEVEL:-INFO}"
+      CORS_ORIGINS: "${CORS_ORIGINS:-}"
+      DISPENSER_URL: "${DISPENSER_URL:-}"
+      DISABLE_APP_PAGES: "${DISABLE_APP_PAGES:-0}"
+    volumes:
+      - gplay-data:/home/gplay
+
+volumes:
+  gplay-data:
