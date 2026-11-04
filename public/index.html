@@ -23,7 +23,7 @@
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" integrity="sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG" crossorigin="anonymous"></script>
   <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
   <link rel="icon" type="image/png" href="/favicon-192.png" sizes="192x192">
-  <link rel="stylesheet" href="/style.css?v=4">
+  <link rel="stylesheet" href="/style.css?v=5">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -62,14 +62,32 @@
       <p class="hint" style="margin:6px 0 10px">
         Sign in with your own (burner) Google account instead of a token dispenser.
       </p>
-      <button class="btn-primary" id="google-browser-btn" onclick="googleLogin(true)" style="width:100%">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
-        Sign in with Google
-      </button>
+      <div id="google-token-login">
+        <p class="hint">Open Google on this device, then return here with a sign-in token. This server cannot read cookies from your browser.</p>
+        <a class="btn-secondary" href="https://accounts.google.com/EmbeddedSetup" target="_blank" rel="noopener noreferrer" style="display:flex;justify-content:center;margin:12px 0;min-height:44px">Open Google sign-in</a>
+        <details style="margin-bottom:12px">
+          <summary style="cursor:pointer;padding:10px 0">How to get a sign-in token</summary>
+          <p class="hint">After signing in, use your browser’s developer tools: Application / Storage → Cookies → accounts.google.com. Copy <code>oauth_token</code> (starts with <code>oauth2_4/</code>) and paste it below immediately. It expires quickly and is single-use. A blank page after Google sign-in is normal.</p>
+          <p class="hint">Standard phone browsers do not include cookie inspection. If yours cannot inspect cookies, use a desktop browser to obtain the token, then submit it here. You can also paste an existing AAS token (<code>aas_et/</code>). There is no automatic Google redirect back to this page.</p>
+        </details>
+        <form id="google-token-form" onsubmit="event.preventDefault(); googleLogin()">
+          <label for="google-email">Google account email</label>
+          <input type="email" id="google-email" autocomplete="username" inputmode="email" required style="font-size:16px">
+          <label for="google-token">OAuth or AAS token</label>
+          <input type="password" id="google-token" autocomplete="off" spellcheck="false" autocapitalize="none" required aria-describedby="google-token-help" style="font-size:16px">
+          <p class="hint" id="google-token-help" style="margin-bottom:12px">Paste the token value only. Your Google password is never needed here.</p>
+          <button type="submit" class="btn-primary" id="google-token-btn" style="width:100%;min-height:44px">Connect Google account</button>
+        </form>
+        <details style="margin-top:12px">
+          <summary style="cursor:pointer;padding:10px 0">Running the server on this computer?</summary>
+          <p class="hint">If this server runs on the computer you are using, you can capture the token automatically with a local Chromium browser. This opens a window on the server machine.</p>
+          <button type="button" class="btn-secondary" id="google-browser-btn" onclick="googleLogin(true)" style="width:100%;min-height:44px">Sign in using server browser</button>
+        </details>
+      </div>
       <button class="btn-secondary" id="google-signout-btn" onclick="googleSignOut()" style="width:100%;display:none">
         Sign out
       </button>
-      <div id="google-login-result" class="hint" style="margin-top:8px"></div>
+      <div id="google-login-result" role="status" aria-live="polite" class="hint" style="margin-top:8px"></div>
     </div>
 
     <!-- ADB Device -->
@@ -211,6 +229,6 @@
   </div>
 
   <script type="module" src="/adb.js"></script>
-  <script src="/app.js?v=4"></script>
+  <script src="/app.js?v=5"></script>
 </body>
 </html>

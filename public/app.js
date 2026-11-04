@@ -884,10 +884,10 @@
         const signoutBtn = $('#google-signout-btn');
         if (d.accountType === 'personal' && d.email) {
           resultEl.innerHTML = 'Signed in as <b>' + esc(d.email) + '</b>.';
-          $('#google-browser-btn').style.display = 'none';
+          $('#google-token-login').style.display = 'none';
           signoutBtn.style.display = '';
         } else {
-          $('#google-browser-btn').style.display = '';
+          $('#google-token-login').style.display = '';
           signoutBtn.style.display = 'none';
         }
       } catch (e) { /* status is cosmetic */ }
@@ -906,21 +906,29 @@
       refreshGoogleStatus();
     }
 
-    async function googleLogin() {
+    async function googleLogin(useBrowser = false) {
       const resultEl = $('#google-login-result');
-      const btn = $('#google-browser-btn');
+      const btn = $(useBrowser ? '#google-browser-btn' : '#google-token-btn');
 
+      const email = $('#google-email').value.trim();
+      const token = $('#google-token').value.trim();
+      if (!useBrowser && (!email || !/^(oauth2_4\/|aas_et\/)/.test(token))) {
+        resultEl.textContent = 'Enter your account email and a token starting with oauth2_4/ or aas_et/.';
+        return;
+      }
+      const payload = useBrowser ? { browser: true } : { email };
+      if (!useBrowser) payload[token.startsWith('aas_et/') ? 'aasToken' : 'oauthToken'] = token;
       btn.disabled = true;
       $('#log-panel').classList.add('open');
       setLogActive(true);
-      log('Google sign-in started - a browser window will open on the server machine');
-      resultEl.textContent = 'A browser window is opening - sign in there...';
+      log(useBrowser ? 'Google sign-in started - a browser window will open on the server machine' : 'Connecting Google account using the supplied token');
+      resultEl.textContent = useBrowser ? 'A browser window is opening - sign in there...' : 'Connecting account…';
 
       try {
         const resp = await fetch('/api/auth/google', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ browser: true })
+          body: JSON.stringify(payload)
         });
         if (resp.status === 400) {
           const err = await resp.json();
@@ -947,6 +955,7 @@
             } else if (d.type === 'success') {
               log('Signed in as ' + d.email + (d.validated ? ' (token validated against Play API)' : ' (token saved but validation failed - may be limited)'), d.validated ? 'ok' : 'warn');
               resultEl.innerHTML = 'Signed in as <b>' + esc(d.email) + '</b>. Downloads now use this account.';
+              $('#google-token').value = '';
               refreshGoogleStatus();
             } else if (d.type === 'error') {
               log('Google sign-in failed: ' + d.message, 'err');

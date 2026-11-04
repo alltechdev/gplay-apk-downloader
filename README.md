@@ -135,15 +135,23 @@ The top card of the web UI lets you sign in with your own Google account instead
 
 **How it works** (same flow as Aurora Store's personal login):
 
-1. Click **Sign in with Google**. A browser window opens on the server machine at Google's Android device sign-in page (`accounts.google.com/EmbeddedSetup`).
-2. Sign in (complete 2-step verification if asked). The `oauth_token` cookie and account email are captured automatically, and the window closes.
-3. The token is exchanged for a long-lived AAS token, two virtual devices are registered (ARM64: Pixel 9a, ARMv7: Samsung J5 Prime), and Play auth tokens are issued for both. Every step streams into the activity log.
+For a remote server (including access from a phone):
+
+1. Click **Open Google sign-in** to open Google's Android device sign-in page in your own browser.
+2. Sign in, then use the browser's developer tools → Application/Storage → Cookies → accounts.google.com to copy the `oauth_token` cookie. A blank or ToS page after sign-in is normal.
+3. Return to the downloader, enter the same account email, paste the token, and click **Connect Google account**. OAuth tokens start with `oauth2_4/`, expire quickly, and are single-use. An existing AAS token starting with `aas_et/` also works.
+
+Standard phone browsers do not include cookie inspection. If your browser cannot inspect cookies, obtain the token with a desktop browser and submit it through the web UI. Opening Google does not automatically redirect back or let this app read Google's cookies.
+
+For a server running on the computer you are using, expand **Running the server on this computer?** and click **Sign in using server browser**. The existing Chromium-based automatic capture flow remains available.
+
+Both methods use the existing authentication endpoint to exchange the token, register ARM64 and ARMv7 virtual devices, and stream progress into the activity log. No Google password is submitted to the downloader.
 
 Notes:
 
-- Browser sign-in requires the server to run on the machine you're sitting at (it needs a local Chromium-based browser). On a remote server, POST `email` + `oauthToken`/`aasToken` to `/api/auth/google` instead.
+- Automatic browser capture requires Chromium on the server machine. Manual token entry uses the same `email` + `oauthToken`/`aasToken` payload supported by `/api/auth/google`.
 - The sign-in window uses a persistent profile (`~/.gplay-login-profile`), so 2-step verification is usually only needed the first time.
-- The long-lived AAS token is stored in the auth cache. If the Play session goes stale, downloads refresh it automatically — no re-login. Re-clicking **Sign in with Google** also reuses it without opening a browser.
+- The long-lived AAS token is stored in the auth cache. If the Play session goes stale, downloads refresh it automatically — no re-login. Re-clicking **Sign in using server browser** also reuses it without opening a browser.
 - **Sign out** clears the cached tokens for both architectures.
 
 ### WebUSB ADB (Chrome/Edge only)
