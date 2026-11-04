@@ -1008,3 +1008,8 @@
     }
     #google-login-card .hint a { color: inherit; text-decoration: underline; }
     #google-login-card code { word-break: break-all; }
+
+/* Remote Google token form follows the existing input styling. */
+#google-token-form input { width:100%; padding:12px 14px; border:1px solid var(--border); border-radius:var(--radius); background:var(--bg-input); color:var(--text-primary); margin:6px 0 12px; }
+#google-token-form input:focus-visible { outline:2px solid var(--accent-dim); outline-offset:2px; }
+#google-token-login code { overflow-wrap:anywhere; }
